@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://getbible.net/v2/cnt/36/1.json",
+    "sha": "ba7daf75fe4d6237e5f113c490da47968919ba0a"
+  },
+  "2": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://getbible.net/v2/cnt/36/2.json",
+    "sha": "9c892332ec2ea78b16f87a776d55544afe275ca0"
+  },
+  "3": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://getbible.net/v2/cnt/36/3.json",
+    "sha": "8934a866b840ab373efe29716a9b3c88eb48547b"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/coptic/53/1.json",
+    "sha": "1210a3a43dd9c082002cddadad8f611d707cadf8"
+  },
+  "2": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/coptic/53/2.json",
+    "sha": "d6eb5baaf762ffb340a7d8beb20d76c0fc1c33b4"
+  },
+  "3": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/coptic/53/3.json",
+    "sha": "b244fa8bfd1b0eccf23d4fe7e5a07e9d1e744b2c"
+  }
+}

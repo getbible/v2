@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://getbible.net/v2/vulgate/36/1.json",
+    "sha": "24d71613b1eaf034346395db65f64351f37a1f3a"
+  },
+  "2": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://getbible.net/v2/vulgate/36/2.json",
+    "sha": "3c095388664d3ba0297cb7f904a47770c98a22b1"
+  },
+  "3": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://getbible.net/v2/vulgate/36/3.json",
+    "sha": "aca606477facbfbebd3f69a5fd477e06964a5f54"
+  }
+}

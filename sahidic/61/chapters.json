@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/sahidic/61/1.json",
+    "sha": "f135cf6595bfede337dad4330cf0a805e532ef19"
+  },
+  "2": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/sahidic/61/2.json",
+    "sha": "1ace851eefe5f9000b0707f1f350902ded167a39"
+  },
+  "3": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/sahidic/61/3.json",
+    "sha": "259b7928b4b1a859bd235422a6e1e62f978a8724"
+  }
+}

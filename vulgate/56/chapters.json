@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/vulgate/56/1.json",
+    "sha": "7104037366ba3a287c6cbd0208fdca50185092b5"
+  },
+  "2": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/vulgate/56/2.json",
+    "sha": "69b2397eecc7056cc6e5e008bae06ac036e38ecf"
+  },
+  "3": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/vulgate/56/3.json",
+    "sha": "9a215ea7d62554390b9785ecebac6ca2a77a32c7"
+  }
+}

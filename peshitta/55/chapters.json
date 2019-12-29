@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://getbible.net/v2/peshitta/55/1.json",
+    "sha": "79c3a11c786239194f9df32a726dc7ab6b71bee5"
+  },
+  "2": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://getbible.net/v2/peshitta/55/2.json",
+    "sha": "c0603b26917714607cb346eca377ecbf10bdf8c0"
+  },
+  "3": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://getbible.net/v2/peshitta/55/3.json",
+    "sha": "2eb2db00da2f67f24bc434ed69781c85fecf8bdf"
+  },
+  "4": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://getbible.net/v2/peshitta/55/4.json",
+    "sha": "cb8b14ecdfdbc72c3e3af9d5e89a636a4df5b3e9"
+  }
+}

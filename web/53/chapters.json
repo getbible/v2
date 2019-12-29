@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/web/53/1.json",
+    "sha": "3c0384ef4b3941d3e61ad5664367d56f18deb44b"
+  },
+  "2": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/web/53/2.json",
+    "sha": "9e3cec277755ed1ad858560c52a913668ab8c9cc"
+  },
+  "3": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/web/53/3.json",
+    "sha": "4c4c07f582c31e66f539f786cdb7dd8ef0804c2b"
+  }
+}

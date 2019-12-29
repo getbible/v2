@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/modernhebrew/56/1.json",
+    "sha": "4d867d46bafb1de1c7800bc8db1fe1bb150a76f5"
+  },
+  "2": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/modernhebrew/56/2.json",
+    "sha": "9a7205d083c591013324e2558701631087bf3539"
+  },
+  "3": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/modernhebrew/56/3.json",
+    "sha": "2497408d22233ef78e58a2a54782d9742c282420"
+  }
+}

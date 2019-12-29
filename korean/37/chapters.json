@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://getbible.net/v2/korean/37/1.json",
+    "sha": "a5d8eb723bf251ddc0cc208d82a9563ce3095bc9"
+  },
+  "2": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://getbible.net/v2/korean/37/2.json",
+    "sha": "e7db6799627ecca2329491c0bc88a736a98bcb5d"
+  }
+}

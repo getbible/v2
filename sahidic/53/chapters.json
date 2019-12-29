@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/sahidic/53/1.json",
+    "sha": "68485b5d2b97132cec2a927d5b8a56ece580f86c"
+  },
+  "2": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/sahidic/53/2.json",
+    "sha": "18e29567bb1778dec071a943a7227b86bb475534"
+  },
+  "3": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/sahidic/53/3.json",
+    "sha": "234ee57f9afbee98d734bc8947aa61ced0c1051b"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://getbible.net/v2/arabicsv/36/1.json",
+    "sha": "7c21f8006567ff1e4c32681e917a1fb51467045e"
+  },
+  "2": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://getbible.net/v2/arabicsv/36/2.json",
+    "sha": "d56b8203756a481d1b75510b611d1d7be8fa6d7a"
+  },
+  "3": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://getbible.net/v2/arabicsv/36/3.json",
+    "sha": "8469f8eadecee0d7f7f076c3587d82556f92c462"
+  }
+}

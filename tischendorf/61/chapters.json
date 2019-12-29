@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/tischendorf/61/1.json",
+    "sha": "0990b3543a5d3c4eb72808c2128c4d1d5df8a168"
+  },
+  "2": {
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/tischendorf/61/2.json",
+    "sha": "1a81724900a4fb6e58914fbf7156cd2656f7c3b4"
+  },
+  "3": {
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/tischendorf/61/3.json",
+    "sha": "0c15aa7708d0e5106d5a8295495c8d86c4adbafb"
+  }
+}

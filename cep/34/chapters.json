@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://getbible.net/v2/cep/34/1.json",
+    "sha": "cac79e78b508d2c717be84fb807b4925011eaa1f"
+  },
+  "2": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://getbible.net/v2/cep/34/2.json",
+    "sha": "376dfdaf6389b67ef1c0160eca702b3f622420a0"
+  },
+  "3": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://getbible.net/v2/cep/34/3.json",
+    "sha": "e7e11b45c012e05f96c5bade047ba6f8a5057806"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/karoli/29/1.json",
+    "sha": "96b4144ada6fe3bef2c9ef05d8c825890f366787"
+  },
+  "2": {
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/karoli/29/2.json",
+    "sha": "a5c0935f524f2ea7efec87e34a3654f41a634276"
+  },
+  "3": {
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/karoli/29/3.json",
+    "sha": "6469887256194754b89adad46703cd91c41e1c33"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://getbible.net/v2/peshitta/51/1.json",
+    "sha": "81886385bb0ea3dbe4afb48b53656dcaa1488e25"
+  },
+  "2": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://getbible.net/v2/peshitta/51/2.json",
+    "sha": "31927083d2d475230f98081af7296a5e8ef7b7a9"
+  },
+  "3": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://getbible.net/v2/peshitta/51/3.json",
+    "sha": "d536ce440b1ef6e86ecfc15d857502c82f0bd71c"
+  },
+  "4": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://getbible.net/v2/peshitta/51/4.json",
+    "sha": "c59e2e08adcd2893806782e6fadc07b40befbb6a"
+  }
+}

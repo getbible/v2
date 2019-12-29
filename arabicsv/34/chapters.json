@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://getbible.net/v2/arabicsv/34/1.json",
+    "sha": "a1b1d30651ee6449371e0adfc73fedd68caf78aa"
+  },
+  "2": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://getbible.net/v2/arabicsv/34/2.json",
+    "sha": "ec06834a0bfb32058786fbf73087b78dede35d59"
+  },
+  "3": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://getbible.net/v2/arabicsv/34/3.json",
+    "sha": "7ac1ee9544e8c58d15404474beeaf75d1708a3a8"
+  }
+}

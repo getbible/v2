@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "lang": "br",
+    "language": "Breton",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/breton/56/1.json",
+    "sha": "4bff631ade1c68b86de5f94b56167693c54f1ce6"
+  },
+  "2": {
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "lang": "br",
+    "language": "Breton",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/breton/56/2.json",
+    "sha": "9035985033f2dfe8a5bfdd78af2870d55bf78d5b"
+  },
+  "3": {
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "lang": "br",
+    "language": "Breton",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/breton/56/3.json",
+    "sha": "66ebe56794bdce9100cda32897ff92428481e4ca"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "lang": "hr",
+    "language": "Croatian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/croatia/56/1.json",
+    "sha": "dbb56529a74e8ed38d4264b3fc3acdb9c24c41b1"
+  },
+  "2": {
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "lang": "hr",
+    "language": "Croatian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/croatia/56/2.json",
+    "sha": "4fc0d3c7b9a2b4db3a88718ddb9c96d71230f8e7"
+  },
+  "3": {
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "lang": "hr",
+    "language": "Croatian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/croatia/56/3.json",
+    "sha": "0605894ca01e7efa02a73f3654cbf1722fdd6e6f"
+  }
+}

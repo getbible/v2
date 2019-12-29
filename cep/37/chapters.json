@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://getbible.net/v2/cep/37/1.json",
+    "sha": "52cd7e2a03c9bcc7a0acd61d4709e1c6160cfe90"
+  },
+  "2": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://getbible.net/v2/cep/37/2.json",
+    "sha": "37dbdc1b1a7326e4650de269ecbbb179b1280e52"
+  }
+}

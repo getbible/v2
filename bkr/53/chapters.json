@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/bkr/53/1.json",
+    "sha": "c7e75eac03198150c2d79bcdacdbf43451061bf2"
+  },
+  "2": {
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/bkr/53/2.json",
+    "sha": "614a3ef18df97282b4ab2f45f0288f7fe254b7b2"
+  },
+  "3": {
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/bkr/53/3.json",
+    "sha": "0e7e880c635d610a0257d89cde2882af83d9dcfb"
+  }
+}

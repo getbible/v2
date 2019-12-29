@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/peshitta/61/1.json",
+    "sha": "ef94822e04f52bf7fa4bb56650f0c87e98aac0c0"
+  },
+  "2": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/peshitta/61/2.json",
+    "sha": "9bb47a560d48e6d4bdb437007c7a4f638fe13e13"
+  },
+  "3": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/peshitta/61/3.json",
+    "sha": "15b1e028a2a4e933503262460ae6cf280e1a5be6"
+  }
+}

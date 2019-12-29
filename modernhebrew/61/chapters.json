@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/modernhebrew/61/1.json",
+    "sha": "cf19db66a3cb4cea91aeaa45e913f8a1ccead555"
+  },
+  "2": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/modernhebrew/61/2.json",
+    "sha": "05dd8292d546bb05af508f181c821426796e3d01"
+  },
+  "3": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/modernhebrew/61/3.json",
+    "sha": "43662e8ef1d5777682467f37f2806f1a04a08398"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/modernhebrew/29/1.json",
+    "sha": "fd0a89eea196c7beb60c450bac13a40fae062e96"
+  },
+  "2": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/modernhebrew/29/2.json",
+    "sha": "7a1684e05378388cc5b21057a943c1c2c3e6aee5"
+  },
+  "3": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/modernhebrew/29/3.json",
+    "sha": "5a782f9f9907fd30df4e3a52e795bd00bd35afc6"
+  }
+}

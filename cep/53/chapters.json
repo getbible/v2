@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/cep/53/1.json",
+    "sha": "b452ac4fdae2a8503878bbdf0a4d6736fcf57106"
+  },
+  "2": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/cep/53/2.json",
+    "sha": "1956fc63d0b88f211ce6885b636aaf3f9da686fe"
+  },
+  "3": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/cep/53/3.json",
+    "sha": "4a29aac6b930080a9940f8733e16e6f03abc909a"
+  }
+}

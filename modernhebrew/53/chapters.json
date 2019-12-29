@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/modernhebrew/53/1.json",
+    "sha": "9b512e4b85b4f6bbc97e7440f10e70f7b3b0b2c1"
+  },
+  "2": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/modernhebrew/53/2.json",
+    "sha": "6249a40b1badf16588a59fb83dc24fcb4f342990"
+  },
+  "3": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/modernhebrew/53/3.json",
+    "sha": "9aee469d4f464c66aa75b8ed7b84c9065d1c7778"
+  }
+}

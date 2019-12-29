@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/arabicsv/56/1.json",
+    "sha": "bb9a248fa578e40859e6c298b31edcc1eb5bb456"
+  },
+  "2": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/arabicsv/56/2.json",
+    "sha": "1adad78a41ac13f32479f0fd5ae6a33412d4fc8c"
+  },
+  "3": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/arabicsv/56/3.json",
+    "sha": "271c204075b6a00fde94ccb5ede596b10ffda57e"
+  }
+}

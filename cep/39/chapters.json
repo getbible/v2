@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://getbible.net/v2/cep/39/1.json",
+    "sha": "af7cab68333fa263e11d771c1d0b095ae522a0b2"
+  },
+  "2": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://getbible.net/v2/cep/39/2.json",
+    "sha": "19faab1701d60dac71cf05b1fa02b01294deb7ef"
+  },
+  "3": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://getbible.net/v2/cep/39/3.json",
+    "sha": "3f88c842e09061cc2b691db0ffe01a7d2c99b25d"
+  }
+}

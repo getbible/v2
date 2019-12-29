@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/tischendorf/56/1.json",
+    "sha": "a4ec2945f78c5368b285ebaffe984f6495bdffbe"
+  },
+  "2": {
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/tischendorf/56/2.json",
+    "sha": "0c509b18d0b08d406c7822fba5bdacfd6ce65128"
+  },
+  "3": {
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/tischendorf/56/3.json",
+    "sha": "f50c03b9b82de79b30e6b46d9a8ea5264142084a"
+  }
+}

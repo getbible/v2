@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://getbible.net/v2/web/32/1.json",
+    "sha": "6534be3d8f64019a3eb124df5722312b6eb9e0ca"
+  },
+  "2": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://getbible.net/v2/web/32/2.json",
+    "sha": "af82b476bb94b9a813099769228e65d6b6495dfe"
+  },
+  "3": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://getbible.net/v2/web/32/3.json",
+    "sha": "fdfc42280ec716b48fa89aa4685c053479fec66a"
+  },
+  "4": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://getbible.net/v2/web/32/4.json",
+    "sha": "550e6e481c52148d18018a7c14b123f86a7cdaf5"
+  }
+}

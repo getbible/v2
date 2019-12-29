@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/peshitta/56/1.json",
+    "sha": "533be3336d3639f3fcfa5b784e1930625042e862"
+  },
+  "2": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/peshitta/56/2.json",
+    "sha": "54b6b1750e728e1bb14f99666e8c8e3dde7530c8"
+  },
+  "3": {
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "lang": "syr",
+    "language": "Syriac",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/peshitta/56/3.json",
+    "sha": "7c563af14f6aab06edfdb2f6c4ff0c5463d55e8b"
+  }
+}

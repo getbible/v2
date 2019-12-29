@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://getbible.net/v2/cnt/34/1.json",
+    "sha": "b82105d30742f0934f4b077d498a4690e61c5175"
+  },
+  "2": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://getbible.net/v2/cnt/34/2.json",
+    "sha": "10c7f116ce64dc9a0bcce7944cd4fdcfef8c2886"
+  },
+  "3": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://getbible.net/v2/cnt/34/3.json",
+    "sha": "45bf5ca7b74cc558d7840a6a80e0a83786fabe3c"
+  }
+}

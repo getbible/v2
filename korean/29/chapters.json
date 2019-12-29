@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/korean/29/1.json",
+    "sha": "9f587b0f6dbc3910979c1e9dabd6c097bb74acf7"
+  },
+  "2": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/korean/29/2.json",
+    "sha": "c9eb685bb1b99088abe026c78430f0ecb72081fe"
+  },
+  "3": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/korean/29/3.json",
+    "sha": "b443763d9356818b34cf22d87e7cbbf1fc1224d1"
+  }
+}

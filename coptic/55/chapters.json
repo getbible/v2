@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://getbible.net/v2/coptic/55/1.json",
+    "sha": "bfa993e77bb730e8a983621d18c93e127f5a1438"
+  },
+  "2": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://getbible.net/v2/coptic/55/2.json",
+    "sha": "f398e248b584eb01a7abeef2b17014cabe00c0b3"
+  },
+  "3": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://getbible.net/v2/coptic/55/3.json",
+    "sha": "cd2f55b0c92e363266a66ce17ab8823c7b46ee1b"
+  },
+  "4": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://getbible.net/v2/coptic/55/4.json",
+    "sha": "5d89bef79903dafceff9b30c53a586c5eb885241"
+  }
+}

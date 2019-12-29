@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://getbible.net/v2/cep/59/1.json",
+    "sha": "b7999da6c49f4bb579698ed64e520e11d0267a7f"
+  },
+  "2": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://getbible.net/v2/cep/59/2.json",
+    "sha": "1cd83e3fbefb956f834ce9e37fe360b95d9e5adc"
+  },
+  "3": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://getbible.net/v2/cep/59/3.json",
+    "sha": "c42cb3d0f9fd8fbf9f3493bc8f6420b7a072a309"
+  },
+  "4": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://getbible.net/v2/cep/59/4.json",
+    "sha": "b2fc7ca2be4d3928082078ab444dade82b7e2c5c"
+  },
+  "5": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://getbible.net/v2/cep/59/5.json",
+    "sha": "41bbec5d8eded0723fd954e62998eb9e4411276c"
+  }
+}

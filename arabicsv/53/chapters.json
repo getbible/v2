@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/arabicsv/53/1.json",
+    "sha": "aa82cf41f72ba2e7ac43f6bbaecc24b7fafa8015"
+  },
+  "2": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/arabicsv/53/2.json",
+    "sha": "fac2f7afc1734d3ff9b1f5495ce261ba9743ea08"
+  },
+  "3": {
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "lang": "ar",
+    "language": "Arabic",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/arabicsv/53/3.json",
+    "sha": "f8125a7408dfb806f388d1c05fdefb883c414fe9"
+  }
+}

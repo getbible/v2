@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/asv/56/1.json",
+    "sha": "1d569df293e5d5f5530b4f997a0b443f2b9a5235"
+  },
+  "2": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/asv/56/2.json",
+    "sha": "7551797f433a260f0addcdd2819005bf21ae42b0"
+  },
+  "3": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/asv/56/3.json",
+    "sha": "e2f24fa1553f41b3694c9e27fe4d2380fb0ebbe0"
+  }
+}

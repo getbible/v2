@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/cnt/61/1.json",
+    "sha": "21f8ac902625cbc415f33e99af78553c9926826a"
+  },
+  "2": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/cnt/61/2.json",
+    "sha": "b93b170ee86f0815c23adfd2e32874fcd4778d86"
+  },
+  "3": {
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "lang": "zh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/cnt/61/3.json",
+    "sha": "f475a7083096b6a3c64cd011ddfd5ae47276eb91"
+  }
+}

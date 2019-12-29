@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://getbible.net/v2/modernhebrew/34/1.json",
+    "sha": "eec4d88e165061021041017bd228d1a77e2fbd5c"
+  },
+  "2": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://getbible.net/v2/modernhebrew/34/2.json",
+    "sha": "0cc42741b6c882f04be0c6ed094c9f4972262255"
+  },
+  "3": {
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://getbible.net/v2/modernhebrew/34/3.json",
+    "sha": "977228a655aa57019a5ce25d0156b08c6686bc7d"
+  }
+}

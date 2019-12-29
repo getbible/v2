@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "lang": "es",
+    "language": "Spanish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/sse/56/1.json",
+    "sha": "d22698e6f1962c7e95f90bb27b05c6a53a09401b"
+  },
+  "2": {
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "lang": "es",
+    "language": "Spanish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/sse/56/2.json",
+    "sha": "de0136edbdc33cd1da9384b396a287e591f1844d"
+  },
+  "3": {
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "lang": "es",
+    "language": "Spanish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/sse/56/3.json",
+    "sha": "0b2f73241b491e1a5be918b39ccaf0bcb00c53e8"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://getbible.net/v2/coptic/50/1.json",
+    "sha": "797e011db8ea4be4c39e0b62ae94fa3bc60aa31a"
+  },
+  "2": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://getbible.net/v2/coptic/50/2.json",
+    "sha": "24c089879d072944d67b48eab7f870fb30b56230"
+  },
+  "3": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://getbible.net/v2/coptic/50/3.json",
+    "sha": "61fca5c3c796bc383b1234b1889dcad9e055b43e"
+  },
+  "4": {
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://getbible.net/v2/coptic/50/4.json",
+    "sha": "09ab95d4a9cafa0ac410367ea21e0b4e6dd07277"
+  }
+}

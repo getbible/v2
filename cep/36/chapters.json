@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://getbible.net/v2/cep/36/1.json",
+    "sha": "8c1493b9165cda5b9d1c8d26b866a452e2ed6204"
+  },
+  "2": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://getbible.net/v2/cep/36/2.json",
+    "sha": "8780f3b5efb6a9222340a9eda6add251105d8db1"
+  },
+  "3": {
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "lang": "cs",
+    "language": "Czech",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://getbible.net/v2/cep/36/3.json",
+    "sha": "e5a34e95e216c5c2e9294a09e47d0da3c6517fc5"
+  }
+}

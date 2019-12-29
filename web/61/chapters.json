@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/web/61/1.json",
+    "sha": "157b239ee9ab5893ed3a76d0fc3a664d1da8f66f"
+  },
+  "2": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/web/61/2.json",
+    "sha": "ab5b020608f268432c428eb2c0b08849e2ed9d2a"
+  },
+  "3": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/web/61/3.json",
+    "sha": "49d6265699b2736e7608723630c60cf7ce91b4b3"
+  }
+}

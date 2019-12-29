@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "lang": "br",
+    "language": "Breton",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/breton/61/1.json",
+    "sha": "0e1795f215ae1ab05ae76c583d413f3be8dc72f5"
+  },
+  "2": {
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "lang": "br",
+    "language": "Breton",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/breton/61/2.json",
+    "sha": "5dd3909d58369fcda6ee0f710249fe2aa0f6ee0c"
+  },
+  "3": {
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "lang": "br",
+    "language": "Breton",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/breton/61/3.json",
+    "sha": "600cf918657da6ff42a41c8e1453bc7553dabdb1"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/asv/29/1.json",
+    "sha": "f1a3808f18f02db98367d2084d226bd2b5dc15c1"
+  },
+  "2": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/asv/29/2.json",
+    "sha": "f8498c2da78c8924368b96d0d441831e3ac917b9"
+  },
+  "3": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/asv/29/3.json",
+    "sha": "e73e310826d739a9d026b3f475c5b0150705ee68"
+  }
+}

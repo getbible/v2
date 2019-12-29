@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/sahidic/56/1.json",
+    "sha": "816f5339fbd0f1be59171946b32a1a5b9ac6c790"
+  },
+  "2": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/sahidic/56/2.json",
+    "sha": "56d72c3646b15822eab4386f0e916fd8f5288b9c"
+  },
+  "3": {
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "lang": "cop",
+    "language": "Coptic",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/sahidic/56/3.json",
+    "sha": "cc6288fa9ab2319d623bd90c586ecf70776cce88"
+  }
+}

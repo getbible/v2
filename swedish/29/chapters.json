@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/swedish/29/1.json",
+    "sha": "db2aa784e106aa6298e76044900f673cc8e66f4f"
+  },
+  "2": {
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/swedish/29/2.json",
+    "sha": "1672708578fd9732cfa73c41512ea30362bce499"
+  },
+  "3": {
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/swedish/29/3.json",
+    "sha": "c0ef1ae28d9bec09cef0206d04b16760bf84fa46"
+  }
+}
