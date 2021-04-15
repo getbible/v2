@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "John 5",
     "url": "https://getbible.net/v2/tischendorf/43/5.json",
-    "sha": "f65b8c99d62c8696c004216538dad81dcc1ce9e1"
+    "sha": "6716ac0425ed9d6ebf0762c9327dea659386d60c"
   },
   "6": {
     "translation": "NT Tischendorf 8th Ed",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "John 8",
     "url": "https://getbible.net/v2/tischendorf/43/8.json",
-    "sha": "182783a0e9a9a6d63f1b4d571e39f4b4300f57b1"
+    "sha": "1a5f8353d512816bf7df063802f0b8c4c25d6773"
   },
   "9": {
     "translation": "NT Tischendorf 8th Ed",
@@ -291,6 +291,6 @@
     "chapter": 21,
     "name": "John 21",
     "url": "https://getbible.net/v2/tischendorf/43/21.json",
-    "sha": "d8c27a2ba6dbcefbf968c34974e0fd8800190f46"
+    "sha": "71bdfa96b1a3793d99d6a6f19ca80db717482e18"
   }
 }

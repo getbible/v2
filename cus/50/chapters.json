@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Philippians 1",
     "url": "https://getbible.net/v2/cus/50/1.json",
-    "sha": "fe621d40b0a52c64e7d30a531a3f8f26307ada5d"
+    "sha": "72bcabf995282e120915b44f094d2088d08bdaa8"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Philippians 2",
     "url": "https://getbible.net/v2/cus/50/2.json",
-    "sha": "cf5a7407c5029017d757f96980f34338653b7ecd"
+    "sha": "6e855e29d8fa72b8476528e48cf7d4706298bfdf"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Philippians 3",
     "url": "https://getbible.net/v2/cus/50/3.json",
-    "sha": "51ba4473ca96934dc47b05f08b197afcc9d99f6a"
+    "sha": "f2cc6c6f1249c8658c94b17f98f2aaa6d152d65a"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Philippians 4",
     "url": "https://getbible.net/v2/cus/50/4.json",
-    "sha": "4ec1966efc2e840f1446ee7f75d2bf08f3210e89"
+    "sha": "51686c8860bc9abcc9d790f6e8a3db97f49ee811"
   }
 }

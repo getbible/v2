@@ -1,18 +1,4 @@
 {
-  "1": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 52,
-    "book_name": "1 Thessalonians",
-    "chapter": 1,
-    "name": "1 Thessalonians 1",
-    "url": "https://getbible.net/v2/gothic/52/1.json",
-    "sha": "09fbdd1f60721bf8c57fb1b8f84163cdb0b0972d"
-  },
   "2": {
     "translation": "Gothic (Nehemiah NT Portions)",
     "abbreviation": "gothic",
@@ -25,7 +11,7 @@
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://getbible.net/v2/gothic/52/2.json",
-    "sha": "c0993c3209bacfc0facd8759ada4cbbd24669394"
+    "sha": "fd71b556d35909a68b15f7c6edff94098537ee4f"
   },
   "3": {
     "translation": "Gothic (Nehemiah NT Portions)",

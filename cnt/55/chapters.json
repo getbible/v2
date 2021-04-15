@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "2 Timothy 1",
     "url": "https://getbible.net/v2/cnt/55/1.json",
-    "sha": "af08d074801357e45114d226cb315896df559580"
+    "sha": "3355ade2f9b3f48f51eff397622aacecd2052388"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "2 Timothy 2",
     "url": "https://getbible.net/v2/cnt/55/2.json",
-    "sha": "d69179342bdc67e99a2cdf0240504cfa95b8032d"
+    "sha": "5d1c3191a6bb538be5e727153768e37b0f5d9bbc"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "2 Timothy 3",
     "url": "https://getbible.net/v2/cnt/55/3.json",
-    "sha": "ef3236649eea18534cf095e0ecc061a5ec9bb5fb"
+    "sha": "c2edf36c17b8fae869df9a9bb64afb7f65f19ee2"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "2 Timothy 4",
     "url": "https://getbible.net/v2/cnt/55/4.json",
-    "sha": "9cf44d8f6d1019a07077178b4195bd02ec8f99f1"
+    "sha": "f0dfa70ff3b59cc0261db55669bce5656626a710"
   }
 }

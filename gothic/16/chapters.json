@@ -1,60 +1,4 @@
 {
-  "1": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 1,
-    "name": "Nehemiah 1",
-    "url": "https://getbible.net/v2/gothic/16/1.json",
-    "sha": "32a594f49eeb95555caed5771ee9d44e014a63a1"
-  },
-  "2": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 2,
-    "name": "Nehemiah 2",
-    "url": "https://getbible.net/v2/gothic/16/2.json",
-    "sha": "a2eb86f3d9c0cad752ddd792d0752a56ebfb9f55"
-  },
-  "3": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 3,
-    "name": "Nehemiah 3",
-    "url": "https://getbible.net/v2/gothic/16/3.json",
-    "sha": "5245570fc5b1132927992a34b179deb5ae69eab3"
-  },
-  "4": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 4,
-    "name": "Nehemiah 4",
-    "url": "https://getbible.net/v2/gothic/16/4.json",
-    "sha": "957eed5e671ca1ae8dc3293abc38151570ca3d46"
-  },
   "5": {
     "translation": "Gothic (Nehemiah NT Portions)",
     "abbreviation": "gothic",
@@ -67,7 +11,7 @@
     "chapter": 5,
     "name": "Nehemiah 5",
     "url": "https://getbible.net/v2/gothic/16/5.json",
-    "sha": "476ddbdba3a96e9721e707c7f5ea2fe89f3ee602"
+    "sha": "530660ba72f599be27f5f89221460e70321c2402"
   },
   "6": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -81,7 +25,7 @@
     "chapter": 6,
     "name": "Nehemiah 6",
     "url": "https://getbible.net/v2/gothic/16/6.json",
-    "sha": "c02fe3c346f3d28bf316205d3ab1ef4cfbaf326c"
+    "sha": "3c437eefe922ebef2024cc4aabebb99e7a78d47a"
   },
   "7": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -95,90 +39,6 @@
     "chapter": 7,
     "name": "Nehemiah 7",
     "url": "https://getbible.net/v2/gothic/16/7.json",
-    "sha": "5eaa4a7523f4f8aaf6ed3b734e3f35b178e748bd"
-  },
-  "8": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 8,
-    "name": "Nehemiah 8",
-    "url": "https://getbible.net/v2/gothic/16/8.json",
-    "sha": "0b873f9469fcdc96d4ea734e2160c0e846c71265"
-  },
-  "9": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 9,
-    "name": "Nehemiah 9",
-    "url": "https://getbible.net/v2/gothic/16/9.json",
-    "sha": "16448c5e79959d77a2698eb63d1581fdf26bc724"
-  },
-  "10": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 10,
-    "name": "Nehemiah 10",
-    "url": "https://getbible.net/v2/gothic/16/10.json",
-    "sha": "9d358e0fc1e3985b75a068a86a51fe5b08eadd36"
-  },
-  "11": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 11,
-    "name": "Nehemiah 11",
-    "url": "https://getbible.net/v2/gothic/16/11.json",
-    "sha": "30777564f6a38f293ee996231d5ff12fa2885b87"
-  },
-  "12": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 12,
-    "name": "Nehemiah 12",
-    "url": "https://getbible.net/v2/gothic/16/12.json",
-    "sha": "24c68e557110ed045df3bd713cb8e5def64b8edf"
-  },
-  "13": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 16,
-    "book_name": "Nehemiah",
-    "chapter": 13,
-    "name": "Nehemiah 13",
-    "url": "https://getbible.net/v2/gothic/16/13.json",
-    "sha": "db80a4bc0ebb0d84327b6ae48975069338237633"
+    "sha": "485e0c85a39bdf049417a6a370eba07c830809cd"
   }
 }

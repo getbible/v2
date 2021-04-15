@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://getbible.net/v2/riveduta/30/1.json",
-    "sha": "08a66525867c48c8ca517ccfc1fab1b6831541bf"
+    "sha": "fe29271aeded214aa34bb97fc8eef67101153f20"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://getbible.net/v2/riveduta/30/2.json",
-    "sha": "282cf0fb901995aeaeeca082864b8832eb25d359"
+    "sha": "24872c2e16f8151b9e7ea2785aa59512fd625650"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://getbible.net/v2/riveduta/30/3.json",
-    "sha": "880a67d871aa749697caa704badde9bfdbbde1a0"
+    "sha": "fc2250f59afe26411e8a6a16475e4a4bf59fe841"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://getbible.net/v2/riveduta/30/4.json",
-    "sha": "3684f52f1372c5931e7b71bb6b718cdeb128fe36"
+    "sha": "6693abec53f30b9cbcda78cdc2507ddd907f733a"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -61,13 +61,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://getbible.net/v2/riveduta/30/5.json",
-    "sha": "cb9a2d1d58c4c61fd4e701f1daec3135997cc6a7"
+    "sha": "4d287b5a396e34507fb247ad69c54a3d03d71ddb"
   },
   "6": {
     "translation": "Riveduta Bible (1927)",
@@ -75,13 +75,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://getbible.net/v2/riveduta/30/6.json",
-    "sha": "e45d934c437f1173c293223ab2f4b7a146fcc155"
+    "sha": "bfd43ed96b247f743e97b1a68109843d9ea8ac7e"
   },
   "7": {
     "translation": "Riveduta Bible (1927)",
@@ -89,13 +89,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://getbible.net/v2/riveduta/30/7.json",
-    "sha": "13ded3c84c7a9b3919845dd1ebbce83b80798d5e"
+    "sha": "de4d6490d518e778e00f3a678a475d167bbb832a"
   },
   "8": {
     "translation": "Riveduta Bible (1927)",
@@ -103,13 +103,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://getbible.net/v2/riveduta/30/8.json",
-    "sha": "3f8a6db1f628f48f7ca8507d733ada1d798669ab"
+    "sha": "8bb5983b89ee0257dca6fa34b56806ce15d0536e"
   },
   "9": {
     "translation": "Riveduta Bible (1927)",
@@ -117,12 +117,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://getbible.net/v2/riveduta/30/9.json",
-    "sha": "68e6b84e007f3dfb90eb3e613eadb07543c633e6"
+    "sha": "887f9edfe389e21436b4e277fb72546154f8e07b"
   }
 }

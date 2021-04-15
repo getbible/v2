@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Malachi 1",
     "url": "https://getbible.net/v2/cns/39/1.json",
-    "sha": "cfbae6ab8fa403563d12c44aca9bcc16943e1610"
+    "sha": "c02755f7eb8c892d51ec85b6b47456db594f0d41"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Malachi 2",
     "url": "https://getbible.net/v2/cns/39/2.json",
-    "sha": "f298d0084c69f8954807bbef7f7b2df62e5ed1a4"
+    "sha": "bd647311dae175901ad2f684adec6484de62f6dd"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Malachi 3",
     "url": "https://getbible.net/v2/cns/39/3.json",
-    "sha": "2661f19b5a984fb22a4636a008acd62415338310"
+    "sha": "350067997c49bfa39026a4cc04d2406616bf853b"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Malachi 4",
     "url": "https://getbible.net/v2/cns/39/4.json",
-    "sha": "99a92009c6a4dc50b7abe6fdefb318a658e7bb39"
+    "sha": "9d398a256e79b9001db1fb2baeb859ecac5cbc99"
   }
 }

@@ -137,49 +137,7 @@
     "chapter": 10,
     "name": "Luke 10",
     "url": "https://getbible.net/v2/gothic/42/10.json",
-    "sha": "14ce5073653473c0fac433591360d6a58e243209"
-  },
-  "11": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 42,
-    "book_name": "Luke",
-    "chapter": 11,
-    "name": "Luke 11",
-    "url": "https://getbible.net/v2/gothic/42/11.json",
-    "sha": "a8c7c32dd502ba79fa4d8589cf3f1055648e008e"
-  },
-  "12": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 42,
-    "book_name": "Luke",
-    "chapter": 12,
-    "name": "Luke 12",
-    "url": "https://getbible.net/v2/gothic/42/12.json",
-    "sha": "e0222ece59ec80df153f350bf1fb0695ff21b812"
-  },
-  "13": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 42,
-    "book_name": "Luke",
-    "chapter": 13,
-    "name": "Luke 13",
-    "url": "https://getbible.net/v2/gothic/42/13.json",
-    "sha": "c39ff50a521eab40455b323c896c30d1c9464ac5"
+    "sha": "d604f9d703dab25a21e9419ab17de53d938ad88b"
   },
   "14": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -193,7 +151,7 @@
     "chapter": 14,
     "name": "Luke 14",
     "url": "https://getbible.net/v2/gothic/42/14.json",
-    "sha": "c5a949b53fda6660cbc2236a74f646b404061713"
+    "sha": "acf68fcb2731826c27308380a2588510efe16ba1"
   },
   "15": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -221,7 +179,7 @@
     "chapter": 16,
     "name": "Luke 16",
     "url": "https://getbible.net/v2/gothic/42/16.json",
-    "sha": "25260ae39eec7547146e2f5d6c7da8f928e8e046"
+    "sha": "20947c5db2cfb6db9a0c73e3d796697fa70caddf"
   },
   "17": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -235,7 +193,7 @@
     "chapter": 17,
     "name": "Luke 17",
     "url": "https://getbible.net/v2/gothic/42/17.json",
-    "sha": "2d5c9c84a4e504e426efdb42ab84bfcab8001216"
+    "sha": "d3628d336d4a1da309a6d7c8feb7d6214e91adcf"
   },
   "18": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -277,62 +235,6 @@
     "chapter": 20,
     "name": "Luke 20",
     "url": "https://getbible.net/v2/gothic/42/20.json",
-    "sha": "44db6a6548b4c167a5675033796a7fa099d0dd0a"
-  },
-  "21": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 42,
-    "book_name": "Luke",
-    "chapter": 21,
-    "name": "Luke 21",
-    "url": "https://getbible.net/v2/gothic/42/21.json",
-    "sha": "f990140be63c1b72611c777aabafd4426b09048c"
-  },
-  "22": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 42,
-    "book_name": "Luke",
-    "chapter": 22,
-    "name": "Luke 22",
-    "url": "https://getbible.net/v2/gothic/42/22.json",
-    "sha": "51c71b7c1ba748b047cd273fc20b10595753c152"
-  },
-  "23": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 42,
-    "book_name": "Luke",
-    "chapter": 23,
-    "name": "Luke 23",
-    "url": "https://getbible.net/v2/gothic/42/23.json",
-    "sha": "7c408b93458b9651d01d845bb501f5b5c1b9d399"
-  },
-  "24": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 42,
-    "book_name": "Luke",
-    "chapter": 24,
-    "name": "Luke 24",
-    "url": "https://getbible.net/v2/gothic/42/24.json",
-    "sha": "226227acb444e2608d95fb74ff91595fc41aecc2"
+    "sha": "88517038e388a38db7f90d1e26672e08cc59904d"
   }
 }

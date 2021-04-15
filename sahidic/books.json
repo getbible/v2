@@ -21,7 +21,7 @@
     "nr": 41,
     "name": "Mark",
     "url": "https://getbible.net/v2/sahidic/41.json",
-    "sha": "e30e63cd0ca06e70bd679863cf8e3a14bd2dc6a6"
+    "sha": "1016bcae5c22a2a470e21429d04b465e5c2f7066"
   },
   "42": {
     "translation": "Sahidic NT",
@@ -45,7 +45,7 @@
     "nr": 43,
     "name": "John",
     "url": "https://getbible.net/v2/sahidic/43.json",
-    "sha": "0f6bee9aad360ab6cd6abc701d9e293e37947a1d"
+    "sha": "15708ec784a7f5b45fdc2668af2542e2a22c247a"
   },
   "44": {
     "translation": "Sahidic NT",
@@ -93,7 +93,7 @@
     "nr": 47,
     "name": "2 Corinthians",
     "url": "https://getbible.net/v2/sahidic/47.json",
-    "sha": "3d1480feeea938504db9b96051671326cc366b57"
+    "sha": "2b1db94b0ca2848d787b0ed9a125da97f3a7659c"
   },
   "48": {
     "translation": "Sahidic NT",
@@ -321,6 +321,6 @@
     "nr": 66,
     "name": "Revelation",
     "url": "https://getbible.net/v2/sahidic/66.json",
-    "sha": "953466c38fb6abf13684ca99bafe1f2de8b68bf3"
+    "sha": "ea2c3daa8255ffb99f9effcb426b947cb329849c"
   }
 }

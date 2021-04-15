@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Joel 1",
     "url": "https://getbible.net/v2/arabicsv/29/1.json",
-    "sha": "cac82097d2e82d6daa6e711d2cdef0be9e268714"
+    "sha": "1ec734b509ae1fd826457659bb369d3895988639"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Joel 2",
     "url": "https://getbible.net/v2/arabicsv/29/2.json",
-    "sha": "d474657a303fa0c29481a63d46dd7e81a453a041"
+    "sha": "fe76e0fe0056152a2ded6813e0eebad2167037ff"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Joel 3",
     "url": "https://getbible.net/v2/arabicsv/29/3.json",
-    "sha": "485bbc1de03aff09d1094b9d610406f247c70a05"
+    "sha": "8495ddb22a5c31ba6dc156719a95b5e1f8d09609"
   }
 }

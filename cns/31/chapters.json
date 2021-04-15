@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Obadiah 1",
     "url": "https://getbible.net/v2/cns/31/1.json",
-    "sha": "64da2e204ca7d5539b2a6f0b6ca40b00222701f2"
+    "sha": "5e4918803b955000de50d398a417d0f77a340453"
   }
 }

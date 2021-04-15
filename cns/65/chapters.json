@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Jude 1",
     "url": "https://getbible.net/v2/cns/65/1.json",
-    "sha": "a9a4a472c447949443c7bf88d61587ae003f826a"
+    "sha": "4a52884cd9addec86ddadf53f5e1035709452315"
   }
 }

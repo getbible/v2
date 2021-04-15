@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 1,
     "name": "Ezra 1",
     "url": "https://getbible.net/v2/asv/15/1.json",
-    "sha": "333cdec1b2b130980cc83810c4dff62ae4c4891b"
+    "sha": "7f04de30ab855b4b797be3fc749f35de3b9afb58"
   },
   "2": {
     "translation": "American Standard Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 2,
     "name": "Ezra 2",
     "url": "https://getbible.net/v2/asv/15/2.json",
-    "sha": "794f54cfc2546ee421b9408e86bb035cb6b29488"
+    "sha": "7ab322d20cf87364f76521475ab396ddc64462d7"
   },
   "3": {
     "translation": "American Standard Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 3,
     "name": "Ezra 3",
     "url": "https://getbible.net/v2/asv/15/3.json",
-    "sha": "57ebcf68a864d0a3c543c19b8be4bb500a6c6206"
+    "sha": "a7fe80528dff26a053a9a8e58413b5ae7b3d2bdb"
   },
   "4": {
     "translation": "American Standard Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 4,
     "name": "Ezra 4",
     "url": "https://getbible.net/v2/asv/15/4.json",
-    "sha": "fb24fabb740b21a6817d42c2354afb53d6420cf9"
+    "sha": "5bfd32499f815da7db0f1209bbabfa98896dbd98"
   },
   "5": {
     "translation": "American Standard Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 5,
     "name": "Ezra 5",
     "url": "https://getbible.net/v2/asv/15/5.json",
-    "sha": "e6f6918a10d295268097665c3b611c12cc0e1c04"
+    "sha": "0a1f52c6f91e3613b767851f561bad7e1d61f3e7"
   },
   "6": {
     "translation": "American Standard Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 6,
     "name": "Ezra 6",
     "url": "https://getbible.net/v2/asv/15/6.json",
-    "sha": "788de63480409b304a11bc1a5618a801db594b19"
+    "sha": "8f8add5c410d53822151d14d912cbf177e0200bd"
   },
   "7": {
     "translation": "American Standard Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 7,
     "name": "Ezra 7",
     "url": "https://getbible.net/v2/asv/15/7.json",
-    "sha": "f0145549dbeacbfe95ca560733aceab102baf891"
+    "sha": "2e225e03dba57fbb27f50bdbad746ce7b3309422"
   },
   "8": {
     "translation": "American Standard Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 8,
     "name": "Ezra 8",
     "url": "https://getbible.net/v2/asv/15/8.json",
-    "sha": "c3cdf4f792a3b5b4a62447b84d7a19b224f1999d"
+    "sha": "8e49bc6cbfd1d27bbc70fea8e935ee7e601e7506"
   },
   "9": {
     "translation": "American Standard Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 9,
     "name": "Ezra 9",
     "url": "https://getbible.net/v2/asv/15/9.json",
-    "sha": "c035e11155e6f89fff0bcd18e74ada900cb7da2b"
+    "sha": "a8f42184d67e12db786021a7aa6de2e123bc35ff"
   },
   "10": {
     "translation": "American Standard Version",
@@ -131,12 +131,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 15,
     "book_name": "Ezra",
     "chapter": 10,
     "name": "Ezra 10",
     "url": "https://getbible.net/v2/asv/15/10.json",
-    "sha": "c3b9e48e5f45c55317af92e201507f643e69a8b8"
+    "sha": "4d1e674f6ebfd47867fd7b7e06348f5c2c229675"
   }
 }

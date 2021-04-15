@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Habakkuk 1",
     "url": "https://getbible.net/v2/cnt/35/1.json",
-    "sha": "674a0b575a4b3a64cf1d6d4e103823ca5be23270"
+    "sha": "f27593444855981c708d4211cdd014d65acafdab"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Habakkuk 2",
     "url": "https://getbible.net/v2/cnt/35/2.json",
-    "sha": "a86cc71d3e25dded38f9508f1726db4c4eb3ff10"
+    "sha": "630a3ab761b42122e36377a898bb0831d8363f32"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habakkuk 3",
     "url": "https://getbible.net/v2/cnt/35/3.json",
-    "sha": "59ff2da1981d7f374998fba1826626399ef4fda0"
+    "sha": "a99988a1260f5f6fdc8bf0b9ac490f13a6fee507"
   }
 }

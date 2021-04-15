@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "1 Timothy 1",
     "url": "https://getbible.net/v2/cns/54/1.json",
-    "sha": "cb7b5a8490ba91405b6ee596abeaa1bceddf787a"
+    "sha": "e016da184abbcb76e838284f0ffe5cf263861e7c"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "1 Timothy 2",
     "url": "https://getbible.net/v2/cns/54/2.json",
-    "sha": "83dd16058f49cce133c34e3355531b1b25845253"
+    "sha": "cad5fd18ea07936b1e050b12473d1d2bc0eb62c4"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "1 Timothy 3",
     "url": "https://getbible.net/v2/cns/54/3.json",
-    "sha": "80ffc9e0dae1c58cb98ffd0816c80b54137b132b"
+    "sha": "fefdd4ffd94e9efee7af52d3aaeef8ca3b8e84cf"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "1 Timothy 4",
     "url": "https://getbible.net/v2/cns/54/4.json",
-    "sha": "8908e7d6ded3b3d185a5e8ab9d718cd67e443af3"
+    "sha": "b07312ee7b485dd459bb5643785dfa0478f55a11"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "1 Timothy 5",
     "url": "https://getbible.net/v2/cns/54/5.json",
-    "sha": "2d1fb94a5d16156529bb776c124a22a6b362ef5a"
+    "sha": "d7c5042d32a30e1351cc884996aeb6552fae73f3"
   },
   "6": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1 Timothy 6",
     "url": "https://getbible.net/v2/cns/54/6.json",
-    "sha": "1544a901ab89cd60230ed30630d454c8b640bbd0"
+    "sha": "11994d60e6a334ff8bb19b7d218405d1e128d95b"
   }
 }

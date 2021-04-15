@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
     "url": "https://getbible.net/v2/giovanni/49/1.json",
-    "sha": "95889084d92f156a23195e147af1cb8c88665fb7"
+    "sha": "e71a68cfc9833d54ce586aa42405d0c3499a4849"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
     "url": "https://getbible.net/v2/giovanni/49/2.json",
-    "sha": "b0ca06fe8853fcfdc93aea0ea65717d196213814"
+    "sha": "2c35506780d641b283c33c4c1009bad6b36214e1"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
     "url": "https://getbible.net/v2/giovanni/49/3.json",
-    "sha": "414d68761008e101133fb96925b065740109a65e"
+    "sha": "53143bccdeeb8c5d1e04dc4c9f9e916d042dbeeb"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
     "url": "https://getbible.net/v2/giovanni/49/4.json",
-    "sha": "93f991ef0a13c83aeae58eae4fe528da66e904ec"
+    "sha": "c4724cfe666287d4a459fd4d98c0af6c85c9b212"
   },
   "5": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -61,13 +61,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
     "url": "https://getbible.net/v2/giovanni/49/5.json",
-    "sha": "ad78446581da852fb4860d4aa1a96c958f5e1650"
+    "sha": "17a46f6550e7da2d67c17c4d8f2957c0503a2c36"
   },
   "6": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -75,12 +75,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
     "url": "https://getbible.net/v2/giovanni/49/6.json",
-    "sha": "f01f93614fc18020eb2cdf60ee6d7e745b7519c8"
+    "sha": "f52af93958ba9ed6dc98c907148f0b056ab7c35a"
   }
 }

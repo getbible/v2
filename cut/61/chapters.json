@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://getbible.net/v2/cut/61/1.json",
-    "sha": "aa05b2fcebc033865e82f425b51017f19a4017b0"
+    "sha": "45a5b46a5967a3af8b76168797f026b361ee0216"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://getbible.net/v2/cut/61/2.json",
-    "sha": "102be31a60c899b78ce324bc9096858431512ed9"
+    "sha": "ec98fbacf0fa5a64bfb4f094cf530391c405aac2"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://getbible.net/v2/cut/61/3.json",
-    "sha": "9c07a9d51274db1add3385c081ddf4487a4010ea"
+    "sha": "1c920efe32d4c57a4317fcbfe549d1923e2fb99f"
   }
 }

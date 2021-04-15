@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Haggai 1",
     "url": "https://getbible.net/v2/cut/37/1.json",
-    "sha": "8a532f9078d72e9cfd949b7f5e7b042c639b9cb4"
+    "sha": "962f8fa831ad96691669b65d821f444ea3af3cc8"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "Haggai 2",
     "url": "https://getbible.net/v2/cut/37/2.json",
-    "sha": "d9137c9ad92748544b2d5566e4d436d9ff2ffaf4"
+    "sha": "a456b420a6557075120597af82b76469d5b243c9"
   }
 }

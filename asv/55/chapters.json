@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 55,
     "book_name": "2 Timothy",
     "chapter": 1,
     "name": "2 Timothy 1",
     "url": "https://getbible.net/v2/asv/55/1.json",
-    "sha": "adb3a1387da35c6083479244cfc869d75a87de95"
+    "sha": "ead992a3fe3bc7a3558f1a7fd700196687004220"
   },
   "2": {
     "translation": "American Standard Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 55,
     "book_name": "2 Timothy",
     "chapter": 2,
     "name": "2 Timothy 2",
     "url": "https://getbible.net/v2/asv/55/2.json",
-    "sha": "9c1e5dafcec117f47b71155f1c11038d1322ae80"
+    "sha": "10fed7f93a73676c84b615321dd62dfd610fd21b"
   },
   "3": {
     "translation": "American Standard Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 55,
     "book_name": "2 Timothy",
     "chapter": 3,
     "name": "2 Timothy 3",
     "url": "https://getbible.net/v2/asv/55/3.json",
-    "sha": "5a6cc6be334eed6e99bdef4ed93ed14cfbf030b4"
+    "sha": "e77ee0fae5441a187489ece5f55496027d7ccda2"
   },
   "4": {
     "translation": "American Standard Version",
@@ -47,12 +47,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 55,
     "book_name": "2 Timothy",
     "chapter": 4,
     "name": "2 Timothy 4",
     "url": "https://getbible.net/v2/asv/55/4.json",
-    "sha": "a0b91f0f481961c1bdaaacd77b0fd0af0b2bbdfa"
+    "sha": "aa1282118ab62b0e4f2f613a57db9c2862361db4"
   }
 }

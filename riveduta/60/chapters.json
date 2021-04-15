@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 60,
     "book_name": "1 Peter",
     "chapter": 1,
     "name": "1 Peter 1",
     "url": "https://getbible.net/v2/riveduta/60/1.json",
-    "sha": "622836812b29fe1d6ba22733d845c9841df4756c"
+    "sha": "480d199dd4f45d075b0984b6dd3642956b491e24"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 60,
     "book_name": "1 Peter",
     "chapter": 2,
     "name": "1 Peter 2",
     "url": "https://getbible.net/v2/riveduta/60/2.json",
-    "sha": "dbe4d2c94676aefccbb87b569d54cd6581882480"
+    "sha": "07a5145fb832cdb29d4f68cdfd3cb8c091e3595b"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 60,
     "book_name": "1 Peter",
     "chapter": 3,
     "name": "1 Peter 3",
     "url": "https://getbible.net/v2/riveduta/60/3.json",
-    "sha": "e7c1aa928439a9a4deb94bd75486e0a5e893b1cd"
+    "sha": "c2a06e980d67cffcd4ea9ace5aa65ee20551df72"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 60,
     "book_name": "1 Peter",
     "chapter": 4,
     "name": "1 Peter 4",
     "url": "https://getbible.net/v2/riveduta/60/4.json",
-    "sha": "8ad6e4e63dbb5f7aee3ba0acbbfcbf31876d8d7a"
+    "sha": "876565815a05003b84984c80964e64f92b69fd8e"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -61,12 +61,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 60,
     "book_name": "1 Peter",
     "chapter": 5,
     "name": "1 Peter 5",
     "url": "https://getbible.net/v2/riveduta/60/5.json",
-    "sha": "42916dbc7a07770f194b978ecb8159400f85bdb4"
+    "sha": "774d6def1174d63bb17677ee85b71817365542cd"
   }
 }

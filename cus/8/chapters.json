@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Ruth 1",
     "url": "https://getbible.net/v2/cus/8/1.json",
-    "sha": "53f08ec8b48de0abec4c8caea579d7a5a1a03f53"
+    "sha": "025033fdb0e3703fb8144c225c6e43bea82b593d"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Ruth 2",
     "url": "https://getbible.net/v2/cus/8/2.json",
-    "sha": "d7b2e41b1656bcca3a2168bc1626d911aa6e9da0"
+    "sha": "e9e671971a704491fc3659b586cae8ddbd9919d5"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Ruth 3",
     "url": "https://getbible.net/v2/cus/8/3.json",
-    "sha": "9f15bfdfbe324e09d6a54b19638867aa8d7509dd"
+    "sha": "250b71b0e40f98c14a23c45797330e3b4cca6f85"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Ruth 4",
     "url": "https://getbible.net/v2/cus/8/4.json",
-    "sha": "5a264cd6ff2af2824a14fa7768c0fe7d6129b0d0"
+    "sha": "90b359dfbed67c4f766da8a7a9a8619a26198880"
   }
 }

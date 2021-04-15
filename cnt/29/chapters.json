@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Joel 1",
     "url": "https://getbible.net/v2/cnt/29/1.json",
-    "sha": "315492f515612fcfc3b628027a59f8cc206572eb"
+    "sha": "21a19e330901db5ca4971d14baa7aa94cb23fe77"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Joel 2",
     "url": "https://getbible.net/v2/cnt/29/2.json",
-    "sha": "5c1d875add134ab5fd8d4e2d19785a7cfc7d259f"
+    "sha": "067c9fa7af7f98349916149325944aefdaf0958e"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Joel 3",
     "url": "https://getbible.net/v2/cnt/29/3.json",
-    "sha": "ad0df309ae79073e3d544edc2a263915f03dfcdb"
+    "sha": "24139eb1af429d07e424386f1cc2c86989564848"
   }
 }

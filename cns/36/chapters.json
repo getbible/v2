@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://getbible.net/v2/cns/36/1.json",
-    "sha": "488a5bb981fcc95477ea8ce3ac6694d79c0e65aa"
+    "sha": "a9a5f084695cb6ab1bd48d05a0eb80aa81371f8e"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://getbible.net/v2/cns/36/2.json",
-    "sha": "683a2e8e59921394c2a432000b8cbfad7c145a70"
+    "sha": "607932adf3fbc2d544eedd7a6a7a41945c652720"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://getbible.net/v2/cns/36/3.json",
-    "sha": "850698a36669f7b6696a0ede3c8dc21a86bc5671"
+    "sha": "351c2e89d7bd1d7cbb52f4d2dfae7b6674629506"
   }
 }

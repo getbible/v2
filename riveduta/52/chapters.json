@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 1,
     "name": "1 Thessalonians 1",
     "url": "https://getbible.net/v2/riveduta/52/1.json",
-    "sha": "65c8a69e7fcefb19790a24d0119579e42baef9ff"
+    "sha": "c0682875a73522c93551e9632b4d2154e7c6276a"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://getbible.net/v2/riveduta/52/2.json",
-    "sha": "7b6637ce7e7eb091b33ef3a7ce0d3aa0524b1bd1"
+    "sha": "212d0ff9710e703b0b007cd05d3cb4a7cc5b6bb0"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 3,
     "name": "1 Thessalonians 3",
     "url": "https://getbible.net/v2/riveduta/52/3.json",
-    "sha": "f6103d3b13372098b446b3152f5e54173fe43817"
+    "sha": "9869371e12ea19a346cd036928cbfc8de2f1e54f"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 4,
     "name": "1 Thessalonians 4",
     "url": "https://getbible.net/v2/riveduta/52/4.json",
-    "sha": "d597f68310a4492d24b8d292e6fa6bddc084fdcd"
+    "sha": "63ed7ccc26f423777facf8fbf1f864f3f388ef30"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -61,12 +61,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 5,
     "name": "1 Thessalonians 5",
     "url": "https://getbible.net/v2/riveduta/52/5.json",
-    "sha": "023ea1b330f4b60326a4fb19a2c8b3cecd799301"
+    "sha": "188f8029edf9567d978cb3aca400b0b6fb934a29"
   }
 }

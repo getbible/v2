@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 59,
     "book_name": "James",
     "chapter": 1,
     "name": "James 1",
     "url": "https://getbible.net/v2/riveduta/59/1.json",
-    "sha": "64ff03a02c02446ad0c5e8e3aa8f1dce7a9281d7"
+    "sha": "a1dac6f339b207f0cc11d99d1ca7ce88269eb25e"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 59,
     "book_name": "James",
     "chapter": 2,
     "name": "James 2",
     "url": "https://getbible.net/v2/riveduta/59/2.json",
-    "sha": "b6cfb43d126b9248c9da09dbdacb2f48d9a04bcd"
+    "sha": "1075c95a0d641b1ddcacb240c9c1be553896076c"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 59,
     "book_name": "James",
     "chapter": 3,
     "name": "James 3",
     "url": "https://getbible.net/v2/riveduta/59/3.json",
-    "sha": "87d732586b55ff9355f32ddaf808175757f3634c"
+    "sha": "8a95c9fdb98052e2c0d3e37c4292c330044e8f0c"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 59,
     "book_name": "James",
     "chapter": 4,
     "name": "James 4",
     "url": "https://getbible.net/v2/riveduta/59/4.json",
-    "sha": "52e841e727647cbca031077904b402dce28d9abc"
+    "sha": "16bc5d0cff8b6ab4d6c7b8332395e2c51e8ba692"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -61,12 +61,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 59,
     "book_name": "James",
     "chapter": 5,
     "name": "James 5",
     "url": "https://getbible.net/v2/riveduta/59/5.json",
-    "sha": "8d8179047cf90b9434cf594b7797d89efc04e682"
+    "sha": "225304319f92be0cfad00e6d682b5898797d33ac"
   }
 }

@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Titus 1",
     "url": "https://getbible.net/v2/cut/56/1.json",
-    "sha": "8d7a0aab9b9c698bf51d40839e40fffc7a847898"
+    "sha": "445e29efd96bce7530e918dd3ea6b98ad74868a3"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Titus 2",
     "url": "https://getbible.net/v2/cut/56/2.json",
-    "sha": "70aa3b18f31c54ce4b35763daa9c7ec6eff33d28"
+    "sha": "c03a7daf3de608d71a6441c5fea38d8c35d3cfe7"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Titus 3",
     "url": "https://getbible.net/v2/cut/56/3.json",
-    "sha": "c624c46c488e4b80ed2ab415ece5129d6acb1c65"
+    "sha": "01396c6de78ed701f0f6b9bb0482e37eb02e3a7c"
   }
 }

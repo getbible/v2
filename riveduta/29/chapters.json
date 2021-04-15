@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 29,
     "book_name": "Joel",
     "chapter": 1,
     "name": "Joel 1",
     "url": "https://getbible.net/v2/riveduta/29/1.json",
-    "sha": "34538a1ec218ec9c4daf28f72c19a26fc00737e1"
+    "sha": "c5efbd53b186940767dff4eb595db9963f88a97d"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 29,
     "book_name": "Joel",
     "chapter": 2,
     "name": "Joel 2",
     "url": "https://getbible.net/v2/riveduta/29/2.json",
-    "sha": "280821b24512f8c28595cdf2e2a7154b4dc08d4a"
+    "sha": "51895378b9f6f206f70402e41ae09a40a5a6aded"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,12 +33,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 29,
     "book_name": "Joel",
     "chapter": 3,
     "name": "Joel 3",
     "url": "https://getbible.net/v2/riveduta/29/3.json",
-    "sha": "fb2f035a827c5d8c0c53ad08923b0dc17011415a"
+    "sha": "276b8ad87fb28ec60468d1b7071e11ebea4b82fe"
   }
 }

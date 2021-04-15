@@ -1,60 +1,4 @@
 {
-  "1": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 43,
-    "book_name": "John",
-    "chapter": 1,
-    "name": "John 1",
-    "url": "https://getbible.net/v2/gothic/43/1.json",
-    "sha": "e33651fec2254a692990f20fa033613cfa530999"
-  },
-  "2": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 43,
-    "book_name": "John",
-    "chapter": 2,
-    "name": "John 2",
-    "url": "https://getbible.net/v2/gothic/43/2.json",
-    "sha": "556a818106f5945b3786d850f312b4ac69a55817"
-  },
-  "3": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 43,
-    "book_name": "John",
-    "chapter": 3,
-    "name": "John 3",
-    "url": "https://getbible.net/v2/gothic/43/3.json",
-    "sha": "3f795eff0a439a5d3bbe969c29ac5076a83aac70"
-  },
-  "4": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 43,
-    "book_name": "John",
-    "chapter": 4,
-    "name": "John 4",
-    "url": "https://getbible.net/v2/gothic/43/4.json",
-    "sha": "1c331a545b4fb4aba054760c0823d6e7783c44de"
-  },
   "5": {
     "translation": "Gothic (Nehemiah NT Portions)",
     "abbreviation": "gothic",
@@ -67,7 +11,7 @@
     "chapter": 5,
     "name": "John 5",
     "url": "https://getbible.net/v2/gothic/43/5.json",
-    "sha": "b4398a79cef475155458dd7b14f9d7721361ab04"
+    "sha": "510d59b5e5e9e8be064bfb0d8a59be2478e75577"
   },
   "6": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -95,7 +39,7 @@
     "chapter": 7,
     "name": "John 7",
     "url": "https://getbible.net/v2/gothic/43/7.json",
-    "sha": "1f150012699990c189f70630d418735049c06f43"
+    "sha": "f6477b8508cebcba6fbd91928853d2608ec5651e"
   },
   "8": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -109,7 +53,7 @@
     "chapter": 8,
     "name": "John 8",
     "url": "https://getbible.net/v2/gothic/43/8.json",
-    "sha": "53040c0ec0b88e73ca8a52382b94dbdcae313a03"
+    "sha": "f489a6b5e0f7347184a3f81c61a3a28c6bd1a4fa"
   },
   "9": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -151,7 +95,7 @@
     "chapter": 11,
     "name": "John 11",
     "url": "https://getbible.net/v2/gothic/43/11.json",
-    "sha": "6c8f76452ec04aba788af65ef93e3971acb76a86"
+    "sha": "204fc758c5930429ede909ef4eae0f299d530740"
   },
   "12": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -165,7 +109,7 @@
     "chapter": 12,
     "name": "John 12",
     "url": "https://getbible.net/v2/gothic/43/12.json",
-    "sha": "4a57b1ebc28457ea5f681bbff123874e428a033b"
+    "sha": "560f0d9afe959b5ee023bbe982f990688a9737e5"
   },
   "13": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -179,7 +123,7 @@
     "chapter": 13,
     "name": "John 13",
     "url": "https://getbible.net/v2/gothic/43/13.json",
-    "sha": "472fb7c52dcf5320c61f1bb5841f4cf56b4704fb"
+    "sha": "0804ba558e9059a565bace7f68308f9644c16f34"
   },
   "14": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -263,34 +207,6 @@
     "chapter": 19,
     "name": "John 19",
     "url": "https://getbible.net/v2/gothic/43/19.json",
-    "sha": "1de210f2cb472b3bc8b37de6140e13f6f3a4d929"
-  },
-  "20": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 43,
-    "book_name": "John",
-    "chapter": 20,
-    "name": "John 20",
-    "url": "https://getbible.net/v2/gothic/43/20.json",
-    "sha": "7d3e1814ca88e5c026d630daee8427ad0bb26abf"
-  },
-  "21": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 43,
-    "book_name": "John",
-    "chapter": 21,
-    "name": "John 21",
-    "url": "https://getbible.net/v2/gothic/43/21.json",
-    "sha": "1bcb53f92dac4fce65ef1c2d8a85b6738fc075f1"
+    "sha": "10d89c1bff754ef9e54faaae0804685648147da0"
   }
 }

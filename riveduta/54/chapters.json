@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 1,
     "name": "1 Timothy 1",
     "url": "https://getbible.net/v2/riveduta/54/1.json",
-    "sha": "9cc2747af235ed8abc26a1a538674abd4db2c6bf"
+    "sha": "47f6ffc0c58d4a932519411ec6a17f3b33faa868"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 2,
     "name": "1 Timothy 2",
     "url": "https://getbible.net/v2/riveduta/54/2.json",
-    "sha": "7b4e3cb2ee646efb91fc1ad70aee24625e85449a"
+    "sha": "c65f488f767a4f61558c09054df28cc293319137"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 3,
     "name": "1 Timothy 3",
     "url": "https://getbible.net/v2/riveduta/54/3.json",
-    "sha": "3a65f76e92642290ee182126842273ef14374157"
+    "sha": "72b2c4288d3f828dc4b6056451650592961590b4"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 4,
     "name": "1 Timothy 4",
     "url": "https://getbible.net/v2/riveduta/54/4.json",
-    "sha": "ebec43b5e7a0c79aa4731b3b39224c95ca56c82f"
+    "sha": "3d3a0da8b76525080f7ad9d86b103285372c1010"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -61,13 +61,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 5,
     "name": "1 Timothy 5",
     "url": "https://getbible.net/v2/riveduta/54/5.json",
-    "sha": "3006c48bc304a7ea78f5a4dad39be41675f37f53"
+    "sha": "36476c09f0bda681afc1d19ea30a6d2ee6de98eb"
   },
   "6": {
     "translation": "Riveduta Bible (1927)",
@@ -75,12 +75,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 6,
     "name": "1 Timothy 6",
     "url": "https://getbible.net/v2/riveduta/54/6.json",
-    "sha": "dd935fb688c2ca74bf4a0ceafdfaafeeae113b1d"
+    "sha": "e8f45a91f3e77be1a00ff22e1cdb8e9103eeb84f"
   }
 }

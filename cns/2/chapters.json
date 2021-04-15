@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Exodus 1",
     "url": "https://getbible.net/v2/cns/2/1.json",
-    "sha": "478968f91a05d765041a1da425b9a221a7614095"
+    "sha": "cd5ade2c6a9c07660af69e6abab67f60a8142920"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Exodus 2",
     "url": "https://getbible.net/v2/cns/2/2.json",
-    "sha": "3320c314574b36214cb9fed5e3d2eaee3dd4c5e9"
+    "sha": "ad3e7793e228c6b154bb5a3ec43d52e640886d73"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Exodus 3",
     "url": "https://getbible.net/v2/cns/2/3.json",
-    "sha": "14892d4b51bceef0e824e42843ac92197af97fd6"
+    "sha": "435c298721f221c0e163d4dacbde9921dfff9289"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Exodus 4",
     "url": "https://getbible.net/v2/cns/2/4.json",
-    "sha": "4437d5c11546139b3d325afaaa80001a2514b133"
+    "sha": "8b7a7fd4e9b4ded30c46618295707e57f2cd97d7"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Exodus 5",
     "url": "https://getbible.net/v2/cns/2/5.json",
-    "sha": "edbf43b137c9e102dbf99176a51219e667982b0a"
+    "sha": "ad65068f34a987e90ba511d891e184ffbf6e8786"
   },
   "6": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,12 +81,12 @@
     "chapter": 6,
     "name": "Exodus 6",
     "url": "https://getbible.net/v2/cns/2/6.json",
-    "sha": "f3ba8ec407b2607663cc59512c6f034439706475"
+    "sha": "890a68568de0208de02bdb82b257ee782e4ea887"
   },
   "7": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -95,12 +95,12 @@
     "chapter": 7,
     "name": "Exodus 7",
     "url": "https://getbible.net/v2/cns/2/7.json",
-    "sha": "6d4eb99f9b83d5db94cbcc8ae5f8331bc0ec79c1"
+    "sha": "663a25160d4ce95dc20ccb30e6c88a486ba3bca5"
   },
   "8": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -109,12 +109,12 @@
     "chapter": 8,
     "name": "Exodus 8",
     "url": "https://getbible.net/v2/cns/2/8.json",
-    "sha": "f1fc140e24e8b39ae5ce0b3a730353a92845ef55"
+    "sha": "17f2cfccfb195f873ee5370391f103c9f2e3bb9a"
   },
   "9": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -123,12 +123,12 @@
     "chapter": 9,
     "name": "Exodus 9",
     "url": "https://getbible.net/v2/cns/2/9.json",
-    "sha": "0e29af62701aed7c709b42a0d5ba3b6c984d9162"
+    "sha": "b8280cf0b7d862bd869cec204656858d7787e2cf"
   },
   "10": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -137,12 +137,12 @@
     "chapter": 10,
     "name": "Exodus 10",
     "url": "https://getbible.net/v2/cns/2/10.json",
-    "sha": "ea0ba852aaee82d036e6d2ad73db78cc6fcbe9d4"
+    "sha": "8a3c75b7f0b3b2ca1689c27576c862afa0fa7b86"
   },
   "11": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -151,12 +151,12 @@
     "chapter": 11,
     "name": "Exodus 11",
     "url": "https://getbible.net/v2/cns/2/11.json",
-    "sha": "088316f9a4ff2c25df52194b192ab26b8c579605"
+    "sha": "74d628dbcef5bb9178af44595863e797f647df27"
   },
   "12": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -165,12 +165,12 @@
     "chapter": 12,
     "name": "Exodus 12",
     "url": "https://getbible.net/v2/cns/2/12.json",
-    "sha": "04272ca1cadbc6e4cd34840793139abc88ecd356"
+    "sha": "0286c3fc9fcb151a865b9b5c0c74b47e1e8d37cb"
   },
   "13": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -179,12 +179,12 @@
     "chapter": 13,
     "name": "Exodus 13",
     "url": "https://getbible.net/v2/cns/2/13.json",
-    "sha": "21fdda11423f9f9be4d9f7e88f9d700e10e29dc7"
+    "sha": "456c1ad787e7393f9912e7fa4b8fb80e7160cdca"
   },
   "14": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -193,12 +193,12 @@
     "chapter": 14,
     "name": "Exodus 14",
     "url": "https://getbible.net/v2/cns/2/14.json",
-    "sha": "14506a3402b7cda485c69f89c91d79f7e32173d2"
+    "sha": "6148e351d4ecdb349d095e94f21cb113ccd8ed63"
   },
   "15": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -207,12 +207,12 @@
     "chapter": 15,
     "name": "Exodus 15",
     "url": "https://getbible.net/v2/cns/2/15.json",
-    "sha": "bc3d466162288c8d096de2df00df499670212d8e"
+    "sha": "651bba75d317cc6eb9b5948892b15050034f492d"
   },
   "16": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -221,12 +221,12 @@
     "chapter": 16,
     "name": "Exodus 16",
     "url": "https://getbible.net/v2/cns/2/16.json",
-    "sha": "372118064cf4b2cde225ecbe500fee031acaab6b"
+    "sha": "519fecb507bd15b25691445aaf4592a9ec157cbc"
   },
   "17": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -235,12 +235,12 @@
     "chapter": 17,
     "name": "Exodus 17",
     "url": "https://getbible.net/v2/cns/2/17.json",
-    "sha": "2f3d532a7080892f5be9986f93591dcdc9a74b2e"
+    "sha": "72629fcca07929f1a56de388d34114d9b2f46d67"
   },
   "18": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -249,12 +249,12 @@
     "chapter": 18,
     "name": "Exodus 18",
     "url": "https://getbible.net/v2/cns/2/18.json",
-    "sha": "d48299d99c8fd155a5db0b7db88d899d90ba3407"
+    "sha": "839bde36e9389d5aa31c05565e03f175946561a4"
   },
   "19": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -263,12 +263,12 @@
     "chapter": 19,
     "name": "Exodus 19",
     "url": "https://getbible.net/v2/cns/2/19.json",
-    "sha": "9b830b2062af32f38d507b54b23e9b12b70e8d98"
+    "sha": "3aef09542318ba77b967c1eeb05fdc50c4127394"
   },
   "20": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -277,12 +277,12 @@
     "chapter": 20,
     "name": "Exodus 20",
     "url": "https://getbible.net/v2/cns/2/20.json",
-    "sha": "da6a7c85f28bd3cbfb8c24cf8d4dc1aee944fc57"
+    "sha": "1a0f416029e7ae5dd3383cb4120d267b0382fb7b"
   },
   "21": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -291,12 +291,12 @@
     "chapter": 21,
     "name": "Exodus 21",
     "url": "https://getbible.net/v2/cns/2/21.json",
-    "sha": "8ac0fa7764ab36bbfb4910d5a281c50a458783d5"
+    "sha": "e0d03bddc2991421e3f5198eda07822a158e7ebb"
   },
   "22": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -305,12 +305,12 @@
     "chapter": 22,
     "name": "Exodus 22",
     "url": "https://getbible.net/v2/cns/2/22.json",
-    "sha": "86fee524f8edbf9ae4a9a44ac83b8ab10ed72744"
+    "sha": "14453be5e09dbccf2deca8760f5598d0e9a11e3a"
   },
   "23": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -319,12 +319,12 @@
     "chapter": 23,
     "name": "Exodus 23",
     "url": "https://getbible.net/v2/cns/2/23.json",
-    "sha": "ed5c40c9062759f6bbae2f13b951435ec07abe8b"
+    "sha": "306e99276a09acc2dae8727cd0bee3e45f3619c5"
   },
   "24": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -333,12 +333,12 @@
     "chapter": 24,
     "name": "Exodus 24",
     "url": "https://getbible.net/v2/cns/2/24.json",
-    "sha": "c0d881575f1b51a73141f2fa08ceef5805dc5ebc"
+    "sha": "338f61a3ca1d33cc1fe7363984fce5ac395c8436"
   },
   "25": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -347,12 +347,12 @@
     "chapter": 25,
     "name": "Exodus 25",
     "url": "https://getbible.net/v2/cns/2/25.json",
-    "sha": "6bbcb6152a48fc024b373cbee9e2933b850103ea"
+    "sha": "33c17f9936575471f3774fb34f300be8145c232f"
   },
   "26": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -361,12 +361,12 @@
     "chapter": 26,
     "name": "Exodus 26",
     "url": "https://getbible.net/v2/cns/2/26.json",
-    "sha": "355aa73924be70927ed8a8e10bc26d1f88903adf"
+    "sha": "0ea4c8742a6bf19d2b8cfcecce18e98194121e62"
   },
   "27": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -375,12 +375,12 @@
     "chapter": 27,
     "name": "Exodus 27",
     "url": "https://getbible.net/v2/cns/2/27.json",
-    "sha": "c78748942c5a5238aa3d117efee51dad48e04ff8"
+    "sha": "a0dc5d69dc91340c74e0384f08c62adc8cb2897b"
   },
   "28": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -389,12 +389,12 @@
     "chapter": 28,
     "name": "Exodus 28",
     "url": "https://getbible.net/v2/cns/2/28.json",
-    "sha": "617ce669d8fe8f020cbd091f7ea3d8c0509fbf17"
+    "sha": "11a58213bea99239478b2b61c7a5fcd81669fc5a"
   },
   "29": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -403,12 +403,12 @@
     "chapter": 29,
     "name": "Exodus 29",
     "url": "https://getbible.net/v2/cns/2/29.json",
-    "sha": "3b9bac8838e4086cb53bf4ab85bfd1e81944c4be"
+    "sha": "c2c88b47562a8240ace4073fd6e18caab6b619ab"
   },
   "30": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -417,12 +417,12 @@
     "chapter": 30,
     "name": "Exodus 30",
     "url": "https://getbible.net/v2/cns/2/30.json",
-    "sha": "2384b0a3c7f9cdf7b575fcf82476b8701bae562a"
+    "sha": "e1351234515041fc31fd182054ca756c85dab5b7"
   },
   "31": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -431,12 +431,12 @@
     "chapter": 31,
     "name": "Exodus 31",
     "url": "https://getbible.net/v2/cns/2/31.json",
-    "sha": "9fc533556d3ece3ea3285f89ad1156fec7679123"
+    "sha": "c763c9a1763d2b6748206a9ab28771d62d49f4ca"
   },
   "32": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -445,12 +445,12 @@
     "chapter": 32,
     "name": "Exodus 32",
     "url": "https://getbible.net/v2/cns/2/32.json",
-    "sha": "0ef1c4b1a3d5790004656170cdf05f3b13d3c50d"
+    "sha": "d0f085049ecf3c002642a4767856d3aa14c6edae"
   },
   "33": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -459,12 +459,12 @@
     "chapter": 33,
     "name": "Exodus 33",
     "url": "https://getbible.net/v2/cns/2/33.json",
-    "sha": "a49d623af61278826222e89742d85ea004bb3cfa"
+    "sha": "395b9dbbb860244cf83d43da08264697c9ebd4aa"
   },
   "34": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -473,12 +473,12 @@
     "chapter": 34,
     "name": "Exodus 34",
     "url": "https://getbible.net/v2/cns/2/34.json",
-    "sha": "ee0f864eae32c5503b53565d08d0f122009ae984"
+    "sha": "9fce0f993033be6f4c73ca0f472151bce9a7a5b1"
   },
   "35": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -487,12 +487,12 @@
     "chapter": 35,
     "name": "Exodus 35",
     "url": "https://getbible.net/v2/cns/2/35.json",
-    "sha": "222cbbf07cf9d5fc10797c940703d8b097cf4006"
+    "sha": "74791b26cc8c8f610f33a5d5292c98cf5987eec8"
   },
   "36": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -501,12 +501,12 @@
     "chapter": 36,
     "name": "Exodus 36",
     "url": "https://getbible.net/v2/cns/2/36.json",
-    "sha": "aef945726cf72c0293331f98ad02738c680417ba"
+    "sha": "05731aed81cec3706ba4962f44227c052889f0e3"
   },
   "37": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -515,12 +515,12 @@
     "chapter": 37,
     "name": "Exodus 37",
     "url": "https://getbible.net/v2/cns/2/37.json",
-    "sha": "fa2348e29993c4471b7e76f3db98169c333466f7"
+    "sha": "6b59b30b02b5783b130e887504bea8103337cdc3"
   },
   "38": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -529,12 +529,12 @@
     "chapter": 38,
     "name": "Exodus 38",
     "url": "https://getbible.net/v2/cns/2/38.json",
-    "sha": "ef36b6782ddc929e29f7e0fae8ccc882a38915d3"
+    "sha": "caedb3d88bf96ccea59fe596e9705714a6be7798"
   },
   "39": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -543,12 +543,12 @@
     "chapter": 39,
     "name": "Exodus 39",
     "url": "https://getbible.net/v2/cns/2/39.json",
-    "sha": "5a54b7f8a1c21c1baad11ea63bca8d935fd50036"
+    "sha": "8ad70cc718379a5ba73db448162eefe697d5f17b"
   },
   "40": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -557,6 +557,6 @@
     "chapter": 40,
     "name": "Exodus 40",
     "url": "https://getbible.net/v2/cns/2/40.json",
-    "sha": "3526116b153cd1ca6080aa8640ec1b8cd7ba205e"
+    "sha": "e3b7785af7c3f88b34cedb839ba83da1c301e07e"
   }
 }

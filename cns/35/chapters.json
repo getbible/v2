@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Habakkuk 1",
     "url": "https://getbible.net/v2/cns/35/1.json",
-    "sha": "2423531cbb840d171c11a53695d6fe407ca75723"
+    "sha": "7000c9fb4af3b1fb96e1d882e57a2a25bc65e852"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Habakkuk 2",
     "url": "https://getbible.net/v2/cns/35/2.json",
-    "sha": "a8399ab5cf797d0401778cc887a259a545e5eb5b"
+    "sha": "17e6b1e056f3110eb0f9a99f7b235c1be32d1ca4"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habakkuk 3",
     "url": "https://getbible.net/v2/cns/35/3.json",
-    "sha": "58b155275db0a5370201def0f82f3933fe079238"
+    "sha": "4d8d70d0b550452305201cd0d38ef8e685cddc0a"
   }
 }

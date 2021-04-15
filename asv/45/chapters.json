@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 1,
     "name": "Romans 1",
     "url": "https://getbible.net/v2/asv/45/1.json",
-    "sha": "55b68d5c04d555a8fc44dcf551335e09fdfaee9a"
+    "sha": "99cee2b8d5f98b8c3dab24ef05ab5d7c543e7d81"
   },
   "2": {
     "translation": "American Standard Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 2,
     "name": "Romans 2",
     "url": "https://getbible.net/v2/asv/45/2.json",
-    "sha": "7e2be06f84f70668dc471d5e3fba9615419b3659"
+    "sha": "3c3073739ee222e9bf9fbc89e701b54ccb306c72"
   },
   "3": {
     "translation": "American Standard Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 3,
     "name": "Romans 3",
     "url": "https://getbible.net/v2/asv/45/3.json",
-    "sha": "f93b489607e8384a053187bf483f97ae8dd254de"
+    "sha": "825da2701740235373b9b73d88c4fddea9c164f1"
   },
   "4": {
     "translation": "American Standard Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 4,
     "name": "Romans 4",
     "url": "https://getbible.net/v2/asv/45/4.json",
-    "sha": "a94280cc6af6cb44fce9ac825fd17d00bf9728a1"
+    "sha": "69da63f43a8c945eff3b16c9c142fb3c0c4e72de"
   },
   "5": {
     "translation": "American Standard Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 5,
     "name": "Romans 5",
     "url": "https://getbible.net/v2/asv/45/5.json",
-    "sha": "6dee87553d770661a0857d8e9e69a0007f75e83b"
+    "sha": "4633ee15bdfa228f85201b8b2a6868c41c925a14"
   },
   "6": {
     "translation": "American Standard Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 6,
     "name": "Romans 6",
     "url": "https://getbible.net/v2/asv/45/6.json",
-    "sha": "1ee575f94d80c05bd7de0dd1915377305e114a8b"
+    "sha": "fa7bb014aa13e87a5d810b6e9522027ec454d7a8"
   },
   "7": {
     "translation": "American Standard Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 7,
     "name": "Romans 7",
     "url": "https://getbible.net/v2/asv/45/7.json",
-    "sha": "75106e43582936acf240c7b5cd4649d2f9d9963b"
+    "sha": "e6282d1450825ed685316c712b0a84c5868bc5cf"
   },
   "8": {
     "translation": "American Standard Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 8,
     "name": "Romans 8",
     "url": "https://getbible.net/v2/asv/45/8.json",
-    "sha": "8b9f9c3bc876146a834b9c9839316f033a4c2192"
+    "sha": "397bbf1d38c87c1d75a9bd6ebc72cc62b9964068"
   },
   "9": {
     "translation": "American Standard Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 9,
     "name": "Romans 9",
     "url": "https://getbible.net/v2/asv/45/9.json",
-    "sha": "f0a39fa22217a9f97804a4d28b14019f49a7c344"
+    "sha": "e6f6e313d367b35c46eef4d59d828795556b9724"
   },
   "10": {
     "translation": "American Standard Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 10,
     "name": "Romans 10",
     "url": "https://getbible.net/v2/asv/45/10.json",
-    "sha": "2ea18e0482faf6c54eada6875dfc75487890e759"
+    "sha": "225beeab3f7a2e49374559e36fd6a8876e2ffd5c"
   },
   "11": {
     "translation": "American Standard Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 11,
     "name": "Romans 11",
     "url": "https://getbible.net/v2/asv/45/11.json",
-    "sha": "c0ea92cec1a300d328c5e16de580cc22a6690236"
+    "sha": "901db5bb609c9816a248ddaf45dbd4b59dc42abe"
   },
   "12": {
     "translation": "American Standard Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 12,
     "name": "Romans 12",
     "url": "https://getbible.net/v2/asv/45/12.json",
-    "sha": "77ecdb398c960db9e8bbed4612fe1496a1c13479"
+    "sha": "3b4137a3fad742cfc38fcb29e62469ac066805bb"
   },
   "13": {
     "translation": "American Standard Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 13,
     "name": "Romans 13",
     "url": "https://getbible.net/v2/asv/45/13.json",
-    "sha": "a16f8aa33ba24e3f0715aa6cd1fb9fd99a0c6768"
+    "sha": "155140b8df06f0accc0965a3fdef021748d94423"
   },
   "14": {
     "translation": "American Standard Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 14,
     "name": "Romans 14",
     "url": "https://getbible.net/v2/asv/45/14.json",
-    "sha": "04ca369dd326118a3adb68f1a52669a11069500c"
+    "sha": "990f610027ceb469cc0253018209f759e1da4edb"
   },
   "15": {
     "translation": "American Standard Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 15,
     "name": "Romans 15",
     "url": "https://getbible.net/v2/asv/45/15.json",
-    "sha": "d3f26ddf11eaf2755462286e393c530005b3be86"
+    "sha": "f5a9aa611856e1955672c0309a6a0c6fef741f53"
   },
   "16": {
     "translation": "American Standard Version",
@@ -215,12 +215,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 16,
     "name": "Romans 16",
     "url": "https://getbible.net/v2/asv/45/16.json",
-    "sha": "fd72a12dc83fbb11dddee3bca1e085b29058577c"
+    "sha": "11d594601dc5531c4184227779ae388ac2023100"
   }
 }

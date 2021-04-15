@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Micah 1",
     "url": "https://getbible.net/v2/cut/33/1.json",
-    "sha": "f57dd517ae9848b86e6b95870586fe29b81152d5"
+    "sha": "61252a3180cbc03fb3b47d5fd2f35ddc8c972d92"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Micah 2",
     "url": "https://getbible.net/v2/cut/33/2.json",
-    "sha": "eb324cc8ba3a118dece01133ba6d2f43e5a20cf3"
+    "sha": "89f1db26705fef5679886b0d563fce0452cb8267"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Micah 3",
     "url": "https://getbible.net/v2/cut/33/3.json",
-    "sha": "389396fac3ef74f427c740e4005eea02a4bd28c6"
+    "sha": "41ff0db330d47e3009a32c72e3229f7feb31e09e"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Micah 4",
     "url": "https://getbible.net/v2/cut/33/4.json",
-    "sha": "27d0848a3f101647e8424ca11d16a496b268a073"
+    "sha": "0417f77a34b45c1b30a7ac3c3b1f961e4dc2af2d"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Micah 5",
     "url": "https://getbible.net/v2/cut/33/5.json",
-    "sha": "fdeff40f09385434d85e045dc375c26f3ec6edd9"
+    "sha": "6d42d6228acbb161128cb42f8064f1cc2474ac67"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,12 +81,12 @@
     "chapter": 6,
     "name": "Micah 6",
     "url": "https://getbible.net/v2/cut/33/6.json",
-    "sha": "eba8d100620718e694f10033b3812a44b7770972"
+    "sha": "b040855dda8700f32145e4e1f0bbe92e05dbf4ea"
   },
   "7": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Micah 7",
     "url": "https://getbible.net/v2/cut/33/7.json",
-    "sha": "fce62ff0f37370dffe7da8fd2c5ab96e2bd51e51"
+    "sha": "205e482861107806d54b2f275001a42c6242e43a"
   }
 }

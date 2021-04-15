@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
     "url": "https://getbible.net/v2/asv/49/1.json",
-    "sha": "635a8b8b5f90cb97b2357ab985ec3d2e15d9d300"
+    "sha": "dbdfdd911efc552c75977ed58a5498c253f7e509"
   },
   "2": {
     "translation": "American Standard Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
     "url": "https://getbible.net/v2/asv/49/2.json",
-    "sha": "1e532c0099bd106f08ea644e15d7b05f182ec531"
+    "sha": "4ed97106e2be351b644e3ba18e2b1e378f012b12"
   },
   "3": {
     "translation": "American Standard Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
     "url": "https://getbible.net/v2/asv/49/3.json",
-    "sha": "9c0b5b6f7f30458156d794708c54af7528b8c4c7"
+    "sha": "8a1e79c34c9e5abd0a14d743c7519b718324658d"
   },
   "4": {
     "translation": "American Standard Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
     "url": "https://getbible.net/v2/asv/49/4.json",
-    "sha": "423c3863cb7fd246fea70735361e5fac7c640e64"
+    "sha": "0311227adf422fbe109a6edc9efac114bf1be451"
   },
   "5": {
     "translation": "American Standard Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
     "url": "https://getbible.net/v2/asv/49/5.json",
-    "sha": "93bc9d64a65cff1b3ff4513dd8b2cbdea90aee8f"
+    "sha": "c63db227128723e92d4f0ce2cb53dfa7b31e267e"
   },
   "6": {
     "translation": "American Standard Version",
@@ -75,12 +75,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 49,
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
     "url": "https://getbible.net/v2/asv/49/6.json",
-    "sha": "fe8ac65a88720b52cc0c07bdbf8c43f600041097"
+    "sha": "85b5a664d54dc6565a6a01b43a1b7e87902410ab"
   }
 }

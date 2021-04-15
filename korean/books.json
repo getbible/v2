@@ -225,7 +225,7 @@
     "nr": 19,
     "name": "Psalms",
     "url": "https://getbible.net/v2/korean/19.json",
-    "sha": "2ab109d06f1215b3929de5eda6e89d7513288b5f"
+    "sha": "3c3cc66404dc1f25024bd67bc41c1105dd01da0f"
   },
   "20": {
     "translation": "Korean",
@@ -273,7 +273,7 @@
     "nr": 23,
     "name": "Isaiah",
     "url": "https://getbible.net/v2/korean/23.json",
-    "sha": "af90c99be534f29eb7215d0c33de9e608a438bca"
+    "sha": "9b637921ccd297f363a1cf5163d65776cc0a4c87"
   },
   "24": {
     "translation": "Korean",
@@ -285,7 +285,7 @@
     "nr": 24,
     "name": "Jeremiah",
     "url": "https://getbible.net/v2/korean/24.json",
-    "sha": "669029797f193b8d842f5d928e3fd9b2755ce127"
+    "sha": "b7857fe1eb16c250e8580ad0fbfda665af2f1e7a"
   },
   "25": {
     "translation": "Korean",
@@ -309,7 +309,7 @@
     "nr": 26,
     "name": "Ezekiel",
     "url": "https://getbible.net/v2/korean/26.json",
-    "sha": "85956a780001b2eb05b3d6af2aa7916d48d66069"
+    "sha": "6600385d42f0037b346686970ca54209c585f2f5"
   },
   "27": {
     "translation": "Korean",
@@ -477,7 +477,7 @@
     "nr": 40,
     "name": "Matthew",
     "url": "https://getbible.net/v2/korean/40.json",
-    "sha": "7b205caf5451882d76a4f9727de54c75a0f74651"
+    "sha": "d117a5bd15fbf892dfcd378910d2fcd0e78661c8"
   },
   "41": {
     "translation": "Korean",
@@ -489,7 +489,7 @@
     "nr": 41,
     "name": "Mark",
     "url": "https://getbible.net/v2/korean/41.json",
-    "sha": "3818013a248d9c6c671bb9082a141c8b57acad63"
+    "sha": "7b65b0bf70748d500362b00caf6cc26eda07539e"
   },
   "42": {
     "translation": "Korean",
@@ -501,7 +501,7 @@
     "nr": 42,
     "name": "Luke",
     "url": "https://getbible.net/v2/korean/42.json",
-    "sha": "c5a6eb927cc060f5bcc935cc513654888bbd66f9"
+    "sha": "b5be148fb838f14739aef843ef85494b6e5abf7e"
   },
   "43": {
     "translation": "Korean",
@@ -525,7 +525,7 @@
     "nr": 44,
     "name": "Acts",
     "url": "https://getbible.net/v2/korean/44.json",
-    "sha": "599be18be48d704d186b2760049bbd1c930578cd"
+    "sha": "22ecb10c0d9c2fe7848382924eb96ce0e52c87e6"
   },
   "45": {
     "translation": "Korean",
@@ -537,7 +537,7 @@
     "nr": 45,
     "name": "Romans",
     "url": "https://getbible.net/v2/korean/45.json",
-    "sha": "e6261f905a33905b2d4c6ec9d3e3351ed08e0909"
+    "sha": "8decdc755801f833bf90671da35ee69900ec96c2"
   },
   "46": {
     "translation": "Korean",
@@ -561,7 +561,7 @@
     "nr": 47,
     "name": "2 Corinthians",
     "url": "https://getbible.net/v2/korean/47.json",
-    "sha": "fec0c00b49b92aabf3bd0f5eb5fc8647461fbf17"
+    "sha": "9d71357c61813682b13a7019a9dfdf784b5bbcf3"
   },
   "48": {
     "translation": "Korean",
@@ -789,6 +789,6 @@
     "nr": 66,
     "name": "Revelation",
     "url": "https://getbible.net/v2/korean/66.json",
-    "sha": "17214f9de306c77d33e2039fbfb4603fe4505443"
+    "sha": "5855ad336d43ebf1e423f8b9453f049f35af8c97"
   }
 }

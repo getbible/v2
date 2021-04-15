@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "2 Thessalonians 1",
     "url": "https://getbible.net/v2/cus/53/1.json",
-    "sha": "b4602a1ae986130ee03d8156bad225131e328b95"
+    "sha": "e39c20d4fa63daaa1aea680095edc51a39f0cbd4"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "2 Thessalonians 2",
     "url": "https://getbible.net/v2/cus/53/2.json",
-    "sha": "87de2568ec95f0ec52c173f7673c8c966ea10a9d"
+    "sha": "5b83d04ed8b919256f10c099aa1bfb07879c2818"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Thessalonians 3",
     "url": "https://getbible.net/v2/cus/53/3.json",
-    "sha": "559cf0d3b5638ab46e4eed569226b91d066ecbd4"
+    "sha": "100a37f39d559e57a6d5a7636ad0fd64cd047c79"
   }
 }

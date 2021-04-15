@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Nahum 1",
     "url": "https://getbible.net/v2/cus/34/1.json",
-    "sha": "e66b547a45ce5e02e7ebc3fdd5ef924ccfb7da76"
+    "sha": "49469f5ddd59e133aeb86a76c8b3d4ae85ba0209"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Nahum 2",
     "url": "https://getbible.net/v2/cus/34/2.json",
-    "sha": "30729b5ee37a18577f42009dad35363dfe49bc4d"
+    "sha": "9f0734d363f69502ba4233fdc96a7486e5d3a1e1"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Nahum 3",
     "url": "https://getbible.net/v2/cus/34/3.json",
-    "sha": "78580e4bf18de83d616fb0ad19290a94dc53c4c3"
+    "sha": "89eda66bee7687a551e3f63fcdf75f1cbc249a0e"
   }
 }

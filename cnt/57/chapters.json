@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Philemon 1",
     "url": "https://getbible.net/v2/cnt/57/1.json",
-    "sha": "b118a21445a77ea984fa2f297d0f909745e7e760"
+    "sha": "28e01917630052201402d07c97c1f5729c0cd754"
   }
 }

@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "1 Timothy 1",
     "url": "https://getbible.net/v2/cut/54/1.json",
-    "sha": "80db066c8fbc0773fd8eb22b9a7d66f06219bee0"
+    "sha": "4d54d15e81e84b017dead2dd230b0c95c7452519"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "1 Timothy 2",
     "url": "https://getbible.net/v2/cut/54/2.json",
-    "sha": "11a48ad401cf39aee93589a24a7e71ae575963ec"
+    "sha": "6a103abef7cf24cfe7feaf8090e8b303b47ce170"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "1 Timothy 3",
     "url": "https://getbible.net/v2/cut/54/3.json",
-    "sha": "e5df56693c63cbf396db27d7909ebe231c6a4a9e"
+    "sha": "df4fb6f309c342c23fc668bc2aa934e8ce0c7200"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "1 Timothy 4",
     "url": "https://getbible.net/v2/cut/54/4.json",
-    "sha": "54bbf2cf04d567f35109dc2386984f73bc7102a2"
+    "sha": "106046beea258b7cc941b3497071c3f74f783af4"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "1 Timothy 5",
     "url": "https://getbible.net/v2/cut/54/5.json",
-    "sha": "2ca062cb2e36c58b6814716fe747ff842f2551b5"
+    "sha": "948f9574665859ee96b5d1ef6d1baed2b01e7266"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1 Timothy 6",
     "url": "https://getbible.net/v2/cut/54/6.json",
-    "sha": "3652330ce1f7176d48f8c77f8dc7f9f48dc7172b"
+    "sha": "d76a1bd496744f1ef858f997ca58c461e344b3c8"
   }
 }

@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
     "url": "https://getbible.net/v2/riveduta/53/1.json",
-    "sha": "b21a2a69d68e6a8e43d51807d01d7de57897941c"
+    "sha": "2dc1d8d454e38b7dc49b4aeccff7b744ebff7e68"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
     "url": "https://getbible.net/v2/riveduta/53/2.json",
-    "sha": "337a3b22314497b5bca90a06d5810601e070c354"
+    "sha": "5fb94bef1d62de9a351c865a2b5421e3b9b19f3e"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,12 +33,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
     "url": "https://getbible.net/v2/riveduta/53/3.json",
-    "sha": "5a7c690d2c27de408439adc62c6e9fc1ae1746e0"
+    "sha": "f2ba6276e35b307df5e78807538e8ad7d9f9209a"
   }
 }

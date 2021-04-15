@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Esther 1",
     "url": "https://getbible.net/v2/cut/17/1.json",
-    "sha": "3f9d1e2a80eed0a9e3e0c7986d7439aa8a23c5ea"
+    "sha": "c7aeba18348660ae163a3635946ad524757b97a3"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Esther 2",
     "url": "https://getbible.net/v2/cut/17/2.json",
-    "sha": "835f515c6faa920d256ceb57aae9ce9e34365d93"
+    "sha": "dc84702f8750c30a7d788298ef49bb1f994e87c9"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Esther 3",
     "url": "https://getbible.net/v2/cut/17/3.json",
-    "sha": "37e97150f03ae6b090ad380e17287329332c0ed2"
+    "sha": "aa96f661c4d7803e98f6774eccb81f46aa39ed81"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Esther 4",
     "url": "https://getbible.net/v2/cut/17/4.json",
-    "sha": "20e4e74fd1f5854a85643b1fd0910668fdbfd762"
+    "sha": "ba1fabe847ba69d49288d9341aaf79317f59064d"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Esther 5",
     "url": "https://getbible.net/v2/cut/17/5.json",
-    "sha": "53da97cd281c17b9af2c9968ea92e2951076b6ad"
+    "sha": "51ceb2222a3ade8bb639b8269e3eb404f18fe02f"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,12 +81,12 @@
     "chapter": 6,
     "name": "Esther 6",
     "url": "https://getbible.net/v2/cut/17/6.json",
-    "sha": "be8db875fc4030c829878f0d791dd161fa7d6fab"
+    "sha": "d84fd8ae38b1502e7466ad5e227a7d5cd918687c"
   },
   "7": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -95,12 +95,12 @@
     "chapter": 7,
     "name": "Esther 7",
     "url": "https://getbible.net/v2/cut/17/7.json",
-    "sha": "b1fa6228312f63abe39683b58686570926b74175"
+    "sha": "585fc23da5b25e74ef88bf315ec800d044479eb5"
   },
   "8": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -109,12 +109,12 @@
     "chapter": 8,
     "name": "Esther 8",
     "url": "https://getbible.net/v2/cut/17/8.json",
-    "sha": "8fbf4f9661f65ac839893900d4541dc23382312f"
+    "sha": "5f541e0b4903cdacb4e2878aae6df8afca35a75e"
   },
   "9": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -123,12 +123,12 @@
     "chapter": 9,
     "name": "Esther 9",
     "url": "https://getbible.net/v2/cut/17/9.json",
-    "sha": "95d80817fb633b89b74a79054095f49298253cac"
+    "sha": "7c2ac0428ed50d1509a949486a9a5fa82e0491fe"
   },
   "10": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Esther 10",
     "url": "https://getbible.net/v2/cut/17/10.json",
-    "sha": "f3368968532a503e9c570231c0a59a48165a3b69"
+    "sha": "3510ccb50c70b815586ad59b99ccd1679891e191"
   }
 }

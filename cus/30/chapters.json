@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://getbible.net/v2/cus/30/1.json",
-    "sha": "07e6735525d6b3be13beaddd5d7ca4880a6682bc"
+    "sha": "3209b3d35f844b8c450c507ed9500b4f4ab3123c"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://getbible.net/v2/cus/30/2.json",
-    "sha": "8909d4a4f3bba1b8ad221f66e5559ea745a230a2"
+    "sha": "3923e0e875f611305369f51ce22d3edf029af5b8"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://getbible.net/v2/cus/30/3.json",
-    "sha": "446e2885f3a847de7d24ea0e52713cd1f24f72b7"
+    "sha": "1fc987afc033c075611d0ddef8b3a6efaa779b88"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://getbible.net/v2/cus/30/4.json",
-    "sha": "bf0238bbb06a9396f27b461dce2f89ed68de677d"
+    "sha": "0780597d73ea3a1bac9ca7b296f71a0b58159982"
   },
   "5": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://getbible.net/v2/cus/30/5.json",
-    "sha": "c1fb81d6b14534faf3d565c1227726b0f87d0d17"
+    "sha": "40269df4cfea1ea4fb5568055965b48a944626e9"
   },
   "6": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,12 +81,12 @@
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://getbible.net/v2/cus/30/6.json",
-    "sha": "812ef1607d0c29c9e3b4ca724112685eb93d462d"
+    "sha": "b311c6540b1466667ec19c224b8bd32ec062d2dc"
   },
   "7": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -95,12 +95,12 @@
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://getbible.net/v2/cus/30/7.json",
-    "sha": "81ac0fc543a47739de88a1c75ce92a15f307c75c"
+    "sha": "afa19c828fb840e4438dce2fca9cf750d92b5e4d"
   },
   "8": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -109,12 +109,12 @@
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://getbible.net/v2/cus/30/8.json",
-    "sha": "8aa66dd65ba4d086b1d27b2b45e79705622059e9"
+    "sha": "e3c14fcb772d3e4a90f0dc676048fa9e80854a94"
   },
   "9": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://getbible.net/v2/cus/30/9.json",
-    "sha": "86feb9de65a5849d24d24d2e4245611e08dedeee"
+    "sha": "547298718787cf9012322f435417c82f852aabc7"
   }
 }

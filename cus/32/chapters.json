@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Jonah 1",
     "url": "https://getbible.net/v2/cus/32/1.json",
-    "sha": "ca802d31ffca16782a695f51e436ec28b18089c6"
+    "sha": "f7c02aaa4473b8b0544be3b8cfc2be67f0a0d688"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Jonah 2",
     "url": "https://getbible.net/v2/cus/32/2.json",
-    "sha": "82c5f30b89c01be8ef616b2de6780da0025fd96d"
+    "sha": "557676262b0e258c456644df688a0e31f7ef5be3"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Jonah 3",
     "url": "https://getbible.net/v2/cus/32/3.json",
-    "sha": "0fcd9486505fe68a5cebb2eb83a58645e942b0e1"
+    "sha": "6b254e29a8f9c0e13b2b79dd9a4e7e83fa02d07d"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Jonah 4",
     "url": "https://getbible.net/v2/cus/32/4.json",
-    "sha": "06599ef56e2944b45088875d628ca2a489b255d9"
+    "sha": "f329b8e1fdaf5b0fbc0e6a907c41655dd043df89"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "John Wycliffe Bible (c.1395)",
+    "abbreviation": "wycliffe",
+    "lang": "enm",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/wycliffe/29/1.json",
+    "sha": "705134b38b2e947056678fd18e6394c39c56cec1"
+  },
+  "2": {
+    "translation": "John Wycliffe Bible (c.1395)",
+    "abbreviation": "wycliffe",
+    "lang": "enm",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/wycliffe/29/2.json",
+    "sha": "bc0d5a04df152b891792a3f532d4554ce4290302"
+  },
+  "3": {
+    "translation": "John Wycliffe Bible (c.1395)",
+    "abbreviation": "wycliffe",
+    "lang": "enm",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/wycliffe/29/3.json",
+    "sha": "8a07281f938861c2ca92e2bb8cffd1b0fa3bc4af"
+  }
+}

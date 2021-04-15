@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "1 Peter 1",
     "url": "https://getbible.net/v2/cus/60/1.json",
-    "sha": "039fc8592b364601a30e80498dd019fb937f28c2"
+    "sha": "ee171fc62281a2c783abf53c65056168d563e46c"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "1 Peter 2",
     "url": "https://getbible.net/v2/cus/60/2.json",
-    "sha": "d007965904812f3401ef5c3398e4bf9b3ee26822"
+    "sha": "d2115d218af058b23234430222ab7713a6a5cb44"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "1 Peter 3",
     "url": "https://getbible.net/v2/cus/60/3.json",
-    "sha": "e1b938e46c2c05a15234f809cc9685f1d3a30f87"
+    "sha": "f348c8c581048dbe867a60f56b419b6f9ee81e03"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "1 Peter 4",
     "url": "https://getbible.net/v2/cus/60/4.json",
-    "sha": "a24b4182dd57c59200c5617d11df913cea534d9f"
+    "sha": "2724f9e568addc5c4cbd793ac92fe2eb79c8c7c0"
   },
   "5": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Peter 5",
     "url": "https://getbible.net/v2/cus/60/5.json",
-    "sha": "c6750f2e3f9747f3adc5994a6ea5a3291ae0a1fa"
+    "sha": "5aeb9a5033e77cb46ec3a6df2455cfa522daafee"
   }
 }

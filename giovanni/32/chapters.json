@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 1,
     "name": "Jonah 1",
     "url": "https://getbible.net/v2/giovanni/32/1.json",
-    "sha": "77925715c5a4f80b1e11c9b54d966bc44cf88b5e"
+    "sha": "4c0633de07f5e585ef1f28b14a5940982934c655"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 2,
     "name": "Jonah 2",
     "url": "https://getbible.net/v2/giovanni/32/2.json",
-    "sha": "ab736aec99c71b57c57431907ab30e6c2f5f0020"
+    "sha": "8edc95ee444ab29b0f6a72d2c74b039afdccec5f"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 3,
     "name": "Jonah 3",
     "url": "https://getbible.net/v2/giovanni/32/3.json",
-    "sha": "0025110fd912f60ea4f3ff0f30b498c841929509"
+    "sha": "334f0fa5df7ffb0ee0de4ef8e15ef4f80ae11d0a"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -47,12 +47,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 4,
     "name": "Jonah 4",
     "url": "https://getbible.net/v2/giovanni/32/4.json",
-    "sha": "67b04c12bd6e938246ba389d82582baf451d402d"
+    "sha": "0cc9944526170e71ba60d980922a9af68a8283f4"
   }
 }

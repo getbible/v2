@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Ezra 1",
     "url": "https://getbible.net/v2/cnt/15/1.json",
-    "sha": "9c146f25eec1a4be761b4fdce4b60554dbed2dd7"
+    "sha": "d8f662ff39fd71bda2fb3f0b7da5042670039a2c"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Ezra 2",
     "url": "https://getbible.net/v2/cnt/15/2.json",
-    "sha": "4a1e78eb9dd83eccd9230e5d7d5ec8e7f68d20a7"
+    "sha": "7b0a9a2437a41b90089a94772ec2ed2049b05499"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Ezra 3",
     "url": "https://getbible.net/v2/cnt/15/3.json",
-    "sha": "236ee514f69cdda34aa2fe91c3357639fb17bbd0"
+    "sha": "1b5a5180585852a4eac6341a2725cb1ad148f637"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Ezra 4",
     "url": "https://getbible.net/v2/cnt/15/4.json",
-    "sha": "e0406968564fa626ec8534f78a4c0d56ae0f7543"
+    "sha": "eeacb44d800ace846178bd3c77cab928e256368c"
   },
   "5": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Ezra 5",
     "url": "https://getbible.net/v2/cnt/15/5.json",
-    "sha": "fffdbcd9c77b3adf30a61afa98e380d141d3913c"
+    "sha": "c2ee81869fbdea65acba7d34a0ff7bc917c2ca34"
   },
   "6": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,12 +81,12 @@
     "chapter": 6,
     "name": "Ezra 6",
     "url": "https://getbible.net/v2/cnt/15/6.json",
-    "sha": "56d8da8476de664ade0183b2b33e7c02143c6d52"
+    "sha": "39cb54b4b9d65c237f422a82c946fafff2fbbb61"
   },
   "7": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -95,12 +95,12 @@
     "chapter": 7,
     "name": "Ezra 7",
     "url": "https://getbible.net/v2/cnt/15/7.json",
-    "sha": "cfbbefed71830a59f9e0353cffdecfb90544e7bc"
+    "sha": "0905e3ef37fb53f6b8bc39555ec4bbebaea30ef4"
   },
   "8": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -109,12 +109,12 @@
     "chapter": 8,
     "name": "Ezra 8",
     "url": "https://getbible.net/v2/cnt/15/8.json",
-    "sha": "697bef8d00a4d01f9f05dbeac6df4f0ff4728178"
+    "sha": "ba95e47ccd81be8aae3f3f78fd4fe46df93ecc95"
   },
   "9": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -123,12 +123,12 @@
     "chapter": 9,
     "name": "Ezra 9",
     "url": "https://getbible.net/v2/cnt/15/9.json",
-    "sha": "7b663188c99c40b8044d4de9a9c12ae60bbd06bf"
+    "sha": "e7bf24464dc5677e4a991415e0414095aaa589b3"
   },
   "10": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Ezra 10",
     "url": "https://getbible.net/v2/cnt/15/10.json",
-    "sha": "5909fa9e990be86291265552c77d87fc827bcd50"
+    "sha": "3c9252cf95050e9b465a13b156a016b9396a664a"
   }
 }

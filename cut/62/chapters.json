@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "1 John 1",
     "url": "https://getbible.net/v2/cut/62/1.json",
-    "sha": "3ce6721504025fcda4ebffa372bed0c0bea73991"
+    "sha": "9618b6526d1d263c566620a9eab371272a6783f6"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "1 John 2",
     "url": "https://getbible.net/v2/cut/62/2.json",
-    "sha": "068c93c73a50a698467f88dd2396cb79c021b432"
+    "sha": "7aae37ec76deeaf47290cbb8eb7ee514e261b62c"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "1 John 3",
     "url": "https://getbible.net/v2/cut/62/3.json",
-    "sha": "60be25b0c8f1461fc73c4bb92d0735f2aa8b1ab0"
+    "sha": "81773fae0d008aae118b0e13161c12e557097c26"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "1 John 4",
     "url": "https://getbible.net/v2/cut/62/4.json",
-    "sha": "d546b255827402d06af5a0400f1793d72c46cc7b"
+    "sha": "8fd5dcbe004bbcc088d5411beb763199b80cb244"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 John 5",
     "url": "https://getbible.net/v2/cut/62/5.json",
-    "sha": "00f0c157a7e91a633cefdc670edc918cbdbfc3bd"
+    "sha": "fe3cec134190736a8296ed13898afd383ef8148e"
   }
 }

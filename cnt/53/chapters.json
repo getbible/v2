@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "2 Thessalonians 1",
     "url": "https://getbible.net/v2/cnt/53/1.json",
-    "sha": "dadff285a26a80013c681a18f62410a842376f6c"
+    "sha": "72c861bd3e509c69274f0e92dcaec31de9e3bf68"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "2 Thessalonians 2",
     "url": "https://getbible.net/v2/cnt/53/2.json",
-    "sha": "4d0e371c6c42a534805d6fc244c72ad87d84b822"
+    "sha": "0e083d5b0c7a47408af565f9986a90bf2212a344"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Thessalonians 3",
     "url": "https://getbible.net/v2/cnt/53/3.json",
-    "sha": "40b23183934c5177eab548d0fbb8734c4078bbc3"
+    "sha": "24d64548a18b840bb8e0f67e5e31c87aa41fd2a3"
   }
 }

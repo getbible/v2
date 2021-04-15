@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "James 1",
     "url": "https://getbible.net/v2/cut/59/1.json",
-    "sha": "e4b1294e199eb39af03b689c177cfc4f0eae10e7"
+    "sha": "f7b9972eeeb499ff3117b495bea6ac24a2f0e6e7"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "James 2",
     "url": "https://getbible.net/v2/cut/59/2.json",
-    "sha": "07d03ef08e28e3c45fa245798c4af75d901af3da"
+    "sha": "919a3c319b71eae0139cbc390185c2dfef211928"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "James 3",
     "url": "https://getbible.net/v2/cut/59/3.json",
-    "sha": "e94a18f1d6f9b2808f72a69c4a59364691d58fc6"
+    "sha": "16c6a346f827f9cd1bf84d989f78caef396ea5d8"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "James 4",
     "url": "https://getbible.net/v2/cut/59/4.json",
-    "sha": "da45343dbdb9b3d6cf1536e58e1bc6d65b19546c"
+    "sha": "ba974a6923cb1a2091e9f0431d1f7eee22dd0201"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "James 5",
     "url": "https://getbible.net/v2/cut/59/5.json",
-    "sha": "a18d3f29200792dcf4717e11c180610a7dda34e4"
+    "sha": "3172fbfa01cc2905a86cf554d71c46df0220f784"
   }
 }

@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Colossians 1",
     "url": "https://getbible.net/v2/cns/51/1.json",
-    "sha": "429be3fe368b03af70e02fdab2ee9124609ed86f"
+    "sha": "8141865a52acee84278f58d86d5e03fd92ab7a7c"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Colossians 2",
     "url": "https://getbible.net/v2/cns/51/2.json",
-    "sha": "9093f4f7c29ded424c590aa45420b106bf03d16e"
+    "sha": "2c11fd278909ae716146688c0947e39fc70c387b"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Colossians 3",
     "url": "https://getbible.net/v2/cns/51/3.json",
-    "sha": "c98e1ec6d3fa9cce7024a937f001c153a134aafd"
+    "sha": "9946cc6ca2212c1f4e494260b74685e5bb0a4980"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Colossians 4",
     "url": "https://getbible.net/v2/cns/51/4.json",
-    "sha": "f3b8d6575eb0ca5e1f7063feb3679bc64a2e83bc"
+    "sha": "11494856c9dbf9fc969e43372052e2a6c390265b"
   }
 }

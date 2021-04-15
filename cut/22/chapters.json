@@ -2,7 +2,7 @@
   "1": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Song of Songs 1",
     "url": "https://getbible.net/v2/cut/22/1.json",
-    "sha": "086bbe175e027de26c4666c11c8b03821c84cb61"
+    "sha": "49ece557f676984dbe02c2179a4291872c1f907d"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Song of Songs 2",
     "url": "https://getbible.net/v2/cut/22/2.json",
-    "sha": "b84fe0d791e8f5ea69295d82d6af4a1511606722"
+    "sha": "6dc0a60c5948503f42c5944b264faad6811797fa"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Song of Songs 3",
     "url": "https://getbible.net/v2/cut/22/3.json",
-    "sha": "073def20cfb68b0d701529d44fa23b1e2da5d59a"
+    "sha": "27b984631b27d3aee04f0d26fdb8e43f1109ec4b"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Song of Songs 4",
     "url": "https://getbible.net/v2/cut/22/4.json",
-    "sha": "897e60345ac68839e3fb7fbe0b2ab03d5de38b36"
+    "sha": "09e09e2dd8bde957f23eed130bf27f7ac0afe84c"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Song of Songs 5",
     "url": "https://getbible.net/v2/cut/22/5.json",
-    "sha": "a7143d379b6f3fbca4588555e7c06ef459d78880"
+    "sha": "00ef9c1875e4b0b71c3096e0086e86f150c5c02e"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,12 +81,12 @@
     "chapter": 6,
     "name": "Song of Songs 6",
     "url": "https://getbible.net/v2/cut/22/6.json",
-    "sha": "e7b8e310c38465f2ba545cb0f449a96433aefa37"
+    "sha": "0f4fec3c7e1a35651217b2ab0ac3c35e57f36884"
   },
   "7": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -95,12 +95,12 @@
     "chapter": 7,
     "name": "Song of Songs 7",
     "url": "https://getbible.net/v2/cut/22/7.json",
-    "sha": "929b7a5515105ef9d76e0efdf62ad563530ec4fe"
+    "sha": "767cf33c1e40b590da6e455a2973f58ec90626af"
   },
   "8": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "Song of Songs 8",
     "url": "https://getbible.net/v2/cut/22/8.json",
-    "sha": "0abaa666bef870daa29c027ec87db9c4f2818382"
+    "sha": "389db8c377ef5e18dc63f597c59e63c9a445161a"
   }
 }

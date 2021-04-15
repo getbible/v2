@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "2 John 1",
     "url": "https://getbible.net/v2/cns/63/1.json",
-    "sha": "102d0b2d8c7172fad5534892cbebac6f047f2f8a"
+    "sha": "970d450508ade7765739d88b673819dcf42594c7"
   }
 }

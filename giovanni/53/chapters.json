@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
     "url": "https://getbible.net/v2/giovanni/53/1.json",
-    "sha": "945c1c10a10bcebb60713782f88514d1799da09c"
+    "sha": "09cf6a3988b6d7ebaad00c5d5a4d22a411426ac8"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
     "url": "https://getbible.net/v2/giovanni/53/2.json",
-    "sha": "da6eafbbf8f72c10d25c3047c808ed57864d9fdb"
+    "sha": "ad00693c4feb163545ed8b669e5fa6a2c4d53476"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -33,12 +33,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
     "url": "https://getbible.net/v2/giovanni/53/3.json",
-    "sha": "26889efa1c732374d728c4671861d22442370567"
+    "sha": "65a0dedc856f4a90de0a67657d4743a2f1dea484"
   }
 }

@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 37,
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
     "url": "https://getbible.net/v2/riveduta/37/1.json",
-    "sha": "16491bfa1c1d01bdb280bf032e4ed41a4ab69de0"
+    "sha": "8f338d029cb51adb63d7b865beb837a91bcab9fa"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,12 +19,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 37,
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
     "url": "https://getbible.net/v2/riveduta/37/2.json",
-    "sha": "20ebc0824b9e3653c003cc83c0b308d30f084e02"
+    "sha": "012a317334845e651aae34cdef7ce7afbb91267a"
   }
 }

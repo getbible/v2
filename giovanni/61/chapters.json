@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://getbible.net/v2/giovanni/61/1.json",
-    "sha": "33a5064a8f291729647dbc27a2b87b8e4d9ded23"
+    "sha": "399779ff34c29e9e97995daffb0770ef2f3272aa"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://getbible.net/v2/giovanni/61/2.json",
-    "sha": "f0c6e72c9f053b44bb51571fbc33beec25ad4ae1"
+    "sha": "93406de7361d2e806aabf9e2d9771c0089b2b65a"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -33,12 +33,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://getbible.net/v2/giovanni/61/3.json",
-    "sha": "6c6a6603b2fc880d0b66f530d386602b55aa075f"
+    "sha": "cdc3d61131f8bd3169e52f1d1bafb3f2acf15680"
   }
 }

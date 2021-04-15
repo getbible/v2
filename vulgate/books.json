@@ -249,7 +249,7 @@
     "nr": 19,
     "name": "Psalms",
     "url": "https://getbible.net/v2/vulgate/19.json",
-    "sha": "3100f3f4bdc80de34406eb7b99342b62346b2312"
+    "sha": "88628c3f614bcfee47d793e129a20765bba99cd4"
   },
   "20": {
     "translation": "Vulgata Clementina",
@@ -287,18 +287,6 @@
     "url": "https://getbible.net/v2/vulgate/22.json",
     "sha": "e91b6acd2f5a1d426741e6183f79f282cdbe2503"
   },
-  "72": {
-    "translation": "Vulgata Clementina",
-    "abbreviation": "vulgate",
-    "lang": "la",
-    "language": "Latin",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "nr": 72,
-    "name": "Wisdom",
-    "url": "https://getbible.net/v2/vulgate/72.json",
-    "sha": "132a30aa3485327cc57c53cc4192494366785b08"
-  },
   "73": {
     "translation": "Vulgata Clementina",
     "abbreviation": "vulgate",
@@ -307,9 +295,21 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 73,
-    "name": "Sirach",
+    "name": "Wisdom",
     "url": "https://getbible.net/v2/vulgate/73.json",
-    "sha": "32107dd46b49e3140da5273a3e81bff2a920bb2d"
+    "sha": "285c9e271b097d5eff35e530f1d4a34770837b46"
+  },
+  "74": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 74,
+    "name": "Sirach",
+    "url": "https://getbible.net/v2/vulgate/74.json",
+    "sha": "8b2c90075c3f77c45bd350ea43a595203462cf9a"
   },
   "23": {
     "translation": "Vulgata Clementina",
@@ -321,7 +321,7 @@
     "nr": 23,
     "name": "Isaiah",
     "url": "https://getbible.net/v2/vulgate/23.json",
-    "sha": "606583669d3c107a0d07ea947381cd536a2e1ba0"
+    "sha": "c5072b4c06159ca6783a4d971a43140ef5ec7c01"
   },
   "24": {
     "translation": "Vulgata Clementina",
@@ -347,17 +347,17 @@
     "url": "https://getbible.net/v2/vulgate/25.json",
     "sha": "48cf2153e7e0e7e8c066f0f908f1460a4f8b0ecf"
   },
-  "74": {
+  "75": {
     "translation": "Vulgata Clementina",
     "abbreviation": "vulgate",
     "lang": "la",
     "language": "Latin",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "nr": 74,
+    "nr": 75,
     "name": "Baruch",
-    "url": "https://getbible.net/v2/vulgate/74.json",
-    "sha": "b933cb81f31683c35063da068a328f79c059ddd9"
+    "url": "https://getbible.net/v2/vulgate/75.json",
+    "sha": "99ac0b74589e2d4f362d8ae2dc54f7666e2f3225"
   },
   "26": {
     "translation": "Vulgata Clementina",
@@ -527,18 +527,6 @@
     "url": "https://getbible.net/v2/vulgate/39.json",
     "sha": "3318413a606097ca3e7ea109e4cfbfeb55c5bda6"
   },
-  "79": {
-    "translation": "Vulgata Clementina",
-    "abbreviation": "vulgate",
-    "lang": "la",
-    "language": "Latin",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "nr": 79,
-    "name": "1 Maccabees",
-    "url": "https://getbible.net/v2/vulgate/79.json",
-    "sha": "3228aee72da60b4946dcfcc0a48b417917d1f6aa"
-  },
   "80": {
     "translation": "Vulgata Clementina",
     "abbreviation": "vulgate",
@@ -547,9 +535,21 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 80,
-    "name": "2 Maccabees",
+    "name": "1 Maccabees",
     "url": "https://getbible.net/v2/vulgate/80.json",
-    "sha": "d55d563fa0f38e815d9221757730db4c8cdf672e"
+    "sha": "b9bf55414fcdab8c88f191be9069fb1a00c75213"
+  },
+  "81": {
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 81,
+    "name": "2 Maccabees",
+    "url": "https://getbible.net/v2/vulgate/81.json",
+    "sha": "2e8d39641022f91a845811602aaf8bcd9edfb03b"
   },
   "40": {
     "translation": "Vulgata Clementina",
@@ -597,7 +597,7 @@
     "nr": 43,
     "name": "John",
     "url": "https://getbible.net/v2/vulgate/43.json",
-    "sha": "2afb0a77b6869cee9982589637c6409a67a45665"
+    "sha": "872656421f6d24c099d4e61ddb8426592e9d31fa"
   },
   "44": {
     "translation": "Vulgata Clementina",
@@ -645,7 +645,7 @@
     "nr": 47,
     "name": "2 Corinthians",
     "url": "https://getbible.net/v2/vulgate/47.json",
-    "sha": "e2fa29da7e80f1a66d74e3f8d0c87ecdee50ef7e"
+    "sha": "6a97453177956c946648b619545384031d61c67f"
   },
   "48": {
     "translation": "Vulgata Clementina",
@@ -849,7 +849,7 @@
     "nr": 64,
     "name": "3 John",
     "url": "https://getbible.net/v2/vulgate/64.json",
-    "sha": "739950902143ed66b1016587799144cdac694b72"
+    "sha": "e303635add35be8b7df3432710871e46fcead7b7"
   },
   "65": {
     "translation": "Vulgata Clementina",
@@ -874,41 +874,5 @@
     "name": "Revelation",
     "url": "https://getbible.net/v2/vulgate/66.json",
     "sha": "63b236e8dd9ab8a4eedb3ac309f356380b5304d1"
-  },
-  "78": {
-    "translation": "Vulgata Clementina",
-    "abbreviation": "vulgate",
-    "lang": "la",
-    "language": "Latin",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "nr": 78,
-    "name": "Prayer of Manasses",
-    "url": "https://getbible.net/v2/vulgate/78.json",
-    "sha": "3b4316ecd17cadbe049e17510bce646a29407b21"
-  },
-  "67": {
-    "translation": "Vulgata Clementina",
-    "abbreviation": "vulgate",
-    "lang": "la",
-    "language": "Latin",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "nr": 67,
-    "name": "1 Esdras",
-    "url": "https://getbible.net/v2/vulgate/67.json",
-    "sha": "085c98094ee97c5359dbc07a88d7dd7d02c8dff5"
-  },
-  "68": {
-    "translation": "Vulgata Clementina",
-    "abbreviation": "vulgate",
-    "lang": "la",
-    "language": "Latin",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "nr": 68,
-    "name": "2 Esdras",
-    "url": "https://getbible.net/v2/vulgate/68.json",
-    "sha": "ee2e3f410d92d8574200cd53e426e1183878b793"
   }
 }

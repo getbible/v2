@@ -25,20 +25,6 @@
     "chapter": 2,
     "name": "Titus 2",
     "url": "https://getbible.net/v2/gothic/56/2.json",
-    "sha": "b8fc67f5678d8477e0e08da8e3e3eda655087212"
-  },
-  "3": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 56,
-    "book_name": "Titus",
-    "chapter": 3,
-    "name": "Titus 3",
-    "url": "https://getbible.net/v2/gothic/56/3.json",
-    "sha": "ed339277a73f0f08cf883e9e450c45949a38b3d1"
+    "sha": "5767afd782de2b7b8e39c86a32b0874a1fb3c5c4"
   }
 }

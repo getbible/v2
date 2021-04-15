@@ -117,7 +117,7 @@
     "nr": 10,
     "name": "2 Samuel",
     "url": "https://getbible.net/v2/douayrheims/10.json",
-    "sha": "a4cb147628926c1db38598d13ee7e1a2f5f1f83b"
+    "sha": "fc0966509597a29537d454ada146329fb812a9d2"
   },
   "11": {
     "translation": "Douay Rheims",
@@ -129,7 +129,7 @@
     "nr": 11,
     "name": "1 Kings",
     "url": "https://getbible.net/v2/douayrheims/11.json",
-    "sha": "e4886560c090207675abad1bc24e1898dcac23b2"
+    "sha": "0a3057ec311fe90025da32fc8106a35482ab53d6"
   },
   "12": {
     "translation": "Douay Rheims",
@@ -249,7 +249,7 @@
     "nr": 19,
     "name": "Psalms",
     "url": "https://getbible.net/v2/douayrheims/19.json",
-    "sha": "e43804c4912ad6d374200e45d91d813505bc54ac"
+    "sha": "fb5826e076f60df1d36de4ea0d68f7e377fe729a"
   },
   "20": {
     "translation": "Douay Rheims",
@@ -261,7 +261,7 @@
     "nr": 20,
     "name": "Proverbs",
     "url": "https://getbible.net/v2/douayrheims/20.json",
-    "sha": "2e16abb23da75b5bb95dc6cbcbc67d24c5f6a528"
+    "sha": "8bd59ca20539978d760370046ba3a26afbc165ad"
   },
   "21": {
     "translation": "Douay Rheims",
@@ -287,18 +287,6 @@
     "url": "https://getbible.net/v2/douayrheims/22.json",
     "sha": "c2604adecf91a2b9b1dc6deb66ab7319ff4bd9fc"
   },
-  "72": {
-    "translation": "Douay Rheims",
-    "abbreviation": "douayrheims",
-    "lang": "en",
-    "language": "English",
-    "direction": "LTR",
-    "encoding": "",
-    "nr": 72,
-    "name": "Wisdom",
-    "url": "https://getbible.net/v2/douayrheims/72.json",
-    "sha": "94a0985a54573adfbe6c8b01a75422d392e31d2a"
-  },
   "73": {
     "translation": "Douay Rheims",
     "abbreviation": "douayrheims",
@@ -307,9 +295,21 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 73,
-    "name": "Sirach",
+    "name": "Wisdom",
     "url": "https://getbible.net/v2/douayrheims/73.json",
-    "sha": "22b105a98ab3566d4718875b348d8ad2230d1d15"
+    "sha": "d132639f6726fd63124c1c124027b322568247f2"
+  },
+  "74": {
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "nr": 74,
+    "name": "Sirach",
+    "url": "https://getbible.net/v2/douayrheims/74.json",
+    "sha": "3ad4a0a1fa44d7eff10d5eebe41202e159b34e4f"
   },
   "23": {
     "translation": "Douay Rheims",
@@ -321,7 +321,7 @@
     "nr": 23,
     "name": "Isaiah",
     "url": "https://getbible.net/v2/douayrheims/23.json",
-    "sha": "55aa1ff25efa4c8eae8f5ca8373d4d24cf565a88"
+    "sha": "6645d11e647b5ebacc793b6ecf59af89b547a107"
   },
   "24": {
     "translation": "Douay Rheims",
@@ -347,17 +347,17 @@
     "url": "https://getbible.net/v2/douayrheims/25.json",
     "sha": "1efbda1d357a4c1ca41e7705381958bcb5e16c22"
   },
-  "74": {
+  "75": {
     "translation": "Douay Rheims",
     "abbreviation": "douayrheims",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
     "encoding": "",
-    "nr": 74,
+    "nr": 75,
     "name": "Baruch",
-    "url": "https://getbible.net/v2/douayrheims/74.json",
-    "sha": "629b7534ae23aadba740aedeb85408c616939e37"
+    "url": "https://getbible.net/v2/douayrheims/75.json",
+    "sha": "26cc3099e06ec4e785ca059a9dc9b8801449d014"
   },
   "26": {
     "translation": "Douay Rheims",
@@ -527,18 +527,6 @@
     "url": "https://getbible.net/v2/douayrheims/39.json",
     "sha": "8730dfa1200f6a6dcbab03d1b37f0420dbce9938"
   },
-  "79": {
-    "translation": "Douay Rheims",
-    "abbreviation": "douayrheims",
-    "lang": "en",
-    "language": "English",
-    "direction": "LTR",
-    "encoding": "",
-    "nr": 79,
-    "name": "1 Maccabees",
-    "url": "https://getbible.net/v2/douayrheims/79.json",
-    "sha": "686b4a5acd4df354a645160cced7fa21e2c3fa86"
-  },
   "80": {
     "translation": "Douay Rheims",
     "abbreviation": "douayrheims",
@@ -547,9 +535,21 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 80,
-    "name": "2 Maccabees",
+    "name": "1 Maccabees",
     "url": "https://getbible.net/v2/douayrheims/80.json",
-    "sha": "67e18593521f40ab300b3c8c2ac7e7c447bf0def"
+    "sha": "a20efe1e91b980338b2831278243e2c40293caf7"
+  },
+  "81": {
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "",
+    "nr": 81,
+    "name": "2 Maccabees",
+    "url": "https://getbible.net/v2/douayrheims/81.json",
+    "sha": "02bddce33aa40091105d24325d0adc67bf55608e"
   },
   "40": {
     "translation": "Douay Rheims",
@@ -597,7 +597,7 @@
     "nr": 43,
     "name": "John",
     "url": "https://getbible.net/v2/douayrheims/43.json",
-    "sha": "2f9f2d1bc8e8b367585e5d3c8aa0d006c529fcf3"
+    "sha": "f21588c4b62939e1f32d06dee236951e427316d9"
   },
   "44": {
     "translation": "Douay Rheims",
@@ -645,7 +645,7 @@
     "nr": 47,
     "name": "2 Corinthians",
     "url": "https://getbible.net/v2/douayrheims/47.json",
-    "sha": "517bd2d81d4c687c67b1a4b4e7289fcb15854c48"
+    "sha": "80100982c40510d2f63df439c961e540253a9e37"
   },
   "48": {
     "translation": "Douay Rheims",
@@ -705,7 +705,7 @@
     "nr": 52,
     "name": "1 Thessalonians",
     "url": "https://getbible.net/v2/douayrheims/52.json",
-    "sha": "192fdf82e9eac57e76736170ce8307b1cfcf066e"
+    "sha": "45d2a14ac5a26ff20236ba7bde0f61bf9f8732bb"
   },
   "53": {
     "translation": "Douay Rheims",
@@ -717,7 +717,7 @@
     "nr": 53,
     "name": "2 Thessalonians",
     "url": "https://getbible.net/v2/douayrheims/53.json",
-    "sha": "2e4adec4f94ca4de3c0f0270f7d6523a67a68dd3"
+    "sha": "771b87c4de599e1b9895584dc84f5ad7d730b7c7"
   },
   "54": {
     "translation": "Douay Rheims",
@@ -849,7 +849,7 @@
     "nr": 64,
     "name": "3 John",
     "url": "https://getbible.net/v2/douayrheims/64.json",
-    "sha": "f3f5d146858f2d54d8d5cbd19cccda10d623c6e7"
+    "sha": "a8f5ee78fbd1dec2fbab4781c642fa2837f6b187"
   },
   "65": {
     "translation": "Douay Rheims",
@@ -874,41 +874,5 @@
     "name": "Revelation",
     "url": "https://getbible.net/v2/douayrheims/66.json",
     "sha": "dec8ef3d46983a7421689b1d8d1ee9c4f5ac4dab"
-  },
-  "78": {
-    "translation": "Douay Rheims",
-    "abbreviation": "douayrheims",
-    "lang": "en",
-    "language": "English",
-    "direction": "LTR",
-    "encoding": "",
-    "nr": 78,
-    "name": "Prayer of Manasses",
-    "url": "https://getbible.net/v2/douayrheims/78.json",
-    "sha": "51d93ca69df6ba83707a3c74a837d9dc59071785"
-  },
-  "67": {
-    "translation": "Douay Rheims",
-    "abbreviation": "douayrheims",
-    "lang": "en",
-    "language": "English",
-    "direction": "LTR",
-    "encoding": "",
-    "nr": 67,
-    "name": "1 Esdras",
-    "url": "https://getbible.net/v2/douayrheims/67.json",
-    "sha": "681f5a143117d583be3508820e5cd2bb25ae9515"
-  },
-  "68": {
-    "translation": "Douay Rheims",
-    "abbreviation": "douayrheims",
-    "lang": "en",
-    "language": "English",
-    "direction": "LTR",
-    "encoding": "",
-    "nr": 68,
-    "name": "2 Esdras",
-    "url": "https://getbible.net/v2/douayrheims/68.json",
-    "sha": "963ffd0080ec735dfcb4237036c9f7e0d568be27"
   }
 }

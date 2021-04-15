@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://getbible.net/v2/riveduta/61/1.json",
-    "sha": "98cb325973324a485cd58ebb05239894efda1dde"
+    "sha": "b9024f4230c64db2c3c3be19015cbd48455d91d8"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://getbible.net/v2/riveduta/61/2.json",
-    "sha": "346ffb99358c0f990c4fdd3a8ab1317e3232c4e7"
+    "sha": "445ac809c3acd0ae769c4aaef43872c7b73c8c4f"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -33,12 +33,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://getbible.net/v2/riveduta/61/3.json",
-    "sha": "830475f5d50a40671a503d3cda638e8b1dfdd8b3"
+    "sha": "ea9a255464621a58d05a3e2ab680679e7960b2e7"
   }
 }

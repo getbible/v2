@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Nahum 1",
     "url": "https://getbible.net/v2/cns/34/1.json",
-    "sha": "6de652488716ada5bac34c16b5b21cc8f1f4bda9"
+    "sha": "eec7e66768f094d6c7659743f254fce46ccc6ee0"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Nahum 2",
     "url": "https://getbible.net/v2/cns/34/2.json",
-    "sha": "fa69b885d7c9d9c7fc279333a17b23ec0d57bccc"
+    "sha": "f803ee57be705399dd34db4e10222c43ae83964f"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Nahum 3",
     "url": "https://getbible.net/v2/cns/34/3.json",
-    "sha": "bd254b35afb1a67d346d38e3ef95d4aeec7406e1"
+    "sha": "0c703e51e0346d11df14c7c2ebecce4358d0df89"
   }
 }

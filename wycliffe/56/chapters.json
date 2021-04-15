@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "John Wycliffe Bible (c.1395)",
+    "abbreviation": "wycliffe",
+    "lang": "enm",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/wycliffe/56/1.json",
+    "sha": "1d37c4f3aefae7db7939d59662ec4b879a0bf7ca"
+  },
+  "2": {
+    "translation": "John Wycliffe Bible (c.1395)",
+    "abbreviation": "wycliffe",
+    "lang": "enm",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/wycliffe/56/2.json",
+    "sha": "859579e20450d429ea7d257da79f1ab70491761e"
+  },
+  "3": {
+    "translation": "John Wycliffe Bible (c.1395)",
+    "abbreviation": "wycliffe",
+    "lang": "enm",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/wycliffe/56/3.json",
+    "sha": "f085638cb0bef1f79ec63a78d7bb2c89d5f92de4"
+  }
+}

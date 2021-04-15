@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Ephesians 1",
     "url": "https://getbible.net/v2/cns/49/1.json",
-    "sha": "dba4581d987c9a57ce6b235c9686bd87c492ff94"
+    "sha": "bec85ae97fe1143d543e8595038c025cb05e1c49"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Ephesians 2",
     "url": "https://getbible.net/v2/cns/49/2.json",
-    "sha": "c7264e279bcba7439140db3d29d1223b1daaab6f"
+    "sha": "e9ae0e8263dc4e7fdd82f2052f304716d2de3df1"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Ephesians 3",
     "url": "https://getbible.net/v2/cns/49/3.json",
-    "sha": "41646df864f4279913abf0098c2e55e96e08dd2d"
+    "sha": "fe9504f1ec6637a65d91b40ab4514af73f73a166"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Ephesians 4",
     "url": "https://getbible.net/v2/cns/49/4.json",
-    "sha": "dcc464ed2da2e3a422eeee5a93b821f71f8da5eb"
+    "sha": "f4a26b2a45022fb332fdea53635484f26fc1c8d4"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Ephesians 5",
     "url": "https://getbible.net/v2/cns/49/5.json",
-    "sha": "c94bff8d58ec9c2a2c5e1f2c9ff153a6b2f9a973"
+    "sha": "b495e9386b90a3fa6568e88b4458ac76f395f4f3"
   },
   "6": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Ephesians 6",
     "url": "https://getbible.net/v2/cns/49/6.json",
-    "sha": "e6747451d99f4ea481f3d7cca0ed986008714e44"
+    "sha": "b4ec96329c8ff137e8c9cac4325603f198244a1c"
   }
 }

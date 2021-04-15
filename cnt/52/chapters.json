@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "1 Thessalonians 1",
     "url": "https://getbible.net/v2/cnt/52/1.json",
-    "sha": "b2253bd8e554291136eebfc2a79c4fa2ac3882a0"
+    "sha": "1bfa3327c273f2632bc841e3a798e80a8ee60066"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://getbible.net/v2/cnt/52/2.json",
-    "sha": "50e0d3294b800470286745a659af1e0d8c2554c0"
+    "sha": "bb050298541b6379832caa4c5d3edba95a7294a4"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "1 Thessalonians 3",
     "url": "https://getbible.net/v2/cnt/52/3.json",
-    "sha": "ce66fa282d29c053d6b1c43f84e97ff5fe764fc5"
+    "sha": "9e9427c32f0f4a97cf4270e1c9ac814dc35847a9"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "1 Thessalonians 4",
     "url": "https://getbible.net/v2/cnt/52/4.json",
-    "sha": "ddcb76dc65299c2c19b70bab174301a154ad79a6"
+    "sha": "b441a3a2973d3f7bab4199d627e3f87de5080a4c"
   },
   "5": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Thessalonians 5",
     "url": "https://getbible.net/v2/cnt/52/5.json",
-    "sha": "5dd2232116bce1e596723be319a4b2a43595ff9b"
+    "sha": "2b8d6332bb0d0b0b9eba7495ec7509341b990d44"
   }
 }

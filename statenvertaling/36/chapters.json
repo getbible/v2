@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://getbible.net/v2/statenvertaling/36/1.json",
-    "sha": "ea40c0abbb6fe1cf265643dc9d315d611adfb21e"
+    "sha": "512fed6080352276fc9ecabaa0eba9d60e10116a"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://getbible.net/v2/statenvertaling/36/2.json",
-    "sha": "820089575a092be1ac578c5c93957b556dd3e7de"
+    "sha": "ea1c54f0c23b61911b18b2eebf75157f5f4709fa"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://getbible.net/v2/statenvertaling/36/3.json",
-    "sha": "0375e55a1e982d1db9cfc947169a7cfc35ac0371"
+    "sha": "2ba1df9d0f27e89e79ccae49c1776fe11ebe198e"
   }
 }

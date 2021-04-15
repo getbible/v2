@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Lamentations 1",
     "url": "https://getbible.net/v2/cns/25/1.json",
-    "sha": "371de1b191edb4d4c1f6b44888aa6c1a99daec9b"
+    "sha": "2297f97e0fe89d995bd9a11825194cfd5b58621f"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Lamentations 2",
     "url": "https://getbible.net/v2/cns/25/2.json",
-    "sha": "dd1fb7d13097fe98596a0c8f8b7a06858cced244"
+    "sha": "d54888048d946b8217f6e57cc71fa24f2fc0bf35"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Lamentations 3",
     "url": "https://getbible.net/v2/cns/25/3.json",
-    "sha": "d7da411c80da6120598031b502b8bdbbf2bffc8c"
+    "sha": "21e8addff1350ed7087a32aec814f3e5106c0899"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Lamentations 4",
     "url": "https://getbible.net/v2/cns/25/4.json",
-    "sha": "8d8d679d937c1950d39861e626249dc12e59a681"
+    "sha": "ae7f5ce911b0259947f76ef6bfd14f837392844e"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Lamentations 5",
     "url": "https://getbible.net/v2/cns/25/5.json",
-    "sha": "83fa7f40c0bf306deed618f44f526e4b89f4540d"
+    "sha": "4c3e6a95729e59fce31939c43b89feb188e9f6fa"
   }
 }

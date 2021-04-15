@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 1,
     "name": "1 Timothy 1",
     "url": "https://getbible.net/v2/giovanni/54/1.json",
-    "sha": "a18a4c9125c2e9bd1c5206ae8126f2f1fc6e02a6"
+    "sha": "96cf8a2cc05e8b51015ca45a4c5104bd468561bd"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 2,
     "name": "1 Timothy 2",
     "url": "https://getbible.net/v2/giovanni/54/2.json",
-    "sha": "bd4b5fbab2e6c6572a8a7a43416243a5bbd5090e"
+    "sha": "9d687c451e891ead2d455e2e7f73940bc8f0514f"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 3,
     "name": "1 Timothy 3",
     "url": "https://getbible.net/v2/giovanni/54/3.json",
-    "sha": "dc664bff29d474ce4ed22cd5f11c24da10c34270"
+    "sha": "924cb0e003fc74f32d4b4c2dbd8e7691d15149bf"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 4,
     "name": "1 Timothy 4",
     "url": "https://getbible.net/v2/giovanni/54/4.json",
-    "sha": "fd69c5917164ad20536429c631214f49dba102d9"
+    "sha": "7a85602aa094fbe9fc9d66eb2361a9124cd9c02e"
   },
   "5": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -61,13 +61,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 5,
     "name": "1 Timothy 5",
     "url": "https://getbible.net/v2/giovanni/54/5.json",
-    "sha": "d49c82a3aaa015eb5ce5780f5d2ecccb6d7419aa"
+    "sha": "571815e39a8cc1803b56bbb6cf479e9ccaa12bda"
   },
   "6": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -75,12 +75,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 54,
     "book_name": "1 Timothy",
     "chapter": 6,
     "name": "1 Timothy 6",
     "url": "https://getbible.net/v2/giovanni/54/6.json",
-    "sha": "bd9453c2fdb9883d21d5ec2a2312523591de125d"
+    "sha": "b5220dd2cdc6897548066668ac5595c9be0927ea"
   }
 }

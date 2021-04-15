@@ -5,13 +5,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://getbible.net/v2/giovanni/30/1.json",
-    "sha": "54bae527ec0a185ff01428288cb66957033a426c"
+    "sha": "f66abc010408758a5cb0576f1738dd403e607e99"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -19,13 +19,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://getbible.net/v2/giovanni/30/2.json",
-    "sha": "2cc49040249d338e8f0fab84890bdc752ca852a7"
+    "sha": "42c885d17de0ef09ae9e54ba6eb5e6bc2fdca957"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -33,13 +33,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://getbible.net/v2/giovanni/30/3.json",
-    "sha": "b8513fdfcc48488bfb084ab9eef7cb957c59ee93"
+    "sha": "e4b4548158e72936381c476f8971ae74639bd919"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -47,13 +47,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://getbible.net/v2/giovanni/30/4.json",
-    "sha": "d0b6db8581306a718faa96f720fb9327738e1831"
+    "sha": "dbc353dc56d07ea9085af26cc20e9c8f02fead54"
   },
   "5": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -61,13 +61,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://getbible.net/v2/giovanni/30/5.json",
-    "sha": "876acf935aea9c14a3299b3241f14fb6e6fc4d53"
+    "sha": "ca8c598fffc9f2a4d4d3246a5c1315473973ea13"
   },
   "6": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -75,13 +75,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://getbible.net/v2/giovanni/30/6.json",
-    "sha": "2229aa2367ec8dda90aafae77c3af6eb1987c920"
+    "sha": "4f49214692a52a61b648c44eef5b5ef639a3660e"
   },
   "7": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -89,13 +89,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://getbible.net/v2/giovanni/30/7.json",
-    "sha": "fd2ec5979c73525c38bb8bd2b0ac1228373eacf2"
+    "sha": "309b0da70131a4bd09d913ca3b2806852b870bf3"
   },
   "8": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -103,13 +103,13 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://getbible.net/v2/giovanni/30/8.json",
-    "sha": "dcc88806425305fa3d4a878e36ab6a6658e1ee4d"
+    "sha": "9add2d0e43a1b7238852883f61801567e0396bcd"
   },
   "9": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -117,12 +117,12 @@
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://getbible.net/v2/giovanni/30/9.json",
-    "sha": "904e5a811be425ba1ea6e2ded0a8aa04fbf7c7a3"
+    "sha": "6f6a8fc87b2e55885e354aeaab02ee3d9b84e6d7"
   }
 }

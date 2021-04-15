@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "1 Thessalonians 1",
     "url": "https://getbible.net/v2/cns/52/1.json",
-    "sha": "98008e7cfa46934a6322165bcd6ebf28aa8d000b"
+    "sha": "dc8d93804a2595e72fa3ff0dfa7983bd95e8b051"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://getbible.net/v2/cns/52/2.json",
-    "sha": "731675b90d113ca58e869938b6f5ae8ca77fb13c"
+    "sha": "505b2b695511865f0db20cc1817a3b4bec28d2e1"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "1 Thessalonians 3",
     "url": "https://getbible.net/v2/cns/52/3.json",
-    "sha": "808a61ffd44618c3feb362c971981ce75a548577"
+    "sha": "bf3aee1534687b675cc2abfc39e40065fe59bac9"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "1 Thessalonians 4",
     "url": "https://getbible.net/v2/cns/52/4.json",
-    "sha": "f7aed2fdf2c305cf028cf02a5fd83473d174ae2b"
+    "sha": "0379a9b07e14f456b1b28336eb6ae1e1aa77e670"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Thessalonians 5",
     "url": "https://getbible.net/v2/cns/52/5.json",
-    "sha": "5cf7700ad326bc3579329262b5463a3fb22df150"
+    "sha": "fb42aa9c30125c08a6d5bd2b8b01bd047b9b2631"
   }
 }

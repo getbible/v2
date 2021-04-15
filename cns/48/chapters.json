@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Galatians 1",
     "url": "https://getbible.net/v2/cns/48/1.json",
-    "sha": "bb6c8206fc5b685aadaecc65587438ecd38f1db1"
+    "sha": "2c23819fb8c3c7bf613a97c447728e1c1d8dc246"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Galatians 2",
     "url": "https://getbible.net/v2/cns/48/2.json",
-    "sha": "11c413b2a34d9206f3a2aecf5e125c9c1fcea719"
+    "sha": "f49ddf8da47f5f9361a7f2ab18e730a939e18a76"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Galatians 3",
     "url": "https://getbible.net/v2/cns/48/3.json",
-    "sha": "f3a238c8a074c762948364d231320134c428f690"
+    "sha": "7c8d494e0188e0d9957e81a143dc814051be324d"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Galatians 4",
     "url": "https://getbible.net/v2/cns/48/4.json",
-    "sha": "9cc808f96350bfc3e111b3db3cc040e358af877a"
+    "sha": "652ef485845988634641af599b5388e3a60454dd"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Galatians 5",
     "url": "https://getbible.net/v2/cns/48/5.json",
-    "sha": "e6333dc500eadefa672244544749f96d0ad91ed4"
+    "sha": "24d2034cf274f6d09c27de8c503bd2f0d43a0fb8"
   },
   "6": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galatians 6",
     "url": "https://getbible.net/v2/cns/48/6.json",
-    "sha": "a3f4c2585acdd1c31e3db63841b02e78ebce4949"
+    "sha": "04917a91a1d746c1a0dbb0165f57b6190cd1b7bf"
   }
 }

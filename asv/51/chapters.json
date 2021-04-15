@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 51,
     "book_name": "Colossians",
     "chapter": 1,
     "name": "Colossians 1",
     "url": "https://getbible.net/v2/asv/51/1.json",
-    "sha": "8fe71429b97879103d0aaafc0a1b569d351b279a"
+    "sha": "92b1ec837523c0c4040b57a3103f99dd2566ee2f"
   },
   "2": {
     "translation": "American Standard Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 51,
     "book_name": "Colossians",
     "chapter": 2,
     "name": "Colossians 2",
     "url": "https://getbible.net/v2/asv/51/2.json",
-    "sha": "ed563d6c102c0214735a5096464fbc854fbc1d99"
+    "sha": "fe051235be4d337e2a7f797764b90b1b8aea82da"
   },
   "3": {
     "translation": "American Standard Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 51,
     "book_name": "Colossians",
     "chapter": 3,
     "name": "Colossians 3",
     "url": "https://getbible.net/v2/asv/51/3.json",
-    "sha": "3e87413f03d55dc5ea38dcd1bb0bce9dc8b366ec"
+    "sha": "6a2d6e7e7f5355c67d897d46d4ed86be5b6bd7c1"
   },
   "4": {
     "translation": "American Standard Version",
@@ -47,12 +47,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 51,
     "book_name": "Colossians",
     "chapter": 4,
     "name": "Colossians 4",
     "url": "https://getbible.net/v2/asv/51/4.json",
-    "sha": "9e866b66a46780223c84f6c16f3d0439b7224685"
+    "sha": "18aba4147211cc5a03d3cb35d4c8694d17166de1"
   }
 }

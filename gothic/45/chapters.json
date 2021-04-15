@@ -1,74 +1,4 @@
 {
-  "1": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 45,
-    "book_name": "Romans",
-    "chapter": 1,
-    "name": "Romans 1",
-    "url": "https://getbible.net/v2/gothic/45/1.json",
-    "sha": "af60ba404148ec0e549f184701d6a7e29a889343"
-  },
-  "2": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 45,
-    "book_name": "Romans",
-    "chapter": 2,
-    "name": "Romans 2",
-    "url": "https://getbible.net/v2/gothic/45/2.json",
-    "sha": "6b543949be785dc6a4798654d41c44d0a9f23b58"
-  },
-  "3": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 45,
-    "book_name": "Romans",
-    "chapter": 3,
-    "name": "Romans 3",
-    "url": "https://getbible.net/v2/gothic/45/3.json",
-    "sha": "36b375be3daff8bd5b74087ff9b2ff77249590c3"
-  },
-  "4": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 45,
-    "book_name": "Romans",
-    "chapter": 4,
-    "name": "Romans 4",
-    "url": "https://getbible.net/v2/gothic/45/4.json",
-    "sha": "c299b8ee728d02d35af678283b818cfbbc6b130e"
-  },
-  "5": {
-    "translation": "Gothic (Nehemiah NT Portions)",
-    "abbreviation": "gothic",
-    "lang": "got",
-    "language": "Gothic",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "book_nr": 45,
-    "book_name": "Romans",
-    "chapter": 5,
-    "name": "Romans 5",
-    "url": "https://getbible.net/v2/gothic/45/5.json",
-    "sha": "95f23df65e26fc4d77c176cc26fec398309bd23a"
-  },
   "6": {
     "translation": "Gothic (Nehemiah NT Portions)",
     "abbreviation": "gothic",
@@ -81,7 +11,7 @@
     "chapter": 6,
     "name": "Romans 6",
     "url": "https://getbible.net/v2/gothic/45/6.json",
-    "sha": "470b1810b6b613614624e3ef520d1ae2d3039361"
+    "sha": "e68cd01036f2c50d2c21587c0f28ce139287169e"
   },
   "7": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -109,7 +39,7 @@
     "chapter": 8,
     "name": "Romans 8",
     "url": "https://getbible.net/v2/gothic/45/8.json",
-    "sha": "938f3abc951255a2d1d78e679963c223541ec497"
+    "sha": "5c9f1f5b53d3c06ed64cff7b6820e84989d7b862"
   },
   "9": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -151,7 +81,7 @@
     "chapter": 11,
     "name": "Romans 11",
     "url": "https://getbible.net/v2/gothic/45/11.json",
-    "sha": "3ff0e8497b40e0129545e2454b18fdfd70792a46"
+    "sha": "2d29057c9b7d2714fbca8179f6b4546c63229788"
   },
   "12": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -165,7 +95,7 @@
     "chapter": 12,
     "name": "Romans 12",
     "url": "https://getbible.net/v2/gothic/45/12.json",
-    "sha": "226de14cb7a784c88fe5da0c2e64bc3f3890c367"
+    "sha": "537b9bd4c688422d3694c1a808113721279ec634"
   },
   "13": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -193,7 +123,7 @@
     "chapter": 14,
     "name": "Romans 14",
     "url": "https://getbible.net/v2/gothic/45/14.json",
-    "sha": "17b3a341a21490730e475ae53db40b0519786b4b"
+    "sha": "f7704ac2f450bcf5a7251f09dc7fc009f0526f59"
   },
   "15": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -207,7 +137,7 @@
     "chapter": 15,
     "name": "Romans 15",
     "url": "https://getbible.net/v2/gothic/45/15.json",
-    "sha": "977866214d32eb5bc492dfaf315533bb3cfbf235"
+    "sha": "834b5c873511dec89bb5aa8a4a7996183c5104ce"
   },
   "16": {
     "translation": "Gothic (Nehemiah NT Portions)",
@@ -221,6 +151,6 @@
     "chapter": 16,
     "name": "Romans 16",
     "url": "https://getbible.net/v2/gothic/45/16.json",
-    "sha": "7e73074e8a29b09346e1e66a13e76fc0511d4bfd"
+    "sha": "16bf6c094ec345039c5ea4016ab2d2abc0dc1af1"
   }
 }

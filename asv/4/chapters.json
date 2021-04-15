@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 1,
     "name": "Numbers 1",
     "url": "https://getbible.net/v2/asv/4/1.json",
-    "sha": "81292c9883b4285c1075a6b514c6b9ecb1bf23ab"
+    "sha": "71c1631900509a7b55fa77876c5e291b24241c98"
   },
   "2": {
     "translation": "American Standard Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 2,
     "name": "Numbers 2",
     "url": "https://getbible.net/v2/asv/4/2.json",
-    "sha": "b613ab6be549c7b0d1e7076d395540679fd8c54c"
+    "sha": "28640faa311b07a1d35cd23045122abe541aa7fd"
   },
   "3": {
     "translation": "American Standard Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 3,
     "name": "Numbers 3",
     "url": "https://getbible.net/v2/asv/4/3.json",
-    "sha": "113931b1792bfb7443f9f2752d6d4cbfbc12cb24"
+    "sha": "17c42a25b3b29990a75cc6b1109b5e2b9b6209d7"
   },
   "4": {
     "translation": "American Standard Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 4,
     "name": "Numbers 4",
     "url": "https://getbible.net/v2/asv/4/4.json",
-    "sha": "87cd1096196972322488301211c0a09fb84e353b"
+    "sha": "16b8141c0cb6af8b877ed99e72fbe29204b70b50"
   },
   "5": {
     "translation": "American Standard Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 5,
     "name": "Numbers 5",
     "url": "https://getbible.net/v2/asv/4/5.json",
-    "sha": "0b392a4d9d42409d3202181ab38fd6147d64979b"
+    "sha": "4858c00fb15272b05e0141e70fe25e4801b12330"
   },
   "6": {
     "translation": "American Standard Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 6,
     "name": "Numbers 6",
     "url": "https://getbible.net/v2/asv/4/6.json",
-    "sha": "b2719a64ec6b27ebec0dd94f2e6a5ae48eab6e33"
+    "sha": "6ea9125bc575ed5fd611c9e41cffbd04f03264cd"
   },
   "7": {
     "translation": "American Standard Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 7,
     "name": "Numbers 7",
     "url": "https://getbible.net/v2/asv/4/7.json",
-    "sha": "98b74547b10b112f0e41f5c593b5d4367c2da612"
+    "sha": "ad69506bb55c4f0638b544bee3cd84751bde59e6"
   },
   "8": {
     "translation": "American Standard Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 8,
     "name": "Numbers 8",
     "url": "https://getbible.net/v2/asv/4/8.json",
-    "sha": "287d6c91c6f776073eba85f8b63888ddec54d2be"
+    "sha": "62e65f6fdaf178a78fe6abb99b52eaf529e84cd5"
   },
   "9": {
     "translation": "American Standard Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 9,
     "name": "Numbers 9",
     "url": "https://getbible.net/v2/asv/4/9.json",
-    "sha": "22dd4f52743758f0541c9ec6e2a675a23284a31a"
+    "sha": "e281ba790202c4a07ba02408c7da0ba5b33790aa"
   },
   "10": {
     "translation": "American Standard Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 10,
     "name": "Numbers 10",
     "url": "https://getbible.net/v2/asv/4/10.json",
-    "sha": "d9dffd06f4a401ff20e53c751b2dcff844bdd0b2"
+    "sha": "74bfb978f9d529032b419315c01490ab2b8a9b49"
   },
   "11": {
     "translation": "American Standard Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 11,
     "name": "Numbers 11",
     "url": "https://getbible.net/v2/asv/4/11.json",
-    "sha": "c9145db916d65844cd24dcdb092e45737c2d4b79"
+    "sha": "dbf8fcd5977e0290d846758cc154fcba1f10dcb8"
   },
   "12": {
     "translation": "American Standard Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 12,
     "name": "Numbers 12",
     "url": "https://getbible.net/v2/asv/4/12.json",
-    "sha": "01dd6eee21b95e78421ed5f25e7b81c9d2005eed"
+    "sha": "708db5df3116ab9986f61e2419442138ea8e3399"
   },
   "13": {
     "translation": "American Standard Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 13,
     "name": "Numbers 13",
     "url": "https://getbible.net/v2/asv/4/13.json",
-    "sha": "56875a72d2348087e4bee4b8339a8dbd03c0b840"
+    "sha": "583e543967abe8fa071e2c08f723f70d88df9607"
   },
   "14": {
     "translation": "American Standard Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 14,
     "name": "Numbers 14",
     "url": "https://getbible.net/v2/asv/4/14.json",
-    "sha": "ee6efdf18450700e6cc49004972bd78782e81073"
+    "sha": "53a47afcee72d82a2f311b2d52cbfe1319c451b6"
   },
   "15": {
     "translation": "American Standard Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 15,
     "name": "Numbers 15",
     "url": "https://getbible.net/v2/asv/4/15.json",
-    "sha": "32912598e7b47f8152c7a520855f49cd44ae5038"
+    "sha": "47bfaf9df7d251f55a7d5d15e00d162ee8edb8d0"
   },
   "16": {
     "translation": "American Standard Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 16,
     "name": "Numbers 16",
     "url": "https://getbible.net/v2/asv/4/16.json",
-    "sha": "c3298bab5be5a4defa922abf23cb8ba8d0a00c1d"
+    "sha": "015d4e796075f0a5155689b243da9cbde0fc0c10"
   },
   "17": {
     "translation": "American Standard Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 17,
     "name": "Numbers 17",
     "url": "https://getbible.net/v2/asv/4/17.json",
-    "sha": "f964e0948eee185afb34a66e25b79a083b1f6866"
+    "sha": "8c20c3df6303a1530b0645da662f02b282660fee"
   },
   "18": {
     "translation": "American Standard Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 18,
     "name": "Numbers 18",
     "url": "https://getbible.net/v2/asv/4/18.json",
-    "sha": "38ee452964f1cc1cdb999bbf1bcf3f620c201356"
+    "sha": "73d5bacf573daf1dce6f8515111fb9fb1ee9eabe"
   },
   "19": {
     "translation": "American Standard Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 19,
     "name": "Numbers 19",
     "url": "https://getbible.net/v2/asv/4/19.json",
-    "sha": "5877697f23e98194c7803f8f62f0cbf2aba3712f"
+    "sha": "22cbd86f2d67a95ffb651e46369ed075485a935c"
   },
   "20": {
     "translation": "American Standard Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 20,
     "name": "Numbers 20",
     "url": "https://getbible.net/v2/asv/4/20.json",
-    "sha": "5daa433b201844955b004c15e7f04789c87072c6"
+    "sha": "d535799d6c615104d903fb094907805ddada3d1a"
   },
   "21": {
     "translation": "American Standard Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 21,
     "name": "Numbers 21",
     "url": "https://getbible.net/v2/asv/4/21.json",
-    "sha": "1a2a7511a1d59b0092fa88637e5d329c11587b73"
+    "sha": "a7e141e99dd59c523b815d692166f9a881741f0f"
   },
   "22": {
     "translation": "American Standard Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 22,
     "name": "Numbers 22",
     "url": "https://getbible.net/v2/asv/4/22.json",
-    "sha": "de14acd85d30f781b76fc150e21db8a4f15623fe"
+    "sha": "ea30ecf4bc2d25cf079cb578c9dc5a259853eb10"
   },
   "23": {
     "translation": "American Standard Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 23,
     "name": "Numbers 23",
     "url": "https://getbible.net/v2/asv/4/23.json",
-    "sha": "53c9717fd018ac7b804622964f443bacb3173621"
+    "sha": "87bd20681187290f18aaee5b47b8c1537a1442ab"
   },
   "24": {
     "translation": "American Standard Version",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 24,
     "name": "Numbers 24",
     "url": "https://getbible.net/v2/asv/4/24.json",
-    "sha": "caf277137944d6aa12bacd96c73fc0ae0c01fc15"
+    "sha": "f511d79d63a67c3a7111900209f356f7b439da35"
   },
   "25": {
     "translation": "American Standard Version",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 25,
     "name": "Numbers 25",
     "url": "https://getbible.net/v2/asv/4/25.json",
-    "sha": "71c7c40a6d5f995f21f5f14e06b080c4016b12cc"
+    "sha": "f6af7bf955dbe5d6e74f56b981f268e4cf888003"
   },
   "26": {
     "translation": "American Standard Version",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 26,
     "name": "Numbers 26",
     "url": "https://getbible.net/v2/asv/4/26.json",
-    "sha": "828b16e29739ead45aa9e75f8b6bc45f350a7d7d"
+    "sha": "dd30022f7cd0964812495f2daffa2afd97892eda"
   },
   "27": {
     "translation": "American Standard Version",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 27,
     "name": "Numbers 27",
     "url": "https://getbible.net/v2/asv/4/27.json",
-    "sha": "b173360f09e6c7d49cbe8b9712271285091e1eb8"
+    "sha": "5ea92095f51c31dfff8e16203203dc9b3b3137be"
   },
   "28": {
     "translation": "American Standard Version",
@@ -383,13 +383,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 28,
     "name": "Numbers 28",
     "url": "https://getbible.net/v2/asv/4/28.json",
-    "sha": "dbc393265a5ddb44fc5d034824103d926661226a"
+    "sha": "42073e6aa337985d726cedfbefd6cdf5613b1df9"
   },
   "29": {
     "translation": "American Standard Version",
@@ -397,13 +397,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 29,
     "name": "Numbers 29",
     "url": "https://getbible.net/v2/asv/4/29.json",
-    "sha": "74ca39f33752dbbf81d066f955038ca530281547"
+    "sha": "1bdd76db00c37c542b0763fb923c83ea8eeccc85"
   },
   "30": {
     "translation": "American Standard Version",
@@ -411,13 +411,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 30,
     "name": "Numbers 30",
     "url": "https://getbible.net/v2/asv/4/30.json",
-    "sha": "7d57db283b21a1d637d927bd1ea76af4c64e7ed1"
+    "sha": "fc2326056c6368d5a837ad61d1f0db2df51aa426"
   },
   "31": {
     "translation": "American Standard Version",
@@ -425,13 +425,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 31,
     "name": "Numbers 31",
     "url": "https://getbible.net/v2/asv/4/31.json",
-    "sha": "cd8cc8ff3c47c5f240455a817e257a2cd72f9b2e"
+    "sha": "24da9225477989912bf0ad667260a5e395c905bd"
   },
   "32": {
     "translation": "American Standard Version",
@@ -439,13 +439,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 32,
     "name": "Numbers 32",
     "url": "https://getbible.net/v2/asv/4/32.json",
-    "sha": "f1d6ed60deb3548b4c70bca565962d757de7cb71"
+    "sha": "b047c018a628bbca02ead4f8103403e14191c97d"
   },
   "33": {
     "translation": "American Standard Version",
@@ -453,13 +453,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 33,
     "name": "Numbers 33",
     "url": "https://getbible.net/v2/asv/4/33.json",
-    "sha": "03627bfdd5eb280367e5a755ac276688368b3313"
+    "sha": "a7f255d41da5688dd173914456f29407b0fe274e"
   },
   "34": {
     "translation": "American Standard Version",
@@ -467,13 +467,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 34,
     "name": "Numbers 34",
     "url": "https://getbible.net/v2/asv/4/34.json",
-    "sha": "8ff9f1b008a448893a0bbbf30e4fb1d23e888699"
+    "sha": "1a80cb1981e37b01a2cb2363bce974f04a06651e"
   },
   "35": {
     "translation": "American Standard Version",
@@ -481,13 +481,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 35,
     "name": "Numbers 35",
     "url": "https://getbible.net/v2/asv/4/35.json",
-    "sha": "5a91b4d9488c8650345db85151dc281f7bd97454"
+    "sha": "bc8f2fd4c8339165635e182a6a47143dacd178d2"
   },
   "36": {
     "translation": "American Standard Version",
@@ -495,12 +495,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 36,
     "name": "Numbers 36",
     "url": "https://getbible.net/v2/asv/4/36.json",
-    "sha": "0f86e55b2ab74cdad043f915e82000b2e3517ac5"
+    "sha": "18e673df4beef6e9194804e05827e5e717c56cc9"
   }
 }

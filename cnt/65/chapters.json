@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
-    "lang": "zh",
+    "lang": "zh-Hant",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Jude 1",
     "url": "https://getbible.net/v2/cnt/65/1.json",
-    "sha": "4eae77c4d9cb39a2b8b3c53ce3c47630fbdfe182"
+    "sha": "852d7207c1fa4c5018fa2668b5ea268e60875cf8"
   }
 }

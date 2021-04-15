@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 1,
     "name": "Esther 1",
     "url": "https://getbible.net/v2/asv/17/1.json",
-    "sha": "bca3ea24995101f3b911062224c0608b30745907"
+    "sha": "6678a58af51617c9eb452803397798ff0f1af69a"
   },
   "2": {
     "translation": "American Standard Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 2,
     "name": "Esther 2",
     "url": "https://getbible.net/v2/asv/17/2.json",
-    "sha": "e21b2aef88329c88a9b90f42b98ecb548e6aceaf"
+    "sha": "92d42d0827ee06eb684dcc519f5a060f765132a4"
   },
   "3": {
     "translation": "American Standard Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 3,
     "name": "Esther 3",
     "url": "https://getbible.net/v2/asv/17/3.json",
-    "sha": "60fcac5760444a44a7046ce071826dd019aa1c23"
+    "sha": "24e2d51a7ee8a8105aaece3f91d5f6a5a4c9c45a"
   },
   "4": {
     "translation": "American Standard Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 4,
     "name": "Esther 4",
     "url": "https://getbible.net/v2/asv/17/4.json",
-    "sha": "ed1a89a185452a2a84d6387cc18a3c9b19110d21"
+    "sha": "f19a80ec8b878c80f23e5e17c8e48b7b962e8cf5"
   },
   "5": {
     "translation": "American Standard Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 5,
     "name": "Esther 5",
     "url": "https://getbible.net/v2/asv/17/5.json",
-    "sha": "824a09e4a5a96ba724093ae2e6427a1ea5d8baf5"
+    "sha": "0d4c3c382f3863781ecbeab167fad2f063bcd115"
   },
   "6": {
     "translation": "American Standard Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 6,
     "name": "Esther 6",
     "url": "https://getbible.net/v2/asv/17/6.json",
-    "sha": "803b8f517fa6c6a5353558ddb1e7d68db1e5095a"
+    "sha": "f4d83fed79f136e5e748794b9e2e06d932676506"
   },
   "7": {
     "translation": "American Standard Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 7,
     "name": "Esther 7",
     "url": "https://getbible.net/v2/asv/17/7.json",
-    "sha": "bd1fbddd9481be59bdcb9746178e00afe7f2951b"
+    "sha": "1396264cb4687538a79dabba0a0585e1453cea18"
   },
   "8": {
     "translation": "American Standard Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 8,
     "name": "Esther 8",
     "url": "https://getbible.net/v2/asv/17/8.json",
-    "sha": "13db316302b9688987228f8fd136406bc12cc3e7"
+    "sha": "63582eb5e331578dc778109f2c1f91d12c20f757"
   },
   "9": {
     "translation": "American Standard Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 9,
     "name": "Esther 9",
     "url": "https://getbible.net/v2/asv/17/9.json",
-    "sha": "41c14b3e1a16082979b6eb1d9504afc64ba48a4d"
+    "sha": "96c0c2c164458ca39adf0cc60dc86bb30df4f698"
   },
   "10": {
     "translation": "American Standard Version",
@@ -131,12 +131,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 17,
     "book_name": "Esther",
     "chapter": 10,
     "name": "Esther 10",
     "url": "https://getbible.net/v2/asv/17/10.json",
-    "sha": "427358b1ba32864a9b746f5a4f48f956e6cc72b4"
+    "sha": "9b0f45e667f2c817bba11108b9182ebfb8ffe467"
   }
 }

@@ -2,7 +2,7 @@
   "1": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -11,12 +11,12 @@
     "chapter": 1,
     "name": "Song of Songs 1",
     "url": "https://getbible.net/v2/cns/22/1.json",
-    "sha": "97c305c739e5ad87bfb68966d01ad87e3bd36d59"
+    "sha": "c1f45eeb2e738522cf78766a3d5d1310a8c35358"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -25,12 +25,12 @@
     "chapter": 2,
     "name": "Song of Songs 2",
     "url": "https://getbible.net/v2/cns/22/2.json",
-    "sha": "add4087db6b7ca3062eb019ef3c5abc2654fa54b"
+    "sha": "dc33a4d0cf711664381ea8aac11ad77db59dd8c0"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -39,12 +39,12 @@
     "chapter": 3,
     "name": "Song of Songs 3",
     "url": "https://getbible.net/v2/cns/22/3.json",
-    "sha": "1e9294f8d62337bbb395ca0dfdc616d87d281c83"
+    "sha": "51ebfa3f62fc5e2d4fa8ca5c378ea850c80d2eeb"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -53,12 +53,12 @@
     "chapter": 4,
     "name": "Song of Songs 4",
     "url": "https://getbible.net/v2/cns/22/4.json",
-    "sha": "13896b16036b9a7fbf91cd7f053ae7409be18429"
+    "sha": "3ec3d4c331797aad7ecd2c14501c87a078fe90de"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -67,12 +67,12 @@
     "chapter": 5,
     "name": "Song of Songs 5",
     "url": "https://getbible.net/v2/cns/22/5.json",
-    "sha": "3f5c07796d24d4f7a481a165fd5dd19f4bc61fc9"
+    "sha": "c8eb64842558c36e14224432ec349a70b6d16102"
   },
   "6": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -81,12 +81,12 @@
     "chapter": 6,
     "name": "Song of Songs 6",
     "url": "https://getbible.net/v2/cns/22/6.json",
-    "sha": "fed8854372f2ed57d7901532f9f508a8316e9c03"
+    "sha": "5efd943f7f3deb5d8804702c6bc35ba183425907"
   },
   "7": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -95,12 +95,12 @@
     "chapter": 7,
     "name": "Song of Songs 7",
     "url": "https://getbible.net/v2/cns/22/7.json",
-    "sha": "48ffaa51894ebc3a148eade2dedd2f36009f566d"
+    "sha": "f99fbce20947175a835690e6654215a1b5bca8af"
   },
   "8": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
-    "lang": "zh",
+    "lang": "zh-Hans",
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "Song of Songs 8",
     "url": "https://getbible.net/v2/cns/22/8.json",
-    "sha": "b6782662d2f12a7bbd75a5d34c0b4cbdab2cf4b2"
+    "sha": "9c7291121395c14d79c437d719ed194e085490b2"
   }
 }
