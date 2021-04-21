@@ -1106,6 +1106,29 @@
     "url": "https://getbible.net/v2/luther1545.json",
     "sha": "14fbfdeb1c5f7e1ac8f42dead7c5ef6f8b0090ea"
   },
+  "mal1910": {
+    "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
+    "abbreviation": "mal1910",
+    "lang": "ml",
+    "language": "Malayalam",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Malayalam.",
+    "distribution_version": "1.1.1",
+    "distribution_version_date": "2015-12-25",
+    "distribution_abbreviation": "mal1910",
+    "distribution_about": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://github.com/tfbf/sathyavedapusthakam",
+    "distribution_versification": "NRSV",
+    "distribution_history": {
+      "history_1.1": "Some further encoding corrections",
+      "history_1.1.1": "Some conf corrections"
+    },
+    "url": "https://getbible.net/v2/mal1910.json",
+    "sha": "b5bef5f995e9ffc54ab4deb45a3fe05f03863d38"
+  },
   "manxgaelic": {
     "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
     "abbreviation": "manxgaelic",
