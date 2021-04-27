@@ -1109,9 +1109,9 @@
   "mal1910": {
     "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
     "abbreviation": "mal1910",
-    "lang": "ml",
+    "lang": "mal",
     "language": "Malayalam",
-    "direction": "RTL",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. Malayalam.",
     "distribution_version": "1.1.1",
@@ -1127,7 +1127,7 @@
       "history_1.1.1": "Some conf corrections"
     },
     "url": "https://getbible.net/v2/mal1910.json",
-    "sha": "b5bef5f995e9ffc54ab4deb45a3fe05f03863d38"
+    "sha": "0ec41f1873730f658499542256396927024b52a4"
   },
   "manxgaelic": {
     "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",

@@ -2,15 +2,15 @@
   "1": {
     "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
     "abbreviation": "mal1910",
-    "lang": "ml",
+    "lang": "mal",
     "language": "Malayalam",
-    "direction": "RTL",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 65,
     "book_name": "Jude",
     "chapter": 1,
     "name": "Jude 1",
     "url": "https://getbible.net/v2/mal1910/65/1.json",
-    "sha": "07826c676fd312d073b4e340cbc529843f362a56"
+    "sha": "dd511de7ec33755c70be9a4b65c25f54c7bc13a7"
   }
 }
