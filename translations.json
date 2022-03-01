@@ -33,8 +33,8 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Arabic",
-    "distribution_version": "2.1",
-    "distribution_version_date": "2020-12-30",
+    "distribution_version": "2.2",
+    "distribution_version_date": "2022-01-29",
     "distribution_abbreviation": "SVD",
     "distribution_about": "Al-Kitab al-Muqaddas (Arabic Bible)\\par Translated by Drs. Eli Smith & Cornelius van Alen van Dyck, 1865.\\par\\par Per kind permissions from:\\par Arabic Bible Outreach Ministry\\par P.O. 486\\par Dracut, MA 08126\\par USA\\par\\par http://www.arabicbible.com/\\par\\par This Bible module may be re-distributed in Sword format only. Conversion to other formats is not permitted without express permission of the copyright holder.",
     "distribution_license": "Copyrighted; Permission granted to distribute non-commercially in SWORD format",
@@ -48,10 +48,11 @@
       "history_1.7": "Rectified distribution license",
       "history_1.8": "Corrected missing parts of many verses",
       "history_2.0": "(2020-02-08) Fix Ps 119 issue",
-      "history_2.1": "(2020-12-30) Corrections"
+      "history_2.1": "(2021-01-12) Corrections",
+      "history_2.2": "(2022-01-29) Spurious characters in the text, bug report MOD-430. Osis build was faulty, source was OK."
     },
     "url": "https://getbible.net/v2/arabicsv.json",
-    "sha": "88cf555aab128b86748566b804556c684e5bfa85"
+    "sha": "0021548877b6cc0c856916bc06fa94272d45a91d"
   },
   "basque": {
     "translation": "(Navarro Labourdin) NT",
