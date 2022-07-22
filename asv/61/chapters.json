@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/asv/61/1.json",
+    "sha": "5e6723b38353d16e18fe7a702dbe95e4095ee296"
+  },
+  "2": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/asv/61/2.json",
+    "sha": "6e53d04aba8ead097d00a8bcc4978657bdbbb419"
+  },
+  "3": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/asv/61/3.json",
+    "sha": "805fa827e69a6c485b12193e9ca827fea0cfcf46"
+  }
+}

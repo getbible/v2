@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://getbible.net/v2/aleppo/37/1.json",
+    "sha": "d8cbf7f88f91cf14dfc59d233caa6621149cd862"
+  },
+  "2": {
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "lang": "he",
+    "language": "Hebrew",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://getbible.net/v2/aleppo/37/2.json",
+    "sha": "5d52c2f2c24015b5415b155657628f82616583e0"
+  }
+}

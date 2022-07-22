@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://getbible.net/v2/westcotthort/53/1.json",
+    "sha": "820693b3581406c036c57a596e0a15c05e212ca1"
+  },
+  "2": {
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://getbible.net/v2/westcotthort/53/2.json",
+    "sha": "5d2f7bf18e0e1cff8b15f30e4ec92836c83a006e"
+  },
+  "3": {
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://getbible.net/v2/westcotthort/53/3.json",
+    "sha": "b49d435316dc9d14d3210f9de53164ae24f8801d"
+  }
+}

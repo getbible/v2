@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/web/56/1.json",
+    "sha": "bacb99360b01fc9afceb5aab4ea81fdf903ca894"
+  },
+  "2": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/web/56/2.json",
+    "sha": "4a828708d67b9c95cd1bed17282ea00215e217c6"
+  },
+  "3": {
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/web/56/3.json",
+    "sha": "6f5e1dfcfdfe0b036bd4ca52193cec64dd63d383"
+  }
+}

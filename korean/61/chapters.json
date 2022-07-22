@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://getbible.net/v2/korean/61/1.json",
+    "sha": "e463de3fc6c75ca4f7e7c83256a6a07b6eed4b44"
+  },
+  "2": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://getbible.net/v2/korean/61/2.json",
+    "sha": "28ec60d68c6ba6c0f0fe5e802d080a074f61ad1c"
+  },
+  "3": {
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://getbible.net/v2/korean/61/3.json",
+    "sha": "1f8ace357ebd202bfd1a37316198ee0557bc96a3"
+  }
+}

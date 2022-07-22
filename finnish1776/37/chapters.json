@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "lang": "fi",
+    "language": "Finnish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://getbible.net/v2/finnish1776/37/1.json",
+    "sha": "e308790044b5b47a244561cd40e368204ea40a98"
+  },
+  "2": {
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "lang": "fi",
+    "language": "Finnish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://getbible.net/v2/finnish1776/37/2.json",
+    "sha": "f1d627010725746d275986f7b5e2503513eafa72"
+  }
+}

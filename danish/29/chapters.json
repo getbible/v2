@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/danish/29/1.json",
+    "sha": "d520a4abddd09faef4d3c57e685581f73ba64989"
+  },
+  "2": {
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/danish/29/2.json",
+    "sha": "97628ce14a0dc03726f9d4c11488457836f2caa3"
+  },
+  "3": {
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/danish/29/3.json",
+    "sha": "41dd604e1374c04c9f4fd3a9089355272a445e3a"
+  }
+}

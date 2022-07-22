@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "lang": "de",
+    "language": "German",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/luther1545/29/1.json",
+    "sha": "17cb7d6c86e809dd2e9c7122ed97d0178f0e8437"
+  },
+  "2": {
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "lang": "de",
+    "language": "German",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/luther1545/29/2.json",
+    "sha": "147048e1a2fd668a9ed43a437f4911024b327192"
+  },
+  "3": {
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "lang": "de",
+    "language": "German",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/luther1545/29/3.json",
+    "sha": "f6e3a90d63f79c1d517a8499f0fe71f70a26da1e"
+  }
+}

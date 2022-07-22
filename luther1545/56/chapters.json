@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "lang": "de",
+    "language": "German",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://getbible.net/v2/luther1545/56/1.json",
+    "sha": "a252d875c979f285ebeaf4930a62435750ef2cee"
+  },
+  "2": {
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "lang": "de",
+    "language": "German",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://getbible.net/v2/luther1545/56/2.json",
+    "sha": "666db096247afe9c95532e0e52e4b3a1c3f8f569"
+  },
+  "3": {
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "lang": "de",
+    "language": "German",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://getbible.net/v2/luther1545/56/3.json",
+    "sha": "da99a76a29431013d7083bed7e7fabc6b1e88f77"
+  }
+}

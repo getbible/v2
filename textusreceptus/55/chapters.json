@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://getbible.net/v2/textusreceptus/55/1.json",
+    "sha": "f3a1afc61e09e83475a375b2c3a2e27f0a619386"
+  },
+  "2": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://getbible.net/v2/textusreceptus/55/2.json",
+    "sha": "34cf1971be2cc0d7ffd968fadc78908185c7edbc"
+  },
+  "3": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://getbible.net/v2/textusreceptus/55/3.json",
+    "sha": "4db1367a8c2009800eb23f7ce77c7a7de6ac37d7"
+  },
+  "4": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://getbible.net/v2/textusreceptus/55/4.json",
+    "sha": "d7d7350a716a83062ba5f9599e3e3e5b5cb3f177"
+  }
+}

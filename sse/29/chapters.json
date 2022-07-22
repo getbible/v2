@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "lang": "es",
+    "language": "Spanish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/sse/29/1.json",
+    "sha": "6b02dd5e423e2e08198e1101811eb36e4dfdbed5"
+  },
+  "2": {
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "lang": "es",
+    "language": "Spanish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/sse/29/2.json",
+    "sha": "04dc233268a22c3ccc32662dfe47c1b9353d9990"
+  },
+  "3": {
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "lang": "es",
+    "language": "Spanish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/sse/29/3.json",
+    "sha": "c87ea8b609dee809c3b71c02a78167c5b39d7b45"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://getbible.net/v2/textusreceptus/50/1.json",
+    "sha": "5240b17c2a5a4427b1dcbd01cb1660d90e9806b5"
+  },
+  "2": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://getbible.net/v2/textusreceptus/50/2.json",
+    "sha": "bd466efb747976f9d65cf8e0da034ce8fd9f1821"
+  },
+  "3": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://getbible.net/v2/textusreceptus/50/3.json",
+    "sha": "5c7cfc0fb5dedf446490a0142852ed6c5ee40152"
+  },
+  "4": {
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://getbible.net/v2/textusreceptus/50/4.json",
+    "sha": "d8296839fb80e32909ce3966b1776c421e81c671"
+  }
+}

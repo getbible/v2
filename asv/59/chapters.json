@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://getbible.net/v2/asv/59/1.json",
+    "sha": "69d34ae7d9846025bd7ea0a0418a95d6aa02bf2b"
+  },
+  "2": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://getbible.net/v2/asv/59/2.json",
+    "sha": "283dc46f3aee8773e6bd24f9e0b1c1c9a66d3aed"
+  },
+  "3": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://getbible.net/v2/asv/59/3.json",
+    "sha": "23a274408a673c06bb84811944285b97e204020d"
+  },
+  "4": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://getbible.net/v2/asv/59/4.json",
+    "sha": "552fc11a923ec0bca668e7affc1d79c600b53808"
+  },
+  "5": {
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://getbible.net/v2/asv/59/5.json",
+    "sha": "ae8c33cbb010f03a3571eb80d15669137f7c5d64"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://getbible.net/v2/statenvertaling/37/1.json",
+    "sha": "a4600533c345381ac8e3d542dca332d3136c6cd5"
+  },
+  "2": {
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://getbible.net/v2/statenvertaling/37/2.json",
+    "sha": "bb7c0da48ddbd330bd76558e37269eff771f1725"
+  }
+}
