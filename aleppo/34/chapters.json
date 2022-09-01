@@ -2,43 +2,43 @@
   "1": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
     "url": "https://getbible.net/v2/aleppo/34/1.json",
-    "sha": "ed91c0049bc114aea6d820e2c3a85e4ae9c98b89"
+    "sha": "18d902645f83a8b9d5f941f44e2b79ebd38cfd12"
   },
   "2": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
     "url": "https://getbible.net/v2/aleppo/34/2.json",
-    "sha": "70eba0cea95095c77ee17d5ff635d9063b49edd8"
+    "sha": "89cf5259e6c7f1ebcfc456a8d84073de1cb1f15d"
   },
   "3": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
     "url": "https://getbible.net/v2/aleppo/34/3.json",
-    "sha": "0127c504a0b5b3dec7058fd11e1a48f1d49258ee"
+    "sha": "2e7d501ac1311ffb8db9001ac18f37638674ec56"
   }
 }

@@ -26,12 +26,12 @@
   "aleppo": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. O.T. Hebrew.",
-    "distribution_version": "2.0",
+    "distribution_version": "2.0.1",
     "distribution_version_date": "2008-11-07",
     "distribution_abbreviation": "aleppo",
     "distribution_about": "The Aleppo Codex without Vowel Points or Punctuation\\par Based on the electronic edition at http://www.mechon-mamre.org",
@@ -40,11 +40,12 @@
     "distribution_source": "http://www.mechon-mamre.org/",
     "distribution_versification": "MT",
     "distribution_history": {
+      "history_1.1": "Converted to OSIS, removed prepended Hebrew verse numbers, removed extraneous copies of verses",
       "history_2.0": "Changed to native versification (MT)",
-      "history_1.1": "Converted to OSIS, removed prepended Hebrew verse numbers, removed extraneous copies of verses"
+      "history_2.0.1": "(2022-08-06) Change Lang to Hebrew Ancient"
     },
     "url": "https://getbible.net/v2/aleppo.json",
-    "sha": "2ceb0b10f7d1599485669b6f36a0456dbcc14b92"
+    "sha": "1567f16903e6f7e67f7181f1d0a6a1f485be4075"
   },
   "almeida": {
     "translation": "Almeida Atualizada",
@@ -54,21 +55,22 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. Portuguese.",
-    "distribution_version": "1.3",
+    "distribution_version": "1.3.1",
     "distribution_version_date": "2012-08-13",
     "distribution_abbreviation": "almeida",
     "distribution_about": "A Traduçao do Texto Recebido (Textus Receptus)",
-    "distribution_license": "Creative Commons: by-nd",
+    "distribution_license": "Creative Commons: BY-ND 4.0",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "http://www.almeidarecebida.org/",
     "distribution_versification": "KJV",
     "distribution_history": {
-      "history_1.3": "Updated to version 1.2+ε, 2012-08-03 text (2012-08-13)",
+      "history_1.0": "Initial release, based on version 1.1, 2012-03-19 text (2012-07-10)",
       "history_1.2": "Updated to version 1.2, 2012-08-01 text (2012-08-02)",
-      "history_1.0": "Initial release, based on version 1.1, 2012-03-19 text (2012-07-10)"
+      "history_1.3": "Updated to version 1.2+ε, 2012-08-03 text (2012-08-13)",
+      "history_1.3.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
     "url": "https://getbible.net/v2/almeida.json",
-    "sha": "d1995a4742a3c9d3230be888ee92391a79ee6661"
+    "sha": "1afb34f1362b130681fd15a681d3369d45df2f88"
   },
   "aov": {
     "translation": "Ou Vertaling",
@@ -78,23 +80,24 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. Afrikaans.",
-    "distribution_version": "1.3.2",
+    "distribution_version": "1.3.3",
     "distribution_version_date": "2009-03-24",
     "distribution_abbreviation": "aov",
     "distribution_about": "1933/1953 Afrikaans Bybel,\\par Copyright 1933, 1953, Bybelgenootskap van Suid Afrika\\par This copyright Bible has kindly been made available by the Bible Society of South Africa, strictly for non-commercial use with The SWORD Project.  Please consider making a contribution to them to help fund their continuing efforts in Bible translation, such as their current Southern Ndebele translation project.  To contribute towards the distribution of affordable Bibles in South Africa, visit: http://www.biblesociety.co.za/contributions.htm.",
     "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
     "distribution_sourcetype": "OSIS",
-    "distribution_source": "",
+    "distribution_source": "http://www.biblesociety.co.za",
     "distribution_versification": "",
     "distribution_history": {
-      "history_1.3.2": " conf file correction",
-      "history_1.3.1": " corrected conf file",
-      "history_1.3": "corrected a number of encoding errors",
+      "history_1.1": "replaced missing verses",
       "history_1.2": "unlocked",
-      "history_1.1": "replaced missing verses"
+      "history_1.3": "corrected a number of encoding errors",
+      "history_1.3.1": "corrected conf file",
+      "history_1.3.2": "conf file correction",
+      "history_1.3.3": "(2022-08-01) conf file correction"
     },
     "url": "https://getbible.net/v2/aov.json",
-    "sha": "affef34d6628d2b980a3357b620245f6e0003088"
+    "sha": "b74929dcf727603e6da1fb9b2a846edf9dc3b667"
   },
   "arabicsv": {
     "translation": "Smith and Van Dyke",
@@ -349,7 +352,7 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Chinese (Subform \"hans\")",
-    "distribution_version": "1.1",
+    "distribution_version": "1.1.1",
     "distribution_version_date": "2020-12-20",
     "distribution_abbreviation": "NCVs",
     "distribution_about": "新译本 Chinese New Version (simplified) copyright © 1976, 1992, 1999, 2001, 2005, 2010 The Worldwide Bible Society Limited Language: 中文 (Chinese) Dialect: Mandarin, simplified script Translation by: The Worldwide Bible Society Ltd. 2014-02-07",
@@ -358,11 +361,12 @@
     "distribution_source": "https://www.worldbiblesociety.org",
     "distribution_versification": "NRSV",
     "distribution_history": {
-      "history_1.1": "New release: fix MOD-",
-      "history_1.0": "First release"
+      "history_1.0": "First release",
+      "history_1.1": "(2020-12-28) New release. Fix MOD-?",
+      "history_1.1.1": "(2022-08-02) Fix typos in configuration file"
     },
     "url": "https://getbible.net/v2/cns.json",
-    "sha": "a53a7f5a37499e1b4c698541c253126d157decc8"
+    "sha": "2104eb4572345d4e3f6d3bd83eca7c63d00020ae"
   },
   "cnt": {
     "translation": "NCV Traditional",
@@ -372,30 +376,31 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Chinese (Subform \"hant\")",
-    "distribution_version": "1.1",
+    "distribution_version": "1.1.1",
     "distribution_version_date": "2020-12-21",
     "distribution_abbreviation": "NCVt",
-    "distribution_about": "新譯本 Chinese New Version (traditional) copyright © 1976, 1992, 1999, 2001, 2005, 2010 The Worldwide Bible Society Limited Language: 中國語文 (Chinese) Dialect: Mandarin, traditional script Translation by: The Worldwide Bible Society 2020-08-07 \\\nLanguage: 繁体中文 (Chinese, Traditional) \\",
+    "distribution_about": "新譯本 Chinese New Version (traditional) copyright © 1976, 1992, 1999, 2001, 2005, 2010 The Worldwide Bible Society Limited Language: 中國語文 (Chinese) Dialect: Mandarin, traditional script Translation by: The Worldwide Bible Society 2020-08-07 \\\nLanguage: 繁体中文 (Chinese, Traditional)",
     "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "https://www.worldbiblesociety.org",
     "distribution_versification": "KJV",
     "distribution_history": {
-      "history_1.1": "New sources 2020-07-12",
-      "history_1.0": "First Release"
+      "history_1.0": "First Release",
+      "history_1.1": "(2020-12-28) New Source",
+      "history_1.1.1": "(2022-08-02) Fix typos in configuration file"
     },
     "url": "https://getbible.net/v2/cnt.json",
-    "sha": "2085e0a28217bec922855fb8971f58843b426c86"
+    "sha": "0d9fda2be1391509a27f1a6822eacb15f8564ea9"
   },
   "codex": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. O.T. Hebrew.",
-    "distribution_version": "1.9",
+    "distribution_version": "1.9.1",
     "distribution_version_date": "2013-10-11",
     "distribution_abbreviation": "codex",
     "distribution_about": "This text began as an electronic transcription by Whitaker and Parunak of the 1983 printed edition of Biblia Hebraica Stuttgartensia (BHS). The transcription is called the Michigan-Claremont electronic text and was archived at the Oxford Text Archive (OTA) in 1987. Since that time, the text has been modified to conform to the photo-facsimile of the Leningrad Codex, Firkovich B19A, residing at the Russian National Library, St. Petersberg; hence the change of name. This version contains all 6 of the textual elements of the OTA document: consonants, vowels, cantillation marks, \"paragraph\" (pe, samekh) markers, and ketiv-qere variants. Morphological divisions have been added.\\par\\par The BHS so-called \"paragraph\" markers (pe and samekh) do not actually occur in the Leningrad Codex. The editors of BHS use them to indicate open space deliberately left blank by the scribe. Pe (\"open\" paragraph) represents a space between verses, where the new verse begins on a new column line. This represents a major section of the text. Samekh (\"closed\" paragraph) represents a space of less than a line between verses. This is understood to be a subdivision of the corresponding \"open\" section. Since these markers represent an actual physical feature of the text, they have been retained.\\par\\par The WLC is maintained by the Westminster Hebrew Institute, Philadelphia, PA (http://whi.wts.edu/WHI). This edition is based on Christopher V. Kimball's edition (http://www.tanach.us/Tanach.xml), which also adds textual source assignment based in the Pentateuch on the documentary hypothesis.",
@@ -404,19 +409,20 @@
     "distribution_source": "http://whi.wts.edu/WHI, http://www.tanach.us/Tanach.xml",
     "distribution_versification": "Leningrad",
     "distribution_history": {
-      "history_1.9": "Updated to WLC 4.18 (2013-10-11)",
-      "history_1.8": "Added pe & samekh 'paragraph' marks to text (2012-04-17)",
-      "history_1.7": "Updated to WLC 4.14, corrected some spurious markup (2012-04-14)",
-      "history_1.6": "Updated source attribution, undid NFC normalization, placed DH identification notes inline, fixed spacing problem (2009-05-26)",
-      "history_1.5": "Updated to WLC 4.10 with additions from www.tanach.us, using native versification",
-      "history_1.4": "Corrected internal markup to conform to OSIS 2.1.1 schema, changed About markup to RTF (2008-07-02)",
-      "history_1.3": "Fixed the conf",
-      "history_1.2": "Bugfix for textual errors. Re-added setumot and paraschot, even though their presence in L is not verified, according to Kirk Lowery. Fixed transcription note values. Included morphological segmentation in preliminary markup. Added xml:lang=\"en\" to notes. Update to newer version (wlc-4.4).",
+      "history_1.0": "First public version.",
       "history_1.1": "Update to newer version (wlc43-20050319) of the WLC from WHI; Bugfixes in the conversion program that caused textual errors (thanks to Chris Kimball); Fixed one footnote text template.",
-      "history_1.0": "First public version."
+      "history_1.2": "Bugfix for textual errors. Re-added setumot and paraschot, even though their presence in L is not verified, according to Kirk Lowery. Fixed transcription note values. Included morphological segmentation in preliminary markup. Added xml:lang=\"en\" to notes. Update to newer version (wlc-4.4).",
+      "history_1.3": "Fixed the conf",
+      "history_1.4": "Corrected internal markup to conform to OSIS 2.1.1 schema, changed About markup to RTF (2008-07-02)",
+      "history_1.5": "Updated to WLC 4.10 with additions from www.tanach.us, using native versification",
+      "history_1.6": "Updated source attribution, undid NFC normalization, placed DH identification notes inline, fixed spacing problem (2009-05-26)",
+      "history_1.7": "Updated to WLC 4.14, corrected some spurious markup (2012-04-14)",
+      "history_1.8": "Added pe & samekh 'paragraph' marks to text (2012-04-17)",
+      "history_1.9": "Updated to WLC 4.18 (2013-10-11)",
+      "history_1.9.1": "(2022-08-06) Change Lang to Hebrew Ancient"
     },
     "url": "https://getbible.net/v2/codex.json",
-    "sha": "cbcfe733a3cf78a9277715a2b22f7e667c5844b2"
+    "sha": "a26309b4ae6a2f9fa50de9ca2f6a8c178fd141b5"
   },
   "coptic": {
     "translation": "New Testament",
@@ -546,7 +552,7 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Danish",
-    "distribution_version": "1..01",
+    "distribution_version": "1.0.2",
     "distribution_version_date": "2017-05-22",
     "distribution_abbreviation": "danish",
     "distribution_about": "Danish translation of the Old Testament authorized in 1931 by the Danish King, with the New Testment being the authorized Danish version from 1907.\\parThe NT is based on an entirely new OCR-scanning of an edition with Latin typographic (not Fraktur).  The NT has subsequently been thoroughly proof-read and hand-corrected, and footnotes \\par as well as tables of contents for each chapter have been added.\\par The OT is based on an OCR-scan from the late 1980s, scanned from a typographically deficient \\par edition from 1933.  OCR-scanning done and proof-read by a Danish pioneering couple with a heart \\parfor media-missions.  It was placed on the Internet by Søren Horn in the early 1990s, from \\parwhere it was picked up by Projekt Runeberg at Linköping University. Ulrik Sandborg-Petersen picked \\par up the text in the mid-2000's, and has since then hand-corrected literally thousands of OCR-mistakes\\par and paragraphing issues.\\par Both the OT and the NT retain the original orthography.\\par\\par Errors and corrections should be sent to Ulrik Sandborg-Petersen via:\\parhttps://github.com/emg/",
@@ -556,11 +562,12 @@
     "distribution_versification": "NRSV",
     "distribution_history": {
       "history_1.0": "(2017-05-20) Initial Release",
-      "history_1..01": "(2017-05-22) Conf file corrections",
-      "history_1.0.1": "(2017-5-21) added obsoletion notice to conf file for older module with same text from different source"
+      "history_1.0.1": "(2017-5-21) added obsoletion notice to conf file for older module with same text from different source",
+      "history_1.0.2": "(2022-08-09) Conf file corrections",
+      "history_1..01": "(2017-05-22) Conf file corrections"
     },
     "url": "https://getbible.net/v2/danish.json",
-    "sha": "0de5871385722a1dc0d2109dc1ea3eb7d6443369"
+    "sha": "4a39c7315522eb43bd543acfb9e7df180d29aeb3"
   },
   "darby": {
     "translation": "Darby",
@@ -1056,11 +1063,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.French",
-    "distribution_version": "3.1",
+    "distribution_version": "3.1.1",
     "distribution_version_date": "2018-11-14",
     "distribution_abbreviation": "Segond1910",
     "distribution_about": "En 1874, suite à une commande de la Compagnie des Pasteurs de Genève, parait la traduction de l’Ancien Testament par Louis Segond, pasteur et théologien (1810-1885). \\par\\parUne traduction précise dans un français toujours très correct, une grande clarté dans l’expression expliquent le succès de son travail. Louis Segond traduit ensuite le Nouveau Testament et la Bible complète parait en 1880.  \\par\\parRévisée plusieurs fois depuis, elle est devenue la Bible la plus largement répandue dans les milieux protestants de langue française. \\par\\parSource: http://richardlemay.com, avec lʼautorisation de Richard Lemay.",
-    "distribution_license": "Permission to distribute granted to CrossWire",
+    "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "http://www.richardlemay.com",
     "distribution_versification": "Segond",
@@ -1072,10 +1079,12 @@
       "history_1.6": "Expanded About text",
       "history_2.0": "added Deuterocanonicals, switched to VulSearch version (2009-10-24)",
       "history_2.0.1": "Corrected to Vulg versification (2011-07-09)",
-      "history_3.1": "(2018-11-14) History_3.1=Switch to Segond versification (2016-03-20)"
+      "history_3.0": "(2016-03-20) New TextSource, KJV v11n, removal of Deuterocanonicals",
+      "history_3.1": "(2018-11-14) Switch to Segond versification",
+      "history_3.1.1": "(2022-08-05) Fix typos in configuration file"
     },
     "url": "https://getbible.net/v2/ls1910.json",
-    "sha": "06c896bf75afb656000534c22ed0ba4a69e81423"
+    "sha": "8b91e92c656f582d4e21209473a8fdc82f31810e"
   },
   "luther1545": {
     "translation": "Luther (1545)",
@@ -1115,7 +1124,7 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. Malayalam.",
-    "distribution_version": "1.1.1",
+    "distribution_version": "1.1.3",
     "distribution_version_date": "2015-12-25",
     "distribution_abbreviation": "mal1910",
     "distribution_about": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
@@ -1125,10 +1134,11 @@
     "distribution_versification": "NRSV",
     "distribution_history": {
       "history_1.1": "Some further encoding corrections",
-      "history_1.1.1": "Some conf corrections"
+      "history_1.1.1": "Some conf corrections",
+      "history_1.1.3": "(2022-08-06) Fix repeated LCSH in conf"
     },
     "url": "https://getbible.net/v2/mal1910.json",
-    "sha": "0ec41f1873730f658499542256396927024b52a4"
+    "sha": "19a9da7b0d50c0f5d7dca1ad042918d9ac4c4a51"
   },
   "manxgaelic": {
     "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
@@ -1207,7 +1217,7 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. Greek (Modern Greek).",
-    "distribution_version": "1.0.2",
+    "distribution_version": "1.0.3",
     "distribution_version_date": "2012-07-12",
     "distribution_abbreviation": "moderngreek",
     "distribution_about": "This translation started in 1831 and was published in 1850 by the Orthodox Archimandrite and professor of the National University of Athens, Neophytos Vamvas with the help of other researchers. Considering that the Greek Orthodox Church wouldn't support him, he collaborated with the British and Foreign Bible Society to publish this translation.\\par The text is written in \"kathareuousa\", a form of greek that is not spoken today in Greece. It is closer to spoken greek though, than the Septuagint (also known \"translation of the seventy\").",
@@ -1218,10 +1228,11 @@
     "distribution_history": {
       "history_1.0": "Initial release (2008-07-23)",
       "history_1.0.1": "Added trailing '/' in .conf (2012-07-12)",
-      "history_1.0.2": "Added entries re license and obsoletion  to conf file (2014-12-27)"
+      "history_1.0.2": "Added entries re license and obsoletion  to conf file (2014-12-27)",
+      "history_1.0.3": "(2022-08-05) Fix repeated DistributionLicense in conf file"
     },
     "url": "https://getbible.net/v2/moderngreek.json",
-    "sha": "118eb8157e72d27cb972d9c73a08a59378c05d24"
+    "sha": "b5b428c6d6a6f9b2ca420548cd09b7ae9538040e"
   },
   "modernhebrew": {
     "translation": "Hebrew Modern",
@@ -1466,10 +1477,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Dutch",
-    "distribution_version": "2.1",
+    "distribution_version": "2.1.1",
     "distribution_version_date": "2020-08-01",
     "distribution_abbreviation": "Statenvertaling Bijbel",
-    "distribution_about": "\\qc BIJBEL\\par\\par DAT IS\\par DE GANSE HEILIGE SCHRIFT\\par\\par BEVATTENDE AL DE KANONIEKE BOEKEN\\par VAN HET\\par\\par OUDE EN NIEUWE TESTAMENT\\par\\par DOOR LAST VAN DE HOOG-MOGENDE HEREN STATEN-GENERAAL DER VERENIGDE NEDERLANDEN EN VOLGENS HET BESLUIT VAN DE SYNODE NATIONAAL GEHOUDEN TE DORDRECHT IN DE JAREN 1618 EN 1619 UIT DE OORSPRONKELIJKE TALEN IN ONZE NEDERLANDSE TAAL GETROUWELIJK OVERGEZET\\par\\par Based on electronic edition from <a href=\"https://bijbel.coas.nl/bijbel/\">Statenvertaling online</a>",
+    "distribution_about": "\\qc BIJBEL\\par\\par DAT IS\\par DE GANSE HEILIGE SCHRIFT\\par\\par BEVATTENDE AL DE KANONIEKE BOEKEN\\par VAN HET\\par\\par OUDE EN NIEUWE TESTAMENT\\par\\par DOOR LAST VAN DE HOOG-MOGENDE HEREN STATEN-GENERAAL DER VERENIGDE NEDERLANDEN EN VOLGENS HET BESLUIT VAN DE SYNODE NATIONAAL GEHOUDEN TE DORDRECHT IN DE JAREN 1618 EN 1619 UIT DE OORSPRONKELIJKE TALEN IN ONZE NEDERLANDSE TAAL GETROUWELIJK OVERGEZET\\par\\par Based on electronic edition from Statenvertaling online",
     "distribution_license": "Public Domain",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "https://bijbel.coas.nl/bijbel/",
@@ -1477,13 +1488,15 @@
     "distribution_history": {
       "history_1.1": "enciphered module",
       "history_1.2": "added Morph option",
-      "history_1.3": "rebuilt from OSIS source, added Haggai",
+      "history_1.3": "switched to public domain textbase, unenciphered, compressed",
+      "history_1.4": "rebuilt from OSIS source, added Haggai",
       "history_1.5": "fixed book/chapter title display (2008-12-16)",
       "history_2.0": "(2020-02-08) Rebuilt from source",
-      "history_2.1": "(2020-08-01) Fix unwanted text addition in Re 22:21"
+      "history_2.1": "(2020-08-01) Fix unwanted text addition in Re 22:21",
+      "history_2.1.1": "(2022-08-02) Fix typo in configuration file"
     },
     "url": "https://getbible.net/v2/statenvertaling.json",
-    "sha": "250c840d9a4b6b8ea051cf9084e6a515546373cf"
+    "sha": "45d0213e88a87ea4be58a25ab9ab740e723a117a"
   },
   "swahili": {
     "translation": "Swahili",
@@ -1516,21 +1529,22 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Swedish",
-    "distribution_version": "2.0",
+    "distribution_version": "2.0.1",
     "distribution_version_date": "2019-05-12",
     "distribution_abbreviation": "swedish",
     "distribution_about": "BIBELN eller DEN HELIGA SKRIFT\\par innehållande\\par NYA TESTAMENTETS KANONISKA BÖCKER\\par i överensstämmelse med den av\\par KONUNGEN ÅR 1917\\par gillade och stadfästa översättningen\\par This is release 3.7 from Projekt Runeberg (http://www.lysator.liu.se/runeberg/) of the Bible. That release was made 1999-04-09. It contains the full text of the Bible, and all of it has been spell-checked.",
     "distribution_license": "Public Domain",
     "distribution_sourcetype": "OSIS",
-    "distribution_source": "<a href=\"http://runeberg.org/download.pl?mode=work&work=bibeln/efs1927>Source on Runeberg.org</a>",
+    "distribution_source": "http://runeberg.org/download.pl?mode=work&work=bibeln/efs1927",
     "distribution_versification": "NRSVA",
     "distribution_history": {
       "history_1.5": "Updated (2001-11-25)",
       "history_1.5.1": "Corrected .conf encoding (2013-08-20)",
-      "history_2.0": "(2019-05-12) minor correction and Deutero addition"
+      "history_2.0": "(2019-05-11) minor correction and Deutero addition",
+      "history_2.0.1": "(2022-08-06) Fix typo in TextSource"
     },
     "url": "https://getbible.net/v2/swedish.json",
-    "sha": "3c6c9c4c5c7ae0f80963f16c927ffe5065cdfbc7"
+    "sha": "e72bc2b6089974b61a006090104a058da4df7e2d"
   },
   "synodal": {
     "translation": "Synodal Translation (1876)",
@@ -1540,7 +1554,7 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Russian",
-    "distribution_version": "1.9",
+    "distribution_version": "1.9.1",
     "distribution_version_date": "2020-12-21",
     "distribution_abbreviation": "Synodal",
     "distribution_about": "Синодальный перевод. История русской Библии восходит к 1816 году, когда по повелению императора Александра I Российское Библейское Общество приступило к переводу Нового Завета на русский язык.",
@@ -1549,14 +1563,15 @@
     "distribution_source": "http://www.rbo.ru/reading/articles/show/?4&start=0 or http://www.patriarchia.ru/bible/mf",
     "distribution_versification": "Synodal",
     "distribution_history": {
-      "history_1.9": "(2020-12-21) New source. Fix tracker issues: MOD-275, MOD-203, MOD-160",
-      "history_1.8.1": "Corrected MinimumVersion (2011-08-17)",
-      "history_1.8": "Updated to reflect new versification (2010-11-06)",
+      "history_1.0": "Regenerated from cleaner source, including deuterocanonicals",
       "history_1.5": "Changed to bibles.org.uk's source",
-      "history_1.0": "Regenerated from cleaner source, including deuterocanonicals"
+      "history_1.8": "Updated to reflect new versification (2010-11-06)",
+      "history_1.8.1": "Corrected MinimumVersion (2011-08-17)",
+      "history_1.9": "(2020-12-30) New source. Fix tracker issues: MOD-275, MOD-203, MOD-160",
+      "history_1.9.1": "(2022-08-06) Fix typo in conf file"
     },
     "url": "https://getbible.net/v2/synodal.json",
-    "sha": "716b00e43acb575a1e0db7c3855d72250aeb8dda"
+    "sha": "86b073a315fe4dda4d42da755c7c568b72d2b5f0"
   },
   "tagalog": {
     "translation": "Ang Dating Biblia (1905)",
@@ -1641,7 +1656,7 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. N.T. Greek.",
-    "distribution_version": "2.5",
+    "distribution_version": "2.5.1",
     "distribution_version_date": "2009-01-10",
     "distribution_abbreviation": "tischendorf",
     "distribution_about": "Tischendorf's 8th edition Greek New Testament with morphological tags\\par Based on G. Clint Yale's Tischendorf text and on Dr. Maurice A. Robinson's Public Domain Westcott-Hort text\\par Edited by Ulrik Sandborg-Petersen\\par This text and its analysis are in the Public Domain. Copy freely.",
@@ -1650,16 +1665,18 @@
     "distribution_source": "http://morphgnt.org",
     "distribution_versification": "",
     "distribution_history": {
-      "history_2.5": "updated to version 2.5 text, which includes paragraphing and numerous corrections; version sync with source",
-      "history_1.7": "updated encoding of lemmas",
-      "history_1.6": "small adjustments to markup; NFC normalized",
-      "history_1.5": "switched to Ulrik Sandbord-Petersen's polytonic, morphologically tagged and lemmatized text",
-      "history_1.3": "fixed some incorrect character mappings",
+      "history_1.1": "repaired final sigmas",
       "history_1.2": "converted to UTF-8 and compressed",
-      "history_1.1": "repaired final sigmas"
+      "history_1.3": "fixed some incorrect character mappings",
+      "history_1.5": "switched to Ulrik Sandbord-Petersen's polytonic, morphologically tagged and lemmatized text",
+      "history_1.6": "small adjustments to markup; NFC normalized",
+      "history_1.7": "updated encoding of lemmas",
+      "history_1.8": "corrected encoding of variant (Qere) readings",
+      "history_2.5": "updated to version 2.5 text, which includes paragraphing and numerous corrections; version sync with source",
+      "history_2.5.1": "(2022-08-06) Fix typo in History"
     },
     "url": "https://getbible.net/v2/tischendorf.json",
-    "sha": "6d8dcb62443544641ef8e8bbc76fc130bd196b3f"
+    "sha": "e7a2aad60b5bd0a35236110c9c4139d3d7ce1bb2"
   },
   "turkish": {
     "translation": "Turkish",
@@ -1891,30 +1908,31 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. N.T. Greek.",
-    "distribution_version": "2.4",
+    "distribution_version": "2.4.1",
     "distribution_version_date": "2014-04-13",
     "distribution_abbreviation": "westcotthort",
     "distribution_about": "The Westcott and Hort edition of 1881 with complete parsing information for all Greek words. Readings of Nestle-Aland 27th/UBS4 shown, also with complete parsing information attached.",
-    "distribution_license": "Creative Commons: by-nc-sa",
+    "distribution_license": "Creative Commons: BY-NC-SA 4.0",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "https://sites.google.com/a/wmail.fi/greeknt/home/greeknt",
     "distribution_versification": "",
     "distribution_history": {
-      "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
-      "history_2.3": "Corrected spacing errors, morphology encoding (2014-02-22)",
-      "history_2.2.1": "Added NoParagraphs feature (2014-01-18)",
-      "history_2.2": "Updated to February 3, 2013 edition (2014-01-16)",
-      "history_2.1": "Updated to March 15, 2011 edition (2011-03-28)",
-      "history_2.0": "Created new OSIS edition from July 17, 2007 edition (2009-11-01)",
-      "history_1.10": "Changed TextSource",
-      "history_1.9": "corrected Strong's numbers & variants",
-      "history_1.8": "added Strong's numbers & Robinson morph tags",
-      "history_1.7": "converted to UTF-8 and compressed",
+      "history_1.5": "repaired final sigma and chi/xi swapped",
       "history_1.6": "repaired final sigmas and chi/xi swapping (again)",
-      "history_1.5": "repaired final sigma and chi/xi swapped"
+      "history_1.7": "converted to UTF-8 and compressed",
+      "history_1.8": "added Strong's numbers & Robinson morph tags",
+      "history_1.9": "corrected Strong's numbers & variants",
+      "history_1.10": "Changed TextSource",
+      "history_2.0": "Created new OSIS edition from July 17, 2007 edition (2009-11-01)",
+      "history_2.1": "Updated to March 15, 2011 edition (2011-03-28)",
+      "history_2.2": "Updated to February 3, 2013 edition (2014-01-16)",
+      "history_2.2.1": "Added NoParagraphs feature (2014-01-18)",
+      "history_2.3": "Corrected spacing errors, morphology encoding (2014-02-22)",
+      "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
+      "history_2.4.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
     "url": "https://getbible.net/v2/westcotthort.json",
-    "sha": "3444d8b8c83a86f9be86719895791ad93fbb7be8"
+    "sha": "5bacc9d240bc88340d30846050334c170af5ef13"
   },
   "westernarmenian": {
     "translation": "Western NT",
@@ -1969,11 +1987,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Old English (1100-1500)",
-    "distribution_version": "2.4",
+    "distribution_version": "2.4.1",
     "distribution_version_date": "2020-08-01",
     "distribution_abbreviation": "wycliffe",
     "distribution_about": "The Holy Bible, containing the Old and New Testaments, with the Apocryphal books, in the earliest English versions made from the Latin Vulgate by John Wycliffe and his followers, c.1395 \\par\\par Source text https://en.wikisource.org/wiki/Bible_(Wycliffe) \\par\\par John Wycliffe organized the first complete translation of the Bible into Middle English in the 1380s. \\par\\par The translation from the Vulgate was a collaborative effort, and it is not clear which portions are actually Wycliffe's work. \\par\\par Church authorities officially condemned the translators of the Bible into vernacular languages and called these heretics Lollards. \\par\\par Despite their prohibition, revised versions of Wycliffite Bibles remained in use for about 100 years. \\par\\par Wikisource attributes its source as the Wesley Center Online. \\par\\par That in turn was derived from the Fedosov transcription on the Slavic Bibles site http://www.sbible.ru \\par\\par The source text makes no use of archaic letters that were part of Middle English orthography.\\par The Latin letter Yogh [ȝ] was evidently replaced by the letter [y] in the Fedosov transcription. \\par\\par The text is available under the Creative Commons Attribution-ShareAlike License. \\par\\par Verse numbers were not used in either the earlier or later version of the Wycliffe Bible in the fourteenth century. Each chapter consisted of one unbroken block of text. There were not even any paragraphs. Hence whatever verse numbers we now have in modern editions have been added retrospectively by comparison with other English Bibles and the Latin Vulgate. \\par\\par Two books found in the Vulgate, II Esdras and Psalm 151, were never part of the Wycliffe Bible. \\par\\par Module build notes: \\par 1. The Prayer of Manasseh has been separated from 2 Chronicles in order to avoid a critical versification issue. \\par   cf. In Wikisource it was assigned as 2 Paralipomenon chapter 37. \\par 2. The Letter of Jeremiah has been joined to Baruch as chapter 6 thereof. \\par 3. The book order of Wycliffe's Bible differs from that of the Vulg versification used in this module. \\par 4. There are now 313 notes in the Wikisource document. \\par 5. The Wikisource text substantially matches that of the nine books in module version 1.0\\par 6. Each of these five verses not in the Vulg versification was appended to the previous verse: Deut.27.27 Esth.5.15 Ps.38.15 Ps.147.10 Luke.10.43 \\par 7. There are also several verses without any text. Use Sword utility emptyvss to list these.",
-    "distribution_license": "Creative Commons: by-sa",
+    "distribution_license": "Creative Commons: BY-SA 4.0",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "https://en.wikisource.org/wiki/Bible_(Wycliffe)",
     "distribution_versification": "Vulg",
@@ -1984,10 +2002,11 @@
       "history_2.1.1": "(2017-03-29) Added GlobalOptionFilter=OSISFootnotes (the module already had 14 notes in 2 Samuel, Job and Tobit).",
       "history_2.2": "(2017-04-03) Rebuilt after 299 notes were added to Pentateuch & Gospels in Wikisource. Minor change to markup of added words.",
       "history_2.3": "(2019-01-07) Updated toolchain",
-      "history_2.4": "(2020-08-01) title misplacement is fixed for the *Prayer of Jeremiah* in Baruch 6"
+      "history_2.4": "(2020-08-01) title misplacement is fixed for the *Prayer of Jeremiah* in Baruch 6",
+      "history_2.4.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
     "url": "https://getbible.net/v2/wycliffe.json",
-    "sha": "5ca2d5e365c1961b5c0a1a60342a7c5d0135d902"
+    "sha": "fb2140ddf230141ec4b473dc7a78b0554518654f"
   },
   "ylt": {
     "translation": "Young's Literal Translation",

@@ -2,43 +2,43 @@
   "1": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
     "url": "https://getbible.net/v2/codex/39/1.json",
-    "sha": "cb23ec6039834afc4274eae595cdecdb371161fd"
+    "sha": "ef94cca1e4ced01de3f5180a4f2f86adb6b10253"
   },
   "2": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
     "url": "https://getbible.net/v2/codex/39/2.json",
-    "sha": "dc7571bf16fe1b149dc81ebc53d72aefc039f848"
+    "sha": "ae5081b46366bff62e414dccf869cd8b0987b6bb"
   },
   "3": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
     "url": "https://getbible.net/v2/codex/39/3.json",
-    "sha": "b76fad5ca5ae3010057d1ce725e31b90713898a4"
+    "sha": "12b71641ba9bb1cbcf3c5b68573e29034cfa9896"
   }
 }

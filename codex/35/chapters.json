@@ -2,43 +2,43 @@
   "1": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
     "book_name": "Habakkuk",
     "chapter": 1,
     "name": "Habakkuk 1",
     "url": "https://getbible.net/v2/codex/35/1.json",
-    "sha": "783928158fe6d51f3a385bee2fd5350e0192bf54"
+    "sha": "27a6704d435253fec608108cdd873652b2cf429e"
   },
   "2": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
     "book_name": "Habakkuk",
     "chapter": 2,
     "name": "Habakkuk 2",
     "url": "https://getbible.net/v2/codex/35/2.json",
-    "sha": "168dd412ee0aad6a4e99d2ca63861c4b2f8fd4c9"
+    "sha": "c8a48511e51416fbd93a56513d347e6ca09f7260"
   },
   "3": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
     "book_name": "Habakkuk",
     "chapter": 3,
     "name": "Habakkuk 3",
     "url": "https://getbible.net/v2/codex/35/3.json",
-    "sha": "3113a8e9803d2ec1d1afa54ea66995d494309a78"
+    "sha": "c2c095b40aad1852ca4388661b2ed933a5df7dcd"
   }
 }

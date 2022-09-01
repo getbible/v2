@@ -2,43 +2,43 @@
   "1": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
     "url": "https://getbible.net/v2/aleppo/39/1.json",
-    "sha": "0f43e081af4a7d1873fbbddf7b280a51f2ebd42a"
+    "sha": "0abe5c16c63b6bf225f519ec94daa29181879924"
   },
   "2": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
     "url": "https://getbible.net/v2/aleppo/39/2.json",
-    "sha": "3cf9589c4d55afbdf3dfbbcd6b868e83d1b40ec0"
+    "sha": "c7a44a1b95ded828f9c6578c5ab5a6552a651990"
   },
   "3": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
     "url": "https://getbible.net/v2/aleppo/39/3.json",
-    "sha": "3076759eb8f59640c67a759c5a5cd9baa6f141a9"
+    "sha": "edd43c4aeb88bfcd9c721fac8bf89438d9160d79"
   }
 }
