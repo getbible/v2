@@ -399,9 +399,9 @@
     "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. O.T. Hebrew.",
-    "distribution_version": "1.9.1",
-    "distribution_version_date": "2013-10-11",
+    "distribution_lcsh": "Bible.Ancient Hebrew",
+    "distribution_version": "2.0",
+    "distribution_version_date": "2022-09-17",
     "distribution_abbreviation": "codex",
     "distribution_about": "This text began as an electronic transcription by Whitaker and Parunak of the 1983 printed edition of Biblia Hebraica Stuttgartensia (BHS). The transcription is called the Michigan-Claremont electronic text and was archived at the Oxford Text Archive (OTA) in 1987. Since that time, the text has been modified to conform to the photo-facsimile of the Leningrad Codex, Firkovich B19A, residing at the Russian National Library, St. Petersberg; hence the change of name. This version contains all 6 of the textual elements of the OTA document: consonants, vowels, cantillation marks, \"paragraph\" (pe, samekh) markers, and ketiv-qere variants. Morphological divisions have been added.\\par\\par The BHS so-called \"paragraph\" markers (pe and samekh) do not actually occur in the Leningrad Codex. The editors of BHS use them to indicate open space deliberately left blank by the scribe. Pe (\"open\" paragraph) represents a space between verses, where the new verse begins on a new column line. This represents a major section of the text. Samekh (\"closed\" paragraph) represents a space of less than a line between verses. This is understood to be a subdivision of the corresponding \"open\" section. Since these markers represent an actual physical feature of the text, they have been retained.\\par\\par The WLC is maintained by the Westminster Hebrew Institute, Philadelphia, PA (http://whi.wts.edu/WHI). This edition is based on Christopher V. Kimball's edition (http://www.tanach.us/Tanach.xml), which also adds textual source assignment based in the Pentateuch on the documentary hypothesis.",
     "distribution_license": "Public Domain",
@@ -419,10 +419,11 @@
       "history_1.7": "Updated to WLC 4.14, corrected some spurious markup (2012-04-14)",
       "history_1.8": "Added pe & samekh 'paragraph' marks to text (2012-04-17)",
       "history_1.9": "Updated to WLC 4.18 (2013-10-11)",
-      "history_1.9.1": "(2022-08-06) Change Lang to Hebrew Ancient"
+      "history_1.9.1": "(2022-08-20) Change Lang to Hebrew Ancient",
+      "history_2.0": "(2022-09-17) Updated to WLC 20220916. Solves MOD-287, MOD-288: maqaf punctuation is no more followed by a space, MOD-303: Spurious notes entries removed."
     },
     "url": "https://getbible.net/v2/codex.json",
-    "sha": "a26309b4ae6a2f9fa50de9ca2f6a8c178fd141b5"
+    "sha": "89861eba4f9c76f58e982ca1fb69c9e0cf036781"
   },
   "coptic": {
     "translation": "New Testament",
