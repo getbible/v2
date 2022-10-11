@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "西番雅書",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "西番雅書 1",
     "url": "https://getbible.net/v2/cnt/36/1.json",
-    "sha": "aa33804cfed275c0ec1f540f8c3e09a48e088bdd"
+    "sha": "31e8546b308a19afcab806c76154e5980a554131"
   },
   "2": {
     "translation": "NCV Traditional",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "西番雅書",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "西番雅書 2",
     "url": "https://getbible.net/v2/cnt/36/2.json",
-    "sha": "77ffb12d81dd3b4fe1e78f4a4bf6939ebf9fdf31"
+    "sha": "03a3fc69d6ff4e4ceb39c5bac649835db65d24b3"
   },
   "3": {
     "translation": "NCV Traditional",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "西番雅書",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "西番雅書 3",
     "url": "https://getbible.net/v2/cnt/36/3.json",
-    "sha": "dfd90dce047667c66fa273965105a151b97df3b1"
+    "sha": "e92d24bd8f262f69c46bc15df33216177df57d0e"
   }
 }

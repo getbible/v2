@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "彼得後書",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "彼得後書 1",
     "url": "https://getbible.net/v2/cut/61/1.json",
-    "sha": "45a5b46a5967a3af8b76168797f026b361ee0216"
+    "sha": "643c758525b7e81cce6ddd78967564c8bede68f5"
   },
   "2": {
     "translation": "Union Traditional",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "彼得後書",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "彼得後書 2",
     "url": "https://getbible.net/v2/cut/61/2.json",
-    "sha": "ec98fbacf0fa5a64bfb4f094cf530391c405aac2"
+    "sha": "3c32c380b21f89f8eb182d2ce8616a230a52f64b"
   },
   "3": {
     "translation": "Union Traditional",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "彼得後書",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "彼得後書 3",
     "url": "https://getbible.net/v2/cut/61/3.json",
-    "sha": "1c920efe32d4c57a4317fcbfe549d1923e2fb99f"
+    "sha": "94f4a429273303b2b63e53ecb2190ac361316ece"
   }
 }

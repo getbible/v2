@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "約珥書",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "約珥書 1",
     "url": "https://getbible.net/v2/cut/29/1.json",
-    "sha": "21a0a22857bc41365f50dd5866a639ea682aa8fd"
+    "sha": "03b7ad710f3073ed959107266a7ed0455bed5952"
   },
   "2": {
     "translation": "Union Traditional",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "約珥書",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "約珥書 2",
     "url": "https://getbible.net/v2/cut/29/2.json",
-    "sha": "1677118d40c4d4ff1842d8ab222d21308d4746c3"
+    "sha": "bd9e8903dbf8f4530b52b2509254861576ffb6c7"
   },
   "3": {
     "translation": "Union Traditional",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "約珥書",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "約珥書 3",
     "url": "https://getbible.net/v2/cut/29/3.json",
-    "sha": "308f8b30581c00a2f744a740e4bdca2884895503"
+    "sha": "d55b7f5de8080e7c2a0996cc67f68502e17be947"
   }
 }

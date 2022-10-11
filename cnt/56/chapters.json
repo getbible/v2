@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "提多書",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "提多書 1",
     "url": "https://getbible.net/v2/cnt/56/1.json",
-    "sha": "fe1d82258d5df888ec476dde63a0221ec750fdce"
+    "sha": "17e4d8780756aa834ec23592422dba3079638944"
   },
   "2": {
     "translation": "NCV Traditional",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "提多書",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "提多書 2",
     "url": "https://getbible.net/v2/cnt/56/2.json",
-    "sha": "3fce683a776bdaa0037d704786dcec0bce731002"
+    "sha": "915f1754d56b270a0e11a584bbefb18c02eb8090"
   },
   "3": {
     "translation": "NCV Traditional",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "提多書",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "提多書 3",
     "url": "https://getbible.net/v2/cnt/56/3.json",
-    "sha": "430689236674f3df2268e284299de9b48ea0724e"
+    "sha": "69597482616667746706844ee5f60cc5d7e4ef21"
   }
 }
