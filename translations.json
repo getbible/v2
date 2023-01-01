@@ -577,15 +577,15 @@
     "language": "French",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "bible.French",
-    "distribution_version": "1.24",
-    "distribution_version_date": "2019-10-23",
+    "distribution_lcsh": "Bible.French",
+    "distribution_version": "2.0",
+    "distribution_version_date": "2022-12-22",
     "distribution_abbreviation": "darby",
-    "distribution_about": "Traduction française par John Nelson Darby en 1859\\par Texte libre de droits\\par Vous pouvez acheter une version imprimée à\\par\\\nFrench translation by John Nelson Darby (JND) 1859\\par Public Domain\\par You can buy a printed version at\\par\\par\\\nBibles & Publications Chrétiennes\\par Calendrier La Bonne Semence\\par\\\nWeb: http://www.labonnesemence.com/\\par tel: +33 (0)4 75 78 12 78 fax: +33 (0)4 75 42 81 55\\par BP 335\\par 26003 Valence CEDEX\\par France",
+    "distribution_about": "French translation by John Nelson Darby (JND).\\par\\\nText 2022. First edition of the complete Bible in 1885, reissued in 1916.\\par\\\nVersification BHS (Biblia Hebraica Stuttgartensia) for the Old Testament.\\par\\\nPublic Domain.\\par\\\nYou can buy a printed version at:\\par\\par\\\nediteurbpc.com – Bibles et Publications Chrétiennes\\par\\\n30 rue Châteauvert – CS 40335\\par\\\n26003 VALENCE CEDEX FRANCE",
     "distribution_license": "Public Domain",
     "distribution_sourcetype": "OSIS",
-    "distribution_source": "http://www.bibliquest.org/Bible/BibleJNDhtm-Bible.zip",
-    "distribution_versification": "DarbyFr",
+    "distribution_source": "https://editeurbpc.com/telechargements",
+    "distribution_versification": "German",
     "distribution_history": {
       "history_1.0": "Initial version (2006.11.11)",
       "history_1.1": "With notes (2006.11.17)",
@@ -610,10 +610,11 @@
       "history_1.20": "Re-made with newest toolset",
       "history_1.22": "(2017-05-16) New markup for WoC, note and  paragraph corrections (2017-05-16)",
       "history_1.23": "(2019-05-11) Various corrections, improved notes and new, more appropriate versification",
-      "history_1.24": "(2019-10-23) Better formatting of Psalms, and other minor fixes"
+      "history_1.24": "(2019-10-23) Better formatting of Psalms, and other minor fixes",
+      "history_2.0": "(2022-12-22) New source (from BPC editor JND v1.2) with new versification (German)"
     },
     "url": "https://getbible.net/v2/darby.json",
-    "sha": "f4e87146ff118948e12af244926a1f1a082184b2"
+    "sha": "c7c70f679a4f18db9133535d30d43473d866b4cb"
   },
   "douayrheims": {
     "translation": "Douay Rheims",

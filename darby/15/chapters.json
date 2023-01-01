@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ezra 1",
     "url": "https://getbible.net/v2/darby/15/1.json",
-    "sha": "bb897a1f8a8ea34ad23d106b198f35f5b6d3ef35"
+    "sha": "0d2fafb479c79f2595cf091237b5202e1824e1ef"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ezra 2",
     "url": "https://getbible.net/v2/darby/15/2.json",
-    "sha": "404aa9de72011dd04f251575fef704b3052a3946"
+    "sha": "b21c16ab9726b1fb60a3a365757ec9337fe48917"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ezra 3",
     "url": "https://getbible.net/v2/darby/15/3.json",
-    "sha": "ae59eae4973ac169b21db00f1afda0bd4de41ed7"
+    "sha": "77b7849f47485983f22bd3364d08760896d551b6"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ezra 4",
     "url": "https://getbible.net/v2/darby/15/4.json",
-    "sha": "c8e96204a30ec8fb73e07dda33c94935c71ed102"
+    "sha": "d50a431669a6de235765a501881b505aff286147"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ezra 5",
     "url": "https://getbible.net/v2/darby/15/5.json",
-    "sha": "701a02217d61738a2716151e30892a728f255d35"
+    "sha": "eb6bde68b2b6efe03a8b3f350c17da8efe56fbfd"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Ezra 6",
     "url": "https://getbible.net/v2/darby/15/6.json",
-    "sha": "1db807cf57d5d2fb099e1e83f983d3c432f4a8ad"
+    "sha": "505c342d00731412a0cbde26dff20fd4eadb8583"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Ezra 7",
     "url": "https://getbible.net/v2/darby/15/7.json",
-    "sha": "7e1917d719559abbcfb155d761562bf3e8826c62"
+    "sha": "6e0ff1509bb099d6388ef78a64a22d962b58075f"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Ezra 8",
     "url": "https://getbible.net/v2/darby/15/8.json",
-    "sha": "16f1167544a059b6f405ad84a718d7d140c6aad7"
+    "sha": "0856ff2e373c398286f7422cb8c19cfd9ef880f1"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Ezra 9",
     "url": "https://getbible.net/v2/darby/15/9.json",
-    "sha": "612d2d34bc46d220fe51fa7b3364069cb758b4c3"
+    "sha": "585b46f3003a11a12f7fba044c388306f316a4fe"
   },
   "10": {
     "translation": "Darby",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Ezra 10",
     "url": "https://getbible.net/v2/darby/15/10.json",
-    "sha": "8d5d908755918198662cca1f1d7200d128f7b11d"
+    "sha": "2ab0fa7719d195594f339aa163b7780d90e7522a"
   }
 }
