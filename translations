@@ -3,12 +3,12 @@
 2		Aleppo Codex	aleppo	LTR	aleppo	1567f16903e6f7e67f7181f1d0a6a1f485be4075
 3	Portuguese	Almeida Atualizada	almeida	LTR	almeida	1afb34f1362b130681fd15a681d3369d45df2f88
 4	Afrikaans	Ou Vertaling	aov	LTR	aov	b74929dcf727603e6da1fb9b2a846edf9dc3b667
-5	Arabic	Smith and Van Dyke	arabicsv	RTL	arabicsv	0021548877b6cc0c856916bc06fa94272d45a91d
+5	Arabic	Smith and Van Dyke	arabicsv	RTL	arabicsv	1776be0c683a0a7d6d6e60fe1986846f2584a4c9
 6	English	American Standard Version	asv	LTR	asv	55c412b9eab43d069caf72c0a52f24eac019de16
 7	English	Basic English Bible	basicenglish	LTR	basicenglish	991485dc1f80014891e0fa681c8c7ff52342ce08
 8	Basque	(Navarro Labourdin) NT	basque	LTR	basque	0f9ba958aa71386d6af38fea75e723c8b2c47aab
 9	Norwegian bokmal	Det Norsk Bibelselskap (1930)	bibelselskap	LTR	bibelselskap	2b9a864cd5aa7bdc1f70891f8ca9a3eb1d1313d7
-10	Czech	Czech BKR	bkr	LTR	bkr	ee04e0decae9ccc64bfaa890f10a01e9e644b7bf
+10	Czech	Czech BKR	bkr	LTR	bkr	01803a40783f8e704da34ffd23361acf034e382e
 11	Breton	Gospels	breton	LTR	breton	6c26199a9ea03dc551a09cb3738125d4987ded74
 12	Czech	Czech CEP	cep	LTR	cep	bab1ccd39ff4cedd58a1aa789385d03f413f2e67
 13	Chamorro	(Psalms Gospels Acts)	chamorro	LTR	chamorro	156b51f9c283c3e0f85f13a74b91990783153307
@@ -41,7 +41,7 @@
 40	Lithuanian	Lithuanian	lithuanian	LTR	lithuanian	134f81752ce51e7c1f567e66e0d55714b2190844
 41	French	Louis Segond (1910)	ls1910	LTR	ls1910	8b91e92c656f582d4e21209473a8fdc82f31810e
 42	German	Luther (1545)	luther1545	LTR	luther1545	14fbfdeb1c5f7e1ac8f42dead7c5ef6f8b0090ea
-43	Malayalam	Sathyavedapusthakam (Malayalam Bible) published in 1910	mal1910	LTR	mal1910	19a9da7b0d50c0f5d7dca1ad042918d9ac4c4a51
+43		Sathyavedapusthakam (Malayalam Bible) published in 1910	mal1910	LTR	mal1910	c3fd3ec98e5c7b5763c3b87cfadba5289d928fb9
 44	Manx Gaelic	Manx Gaelic (Esther Jonah 4 Gospels)	manxgaelic	LTR	manxgaelic	ab92ea6c7e17e245f4fa271e12889945c86d2ecf
 45	Maori	Maori	maori	LTR	maori	ce95dee4fdf1dfe3c0127a214dd7e9ce5a9885f0
 46	French	Martin (1744)	martin	LTR	martin	85a667f3d10bc90c124c556308715660888eb7e6

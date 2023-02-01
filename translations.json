@@ -107,8 +107,8 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Arabic",
-    "distribution_version": "2.2",
-    "distribution_version_date": "2022-01-29",
+    "distribution_version": "2.3",
+    "distribution_version_date": "2023-01-18",
     "distribution_abbreviation": "SVD",
     "distribution_about": "Al-Kitab al-Muqaddas (Arabic Bible)\\par Translated by Drs. Eli Smith & Cornelius van Alen van Dyck, 1865.\\par\\par Per kind permissions from:\\par Arabic Bible Outreach Ministry\\par P.O. 486\\par Dracut, MA 08126\\par USA\\par\\par http://www.arabicbible.com/\\par\\par This Bible module may be re-distributed in Sword format only. Conversion to other formats is not permitted without express permission of the copyright holder.",
     "distribution_license": "Copyrighted; Permission granted to distribute non-commercially in SWORD format",
@@ -122,11 +122,12 @@
       "history_1.7": "Rectified distribution license",
       "history_1.8": "Corrected missing parts of many verses",
       "history_2.0": "(2020-02-08) Fix Ps 119 issue",
-      "history_2.1": "(2021-01-12) Corrections",
-      "history_2.2": "(2022-01-29) Spurious characters in the text, bug report MOD-430. Osis build was faulty, source was OK."
+      "history_2.1": "(2021-01-12) Corrections in the source text",
+      "history_2.2": "(2022-02-05) Spurious characters in the text, bug report MOD-430",
+      "history_2.3": "(2023-01-18) Solves MOD-443: 2Cor 8:3 Is Missing Matt 17:25, 26, 27 Mar 4:2 3John 1:14 Versification issues"
     },
     "url": "https://getbible.net/v2/arabicsv.json",
-    "sha": "0021548877b6cc0c856916bc06fa94272d45a91d"
+    "sha": "1776be0c683a0a7d6d6e60fe1986846f2584a4c9"
   },
   "asv": {
     "translation": "American Standard Version",
@@ -233,9 +234,9 @@
     "language": "Czech",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. Czech",
-    "distribution_version": "1.3.1",
-    "distribution_version_date": "2016-05-01",
+    "distribution_lcsh": "Bible.Czech",
+    "distribution_version": "1.5",
+    "distribution_version_date": "2023-01-18",
     "distribution_abbreviation": "bkr",
     "distribution_about": "Czech Bible Kralicka: Bible svata aneb vsecka svata pisma\\par Stareho i Noveho Zakona podle posledniho vydani kralickeho z roku 1613.",
     "distribution_license": "Public Domain",
@@ -243,13 +244,14 @@
     "distribution_source": "https://cs.wikisource.org/wiki/Bible_kralická/",
     "distribution_versification": "KJV",
     "distribution_history": {
-      "history_1.3.1": "[2016-05-01] Changed Language from ces to cs",
-      "history_1.3": "[2015-12-10] Fix headlines of Psalms",
+      "history_1.1": "[2003-03-21]UTF-8 encoded and compressed",
       "history_1.2": "[2015-10-06] version downloaded from WikiSource.",
-      "history_1.1": "[2003-03-21]UTF-8 encoded and compressed"
+      "history_1.3": "[2015-12-10] Fix headlines of Psalms",
+      "history_1.4": "[2016-11-18] Refresh from upstream source, particularly fix J 19:18",
+      "history_1.5": "(2023-01-18) Mainly fixing missing text in John-10:38 (MOD-449)"
     },
     "url": "https://getbible.net/v2/bkr.json",
-    "sha": "ee04e0decae9ccc64bfaa890f10a01e9e644b7bf"
+    "sha": "01803a40783f8e704da34ffd23361acf034e382e"
   },
   "breton": {
     "translation": "Gospels",
@@ -1121,13 +1123,13 @@
   "mal1910": {
     "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
     "abbreviation": "mal1910",
-    "lang": "mal",
-    "language": "Malayalam",
+    "lang": "mlf",
+    "language": "",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. Malayalam.",
-    "distribution_version": "1.1.3",
-    "distribution_version_date": "2015-12-25",
+    "distribution_lcsh": "Bible.Mal",
+    "distribution_version": "2.0",
+    "distribution_version_date": "2023-01-07",
     "distribution_abbreviation": "mal1910",
     "distribution_about": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
     "distribution_license": "Public Domain",
@@ -1137,10 +1139,11 @@
     "distribution_history": {
       "history_1.1": "Some further encoding corrections",
       "history_1.1.1": "Some conf corrections",
-      "history_1.1.3": "(2022-08-06) Fix repeated LCSH in conf"
+      "history_1.1.3": "(2022-08-14) Fix repeated LCSH in conf",
+      "history_2.0": "(2023-01-07) Updated source to latest Git"
     },
     "url": "https://getbible.net/v2/mal1910.json",
-    "sha": "19a9da7b0d50c0f5d7dca1ad042918d9ac4c4a51"
+    "sha": "c3fd3ec98e5c7b5763c3b87cfadba5289d928fb9"
   },
   "manxgaelic": {
     "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
