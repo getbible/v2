@@ -1313,24 +1313,24 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
-    "distribution_lcsh": "Bible. Finnish.",
-    "distribution_version": "1.2.2",
-    "distribution_version_date": "2003-02-20",
-    "distribution_abbreviation": "pyharaamattu1933",
-    "distribution_about": "Vanha Testamentti XI yleisen Kirkolliskokouksen vuonna 1933 käytäntöön ottama suomennos.\\par Uusi Testamentti XII yleisen Kirkolliskokouksen vuonna 1938 käytäntöön ottama suomennos.\\par\\par Finnish Bible authorized by Evangelical Lutheran Church of Finland in 1933 (OT) and 1938 (NT).\\par\\par In public domain.\\par\\par SWORD version by St.Publishare Netherlands 17/11/93\\par\\par Version 1.1 by Tero Favorin (tero at favorin dot com)",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Finnish",
+    "distribution_version": "2.0",
+    "distribution_version_date": "2023-01-26",
+    "distribution_abbreviation": "Pyhä Raamattu",
+    "distribution_about": "Vanha Testamentti XI yleisen Kirkolliskokouksen vuonna 1933 käytäntöön ottama suomennos.\\par Uusi Testamentti XII yleisen Kirkolliskokouksen vuonna 1938 käytäntöön ottama suomennos.\\par\\par Abou_en=Finnish Bible authorized by Evangelical Lutheran Church of Finland in 1933 (OT) and 1938 (NT).\\par\\par In public domain.\\par\\par SWORD version by St. Publishare Netherlands 17/11/93\\par\\par Version 1.1 by Tero Favorin (tero at favorin dot com)",
     "distribution_license": "Public Domain",
-    "distribution_sourcetype": "GBF",
-    "distribution_source": "",
-    "distribution_versification": "",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://www.finbible.fi/head/raam.htm",
+    "distribution_versification": "NRSVA",
     "distribution_history": {
       "history_1.1": "Fixed several missing Ä-letters from beginning of verses.",
       "history_1.2": "Compressed module (2003-02-20)",
-      "history_1.2.1": "(2019-05-8) conf file corrected",
-      "history_1.2.2": "(2019-05-17) conf file corrected"
+      "history_1.3": "Changed encoding to UTF-8. Rebuilt module with braces {} instead of lt/gt for av11n refs (2013-01-21)",
+      "history_2.0": "(2023-01-26) Switch to OSIS format. Fix encoding issues on Ezra. Added deuterocanonical books."
     },
     "url": "https://getbible.net/v2/pyharaamattu1933.json",
-    "sha": "9e1f9de85036c3d4283d15a67ecabb12df017110"
+    "sha": "46d18240bfae83a4e84680c739f3dfa11f30987e"
   },
   "pyharaamattu1992": {
     "translation": "Pyha Raamattu (1992)",

@@ -5,13 +5,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 1,
     "name": "Ruth 1",
     "url": "https://getbible.net/v2/pyharaamattu1933/8/1.json",
-    "sha": "3f7bcb6bf73fdb50b0f67b90cbe473b762120ea0"
+    "sha": "a437edcb33f3c1e91bdb522cc3efd439699ae4f1"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -19,13 +19,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 2,
     "name": "Ruth 2",
     "url": "https://getbible.net/v2/pyharaamattu1933/8/2.json",
-    "sha": "8b2fbe8b03399fe43214701dac4d9fc626ee9fe3"
+    "sha": "2b85bcb78d1f42a2981eaa82b760b36f05215c4e"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -33,13 +33,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 3,
     "name": "Ruth 3",
     "url": "https://getbible.net/v2/pyharaamattu1933/8/3.json",
-    "sha": "bc866a3115653fe2dfcdf54da63471b9a144face"
+    "sha": "59c8b219b5f883c3cf18ebeac1b6896a3761f69f"
   },
   "4": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -47,12 +47,12 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 4,
     "name": "Ruth 4",
     "url": "https://getbible.net/v2/pyharaamattu1933/8/4.json",
-    "sha": "379bd5c0e39b0e1db9794b5b0d3884d84a09e2d2"
+    "sha": "051ffb0e88e27be5c464f6ed2d5209e7c100825e"
   }
 }

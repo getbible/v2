@@ -5,13 +5,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 50,
     "book_name": "Philippians",
     "chapter": 1,
     "name": "Philippians 1",
     "url": "https://getbible.net/v2/pyharaamattu1933/50/1.json",
-    "sha": "e5e182ef6de4c2272b2e3deb87e0ab3f561e6740"
+    "sha": "8ec9f18503baf23b4e5a2d9c30f7d4dac0e16ca1"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -19,13 +19,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 50,
     "book_name": "Philippians",
     "chapter": 2,
     "name": "Philippians 2",
     "url": "https://getbible.net/v2/pyharaamattu1933/50/2.json",
-    "sha": "eae741c16305fdbe47210deb4faaad5483b5ff82"
+    "sha": "f52db92be7fff9ae00a6aaa6c40afd2d8e284182"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -33,13 +33,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 50,
     "book_name": "Philippians",
     "chapter": 3,
     "name": "Philippians 3",
     "url": "https://getbible.net/v2/pyharaamattu1933/50/3.json",
-    "sha": "bd3e7d856c39055208455cce3a8e26841db1b476"
+    "sha": "53f32822d4d0ae5ed2626f0064dfc096da492b40"
   },
   "4": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -47,12 +47,12 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 50,
     "book_name": "Philippians",
     "chapter": 4,
     "name": "Philippians 4",
     "url": "https://getbible.net/v2/pyharaamattu1933/50/4.json",
-    "sha": "0cf657666725890e8da09c55de5f7b77fa847917"
+    "sha": "6f497394b53278f7cb09b9201cf96fd41d31d369"
   }
 }

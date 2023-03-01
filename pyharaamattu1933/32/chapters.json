@@ -5,13 +5,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 1,
     "name": "Jonah 1",
     "url": "https://getbible.net/v2/pyharaamattu1933/32/1.json",
-    "sha": "c7c8fe58634ff993afd776ae2a4b0475a2acca5a"
+    "sha": "1e5e6c4da08a52c027e419e032b69066142d9778"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -19,13 +19,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 2,
     "name": "Jonah 2",
     "url": "https://getbible.net/v2/pyharaamattu1933/32/2.json",
-    "sha": "a1b931ff9dd07106ddb88408052c799fb94d0a30"
+    "sha": "a7a182ddf58b194646ff9db9267325c2781c07c2"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -33,13 +33,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 3,
     "name": "Jonah 3",
     "url": "https://getbible.net/v2/pyharaamattu1933/32/3.json",
-    "sha": "3813dd6ef74be18a2beed8317e7391c5467b10cf"
+    "sha": "cb7a35d3fdd65fdb92125f6cfac6482023b30da8"
   },
   "4": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -47,12 +47,12 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 32,
     "book_name": "Jonah",
     "chapter": 4,
     "name": "Jonah 4",
     "url": "https://getbible.net/v2/pyharaamattu1933/32/4.json",
-    "sha": "c4beb74537714421f26f439ed875f6ac2fac74c0"
+    "sha": "9e80869e325db2cd35e25293cf89c99be6c9d576"
   }
 }

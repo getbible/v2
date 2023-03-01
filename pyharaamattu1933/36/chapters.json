@@ -5,13 +5,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 36,
     "book_name": "Zephaniah",
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://getbible.net/v2/pyharaamattu1933/36/1.json",
-    "sha": "f0e96d73ede98f5ee817978bb5716af4731ac360"
+    "sha": "acdbdbdcb66a0b230f989954a6db126ffd6c1845"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -19,13 +19,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 36,
     "book_name": "Zephaniah",
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://getbible.net/v2/pyharaamattu1933/36/2.json",
-    "sha": "274f45f85956c97cf1d3b5cde1d9e86591d76638"
+    "sha": "ed34560ca76e4b638f550ef80dce9af645c4e1df"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -33,12 +33,12 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 36,
     "book_name": "Zephaniah",
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://getbible.net/v2/pyharaamattu1933/36/3.json",
-    "sha": "5541666febadffce99c08925343a68b3763696b3"
+    "sha": "120e96abc7cce5ddb600d55b3e05867f3a85fa5c"
   }
 }

@@ -5,13 +5,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 1,
     "name": "Lamentations 1",
     "url": "https://getbible.net/v2/pyharaamattu1933/25/1.json",
-    "sha": "e477411eccf8dadea8b10d9193432bb8b9e4e619"
+    "sha": "798a474a83999adb863ee68b5e15afe9466a3efe"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -19,13 +19,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 2,
     "name": "Lamentations 2",
     "url": "https://getbible.net/v2/pyharaamattu1933/25/2.json",
-    "sha": "43ef4fc084975b4ac2af1b0bd4bde60e48abfed1"
+    "sha": "9539599f0a2394ae1fa208cc92938ab8bb77820d"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -33,13 +33,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 3,
     "name": "Lamentations 3",
     "url": "https://getbible.net/v2/pyharaamattu1933/25/3.json",
-    "sha": "e4f96ee2c9b14e22d1dcb94d9c70aed5b7cc0fca"
+    "sha": "3ff8d04244cc503b83b1d413c82a1212d6506065"
   },
   "4": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -47,13 +47,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 4,
     "name": "Lamentations 4",
     "url": "https://getbible.net/v2/pyharaamattu1933/25/4.json",
-    "sha": "5374e0496e75a1e3974c613c7fbbee05b82a94ac"
+    "sha": "fb7aaaa6ab71f2a5d86e90d5e4516965eb6b3a22"
   },
   "5": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -61,12 +61,12 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 5,
     "name": "Lamentations 5",
     "url": "https://getbible.net/v2/pyharaamattu1933/25/5.json",
-    "sha": "538916e8db495db4f0c8e05a8a0a82973718389a"
+    "sha": "92a91068c8cdfa05bfea257bed280536da88323f"
   }
 }

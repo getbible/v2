@@ -5,13 +5,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://getbible.net/v2/pyharaamattu1933/61/1.json",
-    "sha": "47dfe21cc610df22c2c92b811f9b13f9cd3b9fbf"
+    "sha": "767ec97eb5a8de11da4e9368e46a28da37f7f7fe"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -19,13 +19,13 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://getbible.net/v2/pyharaamattu1933/61/2.json",
-    "sha": "1923a73a75a54907f09fe46974b9dba546d57fd8"
+    "sha": "7ef17a99eaa52a0129caeb3b237bf449c098564a"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -33,12 +33,12 @@
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://getbible.net/v2/pyharaamattu1933/61/3.json",
-    "sha": "fc79e2c1e28eb3adcd95641905e22ff80a343cfe"
+    "sha": "a6e457e88767f718af4f9b4a496b018761592afb"
   }
 }
