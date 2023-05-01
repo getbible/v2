@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Romans 1",
     "url": "https://getbible.net/v2/textusreceptus/45/1.json",
-    "sha": "d75389727281ac71ae346d7882497527ee38c412"
+    "sha": "8dfc2ebe03ee34c34619413a548edd6461976ffc"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Romans 7",
     "url": "https://getbible.net/v2/textusreceptus/45/7.json",
-    "sha": "5ed28f2b6fa20515d7253dbc2770b1f86044aad6"
+    "sha": "44f083fc8f08b6f0407a5c3f6d42a960c5e839c7"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Romans 8",
     "url": "https://getbible.net/v2/textusreceptus/45/8.json",
-    "sha": "3e145e07f3d84adbe96fab5ca35ac66312843ee5"
+    "sha": "00e3a3d457a937dec5f8a436a7a4ca3d03bc8f52"
   },
   "9": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Romans 11",
     "url": "https://getbible.net/v2/textusreceptus/45/11.json",
-    "sha": "6c64207f95bb409ddffc4b989a57cf9526fd2a80"
+    "sha": "60ddc17c21f1c79a139714ddbcf310282db58689"
   },
   "12": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Romans 12",
     "url": "https://getbible.net/v2/textusreceptus/45/12.json",
-    "sha": "54057d3eaed6f7cb535d6f06f2d6a25e28d3c3a2"
+    "sha": "826e343edd79b387748b306442089265dac7a8c1"
   },
   "13": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -221,6 +221,6 @@
     "chapter": 16,
     "name": "Romans 16",
     "url": "https://getbible.net/v2/textusreceptus/45/16.json",
-    "sha": "63f84a95ae3cfd7992a3fb1484287ad5454ec24e"
+    "sha": "f71b6124ae78f7438951151d8363c1db5636bcb5"
   }
 }

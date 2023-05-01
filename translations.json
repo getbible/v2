@@ -1608,8 +1608,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Ancient Greek (to 1453)",
-    "distribution_version": "3.0",
-    "distribution_version_date": "2021-10-19",
+    "distribution_version": "3.1",
+    "distribution_version_date": "2023-03-25",
     "distribution_abbreviation": "Textus Receptus",
     "distribution_about": "The Textus Receptus with complete parsing information for all Greek words; base text is Stephens 1550, with variants of Scrivener 1894.",
     "distribution_license": "Creative Commons: BY-NC-SA 4.0",
@@ -1625,10 +1625,11 @@
       "history_2.2.1": "Added NoParagraphs feature (2014-01-18)",
       "history_2.3": "Corrected spacing errors, morphology encoding (2014-02-22)",
       "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
-      "history_3.0": "(2021-10-19) Correct issues with the Strong numbers reported in the bug tracker https://tracker.crosswire.org/browse/MOD-349"
+      "history_3.0": "(2021-10-28) Correct issues with the Strong numbers reported in the bug tracker https://tracker.crosswire.org/browse/MOD-349",
+      "history_3.1": "(2023-03-25) Correction of spurious strong numbers."
     },
     "url": "https://getbible.net/v2/textusreceptus.json",
-    "sha": "419480596bd6a4c9bd0a215f2f93062c23f82116"
+    "sha": "0e8305fa330e73185d99dc1ec73322fececc6699"
   },
   "thai": {
     "translation": "Thai from kjv",
