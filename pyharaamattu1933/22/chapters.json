@@ -10,7 +10,7 @@
     "book_name": "Song of Songs",
     "chapter": 1,
     "name": "Song of Songs 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/1.json",
     "sha": "075d3afe768db59f4c3760f75319dd953f34ec13"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Song of Songs",
     "chapter": 2,
     "name": "Song of Songs 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/2.json",
     "sha": "6c28b9018f62130f63ba3b84d468ee36d8c560cc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Song of Songs",
     "chapter": 3,
     "name": "Song of Songs 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/3.json",
     "sha": "2f2d4ac51dbd7639c001cc0dc4ee752b7a1e5af7"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Song of Songs",
     "chapter": 4,
     "name": "Song of Songs 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/4.json",
     "sha": "d38df4d00cc9a784764033fdb6bd10615b61bb5d"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Song of Songs",
     "chapter": 5,
     "name": "Song of Songs 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/5.json",
     "sha": "ae4d887462d2c3d87d3c1ac3c3d89c33d4473e27"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Song of Songs",
     "chapter": 6,
     "name": "Song of Songs 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/6.json",
     "sha": "c13956410b59c57995519bf25271e9f846409b2f"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Song of Songs",
     "chapter": 7,
     "name": "Song of Songs 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/7.json",
     "sha": "e33414864e166cf63d6b803f63de90b45b122576"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Song of Songs",
     "chapter": 8,
     "name": "Song of Songs 8",
-    "url": "https://getbible.net/v2/pyharaamattu1933/22/8.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/22/8.json",
     "sha": "d0b1174282ebfe500677beb2263158b81b23f365"
   }
 }

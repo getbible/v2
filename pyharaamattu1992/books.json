@@ -8,8 +8,8 @@
     "encoding": "UTF-8",
     "nr": 1,
     "name": "Genesis",
-    "url": "https://getbible.net/v2/pyharaamattu1992/1.json",
-    "sha": "76a5b85673a19f136e36b94877e13fff992733c1"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/1.json",
+    "sha": "63652ba28f1af19fda86955b720f27ac1914a6eb"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -20,8 +20,8 @@
     "encoding": "UTF-8",
     "nr": 2,
     "name": "Exodus",
-    "url": "https://getbible.net/v2/pyharaamattu1992/2.json",
-    "sha": "a6409f29127198ce36d4b823febd6db7e09fbedd"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/2.json",
+    "sha": "2a3c47f3493c929665c3ca259a4a8326cdeee9c5"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -32,8 +32,8 @@
     "encoding": "UTF-8",
     "nr": 3,
     "name": "Leviticus",
-    "url": "https://getbible.net/v2/pyharaamattu1992/3.json",
-    "sha": "64d11957073793560a90eeda429f5e5f376b6b89"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/3.json",
+    "sha": "1dcb9e0929c6df2c6279db23e401956e72f4d28c"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -44,8 +44,8 @@
     "encoding": "UTF-8",
     "nr": 4,
     "name": "Numbers",
-    "url": "https://getbible.net/v2/pyharaamattu1992/4.json",
-    "sha": "a563353c9c1f16e17b1e815d9fca02bfe1a32869"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/4.json",
+    "sha": "e3e48c9390e66471cb46b5654c0f7042c43065b5"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -56,8 +56,8 @@
     "encoding": "UTF-8",
     "nr": 5,
     "name": "Deuteronomy",
-    "url": "https://getbible.net/v2/pyharaamattu1992/5.json",
-    "sha": "6d34c6253fc11b7213f63510c51517ee16b40e07"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/5.json",
+    "sha": "47c38bc21e6a048ba4d635201378f21b16b63b08"
   },
   "6": {
     "translation": "Pyha Raamattu (1992)",
@@ -68,8 +68,8 @@
     "encoding": "UTF-8",
     "nr": 6,
     "name": "Joshua",
-    "url": "https://getbible.net/v2/pyharaamattu1992/6.json",
-    "sha": "c42b606bb34a5d5801cd9396df9f76971fc20732"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/6.json",
+    "sha": "703432a6dd5c1e6a5c6730b76608e089bb97d571"
   },
   "7": {
     "translation": "Pyha Raamattu (1992)",
@@ -80,8 +80,8 @@
     "encoding": "UTF-8",
     "nr": 7,
     "name": "Judges",
-    "url": "https://getbible.net/v2/pyharaamattu1992/7.json",
-    "sha": "b11dbc52c0508d7abdf6a5bc71f705daf25e2b37"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/7.json",
+    "sha": "e8bd8f1e16ecfdde0e7133b4433ed157d5d5527e"
   },
   "8": {
     "translation": "Pyha Raamattu (1992)",
@@ -92,8 +92,8 @@
     "encoding": "UTF-8",
     "nr": 8,
     "name": "Ruth",
-    "url": "https://getbible.net/v2/pyharaamattu1992/8.json",
-    "sha": "5d9be5c47c8e54904affb361194fa8aa912c19ac"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/8.json",
+    "sha": "6d03cf17d08fb9797917b020696ce8b76247a1d9"
   },
   "9": {
     "translation": "Pyha Raamattu (1992)",
@@ -104,8 +104,8 @@
     "encoding": "UTF-8",
     "nr": 9,
     "name": "1 Samuel",
-    "url": "https://getbible.net/v2/pyharaamattu1992/9.json",
-    "sha": "ed701fec74a25ca92bbe1991737245868c5a03d7"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/9.json",
+    "sha": "499223090cffdabee0871aeb4c7f95d5948c6c59"
   },
   "10": {
     "translation": "Pyha Raamattu (1992)",
@@ -116,8 +116,8 @@
     "encoding": "UTF-8",
     "nr": 10,
     "name": "2 Samuel",
-    "url": "https://getbible.net/v2/pyharaamattu1992/10.json",
-    "sha": "1903e507788e9240f9b17b7bd4ff77a19677c929"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/10.json",
+    "sha": "98fc8b63ce6cc7d8a1aa2d93feb2da4470929e83"
   },
   "11": {
     "translation": "Pyha Raamattu (1992)",
@@ -128,8 +128,8 @@
     "encoding": "UTF-8",
     "nr": 11,
     "name": "1 Kings",
-    "url": "https://getbible.net/v2/pyharaamattu1992/11.json",
-    "sha": "a876bbcb4c3e315ff1462ad276c75ca99c471623"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/11.json",
+    "sha": "0d3f56f66506d2ab93b17cbbbe1f939b6237d539"
   },
   "12": {
     "translation": "Pyha Raamattu (1992)",
@@ -140,8 +140,8 @@
     "encoding": "UTF-8",
     "nr": 12,
     "name": "2 Kings",
-    "url": "https://getbible.net/v2/pyharaamattu1992/12.json",
-    "sha": "fccd506e64da910564d129c3d81d02ea2afe5aa0"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/12.json",
+    "sha": "8c6477bf87a6421be6499a785c19bc496e2f11b0"
   },
   "13": {
     "translation": "Pyha Raamattu (1992)",
@@ -152,8 +152,8 @@
     "encoding": "UTF-8",
     "nr": 13,
     "name": "1 Chronicles",
-    "url": "https://getbible.net/v2/pyharaamattu1992/13.json",
-    "sha": "66bf89469b1d9d30b188f5cb05974f9469f13301"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/13.json",
+    "sha": "9938c3ab056ae17fd393c8b053dbaa8e3c8bee3a"
   },
   "14": {
     "translation": "Pyha Raamattu (1992)",
@@ -164,8 +164,8 @@
     "encoding": "UTF-8",
     "nr": 14,
     "name": "2 Chronicles",
-    "url": "https://getbible.net/v2/pyharaamattu1992/14.json",
-    "sha": "2e04bc6c24192b268454c57a04b0a77776610b52"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/14.json",
+    "sha": "ab712686203ab6f61b8590fbc3b909a99535fde8"
   },
   "15": {
     "translation": "Pyha Raamattu (1992)",
@@ -176,8 +176,8 @@
     "encoding": "UTF-8",
     "nr": 15,
     "name": "Ezra",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15.json",
-    "sha": "a6c28690808ba964ae3c9b2dc95d81a609be08df"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15.json",
+    "sha": "86b285823ec0d5b00b6ed4212adc6b4cd70865a7"
   },
   "16": {
     "translation": "Pyha Raamattu (1992)",
@@ -188,8 +188,8 @@
     "encoding": "UTF-8",
     "nr": 16,
     "name": "Nehemiah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/16.json",
-    "sha": "d0087ba53a970a954300dc589ff0f8531db4e33b"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/16.json",
+    "sha": "78c89b1de1f423781ebdcd38898d0a5b72a8a3e0"
   },
   "17": {
     "translation": "Pyha Raamattu (1992)",
@@ -200,8 +200,8 @@
     "encoding": "UTF-8",
     "nr": 17,
     "name": "Esther",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17.json",
-    "sha": "802b806171e64c4cca42494978acae63572b8c4c"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17.json",
+    "sha": "31452b7c35b32c0f4ec6690ab40d410753ed9af8"
   },
   "18": {
     "translation": "Pyha Raamattu (1992)",
@@ -212,8 +212,8 @@
     "encoding": "UTF-8",
     "nr": 18,
     "name": "Job",
-    "url": "https://getbible.net/v2/pyharaamattu1992/18.json",
-    "sha": "d5c44f58e1ae57e3240e2c27888c376ae4b2fb3a"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/18.json",
+    "sha": "d8a41020b7548aa6158d0ec907f0a2ddb3379cb5"
   },
   "19": {
     "translation": "Pyha Raamattu (1992)",
@@ -224,8 +224,8 @@
     "encoding": "UTF-8",
     "nr": 19,
     "name": "Psalms",
-    "url": "https://getbible.net/v2/pyharaamattu1992/19.json",
-    "sha": "dcc1f3dab2e21d53dad868431dd9176a0f578c31"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/19.json",
+    "sha": "5dfc4825bc40e1a244a46e414935ea34aa8aa3f1"
   },
   "20": {
     "translation": "Pyha Raamattu (1992)",
@@ -236,8 +236,8 @@
     "encoding": "UTF-8",
     "nr": 20,
     "name": "Proverbs",
-    "url": "https://getbible.net/v2/pyharaamattu1992/20.json",
-    "sha": "68878ee47cba0d9eb6db980d7283dd7810306b2d"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/20.json",
+    "sha": "612da371c0bdf988d1a3936266bbeafb795d53bf"
   },
   "21": {
     "translation": "Pyha Raamattu (1992)",
@@ -248,8 +248,8 @@
     "encoding": "UTF-8",
     "nr": 21,
     "name": "Ecclesiastes",
-    "url": "https://getbible.net/v2/pyharaamattu1992/21.json",
-    "sha": "42c344ee28dc2e234e0cba61528bacd03e95c121"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/21.json",
+    "sha": "07df0d3e45e7339c5ebe7ee6a9f3f0e096390a4d"
   },
   "22": {
     "translation": "Pyha Raamattu (1992)",
@@ -260,8 +260,8 @@
     "encoding": "UTF-8",
     "nr": 22,
     "name": "Song of Songs",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22.json",
-    "sha": "81d6f333dc2bb367fb32be4eb58c7cf27cba9646"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22.json",
+    "sha": "dc184de2546d983eb565af3f4d5a9edf57e2186f"
   },
   "23": {
     "translation": "Pyha Raamattu (1992)",
@@ -272,8 +272,8 @@
     "encoding": "UTF-8",
     "nr": 23,
     "name": "Isaiah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/23.json",
-    "sha": "511d78d890fe11e5cf4def91295ae4759693a802"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/23.json",
+    "sha": "14447fc861b1a8b497b52b2adad351e66299d16d"
   },
   "24": {
     "translation": "Pyha Raamattu (1992)",
@@ -284,8 +284,8 @@
     "encoding": "UTF-8",
     "nr": 24,
     "name": "Jeremiah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/24.json",
-    "sha": "8fe6b6f1f4cdde73557a57e369fb2daee780cff1"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/24.json",
+    "sha": "3e0b6ac20489f53bc725247ef3ece444912ce493"
   },
   "25": {
     "translation": "Pyha Raamattu (1992)",
@@ -296,8 +296,8 @@
     "encoding": "UTF-8",
     "nr": 25,
     "name": "Lamentations",
-    "url": "https://getbible.net/v2/pyharaamattu1992/25.json",
-    "sha": "aca6a62eebc636483512eec638343166be537f85"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/25.json",
+    "sha": "6b1783400f71b1e7480d7ef041092fd66fa731b6"
   },
   "26": {
     "translation": "Pyha Raamattu (1992)",
@@ -308,8 +308,8 @@
     "encoding": "UTF-8",
     "nr": 26,
     "name": "Ezekiel",
-    "url": "https://getbible.net/v2/pyharaamattu1992/26.json",
-    "sha": "3731f81db1727a3f16b88a668cb2237bdbc7954d"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/26.json",
+    "sha": "ad8b19bbeb91fdfdf849e0fd8743765b4dccb65a"
   },
   "27": {
     "translation": "Pyha Raamattu (1992)",
@@ -320,8 +320,8 @@
     "encoding": "UTF-8",
     "nr": 27,
     "name": "Daniel",
-    "url": "https://getbible.net/v2/pyharaamattu1992/27.json",
-    "sha": "aa037817cf9a57341f70047faa3ffec9a1f6e5a7"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/27.json",
+    "sha": "7d937a7d8d29e0a0a1e500d457ed937c4534becd"
   },
   "28": {
     "translation": "Pyha Raamattu (1992)",
@@ -332,8 +332,8 @@
     "encoding": "UTF-8",
     "nr": 28,
     "name": "Hosea",
-    "url": "https://getbible.net/v2/pyharaamattu1992/28.json",
-    "sha": "2ec848d98530245fce3eb5ff8a4709eaa208259e"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/28.json",
+    "sha": "83d03c59b05d98b696d3480ef268844bdfd3ca4e"
   },
   "29": {
     "translation": "Pyha Raamattu (1992)",
@@ -344,8 +344,8 @@
     "encoding": "UTF-8",
     "nr": 29,
     "name": "Joel",
-    "url": "https://getbible.net/v2/pyharaamattu1992/29.json",
-    "sha": "68283b44cfb1c122a5521e809bdeba0adbbc1101"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/29.json",
+    "sha": "b5b830a1e03c52a30c8224a1fc9a509d650944c9"
   },
   "30": {
     "translation": "Pyha Raamattu (1992)",
@@ -356,8 +356,8 @@
     "encoding": "UTF-8",
     "nr": 30,
     "name": "Amos",
-    "url": "https://getbible.net/v2/pyharaamattu1992/30.json",
-    "sha": "250bf4295b7f86797708386d77c4114b31e017bf"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/30.json",
+    "sha": "ed1ff8e27e41e4feed2d8d5f9268ee2267bc28aa"
   },
   "31": {
     "translation": "Pyha Raamattu (1992)",
@@ -368,8 +368,8 @@
     "encoding": "UTF-8",
     "nr": 31,
     "name": "Obadiah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/31.json",
-    "sha": "8d1affe7057d65eab8fd8fbc60d7bcfe97ed95c1"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/31.json",
+    "sha": "654bbca8d305f71e43374c7c6bb67b30807d5087"
   },
   "32": {
     "translation": "Pyha Raamattu (1992)",
@@ -380,8 +380,8 @@
     "encoding": "UTF-8",
     "nr": 32,
     "name": "Jonah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/32.json",
-    "sha": "c7c5c3105cead28cb0aeab487df56e18ca7a1ebf"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/32.json",
+    "sha": "3e18c3e0908456112b3f92bb958bcd225d1af241"
   },
   "33": {
     "translation": "Pyha Raamattu (1992)",
@@ -392,8 +392,8 @@
     "encoding": "UTF-8",
     "nr": 33,
     "name": "Micah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/33.json",
-    "sha": "029cf9dc63dd82ea082fdcdea915d67d71dc4a39"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/33.json",
+    "sha": "42027e5b182b6174068dd99a40b433a54dd66392"
   },
   "34": {
     "translation": "Pyha Raamattu (1992)",
@@ -404,8 +404,8 @@
     "encoding": "UTF-8",
     "nr": 34,
     "name": "Nahum",
-    "url": "https://getbible.net/v2/pyharaamattu1992/34.json",
-    "sha": "d3ec4df300c5b0130ce5c5a2bad70661888c08fb"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/34.json",
+    "sha": "2aa6372a100895a62f02b92f5162945f2e2f569c"
   },
   "35": {
     "translation": "Pyha Raamattu (1992)",
@@ -416,8 +416,8 @@
     "encoding": "UTF-8",
     "nr": 35,
     "name": "Habakkuk",
-    "url": "https://getbible.net/v2/pyharaamattu1992/35.json",
-    "sha": "dc3ee3ca5b09154a23d62d75584932ac81c69d6c"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/35.json",
+    "sha": "64b4ec3c0ec356dfcb7e453f333164726eb26d0f"
   },
   "36": {
     "translation": "Pyha Raamattu (1992)",
@@ -428,8 +428,8 @@
     "encoding": "UTF-8",
     "nr": 36,
     "name": "Zephaniah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/36.json",
-    "sha": "bbd2deb2be159948312c5404485d2c165ff9d4de"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/36.json",
+    "sha": "797debd4ffb668f6e73b070fcb0d4280af3df688"
   },
   "37": {
     "translation": "Pyha Raamattu (1992)",
@@ -440,8 +440,8 @@
     "encoding": "UTF-8",
     "nr": 37,
     "name": "Haggai",
-    "url": "https://getbible.net/v2/pyharaamattu1992/37.json",
-    "sha": "46089b86d48d37af1bf2979bc00f657b58a0b430"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/37.json",
+    "sha": "99f68a1efe170dc987d187ec29f0cc7caa8de54a"
   },
   "38": {
     "translation": "Pyha Raamattu (1992)",
@@ -452,8 +452,8 @@
     "encoding": "UTF-8",
     "nr": 38,
     "name": "Zechariah",
-    "url": "https://getbible.net/v2/pyharaamattu1992/38.json",
-    "sha": "79510061c7b3bc08aa8d35431bf3487c8e8859d0"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/38.json",
+    "sha": "f7c41ed000f2e4414290ba9cae9f55e3f6b1e50c"
   },
   "39": {
     "translation": "Pyha Raamattu (1992)",
@@ -464,8 +464,8 @@
     "encoding": "UTF-8",
     "nr": 39,
     "name": "Malachi",
-    "url": "https://getbible.net/v2/pyharaamattu1992/39.json",
-    "sha": "57e9f24072bf1cf456e3425557f94c91729e5d1f"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/39.json",
+    "sha": "6db3341d5c224db946fd6bd934ea70f476bc5265"
   },
   "40": {
     "translation": "Pyha Raamattu (1992)",
@@ -476,8 +476,8 @@
     "encoding": "UTF-8",
     "nr": 40,
     "name": "Matthew",
-    "url": "https://getbible.net/v2/pyharaamattu1992/40.json",
-    "sha": "f7d48eac6a9692b4250417c9b6e386e147f4e3b2"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/40.json",
+    "sha": "75186bc26db4c195e1c5238162b6912d06a9f493"
   },
   "41": {
     "translation": "Pyha Raamattu (1992)",
@@ -488,8 +488,8 @@
     "encoding": "UTF-8",
     "nr": 41,
     "name": "Mark",
-    "url": "https://getbible.net/v2/pyharaamattu1992/41.json",
-    "sha": "df386bf13a0b440b593b7a3557b52af107099dcd"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/41.json",
+    "sha": "143fae6497a52b70256e016852ae813e57d3d89e"
   },
   "42": {
     "translation": "Pyha Raamattu (1992)",
@@ -500,8 +500,8 @@
     "encoding": "UTF-8",
     "nr": 42,
     "name": "Luke",
-    "url": "https://getbible.net/v2/pyharaamattu1992/42.json",
-    "sha": "35e204c8ad25d710961aadc210245117f457b189"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/42.json",
+    "sha": "be1d5398ec7a4242dbabf8a583e816012bc2b77c"
   },
   "43": {
     "translation": "Pyha Raamattu (1992)",
@@ -512,8 +512,8 @@
     "encoding": "UTF-8",
     "nr": 43,
     "name": "John",
-    "url": "https://getbible.net/v2/pyharaamattu1992/43.json",
-    "sha": "68b32ed3094e5adb9b14b59b78b07d4f7cd4729f"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/43.json",
+    "sha": "9889ac5557f65a99099ff471faa811af6c2c95a7"
   },
   "44": {
     "translation": "Pyha Raamattu (1992)",
@@ -524,8 +524,8 @@
     "encoding": "UTF-8",
     "nr": 44,
     "name": "Acts",
-    "url": "https://getbible.net/v2/pyharaamattu1992/44.json",
-    "sha": "f8a2ddc8717329e0af2ce9e345c49f1ddca2fe16"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/44.json",
+    "sha": "f84f24418101a49f074068bde88f490a99a76dad"
   },
   "45": {
     "translation": "Pyha Raamattu (1992)",
@@ -536,8 +536,8 @@
     "encoding": "UTF-8",
     "nr": 45,
     "name": "Romans",
-    "url": "https://getbible.net/v2/pyharaamattu1992/45.json",
-    "sha": "1a0ab5074d6a33ec70bb24b8caef86201571b4e3"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/45.json",
+    "sha": "e61665f697090924c011115d7d4ccd96484c77eb"
   },
   "46": {
     "translation": "Pyha Raamattu (1992)",
@@ -548,8 +548,8 @@
     "encoding": "UTF-8",
     "nr": 46,
     "name": "1 Corinthians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/46.json",
-    "sha": "9e75b26e7d0b0d390b61a9040387b9a77f0b8b2e"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/46.json",
+    "sha": "a0cc860a84bac89e7309d022467653c1c4e01245"
   },
   "47": {
     "translation": "Pyha Raamattu (1992)",
@@ -560,8 +560,8 @@
     "encoding": "UTF-8",
     "nr": 47,
     "name": "2 Corinthians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/47.json",
-    "sha": "f4106c6c45bcf45ea86b08aa1e47c03741f3262a"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/47.json",
+    "sha": "5a8847882f69166d300d4fca7c3234624c6a799e"
   },
   "48": {
     "translation": "Pyha Raamattu (1992)",
@@ -572,8 +572,8 @@
     "encoding": "UTF-8",
     "nr": 48,
     "name": "Galatians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/48.json",
-    "sha": "cb6a62edd439b9362076f15c1f588cd8645f987d"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/48.json",
+    "sha": "8874c853ad6be65feb0a17637d591a7da25bb06e"
   },
   "49": {
     "translation": "Pyha Raamattu (1992)",
@@ -584,8 +584,8 @@
     "encoding": "UTF-8",
     "nr": 49,
     "name": "Ephesians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/49.json",
-    "sha": "cc44f29dff56692eb7e9a9e364a5981cb5d705b6"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/49.json",
+    "sha": "cbb503b5dd1318c467dcdbeda631200fe9e2a744"
   },
   "50": {
     "translation": "Pyha Raamattu (1992)",
@@ -596,8 +596,8 @@
     "encoding": "UTF-8",
     "nr": 50,
     "name": "Philippians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/50.json",
-    "sha": "c94ce55153d4ca7c6106b0d20b49de4aad17d58e"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/50.json",
+    "sha": "5db5d880c175f0e0627f470e167517516843979d"
   },
   "51": {
     "translation": "Pyha Raamattu (1992)",
@@ -608,8 +608,8 @@
     "encoding": "UTF-8",
     "nr": 51,
     "name": "Colossians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/51.json",
-    "sha": "faad8a42ff298ec5dd6b7a306f43af6a4535ac4c"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/51.json",
+    "sha": "b88e8992b413beefca2fef8d423c382d32cd62d6"
   },
   "52": {
     "translation": "Pyha Raamattu (1992)",
@@ -620,8 +620,8 @@
     "encoding": "UTF-8",
     "nr": 52,
     "name": "1 Thessalonians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/52.json",
-    "sha": "dc072f0c5c950b39e2994903db4e878087c1cc17"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/52.json",
+    "sha": "064b2124d395aed2a0da1ac8274dbb1f558a54c8"
   },
   "53": {
     "translation": "Pyha Raamattu (1992)",
@@ -632,8 +632,8 @@
     "encoding": "UTF-8",
     "nr": 53,
     "name": "2 Thessalonians",
-    "url": "https://getbible.net/v2/pyharaamattu1992/53.json",
-    "sha": "537e6d134c0187ab41d8c47eb0b8d03742cd12df"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/53.json",
+    "sha": "e0dcf1fa5531b22a1d25b634ce69016eba95cf34"
   },
   "54": {
     "translation": "Pyha Raamattu (1992)",
@@ -644,8 +644,8 @@
     "encoding": "UTF-8",
     "nr": 54,
     "name": "1 Timothy",
-    "url": "https://getbible.net/v2/pyharaamattu1992/54.json",
-    "sha": "1d8a7d577ddc66e5781609a9713161c05d784239"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/54.json",
+    "sha": "155531384505a4647320230e3be483daa1a9b7fd"
   },
   "55": {
     "translation": "Pyha Raamattu (1992)",
@@ -656,8 +656,8 @@
     "encoding": "UTF-8",
     "nr": 55,
     "name": "2 Timothy",
-    "url": "https://getbible.net/v2/pyharaamattu1992/55.json",
-    "sha": "f180e83568d64e88325e57baa657a61d8c90b3ca"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/55.json",
+    "sha": "424c871b82277959a714e5d6419775c42bd8a2d1"
   },
   "56": {
     "translation": "Pyha Raamattu (1992)",
@@ -668,8 +668,8 @@
     "encoding": "UTF-8",
     "nr": 56,
     "name": "Titus",
-    "url": "https://getbible.net/v2/pyharaamattu1992/56.json",
-    "sha": "ae9168fa8f6a31a34a6551aba245c777aaf95d81"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/56.json",
+    "sha": "21893f9e9e827d38b3bd31cced93bcc9cd38e2c5"
   },
   "57": {
     "translation": "Pyha Raamattu (1992)",
@@ -680,8 +680,8 @@
     "encoding": "UTF-8",
     "nr": 57,
     "name": "Philemon",
-    "url": "https://getbible.net/v2/pyharaamattu1992/57.json",
-    "sha": "2ef4ff091af5527c4f1155ae0eddc8f25909eaee"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/57.json",
+    "sha": "d71e013eba3126d730ffdf3bc633e1c3c6c78ecf"
   },
   "58": {
     "translation": "Pyha Raamattu (1992)",
@@ -692,8 +692,8 @@
     "encoding": "UTF-8",
     "nr": 58,
     "name": "Hebrews",
-    "url": "https://getbible.net/v2/pyharaamattu1992/58.json",
-    "sha": "cbf6a782760db7847d3b0aeeff047c5bfcbbe7d8"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/58.json",
+    "sha": "f3a4ffcf8a9c237f0eeb30258078e06ad9519372"
   },
   "59": {
     "translation": "Pyha Raamattu (1992)",
@@ -704,8 +704,8 @@
     "encoding": "UTF-8",
     "nr": 59,
     "name": "James",
-    "url": "https://getbible.net/v2/pyharaamattu1992/59.json",
-    "sha": "5633b8aafb48d3159da1864ec8e1229e9e248678"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/59.json",
+    "sha": "eda4e5f560e0edc2b8649320e5c2a66152eb7e22"
   },
   "60": {
     "translation": "Pyha Raamattu (1992)",
@@ -716,8 +716,8 @@
     "encoding": "UTF-8",
     "nr": 60,
     "name": "1 Peter",
-    "url": "https://getbible.net/v2/pyharaamattu1992/60.json",
-    "sha": "0970530ec210e4d48210a5992787c5de29801131"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/60.json",
+    "sha": "ea5e2b5dbdd8a08b716960abe9467e63af886082"
   },
   "61": {
     "translation": "Pyha Raamattu (1992)",
@@ -728,8 +728,8 @@
     "encoding": "UTF-8",
     "nr": 61,
     "name": "2 Peter",
-    "url": "https://getbible.net/v2/pyharaamattu1992/61.json",
-    "sha": "13eda7526732f883e713000c2406902e04b6c7e7"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/61.json",
+    "sha": "9242223039042b76aa066f73a15073d75514b5c1"
   },
   "62": {
     "translation": "Pyha Raamattu (1992)",
@@ -740,8 +740,8 @@
     "encoding": "UTF-8",
     "nr": 62,
     "name": "1 John",
-    "url": "https://getbible.net/v2/pyharaamattu1992/62.json",
-    "sha": "d917c1268b13ebd74522ae348af4169542e74014"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/62.json",
+    "sha": "4f066e1c60e9a991b19b70afc5a34e6941d0581a"
   },
   "63": {
     "translation": "Pyha Raamattu (1992)",
@@ -752,8 +752,8 @@
     "encoding": "UTF-8",
     "nr": 63,
     "name": "2 John",
-    "url": "https://getbible.net/v2/pyharaamattu1992/63.json",
-    "sha": "1ddcb8014a53b9a4346d787f20816d0b79f4c3bb"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/63.json",
+    "sha": "9fa7e10793a50c765d97aca473df5c22f09ed52f"
   },
   "64": {
     "translation": "Pyha Raamattu (1992)",
@@ -764,8 +764,8 @@
     "encoding": "UTF-8",
     "nr": 64,
     "name": "3 John",
-    "url": "https://getbible.net/v2/pyharaamattu1992/64.json",
-    "sha": "7178410540ef8421e95f156af296eb735c9395a1"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/64.json",
+    "sha": "d5a19d75d42518e82de3b1aeb5c52dacfa67d501"
   },
   "65": {
     "translation": "Pyha Raamattu (1992)",
@@ -776,8 +776,8 @@
     "encoding": "UTF-8",
     "nr": 65,
     "name": "Jude",
-    "url": "https://getbible.net/v2/pyharaamattu1992/65.json",
-    "sha": "9528752b5c63d11adf2a3aec99053d14930d7b27"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/65.json",
+    "sha": "12ae860baac1215d76fb64558345aca7e2d7d564"
   },
   "66": {
     "translation": "Pyha Raamattu (1992)",
@@ -788,7 +788,7 @@
     "encoding": "UTF-8",
     "nr": 66,
     "name": "Revelation",
-    "url": "https://getbible.net/v2/pyharaamattu1992/66.json",
-    "sha": "c69e5527303e4c1706ff7845101197c083b09b63"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/66.json",
+    "sha": "65172a9b40079481acc14ded187cad85aa97381b"
   }
 }

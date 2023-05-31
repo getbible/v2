@@ -8,7 +8,7 @@
     "encoding": "UTF-8",
     "nr": 40,
     "name": "Matthew",
-    "url": "https://getbible.net/v2/coptic/40.json",
+    "url": "https://api.getbible.net/v2/coptic/40.json",
     "sha": "89460fc9914f8599c34b3bdc2b6e414b8115ab5e"
   },
   "41": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "nr": 41,
     "name": "Mark",
-    "url": "https://getbible.net/v2/coptic/41.json",
+    "url": "https://api.getbible.net/v2/coptic/41.json",
     "sha": "650258d6d3081773a50c55979dab3b468df007d4"
   },
   "42": {
@@ -32,7 +32,7 @@
     "encoding": "UTF-8",
     "nr": 42,
     "name": "Luke",
-    "url": "https://getbible.net/v2/coptic/42.json",
+    "url": "https://api.getbible.net/v2/coptic/42.json",
     "sha": "733abcfe53748bea51f09b18684a066e3130a8ba"
   },
   "43": {
@@ -44,7 +44,7 @@
     "encoding": "UTF-8",
     "nr": 43,
     "name": "John",
-    "url": "https://getbible.net/v2/coptic/43.json",
+    "url": "https://api.getbible.net/v2/coptic/43.json",
     "sha": "f4ee12e2667386c2b57fac82b67bd59a04af1321"
   },
   "44": {
@@ -56,7 +56,7 @@
     "encoding": "UTF-8",
     "nr": 44,
     "name": "Acts",
-    "url": "https://getbible.net/v2/coptic/44.json",
+    "url": "https://api.getbible.net/v2/coptic/44.json",
     "sha": "1b594a13795a721ad881665d9465f34c3548ab52"
   },
   "45": {
@@ -68,7 +68,7 @@
     "encoding": "UTF-8",
     "nr": 45,
     "name": "Romans",
-    "url": "https://getbible.net/v2/coptic/45.json",
+    "url": "https://api.getbible.net/v2/coptic/45.json",
     "sha": "c478be6b8d29d6b64fdedd1d1290dd2db9ff1833"
   },
   "46": {
@@ -80,7 +80,7 @@
     "encoding": "UTF-8",
     "nr": 46,
     "name": "1 Corinthians",
-    "url": "https://getbible.net/v2/coptic/46.json",
+    "url": "https://api.getbible.net/v2/coptic/46.json",
     "sha": "e831ab98dea73e0f62c2f5ec6ef092725db1de36"
   },
   "47": {
@@ -92,7 +92,7 @@
     "encoding": "UTF-8",
     "nr": 47,
     "name": "2 Corinthians",
-    "url": "https://getbible.net/v2/coptic/47.json",
+    "url": "https://api.getbible.net/v2/coptic/47.json",
     "sha": "4b3ad97cbe6ef39d5b1209edfc9e386d54be6aca"
   },
   "48": {
@@ -104,7 +104,7 @@
     "encoding": "UTF-8",
     "nr": 48,
     "name": "Galatians",
-    "url": "https://getbible.net/v2/coptic/48.json",
+    "url": "https://api.getbible.net/v2/coptic/48.json",
     "sha": "f9f7ba7eebebc196499090c3c67b922c08e54555"
   },
   "49": {
@@ -116,7 +116,7 @@
     "encoding": "UTF-8",
     "nr": 49,
     "name": "Ephesians",
-    "url": "https://getbible.net/v2/coptic/49.json",
+    "url": "https://api.getbible.net/v2/coptic/49.json",
     "sha": "1906ce96eb8a10c5e386da7b1d51c263087a5653"
   },
   "50": {
@@ -128,7 +128,7 @@
     "encoding": "UTF-8",
     "nr": 50,
     "name": "Philippians",
-    "url": "https://getbible.net/v2/coptic/50.json",
+    "url": "https://api.getbible.net/v2/coptic/50.json",
     "sha": "8bcce8785f823eff320103d35960b0a19957538c"
   },
   "51": {
@@ -140,7 +140,7 @@
     "encoding": "UTF-8",
     "nr": 51,
     "name": "Colossians",
-    "url": "https://getbible.net/v2/coptic/51.json",
+    "url": "https://api.getbible.net/v2/coptic/51.json",
     "sha": "9f0d2cd521a99c27776e8ffe6c4ec09fbb5ee7fb"
   },
   "52": {
@@ -152,7 +152,7 @@
     "encoding": "UTF-8",
     "nr": 52,
     "name": "1 Thessalonians",
-    "url": "https://getbible.net/v2/coptic/52.json",
+    "url": "https://api.getbible.net/v2/coptic/52.json",
     "sha": "b5ba310d06fddcf29276deaf8ad0b4f0e0648cc9"
   },
   "53": {
@@ -164,7 +164,7 @@
     "encoding": "UTF-8",
     "nr": 53,
     "name": "2 Thessalonians",
-    "url": "https://getbible.net/v2/coptic/53.json",
+    "url": "https://api.getbible.net/v2/coptic/53.json",
     "sha": "28a83b74a68ea593c46f2689f937a50ec5a490b5"
   },
   "54": {
@@ -176,7 +176,7 @@
     "encoding": "UTF-8",
     "nr": 54,
     "name": "1 Timothy",
-    "url": "https://getbible.net/v2/coptic/54.json",
+    "url": "https://api.getbible.net/v2/coptic/54.json",
     "sha": "162d48338601717263771f6d56ac794640e0697b"
   },
   "55": {
@@ -188,7 +188,7 @@
     "encoding": "UTF-8",
     "nr": 55,
     "name": "2 Timothy",
-    "url": "https://getbible.net/v2/coptic/55.json",
+    "url": "https://api.getbible.net/v2/coptic/55.json",
     "sha": "fdf32ca20e152cb6f55e90c9bc62c345e21b145f"
   },
   "56": {
@@ -200,7 +200,7 @@
     "encoding": "UTF-8",
     "nr": 56,
     "name": "Titus",
-    "url": "https://getbible.net/v2/coptic/56.json",
+    "url": "https://api.getbible.net/v2/coptic/56.json",
     "sha": "bded70aeb70d6cd615441a763895cd6ca10d2f21"
   },
   "57": {
@@ -212,7 +212,7 @@
     "encoding": "UTF-8",
     "nr": 57,
     "name": "Philemon",
-    "url": "https://getbible.net/v2/coptic/57.json",
+    "url": "https://api.getbible.net/v2/coptic/57.json",
     "sha": "0df970aacc49f8c844c591c08d1689ff03a20f2d"
   },
   "58": {
@@ -224,7 +224,7 @@
     "encoding": "UTF-8",
     "nr": 58,
     "name": "Hebrews",
-    "url": "https://getbible.net/v2/coptic/58.json",
+    "url": "https://api.getbible.net/v2/coptic/58.json",
     "sha": "103c60f437f619fb3ce2b4dcbcc12c44a42c33a6"
   },
   "59": {
@@ -236,7 +236,7 @@
     "encoding": "UTF-8",
     "nr": 59,
     "name": "James",
-    "url": "https://getbible.net/v2/coptic/59.json",
+    "url": "https://api.getbible.net/v2/coptic/59.json",
     "sha": "1ffc0c6a2a806c63f43ad371ee96ee19f82fd002"
   },
   "60": {
@@ -248,7 +248,7 @@
     "encoding": "UTF-8",
     "nr": 60,
     "name": "1 Peter",
-    "url": "https://getbible.net/v2/coptic/60.json",
+    "url": "https://api.getbible.net/v2/coptic/60.json",
     "sha": "c46654675e29d984d4556e71a91f16f1627b30e0"
   },
   "61": {
@@ -260,7 +260,7 @@
     "encoding": "UTF-8",
     "nr": 61,
     "name": "2 Peter",
-    "url": "https://getbible.net/v2/coptic/61.json",
+    "url": "https://api.getbible.net/v2/coptic/61.json",
     "sha": "7759516ac48904446145c25cf444f2fc38c29fdb"
   },
   "62": {
@@ -272,7 +272,7 @@
     "encoding": "UTF-8",
     "nr": 62,
     "name": "1 John",
-    "url": "https://getbible.net/v2/coptic/62.json",
+    "url": "https://api.getbible.net/v2/coptic/62.json",
     "sha": "b578b235517c4a5eff69d2c438d0743304eda25b"
   },
   "63": {
@@ -284,7 +284,7 @@
     "encoding": "UTF-8",
     "nr": 63,
     "name": "2 John",
-    "url": "https://getbible.net/v2/coptic/63.json",
+    "url": "https://api.getbible.net/v2/coptic/63.json",
     "sha": "a1ac9d7eff63503c1e11fe757f92411beb9b8e54"
   },
   "64": {
@@ -296,7 +296,7 @@
     "encoding": "UTF-8",
     "nr": 64,
     "name": "3 John",
-    "url": "https://getbible.net/v2/coptic/64.json",
+    "url": "https://api.getbible.net/v2/coptic/64.json",
     "sha": "ca890ae5fa0b51ffdc22d467e73a9801e05822d1"
   },
   "65": {
@@ -308,7 +308,7 @@
     "encoding": "UTF-8",
     "nr": 65,
     "name": "Jude",
-    "url": "https://getbible.net/v2/coptic/65.json",
+    "url": "https://api.getbible.net/v2/coptic/65.json",
     "sha": "e2d3dc7ecc87e00d24ffd04b0b96f6920c4d1cd8"
   },
   "66": {
@@ -320,7 +320,7 @@
     "encoding": "UTF-8",
     "nr": 66,
     "name": "Revelation",
-    "url": "https://getbible.net/v2/coptic/66.json",
+    "url": "https://api.getbible.net/v2/coptic/66.json",
     "sha": "0aae08c5846ff4483b2fd6414c11d6e10a890a11"
   }
 }

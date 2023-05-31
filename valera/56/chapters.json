@@ -10,7 +10,7 @@
     "book_name": "Titus",
     "chapter": 1,
     "name": "Titus 1",
-    "url": "https://getbible.net/v2/valera/56/1.json",
+    "url": "https://api.getbible.net/v2/valera/56/1.json",
     "sha": "9dd0633cc8611301740b79e6d6ae0d1381dcb9b7"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Titus",
     "chapter": 2,
     "name": "Titus 2",
-    "url": "https://getbible.net/v2/valera/56/2.json",
+    "url": "https://api.getbible.net/v2/valera/56/2.json",
     "sha": "4c555e8a2e3ff2a9d99065ed509610787a50e82f"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Titus",
     "chapter": 3,
     "name": "Titus 3",
-    "url": "https://getbible.net/v2/valera/56/3.json",
+    "url": "https://api.getbible.net/v2/valera/56/3.json",
     "sha": "04c4d79bc07428212c56d346166cd59597bf6a93"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "希伯来书",
     "chapter": 1,
     "name": "希伯来书 1",
-    "url": "https://getbible.net/v2/cus/58/1.json",
+    "url": "https://api.getbible.net/v2/cus/58/1.json",
     "sha": "cfb0fdb0f54ae51f2af5ab4bf211126b59ca9940"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "希伯来书",
     "chapter": 2,
     "name": "希伯来书 2",
-    "url": "https://getbible.net/v2/cus/58/2.json",
+    "url": "https://api.getbible.net/v2/cus/58/2.json",
     "sha": "9ac10599dda1ae81d794527cc0c1ba949ac820dc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "希伯来书",
     "chapter": 3,
     "name": "希伯来书 3",
-    "url": "https://getbible.net/v2/cus/58/3.json",
+    "url": "https://api.getbible.net/v2/cus/58/3.json",
     "sha": "4a7ea834255c493f6424ba3ac65adf2335f09436"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "希伯来书",
     "chapter": 4,
     "name": "希伯来书 4",
-    "url": "https://getbible.net/v2/cus/58/4.json",
+    "url": "https://api.getbible.net/v2/cus/58/4.json",
     "sha": "d050e73ef039a27ab3d2f8d3dd59d5ec8da75ede"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "希伯来书",
     "chapter": 5,
     "name": "希伯来书 5",
-    "url": "https://getbible.net/v2/cus/58/5.json",
+    "url": "https://api.getbible.net/v2/cus/58/5.json",
     "sha": "ec1260d12bc6df36d903a4eb0a72070ee4b28244"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "希伯来书",
     "chapter": 6,
     "name": "希伯来书 6",
-    "url": "https://getbible.net/v2/cus/58/6.json",
+    "url": "https://api.getbible.net/v2/cus/58/6.json",
     "sha": "d014eab6c7e55d8cabbaf80e2e1060d1324acfcb"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "希伯来书",
     "chapter": 7,
     "name": "希伯来书 7",
-    "url": "https://getbible.net/v2/cus/58/7.json",
+    "url": "https://api.getbible.net/v2/cus/58/7.json",
     "sha": "d9a38989d3fd1740e98d69bfe196721397e4cb23"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "希伯来书",
     "chapter": 8,
     "name": "希伯来书 8",
-    "url": "https://getbible.net/v2/cus/58/8.json",
+    "url": "https://api.getbible.net/v2/cus/58/8.json",
     "sha": "033d1c9d0c38c9bf3570d98e04fc8a4ed2b502e8"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "希伯来书",
     "chapter": 9,
     "name": "希伯来书 9",
-    "url": "https://getbible.net/v2/cus/58/9.json",
+    "url": "https://api.getbible.net/v2/cus/58/9.json",
     "sha": "643f0408452d7550b3b9954f6213abd5795c671e"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "希伯来书",
     "chapter": 10,
     "name": "希伯来书 10",
-    "url": "https://getbible.net/v2/cus/58/10.json",
+    "url": "https://api.getbible.net/v2/cus/58/10.json",
     "sha": "8ad85d85f1ff7756a0ef07e592c47112879a6d6f"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "希伯来书",
     "chapter": 11,
     "name": "希伯来书 11",
-    "url": "https://getbible.net/v2/cus/58/11.json",
+    "url": "https://api.getbible.net/v2/cus/58/11.json",
     "sha": "616690a8e11c81e58371b79b4796e18f40630bee"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "希伯来书",
     "chapter": 12,
     "name": "希伯来书 12",
-    "url": "https://getbible.net/v2/cus/58/12.json",
+    "url": "https://api.getbible.net/v2/cus/58/12.json",
     "sha": "9d13d3f48bf73760b9b5c796c56d91b3e5196a3b"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "希伯来书",
     "chapter": 13,
     "name": "希伯来书 13",
-    "url": "https://getbible.net/v2/cus/58/13.json",
+    "url": "https://api.getbible.net/v2/cus/58/13.json",
     "sha": "c013ad8dfbbb48f5e184a991f8f1c802e7faabfb"
   }
 }

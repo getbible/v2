@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/schlachter/34/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/34/1.json",
     "sha": "03f886e6077241b032a3c02a2f11a7ffa9854da5"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/schlachter/34/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/34/2.json",
     "sha": "3001882c2e922ced90c7498694faf5dcc0b3fef8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/schlachter/34/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/34/3.json",
     "sha": "bfe0df0e02a07601fe0130541d733cdacc00a9ea"
   }
 }

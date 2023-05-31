@@ -10,7 +10,7 @@
     "book_name": "Ruth",
     "chapter": 1,
     "name": "Ruth 1",
-    "url": "https://getbible.net/v2/darby/8/1.json",
+    "url": "https://api.getbible.net/v2/darby/8/1.json",
     "sha": "4c5ce2a67fc3b7a2f22dcd0f5ad370be95b7ba6d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ruth",
     "chapter": 2,
     "name": "Ruth 2",
-    "url": "https://getbible.net/v2/darby/8/2.json",
+    "url": "https://api.getbible.net/v2/darby/8/2.json",
     "sha": "af6193701d95d5b805b9af074da4b1905ec93eaa"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ruth",
     "chapter": 3,
     "name": "Ruth 3",
-    "url": "https://getbible.net/v2/darby/8/3.json",
+    "url": "https://api.getbible.net/v2/darby/8/3.json",
     "sha": "911269e0da5eece4f4537819c60aa5f7248cebe0"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ruth",
     "chapter": 4,
     "name": "Ruth 4",
-    "url": "https://getbible.net/v2/darby/8/4.json",
+    "url": "https://api.getbible.net/v2/darby/8/4.json",
     "sha": "620475f3039ff476cff63d96618e8cb2a3d55bd0"
   }
 }

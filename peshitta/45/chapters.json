@@ -10,7 +10,7 @@
     "book_name": "Romans",
     "chapter": 1,
     "name": "Romans 1",
-    "url": "https://getbible.net/v2/peshitta/45/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/1.json",
     "sha": "71fb70e23ea6a897a8c161762783572f4fff2ccd"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Romans",
     "chapter": 2,
     "name": "Romans 2",
-    "url": "https://getbible.net/v2/peshitta/45/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/2.json",
     "sha": "4a99f52a11cd3c10b7e5b03d23fbfdec62563019"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Romans",
     "chapter": 3,
     "name": "Romans 3",
-    "url": "https://getbible.net/v2/peshitta/45/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/3.json",
     "sha": "84146146c1c7f2cc6bbfa1f285b61cc7372ccfef"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Romans",
     "chapter": 4,
     "name": "Romans 4",
-    "url": "https://getbible.net/v2/peshitta/45/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/4.json",
     "sha": "b836b9f67e49aa9c634cb9657035f9be3adcbc1e"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Romans",
     "chapter": 5,
     "name": "Romans 5",
-    "url": "https://getbible.net/v2/peshitta/45/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/5.json",
     "sha": "5d8355b005a8e2611e8f77e10f1cc6556e8f69b4"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Romans",
     "chapter": 6,
     "name": "Romans 6",
-    "url": "https://getbible.net/v2/peshitta/45/6.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/6.json",
     "sha": "4465b42d8311d65df3345b516315025fe60b1bb9"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Romans",
     "chapter": 7,
     "name": "Romans 7",
-    "url": "https://getbible.net/v2/peshitta/45/7.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/7.json",
     "sha": "6fdd320fcc60656b49a131d0a2082d6db67a0fdf"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Romans",
     "chapter": 8,
     "name": "Romans 8",
-    "url": "https://getbible.net/v2/peshitta/45/8.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/8.json",
     "sha": "039ff37060b375b264836470d64cf2ef9d52d132"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Romans",
     "chapter": 9,
     "name": "Romans 9",
-    "url": "https://getbible.net/v2/peshitta/45/9.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/9.json",
     "sha": "40efd4b51cdd1ec8c90c7571380c7932948f29e3"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Romans",
     "chapter": 10,
     "name": "Romans 10",
-    "url": "https://getbible.net/v2/peshitta/45/10.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/10.json",
     "sha": "33a18d6a8705c72d678efaccb3ba883b0ac0e3cd"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Romans",
     "chapter": 11,
     "name": "Romans 11",
-    "url": "https://getbible.net/v2/peshitta/45/11.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/11.json",
     "sha": "2033eb179adab0e84960172635150c3140a3e4be"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Romans",
     "chapter": 12,
     "name": "Romans 12",
-    "url": "https://getbible.net/v2/peshitta/45/12.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/12.json",
     "sha": "e738dae98295c58571e73817befe90658f8b938a"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Romans",
     "chapter": 13,
     "name": "Romans 13",
-    "url": "https://getbible.net/v2/peshitta/45/13.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/13.json",
     "sha": "3b8c00d257546eef230ecd711ec7ab3edcc4e269"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Romans",
     "chapter": 14,
     "name": "Romans 14",
-    "url": "https://getbible.net/v2/peshitta/45/14.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/14.json",
     "sha": "ee4516e953968b8519d630a50f8fb313f904fc23"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Romans",
     "chapter": 15,
     "name": "Romans 15",
-    "url": "https://getbible.net/v2/peshitta/45/15.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/15.json",
     "sha": "1c47d03c545707d92923981fbf92a1b27725a353"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Romans",
     "chapter": 16,
     "name": "Romans 16",
-    "url": "https://getbible.net/v2/peshitta/45/16.json",
+    "url": "https://api.getbible.net/v2/peshitta/45/16.json",
     "sha": "da53a574b6ece7c856c74bc75e5393c057dd4f38"
   }
 }

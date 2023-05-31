@@ -10,7 +10,7 @@
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
-    "url": "https://getbible.net/v2/codex/39/1.json",
+    "url": "https://api.getbible.net/v2/codex/39/1.json",
     "sha": "80364e3270aaf4c8861932f08897f97454d1dc50"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
-    "url": "https://getbible.net/v2/codex/39/2.json",
+    "url": "https://api.getbible.net/v2/codex/39/2.json",
     "sha": "1380efcba4b3b3aa9c4a6a6664739c976d1da824"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
-    "url": "https://getbible.net/v2/codex/39/3.json",
+    "url": "https://api.getbible.net/v2/codex/39/3.json",
     "sha": "11e0262a28e2ae76192cb134f140bea46dff8ca8"
   }
 }

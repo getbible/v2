@@ -10,7 +10,7 @@
     "book_name": "Romans",
     "chapter": 1,
     "name": "Romans 1",
-    "url": "https://getbible.net/v2/breton/45/1.json",
+    "url": "https://api.getbible.net/v2/breton/45/1.json",
     "sha": "94575cd48eccb9f591d9c27ca0160b4f7a75c0da"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Romans",
     "chapter": 2,
     "name": "Romans 2",
-    "url": "https://getbible.net/v2/breton/45/2.json",
+    "url": "https://api.getbible.net/v2/breton/45/2.json",
     "sha": "f969ea02a20ebe66b54d68770a5e7eb9a9a8e5b8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Romans",
     "chapter": 3,
     "name": "Romans 3",
-    "url": "https://getbible.net/v2/breton/45/3.json",
+    "url": "https://api.getbible.net/v2/breton/45/3.json",
     "sha": "0ca5c5db34d08ba3f7a1ee9b8ddb8103bc8c679f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Romans",
     "chapter": 4,
     "name": "Romans 4",
-    "url": "https://getbible.net/v2/breton/45/4.json",
+    "url": "https://api.getbible.net/v2/breton/45/4.json",
     "sha": "2dd4ba341352d6a1a1102e3676c387fabbf98802"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Romans",
     "chapter": 5,
     "name": "Romans 5",
-    "url": "https://getbible.net/v2/breton/45/5.json",
+    "url": "https://api.getbible.net/v2/breton/45/5.json",
     "sha": "8f2ddef529407e278ebcff3b1fbe2ebcaf0ed96c"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Romans",
     "chapter": 6,
     "name": "Romans 6",
-    "url": "https://getbible.net/v2/breton/45/6.json",
+    "url": "https://api.getbible.net/v2/breton/45/6.json",
     "sha": "103a0fbee43b264b2f331dbedd4e11e9dfd1c1b2"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Romans",
     "chapter": 7,
     "name": "Romans 7",
-    "url": "https://getbible.net/v2/breton/45/7.json",
+    "url": "https://api.getbible.net/v2/breton/45/7.json",
     "sha": "6dfec31c5cbc76117ea344a4f5bc6d728917605a"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Romans",
     "chapter": 8,
     "name": "Romans 8",
-    "url": "https://getbible.net/v2/breton/45/8.json",
+    "url": "https://api.getbible.net/v2/breton/45/8.json",
     "sha": "720b107baf26196d9841fbdc653162413e06c1d4"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Romans",
     "chapter": 9,
     "name": "Romans 9",
-    "url": "https://getbible.net/v2/breton/45/9.json",
+    "url": "https://api.getbible.net/v2/breton/45/9.json",
     "sha": "dabf55e9bc4c94a55d1a4f59506fc5db8f44d5c9"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Romans",
     "chapter": 10,
     "name": "Romans 10",
-    "url": "https://getbible.net/v2/breton/45/10.json",
+    "url": "https://api.getbible.net/v2/breton/45/10.json",
     "sha": "00b4f8affac9bcf081791318d65fd03008343791"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Romans",
     "chapter": 11,
     "name": "Romans 11",
-    "url": "https://getbible.net/v2/breton/45/11.json",
+    "url": "https://api.getbible.net/v2/breton/45/11.json",
     "sha": "0bbd6f95a59aa113229f4fb29dc1f70c9acf0fb3"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Romans",
     "chapter": 12,
     "name": "Romans 12",
-    "url": "https://getbible.net/v2/breton/45/12.json",
+    "url": "https://api.getbible.net/v2/breton/45/12.json",
     "sha": "c706bd254af11b746af14fc97f202e873fc38bab"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Romans",
     "chapter": 13,
     "name": "Romans 13",
-    "url": "https://getbible.net/v2/breton/45/13.json",
+    "url": "https://api.getbible.net/v2/breton/45/13.json",
     "sha": "8c609a85c51793b958854aa34c3ec056e347ac32"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Romans",
     "chapter": 14,
     "name": "Romans 14",
-    "url": "https://getbible.net/v2/breton/45/14.json",
+    "url": "https://api.getbible.net/v2/breton/45/14.json",
     "sha": "1fc663082fd15b40887d2032fe9f31cdb23b807b"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Romans",
     "chapter": 15,
     "name": "Romans 15",
-    "url": "https://getbible.net/v2/breton/45/15.json",
+    "url": "https://api.getbible.net/v2/breton/45/15.json",
     "sha": "1e7f3c2ca1e8c19a502ccc57809e0f3bb74f5ca6"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Romans",
     "chapter": 16,
     "name": "Romans 16",
-    "url": "https://getbible.net/v2/breton/45/16.json",
+    "url": "https://api.getbible.net/v2/breton/45/16.json",
     "sha": "21adf8da45ead0953ad1fdd1961477719e322da9"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Philippians",
     "chapter": 1,
     "name": "Philippians 1",
-    "url": "https://getbible.net/v2/breton/50/1.json",
+    "url": "https://api.getbible.net/v2/breton/50/1.json",
     "sha": "3ac8e2acb123c27a35e22ab2a9020ac68d769108"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Philippians",
     "chapter": 2,
     "name": "Philippians 2",
-    "url": "https://getbible.net/v2/breton/50/2.json",
+    "url": "https://api.getbible.net/v2/breton/50/2.json",
     "sha": "6608e8798739c99dd111c05c08a5061f36b63abd"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Philippians",
     "chapter": 3,
     "name": "Philippians 3",
-    "url": "https://getbible.net/v2/breton/50/3.json",
+    "url": "https://api.getbible.net/v2/breton/50/3.json",
     "sha": "1675135200ead45d24cdb0bc094f1a71ae0e57b6"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Philippians",
     "chapter": 4,
     "name": "Philippians 4",
-    "url": "https://getbible.net/v2/breton/50/4.json",
+    "url": "https://api.getbible.net/v2/breton/50/4.json",
     "sha": "027154af32e861864fdc1d2c80b100a99b06b6ea"
   }
 }

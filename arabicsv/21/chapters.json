@@ -10,7 +10,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 1,
     "name": "Ecclesiastes 1",
-    "url": "https://getbible.net/v2/arabicsv/21/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/1.json",
     "sha": "102bddecfb391614c012a8e5854bded3afe0dcc8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 2,
     "name": "Ecclesiastes 2",
-    "url": "https://getbible.net/v2/arabicsv/21/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/2.json",
     "sha": "77c6f28efd06ab50219036915ec0e741efce64af"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 3,
     "name": "Ecclesiastes 3",
-    "url": "https://getbible.net/v2/arabicsv/21/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/3.json",
     "sha": "f3d29f5c9786fb945ffb1697cfdb410d746941d4"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 4,
     "name": "Ecclesiastes 4",
-    "url": "https://getbible.net/v2/arabicsv/21/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/4.json",
     "sha": "5d336eb88a82c76dcb557be440f71da492a3aad3"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 5,
     "name": "Ecclesiastes 5",
-    "url": "https://getbible.net/v2/arabicsv/21/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/5.json",
     "sha": "5ec7b5d7b64a18491df83113763c3503b7a7ed54"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 6,
     "name": "Ecclesiastes 6",
-    "url": "https://getbible.net/v2/arabicsv/21/6.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/6.json",
     "sha": "ffdfdcdf0cb28ba364872ccff8bd4798dec439c9"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 7,
     "name": "Ecclesiastes 7",
-    "url": "https://getbible.net/v2/arabicsv/21/7.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/7.json",
     "sha": "b2fc6c4a01b2bb0adedf0de0fabf1f872abae759"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 8,
     "name": "Ecclesiastes 8",
-    "url": "https://getbible.net/v2/arabicsv/21/8.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/8.json",
     "sha": "cd6af220a645ed9d6bc6ea35feea66642bdf7846"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 9,
     "name": "Ecclesiastes 9",
-    "url": "https://getbible.net/v2/arabicsv/21/9.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/9.json",
     "sha": "6db22f7316fee5ae7bc0070c95450954e5a60dac"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 10,
     "name": "Ecclesiastes 10",
-    "url": "https://getbible.net/v2/arabicsv/21/10.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/10.json",
     "sha": "6db89bbc5174ab33ec8ff12a2e58770a97ff1b20"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 11,
     "name": "Ecclesiastes 11",
-    "url": "https://getbible.net/v2/arabicsv/21/11.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/11.json",
     "sha": "2285e824b9b4fddc4b97f35d7bd8a33c572a124f"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 12,
     "name": "Ecclesiastes 12",
-    "url": "https://getbible.net/v2/arabicsv/21/12.json",
+    "url": "https://api.getbible.net/v2/arabicsv/21/12.json",
     "sha": "5f2745ab3f89545f25fc8e31d36ca2a90be2c65b"
   }
 }

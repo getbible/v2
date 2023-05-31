@@ -10,7 +10,7 @@
     "book_name": "1 Timothy",
     "chapter": 1,
     "name": "1 Timothy 1",
-    "url": "https://getbible.net/v2/mal1910/54/1.json",
+    "url": "https://api.getbible.net/v2/mal1910/54/1.json",
     "sha": "9ddcd9156b41f13172da3b944e58284351fa2e13"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Timothy",
     "chapter": 2,
     "name": "1 Timothy 2",
-    "url": "https://getbible.net/v2/mal1910/54/2.json",
+    "url": "https://api.getbible.net/v2/mal1910/54/2.json",
     "sha": "713ec903ffd65b9f530b4a15877cd542e0e8d3ac"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Timothy",
     "chapter": 3,
     "name": "1 Timothy 3",
-    "url": "https://getbible.net/v2/mal1910/54/3.json",
+    "url": "https://api.getbible.net/v2/mal1910/54/3.json",
     "sha": "8b6a1148cd4871912fa4c80df3c5b1d0c727608d"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Timothy",
     "chapter": 4,
     "name": "1 Timothy 4",
-    "url": "https://getbible.net/v2/mal1910/54/4.json",
+    "url": "https://api.getbible.net/v2/mal1910/54/4.json",
     "sha": "700b7e863fadd156c510f3564c2f2f8e5c73aa7d"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Timothy",
     "chapter": 5,
     "name": "1 Timothy 5",
-    "url": "https://getbible.net/v2/mal1910/54/5.json",
+    "url": "https://api.getbible.net/v2/mal1910/54/5.json",
     "sha": "c6794b081dcf5e3be172561b6a07841558fab4ab"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1 Timothy",
     "chapter": 6,
     "name": "1 Timothy 6",
-    "url": "https://getbible.net/v2/mal1910/54/6.json",
+    "url": "https://api.getbible.net/v2/mal1910/54/6.json",
     "sha": "db59c70be22888cf02989e158809f621cc96f5fe"
   }
 }

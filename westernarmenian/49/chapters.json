@@ -10,7 +10,7 @@
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
-    "url": "https://getbible.net/v2/westernarmenian/49/1.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/49/1.json",
     "sha": "7be2de49cd704489c9531cbcca89a4e8ea4929f0"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
-    "url": "https://getbible.net/v2/westernarmenian/49/2.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/49/2.json",
     "sha": "1447c1137ab158dc783c42681abd979422e16ace"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
-    "url": "https://getbible.net/v2/westernarmenian/49/3.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/49/3.json",
     "sha": "2cfb4d780622f820fbbf8768b1246772c5084f35"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
-    "url": "https://getbible.net/v2/westernarmenian/49/4.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/49/4.json",
     "sha": "2bea1d8982f9c3c5cc679679575e469423dd8118"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
-    "url": "https://getbible.net/v2/westernarmenian/49/5.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/49/5.json",
     "sha": "0f12b9a93056ad4119fecfdce9a9175d7e3371f0"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
-    "url": "https://getbible.net/v2/westernarmenian/49/6.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/49/6.json",
     "sha": "769a62a37c947c645356ca40d250f1fa3f7dd0ed"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "4. Mose",
     "chapter": 1,
     "name": "4. Mose 1",
-    "url": "https://getbible.net/v2/schlachter/4/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/1.json",
     "sha": "c40b52a7f7894c4f373d5a55ce95488df85630a8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "4. Mose",
     "chapter": 2,
     "name": "4. Mose 2",
-    "url": "https://getbible.net/v2/schlachter/4/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/2.json",
     "sha": "318ab15bc49dce98a11cfb9ad02d70f49f969379"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "4. Mose",
     "chapter": 3,
     "name": "4. Mose 3",
-    "url": "https://getbible.net/v2/schlachter/4/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/3.json",
     "sha": "18fb2a4f4e46f9a73d3efbb3941813bef894f50a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "4. Mose",
     "chapter": 4,
     "name": "4. Mose 4",
-    "url": "https://getbible.net/v2/schlachter/4/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/4.json",
     "sha": "f265003af05615ead1f84a16c50f8d1c64081679"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "4. Mose",
     "chapter": 5,
     "name": "4. Mose 5",
-    "url": "https://getbible.net/v2/schlachter/4/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/5.json",
     "sha": "a20b926bf8c49af2af1a7cc741c57cc4280f1efd"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "4. Mose",
     "chapter": 6,
     "name": "4. Mose 6",
-    "url": "https://getbible.net/v2/schlachter/4/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/6.json",
     "sha": "9b1fe5a2da046648ace6637bd9a77d18cee22d1b"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "4. Mose",
     "chapter": 7,
     "name": "4. Mose 7",
-    "url": "https://getbible.net/v2/schlachter/4/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/7.json",
     "sha": "9860a703c3be4fbe85405f431acc37db2c3f85fa"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "4. Mose",
     "chapter": 8,
     "name": "4. Mose 8",
-    "url": "https://getbible.net/v2/schlachter/4/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/8.json",
     "sha": "a44217683d6f14fff63c75d045282734ba50cd48"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "4. Mose",
     "chapter": 9,
     "name": "4. Mose 9",
-    "url": "https://getbible.net/v2/schlachter/4/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/9.json",
     "sha": "119af7445be9cd6a050e3e50e8bcb5be363adc9f"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "4. Mose",
     "chapter": 10,
     "name": "4. Mose 10",
-    "url": "https://getbible.net/v2/schlachter/4/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/10.json",
     "sha": "2d62f4db37021167d4b83e27c3d22d16205f42cf"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "4. Mose",
     "chapter": 11,
     "name": "4. Mose 11",
-    "url": "https://getbible.net/v2/schlachter/4/11.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/11.json",
     "sha": "e99eaf58a888d0eff24d33c69ddb77672065cb47"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "4. Mose",
     "chapter": 12,
     "name": "4. Mose 12",
-    "url": "https://getbible.net/v2/schlachter/4/12.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/12.json",
     "sha": "a0db62f9147f7c3423a10023e06e4bf439172f76"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "4. Mose",
     "chapter": 13,
     "name": "4. Mose 13",
-    "url": "https://getbible.net/v2/schlachter/4/13.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/13.json",
     "sha": "2480518310308843eeca6d649f712d78f5e780f2"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "4. Mose",
     "chapter": 14,
     "name": "4. Mose 14",
-    "url": "https://getbible.net/v2/schlachter/4/14.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/14.json",
     "sha": "b32b2ed25146ac5b0c4fae03c543e8f97ed176cf"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "4. Mose",
     "chapter": 15,
     "name": "4. Mose 15",
-    "url": "https://getbible.net/v2/schlachter/4/15.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/15.json",
     "sha": "fd86d76b748019fbf43f006133330498e688024f"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "4. Mose",
     "chapter": 16,
     "name": "4. Mose 16",
-    "url": "https://getbible.net/v2/schlachter/4/16.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/16.json",
     "sha": "22c8d58be878d832692b0d91a15d7bf92568af61"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "4. Mose",
     "chapter": 17,
     "name": "4. Mose 17",
-    "url": "https://getbible.net/v2/schlachter/4/17.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/17.json",
     "sha": "f6933f90d147f029d7b9fda0963b67983252f1c0"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "4. Mose",
     "chapter": 18,
     "name": "4. Mose 18",
-    "url": "https://getbible.net/v2/schlachter/4/18.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/18.json",
     "sha": "d80353a332569cbd5dc6ad9c56b028e87823c240"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "4. Mose",
     "chapter": 19,
     "name": "4. Mose 19",
-    "url": "https://getbible.net/v2/schlachter/4/19.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/19.json",
     "sha": "525fe68db434036cd68eeea08a856a16e5f196ef"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "4. Mose",
     "chapter": 20,
     "name": "4. Mose 20",
-    "url": "https://getbible.net/v2/schlachter/4/20.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/20.json",
     "sha": "31e6537dda50760fd47410d54650a5d9bf428e97"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "4. Mose",
     "chapter": 21,
     "name": "4. Mose 21",
-    "url": "https://getbible.net/v2/schlachter/4/21.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/21.json",
     "sha": "0b18a64c9308ec6e716062a6976e86cd75857bfa"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "4. Mose",
     "chapter": 22,
     "name": "4. Mose 22",
-    "url": "https://getbible.net/v2/schlachter/4/22.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/22.json",
     "sha": "b9fb67a3fab7cb919ef9fb1619e9f77a1ae78e13"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "4. Mose",
     "chapter": 23,
     "name": "4. Mose 23",
-    "url": "https://getbible.net/v2/schlachter/4/23.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/23.json",
     "sha": "b92bd303cabc7b1fa0f763ec07cf8722c9bed0a3"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "4. Mose",
     "chapter": 24,
     "name": "4. Mose 24",
-    "url": "https://getbible.net/v2/schlachter/4/24.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/24.json",
     "sha": "5c150e04988b33fcd5ed5ad49053b5dba9008573"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "4. Mose",
     "chapter": 25,
     "name": "4. Mose 25",
-    "url": "https://getbible.net/v2/schlachter/4/25.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/25.json",
     "sha": "0be53a1525a062394ff3cf6466494d2ca9098183"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "4. Mose",
     "chapter": 26,
     "name": "4. Mose 26",
-    "url": "https://getbible.net/v2/schlachter/4/26.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/26.json",
     "sha": "088c40649957415c2324bd450b4d68d8bb78e77c"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "4. Mose",
     "chapter": 27,
     "name": "4. Mose 27",
-    "url": "https://getbible.net/v2/schlachter/4/27.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/27.json",
     "sha": "72435e6699cc82b900ad0f1dd43e79af6de0b42b"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "4. Mose",
     "chapter": 28,
     "name": "4. Mose 28",
-    "url": "https://getbible.net/v2/schlachter/4/28.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/28.json",
     "sha": "957b014a7112e876852d051d7153637a62bb704d"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "4. Mose",
     "chapter": 29,
     "name": "4. Mose 29",
-    "url": "https://getbible.net/v2/schlachter/4/29.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/29.json",
     "sha": "b03285a6806a9088a9612aaa483ea649c3fb5b1b"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "4. Mose",
     "chapter": 30,
     "name": "4. Mose 30",
-    "url": "https://getbible.net/v2/schlachter/4/30.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/30.json",
     "sha": "071604c3d456eab2b6296c128205ff0c52c3a02f"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "4. Mose",
     "chapter": 31,
     "name": "4. Mose 31",
-    "url": "https://getbible.net/v2/schlachter/4/31.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/31.json",
     "sha": "f77e9157c0b1f24919169e4306673d0559826040"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "4. Mose",
     "chapter": 32,
     "name": "4. Mose 32",
-    "url": "https://getbible.net/v2/schlachter/4/32.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/32.json",
     "sha": "8a37805448b4b35a2af3674d9161f6a1461e56bd"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "4. Mose",
     "chapter": 33,
     "name": "4. Mose 33",
-    "url": "https://getbible.net/v2/schlachter/4/33.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/33.json",
     "sha": "1499931c8d5ecc43728c9f05184c9f074adf6dfe"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "4. Mose",
     "chapter": 34,
     "name": "4. Mose 34",
-    "url": "https://getbible.net/v2/schlachter/4/34.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/34.json",
     "sha": "c1b9c770151caec0a6eb57bf0b8c5d9178585787"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "4. Mose",
     "chapter": 35,
     "name": "4. Mose 35",
-    "url": "https://getbible.net/v2/schlachter/4/35.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/35.json",
     "sha": "6b24d1870cead5bc0f7b606d36b4d401a7ab63e7"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "4. Mose",
     "chapter": 36,
     "name": "4. Mose 36",
-    "url": "https://getbible.net/v2/schlachter/4/36.json",
+    "url": "https://api.getbible.net/v2/schlachter/4/36.json",
     "sha": "b019c40147fc9a77eb699de9d49ec0f0d81e2640"
   }
 }

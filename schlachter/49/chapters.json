@@ -10,7 +10,7 @@
     "book_name": "Epheser",
     "chapter": 1,
     "name": "Epheser 1",
-    "url": "https://getbible.net/v2/schlachter/49/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/49/1.json",
     "sha": "d82e132b88e09ef9c42c335a697c75fdbd5cff0d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Epheser",
     "chapter": 2,
     "name": "Epheser 2",
-    "url": "https://getbible.net/v2/schlachter/49/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/49/2.json",
     "sha": "7ae865f528c55841c84106583e45ac848e1c0fb0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Epheser",
     "chapter": 3,
     "name": "Epheser 3",
-    "url": "https://getbible.net/v2/schlachter/49/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/49/3.json",
     "sha": "2eb67a3274ce0b3c11609a500cd134ffbd318bda"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Epheser",
     "chapter": 4,
     "name": "Epheser 4",
-    "url": "https://getbible.net/v2/schlachter/49/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/49/4.json",
     "sha": "f719fc5685c662444835e0999c63848821e40508"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Epheser",
     "chapter": 5,
     "name": "Epheser 5",
-    "url": "https://getbible.net/v2/schlachter/49/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/49/5.json",
     "sha": "dad3da533b88554b9ed70cdbd5da423bd0820828"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Epheser",
     "chapter": 6,
     "name": "Epheser 6",
-    "url": "https://getbible.net/v2/schlachter/49/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/49/6.json",
     "sha": "7eb228442cf470e4824ed3004629aed3189c294e"
   }
 }

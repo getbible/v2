@@ -10,8 +10,8 @@
     "book_name": "Jonah",
     "chapter": 1,
     "name": "Jonah 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/32/1.json",
-    "sha": "940977e2341416d49287f098067ad4a0aef6f1ce"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/32/1.json",
+    "sha": "161c36218e6bd87dbe766cf619c9f9d3132ce4ea"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Jonah",
     "chapter": 2,
     "name": "Jonah 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/32/2.json",
-    "sha": "18db3ddb5e6b95f9b918cc25b0d640d2973fb8b3"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/32/2.json",
+    "sha": "4791725123fec6a54b60a0098fc402675f87096b"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,8 +38,8 @@
     "book_name": "Jonah",
     "chapter": 3,
     "name": "Jonah 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/32/3.json",
-    "sha": "050d38cd606eb1cca98bc72511b0aae7026dca20"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/32/3.json",
+    "sha": "fdce1e100ef8923ca1d104f6fb1b4560f48f742d"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -52,7 +52,7 @@
     "book_name": "Jonah",
     "chapter": 4,
     "name": "Jonah 4",
-    "url": "https://getbible.net/v2/pyharaamattu1992/32/4.json",
-    "sha": "2378ac463769ae5cc416c526bdb3cf00584cf7d5"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/32/4.json",
+    "sha": "4bfdedd2561d001fc4c0218d2bba7f5b97b28ddc"
   }
 }

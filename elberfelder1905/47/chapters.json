@@ -10,7 +10,7 @@
     "book_name": "2. Korinther",
     "chapter": 1,
     "name": "2. Korinther 1",
-    "url": "https://getbible.net/v2/elberfelder1905/47/1.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/1.json",
     "sha": "aa40586cb8fc8c5610508e589857053ae34a7100"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2. Korinther",
     "chapter": 2,
     "name": "2. Korinther 2",
-    "url": "https://getbible.net/v2/elberfelder1905/47/2.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/2.json",
     "sha": "c794194a309fef150367d5c6553523af1c028723"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2. Korinther",
     "chapter": 3,
     "name": "2. Korinther 3",
-    "url": "https://getbible.net/v2/elberfelder1905/47/3.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/3.json",
     "sha": "a021984e7ec28a12b3d6161ca6b31ccedecb81b4"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2. Korinther",
     "chapter": 4,
     "name": "2. Korinther 4",
-    "url": "https://getbible.net/v2/elberfelder1905/47/4.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/4.json",
     "sha": "18981d37561082db15a0e673a34f7eeb866c8030"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "2. Korinther",
     "chapter": 5,
     "name": "2. Korinther 5",
-    "url": "https://getbible.net/v2/elberfelder1905/47/5.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/5.json",
     "sha": "a8cd810412371a0ce5a61d2f189d23cbf5c0b4b9"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "2. Korinther",
     "chapter": 6,
     "name": "2. Korinther 6",
-    "url": "https://getbible.net/v2/elberfelder1905/47/6.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/6.json",
     "sha": "7fad277491b8934e126ba52567626960755add51"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "2. Korinther",
     "chapter": 7,
     "name": "2. Korinther 7",
-    "url": "https://getbible.net/v2/elberfelder1905/47/7.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/7.json",
     "sha": "21ccdea4933563b9cb56b0c9b23eab892829bc12"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "2. Korinther",
     "chapter": 8,
     "name": "2. Korinther 8",
-    "url": "https://getbible.net/v2/elberfelder1905/47/8.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/8.json",
     "sha": "9d92db5992c390216b3efcde0b750b007f163d65"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "2. Korinther",
     "chapter": 9,
     "name": "2. Korinther 9",
-    "url": "https://getbible.net/v2/elberfelder1905/47/9.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/9.json",
     "sha": "83d28cd05262079c0a077d03497381f2bfe5aa0e"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "2. Korinther",
     "chapter": 10,
     "name": "2. Korinther 10",
-    "url": "https://getbible.net/v2/elberfelder1905/47/10.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/10.json",
     "sha": "697c9550e4695f15df69432101ae58ab08b3df10"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "2. Korinther",
     "chapter": 11,
     "name": "2. Korinther 11",
-    "url": "https://getbible.net/v2/elberfelder1905/47/11.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/11.json",
     "sha": "93bf656240fbbf6ea529603069bb6f7883b4f395"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "2. Korinther",
     "chapter": 12,
     "name": "2. Korinther 12",
-    "url": "https://getbible.net/v2/elberfelder1905/47/12.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/12.json",
     "sha": "c879d19fca9162f1f44b68802acdeb283e061240"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "2. Korinther",
     "chapter": 13,
     "name": "2. Korinther 13",
-    "url": "https://getbible.net/v2/elberfelder1905/47/13.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905/47/13.json",
     "sha": "2dd711b0fac196edac4fb513bb7771ce234b2df2"
   }
 }

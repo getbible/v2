@@ -10,7 +10,7 @@
     "book_name": "2 Corinthians",
     "chapter": 1,
     "name": "2 Corinthians 1",
-    "url": "https://getbible.net/v2/rv1858/47/1.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/1.json",
     "sha": "d7da8315e4f451bf797fa44ee60402ac707e6bff"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Corinthians",
     "chapter": 2,
     "name": "2 Corinthians 2",
-    "url": "https://getbible.net/v2/rv1858/47/2.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/2.json",
     "sha": "0bf8aed707f4d0012457557d82cfe85e49265e71"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Corinthians",
     "chapter": 3,
     "name": "2 Corinthians 3",
-    "url": "https://getbible.net/v2/rv1858/47/3.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/3.json",
     "sha": "6e0e16439be345cd925aab6a26dd92dadc43a771"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Corinthians",
     "chapter": 4,
     "name": "2 Corinthians 4",
-    "url": "https://getbible.net/v2/rv1858/47/4.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/4.json",
     "sha": "2ae3d6cf4b4e9408f323651b047be9cdd6b25323"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "2 Corinthians",
     "chapter": 5,
     "name": "2 Corinthians 5",
-    "url": "https://getbible.net/v2/rv1858/47/5.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/5.json",
     "sha": "b725ca61b2bed8959e7fde795d4129dd5fb7d171"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "2 Corinthians",
     "chapter": 6,
     "name": "2 Corinthians 6",
-    "url": "https://getbible.net/v2/rv1858/47/6.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/6.json",
     "sha": "5f69bddd6de9c4ace84626b0fb3a0d5689b8f418"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "2 Corinthians",
     "chapter": 7,
     "name": "2 Corinthians 7",
-    "url": "https://getbible.net/v2/rv1858/47/7.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/7.json",
     "sha": "e5bb4ee326fcdd3f8e6c2ba98900e6db8cdd0289"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "2 Corinthians",
     "chapter": 8,
     "name": "2 Corinthians 8",
-    "url": "https://getbible.net/v2/rv1858/47/8.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/8.json",
     "sha": "ca54b6ad6b8ecd3a584e8453a4cf46de6f41aec2"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "2 Corinthians",
     "chapter": 9,
     "name": "2 Corinthians 9",
-    "url": "https://getbible.net/v2/rv1858/47/9.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/9.json",
     "sha": "a153d5f896bf4ed536bd694fadcab7fdc069ed7b"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "2 Corinthians",
     "chapter": 10,
     "name": "2 Corinthians 10",
-    "url": "https://getbible.net/v2/rv1858/47/10.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/10.json",
     "sha": "b8caf8d1abddada6b972ba26435317e76103f163"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "2 Corinthians",
     "chapter": 11,
     "name": "2 Corinthians 11",
-    "url": "https://getbible.net/v2/rv1858/47/11.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/11.json",
     "sha": "f62228f4476833a145e7de8f32816744b6bbfc6e"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "2 Corinthians",
     "chapter": 12,
     "name": "2 Corinthians 12",
-    "url": "https://getbible.net/v2/rv1858/47/12.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/12.json",
     "sha": "93062b73a1437d1b33b06d09fbd54cc5e0727246"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "2 Corinthians",
     "chapter": 13,
     "name": "2 Corinthians 13",
-    "url": "https://getbible.net/v2/rv1858/47/13.json",
+    "url": "https://api.getbible.net/v2/rv1858/47/13.json",
     "sha": "61a3dd014b0cdccbcd7dbde04b7e27107aa20adf"
   }
 }

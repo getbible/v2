@@ -10,7 +10,7 @@
     "book_name": "Baruch",
     "chapter": 1,
     "name": "Baruch 1",
-    "url": "https://getbible.net/v2/swedish/75/1.json",
+    "url": "https://api.getbible.net/v2/swedish/75/1.json",
     "sha": "32c354cae5697f206d768594434cd8c8d3474e77"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Baruch",
     "chapter": 2,
     "name": "Baruch 2",
-    "url": "https://getbible.net/v2/swedish/75/2.json",
+    "url": "https://api.getbible.net/v2/swedish/75/2.json",
     "sha": "f8dc4f8cf2f190283f4434c0b0f423c57b939a65"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Baruch",
     "chapter": 3,
     "name": "Baruch 3",
-    "url": "https://getbible.net/v2/swedish/75/3.json",
+    "url": "https://api.getbible.net/v2/swedish/75/3.json",
     "sha": "094fa7e0df763f03a75b2153c66996242c12cba6"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Baruch",
     "chapter": 4,
     "name": "Baruch 4",
-    "url": "https://getbible.net/v2/swedish/75/4.json",
+    "url": "https://api.getbible.net/v2/swedish/75/4.json",
     "sha": "d7a091ad6cd139af2f8b18ec0ec473bb24c34e09"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Baruch",
     "chapter": 5,
     "name": "Baruch 5",
-    "url": "https://getbible.net/v2/swedish/75/5.json",
+    "url": "https://api.getbible.net/v2/swedish/75/5.json",
     "sha": "b5865a37a77296fa485c2cc251b8205cb927f0f8"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Baruch",
     "chapter": 6,
     "name": "Baruch 6",
-    "url": "https://getbible.net/v2/swedish/75/6.json",
+    "url": "https://api.getbible.net/v2/swedish/75/6.json",
     "sha": "dc61bf8645bf098904657af402ad6985bd9a6309"
   }
 }

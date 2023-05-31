@@ -10,7 +10,7 @@
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
-    "url": "https://getbible.net/v2/easternarmenian/43/1.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/1.json",
     "sha": "4a5fa6a42e2c56dae290fbf80b34da366076780d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
-    "url": "https://getbible.net/v2/easternarmenian/43/2.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/2.json",
     "sha": "8d95364830d39b962382519df8dbe6b58e5c16f3"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
-    "url": "https://getbible.net/v2/easternarmenian/43/3.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/3.json",
     "sha": "6337121f4073a0168d9704b7be8101e4f7179cc3"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
-    "url": "https://getbible.net/v2/easternarmenian/43/4.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/4.json",
     "sha": "17434df1cae728cf965acb361ef078c7e3c3fb18"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
-    "url": "https://getbible.net/v2/easternarmenian/43/5.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/5.json",
     "sha": "10c0ff6b4835891201987d53eeb07ab0c05e7005"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
-    "url": "https://getbible.net/v2/easternarmenian/43/6.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/6.json",
     "sha": "076f788911f48b475a798948f1b71941c37bbe3d"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
-    "url": "https://getbible.net/v2/easternarmenian/43/7.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/7.json",
     "sha": "d2027855059c19adf03350305b1b949ea08dbd4b"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
-    "url": "https://getbible.net/v2/easternarmenian/43/8.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/8.json",
     "sha": "ede1ed6ffa829aa63c046a278f9da30ea69741d1"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
-    "url": "https://getbible.net/v2/easternarmenian/43/9.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/9.json",
     "sha": "87ad2341995e21d3595fc9f5d95d3a9e248babbc"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
-    "url": "https://getbible.net/v2/easternarmenian/43/10.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/10.json",
     "sha": "d07aca13509f25e9e55b1f3f9d709ec5c7e2c4f6"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
-    "url": "https://getbible.net/v2/easternarmenian/43/11.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/11.json",
     "sha": "7d0cdfe7e20079963846a6c4c3a06e349a9717e0"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
-    "url": "https://getbible.net/v2/easternarmenian/43/12.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/12.json",
     "sha": "2464e4a7bfd60be25c59e0eb4fd3e6e61a8f7f39"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
-    "url": "https://getbible.net/v2/easternarmenian/43/13.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/13.json",
     "sha": "51c69170636af9ad5c5da4a248ec055c18cc687a"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
-    "url": "https://getbible.net/v2/easternarmenian/43/14.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/14.json",
     "sha": "ec1683713c9fba6a41b1f43abc2c6c3f9c69ecae"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
-    "url": "https://getbible.net/v2/easternarmenian/43/15.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/15.json",
     "sha": "3a27f86ac96877023594a4bc9ce3c931f33556ca"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
-    "url": "https://getbible.net/v2/easternarmenian/43/16.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/16.json",
     "sha": "b7f53b35b0cece942e326411c1d226d84226a4f2"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
-    "url": "https://getbible.net/v2/easternarmenian/43/17.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/17.json",
     "sha": "683b0757fe2479f3f338096982b7ff6a7b458d16"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
-    "url": "https://getbible.net/v2/easternarmenian/43/18.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/18.json",
     "sha": "5634f78242ffb7c59404a456dda33e8702f0698b"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
-    "url": "https://getbible.net/v2/easternarmenian/43/19.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/19.json",
     "sha": "c40007397c93cc6412a1a1397aeff7135e799bd1"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
-    "url": "https://getbible.net/v2/easternarmenian/43/20.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/20.json",
     "sha": "97b9353b8cf8b43acb81511fb997be8bf48d05fe"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
-    "url": "https://getbible.net/v2/easternarmenian/43/21.json",
+    "url": "https://api.getbible.net/v2/easternarmenian/43/21.json",
     "sha": "96ad20745267b9a5bd0d1a3f3eb04018642229a7"
   }
 }

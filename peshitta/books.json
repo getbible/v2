@@ -8,7 +8,7 @@
     "encoding": "UTF-8",
     "nr": 40,
     "name": "Matthew",
-    "url": "https://getbible.net/v2/peshitta/40.json",
+    "url": "https://api.getbible.net/v2/peshitta/40.json",
     "sha": "a6e42dbf0dc5098daeff0d736a969b9f93f043a0"
   },
   "41": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "nr": 41,
     "name": "Mark",
-    "url": "https://getbible.net/v2/peshitta/41.json",
+    "url": "https://api.getbible.net/v2/peshitta/41.json",
     "sha": "b8a64d5ba6c706f67c450df435dfb9a20b081ae1"
   },
   "42": {
@@ -32,7 +32,7 @@
     "encoding": "UTF-8",
     "nr": 42,
     "name": "Luke",
-    "url": "https://getbible.net/v2/peshitta/42.json",
+    "url": "https://api.getbible.net/v2/peshitta/42.json",
     "sha": "db01fff32b95fd2deb8f9adbc291e5304619e6f8"
   },
   "43": {
@@ -44,7 +44,7 @@
     "encoding": "UTF-8",
     "nr": 43,
     "name": "John",
-    "url": "https://getbible.net/v2/peshitta/43.json",
+    "url": "https://api.getbible.net/v2/peshitta/43.json",
     "sha": "c386cff3e381cd4bab8e211aa441cc1b70b8e53b"
   },
   "44": {
@@ -56,7 +56,7 @@
     "encoding": "UTF-8",
     "nr": 44,
     "name": "Acts",
-    "url": "https://getbible.net/v2/peshitta/44.json",
+    "url": "https://api.getbible.net/v2/peshitta/44.json",
     "sha": "968adc7af2bfc4f2042fece5360a2649a5b3d74a"
   },
   "45": {
@@ -68,7 +68,7 @@
     "encoding": "UTF-8",
     "nr": 45,
     "name": "Romans",
-    "url": "https://getbible.net/v2/peshitta/45.json",
+    "url": "https://api.getbible.net/v2/peshitta/45.json",
     "sha": "5a7bb37ac786681182f13c72477d400b274cab8e"
   },
   "46": {
@@ -80,7 +80,7 @@
     "encoding": "UTF-8",
     "nr": 46,
     "name": "1 Corinthians",
-    "url": "https://getbible.net/v2/peshitta/46.json",
+    "url": "https://api.getbible.net/v2/peshitta/46.json",
     "sha": "d16f90806efb8731b76306c15d23c76dd68c4380"
   },
   "47": {
@@ -92,7 +92,7 @@
     "encoding": "UTF-8",
     "nr": 47,
     "name": "2 Corinthians",
-    "url": "https://getbible.net/v2/peshitta/47.json",
+    "url": "https://api.getbible.net/v2/peshitta/47.json",
     "sha": "04c3d9ba9c439fe0f28325c1a0cdea180ad342fa"
   },
   "48": {
@@ -104,7 +104,7 @@
     "encoding": "UTF-8",
     "nr": 48,
     "name": "Galatians",
-    "url": "https://getbible.net/v2/peshitta/48.json",
+    "url": "https://api.getbible.net/v2/peshitta/48.json",
     "sha": "89c12ef7c52b6c1df19e864e514b0cf929ed327d"
   },
   "49": {
@@ -116,7 +116,7 @@
     "encoding": "UTF-8",
     "nr": 49,
     "name": "Ephesians",
-    "url": "https://getbible.net/v2/peshitta/49.json",
+    "url": "https://api.getbible.net/v2/peshitta/49.json",
     "sha": "d05483cca51d7f54ffbd2e8fdafb7d249598883d"
   },
   "50": {
@@ -128,7 +128,7 @@
     "encoding": "UTF-8",
     "nr": 50,
     "name": "Philippians",
-    "url": "https://getbible.net/v2/peshitta/50.json",
+    "url": "https://api.getbible.net/v2/peshitta/50.json",
     "sha": "37b39ea592927c115b1e23f4b351aca4ac652621"
   },
   "51": {
@@ -140,7 +140,7 @@
     "encoding": "UTF-8",
     "nr": 51,
     "name": "Colossians",
-    "url": "https://getbible.net/v2/peshitta/51.json",
+    "url": "https://api.getbible.net/v2/peshitta/51.json",
     "sha": "6d56439d7dd2c08f1c177a7feed27a196022086f"
   },
   "52": {
@@ -152,7 +152,7 @@
     "encoding": "UTF-8",
     "nr": 52,
     "name": "1 Thessalonians",
-    "url": "https://getbible.net/v2/peshitta/52.json",
+    "url": "https://api.getbible.net/v2/peshitta/52.json",
     "sha": "8a000966bd7eab2a50c9f29527696b13b3a9d262"
   },
   "53": {
@@ -164,7 +164,7 @@
     "encoding": "UTF-8",
     "nr": 53,
     "name": "2 Thessalonians",
-    "url": "https://getbible.net/v2/peshitta/53.json",
+    "url": "https://api.getbible.net/v2/peshitta/53.json",
     "sha": "7990b52cb7cc9f5a5135a5e75c4d27cb13bcd258"
   },
   "54": {
@@ -176,7 +176,7 @@
     "encoding": "UTF-8",
     "nr": 54,
     "name": "1 Timothy",
-    "url": "https://getbible.net/v2/peshitta/54.json",
+    "url": "https://api.getbible.net/v2/peshitta/54.json",
     "sha": "80f6e5689ca8e7ccd33a7461947bf10960763182"
   },
   "55": {
@@ -188,7 +188,7 @@
     "encoding": "UTF-8",
     "nr": 55,
     "name": "2 Timothy",
-    "url": "https://getbible.net/v2/peshitta/55.json",
+    "url": "https://api.getbible.net/v2/peshitta/55.json",
     "sha": "4dbfbdc4166f40a9f232392a923d4a2af13a3974"
   },
   "56": {
@@ -200,7 +200,7 @@
     "encoding": "UTF-8",
     "nr": 56,
     "name": "Titus",
-    "url": "https://getbible.net/v2/peshitta/56.json",
+    "url": "https://api.getbible.net/v2/peshitta/56.json",
     "sha": "936860566557958d088b9a96940e92c753031819"
   },
   "57": {
@@ -212,7 +212,7 @@
     "encoding": "UTF-8",
     "nr": 57,
     "name": "Philemon",
-    "url": "https://getbible.net/v2/peshitta/57.json",
+    "url": "https://api.getbible.net/v2/peshitta/57.json",
     "sha": "cdc7314a088a3b4e0952a09fdc9a14ec1a179550"
   },
   "58": {
@@ -224,7 +224,7 @@
     "encoding": "UTF-8",
     "nr": 58,
     "name": "Hebrews",
-    "url": "https://getbible.net/v2/peshitta/58.json",
+    "url": "https://api.getbible.net/v2/peshitta/58.json",
     "sha": "09ed818aca3ca31ad8324258a86dcbe8a3dcf869"
   },
   "59": {
@@ -236,7 +236,7 @@
     "encoding": "UTF-8",
     "nr": 59,
     "name": "James",
-    "url": "https://getbible.net/v2/peshitta/59.json",
+    "url": "https://api.getbible.net/v2/peshitta/59.json",
     "sha": "118a066fb41d1832e2bc29a0fb121731c7df8cf0"
   },
   "60": {
@@ -248,7 +248,7 @@
     "encoding": "UTF-8",
     "nr": 60,
     "name": "1 Peter",
-    "url": "https://getbible.net/v2/peshitta/60.json",
+    "url": "https://api.getbible.net/v2/peshitta/60.json",
     "sha": "e0b5f497458ab0517a9148e93fd84b6332ed9096"
   },
   "61": {
@@ -260,7 +260,7 @@
     "encoding": "UTF-8",
     "nr": 61,
     "name": "2 Peter",
-    "url": "https://getbible.net/v2/peshitta/61.json",
+    "url": "https://api.getbible.net/v2/peshitta/61.json",
     "sha": "bc134bf5c036b1380b43285f81e15f1e62c606d8"
   },
   "62": {
@@ -272,7 +272,7 @@
     "encoding": "UTF-8",
     "nr": 62,
     "name": "1 John",
-    "url": "https://getbible.net/v2/peshitta/62.json",
+    "url": "https://api.getbible.net/v2/peshitta/62.json",
     "sha": "d97e771e3e445508c72119d3b8f9ef23012e1d17"
   },
   "63": {
@@ -284,7 +284,7 @@
     "encoding": "UTF-8",
     "nr": 63,
     "name": "2 John",
-    "url": "https://getbible.net/v2/peshitta/63.json",
+    "url": "https://api.getbible.net/v2/peshitta/63.json",
     "sha": "628d781ba2f4f869cd92a7af0f949cf192fec397"
   },
   "64": {
@@ -296,7 +296,7 @@
     "encoding": "UTF-8",
     "nr": 64,
     "name": "3 John",
-    "url": "https://getbible.net/v2/peshitta/64.json",
+    "url": "https://api.getbible.net/v2/peshitta/64.json",
     "sha": "3f9f099ed00589c9551b6092ebeaa50840385728"
   },
   "65": {
@@ -308,7 +308,7 @@
     "encoding": "UTF-8",
     "nr": 65,
     "name": "Jude",
-    "url": "https://getbible.net/v2/peshitta/65.json",
+    "url": "https://api.getbible.net/v2/peshitta/65.json",
     "sha": "44376f47cbfc3e3ae700f8bca5c4188efd1eed3f"
   },
   "66": {
@@ -320,7 +320,7 @@
     "encoding": "UTF-8",
     "nr": 66,
     "name": "Revelation",
-    "url": "https://getbible.net/v2/peshitta/66.json",
+    "url": "https://api.getbible.net/v2/peshitta/66.json",
     "sha": "963f2b6cfeb1c6ea7cad921bc774e5f19abd5561"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "2 Timothy",
     "chapter": 1,
     "name": "2 Timothy 1",
-    "url": "https://getbible.net/v2/valera/55/1.json",
+    "url": "https://api.getbible.net/v2/valera/55/1.json",
     "sha": "1df0aa280df8aa383d7a0050703a31c9b32ef42c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Timothy",
     "chapter": 2,
     "name": "2 Timothy 2",
-    "url": "https://getbible.net/v2/valera/55/2.json",
+    "url": "https://api.getbible.net/v2/valera/55/2.json",
     "sha": "7754d9b2cc18da3535bfce3856ff85bed7485580"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Timothy",
     "chapter": 3,
     "name": "2 Timothy 3",
-    "url": "https://getbible.net/v2/valera/55/3.json",
+    "url": "https://api.getbible.net/v2/valera/55/3.json",
     "sha": "cb517e3d3a75dd33ed030c5b9f7c84a6fb83b163"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Timothy",
     "chapter": 4,
     "name": "2 Timothy 4",
-    "url": "https://getbible.net/v2/valera/55/4.json",
+    "url": "https://api.getbible.net/v2/valera/55/4.json",
     "sha": "fb368645e0a1ea0c120546f200ae963195822a2d"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Zephaniah",
     "chapter": 1,
     "name": "Zephaniah 1",
-    "url": "https://getbible.net/v2/ylt/36/1.json",
+    "url": "https://api.getbible.net/v2/ylt/36/1.json",
     "sha": "3318537085132d06a0a54f9e8487c741e1f89f5f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Zephaniah",
     "chapter": 2,
     "name": "Zephaniah 2",
-    "url": "https://getbible.net/v2/ylt/36/2.json",
+    "url": "https://api.getbible.net/v2/ylt/36/2.json",
     "sha": "5237402456572d43d2e27bd048dcb14c2716d8bf"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Zephaniah",
     "chapter": 3,
     "name": "Zephaniah 3",
-    "url": "https://getbible.net/v2/ylt/36/3.json",
+    "url": "https://api.getbible.net/v2/ylt/36/3.json",
     "sha": "727ff28f627467caa7c4ac4f2835364fb24b329b"
   }
 }

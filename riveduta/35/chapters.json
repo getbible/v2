@@ -10,7 +10,7 @@
     "book_name": "Habakkuk",
     "chapter": 1,
     "name": "Habakkuk 1",
-    "url": "https://getbible.net/v2/riveduta/35/1.json",
+    "url": "https://api.getbible.net/v2/riveduta/35/1.json",
     "sha": "7265fcf3f26ff5a1a10a3cbf94168b09f47dff50"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Habakkuk",
     "chapter": 2,
     "name": "Habakkuk 2",
-    "url": "https://getbible.net/v2/riveduta/35/2.json",
+    "url": "https://api.getbible.net/v2/riveduta/35/2.json",
     "sha": "fd92b34eef6d15e1883d3410ac9e2a8980eafda9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Habakkuk",
     "chapter": 3,
     "name": "Habakkuk 3",
-    "url": "https://getbible.net/v2/riveduta/35/3.json",
+    "url": "https://api.getbible.net/v2/riveduta/35/3.json",
     "sha": "5f1220754cc4086d829d43795c2fa18018bd1e35"
   }
 }

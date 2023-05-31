@@ -10,7 +10,7 @@
     "book_name": "Micah",
     "chapter": 1,
     "name": "Micah 1",
-    "url": "https://getbible.net/v2/korean/33/1.json",
+    "url": "https://api.getbible.net/v2/korean/33/1.json",
     "sha": "5384b7c705bd0dfe01374f81c0cfaa1402e1ed9d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Micah",
     "chapter": 2,
     "name": "Micah 2",
-    "url": "https://getbible.net/v2/korean/33/2.json",
+    "url": "https://api.getbible.net/v2/korean/33/2.json",
     "sha": "e0dbe1c5b1198ef5cbbcf0683e58c02fe7e80755"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Micah",
     "chapter": 3,
     "name": "Micah 3",
-    "url": "https://getbible.net/v2/korean/33/3.json",
+    "url": "https://api.getbible.net/v2/korean/33/3.json",
     "sha": "eded250b15a072daafb6c79c54067343d36f7c54"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Micah",
     "chapter": 4,
     "name": "Micah 4",
-    "url": "https://getbible.net/v2/korean/33/4.json",
+    "url": "https://api.getbible.net/v2/korean/33/4.json",
     "sha": "bf4cccb11a1e616ba35325e2b7c1cfcaee5ac740"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Micah",
     "chapter": 5,
     "name": "Micah 5",
-    "url": "https://getbible.net/v2/korean/33/5.json",
+    "url": "https://api.getbible.net/v2/korean/33/5.json",
     "sha": "a6d1478f9005ab05fbb4b374c75e2820f0642de0"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Micah",
     "chapter": 6,
     "name": "Micah 6",
-    "url": "https://getbible.net/v2/korean/33/6.json",
+    "url": "https://api.getbible.net/v2/korean/33/6.json",
     "sha": "430bfbd07b834710d62f2ac3070a6d23ea8c14c2"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Micah",
     "chapter": 7,
     "name": "Micah 7",
-    "url": "https://getbible.net/v2/korean/33/7.json",
+    "url": "https://api.getbible.net/v2/korean/33/7.json",
     "sha": "67636b6a442811246999dc46dfd1f1ef002f5fa8"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/vietnamese/61/1.json",
+    "url": "https://api.getbible.net/v2/vietnamese/61/1.json",
     "sha": "00e421a63e1137f4f96fbcfd749e5274ae23a094"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/vietnamese/61/2.json",
+    "url": "https://api.getbible.net/v2/vietnamese/61/2.json",
     "sha": "3076fdbbf0247b7a178829b8378e080f4fde2cfb"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/vietnamese/61/3.json",
+    "url": "https://api.getbible.net/v2/vietnamese/61/3.json",
     "sha": "0d7235d66279ea1ed8b62c3a4eedbd4dba877679"
   }
 }

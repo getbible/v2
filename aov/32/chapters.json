@@ -10,7 +10,7 @@
     "book_name": "Jona",
     "chapter": 1,
     "name": "Jona 1",
-    "url": "https://getbible.net/v2/aov/32/1.json",
+    "url": "https://api.getbible.net/v2/aov/32/1.json",
     "sha": "926400fff3addc0b403fd5b4e4d1228f5df9137a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Jona",
     "chapter": 2,
     "name": "Jona 2",
-    "url": "https://getbible.net/v2/aov/32/2.json",
+    "url": "https://api.getbible.net/v2/aov/32/2.json",
     "sha": "07b6a770e0cd0e4b5a9fbb43735fa3dc17ba0f6d"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Jona",
     "chapter": 3,
     "name": "Jona 3",
-    "url": "https://getbible.net/v2/aov/32/3.json",
+    "url": "https://api.getbible.net/v2/aov/32/3.json",
     "sha": "c06ebd35f775d01e1b68c37094fb167892442a85"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Jona",
     "chapter": 4,
     "name": "Jona 4",
-    "url": "https://getbible.net/v2/aov/32/4.json",
+    "url": "https://api.getbible.net/v2/aov/32/4.json",
     "sha": "1aa1e6597fd3ae35804b3d5e4a5edd0227babd11"
   }
 }

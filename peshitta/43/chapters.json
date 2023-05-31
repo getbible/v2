@@ -10,7 +10,7 @@
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
-    "url": "https://getbible.net/v2/peshitta/43/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/1.json",
     "sha": "9997e1fbd644b33aa025ff58927c65ad5b826637"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
-    "url": "https://getbible.net/v2/peshitta/43/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/2.json",
     "sha": "c956ee348af79ba10f9a1c83325deee0a022290a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
-    "url": "https://getbible.net/v2/peshitta/43/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/3.json",
     "sha": "b3bc940f19a777fb7c37ba9bc7d91cca1fd005cf"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
-    "url": "https://getbible.net/v2/peshitta/43/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/4.json",
     "sha": "343d6ed7106cd3554e8d5e68861e85a23a1bc60c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
-    "url": "https://getbible.net/v2/peshitta/43/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/5.json",
     "sha": "2940e6ea5319a8b8c3b64794406f89f94c217c41"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
-    "url": "https://getbible.net/v2/peshitta/43/6.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/6.json",
     "sha": "2f56715acf34430c2a873a7df4d797ba439a3401"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
-    "url": "https://getbible.net/v2/peshitta/43/7.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/7.json",
     "sha": "cffb149ea6b02e082d7fd1bceda2ab23f00a19a3"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
-    "url": "https://getbible.net/v2/peshitta/43/8.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/8.json",
     "sha": "01b62d4304b5f5311a5db9ed4da5e3839c32d2ed"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
-    "url": "https://getbible.net/v2/peshitta/43/9.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/9.json",
     "sha": "415d7ebfef47dd761d7862a1a6b70697e57a6f02"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
-    "url": "https://getbible.net/v2/peshitta/43/10.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/10.json",
     "sha": "666ec6aea2cdd712f20ee27fe5b694879e94fd29"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
-    "url": "https://getbible.net/v2/peshitta/43/11.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/11.json",
     "sha": "51c9b4f65ae292307f5d5a8d98df08e8b0a37fae"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
-    "url": "https://getbible.net/v2/peshitta/43/12.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/12.json",
     "sha": "745e7393e447506e1bd88ea176e2e46691eea84d"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
-    "url": "https://getbible.net/v2/peshitta/43/13.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/13.json",
     "sha": "34fd81c1397535e3068c2e139f03a19fad483638"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
-    "url": "https://getbible.net/v2/peshitta/43/14.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/14.json",
     "sha": "a68304f483eeb93851f7ccb24b6f3dde64dcf82d"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
-    "url": "https://getbible.net/v2/peshitta/43/15.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/15.json",
     "sha": "63c012d16e040275ae1435d4cda5a9392ab5b580"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
-    "url": "https://getbible.net/v2/peshitta/43/16.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/16.json",
     "sha": "88adff4a612edcf196a983439ec17e1cbf0995eb"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
-    "url": "https://getbible.net/v2/peshitta/43/17.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/17.json",
     "sha": "a5a33349c4ba157960c037bd274d95e47790482b"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
-    "url": "https://getbible.net/v2/peshitta/43/18.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/18.json",
     "sha": "9f3861a952102e4edf43de3e94c577cb81891ca3"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
-    "url": "https://getbible.net/v2/peshitta/43/19.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/19.json",
     "sha": "a6ccc8e0eb8c4db7e5858e1d8074a44caaff0634"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
-    "url": "https://getbible.net/v2/peshitta/43/20.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/20.json",
     "sha": "eaa0be35d800f979b6a33f53d1cd972b74b26225"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
-    "url": "https://getbible.net/v2/peshitta/43/21.json",
+    "url": "https://api.getbible.net/v2/peshitta/43/21.json",
     "sha": "a42ed4fc5ceedc7077b7368963f6aca38cec2ff0"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "雅歌",
     "chapter": 1,
     "name": "雅歌 1",
-    "url": "https://getbible.net/v2/cus/22/1.json",
+    "url": "https://api.getbible.net/v2/cus/22/1.json",
     "sha": "d27f799e918fd90a3c880d01db7eb1131831918a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "雅歌",
     "chapter": 2,
     "name": "雅歌 2",
-    "url": "https://getbible.net/v2/cus/22/2.json",
+    "url": "https://api.getbible.net/v2/cus/22/2.json",
     "sha": "a55343bac1ee47330e6fd8a311631aa396af4f70"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "雅歌",
     "chapter": 3,
     "name": "雅歌 3",
-    "url": "https://getbible.net/v2/cus/22/3.json",
+    "url": "https://api.getbible.net/v2/cus/22/3.json",
     "sha": "1b60c84b4219b4b838a2343f5acb63c06116a7e8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "雅歌",
     "chapter": 4,
     "name": "雅歌 4",
-    "url": "https://getbible.net/v2/cus/22/4.json",
+    "url": "https://api.getbible.net/v2/cus/22/4.json",
     "sha": "2e202f1c55570d1fa01669a1eed71722755f3cb3"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "雅歌",
     "chapter": 5,
     "name": "雅歌 5",
-    "url": "https://getbible.net/v2/cus/22/5.json",
+    "url": "https://api.getbible.net/v2/cus/22/5.json",
     "sha": "a662a211b2558538d054ad3950ebb4b99667b69a"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "雅歌",
     "chapter": 6,
     "name": "雅歌 6",
-    "url": "https://getbible.net/v2/cus/22/6.json",
+    "url": "https://api.getbible.net/v2/cus/22/6.json",
     "sha": "4250905fe40fae01535044402550ffc426bf9c1a"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "雅歌",
     "chapter": 7,
     "name": "雅歌 7",
-    "url": "https://getbible.net/v2/cus/22/7.json",
+    "url": "https://api.getbible.net/v2/cus/22/7.json",
     "sha": "377f1319acb16ed45f9a0ecc1aa0fd40bfc0ce29"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "雅歌",
     "chapter": 8,
     "name": "雅歌 8",
-    "url": "https://getbible.net/v2/cus/22/8.json",
+    "url": "https://api.getbible.net/v2/cus/22/8.json",
     "sha": "e8f774ab7cdec443c47a29b8e190e89dbc697557"
   }
 }

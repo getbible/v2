@@ -10,7 +10,7 @@
     "book_name": "Galatians",
     "chapter": 1,
     "name": "Galatians 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/48/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/48/1.json",
     "sha": "b5803f50c8be843ab316f38a915a8e21d62f3e4d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Galatians",
     "chapter": 2,
     "name": "Galatians 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/48/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/48/2.json",
     "sha": "cf2dbfc2cefa10198a30fd795a715d7c29a1d5a5"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Galatians",
     "chapter": 3,
     "name": "Galatians 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/48/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/48/3.json",
     "sha": "631e9251db582d226d5904caf1ae3068e16613cd"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Galatians",
     "chapter": 4,
     "name": "Galatians 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/48/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/48/4.json",
     "sha": "790c15b2fc286b7ca65f06b520f9b0cce533c100"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Galatians",
     "chapter": 5,
     "name": "Galatians 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/48/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/48/5.json",
     "sha": "08dac9471a3fb816cc17a589523be92e1db26ccd"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Galatians",
     "chapter": 6,
     "name": "Galatians 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/48/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/48/6.json",
     "sha": "9622d69afbb3b3461ca4dbe3a0e997b45d40690b"
   }
 }

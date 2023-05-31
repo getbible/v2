@@ -10,8 +10,8 @@
     "book_name": "Ruth",
     "chapter": 1,
     "name": "Ruth 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/8/1.json",
-    "sha": "1a3ac9e675834ac2006cba1a795ba0bf84a7d17f"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/8/1.json",
+    "sha": "ddf5d0dc697ecf54c0f18d139af2bfebe6d5e5eb"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Ruth",
     "chapter": 2,
     "name": "Ruth 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/8/2.json",
-    "sha": "de6e6c5c3bd1f527b69298bd9d0d9acd70ab2392"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/8/2.json",
+    "sha": "7f899260c9872556c5f9140c7c293887c6782cf3"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,8 +38,8 @@
     "book_name": "Ruth",
     "chapter": 3,
     "name": "Ruth 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/8/3.json",
-    "sha": "fd970ad4345d5d92da8c36c88e12b1f7da6edd04"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/8/3.json",
+    "sha": "db2e3a9d8bb500f459416b3e8192777d1df385fa"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -52,7 +52,7 @@
     "book_name": "Ruth",
     "chapter": 4,
     "name": "Ruth 4",
-    "url": "https://getbible.net/v2/pyharaamattu1992/8/4.json",
-    "sha": "4a6a300bec7e91a58128f481a46cf72b02be5ce2"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/8/4.json",
+    "sha": "69f32dd087d89aa78d75590e251a8557e9c04edd"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "雅歌",
     "chapter": 1,
     "name": "雅歌 1",
-    "url": "https://getbible.net/v2/cut/22/1.json",
+    "url": "https://api.getbible.net/v2/cut/22/1.json",
     "sha": "2f717346373c1eeb027adfb4bc28025fed55fd4a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "雅歌",
     "chapter": 2,
     "name": "雅歌 2",
-    "url": "https://getbible.net/v2/cut/22/2.json",
+    "url": "https://api.getbible.net/v2/cut/22/2.json",
     "sha": "3f99b0369554031daa0ba23edb6ede378cdb9d48"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "雅歌",
     "chapter": 3,
     "name": "雅歌 3",
-    "url": "https://getbible.net/v2/cut/22/3.json",
+    "url": "https://api.getbible.net/v2/cut/22/3.json",
     "sha": "9d05cad4f955cb95d9a60ecbe114de09d782ed52"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "雅歌",
     "chapter": 4,
     "name": "雅歌 4",
-    "url": "https://getbible.net/v2/cut/22/4.json",
+    "url": "https://api.getbible.net/v2/cut/22/4.json",
     "sha": "d729add075939583e014e93f0b9166fbf6495887"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "雅歌",
     "chapter": 5,
     "name": "雅歌 5",
-    "url": "https://getbible.net/v2/cut/22/5.json",
+    "url": "https://api.getbible.net/v2/cut/22/5.json",
     "sha": "45b5ff26fe5abbe3d31902047a2d0537a553326c"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "雅歌",
     "chapter": 6,
     "name": "雅歌 6",
-    "url": "https://getbible.net/v2/cut/22/6.json",
+    "url": "https://api.getbible.net/v2/cut/22/6.json",
     "sha": "edbbb1d26e7ace23404c63421eb75b79bc88dc8a"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "雅歌",
     "chapter": 7,
     "name": "雅歌 7",
-    "url": "https://getbible.net/v2/cut/22/7.json",
+    "url": "https://api.getbible.net/v2/cut/22/7.json",
     "sha": "f060980ef927f8642adccf4bbbaf67743d2e7552"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "雅歌",
     "chapter": 8,
     "name": "雅歌 8",
-    "url": "https://getbible.net/v2/cut/22/8.json",
+    "url": "https://api.getbible.net/v2/cut/22/8.json",
     "sha": "8732bc7a1f3bfd10269ccf666c3667d07f61df06"
   }
 }

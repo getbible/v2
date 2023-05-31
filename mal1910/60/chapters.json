@@ -10,7 +10,7 @@
     "book_name": "1 Peter",
     "chapter": 1,
     "name": "1 Peter 1",
-    "url": "https://getbible.net/v2/mal1910/60/1.json",
+    "url": "https://api.getbible.net/v2/mal1910/60/1.json",
     "sha": "122ffeb771c9202448be70a0b68367dee5045534"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Peter",
     "chapter": 2,
     "name": "1 Peter 2",
-    "url": "https://getbible.net/v2/mal1910/60/2.json",
+    "url": "https://api.getbible.net/v2/mal1910/60/2.json",
     "sha": "62795ff2134bdfa00aae8e4f8b0608d59727bc14"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Peter",
     "chapter": 3,
     "name": "1 Peter 3",
-    "url": "https://getbible.net/v2/mal1910/60/3.json",
+    "url": "https://api.getbible.net/v2/mal1910/60/3.json",
     "sha": "7f051142d137b6f4894b5c569378e5a09d3de8b9"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Peter",
     "chapter": 4,
     "name": "1 Peter 4",
-    "url": "https://getbible.net/v2/mal1910/60/4.json",
+    "url": "https://api.getbible.net/v2/mal1910/60/4.json",
     "sha": "0984ac47577689bc0db87829f59c3b4defff5e4c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Peter",
     "chapter": 5,
     "name": "1 Peter 5",
-    "url": "https://getbible.net/v2/mal1910/60/5.json",
+    "url": "https://api.getbible.net/v2/mal1910/60/5.json",
     "sha": "442d48d569b011124955f1f78e3741a516d3f11d"
   }
 }

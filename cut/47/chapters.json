@@ -10,7 +10,7 @@
     "book_name": "歌林多後書",
     "chapter": 1,
     "name": "歌林多後書 1",
-    "url": "https://getbible.net/v2/cut/47/1.json",
+    "url": "https://api.getbible.net/v2/cut/47/1.json",
     "sha": "a232f2612fa81b0b008dd52e93fde14c9b22253f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "歌林多後書",
     "chapter": 2,
     "name": "歌林多後書 2",
-    "url": "https://getbible.net/v2/cut/47/2.json",
+    "url": "https://api.getbible.net/v2/cut/47/2.json",
     "sha": "92fe6119ad853b7e12620a102ead8476a8f586f1"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "歌林多後書",
     "chapter": 3,
     "name": "歌林多後書 3",
-    "url": "https://getbible.net/v2/cut/47/3.json",
+    "url": "https://api.getbible.net/v2/cut/47/3.json",
     "sha": "99ca64e7b1529e74ae77fb59bbb2333575014e87"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "歌林多後書",
     "chapter": 4,
     "name": "歌林多後書 4",
-    "url": "https://getbible.net/v2/cut/47/4.json",
+    "url": "https://api.getbible.net/v2/cut/47/4.json",
     "sha": "3aa474d5a80a2cb16fa8fc9a63c8dc7a6c2af78c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "歌林多後書",
     "chapter": 5,
     "name": "歌林多後書 5",
-    "url": "https://getbible.net/v2/cut/47/5.json",
+    "url": "https://api.getbible.net/v2/cut/47/5.json",
     "sha": "adec12deface94016988a85c9185ac44de7bc88c"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "歌林多後書",
     "chapter": 6,
     "name": "歌林多後書 6",
-    "url": "https://getbible.net/v2/cut/47/6.json",
+    "url": "https://api.getbible.net/v2/cut/47/6.json",
     "sha": "99d21e138173c7bdda75322c02b3e4e82457379c"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "歌林多後書",
     "chapter": 7,
     "name": "歌林多後書 7",
-    "url": "https://getbible.net/v2/cut/47/7.json",
+    "url": "https://api.getbible.net/v2/cut/47/7.json",
     "sha": "44afabf0fc5e2d4da7b51aeba0742d86c0a55608"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "歌林多後書",
     "chapter": 8,
     "name": "歌林多後書 8",
-    "url": "https://getbible.net/v2/cut/47/8.json",
+    "url": "https://api.getbible.net/v2/cut/47/8.json",
     "sha": "f213b614ad560433935531db01a9e1bdc179ad09"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "歌林多後書",
     "chapter": 9,
     "name": "歌林多後書 9",
-    "url": "https://getbible.net/v2/cut/47/9.json",
+    "url": "https://api.getbible.net/v2/cut/47/9.json",
     "sha": "00cdf93b7b505332fe00fbd159044f55a5b31547"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "歌林多後書",
     "chapter": 10,
     "name": "歌林多後書 10",
-    "url": "https://getbible.net/v2/cut/47/10.json",
+    "url": "https://api.getbible.net/v2/cut/47/10.json",
     "sha": "4e9fa62d46cd5a5154da128269024e1abf00bd58"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "歌林多後書",
     "chapter": 11,
     "name": "歌林多後書 11",
-    "url": "https://getbible.net/v2/cut/47/11.json",
+    "url": "https://api.getbible.net/v2/cut/47/11.json",
     "sha": "fc8f2c1c711bf22b15304847c715469b17f7d8c8"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "歌林多後書",
     "chapter": 12,
     "name": "歌林多後書 12",
-    "url": "https://getbible.net/v2/cut/47/12.json",
+    "url": "https://api.getbible.net/v2/cut/47/12.json",
     "sha": "b25995882cde93ca29761c31e2e5867c425a524a"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "歌林多後書",
     "chapter": 13,
     "name": "歌林多後書 13",
-    "url": "https://getbible.net/v2/cut/47/13.json",
+    "url": "https://api.getbible.net/v2/cut/47/13.json",
     "sha": "49314375bd3218ebaec0860b79781b42b1ff0a4c"
   }
 }

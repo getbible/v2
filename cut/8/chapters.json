@@ -10,7 +10,7 @@
     "book_name": "路得記",
     "chapter": 1,
     "name": "路得記 1",
-    "url": "https://getbible.net/v2/cut/8/1.json",
+    "url": "https://api.getbible.net/v2/cut/8/1.json",
     "sha": "8ca73235fd50f624df0c28afd88a97805b910973"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "路得記",
     "chapter": 2,
     "name": "路得記 2",
-    "url": "https://getbible.net/v2/cut/8/2.json",
+    "url": "https://api.getbible.net/v2/cut/8/2.json",
     "sha": "8b115eb62afd37d66e42ef6b1051144eb069e31b"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "路得記",
     "chapter": 3,
     "name": "路得記 3",
-    "url": "https://getbible.net/v2/cut/8/3.json",
+    "url": "https://api.getbible.net/v2/cut/8/3.json",
     "sha": "b29f2b7bffc00fb5c958fababcaf6fe885148c2f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "路得記",
     "chapter": 4,
     "name": "路得記 4",
-    "url": "https://getbible.net/v2/cut/8/4.json",
+    "url": "https://api.getbible.net/v2/cut/8/4.json",
     "sha": "22e8ebc11215d8153d3e6696a9ae27f32aead686"
   }
 }

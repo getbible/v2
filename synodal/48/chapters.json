@@ -10,7 +10,7 @@
     "book_name": "Galatians",
     "chapter": 1,
     "name": "Galatians 1",
-    "url": "https://getbible.net/v2/synodal/48/1.json",
+    "url": "https://api.getbible.net/v2/synodal/48/1.json",
     "sha": "91279079d6b5bba0dca5a10c6e31bd2d9cd57071"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Galatians",
     "chapter": 2,
     "name": "Galatians 2",
-    "url": "https://getbible.net/v2/synodal/48/2.json",
+    "url": "https://api.getbible.net/v2/synodal/48/2.json",
     "sha": "ec3989dd75a405a4b24286c8a321f38dff4c262b"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Galatians",
     "chapter": 3,
     "name": "Galatians 3",
-    "url": "https://getbible.net/v2/synodal/48/3.json",
+    "url": "https://api.getbible.net/v2/synodal/48/3.json",
     "sha": "29183eedf5afb767eb7e2746be17418bb64f46f4"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Galatians",
     "chapter": 4,
     "name": "Galatians 4",
-    "url": "https://getbible.net/v2/synodal/48/4.json",
+    "url": "https://api.getbible.net/v2/synodal/48/4.json",
     "sha": "cb8a4be1d04e454cc40965ee878fddc03a8486ed"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Galatians",
     "chapter": 5,
     "name": "Galatians 5",
-    "url": "https://getbible.net/v2/synodal/48/5.json",
+    "url": "https://api.getbible.net/v2/synodal/48/5.json",
     "sha": "350b22e307a2965817b4f0b740c334fe9bf76351"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Galatians",
     "chapter": 6,
     "name": "Galatians 6",
-    "url": "https://getbible.net/v2/synodal/48/6.json",
+    "url": "https://api.getbible.net/v2/synodal/48/6.json",
     "sha": "bff40bdabaae0ffb203a6295242d76d540ca88b6"
   }
 }

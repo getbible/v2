@@ -10,8 +10,8 @@
     "book_name": "Habakkuk",
     "chapter": 1,
     "name": "Habakkuk 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/35/1.json",
-    "sha": "42c28724c5294d7f4836afeb830ccd7fe54d79f1"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/35/1.json",
+    "sha": "52fc2a171fd5242d1ad163fb56fa318454acc5b8"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Habakkuk",
     "chapter": 2,
     "name": "Habakkuk 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/35/2.json",
-    "sha": "60050fd48a2772dd3aae42cfa01e19085336dd28"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/35/2.json",
+    "sha": "9f1f393cf45826470383030f187551e07236de8e"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,7 +38,7 @@
     "book_name": "Habakkuk",
     "chapter": 3,
     "name": "Habakkuk 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/35/3.json",
-    "sha": "4620b0ab21e05ac1e46a36ee9e3d3693170f8eeb"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/35/3.json",
+    "sha": "73b265242803141f14fc21975c006680b97fe9ab"
   }
 }

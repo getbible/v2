@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/korean/34/1.json",
+    "url": "https://api.getbible.net/v2/korean/34/1.json",
     "sha": "1b3555e346a54c3948322979099754fc59080988"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/korean/34/2.json",
+    "url": "https://api.getbible.net/v2/korean/34/2.json",
     "sha": "0ccf93289fb2ae6901f2542d0f93973e555576e0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/korean/34/3.json",
+    "url": "https://api.getbible.net/v2/korean/34/3.json",
     "sha": "3a96bc30afc05d3df427d9307914a4bbeff28608"
   }
 }

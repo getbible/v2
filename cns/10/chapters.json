@@ -10,7 +10,7 @@
     "book_name": "撒母耳记下",
     "chapter": 1,
     "name": "撒母耳记下 1",
-    "url": "https://getbible.net/v2/cns/10/1.json",
+    "url": "https://api.getbible.net/v2/cns/10/1.json",
     "sha": "c6499a036d0200cd8c09f52b9fcc27ca03305a47"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "撒母耳记下",
     "chapter": 2,
     "name": "撒母耳记下 2",
-    "url": "https://getbible.net/v2/cns/10/2.json",
+    "url": "https://api.getbible.net/v2/cns/10/2.json",
     "sha": "355412ddca21db3ab365c99cf4fab520367297c8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "撒母耳记下",
     "chapter": 3,
     "name": "撒母耳记下 3",
-    "url": "https://getbible.net/v2/cns/10/3.json",
+    "url": "https://api.getbible.net/v2/cns/10/3.json",
     "sha": "49aece23204eb441bbb8063d2972c41db70466a8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "撒母耳记下",
     "chapter": 4,
     "name": "撒母耳记下 4",
-    "url": "https://getbible.net/v2/cns/10/4.json",
+    "url": "https://api.getbible.net/v2/cns/10/4.json",
     "sha": "b900592009a337d40aec9b88a2e96d75bfc02b14"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "撒母耳记下",
     "chapter": 5,
     "name": "撒母耳记下 5",
-    "url": "https://getbible.net/v2/cns/10/5.json",
+    "url": "https://api.getbible.net/v2/cns/10/5.json",
     "sha": "4f706b63bd51e11f48400bc931aafff1cf9965ce"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "撒母耳记下",
     "chapter": 6,
     "name": "撒母耳记下 6",
-    "url": "https://getbible.net/v2/cns/10/6.json",
+    "url": "https://api.getbible.net/v2/cns/10/6.json",
     "sha": "21867cf4e3efc1d7b696721648b2ba9aa0c14dba"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "撒母耳记下",
     "chapter": 7,
     "name": "撒母耳记下 7",
-    "url": "https://getbible.net/v2/cns/10/7.json",
+    "url": "https://api.getbible.net/v2/cns/10/7.json",
     "sha": "0f6db585faa232a6d658db6a8b07d770dbdee65d"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "撒母耳记下",
     "chapter": 8,
     "name": "撒母耳记下 8",
-    "url": "https://getbible.net/v2/cns/10/8.json",
+    "url": "https://api.getbible.net/v2/cns/10/8.json",
     "sha": "230d9a2a376d28c0628c0e246267b165bec98ef2"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "撒母耳记下",
     "chapter": 9,
     "name": "撒母耳记下 9",
-    "url": "https://getbible.net/v2/cns/10/9.json",
+    "url": "https://api.getbible.net/v2/cns/10/9.json",
     "sha": "c271b1e34aa3af5c10398f8b7f293381bbf50793"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "撒母耳记下",
     "chapter": 10,
     "name": "撒母耳记下 10",
-    "url": "https://getbible.net/v2/cns/10/10.json",
+    "url": "https://api.getbible.net/v2/cns/10/10.json",
     "sha": "ebc6f9f91c485b28b037ca072a13c9a4449d52cb"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "撒母耳记下",
     "chapter": 11,
     "name": "撒母耳记下 11",
-    "url": "https://getbible.net/v2/cns/10/11.json",
+    "url": "https://api.getbible.net/v2/cns/10/11.json",
     "sha": "8957e3511e5e541d9d676b7ef448e32c4b3c36dd"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "撒母耳记下",
     "chapter": 12,
     "name": "撒母耳记下 12",
-    "url": "https://getbible.net/v2/cns/10/12.json",
+    "url": "https://api.getbible.net/v2/cns/10/12.json",
     "sha": "4609e4e9b073bba00e03842030189b1eda8baf1c"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "撒母耳记下",
     "chapter": 13,
     "name": "撒母耳记下 13",
-    "url": "https://getbible.net/v2/cns/10/13.json",
+    "url": "https://api.getbible.net/v2/cns/10/13.json",
     "sha": "a38d4b57a8671febd880d47a7fb2b61c11a167de"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "撒母耳记下",
     "chapter": 14,
     "name": "撒母耳记下 14",
-    "url": "https://getbible.net/v2/cns/10/14.json",
+    "url": "https://api.getbible.net/v2/cns/10/14.json",
     "sha": "5a969c4aae08c89f14a908401b65fb1c797b26ba"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "撒母耳记下",
     "chapter": 15,
     "name": "撒母耳记下 15",
-    "url": "https://getbible.net/v2/cns/10/15.json",
+    "url": "https://api.getbible.net/v2/cns/10/15.json",
     "sha": "dda1ea282f13127416caf49844bd30474eb90837"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "撒母耳记下",
     "chapter": 16,
     "name": "撒母耳记下 16",
-    "url": "https://getbible.net/v2/cns/10/16.json",
+    "url": "https://api.getbible.net/v2/cns/10/16.json",
     "sha": "8b0a502d4d5d41a28483e79ae7693af5953025bc"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "撒母耳记下",
     "chapter": 17,
     "name": "撒母耳记下 17",
-    "url": "https://getbible.net/v2/cns/10/17.json",
+    "url": "https://api.getbible.net/v2/cns/10/17.json",
     "sha": "4995731edc2eaad7478e0b8fbaa98e5f3d5deecf"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "撒母耳记下",
     "chapter": 18,
     "name": "撒母耳记下 18",
-    "url": "https://getbible.net/v2/cns/10/18.json",
+    "url": "https://api.getbible.net/v2/cns/10/18.json",
     "sha": "28fbfe858144c922bf4754b42ade2e4ed5367f64"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "撒母耳记下",
     "chapter": 19,
     "name": "撒母耳记下 19",
-    "url": "https://getbible.net/v2/cns/10/19.json",
+    "url": "https://api.getbible.net/v2/cns/10/19.json",
     "sha": "540410d93990b9e9e6595b1b42ab229cd3b95d9a"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "撒母耳记下",
     "chapter": 20,
     "name": "撒母耳记下 20",
-    "url": "https://getbible.net/v2/cns/10/20.json",
+    "url": "https://api.getbible.net/v2/cns/10/20.json",
     "sha": "eb7f9e9762f63937a98eb38029f3683d5c93c9ec"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "撒母耳记下",
     "chapter": 21,
     "name": "撒母耳记下 21",
-    "url": "https://getbible.net/v2/cns/10/21.json",
+    "url": "https://api.getbible.net/v2/cns/10/21.json",
     "sha": "7d53e5882a2b894c2d4746fb484adc6043700a2a"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "撒母耳记下",
     "chapter": 22,
     "name": "撒母耳记下 22",
-    "url": "https://getbible.net/v2/cns/10/22.json",
+    "url": "https://api.getbible.net/v2/cns/10/22.json",
     "sha": "1bf97e238984a4a1d5802327d1fea56575c35a64"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "撒母耳记下",
     "chapter": 23,
     "name": "撒母耳记下 23",
-    "url": "https://getbible.net/v2/cns/10/23.json",
+    "url": "https://api.getbible.net/v2/cns/10/23.json",
     "sha": "0925930a606957438ba166339b4e0618c6f45b19"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "撒母耳记下",
     "chapter": 24,
     "name": "撒母耳记下 24",
-    "url": "https://getbible.net/v2/cns/10/24.json",
+    "url": "https://api.getbible.net/v2/cns/10/24.json",
     "sha": "fbb520b51357c47282832c4cf0247bf15f37310c"
   }
 }

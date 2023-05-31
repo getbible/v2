@@ -10,7 +10,7 @@
     "book_name": "Esther",
     "chapter": 1,
     "name": "Esther 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/1.json",
     "sha": "8efc2e441139e38830940df399b4f7ec19f6c298"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Esther",
     "chapter": 2,
     "name": "Esther 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/2.json",
     "sha": "3b070a8d27850ba24825f2c1d914f16677fabc28"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Esther",
     "chapter": 3,
     "name": "Esther 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/3.json",
     "sha": "d31405f39f00bfe2f52644c065fc39402404247e"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Esther",
     "chapter": 4,
     "name": "Esther 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/4.json",
     "sha": "4dd021b18bd09f290885dc7fc20933991b1915c6"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Esther",
     "chapter": 5,
     "name": "Esther 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/5.json",
     "sha": "a411c2d1fa9f2f2b28ef48a14a61d0cbc5897c62"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Esther",
     "chapter": 6,
     "name": "Esther 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/6.json",
     "sha": "f6bfa81f91831fe44b16af2285ea3918e6cd9919"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Esther",
     "chapter": 7,
     "name": "Esther 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/7.json",
     "sha": "a4b8b9e5635af8837198fa901531cab988a28f12"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Esther",
     "chapter": 8,
     "name": "Esther 8",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/8.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/8.json",
     "sha": "338ba467350fcfae97278d2124b9c33271fd10ec"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Esther",
     "chapter": 9,
     "name": "Esther 9",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/9.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/9.json",
     "sha": "732d991d94547ba8a165291fa20c72626c40190c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Esther",
     "chapter": 10,
     "name": "Esther 10",
-    "url": "https://getbible.net/v2/pyharaamattu1933/17/10.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/17/10.json",
     "sha": "18ffa0080eb8424ea581ac71aee8fd0050fb4b2c"
   }
 }

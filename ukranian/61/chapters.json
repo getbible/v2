@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/ukranian/61/1.json",
+    "url": "https://api.getbible.net/v2/ukranian/61/1.json",
     "sha": "b3d24fbba3d687180f077ba8abda9803b62c8682"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/ukranian/61/2.json",
+    "url": "https://api.getbible.net/v2/ukranian/61/2.json",
     "sha": "c391475de5a570ce9002d59c9b5fc3b5980f3745"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/ukranian/61/3.json",
+    "url": "https://api.getbible.net/v2/ukranian/61/3.json",
     "sha": "a91c5edd817b90057e75634b470eede5670b15d2"
   }
 }

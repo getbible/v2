@@ -10,7 +10,7 @@
     "book_name": "Filippense",
     "chapter": 1,
     "name": "Filippense 1",
-    "url": "https://getbible.net/v2/aov/50/1.json",
+    "url": "https://api.getbible.net/v2/aov/50/1.json",
     "sha": "56ee9fc97b337aafe1ff44108a411a886a5c1924"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Filippense",
     "chapter": 2,
     "name": "Filippense 2",
-    "url": "https://getbible.net/v2/aov/50/2.json",
+    "url": "https://api.getbible.net/v2/aov/50/2.json",
     "sha": "99a4a504a3e84cb92a7625a43d0e1f006de97bcb"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Filippense",
     "chapter": 3,
     "name": "Filippense 3",
-    "url": "https://getbible.net/v2/aov/50/3.json",
+    "url": "https://api.getbible.net/v2/aov/50/3.json",
     "sha": "d9facb8349f63e942d5344221835300dcd0bf33b"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Filippense",
     "chapter": 4,
     "name": "Filippense 4",
-    "url": "https://getbible.net/v2/aov/50/4.json",
+    "url": "https://api.getbible.net/v2/aov/50/4.json",
     "sha": "e45d1d85662e531afc0fddc9510dd8caba904572"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "但以理書",
     "chapter": 1,
     "name": "但以理書 1",
-    "url": "https://getbible.net/v2/cut/27/1.json",
+    "url": "https://api.getbible.net/v2/cut/27/1.json",
     "sha": "418f3fe973bdb1e50b0da1df369a0c7e0492c3c0"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "但以理書",
     "chapter": 2,
     "name": "但以理書 2",
-    "url": "https://getbible.net/v2/cut/27/2.json",
+    "url": "https://api.getbible.net/v2/cut/27/2.json",
     "sha": "1c1079e57c9097a60fd23e73b326845cb7d8d6c5"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "但以理書",
     "chapter": 3,
     "name": "但以理書 3",
-    "url": "https://getbible.net/v2/cut/27/3.json",
+    "url": "https://api.getbible.net/v2/cut/27/3.json",
     "sha": "217c81499fa9deeeb81575b39cad202cb39fb94d"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "但以理書",
     "chapter": 4,
     "name": "但以理書 4",
-    "url": "https://getbible.net/v2/cut/27/4.json",
+    "url": "https://api.getbible.net/v2/cut/27/4.json",
     "sha": "33cc29a95f81549625e6aaf90922da9eae44e484"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "但以理書",
     "chapter": 5,
     "name": "但以理書 5",
-    "url": "https://getbible.net/v2/cut/27/5.json",
+    "url": "https://api.getbible.net/v2/cut/27/5.json",
     "sha": "3e4d87066bee48848d3cb687647030e64bde92ab"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "但以理書",
     "chapter": 6,
     "name": "但以理書 6",
-    "url": "https://getbible.net/v2/cut/27/6.json",
+    "url": "https://api.getbible.net/v2/cut/27/6.json",
     "sha": "46d66ade1649657f40ee1a0f9711efe5f20c6004"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "但以理書",
     "chapter": 7,
     "name": "但以理書 7",
-    "url": "https://getbible.net/v2/cut/27/7.json",
+    "url": "https://api.getbible.net/v2/cut/27/7.json",
     "sha": "fcebc5fd18c85dfeb780e53e0e8fd38291f2547e"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "但以理書",
     "chapter": 8,
     "name": "但以理書 8",
-    "url": "https://getbible.net/v2/cut/27/8.json",
+    "url": "https://api.getbible.net/v2/cut/27/8.json",
     "sha": "d6b879b9e387b71ad1fe7f566d1a23e1db444728"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "但以理書",
     "chapter": 9,
     "name": "但以理書 9",
-    "url": "https://getbible.net/v2/cut/27/9.json",
+    "url": "https://api.getbible.net/v2/cut/27/9.json",
     "sha": "1bbe430de7b1a9238001917565a50dc741c55f64"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "但以理書",
     "chapter": 10,
     "name": "但以理書 10",
-    "url": "https://getbible.net/v2/cut/27/10.json",
+    "url": "https://api.getbible.net/v2/cut/27/10.json",
     "sha": "0150bea74ea94e6132cc1450c68dd51bb19f0186"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "但以理書",
     "chapter": 11,
     "name": "但以理書 11",
-    "url": "https://getbible.net/v2/cut/27/11.json",
+    "url": "https://api.getbible.net/v2/cut/27/11.json",
     "sha": "317346c9c2c9f3078e699bd395b768cb95cc0eae"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "但以理書",
     "chapter": 12,
     "name": "但以理書 12",
-    "url": "https://getbible.net/v2/cut/27/12.json",
+    "url": "https://api.getbible.net/v2/cut/27/12.json",
     "sha": "085e54d4f9b71722cb2efafc97a379f126395902"
   }
 }

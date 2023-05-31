@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/cep/61/1.json",
+    "url": "https://api.getbible.net/v2/cep/61/1.json",
     "sha": "e44e06f1b5407d03a29bcc9ce38ece1cbf89ce5b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/cep/61/2.json",
+    "url": "https://api.getbible.net/v2/cep/61/2.json",
     "sha": "2be553e2da9041997cf3ba4b1b31a9edf5d5d185"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/cep/61/3.json",
+    "url": "https://api.getbible.net/v2/cep/61/3.json",
     "sha": "278bdb1b27359c10634232e0ba348a4259c956a0"
   }
 }

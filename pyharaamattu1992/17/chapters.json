@@ -10,8 +10,8 @@
     "book_name": "Esther",
     "chapter": 1,
     "name": "Esther 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/1.json",
-    "sha": "9f1ec05a4c5c66d24ed3bf74ecfb4fd535e92b22"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/1.json",
+    "sha": "353fd25ab99ba8a7b647923be5f7ae7829814140"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Esther",
     "chapter": 2,
     "name": "Esther 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/2.json",
-    "sha": "bc3f64a3ff30486cb1e9b49c05fbb6069631329e"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/2.json",
+    "sha": "57ad6efd554b75731c63aee6890d51cb02aaf370"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,8 +38,8 @@
     "book_name": "Esther",
     "chapter": 3,
     "name": "Esther 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/3.json",
-    "sha": "9a194d402f50562faee432b59b2a2915ea97ce2f"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/3.json",
+    "sha": "006fb176826b0efbd9defb44714d685d5a111f05"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -52,8 +52,8 @@
     "book_name": "Esther",
     "chapter": 4,
     "name": "Esther 4",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/4.json",
-    "sha": "87566af82a60f5b03a2474993700b97293b80f40"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/4.json",
+    "sha": "fcd79c0d8897b53d4d47b6b09de59a6e2cbe3981"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -66,8 +66,8 @@
     "book_name": "Esther",
     "chapter": 5,
     "name": "Esther 5",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/5.json",
-    "sha": "27b6a5c1017a52bc330fa28c430bcbb2ed5d4eb4"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/5.json",
+    "sha": "5305e237e8a9bc488ba3d0b33aebe07a7f917eff"
   },
   "6": {
     "translation": "Pyha Raamattu (1992)",
@@ -80,8 +80,8 @@
     "book_name": "Esther",
     "chapter": 6,
     "name": "Esther 6",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/6.json",
-    "sha": "616e9188bff969744c6f5ae6f934c9f744c55ca6"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/6.json",
+    "sha": "12ea307be5e004331ea31eb70f0da1dd7ad6db70"
   },
   "7": {
     "translation": "Pyha Raamattu (1992)",
@@ -94,8 +94,8 @@
     "book_name": "Esther",
     "chapter": 7,
     "name": "Esther 7",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/7.json",
-    "sha": "eb0902d1b715c8e6b2d9d0fcd69d0cf76fa1efd3"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/7.json",
+    "sha": "743d69111278ae987855de56f4603efecfa226dd"
   },
   "8": {
     "translation": "Pyha Raamattu (1992)",
@@ -108,8 +108,8 @@
     "book_name": "Esther",
     "chapter": 8,
     "name": "Esther 8",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/8.json",
-    "sha": "df339276a465dc3215d0cd6505f21e67127f2313"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/8.json",
+    "sha": "774896f2887318a6230014411b298fbdd93e5d97"
   },
   "9": {
     "translation": "Pyha Raamattu (1992)",
@@ -122,8 +122,8 @@
     "book_name": "Esther",
     "chapter": 9,
     "name": "Esther 9",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/9.json",
-    "sha": "370ba24536ffbe1f2cc010808ce4b664b69bb506"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/9.json",
+    "sha": "bd53ef74f6d6a385518c5bac362ee87ccd3a4497"
   },
   "10": {
     "translation": "Pyha Raamattu (1992)",
@@ -136,7 +136,7 @@
     "book_name": "Esther",
     "chapter": 10,
     "name": "Esther 10",
-    "url": "https://getbible.net/v2/pyharaamattu1992/17/10.json",
-    "sha": "bea13f4bd340f5ff3e292c2e65590e536fc7ba32"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/17/10.json",
+    "sha": "1aac21ed2326bd342bbbe4f1ba34b8befedfca6f"
   }
 }

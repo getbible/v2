@@ -10,7 +10,7 @@
     "book_name": "Colossians",
     "chapter": 1,
     "name": "Colossians 1",
-    "url": "https://getbible.net/v2/moderngreek/51/1.json",
+    "url": "https://api.getbible.net/v2/moderngreek/51/1.json",
     "sha": "39c1a4c9837518fdf608a10ffe1abb9c4b64e32a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Colossians",
     "chapter": 2,
     "name": "Colossians 2",
-    "url": "https://getbible.net/v2/moderngreek/51/2.json",
+    "url": "https://api.getbible.net/v2/moderngreek/51/2.json",
     "sha": "649a6037f84edb77b2ea45fdcb80311b07d1cfe7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Colossians",
     "chapter": 3,
     "name": "Colossians 3",
-    "url": "https://getbible.net/v2/moderngreek/51/3.json",
+    "url": "https://api.getbible.net/v2/moderngreek/51/3.json",
     "sha": "43b3fcba590b4c8a21efd9ea0ee45e9fb8d97e27"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Colossians",
     "chapter": 4,
     "name": "Colossians 4",
-    "url": "https://getbible.net/v2/moderngreek/51/4.json",
+    "url": "https://api.getbible.net/v2/moderngreek/51/4.json",
     "sha": "3cd6b00f15d3c6b7d9341d98989130ef67ccae6e"
   }
 }

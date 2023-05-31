@@ -10,7 +10,7 @@
     "book_name": "1 John",
     "chapter": 1,
     "name": "1 John 1",
-    "url": "https://getbible.net/v2/breton/62/1.json",
+    "url": "https://api.getbible.net/v2/breton/62/1.json",
     "sha": "878445efdc8e8ce45adcb03f1add45061a115418"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 John",
     "chapter": 2,
     "name": "1 John 2",
-    "url": "https://getbible.net/v2/breton/62/2.json",
+    "url": "https://api.getbible.net/v2/breton/62/2.json",
     "sha": "83e20bf49167dc5f20fa33f4b054338ea92db62c"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 John",
     "chapter": 3,
     "name": "1 John 3",
-    "url": "https://getbible.net/v2/breton/62/3.json",
+    "url": "https://api.getbible.net/v2/breton/62/3.json",
     "sha": "023bf436d497075be01bc380eea5510fe72b1c38"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 John",
     "chapter": 4,
     "name": "1 John 4",
-    "url": "https://getbible.net/v2/breton/62/4.json",
+    "url": "https://api.getbible.net/v2/breton/62/4.json",
     "sha": "c0468026eb753c39d64aa118311b91b1f2841e7a"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 John",
     "chapter": 5,
     "name": "1 John 5",
-    "url": "https://getbible.net/v2/breton/62/5.json",
+    "url": "https://api.getbible.net/v2/breton/62/5.json",
     "sha": "56d11fb70870e63f801a3ec715a76df1fa65639e"
   }
 }

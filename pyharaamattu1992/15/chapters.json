@@ -10,8 +10,8 @@
     "book_name": "Ezra",
     "chapter": 1,
     "name": "Ezra 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/1.json",
-    "sha": "dd1545d7298758bf38ffe80a1e53974107c2fe20"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/1.json",
+    "sha": "120cca76b566097c4bf1132fc60ca23bf8e1e2ca"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Ezra",
     "chapter": 2,
     "name": "Ezra 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/2.json",
-    "sha": "29e386897aca99eb7f2a90791e0f262b72c8ff57"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/2.json",
+    "sha": "939fa3a95d7f871d2a36273c6d993ad96e6f48ce"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,8 +38,8 @@
     "book_name": "Ezra",
     "chapter": 3,
     "name": "Ezra 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/3.json",
-    "sha": "257e540ec6188d547232dbde830c0d471cbeac57"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/3.json",
+    "sha": "dc962a26ba294399ea7c5748e2c9639333f7b26a"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -52,8 +52,8 @@
     "book_name": "Ezra",
     "chapter": 4,
     "name": "Ezra 4",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/4.json",
-    "sha": "aa6825df54dd847a44222d6c8dea691202f26254"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/4.json",
+    "sha": "c1927a4c6f4b765b9d81eea55d14789362808383"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -66,8 +66,8 @@
     "book_name": "Ezra",
     "chapter": 5,
     "name": "Ezra 5",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/5.json",
-    "sha": "c3b6a1b81b75c3f6c9f57a9af5577afb6967c960"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/5.json",
+    "sha": "5fd247485893d6b341600b2b7719b49f042071e1"
   },
   "6": {
     "translation": "Pyha Raamattu (1992)",
@@ -80,8 +80,8 @@
     "book_name": "Ezra",
     "chapter": 6,
     "name": "Ezra 6",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/6.json",
-    "sha": "5217bc0c95938ca3a71426aa1ad466ecd0c7a087"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/6.json",
+    "sha": "cd2537975228ab448f958603362945c2bc1ef6ea"
   },
   "7": {
     "translation": "Pyha Raamattu (1992)",
@@ -94,8 +94,8 @@
     "book_name": "Ezra",
     "chapter": 7,
     "name": "Ezra 7",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/7.json",
-    "sha": "919292ef92bcdb619c2cb94544f902c91d46c1af"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/7.json",
+    "sha": "41b3beb786d7913a8bba5ce87ced8e864570ab09"
   },
   "8": {
     "translation": "Pyha Raamattu (1992)",
@@ -108,8 +108,8 @@
     "book_name": "Ezra",
     "chapter": 8,
     "name": "Ezra 8",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/8.json",
-    "sha": "4ffe322f40b2cc89108c513a4175855c479a3cd0"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/8.json",
+    "sha": "b278559596807aaa28a027a8ad260da78bb30fb9"
   },
   "9": {
     "translation": "Pyha Raamattu (1992)",
@@ -122,8 +122,8 @@
     "book_name": "Ezra",
     "chapter": 9,
     "name": "Ezra 9",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/9.json",
-    "sha": "0c2c875b87033c7546125fcee7e5ce0e2f7c5861"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/9.json",
+    "sha": "8616aeb9c682ac6412a78c8ab9849ebd84abd541"
   },
   "10": {
     "translation": "Pyha Raamattu (1992)",
@@ -136,7 +136,7 @@
     "book_name": "Ezra",
     "chapter": 10,
     "name": "Ezra 10",
-    "url": "https://getbible.net/v2/pyharaamattu1992/15/10.json",
-    "sha": "5356257883895e4b8dde8a64e6a3f6c4dcb32198"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/15/10.json",
+    "sha": "9956228b4e7fa9a75676e85641779259242e999f"
   }
 }

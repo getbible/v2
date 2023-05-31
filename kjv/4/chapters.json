@@ -10,7 +10,7 @@
     "book_name": "Numbers",
     "chapter": 1,
     "name": "Numbers 1",
-    "url": "https://getbible.net/v2/kjv/4/1.json",
+    "url": "https://api.getbible.net/v2/kjv/4/1.json",
     "sha": "dac778451fc707da5ff533fab6119f010bcf9689"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Numbers",
     "chapter": 2,
     "name": "Numbers 2",
-    "url": "https://getbible.net/v2/kjv/4/2.json",
+    "url": "https://api.getbible.net/v2/kjv/4/2.json",
     "sha": "e770ab81c219d694588ecd38fd486236dcfddc11"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Numbers",
     "chapter": 3,
     "name": "Numbers 3",
-    "url": "https://getbible.net/v2/kjv/4/3.json",
+    "url": "https://api.getbible.net/v2/kjv/4/3.json",
     "sha": "a24bc9538e6d3c2ae593962ba08ab9e34832e600"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Numbers",
     "chapter": 4,
     "name": "Numbers 4",
-    "url": "https://getbible.net/v2/kjv/4/4.json",
+    "url": "https://api.getbible.net/v2/kjv/4/4.json",
     "sha": "6fa2f4a5472d1b9331df5b4fd9dc7cc3fb8b99fb"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Numbers",
     "chapter": 5,
     "name": "Numbers 5",
-    "url": "https://getbible.net/v2/kjv/4/5.json",
+    "url": "https://api.getbible.net/v2/kjv/4/5.json",
     "sha": "dee6bdbe1c49b4dfed61fa8e538e017c2e52c85d"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Numbers",
     "chapter": 6,
     "name": "Numbers 6",
-    "url": "https://getbible.net/v2/kjv/4/6.json",
+    "url": "https://api.getbible.net/v2/kjv/4/6.json",
     "sha": "f8d45ba360201590a6d659b3b4f933a30c12eef3"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Numbers",
     "chapter": 7,
     "name": "Numbers 7",
-    "url": "https://getbible.net/v2/kjv/4/7.json",
+    "url": "https://api.getbible.net/v2/kjv/4/7.json",
     "sha": "58b7ca8c6c84f1f890604d818b62ab0eeb6a2d19"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Numbers",
     "chapter": 8,
     "name": "Numbers 8",
-    "url": "https://getbible.net/v2/kjv/4/8.json",
+    "url": "https://api.getbible.net/v2/kjv/4/8.json",
     "sha": "2a85c637d53d79055384f45207998b9a4140f24a"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Numbers",
     "chapter": 9,
     "name": "Numbers 9",
-    "url": "https://getbible.net/v2/kjv/4/9.json",
+    "url": "https://api.getbible.net/v2/kjv/4/9.json",
     "sha": "29709a4efbf72139f02c4823e3f22d73fe4856c0"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Numbers",
     "chapter": 10,
     "name": "Numbers 10",
-    "url": "https://getbible.net/v2/kjv/4/10.json",
+    "url": "https://api.getbible.net/v2/kjv/4/10.json",
     "sha": "eed1960e1669a25ae8beafef3bcd3ab85d7b6d37"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Numbers",
     "chapter": 11,
     "name": "Numbers 11",
-    "url": "https://getbible.net/v2/kjv/4/11.json",
+    "url": "https://api.getbible.net/v2/kjv/4/11.json",
     "sha": "38b2f4b922625c6b5e780f25eac80853c9c8295c"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Numbers",
     "chapter": 12,
     "name": "Numbers 12",
-    "url": "https://getbible.net/v2/kjv/4/12.json",
+    "url": "https://api.getbible.net/v2/kjv/4/12.json",
     "sha": "a398de0180365d0354a429766f4dcc1002cf5e45"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Numbers",
     "chapter": 13,
     "name": "Numbers 13",
-    "url": "https://getbible.net/v2/kjv/4/13.json",
+    "url": "https://api.getbible.net/v2/kjv/4/13.json",
     "sha": "e6fe68f952a86a405d1eae67e4d406e0dd680b3f"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Numbers",
     "chapter": 14,
     "name": "Numbers 14",
-    "url": "https://getbible.net/v2/kjv/4/14.json",
+    "url": "https://api.getbible.net/v2/kjv/4/14.json",
     "sha": "1ad12572269e1bfd3787b72be68555dd4aae64bf"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Numbers",
     "chapter": 15,
     "name": "Numbers 15",
-    "url": "https://getbible.net/v2/kjv/4/15.json",
+    "url": "https://api.getbible.net/v2/kjv/4/15.json",
     "sha": "c2d053a678caa77fadc4acfbdd0c47d0a59341fd"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Numbers",
     "chapter": 16,
     "name": "Numbers 16",
-    "url": "https://getbible.net/v2/kjv/4/16.json",
+    "url": "https://api.getbible.net/v2/kjv/4/16.json",
     "sha": "d3d132f369993ab306ee3131b42d320786c73c08"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Numbers",
     "chapter": 17,
     "name": "Numbers 17",
-    "url": "https://getbible.net/v2/kjv/4/17.json",
+    "url": "https://api.getbible.net/v2/kjv/4/17.json",
     "sha": "6d670d5b00fe43940d65c6073398bb23626af6cf"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Numbers",
     "chapter": 18,
     "name": "Numbers 18",
-    "url": "https://getbible.net/v2/kjv/4/18.json",
+    "url": "https://api.getbible.net/v2/kjv/4/18.json",
     "sha": "576976c61057f73e8ffc71b8f7aaa51415887b19"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Numbers",
     "chapter": 19,
     "name": "Numbers 19",
-    "url": "https://getbible.net/v2/kjv/4/19.json",
+    "url": "https://api.getbible.net/v2/kjv/4/19.json",
     "sha": "7439923d83d1f112eadc90b6376f3fa34f269f16"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Numbers",
     "chapter": 20,
     "name": "Numbers 20",
-    "url": "https://getbible.net/v2/kjv/4/20.json",
+    "url": "https://api.getbible.net/v2/kjv/4/20.json",
     "sha": "b1723db1c444e5d27d2a8cacf109c892bd8258a9"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Numbers",
     "chapter": 21,
     "name": "Numbers 21",
-    "url": "https://getbible.net/v2/kjv/4/21.json",
+    "url": "https://api.getbible.net/v2/kjv/4/21.json",
     "sha": "7f9ea341f0bfca7eb7d7be5b874c3c36a1a21c28"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Numbers",
     "chapter": 22,
     "name": "Numbers 22",
-    "url": "https://getbible.net/v2/kjv/4/22.json",
+    "url": "https://api.getbible.net/v2/kjv/4/22.json",
     "sha": "0c0acedc883b1c283b168f4d87512161e145a6f5"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Numbers",
     "chapter": 23,
     "name": "Numbers 23",
-    "url": "https://getbible.net/v2/kjv/4/23.json",
+    "url": "https://api.getbible.net/v2/kjv/4/23.json",
     "sha": "ea6e175a347b464fc17e2376f362359a21f7d10d"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Numbers",
     "chapter": 24,
     "name": "Numbers 24",
-    "url": "https://getbible.net/v2/kjv/4/24.json",
+    "url": "https://api.getbible.net/v2/kjv/4/24.json",
     "sha": "7c78d96d61bc3302ee9727411314dd54c85d4cee"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Numbers",
     "chapter": 25,
     "name": "Numbers 25",
-    "url": "https://getbible.net/v2/kjv/4/25.json",
+    "url": "https://api.getbible.net/v2/kjv/4/25.json",
     "sha": "00cd08ef5696e21a00776dd0bce7f1d04a66f6cd"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Numbers",
     "chapter": 26,
     "name": "Numbers 26",
-    "url": "https://getbible.net/v2/kjv/4/26.json",
+    "url": "https://api.getbible.net/v2/kjv/4/26.json",
     "sha": "2f8030ffdec8ad7f8b805288be98c9c5a4e8068e"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Numbers",
     "chapter": 27,
     "name": "Numbers 27",
-    "url": "https://getbible.net/v2/kjv/4/27.json",
+    "url": "https://api.getbible.net/v2/kjv/4/27.json",
     "sha": "d87a0645f63368f71c086351eedcdf4bbe9440ad"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Numbers",
     "chapter": 28,
     "name": "Numbers 28",
-    "url": "https://getbible.net/v2/kjv/4/28.json",
+    "url": "https://api.getbible.net/v2/kjv/4/28.json",
     "sha": "c6cd84dd64fcb45e0149a4900bffdce92b0445ce"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Numbers",
     "chapter": 29,
     "name": "Numbers 29",
-    "url": "https://getbible.net/v2/kjv/4/29.json",
+    "url": "https://api.getbible.net/v2/kjv/4/29.json",
     "sha": "e80614523f57dd95bc83f9cda4fd2117a5ba3b83"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Numbers",
     "chapter": 30,
     "name": "Numbers 30",
-    "url": "https://getbible.net/v2/kjv/4/30.json",
+    "url": "https://api.getbible.net/v2/kjv/4/30.json",
     "sha": "7ecb7303431524d995f3fec4e27eb9dc7aa74e36"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Numbers",
     "chapter": 31,
     "name": "Numbers 31",
-    "url": "https://getbible.net/v2/kjv/4/31.json",
+    "url": "https://api.getbible.net/v2/kjv/4/31.json",
     "sha": "de6f49f21a821667b66807f7d3f9dd3ab5db91d6"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Numbers",
     "chapter": 32,
     "name": "Numbers 32",
-    "url": "https://getbible.net/v2/kjv/4/32.json",
+    "url": "https://api.getbible.net/v2/kjv/4/32.json",
     "sha": "26cb2462514a64abc84d1fa094b92f365878a60e"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Numbers",
     "chapter": 33,
     "name": "Numbers 33",
-    "url": "https://getbible.net/v2/kjv/4/33.json",
+    "url": "https://api.getbible.net/v2/kjv/4/33.json",
     "sha": "df0fb5c7ea33c39b972e301b5a341696c144b254"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Numbers",
     "chapter": 34,
     "name": "Numbers 34",
-    "url": "https://getbible.net/v2/kjv/4/34.json",
+    "url": "https://api.getbible.net/v2/kjv/4/34.json",
     "sha": "1c348f0848d3970044106ef58afe35b929eb6c67"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Numbers",
     "chapter": 35,
     "name": "Numbers 35",
-    "url": "https://getbible.net/v2/kjv/4/35.json",
+    "url": "https://api.getbible.net/v2/kjv/4/35.json",
     "sha": "84724064abac607e68760e2c1eca40cdb9fa9395"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Numbers",
     "chapter": 36,
     "name": "Numbers 36",
-    "url": "https://getbible.net/v2/kjv/4/36.json",
+    "url": "https://api.getbible.net/v2/kjv/4/36.json",
     "sha": "e58055e994b7fa20c95747bfe8a3809e35db10fd"
   }
 }

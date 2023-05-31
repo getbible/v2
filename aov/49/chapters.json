@@ -10,7 +10,7 @@
     "book_name": "Efesiërs",
     "chapter": 1,
     "name": "Efesiërs 1",
-    "url": "https://getbible.net/v2/aov/49/1.json",
+    "url": "https://api.getbible.net/v2/aov/49/1.json",
     "sha": "1091b0c8199959ee585d6d5fb3b35ec336d3945b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Efesiërs",
     "chapter": 2,
     "name": "Efesiërs 2",
-    "url": "https://getbible.net/v2/aov/49/2.json",
+    "url": "https://api.getbible.net/v2/aov/49/2.json",
     "sha": "5b34eb253cb4b2639cf27718b1e985323e36afd0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Efesiërs",
     "chapter": 3,
     "name": "Efesiërs 3",
-    "url": "https://getbible.net/v2/aov/49/3.json",
+    "url": "https://api.getbible.net/v2/aov/49/3.json",
     "sha": "b3acc05bd2296b74bfea62c84775169f04b82286"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Efesiërs",
     "chapter": 4,
     "name": "Efesiërs 4",
-    "url": "https://getbible.net/v2/aov/49/4.json",
+    "url": "https://api.getbible.net/v2/aov/49/4.json",
     "sha": "27cdad421f1bbe63849051a48dacf501d2d500ed"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Efesiërs",
     "chapter": 5,
     "name": "Efesiërs 5",
-    "url": "https://getbible.net/v2/aov/49/5.json",
+    "url": "https://api.getbible.net/v2/aov/49/5.json",
     "sha": "c467c57c690c564c23df8d4d6d987cc5ede81c59"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Efesiërs",
     "chapter": 6,
     "name": "Efesiërs 6",
-    "url": "https://getbible.net/v2/aov/49/6.json",
+    "url": "https://api.getbible.net/v2/aov/49/6.json",
     "sha": "78aaad4b100a86e7f989012bdf48aa4aded1c0a4"
   }
 }

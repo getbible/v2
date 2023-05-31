@@ -10,7 +10,7 @@
     "book_name": "Psalms",
     "chapter": 1,
     "name": "Psalms 1",
-    "url": "https://getbible.net/v2/arabicsv/19/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/1.json",
     "sha": "c9d7d87b549c3d9ed8db93d6b73c578ec0e25c0d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Psalms",
     "chapter": 2,
     "name": "Psalms 2",
-    "url": "https://getbible.net/v2/arabicsv/19/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/2.json",
     "sha": "76d4b6f4e160b01ef024f82af46829adc55e80d8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Psalms",
     "chapter": 3,
     "name": "Psalms 3",
-    "url": "https://getbible.net/v2/arabicsv/19/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/3.json",
     "sha": "677d874540b3fda68c61f464e46b2c5e7b3e314b"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Psalms",
     "chapter": 4,
     "name": "Psalms 4",
-    "url": "https://getbible.net/v2/arabicsv/19/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/4.json",
     "sha": "9a206cb53636a71fdf65964b7699ec3f5dd5cb5f"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Psalms",
     "chapter": 5,
     "name": "Psalms 5",
-    "url": "https://getbible.net/v2/arabicsv/19/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/5.json",
     "sha": "fec9c92db9a9e680086ef8056a3cb34fc135dab0"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Psalms",
     "chapter": 6,
     "name": "Psalms 6",
-    "url": "https://getbible.net/v2/arabicsv/19/6.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/6.json",
     "sha": "d4224022dabfb0a852dc73dcdaec63d0d3be9436"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Psalms",
     "chapter": 7,
     "name": "Psalms 7",
-    "url": "https://getbible.net/v2/arabicsv/19/7.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/7.json",
     "sha": "2ce5b4ef8a91063fbad3fc4c33e5731c793b1cdb"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Psalms",
     "chapter": 8,
     "name": "Psalms 8",
-    "url": "https://getbible.net/v2/arabicsv/19/8.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/8.json",
     "sha": "b51d34fa1a597029c00ef2c3ab31b72461ad1823"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Psalms",
     "chapter": 9,
     "name": "Psalms 9",
-    "url": "https://getbible.net/v2/arabicsv/19/9.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/9.json",
     "sha": "3d4355738a692c027f46ea9dc5c53b3f626c34ff"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Psalms",
     "chapter": 10,
     "name": "Psalms 10",
-    "url": "https://getbible.net/v2/arabicsv/19/10.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/10.json",
     "sha": "aba4891c0b326ca780bd7df375aa9ab44101cf9b"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Psalms",
     "chapter": 11,
     "name": "Psalms 11",
-    "url": "https://getbible.net/v2/arabicsv/19/11.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/11.json",
     "sha": "9c071d49a752bbb704621580f45d84d344d44d68"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Psalms",
     "chapter": 12,
     "name": "Psalms 12",
-    "url": "https://getbible.net/v2/arabicsv/19/12.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/12.json",
     "sha": "7fc112de9e4e0295cff2258cd1b3b45fad4d23df"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Psalms",
     "chapter": 13,
     "name": "Psalms 13",
-    "url": "https://getbible.net/v2/arabicsv/19/13.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/13.json",
     "sha": "3b76a49ac2940af8346e97f7120be3a0e585379d"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Psalms",
     "chapter": 14,
     "name": "Psalms 14",
-    "url": "https://getbible.net/v2/arabicsv/19/14.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/14.json",
     "sha": "90df0ddc793e2890b30643f219e4bb78cf04a569"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Psalms",
     "chapter": 15,
     "name": "Psalms 15",
-    "url": "https://getbible.net/v2/arabicsv/19/15.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/15.json",
     "sha": "6ea57935a94a368cefbc1cd8d8ef3dbfddcb2c1b"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Psalms",
     "chapter": 16,
     "name": "Psalms 16",
-    "url": "https://getbible.net/v2/arabicsv/19/16.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/16.json",
     "sha": "c12ef633fe5dd88a4934101d7a8074fd1c064fcc"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Psalms",
     "chapter": 17,
     "name": "Psalms 17",
-    "url": "https://getbible.net/v2/arabicsv/19/17.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/17.json",
     "sha": "00d925efba6b4dcf5a657b3254bd78b0352b9dc5"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Psalms",
     "chapter": 18,
     "name": "Psalms 18",
-    "url": "https://getbible.net/v2/arabicsv/19/18.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/18.json",
     "sha": "73f8145d81ec3849a1cfdffcf45d4dc2ba1cb876"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Psalms",
     "chapter": 19,
     "name": "Psalms 19",
-    "url": "https://getbible.net/v2/arabicsv/19/19.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/19.json",
     "sha": "7a002c137de42c2372bda9b8ada50c384ebfd83a"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Psalms",
     "chapter": 20,
     "name": "Psalms 20",
-    "url": "https://getbible.net/v2/arabicsv/19/20.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/20.json",
     "sha": "2eed85079c0e21095251feaa66cc1443a2176a75"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Psalms",
     "chapter": 21,
     "name": "Psalms 21",
-    "url": "https://getbible.net/v2/arabicsv/19/21.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/21.json",
     "sha": "247b7404ee8b20cf46c047b4cee0a87effc5b4b8"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Psalms",
     "chapter": 22,
     "name": "Psalms 22",
-    "url": "https://getbible.net/v2/arabicsv/19/22.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/22.json",
     "sha": "462db3af0d6f8cfa1859056e001640a6d2fd3ce3"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Psalms",
     "chapter": 23,
     "name": "Psalms 23",
-    "url": "https://getbible.net/v2/arabicsv/19/23.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/23.json",
     "sha": "6764daa1ba9d30bc07ab223b318ee51c1ee72422"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Psalms",
     "chapter": 24,
     "name": "Psalms 24",
-    "url": "https://getbible.net/v2/arabicsv/19/24.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/24.json",
     "sha": "9f48b9ab66f0af362b11a55e1b45460434c24181"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Psalms",
     "chapter": 25,
     "name": "Psalms 25",
-    "url": "https://getbible.net/v2/arabicsv/19/25.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/25.json",
     "sha": "32a82d3548dc96e8c1242c58d52588c6ccd8667f"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Psalms",
     "chapter": 26,
     "name": "Psalms 26",
-    "url": "https://getbible.net/v2/arabicsv/19/26.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/26.json",
     "sha": "00ed47ccffd945aab9c5ba97576604b74e23ceb3"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Psalms",
     "chapter": 27,
     "name": "Psalms 27",
-    "url": "https://getbible.net/v2/arabicsv/19/27.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/27.json",
     "sha": "b9247cdf2c053459a233556cb81b8b8d2b631fa3"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Psalms",
     "chapter": 28,
     "name": "Psalms 28",
-    "url": "https://getbible.net/v2/arabicsv/19/28.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/28.json",
     "sha": "cd79da8e6c03cc1a97bcc06084d7bc6d8766045e"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Psalms",
     "chapter": 29,
     "name": "Psalms 29",
-    "url": "https://getbible.net/v2/arabicsv/19/29.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/29.json",
     "sha": "c05731d79e57192af4c9af0ceb0fb84096ce5547"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Psalms",
     "chapter": 30,
     "name": "Psalms 30",
-    "url": "https://getbible.net/v2/arabicsv/19/30.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/30.json",
     "sha": "64a3c6666243e4331920487265e43935c5b3a365"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Psalms",
     "chapter": 31,
     "name": "Psalms 31",
-    "url": "https://getbible.net/v2/arabicsv/19/31.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/31.json",
     "sha": "72b4072d42ff854de321ee2fdd4755d260f8f82d"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Psalms",
     "chapter": 32,
     "name": "Psalms 32",
-    "url": "https://getbible.net/v2/arabicsv/19/32.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/32.json",
     "sha": "0d1a683b905f531830abc8639a2b4986ddc4b378"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Psalms",
     "chapter": 33,
     "name": "Psalms 33",
-    "url": "https://getbible.net/v2/arabicsv/19/33.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/33.json",
     "sha": "30a3a0c7f51b3515b005ad903d1d3cb18806f965"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Psalms",
     "chapter": 34,
     "name": "Psalms 34",
-    "url": "https://getbible.net/v2/arabicsv/19/34.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/34.json",
     "sha": "00b38599289ef95265839b9e3e126a3b8abc9aca"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Psalms",
     "chapter": 35,
     "name": "Psalms 35",
-    "url": "https://getbible.net/v2/arabicsv/19/35.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/35.json",
     "sha": "be531b0be57dec512b505c699f21649ee45552c1"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Psalms",
     "chapter": 36,
     "name": "Psalms 36",
-    "url": "https://getbible.net/v2/arabicsv/19/36.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/36.json",
     "sha": "7cbe38946d771eebbaf0c534e31468fe980198d3"
   },
   "37": {
@@ -514,7 +514,7 @@
     "book_name": "Psalms",
     "chapter": 37,
     "name": "Psalms 37",
-    "url": "https://getbible.net/v2/arabicsv/19/37.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/37.json",
     "sha": "1e5883625f82bf0d8a05394120f0020e5b83f763"
   },
   "38": {
@@ -528,7 +528,7 @@
     "book_name": "Psalms",
     "chapter": 38,
     "name": "Psalms 38",
-    "url": "https://getbible.net/v2/arabicsv/19/38.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/38.json",
     "sha": "5db15978fd6cee176c33296e3b824d39c331c045"
   },
   "39": {
@@ -542,7 +542,7 @@
     "book_name": "Psalms",
     "chapter": 39,
     "name": "Psalms 39",
-    "url": "https://getbible.net/v2/arabicsv/19/39.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/39.json",
     "sha": "03111f159d67c239452ddfe02bc0e0b1dd5822c0"
   },
   "40": {
@@ -556,7 +556,7 @@
     "book_name": "Psalms",
     "chapter": 40,
     "name": "Psalms 40",
-    "url": "https://getbible.net/v2/arabicsv/19/40.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/40.json",
     "sha": "a7e41ffe32de267bd5d272695e16add305ce1c01"
   },
   "41": {
@@ -570,7 +570,7 @@
     "book_name": "Psalms",
     "chapter": 41,
     "name": "Psalms 41",
-    "url": "https://getbible.net/v2/arabicsv/19/41.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/41.json",
     "sha": "0e07492e12e0ed899b7e0d66cea2c571c2688d1a"
   },
   "42": {
@@ -584,7 +584,7 @@
     "book_name": "Psalms",
     "chapter": 42,
     "name": "Psalms 42",
-    "url": "https://getbible.net/v2/arabicsv/19/42.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/42.json",
     "sha": "135a18210605bc689e996d671476cb5a35ee1360"
   },
   "43": {
@@ -598,7 +598,7 @@
     "book_name": "Psalms",
     "chapter": 43,
     "name": "Psalms 43",
-    "url": "https://getbible.net/v2/arabicsv/19/43.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/43.json",
     "sha": "13d249e31a2e76db663d2fd64df86fee398ce7c5"
   },
   "44": {
@@ -612,7 +612,7 @@
     "book_name": "Psalms",
     "chapter": 44,
     "name": "Psalms 44",
-    "url": "https://getbible.net/v2/arabicsv/19/44.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/44.json",
     "sha": "07852bcfbc3bd0c85538fd8436b3058c53d67743"
   },
   "45": {
@@ -626,7 +626,7 @@
     "book_name": "Psalms",
     "chapter": 45,
     "name": "Psalms 45",
-    "url": "https://getbible.net/v2/arabicsv/19/45.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/45.json",
     "sha": "faf7c377bf37bd93f0291ef639220e5b85112447"
   },
   "46": {
@@ -640,7 +640,7 @@
     "book_name": "Psalms",
     "chapter": 46,
     "name": "Psalms 46",
-    "url": "https://getbible.net/v2/arabicsv/19/46.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/46.json",
     "sha": "a7fb9b33c36bd622c291c8170724601b0426f807"
   },
   "47": {
@@ -654,7 +654,7 @@
     "book_name": "Psalms",
     "chapter": 47,
     "name": "Psalms 47",
-    "url": "https://getbible.net/v2/arabicsv/19/47.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/47.json",
     "sha": "ee7c6061267e9ec94d0dc409b11aac727d571fbb"
   },
   "48": {
@@ -668,7 +668,7 @@
     "book_name": "Psalms",
     "chapter": 48,
     "name": "Psalms 48",
-    "url": "https://getbible.net/v2/arabicsv/19/48.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/48.json",
     "sha": "fc1cbe47ed0b06c271fe856aba5b887524abdf00"
   },
   "49": {
@@ -682,7 +682,7 @@
     "book_name": "Psalms",
     "chapter": 49,
     "name": "Psalms 49",
-    "url": "https://getbible.net/v2/arabicsv/19/49.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/49.json",
     "sha": "2e996a17bd99fad24dc2c4740510b3d74ba25790"
   },
   "50": {
@@ -696,7 +696,7 @@
     "book_name": "Psalms",
     "chapter": 50,
     "name": "Psalms 50",
-    "url": "https://getbible.net/v2/arabicsv/19/50.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/50.json",
     "sha": "51366d8c35873d8cf2d4dfbdf01370b23d70a583"
   },
   "51": {
@@ -710,7 +710,7 @@
     "book_name": "Psalms",
     "chapter": 51,
     "name": "Psalms 51",
-    "url": "https://getbible.net/v2/arabicsv/19/51.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/51.json",
     "sha": "b8ff4cf539058b29d20a4071c4aba4d8fd4a7cad"
   },
   "52": {
@@ -724,7 +724,7 @@
     "book_name": "Psalms",
     "chapter": 52,
     "name": "Psalms 52",
-    "url": "https://getbible.net/v2/arabicsv/19/52.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/52.json",
     "sha": "2b4371e34d71386609616aaef1b6f8977ded4b69"
   },
   "53": {
@@ -738,7 +738,7 @@
     "book_name": "Psalms",
     "chapter": 53,
     "name": "Psalms 53",
-    "url": "https://getbible.net/v2/arabicsv/19/53.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/53.json",
     "sha": "946f931beb9210986529f192802a1eeca4cc4ba9"
   },
   "54": {
@@ -752,7 +752,7 @@
     "book_name": "Psalms",
     "chapter": 54,
     "name": "Psalms 54",
-    "url": "https://getbible.net/v2/arabicsv/19/54.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/54.json",
     "sha": "bab0ae0b74c6d113692e542e025f589ceeb0000b"
   },
   "55": {
@@ -766,7 +766,7 @@
     "book_name": "Psalms",
     "chapter": 55,
     "name": "Psalms 55",
-    "url": "https://getbible.net/v2/arabicsv/19/55.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/55.json",
     "sha": "684b889c2ff581831488f4897ce170ef32fd6a3b"
   },
   "56": {
@@ -780,7 +780,7 @@
     "book_name": "Psalms",
     "chapter": 56,
     "name": "Psalms 56",
-    "url": "https://getbible.net/v2/arabicsv/19/56.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/56.json",
     "sha": "36fdded1a46e498715755c2e275a11a2894c5da8"
   },
   "57": {
@@ -794,7 +794,7 @@
     "book_name": "Psalms",
     "chapter": 57,
     "name": "Psalms 57",
-    "url": "https://getbible.net/v2/arabicsv/19/57.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/57.json",
     "sha": "a7ee5a52acfaae2430282586e09da47ecea6c73d"
   },
   "58": {
@@ -808,7 +808,7 @@
     "book_name": "Psalms",
     "chapter": 58,
     "name": "Psalms 58",
-    "url": "https://getbible.net/v2/arabicsv/19/58.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/58.json",
     "sha": "5f2f61bee49da87e230de39e243aaae2a2b0e624"
   },
   "59": {
@@ -822,7 +822,7 @@
     "book_name": "Psalms",
     "chapter": 59,
     "name": "Psalms 59",
-    "url": "https://getbible.net/v2/arabicsv/19/59.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/59.json",
     "sha": "0324e4bef86d050f6b6546ae9d3f96c3ea1d77ce"
   },
   "60": {
@@ -836,7 +836,7 @@
     "book_name": "Psalms",
     "chapter": 60,
     "name": "Psalms 60",
-    "url": "https://getbible.net/v2/arabicsv/19/60.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/60.json",
     "sha": "79eb7551af4836105b9c5ddaedcc04fdbe642da4"
   },
   "61": {
@@ -850,7 +850,7 @@
     "book_name": "Psalms",
     "chapter": 61,
     "name": "Psalms 61",
-    "url": "https://getbible.net/v2/arabicsv/19/61.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/61.json",
     "sha": "840fea4624200232019a0f41fba02a9df920d600"
   },
   "62": {
@@ -864,7 +864,7 @@
     "book_name": "Psalms",
     "chapter": 62,
     "name": "Psalms 62",
-    "url": "https://getbible.net/v2/arabicsv/19/62.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/62.json",
     "sha": "dc8dfbe58637e3cd840100755faecf3fe0c0d0c8"
   },
   "63": {
@@ -878,7 +878,7 @@
     "book_name": "Psalms",
     "chapter": 63,
     "name": "Psalms 63",
-    "url": "https://getbible.net/v2/arabicsv/19/63.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/63.json",
     "sha": "5714606816065e0cabfa6b0eabae5957208bcebb"
   },
   "64": {
@@ -892,7 +892,7 @@
     "book_name": "Psalms",
     "chapter": 64,
     "name": "Psalms 64",
-    "url": "https://getbible.net/v2/arabicsv/19/64.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/64.json",
     "sha": "635a00c5545053d76cae3eda04d910a9b310b511"
   },
   "65": {
@@ -906,7 +906,7 @@
     "book_name": "Psalms",
     "chapter": 65,
     "name": "Psalms 65",
-    "url": "https://getbible.net/v2/arabicsv/19/65.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/65.json",
     "sha": "49386566e56e3ced31f6814ba9e621176c87b794"
   },
   "66": {
@@ -920,7 +920,7 @@
     "book_name": "Psalms",
     "chapter": 66,
     "name": "Psalms 66",
-    "url": "https://getbible.net/v2/arabicsv/19/66.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/66.json",
     "sha": "e0399d2f5d662d48e7e17f8ce31f1675c7b51985"
   },
   "67": {
@@ -934,7 +934,7 @@
     "book_name": "Psalms",
     "chapter": 67,
     "name": "Psalms 67",
-    "url": "https://getbible.net/v2/arabicsv/19/67.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/67.json",
     "sha": "1d513b18d6e2684edf723504546680a4f188f27d"
   },
   "68": {
@@ -948,7 +948,7 @@
     "book_name": "Psalms",
     "chapter": 68,
     "name": "Psalms 68",
-    "url": "https://getbible.net/v2/arabicsv/19/68.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/68.json",
     "sha": "ef67b57037d874fab0e5732da99272bbfebab11e"
   },
   "69": {
@@ -962,7 +962,7 @@
     "book_name": "Psalms",
     "chapter": 69,
     "name": "Psalms 69",
-    "url": "https://getbible.net/v2/arabicsv/19/69.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/69.json",
     "sha": "bed64dc5fd5e92f82555bddf3a9fb0ca48b00711"
   },
   "70": {
@@ -976,7 +976,7 @@
     "book_name": "Psalms",
     "chapter": 70,
     "name": "Psalms 70",
-    "url": "https://getbible.net/v2/arabicsv/19/70.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/70.json",
     "sha": "3b264a04f2616e69982234bf4e46ea9c7d9fbd7d"
   },
   "71": {
@@ -990,7 +990,7 @@
     "book_name": "Psalms",
     "chapter": 71,
     "name": "Psalms 71",
-    "url": "https://getbible.net/v2/arabicsv/19/71.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/71.json",
     "sha": "1acec58cbf34bf984adfe9a7f20dfe3c18b75d62"
   },
   "72": {
@@ -1004,7 +1004,7 @@
     "book_name": "Psalms",
     "chapter": 72,
     "name": "Psalms 72",
-    "url": "https://getbible.net/v2/arabicsv/19/72.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/72.json",
     "sha": "688565ba715e44a43e2ba6fd6c5e0e27154d8f97"
   },
   "73": {
@@ -1018,7 +1018,7 @@
     "book_name": "Psalms",
     "chapter": 73,
     "name": "Psalms 73",
-    "url": "https://getbible.net/v2/arabicsv/19/73.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/73.json",
     "sha": "6e40f16968da985eb8fefb764062a24343ca1ba5"
   },
   "74": {
@@ -1032,7 +1032,7 @@
     "book_name": "Psalms",
     "chapter": 74,
     "name": "Psalms 74",
-    "url": "https://getbible.net/v2/arabicsv/19/74.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/74.json",
     "sha": "365b00225a397ce196ea61b4f8bb1a4ddf71c5cc"
   },
   "75": {
@@ -1046,7 +1046,7 @@
     "book_name": "Psalms",
     "chapter": 75,
     "name": "Psalms 75",
-    "url": "https://getbible.net/v2/arabicsv/19/75.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/75.json",
     "sha": "a88a11a724b5aef0b05443acfb20c3ac8d7dfa86"
   },
   "76": {
@@ -1060,7 +1060,7 @@
     "book_name": "Psalms",
     "chapter": 76,
     "name": "Psalms 76",
-    "url": "https://getbible.net/v2/arabicsv/19/76.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/76.json",
     "sha": "d129880b6ae81e18e899eac865683947e3ec25ac"
   },
   "77": {
@@ -1074,7 +1074,7 @@
     "book_name": "Psalms",
     "chapter": 77,
     "name": "Psalms 77",
-    "url": "https://getbible.net/v2/arabicsv/19/77.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/77.json",
     "sha": "b531860addae47be888f8dfc7938f26beb4b626a"
   },
   "78": {
@@ -1088,7 +1088,7 @@
     "book_name": "Psalms",
     "chapter": 78,
     "name": "Psalms 78",
-    "url": "https://getbible.net/v2/arabicsv/19/78.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/78.json",
     "sha": "d8dd5e0d02507df3a1df40377af8bc97bede1bcc"
   },
   "79": {
@@ -1102,7 +1102,7 @@
     "book_name": "Psalms",
     "chapter": 79,
     "name": "Psalms 79",
-    "url": "https://getbible.net/v2/arabicsv/19/79.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/79.json",
     "sha": "3b8bff1c979391c09f276e4a68590b16f05dc746"
   },
   "80": {
@@ -1116,7 +1116,7 @@
     "book_name": "Psalms",
     "chapter": 80,
     "name": "Psalms 80",
-    "url": "https://getbible.net/v2/arabicsv/19/80.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/80.json",
     "sha": "b8aabffa7db733c89e8ed1841ab247a7a9edabca"
   },
   "81": {
@@ -1130,7 +1130,7 @@
     "book_name": "Psalms",
     "chapter": 81,
     "name": "Psalms 81",
-    "url": "https://getbible.net/v2/arabicsv/19/81.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/81.json",
     "sha": "281e90e7b4daabe4484867afa321b0daebda16da"
   },
   "82": {
@@ -1144,7 +1144,7 @@
     "book_name": "Psalms",
     "chapter": 82,
     "name": "Psalms 82",
-    "url": "https://getbible.net/v2/arabicsv/19/82.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/82.json",
     "sha": "c22a4e7c98dd49729dab14496e61fddbcb22edab"
   },
   "83": {
@@ -1158,7 +1158,7 @@
     "book_name": "Psalms",
     "chapter": 83,
     "name": "Psalms 83",
-    "url": "https://getbible.net/v2/arabicsv/19/83.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/83.json",
     "sha": "2b8d7659e2b8525c414811ea83af567406b8c482"
   },
   "84": {
@@ -1172,7 +1172,7 @@
     "book_name": "Psalms",
     "chapter": 84,
     "name": "Psalms 84",
-    "url": "https://getbible.net/v2/arabicsv/19/84.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/84.json",
     "sha": "515903e6404e62a99f59f4cd9802ab00572241f5"
   },
   "85": {
@@ -1186,7 +1186,7 @@
     "book_name": "Psalms",
     "chapter": 85,
     "name": "Psalms 85",
-    "url": "https://getbible.net/v2/arabicsv/19/85.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/85.json",
     "sha": "453d3a741b42b0ec40aa8d98460b98c5a75ff07d"
   },
   "86": {
@@ -1200,7 +1200,7 @@
     "book_name": "Psalms",
     "chapter": 86,
     "name": "Psalms 86",
-    "url": "https://getbible.net/v2/arabicsv/19/86.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/86.json",
     "sha": "e0bde8aea796caeb55ca87dfca0321829828e0aa"
   },
   "87": {
@@ -1214,7 +1214,7 @@
     "book_name": "Psalms",
     "chapter": 87,
     "name": "Psalms 87",
-    "url": "https://getbible.net/v2/arabicsv/19/87.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/87.json",
     "sha": "ad2d1b666c54e7a1b5d9746e9edaa6d809bdffbe"
   },
   "88": {
@@ -1228,7 +1228,7 @@
     "book_name": "Psalms",
     "chapter": 88,
     "name": "Psalms 88",
-    "url": "https://getbible.net/v2/arabicsv/19/88.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/88.json",
     "sha": "8d79b3af8af63b0ad6775c53c10c635a3b50c62b"
   },
   "89": {
@@ -1242,7 +1242,7 @@
     "book_name": "Psalms",
     "chapter": 89,
     "name": "Psalms 89",
-    "url": "https://getbible.net/v2/arabicsv/19/89.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/89.json",
     "sha": "3cd48cf48f03563dce48d3f9eff17cc9aede8eec"
   },
   "90": {
@@ -1256,7 +1256,7 @@
     "book_name": "Psalms",
     "chapter": 90,
     "name": "Psalms 90",
-    "url": "https://getbible.net/v2/arabicsv/19/90.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/90.json",
     "sha": "e56e3df1ce1bf244f9647dd7869b1e2b82a1395c"
   },
   "91": {
@@ -1270,7 +1270,7 @@
     "book_name": "Psalms",
     "chapter": 91,
     "name": "Psalms 91",
-    "url": "https://getbible.net/v2/arabicsv/19/91.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/91.json",
     "sha": "ab0e6964a2a517f0e4f4765667d5f7f48c83156e"
   },
   "92": {
@@ -1284,7 +1284,7 @@
     "book_name": "Psalms",
     "chapter": 92,
     "name": "Psalms 92",
-    "url": "https://getbible.net/v2/arabicsv/19/92.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/92.json",
     "sha": "47e613aa4fd91b8b258766f5e7131b5012165a29"
   },
   "93": {
@@ -1298,7 +1298,7 @@
     "book_name": "Psalms",
     "chapter": 93,
     "name": "Psalms 93",
-    "url": "https://getbible.net/v2/arabicsv/19/93.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/93.json",
     "sha": "9407f30472a148c880fd58846cbbba7dbe0cec67"
   },
   "94": {
@@ -1312,7 +1312,7 @@
     "book_name": "Psalms",
     "chapter": 94,
     "name": "Psalms 94",
-    "url": "https://getbible.net/v2/arabicsv/19/94.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/94.json",
     "sha": "eefc4eba4d1850f9d73b4a1b2387a6beba5858fa"
   },
   "95": {
@@ -1326,7 +1326,7 @@
     "book_name": "Psalms",
     "chapter": 95,
     "name": "Psalms 95",
-    "url": "https://getbible.net/v2/arabicsv/19/95.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/95.json",
     "sha": "d1bc66f12066e77827b0466f2b91f2e1558d659d"
   },
   "96": {
@@ -1340,7 +1340,7 @@
     "book_name": "Psalms",
     "chapter": 96,
     "name": "Psalms 96",
-    "url": "https://getbible.net/v2/arabicsv/19/96.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/96.json",
     "sha": "1473284cfc7fa439500b563374d1688f07c78d6b"
   },
   "97": {
@@ -1354,7 +1354,7 @@
     "book_name": "Psalms",
     "chapter": 97,
     "name": "Psalms 97",
-    "url": "https://getbible.net/v2/arabicsv/19/97.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/97.json",
     "sha": "d29b6d746ea7e7bb4bd678e3e6e0b2ace9f9a05b"
   },
   "98": {
@@ -1368,7 +1368,7 @@
     "book_name": "Psalms",
     "chapter": 98,
     "name": "Psalms 98",
-    "url": "https://getbible.net/v2/arabicsv/19/98.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/98.json",
     "sha": "6659cf16997bf3b8dd880b3be8d3657ff95b41b5"
   },
   "99": {
@@ -1382,7 +1382,7 @@
     "book_name": "Psalms",
     "chapter": 99,
     "name": "Psalms 99",
-    "url": "https://getbible.net/v2/arabicsv/19/99.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/99.json",
     "sha": "59b84285798458711b302179e70d665a1359370a"
   },
   "100": {
@@ -1396,7 +1396,7 @@
     "book_name": "Psalms",
     "chapter": 100,
     "name": "Psalms 100",
-    "url": "https://getbible.net/v2/arabicsv/19/100.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/100.json",
     "sha": "3fadc08e45bc0a2ca9a6400edcff6772cdba8473"
   },
   "101": {
@@ -1410,7 +1410,7 @@
     "book_name": "Psalms",
     "chapter": 101,
     "name": "Psalms 101",
-    "url": "https://getbible.net/v2/arabicsv/19/101.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/101.json",
     "sha": "f39ce2239be05e2d033a5c84030b0d2425364c0a"
   },
   "102": {
@@ -1424,7 +1424,7 @@
     "book_name": "Psalms",
     "chapter": 102,
     "name": "Psalms 102",
-    "url": "https://getbible.net/v2/arabicsv/19/102.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/102.json",
     "sha": "706054f99fdd3fa90ae94d58f1d79d939d7471e6"
   },
   "103": {
@@ -1438,7 +1438,7 @@
     "book_name": "Psalms",
     "chapter": 103,
     "name": "Psalms 103",
-    "url": "https://getbible.net/v2/arabicsv/19/103.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/103.json",
     "sha": "cb085cea7c1a24b3f6fc51df976abb450116f3d9"
   },
   "104": {
@@ -1452,7 +1452,7 @@
     "book_name": "Psalms",
     "chapter": 104,
     "name": "Psalms 104",
-    "url": "https://getbible.net/v2/arabicsv/19/104.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/104.json",
     "sha": "53d59a23aea3bf19d11a9cabf620a3079d1b4ae4"
   },
   "105": {
@@ -1466,7 +1466,7 @@
     "book_name": "Psalms",
     "chapter": 105,
     "name": "Psalms 105",
-    "url": "https://getbible.net/v2/arabicsv/19/105.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/105.json",
     "sha": "b16b86d7b775f5e23471da58c85866b1a4d5623c"
   },
   "106": {
@@ -1480,7 +1480,7 @@
     "book_name": "Psalms",
     "chapter": 106,
     "name": "Psalms 106",
-    "url": "https://getbible.net/v2/arabicsv/19/106.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/106.json",
     "sha": "fdf919c2b3e8c818477407eabf3a886dd1ea014e"
   },
   "107": {
@@ -1494,7 +1494,7 @@
     "book_name": "Psalms",
     "chapter": 107,
     "name": "Psalms 107",
-    "url": "https://getbible.net/v2/arabicsv/19/107.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/107.json",
     "sha": "fabc47287d9faff8b39fe0a5ac5a84e6fd5aab75"
   },
   "108": {
@@ -1508,7 +1508,7 @@
     "book_name": "Psalms",
     "chapter": 108,
     "name": "Psalms 108",
-    "url": "https://getbible.net/v2/arabicsv/19/108.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/108.json",
     "sha": "a96419b2b2ce9f34a3d2d2c97b046cd0ba61cee6"
   },
   "109": {
@@ -1522,7 +1522,7 @@
     "book_name": "Psalms",
     "chapter": 109,
     "name": "Psalms 109",
-    "url": "https://getbible.net/v2/arabicsv/19/109.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/109.json",
     "sha": "2f81daa2fe618879cb138e114c422b34b52d5a14"
   },
   "110": {
@@ -1536,7 +1536,7 @@
     "book_name": "Psalms",
     "chapter": 110,
     "name": "Psalms 110",
-    "url": "https://getbible.net/v2/arabicsv/19/110.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/110.json",
     "sha": "2f6141d1b55806f8d8ba550425cb8a8b98f630a6"
   },
   "111": {
@@ -1550,7 +1550,7 @@
     "book_name": "Psalms",
     "chapter": 111,
     "name": "Psalms 111",
-    "url": "https://getbible.net/v2/arabicsv/19/111.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/111.json",
     "sha": "77c7b77b3097af8c4e168c275bfd4aaa57369a7b"
   },
   "112": {
@@ -1564,7 +1564,7 @@
     "book_name": "Psalms",
     "chapter": 112,
     "name": "Psalms 112",
-    "url": "https://getbible.net/v2/arabicsv/19/112.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/112.json",
     "sha": "afc5f8c0ac9c881d04b7bd6c11179ec7cd69d0e3"
   },
   "113": {
@@ -1578,7 +1578,7 @@
     "book_name": "Psalms",
     "chapter": 113,
     "name": "Psalms 113",
-    "url": "https://getbible.net/v2/arabicsv/19/113.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/113.json",
     "sha": "7a512e89d75f008be88f3cbd68cf3c259dd69e16"
   },
   "114": {
@@ -1592,7 +1592,7 @@
     "book_name": "Psalms",
     "chapter": 114,
     "name": "Psalms 114",
-    "url": "https://getbible.net/v2/arabicsv/19/114.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/114.json",
     "sha": "f28a557333549ef8255f2ccb14047b0d3613d2a1"
   },
   "115": {
@@ -1606,7 +1606,7 @@
     "book_name": "Psalms",
     "chapter": 115,
     "name": "Psalms 115",
-    "url": "https://getbible.net/v2/arabicsv/19/115.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/115.json",
     "sha": "d42b53fa4dd053121ef8d4fa9674502cc9989939"
   },
   "116": {
@@ -1620,7 +1620,7 @@
     "book_name": "Psalms",
     "chapter": 116,
     "name": "Psalms 116",
-    "url": "https://getbible.net/v2/arabicsv/19/116.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/116.json",
     "sha": "0c680137eea390fb6250c4898e476ee78507448e"
   },
   "117": {
@@ -1634,7 +1634,7 @@
     "book_name": "Psalms",
     "chapter": 117,
     "name": "Psalms 117",
-    "url": "https://getbible.net/v2/arabicsv/19/117.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/117.json",
     "sha": "f7ff258d36d94c564278ebb9d708de43b5f5f2f6"
   },
   "118": {
@@ -1648,7 +1648,7 @@
     "book_name": "Psalms",
     "chapter": 118,
     "name": "Psalms 118",
-    "url": "https://getbible.net/v2/arabicsv/19/118.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/118.json",
     "sha": "b0220e2f87a5084f9224e96486b21bde6e87a2cf"
   },
   "119": {
@@ -1662,7 +1662,7 @@
     "book_name": "Psalms",
     "chapter": 119,
     "name": "Psalms 119",
-    "url": "https://getbible.net/v2/arabicsv/19/119.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/119.json",
     "sha": "f2f78813c69c8a3b1fd54f9526eaf8c5a35b33d6"
   },
   "120": {
@@ -1676,7 +1676,7 @@
     "book_name": "Psalms",
     "chapter": 120,
     "name": "Psalms 120",
-    "url": "https://getbible.net/v2/arabicsv/19/120.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/120.json",
     "sha": "b026f7c354eb2c457b9e76cbc81eb0fcdf7da255"
   },
   "121": {
@@ -1690,7 +1690,7 @@
     "book_name": "Psalms",
     "chapter": 121,
     "name": "Psalms 121",
-    "url": "https://getbible.net/v2/arabicsv/19/121.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/121.json",
     "sha": "63aac8b506c503f1852cd9d5deb9fee04a286962"
   },
   "122": {
@@ -1704,7 +1704,7 @@
     "book_name": "Psalms",
     "chapter": 122,
     "name": "Psalms 122",
-    "url": "https://getbible.net/v2/arabicsv/19/122.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/122.json",
     "sha": "eddd019aae3f9f929b25240f162edf2858802193"
   },
   "123": {
@@ -1718,7 +1718,7 @@
     "book_name": "Psalms",
     "chapter": 123,
     "name": "Psalms 123",
-    "url": "https://getbible.net/v2/arabicsv/19/123.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/123.json",
     "sha": "6a26711f1e623f7d0493ae2b6cf30e536bd63f8e"
   },
   "124": {
@@ -1732,7 +1732,7 @@
     "book_name": "Psalms",
     "chapter": 124,
     "name": "Psalms 124",
-    "url": "https://getbible.net/v2/arabicsv/19/124.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/124.json",
     "sha": "52249a4d72c5dc9d612397f68642c636ad8b45b6"
   },
   "125": {
@@ -1746,7 +1746,7 @@
     "book_name": "Psalms",
     "chapter": 125,
     "name": "Psalms 125",
-    "url": "https://getbible.net/v2/arabicsv/19/125.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/125.json",
     "sha": "2399eaac19d62fa4f216ae8d2edaffb390ad43a0"
   },
   "126": {
@@ -1760,7 +1760,7 @@
     "book_name": "Psalms",
     "chapter": 126,
     "name": "Psalms 126",
-    "url": "https://getbible.net/v2/arabicsv/19/126.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/126.json",
     "sha": "31f0249038f6fb1a3d9b000a3f534c3b5d8c4191"
   },
   "127": {
@@ -1774,7 +1774,7 @@
     "book_name": "Psalms",
     "chapter": 127,
     "name": "Psalms 127",
-    "url": "https://getbible.net/v2/arabicsv/19/127.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/127.json",
     "sha": "19138b78f226ced1b3a80a8074eb888456caa10a"
   },
   "128": {
@@ -1788,7 +1788,7 @@
     "book_name": "Psalms",
     "chapter": 128,
     "name": "Psalms 128",
-    "url": "https://getbible.net/v2/arabicsv/19/128.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/128.json",
     "sha": "a73e7e73e8086673ca9e8d0e3ebdadfdc7e1d1df"
   },
   "129": {
@@ -1802,7 +1802,7 @@
     "book_name": "Psalms",
     "chapter": 129,
     "name": "Psalms 129",
-    "url": "https://getbible.net/v2/arabicsv/19/129.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/129.json",
     "sha": "bd0cb9627ea284d7023d22229e2b46bf3423e7fc"
   },
   "130": {
@@ -1816,7 +1816,7 @@
     "book_name": "Psalms",
     "chapter": 130,
     "name": "Psalms 130",
-    "url": "https://getbible.net/v2/arabicsv/19/130.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/130.json",
     "sha": "57262038e645dedec2a8ca1f64365b8c955a6a6a"
   },
   "131": {
@@ -1830,7 +1830,7 @@
     "book_name": "Psalms",
     "chapter": 131,
     "name": "Psalms 131",
-    "url": "https://getbible.net/v2/arabicsv/19/131.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/131.json",
     "sha": "26ef28e826ac4a3807d28b8245c14115b6d09d21"
   },
   "132": {
@@ -1844,7 +1844,7 @@
     "book_name": "Psalms",
     "chapter": 132,
     "name": "Psalms 132",
-    "url": "https://getbible.net/v2/arabicsv/19/132.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/132.json",
     "sha": "c02da1feb8cc5fab263a966eabda63478a8199bc"
   },
   "133": {
@@ -1858,7 +1858,7 @@
     "book_name": "Psalms",
     "chapter": 133,
     "name": "Psalms 133",
-    "url": "https://getbible.net/v2/arabicsv/19/133.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/133.json",
     "sha": "a82639c31b55642d97bf4b5f4c658d1e0c83b0f8"
   },
   "134": {
@@ -1872,7 +1872,7 @@
     "book_name": "Psalms",
     "chapter": 134,
     "name": "Psalms 134",
-    "url": "https://getbible.net/v2/arabicsv/19/134.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/134.json",
     "sha": "d5c407a5b8aa74afa3f33d45f3629b02690479f9"
   },
   "135": {
@@ -1886,7 +1886,7 @@
     "book_name": "Psalms",
     "chapter": 135,
     "name": "Psalms 135",
-    "url": "https://getbible.net/v2/arabicsv/19/135.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/135.json",
     "sha": "04dfddb200bf37b540445ccfceac720dd0331c1a"
   },
   "136": {
@@ -1900,7 +1900,7 @@
     "book_name": "Psalms",
     "chapter": 136,
     "name": "Psalms 136",
-    "url": "https://getbible.net/v2/arabicsv/19/136.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/136.json",
     "sha": "2a133df102f8ac8a20d265e458a760f7bc847f28"
   },
   "137": {
@@ -1914,7 +1914,7 @@
     "book_name": "Psalms",
     "chapter": 137,
     "name": "Psalms 137",
-    "url": "https://getbible.net/v2/arabicsv/19/137.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/137.json",
     "sha": "834464f7aa2f0962c7c6b52506ff32ebf0873b52"
   },
   "138": {
@@ -1928,7 +1928,7 @@
     "book_name": "Psalms",
     "chapter": 138,
     "name": "Psalms 138",
-    "url": "https://getbible.net/v2/arabicsv/19/138.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/138.json",
     "sha": "38f8bd267a9d1d99b10d3f19099c12709727288e"
   },
   "139": {
@@ -1942,7 +1942,7 @@
     "book_name": "Psalms",
     "chapter": 139,
     "name": "Psalms 139",
-    "url": "https://getbible.net/v2/arabicsv/19/139.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/139.json",
     "sha": "280fa79331a7a2bdf7081c54ca8637b1353add16"
   },
   "140": {
@@ -1956,7 +1956,7 @@
     "book_name": "Psalms",
     "chapter": 140,
     "name": "Psalms 140",
-    "url": "https://getbible.net/v2/arabicsv/19/140.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/140.json",
     "sha": "54a4ed66782c7ce3b15c21a68c23cf7a5238ecd0"
   },
   "141": {
@@ -1970,7 +1970,7 @@
     "book_name": "Psalms",
     "chapter": 141,
     "name": "Psalms 141",
-    "url": "https://getbible.net/v2/arabicsv/19/141.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/141.json",
     "sha": "3320414982e23dbaab7f4739c0d5cc837cffae0b"
   },
   "142": {
@@ -1984,7 +1984,7 @@
     "book_name": "Psalms",
     "chapter": 142,
     "name": "Psalms 142",
-    "url": "https://getbible.net/v2/arabicsv/19/142.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/142.json",
     "sha": "342b04026df78c4c14fd3e83efbe160c7ee9bb8e"
   },
   "143": {
@@ -1998,7 +1998,7 @@
     "book_name": "Psalms",
     "chapter": 143,
     "name": "Psalms 143",
-    "url": "https://getbible.net/v2/arabicsv/19/143.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/143.json",
     "sha": "2cb3777f1cc72b856db58936992f245df3ac85b9"
   },
   "144": {
@@ -2012,7 +2012,7 @@
     "book_name": "Psalms",
     "chapter": 144,
     "name": "Psalms 144",
-    "url": "https://getbible.net/v2/arabicsv/19/144.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/144.json",
     "sha": "c3559ff130b0718c40884e7950330009b4b09ff9"
   },
   "145": {
@@ -2026,7 +2026,7 @@
     "book_name": "Psalms",
     "chapter": 145,
     "name": "Psalms 145",
-    "url": "https://getbible.net/v2/arabicsv/19/145.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/145.json",
     "sha": "acd78083092d2ce7445c50302f1074fd88abac23"
   },
   "146": {
@@ -2040,7 +2040,7 @@
     "book_name": "Psalms",
     "chapter": 146,
     "name": "Psalms 146",
-    "url": "https://getbible.net/v2/arabicsv/19/146.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/146.json",
     "sha": "d09d74270f7a090b09a68449c87fa2f2dbd4b5e4"
   },
   "147": {
@@ -2054,7 +2054,7 @@
     "book_name": "Psalms",
     "chapter": 147,
     "name": "Psalms 147",
-    "url": "https://getbible.net/v2/arabicsv/19/147.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/147.json",
     "sha": "e07833e08fe38980dfdaa4f11993977a5dff8cb1"
   },
   "148": {
@@ -2068,7 +2068,7 @@
     "book_name": "Psalms",
     "chapter": 148,
     "name": "Psalms 148",
-    "url": "https://getbible.net/v2/arabicsv/19/148.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/148.json",
     "sha": "a7fbc7dfe5d59c1f3428cf7107ff796b38e7a6a9"
   },
   "149": {
@@ -2082,7 +2082,7 @@
     "book_name": "Psalms",
     "chapter": 149,
     "name": "Psalms 149",
-    "url": "https://getbible.net/v2/arabicsv/19/149.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/149.json",
     "sha": "c724ade107f3012628afcffb5c9a9fbb6d8ab909"
   },
   "150": {
@@ -2096,7 +2096,7 @@
     "book_name": "Psalms",
     "chapter": 150,
     "name": "Psalms 150",
-    "url": "https://getbible.net/v2/arabicsv/19/150.json",
+    "url": "https://api.getbible.net/v2/arabicsv/19/150.json",
     "sha": "ba3d5e3017843da5b6c36a5944d450f03c603c52"
   }
 }

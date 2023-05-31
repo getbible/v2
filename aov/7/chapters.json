@@ -10,7 +10,7 @@
     "book_name": "Rigters",
     "chapter": 1,
     "name": "Rigters 1",
-    "url": "https://getbible.net/v2/aov/7/1.json",
+    "url": "https://api.getbible.net/v2/aov/7/1.json",
     "sha": "fabe7f436eda395ef3ffd2a232c1a943d0d165ee"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Rigters",
     "chapter": 2,
     "name": "Rigters 2",
-    "url": "https://getbible.net/v2/aov/7/2.json",
+    "url": "https://api.getbible.net/v2/aov/7/2.json",
     "sha": "cf322af8d10964a864a7f7bd7ba40039936b050f"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Rigters",
     "chapter": 3,
     "name": "Rigters 3",
-    "url": "https://getbible.net/v2/aov/7/3.json",
+    "url": "https://api.getbible.net/v2/aov/7/3.json",
     "sha": "1069f69bd0f855513021d5dcb6a6bbcef9900d36"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Rigters",
     "chapter": 4,
     "name": "Rigters 4",
-    "url": "https://getbible.net/v2/aov/7/4.json",
+    "url": "https://api.getbible.net/v2/aov/7/4.json",
     "sha": "173f7bbbd6bc46c7cb62ca05e950650c37e56e8f"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Rigters",
     "chapter": 5,
     "name": "Rigters 5",
-    "url": "https://getbible.net/v2/aov/7/5.json",
+    "url": "https://api.getbible.net/v2/aov/7/5.json",
     "sha": "1d1611969a52dfb0be1f35b2339e70ef14b33afd"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Rigters",
     "chapter": 6,
     "name": "Rigters 6",
-    "url": "https://getbible.net/v2/aov/7/6.json",
+    "url": "https://api.getbible.net/v2/aov/7/6.json",
     "sha": "c623d1631ff809d6c36114631d68c54079c08826"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Rigters",
     "chapter": 7,
     "name": "Rigters 7",
-    "url": "https://getbible.net/v2/aov/7/7.json",
+    "url": "https://api.getbible.net/v2/aov/7/7.json",
     "sha": "0921aad7af6dda4fd5a37583dda0f0fcacf2586e"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Rigters",
     "chapter": 8,
     "name": "Rigters 8",
-    "url": "https://getbible.net/v2/aov/7/8.json",
+    "url": "https://api.getbible.net/v2/aov/7/8.json",
     "sha": "bd8f65cfcda14cf9f2c8bbed0bec911b02afad88"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Rigters",
     "chapter": 9,
     "name": "Rigters 9",
-    "url": "https://getbible.net/v2/aov/7/9.json",
+    "url": "https://api.getbible.net/v2/aov/7/9.json",
     "sha": "ada87ea085b611763d882e2f7efe2eb5f97ca9e2"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Rigters",
     "chapter": 10,
     "name": "Rigters 10",
-    "url": "https://getbible.net/v2/aov/7/10.json",
+    "url": "https://api.getbible.net/v2/aov/7/10.json",
     "sha": "2fd25859db9f56f45aff62297019beb92bed8f5c"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Rigters",
     "chapter": 11,
     "name": "Rigters 11",
-    "url": "https://getbible.net/v2/aov/7/11.json",
+    "url": "https://api.getbible.net/v2/aov/7/11.json",
     "sha": "9548007d06816f16c49890aa3f14a91bddb776a4"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Rigters",
     "chapter": 12,
     "name": "Rigters 12",
-    "url": "https://getbible.net/v2/aov/7/12.json",
+    "url": "https://api.getbible.net/v2/aov/7/12.json",
     "sha": "dd6fbe977da1902e350955df5b05eb1aa1965ad5"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Rigters",
     "chapter": 13,
     "name": "Rigters 13",
-    "url": "https://getbible.net/v2/aov/7/13.json",
+    "url": "https://api.getbible.net/v2/aov/7/13.json",
     "sha": "300c4279c6b44077b083ccbad2ede13acbf6502f"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Rigters",
     "chapter": 14,
     "name": "Rigters 14",
-    "url": "https://getbible.net/v2/aov/7/14.json",
+    "url": "https://api.getbible.net/v2/aov/7/14.json",
     "sha": "19af5b683280df54c355441b8b05e2dfc0971071"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Rigters",
     "chapter": 15,
     "name": "Rigters 15",
-    "url": "https://getbible.net/v2/aov/7/15.json",
+    "url": "https://api.getbible.net/v2/aov/7/15.json",
     "sha": "a5494c90472da4e45c5a1c8528f8c3f60411a0f7"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Rigters",
     "chapter": 16,
     "name": "Rigters 16",
-    "url": "https://getbible.net/v2/aov/7/16.json",
+    "url": "https://api.getbible.net/v2/aov/7/16.json",
     "sha": "f0aa52b2c28caa01fe69785a3c8d12373b6a5929"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Rigters",
     "chapter": 17,
     "name": "Rigters 17",
-    "url": "https://getbible.net/v2/aov/7/17.json",
+    "url": "https://api.getbible.net/v2/aov/7/17.json",
     "sha": "00bf975f38144bb47cefbb7e5a043f1cb9a2a000"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Rigters",
     "chapter": 18,
     "name": "Rigters 18",
-    "url": "https://getbible.net/v2/aov/7/18.json",
+    "url": "https://api.getbible.net/v2/aov/7/18.json",
     "sha": "525ec9d6ea6ec5842e63e8a866ce9b451d2bf8de"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Rigters",
     "chapter": 19,
     "name": "Rigters 19",
-    "url": "https://getbible.net/v2/aov/7/19.json",
+    "url": "https://api.getbible.net/v2/aov/7/19.json",
     "sha": "e665b6e621c3fe8fe8096d0e3fecdd7ad66fa132"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Rigters",
     "chapter": 20,
     "name": "Rigters 20",
-    "url": "https://getbible.net/v2/aov/7/20.json",
+    "url": "https://api.getbible.net/v2/aov/7/20.json",
     "sha": "ab13afb53edaccd4ba067f67618c1df080457b15"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Rigters",
     "chapter": 21,
     "name": "Rigters 21",
-    "url": "https://getbible.net/v2/aov/7/21.json",
+    "url": "https://api.getbible.net/v2/aov/7/21.json",
     "sha": "d8e496da17a2ef01ee943c5f97ec192d99ba6202"
   }
 }

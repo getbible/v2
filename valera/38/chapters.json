@@ -10,7 +10,7 @@
     "book_name": "Zechariah",
     "chapter": 1,
     "name": "Zechariah 1",
-    "url": "https://getbible.net/v2/valera/38/1.json",
+    "url": "https://api.getbible.net/v2/valera/38/1.json",
     "sha": "00809706c1c2b1fab829484b45601ce0600bfe5d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Zechariah",
     "chapter": 2,
     "name": "Zechariah 2",
-    "url": "https://getbible.net/v2/valera/38/2.json",
+    "url": "https://api.getbible.net/v2/valera/38/2.json",
     "sha": "9487cdead4fc3a915d24d92484d2b1f7fcf4b897"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Zechariah",
     "chapter": 3,
     "name": "Zechariah 3",
-    "url": "https://getbible.net/v2/valera/38/3.json",
+    "url": "https://api.getbible.net/v2/valera/38/3.json",
     "sha": "46138a3bada12a9531d223fe41c9348337f19338"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Zechariah",
     "chapter": 4,
     "name": "Zechariah 4",
-    "url": "https://getbible.net/v2/valera/38/4.json",
+    "url": "https://api.getbible.net/v2/valera/38/4.json",
     "sha": "b5bafcedc1bf247c2da5f859a4a31e4f01d78ce7"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Zechariah",
     "chapter": 5,
     "name": "Zechariah 5",
-    "url": "https://getbible.net/v2/valera/38/5.json",
+    "url": "https://api.getbible.net/v2/valera/38/5.json",
     "sha": "8a589b3fcc4a5ec9743724087b436cffa54e36c6"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Zechariah",
     "chapter": 6,
     "name": "Zechariah 6",
-    "url": "https://getbible.net/v2/valera/38/6.json",
+    "url": "https://api.getbible.net/v2/valera/38/6.json",
     "sha": "af73e4b2098d2b2c1f95ffab389194f2398a848a"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Zechariah",
     "chapter": 7,
     "name": "Zechariah 7",
-    "url": "https://getbible.net/v2/valera/38/7.json",
+    "url": "https://api.getbible.net/v2/valera/38/7.json",
     "sha": "b5d2938ad431cc93c9754b400b42106f651d8879"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Zechariah",
     "chapter": 8,
     "name": "Zechariah 8",
-    "url": "https://getbible.net/v2/valera/38/8.json",
+    "url": "https://api.getbible.net/v2/valera/38/8.json",
     "sha": "c23623ed083ab597f7a0e56fc3c48b18db4af713"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Zechariah",
     "chapter": 9,
     "name": "Zechariah 9",
-    "url": "https://getbible.net/v2/valera/38/9.json",
+    "url": "https://api.getbible.net/v2/valera/38/9.json",
     "sha": "f8183077bedf6420a1ac6e8048951d7212545a42"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Zechariah",
     "chapter": 10,
     "name": "Zechariah 10",
-    "url": "https://getbible.net/v2/valera/38/10.json",
+    "url": "https://api.getbible.net/v2/valera/38/10.json",
     "sha": "e3222fe0e59a790ce653b3bd31afecd0304d105a"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Zechariah",
     "chapter": 11,
     "name": "Zechariah 11",
-    "url": "https://getbible.net/v2/valera/38/11.json",
+    "url": "https://api.getbible.net/v2/valera/38/11.json",
     "sha": "18d085dea3d1370e6a8a3f5b21144cc302b06f01"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Zechariah",
     "chapter": 12,
     "name": "Zechariah 12",
-    "url": "https://getbible.net/v2/valera/38/12.json",
+    "url": "https://api.getbible.net/v2/valera/38/12.json",
     "sha": "5547b406438e6e4edece6aaf28e0e51950020bef"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Zechariah",
     "chapter": 13,
     "name": "Zechariah 13",
-    "url": "https://getbible.net/v2/valera/38/13.json",
+    "url": "https://api.getbible.net/v2/valera/38/13.json",
     "sha": "0bb91285ec768606f8e8963dfac9cb7e294374b6"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Zechariah",
     "chapter": 14,
     "name": "Zechariah 14",
-    "url": "https://getbible.net/v2/valera/38/14.json",
+    "url": "https://api.getbible.net/v2/valera/38/14.json",
     "sha": "ccb6849be91d0f6741196ae27cf4a850364f7ea5"
   }
 }

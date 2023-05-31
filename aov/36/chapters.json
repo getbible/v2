@@ -10,7 +10,7 @@
     "book_name": "Sefanja",
     "chapter": 1,
     "name": "Sefanja 1",
-    "url": "https://getbible.net/v2/aov/36/1.json",
+    "url": "https://api.getbible.net/v2/aov/36/1.json",
     "sha": "c07a445cef1176cc10948d0c20c5c15832a7f6a9"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Sefanja",
     "chapter": 2,
     "name": "Sefanja 2",
-    "url": "https://getbible.net/v2/aov/36/2.json",
+    "url": "https://api.getbible.net/v2/aov/36/2.json",
     "sha": "a3229bdbd5d3344a12ca6e2816bfce52a0bebdbd"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Sefanja",
     "chapter": 3,
     "name": "Sefanja 3",
-    "url": "https://getbible.net/v2/aov/36/3.json",
+    "url": "https://api.getbible.net/v2/aov/36/3.json",
     "sha": "b2efa29a022f7c58e77de24b0bac6db4e0d153c6"
   }
 }

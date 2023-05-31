@@ -10,7 +10,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
-    "url": "https://getbible.net/v2/turkish/53/1.json",
+    "url": "https://api.getbible.net/v2/turkish/53/1.json",
     "sha": "86def4e9569b260fbe968207d34a5e8fd6867742"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
-    "url": "https://getbible.net/v2/turkish/53/2.json",
+    "url": "https://api.getbible.net/v2/turkish/53/2.json",
     "sha": "baf5db05b72d632ebf7598ed1f8ad4e59805e74a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
-    "url": "https://getbible.net/v2/turkish/53/3.json",
+    "url": "https://api.getbible.net/v2/turkish/53/3.json",
     "sha": "4204a2e342946f2669b08379e2febdea7fcab09f"
   }
 }

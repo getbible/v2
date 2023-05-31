@@ -10,7 +10,7 @@
     "book_name": "Habakkuk",
     "chapter": 1,
     "name": "Habakkuk 1",
-    "url": "https://getbible.net/v2/korean/35/1.json",
+    "url": "https://api.getbible.net/v2/korean/35/1.json",
     "sha": "65a570498578884732188a7e8840f9191a258163"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Habakkuk",
     "chapter": 2,
     "name": "Habakkuk 2",
-    "url": "https://getbible.net/v2/korean/35/2.json",
+    "url": "https://api.getbible.net/v2/korean/35/2.json",
     "sha": "85e4290e3b85a724cc7e16c3683d594213765d52"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Habakkuk",
     "chapter": 3,
     "name": "Habakkuk 3",
-    "url": "https://getbible.net/v2/korean/35/3.json",
+    "url": "https://api.getbible.net/v2/korean/35/3.json",
     "sha": "ac687e98631b044620613bf1f4afc04336092c47"
   }
 }

@@ -10,8 +10,8 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/37/1.json",
-    "sha": "1c683c42d6ba4615b381f6053df5110aeec176eb"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/37/1.json",
+    "sha": "4668c03250492963ea6a3f247842a2bd78373006"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/37/2.json",
-    "sha": "cc12df21251a3325c67ccad0eab2ada07c827f50"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/37/2.json",
+    "sha": "c8b9bbb2e7e9a17fbefd4ea874538f66ce55e748"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "提摩太後書",
     "chapter": 1,
     "name": "提摩太後書 1",
-    "url": "https://getbible.net/v2/cut/55/1.json",
+    "url": "https://api.getbible.net/v2/cut/55/1.json",
     "sha": "16ca5a10247111f984495561a203513d1d8b0e5f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "提摩太後書",
     "chapter": 2,
     "name": "提摩太後書 2",
-    "url": "https://getbible.net/v2/cut/55/2.json",
+    "url": "https://api.getbible.net/v2/cut/55/2.json",
     "sha": "f364d605c802bf8f08d3e585835498604e60babf"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "提摩太後書",
     "chapter": 3,
     "name": "提摩太後書 3",
-    "url": "https://getbible.net/v2/cut/55/3.json",
+    "url": "https://api.getbible.net/v2/cut/55/3.json",
     "sha": "e5c5b677dc882a7401136d215373867485e5fb2a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "提摩太後書",
     "chapter": 4,
     "name": "提摩太後書 4",
-    "url": "https://getbible.net/v2/cut/55/4.json",
+    "url": "https://api.getbible.net/v2/cut/55/4.json",
     "sha": "af08842ecaecdca16deac91b3b5113a07e531b3f"
   }
 }

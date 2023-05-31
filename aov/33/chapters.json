@@ -10,7 +10,7 @@
     "book_name": "Miga",
     "chapter": 1,
     "name": "Miga 1",
-    "url": "https://getbible.net/v2/aov/33/1.json",
+    "url": "https://api.getbible.net/v2/aov/33/1.json",
     "sha": "45b8b2fef6e15694a6d620e438dc25d3fc5e844f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Miga",
     "chapter": 2,
     "name": "Miga 2",
-    "url": "https://getbible.net/v2/aov/33/2.json",
+    "url": "https://api.getbible.net/v2/aov/33/2.json",
     "sha": "a586de9405a6d16d0612b421d0f8282c27eb070d"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Miga",
     "chapter": 3,
     "name": "Miga 3",
-    "url": "https://getbible.net/v2/aov/33/3.json",
+    "url": "https://api.getbible.net/v2/aov/33/3.json",
     "sha": "38d96c8f2911b67e7d66c4e2211b25faf0239db0"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Miga",
     "chapter": 4,
     "name": "Miga 4",
-    "url": "https://getbible.net/v2/aov/33/4.json",
+    "url": "https://api.getbible.net/v2/aov/33/4.json",
     "sha": "76f3e57a30c922a853938b58a0ffcea3880aa753"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Miga",
     "chapter": 5,
     "name": "Miga 5",
-    "url": "https://getbible.net/v2/aov/33/5.json",
+    "url": "https://api.getbible.net/v2/aov/33/5.json",
     "sha": "5c45cd7c19208f2f5239b91163506dc2d1f140e9"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Miga",
     "chapter": 6,
     "name": "Miga 6",
-    "url": "https://getbible.net/v2/aov/33/6.json",
+    "url": "https://api.getbible.net/v2/aov/33/6.json",
     "sha": "19e6be408589d4c446f10ed4950d1a413728701c"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Miga",
     "chapter": 7,
     "name": "Miga 7",
-    "url": "https://getbible.net/v2/aov/33/7.json",
+    "url": "https://api.getbible.net/v2/aov/33/7.json",
     "sha": "81b76205ec78d24cba3a0f77c30a513d1139cf29"
   }
 }

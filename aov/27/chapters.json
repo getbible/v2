@@ -10,7 +10,7 @@
     "book_name": "Daniël",
     "chapter": 1,
     "name": "Daniël 1",
-    "url": "https://getbible.net/v2/aov/27/1.json",
+    "url": "https://api.getbible.net/v2/aov/27/1.json",
     "sha": "007372bddaa1937826db6f39a7958f403806239c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Daniël",
     "chapter": 2,
     "name": "Daniël 2",
-    "url": "https://getbible.net/v2/aov/27/2.json",
+    "url": "https://api.getbible.net/v2/aov/27/2.json",
     "sha": "d956c4324cae4df50553121d318a5560da4c2dd7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Daniël",
     "chapter": 3,
     "name": "Daniël 3",
-    "url": "https://getbible.net/v2/aov/27/3.json",
+    "url": "https://api.getbible.net/v2/aov/27/3.json",
     "sha": "7315260eb3340cdcafcdf0ada6802dddfe454224"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Daniël",
     "chapter": 4,
     "name": "Daniël 4",
-    "url": "https://getbible.net/v2/aov/27/4.json",
+    "url": "https://api.getbible.net/v2/aov/27/4.json",
     "sha": "e7037628483d45b3ac3beae3a107cc8a005ec422"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Daniël",
     "chapter": 5,
     "name": "Daniël 5",
-    "url": "https://getbible.net/v2/aov/27/5.json",
+    "url": "https://api.getbible.net/v2/aov/27/5.json",
     "sha": "cb84ca8ff444ac567c167dfdcc013a5eb68ae933"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Daniël",
     "chapter": 6,
     "name": "Daniël 6",
-    "url": "https://getbible.net/v2/aov/27/6.json",
+    "url": "https://api.getbible.net/v2/aov/27/6.json",
     "sha": "55bfad775d79b8ce8c5cf4e7afe2c1db6b1795fe"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Daniël",
     "chapter": 7,
     "name": "Daniël 7",
-    "url": "https://getbible.net/v2/aov/27/7.json",
+    "url": "https://api.getbible.net/v2/aov/27/7.json",
     "sha": "ab8831d80b96d72c911e02c0dfff83417aba53da"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Daniël",
     "chapter": 8,
     "name": "Daniël 8",
-    "url": "https://getbible.net/v2/aov/27/8.json",
+    "url": "https://api.getbible.net/v2/aov/27/8.json",
     "sha": "147c2e0dedddab40916be5cc9cab79e60e292c60"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Daniël",
     "chapter": 9,
     "name": "Daniël 9",
-    "url": "https://getbible.net/v2/aov/27/9.json",
+    "url": "https://api.getbible.net/v2/aov/27/9.json",
     "sha": "09f75274cb06995ee31a5ae9ea5c4b820589b557"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Daniël",
     "chapter": 10,
     "name": "Daniël 10",
-    "url": "https://getbible.net/v2/aov/27/10.json",
+    "url": "https://api.getbible.net/v2/aov/27/10.json",
     "sha": "34317709b5e0fb971613940ce20f606fe1024406"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Daniël",
     "chapter": 11,
     "name": "Daniël 11",
-    "url": "https://getbible.net/v2/aov/27/11.json",
+    "url": "https://api.getbible.net/v2/aov/27/11.json",
     "sha": "cad1c29ce387e1344e7089af2b9f810e0524a2e5"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Daniël",
     "chapter": 12,
     "name": "Daniël 12",
-    "url": "https://getbible.net/v2/aov/27/12.json",
+    "url": "https://api.getbible.net/v2/aov/27/12.json",
     "sha": "49ddcaae81e8732b97339c04e3c359778895e5af"
   }
 }

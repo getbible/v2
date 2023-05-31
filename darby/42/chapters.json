@@ -10,7 +10,7 @@
     "book_name": "Luke",
     "chapter": 1,
     "name": "Luke 1",
-    "url": "https://getbible.net/v2/darby/42/1.json",
+    "url": "https://api.getbible.net/v2/darby/42/1.json",
     "sha": "9a233d3c3fc88e7a6f7b757825bf2dd7d1182cbc"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Luke",
     "chapter": 2,
     "name": "Luke 2",
-    "url": "https://getbible.net/v2/darby/42/2.json",
+    "url": "https://api.getbible.net/v2/darby/42/2.json",
     "sha": "58943900d982fd1d8ede885eb96385f67356f33f"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Luke",
     "chapter": 3,
     "name": "Luke 3",
-    "url": "https://getbible.net/v2/darby/42/3.json",
+    "url": "https://api.getbible.net/v2/darby/42/3.json",
     "sha": "f2b7099c0ba323f0761adf47d5998313ba379958"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Luke",
     "chapter": 4,
     "name": "Luke 4",
-    "url": "https://getbible.net/v2/darby/42/4.json",
+    "url": "https://api.getbible.net/v2/darby/42/4.json",
     "sha": "9e4173af5ff4095d281e52e7a9f7d7ca54a9e510"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Luke",
     "chapter": 5,
     "name": "Luke 5",
-    "url": "https://getbible.net/v2/darby/42/5.json",
+    "url": "https://api.getbible.net/v2/darby/42/5.json",
     "sha": "a62c1d3c7a0d989213d5e103a5ed26f4d91ee0b4"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Luke",
     "chapter": 6,
     "name": "Luke 6",
-    "url": "https://getbible.net/v2/darby/42/6.json",
+    "url": "https://api.getbible.net/v2/darby/42/6.json",
     "sha": "c00db18732c1c427ce90f40a05cc9a4d3b3b02ca"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Luke",
     "chapter": 7,
     "name": "Luke 7",
-    "url": "https://getbible.net/v2/darby/42/7.json",
+    "url": "https://api.getbible.net/v2/darby/42/7.json",
     "sha": "bf7fe7a185b28a75574302f0ccc2546ecd91cb7a"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Luke",
     "chapter": 8,
     "name": "Luke 8",
-    "url": "https://getbible.net/v2/darby/42/8.json",
+    "url": "https://api.getbible.net/v2/darby/42/8.json",
     "sha": "16c70bff7dfdf694e2345f2d6aa442d5e768da6b"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Luke",
     "chapter": 9,
     "name": "Luke 9",
-    "url": "https://getbible.net/v2/darby/42/9.json",
+    "url": "https://api.getbible.net/v2/darby/42/9.json",
     "sha": "4637681d169e56a07e2df4ddf1953e4eeed1bd8e"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Luke",
     "chapter": 10,
     "name": "Luke 10",
-    "url": "https://getbible.net/v2/darby/42/10.json",
+    "url": "https://api.getbible.net/v2/darby/42/10.json",
     "sha": "07904ec4afeec522fec880c93aec8d5bc65b8f38"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Luke",
     "chapter": 11,
     "name": "Luke 11",
-    "url": "https://getbible.net/v2/darby/42/11.json",
+    "url": "https://api.getbible.net/v2/darby/42/11.json",
     "sha": "7c0ee28df68f82898fd64f3df04b10f73fc977ae"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Luke",
     "chapter": 12,
     "name": "Luke 12",
-    "url": "https://getbible.net/v2/darby/42/12.json",
+    "url": "https://api.getbible.net/v2/darby/42/12.json",
     "sha": "9b4df045448fd292b5bf3771a67760f59deab56d"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Luke",
     "chapter": 13,
     "name": "Luke 13",
-    "url": "https://getbible.net/v2/darby/42/13.json",
+    "url": "https://api.getbible.net/v2/darby/42/13.json",
     "sha": "fa3dfb19765562be054910ab557a10d427bee592"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Luke",
     "chapter": 14,
     "name": "Luke 14",
-    "url": "https://getbible.net/v2/darby/42/14.json",
+    "url": "https://api.getbible.net/v2/darby/42/14.json",
     "sha": "59687772816f5355d4d20413c87ad3897de99ba2"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Luke",
     "chapter": 15,
     "name": "Luke 15",
-    "url": "https://getbible.net/v2/darby/42/15.json",
+    "url": "https://api.getbible.net/v2/darby/42/15.json",
     "sha": "8be6b6a631d795e0a5597e9d39473d6e5c30334f"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Luke",
     "chapter": 16,
     "name": "Luke 16",
-    "url": "https://getbible.net/v2/darby/42/16.json",
+    "url": "https://api.getbible.net/v2/darby/42/16.json",
     "sha": "0a374655649cc848aef77738042028b49869166f"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Luke",
     "chapter": 17,
     "name": "Luke 17",
-    "url": "https://getbible.net/v2/darby/42/17.json",
+    "url": "https://api.getbible.net/v2/darby/42/17.json",
     "sha": "eccfa2bf5a8a4d0bc871b55543c202fbfa321bf4"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Luke",
     "chapter": 18,
     "name": "Luke 18",
-    "url": "https://getbible.net/v2/darby/42/18.json",
+    "url": "https://api.getbible.net/v2/darby/42/18.json",
     "sha": "e20fd57fcfb961f7231a53c1aaea36cb89ea62ac"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Luke",
     "chapter": 19,
     "name": "Luke 19",
-    "url": "https://getbible.net/v2/darby/42/19.json",
+    "url": "https://api.getbible.net/v2/darby/42/19.json",
     "sha": "7fc483d17db8368af026ea5ddf79307bcb6eae28"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Luke",
     "chapter": 20,
     "name": "Luke 20",
-    "url": "https://getbible.net/v2/darby/42/20.json",
+    "url": "https://api.getbible.net/v2/darby/42/20.json",
     "sha": "8add2f9399adb2b04a80a5cc2571a03471927ae1"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Luke",
     "chapter": 21,
     "name": "Luke 21",
-    "url": "https://getbible.net/v2/darby/42/21.json",
+    "url": "https://api.getbible.net/v2/darby/42/21.json",
     "sha": "e4e036edf8d13f9b11f9b6300975e411956b12ec"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Luke",
     "chapter": 22,
     "name": "Luke 22",
-    "url": "https://getbible.net/v2/darby/42/22.json",
+    "url": "https://api.getbible.net/v2/darby/42/22.json",
     "sha": "45a677f08f9f1c13e7b76eeaac35675baa3c075d"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Luke",
     "chapter": 23,
     "name": "Luke 23",
-    "url": "https://getbible.net/v2/darby/42/23.json",
+    "url": "https://api.getbible.net/v2/darby/42/23.json",
     "sha": "fefac6102961c8b01db4bc30cc94f0d4ffd253b6"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Luke",
     "chapter": 24,
     "name": "Luke 24",
-    "url": "https://getbible.net/v2/darby/42/24.json",
+    "url": "https://api.getbible.net/v2/darby/42/24.json",
     "sha": "f18352581dcdffb193fd5ffbcba62af9f505ef63"
   }
 }

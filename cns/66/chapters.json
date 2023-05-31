@@ -10,7 +10,7 @@
     "book_name": "启示录",
     "chapter": 1,
     "name": "启示录 1",
-    "url": "https://getbible.net/v2/cns/66/1.json",
+    "url": "https://api.getbible.net/v2/cns/66/1.json",
     "sha": "c1a428236c1be0574c151a1f5cdc5263d3095bcb"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "启示录",
     "chapter": 2,
     "name": "启示录 2",
-    "url": "https://getbible.net/v2/cns/66/2.json",
+    "url": "https://api.getbible.net/v2/cns/66/2.json",
     "sha": "19c06dcefe50293c807293a56673dc1793325fa0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "启示录",
     "chapter": 3,
     "name": "启示录 3",
-    "url": "https://getbible.net/v2/cns/66/3.json",
+    "url": "https://api.getbible.net/v2/cns/66/3.json",
     "sha": "6052c74d73f2d5ba3c8fad245e201b0e2061a38a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "启示录",
     "chapter": 4,
     "name": "启示录 4",
-    "url": "https://getbible.net/v2/cns/66/4.json",
+    "url": "https://api.getbible.net/v2/cns/66/4.json",
     "sha": "955fb7c5d37a650efa7676a7774356b1b255e193"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "启示录",
     "chapter": 5,
     "name": "启示录 5",
-    "url": "https://getbible.net/v2/cns/66/5.json",
+    "url": "https://api.getbible.net/v2/cns/66/5.json",
     "sha": "7205c0da08fe0c4ba8ceb1ac497ad68437c710d7"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "启示录",
     "chapter": 6,
     "name": "启示录 6",
-    "url": "https://getbible.net/v2/cns/66/6.json",
+    "url": "https://api.getbible.net/v2/cns/66/6.json",
     "sha": "eb894b2f23a424189d058867a744ebcc9441b0e1"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "启示录",
     "chapter": 7,
     "name": "启示录 7",
-    "url": "https://getbible.net/v2/cns/66/7.json",
+    "url": "https://api.getbible.net/v2/cns/66/7.json",
     "sha": "a490a698bf8f2de92be329609c0c92d21323c5fa"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "启示录",
     "chapter": 8,
     "name": "启示录 8",
-    "url": "https://getbible.net/v2/cns/66/8.json",
+    "url": "https://api.getbible.net/v2/cns/66/8.json",
     "sha": "630764699845bccae5f9d5bdaa0e73879358b272"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "启示录",
     "chapter": 9,
     "name": "启示录 9",
-    "url": "https://getbible.net/v2/cns/66/9.json",
+    "url": "https://api.getbible.net/v2/cns/66/9.json",
     "sha": "96aa18383dcc8ca5337621537702d60257a71fb4"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "启示录",
     "chapter": 10,
     "name": "启示录 10",
-    "url": "https://getbible.net/v2/cns/66/10.json",
+    "url": "https://api.getbible.net/v2/cns/66/10.json",
     "sha": "dbef9552c7d1466456c027bc6e8009224aec4d37"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "启示录",
     "chapter": 11,
     "name": "启示录 11",
-    "url": "https://getbible.net/v2/cns/66/11.json",
+    "url": "https://api.getbible.net/v2/cns/66/11.json",
     "sha": "3a4b6a657d90a836527709d6d7f1cfbd3371ebb9"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "启示录",
     "chapter": 12,
     "name": "启示录 12",
-    "url": "https://getbible.net/v2/cns/66/12.json",
+    "url": "https://api.getbible.net/v2/cns/66/12.json",
     "sha": "909f92cfa3312a2be8099e1a96c9517610a9a4ea"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "启示录",
     "chapter": 13,
     "name": "启示录 13",
-    "url": "https://getbible.net/v2/cns/66/13.json",
+    "url": "https://api.getbible.net/v2/cns/66/13.json",
     "sha": "eeb65d76bbe6cc26f6fd70b092a0581dc8820bd0"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "启示录",
     "chapter": 14,
     "name": "启示录 14",
-    "url": "https://getbible.net/v2/cns/66/14.json",
+    "url": "https://api.getbible.net/v2/cns/66/14.json",
     "sha": "ce38d25732f682d2f696ff735b7a1d9d750ea219"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "启示录",
     "chapter": 15,
     "name": "启示录 15",
-    "url": "https://getbible.net/v2/cns/66/15.json",
+    "url": "https://api.getbible.net/v2/cns/66/15.json",
     "sha": "483dd535fbb55807315d2993ce923c7ecfad468f"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "启示录",
     "chapter": 16,
     "name": "启示录 16",
-    "url": "https://getbible.net/v2/cns/66/16.json",
+    "url": "https://api.getbible.net/v2/cns/66/16.json",
     "sha": "8f46cfac091ffbc02507eafb9483df784017821d"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "启示录",
     "chapter": 17,
     "name": "启示录 17",
-    "url": "https://getbible.net/v2/cns/66/17.json",
+    "url": "https://api.getbible.net/v2/cns/66/17.json",
     "sha": "a6290ec0c689a1ba6e9fa3f2e36dc549daa6edc1"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "启示录",
     "chapter": 18,
     "name": "启示录 18",
-    "url": "https://getbible.net/v2/cns/66/18.json",
+    "url": "https://api.getbible.net/v2/cns/66/18.json",
     "sha": "5400fc59575a97170aed89181060f6dfaf48ebb6"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "启示录",
     "chapter": 19,
     "name": "启示录 19",
-    "url": "https://getbible.net/v2/cns/66/19.json",
+    "url": "https://api.getbible.net/v2/cns/66/19.json",
     "sha": "b321a1235ebdb54f1de87c469168a1afe676f79e"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "启示录",
     "chapter": 20,
     "name": "启示录 20",
-    "url": "https://getbible.net/v2/cns/66/20.json",
+    "url": "https://api.getbible.net/v2/cns/66/20.json",
     "sha": "f7e91f898a6d81f2d9ba370d206cc455a83dc8df"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "启示录",
     "chapter": 21,
     "name": "启示录 21",
-    "url": "https://getbible.net/v2/cns/66/21.json",
+    "url": "https://api.getbible.net/v2/cns/66/21.json",
     "sha": "15e4c27fba204b541798559b3a46b768df4806dd"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "启示录",
     "chapter": 22,
     "name": "启示录 22",
-    "url": "https://getbible.net/v2/cns/66/22.json",
+    "url": "https://api.getbible.net/v2/cns/66/22.json",
     "sha": "75d9fef68c207289a8501cbc4093b16dbc00fbaa"
   }
 }

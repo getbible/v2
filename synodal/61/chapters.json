@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/synodal/61/1.json",
+    "url": "https://api.getbible.net/v2/synodal/61/1.json",
     "sha": "35c46417376b1343bb54192a932ea024306bc57a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/synodal/61/2.json",
+    "url": "https://api.getbible.net/v2/synodal/61/2.json",
     "sha": "fee350e1437eba97c58b29ea20f8c337cff1eff0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/synodal/61/3.json",
+    "url": "https://api.getbible.net/v2/synodal/61/3.json",
     "sha": "760efd4d22b42295d959886647e77621765ffbac"
   }
 }

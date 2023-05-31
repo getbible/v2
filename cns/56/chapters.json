@@ -10,7 +10,7 @@
     "book_name": "提多书",
     "chapter": 1,
     "name": "提多书 1",
-    "url": "https://getbible.net/v2/cns/56/1.json",
+    "url": "https://api.getbible.net/v2/cns/56/1.json",
     "sha": "7dd38e76338c8b72e28779ea9d7b4d873159b1fb"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "提多书",
     "chapter": 2,
     "name": "提多书 2",
-    "url": "https://getbible.net/v2/cns/56/2.json",
+    "url": "https://api.getbible.net/v2/cns/56/2.json",
     "sha": "79e67ab6ccde3361088c32ed4994b2a8040c7ed9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "提多书",
     "chapter": 3,
     "name": "提多书 3",
-    "url": "https://getbible.net/v2/cns/56/3.json",
+    "url": "https://api.getbible.net/v2/cns/56/3.json",
     "sha": "737bc180c80d2fc6e6a32f52e9ea0e7efd8bdd23"
   }
 }

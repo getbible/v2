@@ -10,7 +10,7 @@
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
-    "url": "https://getbible.net/v2/statenvertaling/39/1.json",
+    "url": "https://api.getbible.net/v2/statenvertaling/39/1.json",
     "sha": "283c65e84c7106b5c4051d071a124925c8f4744a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
-    "url": "https://getbible.net/v2/statenvertaling/39/2.json",
+    "url": "https://api.getbible.net/v2/statenvertaling/39/2.json",
     "sha": "3e3707e769a405133678b56dc153d6975a33dacb"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
-    "url": "https://getbible.net/v2/statenvertaling/39/3.json",
+    "url": "https://api.getbible.net/v2/statenvertaling/39/3.json",
     "sha": "611154b65ab502bda9131310d7816f6f96d1bfc2"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Malachi",
     "chapter": 4,
     "name": "Malachi 4",
-    "url": "https://getbible.net/v2/statenvertaling/39/4.json",
+    "url": "https://api.getbible.net/v2/statenvertaling/39/4.json",
     "sha": "16f729657b4b0f64fee12588419052191199ead4"
   }
 }

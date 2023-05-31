@@ -10,7 +10,7 @@
     "book_name": "Wisdom",
     "chapter": 1,
     "name": "Wisdom 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/1.json",
     "sha": "1c878d6d9bfb07a3b3053b62eb6337a74a560129"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Wisdom",
     "chapter": 2,
     "name": "Wisdom 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/2.json",
     "sha": "c53e98ced84541c04a957e1074d1e78521b225a9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Wisdom",
     "chapter": 3,
     "name": "Wisdom 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/3.json",
     "sha": "140e02e71a9d21bcb10fb32a97db18cd463b6549"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Wisdom",
     "chapter": 4,
     "name": "Wisdom 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/4.json",
     "sha": "8bdb2ee2c1b28d81ec166426105aee0ad80a0c1e"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Wisdom",
     "chapter": 5,
     "name": "Wisdom 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/5.json",
     "sha": "288b6ebc7537ca9b8fac816882ea1c48d359f6a2"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Wisdom",
     "chapter": 6,
     "name": "Wisdom 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/6.json",
     "sha": "2acd5301470f3f5f5d86c72a09d12ab875b39a51"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Wisdom",
     "chapter": 7,
     "name": "Wisdom 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/7.json",
     "sha": "a6907e4671fc6ce992d89854d2541e6e1965e207"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Wisdom",
     "chapter": 8,
     "name": "Wisdom 8",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/8.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/8.json",
     "sha": "14d49894747bf3251a2380e511074d619b491057"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Wisdom",
     "chapter": 9,
     "name": "Wisdom 9",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/9.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/9.json",
     "sha": "f34c7a9fe8971983326ddc697e0d8fe35f4078d3"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Wisdom",
     "chapter": 10,
     "name": "Wisdom 10",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/10.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/10.json",
     "sha": "00c0516016ead341c81892c04b025496c4fa2077"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Wisdom",
     "chapter": 11,
     "name": "Wisdom 11",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/11.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/11.json",
     "sha": "3c32714da176f7d9cf9ee79f6d9dc7f8dd8a0de9"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Wisdom",
     "chapter": 12,
     "name": "Wisdom 12",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/12.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/12.json",
     "sha": "05424aaa9b0df82d2dac3603603f280a42fe9d73"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Wisdom",
     "chapter": 13,
     "name": "Wisdom 13",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/13.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/13.json",
     "sha": "66149f8ca0341af64ba7055d51be3d4708741e20"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Wisdom",
     "chapter": 14,
     "name": "Wisdom 14",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/14.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/14.json",
     "sha": "3e15aa0173d7c43f2f24e5274a65bedae60e3784"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Wisdom",
     "chapter": 15,
     "name": "Wisdom 15",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/15.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/15.json",
     "sha": "481fbfa9685cfb629d67c9f05d7c863f6a786d4d"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Wisdom",
     "chapter": 16,
     "name": "Wisdom 16",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/16.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/16.json",
     "sha": "d1122fd42576e521af5259fcd6d0043211bfffcc"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Wisdom",
     "chapter": 17,
     "name": "Wisdom 17",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/17.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/17.json",
     "sha": "3d836751d45a3b8dccb9e9a8287a082741752bfa"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Wisdom",
     "chapter": 18,
     "name": "Wisdom 18",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/18.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/18.json",
     "sha": "0ee98e76dcfc7e4baa24f3d72afdd71f58575169"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Wisdom",
     "chapter": 19,
     "name": "Wisdom 19",
-    "url": "https://getbible.net/v2/pyharaamattu1933/73/19.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/73/19.json",
     "sha": "c2fb36a492955a503bfdc5608b773d8ffdaa84b6"
   }
 }

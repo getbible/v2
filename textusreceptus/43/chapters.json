@@ -10,7 +10,7 @@
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
-    "url": "https://getbible.net/v2/textusreceptus/43/1.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/1.json",
     "sha": "eb0b589055e52af04f9a86b9ef2e432a773f0701"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
-    "url": "https://getbible.net/v2/textusreceptus/43/2.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/2.json",
     "sha": "9cd751bc5727104a54125137667373b4c87d4d1a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
-    "url": "https://getbible.net/v2/textusreceptus/43/3.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/3.json",
     "sha": "a1d4dbd507192d4d0266ccac8bef328c64c2786e"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
-    "url": "https://getbible.net/v2/textusreceptus/43/4.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/4.json",
     "sha": "c091e2ecfb2e5d702aa4994b223fe2ee302d3839"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
-    "url": "https://getbible.net/v2/textusreceptus/43/5.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/5.json",
     "sha": "db6e5352445997397e7766daed4134d5b4833374"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
-    "url": "https://getbible.net/v2/textusreceptus/43/6.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/6.json",
     "sha": "076106d9c7358e4fb2452de780165dc6f14f7568"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
-    "url": "https://getbible.net/v2/textusreceptus/43/7.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/7.json",
     "sha": "415431e097bb271a4af6c0543d3cbf27055caf02"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
-    "url": "https://getbible.net/v2/textusreceptus/43/8.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/8.json",
     "sha": "41a6c3e127e75482f39bf58cc239d3943bfc5b71"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
-    "url": "https://getbible.net/v2/textusreceptus/43/9.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/9.json",
     "sha": "17c2d67ec27a6d241331b12895106a1d06fbb20d"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
-    "url": "https://getbible.net/v2/textusreceptus/43/10.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/10.json",
     "sha": "8770c22677ba954761b8c174cf9930d4d692a445"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
-    "url": "https://getbible.net/v2/textusreceptus/43/11.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/11.json",
     "sha": "fb03384161cfddbd1d5a0d310a06ab6700e24599"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
-    "url": "https://getbible.net/v2/textusreceptus/43/12.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/12.json",
     "sha": "07212c6655101b1070209e8baec6a04c10bb4edc"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
-    "url": "https://getbible.net/v2/textusreceptus/43/13.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/13.json",
     "sha": "e7745c83f4a7c5b27ea28698cdcc834e0cca8675"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
-    "url": "https://getbible.net/v2/textusreceptus/43/14.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/14.json",
     "sha": "5f0730f5f0a89221c8ef06dded5c3a2db581643f"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
-    "url": "https://getbible.net/v2/textusreceptus/43/15.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/15.json",
     "sha": "43d0ece78c2425fcd858dcca5711ebffa1a165f1"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
-    "url": "https://getbible.net/v2/textusreceptus/43/16.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/16.json",
     "sha": "f6ba934ecd46492a2939cf92f1079244738f55e5"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
-    "url": "https://getbible.net/v2/textusreceptus/43/17.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/17.json",
     "sha": "a4f9814c0ea1b0debeb43f58c08afc71a58e6b60"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
-    "url": "https://getbible.net/v2/textusreceptus/43/18.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/18.json",
     "sha": "a70ddd00cfe84deee2ead645faed7d7376aae8c8"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
-    "url": "https://getbible.net/v2/textusreceptus/43/19.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/19.json",
     "sha": "8c75d10d90c80bcc38e0758c862732ea50487ade"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
-    "url": "https://getbible.net/v2/textusreceptus/43/20.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/20.json",
     "sha": "0ed3c0b3d81a70497ba6b53a6cb9cb1593ab3ddb"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
-    "url": "https://getbible.net/v2/textusreceptus/43/21.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43/21.json",
     "sha": "aa1e3edabd1ca2878e52747e2bd72c1749327cda"
   }
 }

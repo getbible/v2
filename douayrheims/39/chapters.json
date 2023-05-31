@@ -10,7 +10,7 @@
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
-    "url": "https://getbible.net/v2/douayrheims/39/1.json",
+    "url": "https://api.getbible.net/v2/douayrheims/39/1.json",
     "sha": "ebd9d5bb29c130d81f938a97665a46f54abd1949"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
-    "url": "https://getbible.net/v2/douayrheims/39/2.json",
+    "url": "https://api.getbible.net/v2/douayrheims/39/2.json",
     "sha": "8d533806a4f7ff19c94805f7842612cfe99e93c2"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
-    "url": "https://getbible.net/v2/douayrheims/39/3.json",
+    "url": "https://api.getbible.net/v2/douayrheims/39/3.json",
     "sha": "f55f877170c5a58261ad7d32894a5dac7506f7ed"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Malachi",
     "chapter": 4,
     "name": "Malachi 4",
-    "url": "https://getbible.net/v2/douayrheims/39/4.json",
+    "url": "https://api.getbible.net/v2/douayrheims/39/4.json",
     "sha": "f1a72698e6d2e55359323d80074b1619e05aac45"
   }
 }

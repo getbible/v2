@@ -10,7 +10,7 @@
     "book_name": "Mark",
     "chapter": 1,
     "name": "Mark 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/1.json",
     "sha": "1e78fad06d9fcdf3aaf5401454406e270d7e3086"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Mark",
     "chapter": 2,
     "name": "Mark 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/2.json",
     "sha": "c704df3ed58f9ec5eef0c040c7b8fdc6e8a0e940"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Mark",
     "chapter": 3,
     "name": "Mark 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/3.json",
     "sha": "fa319fea9cce3347da5ed4da3fb7e1f23a755aab"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Mark",
     "chapter": 4,
     "name": "Mark 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/4.json",
     "sha": "17d3630c84d0c7fb75bfc57e32fb256bef3bba1e"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Mark",
     "chapter": 5,
     "name": "Mark 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/5.json",
     "sha": "79d43837d8b31e5688e6d6902b9257213814d575"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Mark",
     "chapter": 6,
     "name": "Mark 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/6.json",
     "sha": "6e9a105a721a95c58b10be3fe59656cef03e4547"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Mark",
     "chapter": 7,
     "name": "Mark 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/7.json",
     "sha": "9b14e0018eb1042262a778870cce2c2292ca2ad2"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Mark",
     "chapter": 8,
     "name": "Mark 8",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/8.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/8.json",
     "sha": "c5a1700df8b02a9edf7857e43e8f23e31c1b6e65"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Mark",
     "chapter": 9,
     "name": "Mark 9",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/9.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/9.json",
     "sha": "fbacd9c1ea1081c2f2f60ed0d41bc14c9e236e08"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Mark",
     "chapter": 10,
     "name": "Mark 10",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/10.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/10.json",
     "sha": "8996707a158e235d076faf2dc302e0e3e611b665"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Mark",
     "chapter": 11,
     "name": "Mark 11",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/11.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/11.json",
     "sha": "98b5fd3bdb20b9c2372d2825afa48e280ac217af"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Mark",
     "chapter": 12,
     "name": "Mark 12",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/12.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/12.json",
     "sha": "cbf43f9d93c44bef75c7a44739fb88154b1c2d33"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Mark",
     "chapter": 13,
     "name": "Mark 13",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/13.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/13.json",
     "sha": "f6d0411b66d3010de45686b24f7ae89f77f67241"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Mark",
     "chapter": 14,
     "name": "Mark 14",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/14.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/14.json",
     "sha": "6f08a3a1e1f7cf13d028613de5b407a200982d21"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Mark",
     "chapter": 15,
     "name": "Mark 15",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/15.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/15.json",
     "sha": "8eee0b9676c050e2ab365bc0c08ff9c5019433ed"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Mark",
     "chapter": 16,
     "name": "Mark 16",
-    "url": "https://getbible.net/v2/pyharaamattu1933/41/16.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/41/16.json",
     "sha": "41ec83e4e3413f976344ea04b1deaed32214e195"
   }
 }

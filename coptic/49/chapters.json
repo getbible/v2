@@ -10,7 +10,7 @@
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
-    "url": "https://getbible.net/v2/coptic/49/1.json",
+    "url": "https://api.getbible.net/v2/coptic/49/1.json",
     "sha": "ee7e4317bc8b5fe2f2059f34c2427de65a1694b3"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
-    "url": "https://getbible.net/v2/coptic/49/2.json",
+    "url": "https://api.getbible.net/v2/coptic/49/2.json",
     "sha": "dc5834bd1b56f28227b75a586223350a748a936e"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
-    "url": "https://getbible.net/v2/coptic/49/3.json",
+    "url": "https://api.getbible.net/v2/coptic/49/3.json",
     "sha": "5745fdcce85d9ba02e4d7c8327ff88611051043b"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
-    "url": "https://getbible.net/v2/coptic/49/4.json",
+    "url": "https://api.getbible.net/v2/coptic/49/4.json",
     "sha": "5e388357603b9ead6d0fb641ecd2954ae87948c2"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
-    "url": "https://getbible.net/v2/coptic/49/5.json",
+    "url": "https://api.getbible.net/v2/coptic/49/5.json",
     "sha": "436432c6571a31ced73199bf0bc2e4e248b9ad37"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
-    "url": "https://getbible.net/v2/coptic/49/6.json",
+    "url": "https://api.getbible.net/v2/coptic/49/6.json",
     "sha": "ea3d02dd3c56a4bb43d6e5b060375c1375a5adcf"
   }
 }

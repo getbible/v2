@@ -10,7 +10,7 @@
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/39/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/39/1.json",
     "sha": "14c142d53b4443032a10ec046ef4627fa488acba"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/39/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/39/2.json",
     "sha": "fa9c7b30b2d5507d017d19e655e03497511b4931"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/39/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/39/3.json",
     "sha": "55ad32fc343ca7a56c22d52289be38810c63b554"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Malachi",
     "chapter": 4,
     "name": "Malachi 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/39/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/39/4.json",
     "sha": "e615b2d4d85dc432731747117ee03e0fa90cfd1a"
   }
 }

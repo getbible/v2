@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/kjv/37/1.json",
+    "url": "https://api.getbible.net/v2/kjv/37/1.json",
     "sha": "b5f253557938debaa6727729187e33b22627fc8c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/kjv/37/2.json",
+    "url": "https://api.getbible.net/v2/kjv/37/2.json",
     "sha": "f8420286b6ff00c9870ac2c77f6b70693cf2d151"
   }
 }

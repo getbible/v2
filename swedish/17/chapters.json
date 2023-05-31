@@ -10,7 +10,7 @@
     "book_name": "Esther",
     "chapter": 1,
     "name": "Esther 1",
-    "url": "https://getbible.net/v2/swedish/17/1.json",
+    "url": "https://api.getbible.net/v2/swedish/17/1.json",
     "sha": "307a06eeb3d9b5c35213d68e5828e3913949d813"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Esther",
     "chapter": 2,
     "name": "Esther 2",
-    "url": "https://getbible.net/v2/swedish/17/2.json",
+    "url": "https://api.getbible.net/v2/swedish/17/2.json",
     "sha": "14c93d9a429097327a3aba869016fb5ae6a2c976"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Esther",
     "chapter": 3,
     "name": "Esther 3",
-    "url": "https://getbible.net/v2/swedish/17/3.json",
+    "url": "https://api.getbible.net/v2/swedish/17/3.json",
     "sha": "7bcd80cb405edd17406ca1066fec4a0bd5baba56"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Esther",
     "chapter": 4,
     "name": "Esther 4",
-    "url": "https://getbible.net/v2/swedish/17/4.json",
+    "url": "https://api.getbible.net/v2/swedish/17/4.json",
     "sha": "0c25b94df84c5f03e6da908cd830b6b4e53ee8c7"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Esther",
     "chapter": 5,
     "name": "Esther 5",
-    "url": "https://getbible.net/v2/swedish/17/5.json",
+    "url": "https://api.getbible.net/v2/swedish/17/5.json",
     "sha": "2a7548c43017f50bbc7c14a884012ba46fa79ec4"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Esther",
     "chapter": 6,
     "name": "Esther 6",
-    "url": "https://getbible.net/v2/swedish/17/6.json",
+    "url": "https://api.getbible.net/v2/swedish/17/6.json",
     "sha": "9d070edc8a1040cf115d4030577ffb438b6f529b"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Esther",
     "chapter": 7,
     "name": "Esther 7",
-    "url": "https://getbible.net/v2/swedish/17/7.json",
+    "url": "https://api.getbible.net/v2/swedish/17/7.json",
     "sha": "2e5d43d37c5fee4e06f02b0b1f381a54aec332ef"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Esther",
     "chapter": 8,
     "name": "Esther 8",
-    "url": "https://getbible.net/v2/swedish/17/8.json",
+    "url": "https://api.getbible.net/v2/swedish/17/8.json",
     "sha": "cfc465cb7840b7baf3b14a6801f8cc141a513fff"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Esther",
     "chapter": 9,
     "name": "Esther 9",
-    "url": "https://getbible.net/v2/swedish/17/9.json",
+    "url": "https://api.getbible.net/v2/swedish/17/9.json",
     "sha": "d1358ddfdc67a5527110e047f6b48ae467179d4b"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Esther",
     "chapter": 10,
     "name": "Esther 10",
-    "url": "https://getbible.net/v2/swedish/17/10.json",
+    "url": "https://api.getbible.net/v2/swedish/17/10.json",
     "sha": "0c82b03844c3efce1ec0b166019a9dfc6998416f"
   }
 }

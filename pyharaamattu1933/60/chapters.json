@@ -10,7 +10,7 @@
     "book_name": "1 Peter",
     "chapter": 1,
     "name": "1 Peter 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/60/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/60/1.json",
     "sha": "2eea45da09d1fe841faa362c601eb57a423690da"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Peter",
     "chapter": 2,
     "name": "1 Peter 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/60/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/60/2.json",
     "sha": "6e2bc057067b683c69aafd067b9e85d71806dc38"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Peter",
     "chapter": 3,
     "name": "1 Peter 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/60/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/60/3.json",
     "sha": "9b67183cba7869e3c00699a2baa65e266f8e3b5b"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Peter",
     "chapter": 4,
     "name": "1 Peter 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/60/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/60/4.json",
     "sha": "dc60e3ee0f3d5dc44acf5b7723616801c3b915f7"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Peter",
     "chapter": 5,
     "name": "1 Peter 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/60/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/60/5.json",
     "sha": "ff14c7f04d62e12e03f39a15520ea9fea835a159"
   }
 }

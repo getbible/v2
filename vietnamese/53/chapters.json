@@ -10,7 +10,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
-    "url": "https://getbible.net/v2/vietnamese/53/1.json",
+    "url": "https://api.getbible.net/v2/vietnamese/53/1.json",
     "sha": "879ebd012969e9e91bba3695f01c82a5a72a2809"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
-    "url": "https://getbible.net/v2/vietnamese/53/2.json",
+    "url": "https://api.getbible.net/v2/vietnamese/53/2.json",
     "sha": "055ed8bb01273dd8498cccc3406a805207262f1c"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
-    "url": "https://getbible.net/v2/vietnamese/53/3.json",
+    "url": "https://api.getbible.net/v2/vietnamese/53/3.json",
     "sha": "503b49119dfbee2371383ee427c681a48f63d492"
   }
 }

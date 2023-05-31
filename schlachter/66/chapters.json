@@ -10,7 +10,7 @@
     "book_name": "Offenbarung",
     "chapter": 1,
     "name": "Offenbarung 1",
-    "url": "https://getbible.net/v2/schlachter/66/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/1.json",
     "sha": "2146f8072cae78e63b32490a20425a213e7d8acf"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Offenbarung",
     "chapter": 2,
     "name": "Offenbarung 2",
-    "url": "https://getbible.net/v2/schlachter/66/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/2.json",
     "sha": "b9d6768521f8e0c124e4e80e5654cc8ba3f16785"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Offenbarung",
     "chapter": 3,
     "name": "Offenbarung 3",
-    "url": "https://getbible.net/v2/schlachter/66/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/3.json",
     "sha": "84b1c04151c71b8eeae484c10663e868afff0b52"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Offenbarung",
     "chapter": 4,
     "name": "Offenbarung 4",
-    "url": "https://getbible.net/v2/schlachter/66/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/4.json",
     "sha": "aef3bfd12cdb4829712bc741519dff8298d68cce"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Offenbarung",
     "chapter": 5,
     "name": "Offenbarung 5",
-    "url": "https://getbible.net/v2/schlachter/66/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/5.json",
     "sha": "3adc0db3bc3f39c5fa06dcceaaf47953506eb3f7"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Offenbarung",
     "chapter": 6,
     "name": "Offenbarung 6",
-    "url": "https://getbible.net/v2/schlachter/66/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/6.json",
     "sha": "52160bab7f8aa5505af530dce021d97b6fe2325b"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Offenbarung",
     "chapter": 7,
     "name": "Offenbarung 7",
-    "url": "https://getbible.net/v2/schlachter/66/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/7.json",
     "sha": "4ce5c3cbacea1cf21749c8b5a8099ae7dc0f0f0a"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Offenbarung",
     "chapter": 8,
     "name": "Offenbarung 8",
-    "url": "https://getbible.net/v2/schlachter/66/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/8.json",
     "sha": "651d6b8de2a8e8c22ca431676c4f869709509c50"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Offenbarung",
     "chapter": 9,
     "name": "Offenbarung 9",
-    "url": "https://getbible.net/v2/schlachter/66/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/9.json",
     "sha": "9f10da03c302b4e1214f16d53683dc72fa97b515"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Offenbarung",
     "chapter": 10,
     "name": "Offenbarung 10",
-    "url": "https://getbible.net/v2/schlachter/66/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/10.json",
     "sha": "e4c4eb5269e8edd7b7820be204bf1ea4e2faf5f6"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Offenbarung",
     "chapter": 11,
     "name": "Offenbarung 11",
-    "url": "https://getbible.net/v2/schlachter/66/11.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/11.json",
     "sha": "f00ae79cfdc958d21fec7b995c0ba73b7169989d"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Offenbarung",
     "chapter": 12,
     "name": "Offenbarung 12",
-    "url": "https://getbible.net/v2/schlachter/66/12.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/12.json",
     "sha": "f0766e727f5028480263dd1b5ce9bdefda2b8b4b"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Offenbarung",
     "chapter": 13,
     "name": "Offenbarung 13",
-    "url": "https://getbible.net/v2/schlachter/66/13.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/13.json",
     "sha": "26528c5141a9bb31bb11ec1a5c0d494f5a5de440"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Offenbarung",
     "chapter": 14,
     "name": "Offenbarung 14",
-    "url": "https://getbible.net/v2/schlachter/66/14.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/14.json",
     "sha": "bd97da71ca7389614214a2ae4c60be1762e44743"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Offenbarung",
     "chapter": 15,
     "name": "Offenbarung 15",
-    "url": "https://getbible.net/v2/schlachter/66/15.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/15.json",
     "sha": "1165bd7436198724a6dcaad21c8ff513a7d63b7c"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Offenbarung",
     "chapter": 16,
     "name": "Offenbarung 16",
-    "url": "https://getbible.net/v2/schlachter/66/16.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/16.json",
     "sha": "2815c8ccc04f312e17e198bbb1e78475b35f1c44"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Offenbarung",
     "chapter": 17,
     "name": "Offenbarung 17",
-    "url": "https://getbible.net/v2/schlachter/66/17.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/17.json",
     "sha": "1913d5832831055f007881217f15be55c34c4710"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Offenbarung",
     "chapter": 18,
     "name": "Offenbarung 18",
-    "url": "https://getbible.net/v2/schlachter/66/18.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/18.json",
     "sha": "52a8d7057d1dbb56e37bf15a2efbacac70f5a44e"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Offenbarung",
     "chapter": 19,
     "name": "Offenbarung 19",
-    "url": "https://getbible.net/v2/schlachter/66/19.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/19.json",
     "sha": "ea852e4763dde8bebcb1b9a99d88b7c3781fd746"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Offenbarung",
     "chapter": 20,
     "name": "Offenbarung 20",
-    "url": "https://getbible.net/v2/schlachter/66/20.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/20.json",
     "sha": "0e7f223ad643ed5fe6925625d185ac9e8383972b"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Offenbarung",
     "chapter": 21,
     "name": "Offenbarung 21",
-    "url": "https://getbible.net/v2/schlachter/66/21.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/21.json",
     "sha": "51accb62621d2fecb8a0c87ca6d5a295ec3c5855"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Offenbarung",
     "chapter": 22,
     "name": "Offenbarung 22",
-    "url": "https://getbible.net/v2/schlachter/66/22.json",
+    "url": "https://api.getbible.net/v2/schlachter/66/22.json",
     "sha": "441eb980993d151b2a9ba7e2f7f953efebdd31a8"
   }
 }

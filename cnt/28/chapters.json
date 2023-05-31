@@ -10,7 +10,7 @@
     "book_name": "何西阿書",
     "chapter": 1,
     "name": "何西阿書 1",
-    "url": "https://getbible.net/v2/cnt/28/1.json",
+    "url": "https://api.getbible.net/v2/cnt/28/1.json",
     "sha": "0edfbb547ffd6259f4abd84c9a63b81abc627d9d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "何西阿書",
     "chapter": 2,
     "name": "何西阿書 2",
-    "url": "https://getbible.net/v2/cnt/28/2.json",
+    "url": "https://api.getbible.net/v2/cnt/28/2.json",
     "sha": "0fa100fe09627da2a69788fe5c0b6f8f599ac7e8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "何西阿書",
     "chapter": 3,
     "name": "何西阿書 3",
-    "url": "https://getbible.net/v2/cnt/28/3.json",
+    "url": "https://api.getbible.net/v2/cnt/28/3.json",
     "sha": "79e716542834357d4c95d038ccd586bffaa9b209"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "何西阿書",
     "chapter": 4,
     "name": "何西阿書 4",
-    "url": "https://getbible.net/v2/cnt/28/4.json",
+    "url": "https://api.getbible.net/v2/cnt/28/4.json",
     "sha": "20d98157a72a2ae835eb434a4ca101fc01b16466"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "何西阿書",
     "chapter": 5,
     "name": "何西阿書 5",
-    "url": "https://getbible.net/v2/cnt/28/5.json",
+    "url": "https://api.getbible.net/v2/cnt/28/5.json",
     "sha": "2f30c747bc50165580422954e9129bea34256105"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "何西阿書",
     "chapter": 6,
     "name": "何西阿書 6",
-    "url": "https://getbible.net/v2/cnt/28/6.json",
+    "url": "https://api.getbible.net/v2/cnt/28/6.json",
     "sha": "25f0654ff2fa56068ed4c55428a7ba9a24bd76a0"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "何西阿書",
     "chapter": 7,
     "name": "何西阿書 7",
-    "url": "https://getbible.net/v2/cnt/28/7.json",
+    "url": "https://api.getbible.net/v2/cnt/28/7.json",
     "sha": "112a8789af04217a822d150a6fb442425f9cafbc"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "何西阿書",
     "chapter": 8,
     "name": "何西阿書 8",
-    "url": "https://getbible.net/v2/cnt/28/8.json",
+    "url": "https://api.getbible.net/v2/cnt/28/8.json",
     "sha": "bed1884c0fb9f57d272083bb9cec799f4c1ff682"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "何西阿書",
     "chapter": 9,
     "name": "何西阿書 9",
-    "url": "https://getbible.net/v2/cnt/28/9.json",
+    "url": "https://api.getbible.net/v2/cnt/28/9.json",
     "sha": "5c2903c00c5c1ede61fd275737ba657830857ee1"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "何西阿書",
     "chapter": 10,
     "name": "何西阿書 10",
-    "url": "https://getbible.net/v2/cnt/28/10.json",
+    "url": "https://api.getbible.net/v2/cnt/28/10.json",
     "sha": "36fb3edf01884d27fd7ae5a317ce1051533e7427"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "何西阿書",
     "chapter": 11,
     "name": "何西阿書 11",
-    "url": "https://getbible.net/v2/cnt/28/11.json",
+    "url": "https://api.getbible.net/v2/cnt/28/11.json",
     "sha": "49df60d0f360dcffde08e96d76f8571cf3c61f70"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "何西阿書",
     "chapter": 12,
     "name": "何西阿書 12",
-    "url": "https://getbible.net/v2/cnt/28/12.json",
+    "url": "https://api.getbible.net/v2/cnt/28/12.json",
     "sha": "0abdaf9ffcd27c27d812af006ebff5c0bc88879b"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "何西阿書",
     "chapter": 13,
     "name": "何西阿書 13",
-    "url": "https://getbible.net/v2/cnt/28/13.json",
+    "url": "https://api.getbible.net/v2/cnt/28/13.json",
     "sha": "efc9e0e348a60c74d793f8d0be66471315c016e9"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "何西阿書",
     "chapter": 14,
     "name": "何西阿書 14",
-    "url": "https://getbible.net/v2/cnt/28/14.json",
+    "url": "https://api.getbible.net/v2/cnt/28/14.json",
     "sha": "8fded3e749fa380d1580d9236b92eaaa83631fd3"
   }
 }

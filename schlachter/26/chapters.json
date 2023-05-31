@@ -10,7 +10,7 @@
     "book_name": "Hesekiel",
     "chapter": 1,
     "name": "Hesekiel 1",
-    "url": "https://getbible.net/v2/schlachter/26/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/1.json",
     "sha": "5479f6358ca566ddd86a5ad36faab85881b057f5"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Hesekiel",
     "chapter": 2,
     "name": "Hesekiel 2",
-    "url": "https://getbible.net/v2/schlachter/26/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/2.json",
     "sha": "0eb9590836b5f9b8d31005a8e57d981804c326f8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Hesekiel",
     "chapter": 3,
     "name": "Hesekiel 3",
-    "url": "https://getbible.net/v2/schlachter/26/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/3.json",
     "sha": "0f35fd91a0c878339dfd8fe0dd44f9d7c60165b2"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Hesekiel",
     "chapter": 4,
     "name": "Hesekiel 4",
-    "url": "https://getbible.net/v2/schlachter/26/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/4.json",
     "sha": "8b61703b475c4dd0e7ad475e005977a38eef8452"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Hesekiel",
     "chapter": 5,
     "name": "Hesekiel 5",
-    "url": "https://getbible.net/v2/schlachter/26/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/5.json",
     "sha": "c2a239c3f2d38872259636d20709e50c19550264"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Hesekiel",
     "chapter": 6,
     "name": "Hesekiel 6",
-    "url": "https://getbible.net/v2/schlachter/26/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/6.json",
     "sha": "713725288226474cc7e9d50cd3f1a2de8aef7ff0"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Hesekiel",
     "chapter": 7,
     "name": "Hesekiel 7",
-    "url": "https://getbible.net/v2/schlachter/26/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/7.json",
     "sha": "a0bb23755539fc3f89b862e1eff26e3dc22cc7e6"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Hesekiel",
     "chapter": 8,
     "name": "Hesekiel 8",
-    "url": "https://getbible.net/v2/schlachter/26/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/8.json",
     "sha": "cac4429b24d0fb2222fcd844926205a8f976bc83"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Hesekiel",
     "chapter": 9,
     "name": "Hesekiel 9",
-    "url": "https://getbible.net/v2/schlachter/26/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/9.json",
     "sha": "8696d348b1ead604a2375a59bdf84f6e1f2ae6d6"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Hesekiel",
     "chapter": 10,
     "name": "Hesekiel 10",
-    "url": "https://getbible.net/v2/schlachter/26/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/10.json",
     "sha": "637510dcc331f9ec5a5b88fcd493ad249c9c40c6"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Hesekiel",
     "chapter": 11,
     "name": "Hesekiel 11",
-    "url": "https://getbible.net/v2/schlachter/26/11.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/11.json",
     "sha": "476872eff0c5edaf1eca48d64157ff74205aa325"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Hesekiel",
     "chapter": 12,
     "name": "Hesekiel 12",
-    "url": "https://getbible.net/v2/schlachter/26/12.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/12.json",
     "sha": "cb94f01b089d7cc54b8129287ebc28d16d84333f"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Hesekiel",
     "chapter": 13,
     "name": "Hesekiel 13",
-    "url": "https://getbible.net/v2/schlachter/26/13.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/13.json",
     "sha": "92f10595f9d390ab99cb9364360882148a914301"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Hesekiel",
     "chapter": 14,
     "name": "Hesekiel 14",
-    "url": "https://getbible.net/v2/schlachter/26/14.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/14.json",
     "sha": "f251821984fe986f2a333f1e700aa87872f4dc64"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Hesekiel",
     "chapter": 15,
     "name": "Hesekiel 15",
-    "url": "https://getbible.net/v2/schlachter/26/15.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/15.json",
     "sha": "47e303b0275677a8f3519588c0ba8d02f8f85c1b"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Hesekiel",
     "chapter": 16,
     "name": "Hesekiel 16",
-    "url": "https://getbible.net/v2/schlachter/26/16.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/16.json",
     "sha": "e6fef78d515fde1335076e423267695d914f6653"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Hesekiel",
     "chapter": 17,
     "name": "Hesekiel 17",
-    "url": "https://getbible.net/v2/schlachter/26/17.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/17.json",
     "sha": "1053cbba9eacafe4c107a8e41b1a65266cea7c74"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Hesekiel",
     "chapter": 18,
     "name": "Hesekiel 18",
-    "url": "https://getbible.net/v2/schlachter/26/18.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/18.json",
     "sha": "dca855c2d3fb6b2e0c8db2a016426f926a191dc1"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Hesekiel",
     "chapter": 19,
     "name": "Hesekiel 19",
-    "url": "https://getbible.net/v2/schlachter/26/19.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/19.json",
     "sha": "8218bae67dc5ee2b48f6bd10fa063069216e8eba"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Hesekiel",
     "chapter": 20,
     "name": "Hesekiel 20",
-    "url": "https://getbible.net/v2/schlachter/26/20.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/20.json",
     "sha": "98a43aac486b99bd4eeeef052bee7ffb0e9bd715"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Hesekiel",
     "chapter": 21,
     "name": "Hesekiel 21",
-    "url": "https://getbible.net/v2/schlachter/26/21.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/21.json",
     "sha": "e1ddcccd4127229b183671f5bc33fa6155c26365"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Hesekiel",
     "chapter": 22,
     "name": "Hesekiel 22",
-    "url": "https://getbible.net/v2/schlachter/26/22.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/22.json",
     "sha": "9c2daa60dde01510e5b35c785ca801d280972afc"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Hesekiel",
     "chapter": 23,
     "name": "Hesekiel 23",
-    "url": "https://getbible.net/v2/schlachter/26/23.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/23.json",
     "sha": "c6e7fa4af13208bbc686920445c6e4e267ea9424"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Hesekiel",
     "chapter": 24,
     "name": "Hesekiel 24",
-    "url": "https://getbible.net/v2/schlachter/26/24.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/24.json",
     "sha": "656ccde84ac8b6e61fb312e1b9cbb360dc217065"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Hesekiel",
     "chapter": 25,
     "name": "Hesekiel 25",
-    "url": "https://getbible.net/v2/schlachter/26/25.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/25.json",
     "sha": "1a8fe03ff2764fcf8a60b0404c2c3fe9d386d577"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Hesekiel",
     "chapter": 26,
     "name": "Hesekiel 26",
-    "url": "https://getbible.net/v2/schlachter/26/26.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/26.json",
     "sha": "406e3bbae02a49a3e9d3fb28d58ec8bc2b988747"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Hesekiel",
     "chapter": 27,
     "name": "Hesekiel 27",
-    "url": "https://getbible.net/v2/schlachter/26/27.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/27.json",
     "sha": "cf051c9ffc66c2308c88b770df8d13d2d694a66e"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Hesekiel",
     "chapter": 28,
     "name": "Hesekiel 28",
-    "url": "https://getbible.net/v2/schlachter/26/28.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/28.json",
     "sha": "dd2c1416ed24915b19472bbef59c250eb81e40d2"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Hesekiel",
     "chapter": 29,
     "name": "Hesekiel 29",
-    "url": "https://getbible.net/v2/schlachter/26/29.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/29.json",
     "sha": "6224c2c33bd126f9ef16004797c3a5f117f95517"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Hesekiel",
     "chapter": 30,
     "name": "Hesekiel 30",
-    "url": "https://getbible.net/v2/schlachter/26/30.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/30.json",
     "sha": "2843e21c31ba75e7545634d97733eed0bdaec87b"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Hesekiel",
     "chapter": 31,
     "name": "Hesekiel 31",
-    "url": "https://getbible.net/v2/schlachter/26/31.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/31.json",
     "sha": "7e7535f0b1d474a8b2daafb6ed08c9f1c0f3b303"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Hesekiel",
     "chapter": 32,
     "name": "Hesekiel 32",
-    "url": "https://getbible.net/v2/schlachter/26/32.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/32.json",
     "sha": "9c656299591913e7d9de6814caefeaf01743d9b1"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Hesekiel",
     "chapter": 33,
     "name": "Hesekiel 33",
-    "url": "https://getbible.net/v2/schlachter/26/33.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/33.json",
     "sha": "21adc61e3a69a1a4da2e65bb3d3d1391ce1a0ab7"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Hesekiel",
     "chapter": 34,
     "name": "Hesekiel 34",
-    "url": "https://getbible.net/v2/schlachter/26/34.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/34.json",
     "sha": "4a866a4048614b37088d9068b7c8765f0d60720a"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Hesekiel",
     "chapter": 35,
     "name": "Hesekiel 35",
-    "url": "https://getbible.net/v2/schlachter/26/35.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/35.json",
     "sha": "bffa1fc7cbbeb58419a74edcb141427cd69c42ab"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Hesekiel",
     "chapter": 36,
     "name": "Hesekiel 36",
-    "url": "https://getbible.net/v2/schlachter/26/36.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/36.json",
     "sha": "fe4838c97dea5edc3491e07d8bc255359f049202"
   },
   "37": {
@@ -514,7 +514,7 @@
     "book_name": "Hesekiel",
     "chapter": 37,
     "name": "Hesekiel 37",
-    "url": "https://getbible.net/v2/schlachter/26/37.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/37.json",
     "sha": "83d3660c367acf1d8654911208eaca2350d421cf"
   },
   "38": {
@@ -528,7 +528,7 @@
     "book_name": "Hesekiel",
     "chapter": 38,
     "name": "Hesekiel 38",
-    "url": "https://getbible.net/v2/schlachter/26/38.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/38.json",
     "sha": "373eb89e3a8c4c483b6bb1acd6acab7424f97526"
   },
   "39": {
@@ -542,7 +542,7 @@
     "book_name": "Hesekiel",
     "chapter": 39,
     "name": "Hesekiel 39",
-    "url": "https://getbible.net/v2/schlachter/26/39.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/39.json",
     "sha": "99336df280b69314b9be9f184fa4bf8899143d92"
   },
   "40": {
@@ -556,7 +556,7 @@
     "book_name": "Hesekiel",
     "chapter": 40,
     "name": "Hesekiel 40",
-    "url": "https://getbible.net/v2/schlachter/26/40.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/40.json",
     "sha": "6b2281aaf63431ce4798287d942c65e5efc1e7dd"
   },
   "41": {
@@ -570,7 +570,7 @@
     "book_name": "Hesekiel",
     "chapter": 41,
     "name": "Hesekiel 41",
-    "url": "https://getbible.net/v2/schlachter/26/41.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/41.json",
     "sha": "4cddda95e3d4332cc75796981218bbf470348553"
   },
   "42": {
@@ -584,7 +584,7 @@
     "book_name": "Hesekiel",
     "chapter": 42,
     "name": "Hesekiel 42",
-    "url": "https://getbible.net/v2/schlachter/26/42.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/42.json",
     "sha": "abe0b8204086bf86b0ff7398931306c978c793d0"
   },
   "43": {
@@ -598,7 +598,7 @@
     "book_name": "Hesekiel",
     "chapter": 43,
     "name": "Hesekiel 43",
-    "url": "https://getbible.net/v2/schlachter/26/43.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/43.json",
     "sha": "74f644632f6896ee97d87065ea51ff52536eec69"
   },
   "44": {
@@ -612,7 +612,7 @@
     "book_name": "Hesekiel",
     "chapter": 44,
     "name": "Hesekiel 44",
-    "url": "https://getbible.net/v2/schlachter/26/44.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/44.json",
     "sha": "327571d1da3ae8edffd435dce7ec77d09291ef94"
   },
   "45": {
@@ -626,7 +626,7 @@
     "book_name": "Hesekiel",
     "chapter": 45,
     "name": "Hesekiel 45",
-    "url": "https://getbible.net/v2/schlachter/26/45.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/45.json",
     "sha": "21066a3f277ab6976100ad5ad4a1eefd8d9af8e8"
   },
   "46": {
@@ -640,7 +640,7 @@
     "book_name": "Hesekiel",
     "chapter": 46,
     "name": "Hesekiel 46",
-    "url": "https://getbible.net/v2/schlachter/26/46.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/46.json",
     "sha": "644e7873519ab0878c572b9eab78e617fbd1a7aa"
   },
   "47": {
@@ -654,7 +654,7 @@
     "book_name": "Hesekiel",
     "chapter": 47,
     "name": "Hesekiel 47",
-    "url": "https://getbible.net/v2/schlachter/26/47.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/47.json",
     "sha": "29321ccfe953599ab99ec517a18b33432fd60762"
   },
   "48": {
@@ -668,7 +668,7 @@
     "book_name": "Hesekiel",
     "chapter": 48,
     "name": "Hesekiel 48",
-    "url": "https://getbible.net/v2/schlachter/26/48.json",
+    "url": "https://api.getbible.net/v2/schlachter/26/48.json",
     "sha": "1aec42e5fe7c38713c4bcf744b4ad220270c43f6"
   }
 }

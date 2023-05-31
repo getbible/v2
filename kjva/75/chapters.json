@@ -10,7 +10,7 @@
     "book_name": "Baruch",
     "chapter": 1,
     "name": "Baruch 1",
-    "url": "https://getbible.net/v2/kjva/75/1.json",
+    "url": "https://api.getbible.net/v2/kjva/75/1.json",
     "sha": "9f09bb168d23a5112c48091ed5455c4711dd0599"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Baruch",
     "chapter": 2,
     "name": "Baruch 2",
-    "url": "https://getbible.net/v2/kjva/75/2.json",
+    "url": "https://api.getbible.net/v2/kjva/75/2.json",
     "sha": "d9bf570216b8f1dcf746db8bc148b37ce58f447c"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Baruch",
     "chapter": 3,
     "name": "Baruch 3",
-    "url": "https://getbible.net/v2/kjva/75/3.json",
+    "url": "https://api.getbible.net/v2/kjva/75/3.json",
     "sha": "4f26df2d5f245008e029a268f29ef6532aed1645"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Baruch",
     "chapter": 4,
     "name": "Baruch 4",
-    "url": "https://getbible.net/v2/kjva/75/4.json",
+    "url": "https://api.getbible.net/v2/kjva/75/4.json",
     "sha": "7b30ca27adfd5daad90e32950edbd2aff8fe68b9"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Baruch",
     "chapter": 5,
     "name": "Baruch 5",
-    "url": "https://getbible.net/v2/kjva/75/5.json",
+    "url": "https://api.getbible.net/v2/kjva/75/5.json",
     "sha": "ae63806bc061a02187f41efae2acd54f25ab017e"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Baruch",
     "chapter": 6,
     "name": "Baruch 6",
-    "url": "https://getbible.net/v2/kjva/75/6.json",
+    "url": "https://api.getbible.net/v2/kjva/75/6.json",
     "sha": "5572dc8cb4a2c58358327afa271314669306bfe0"
   }
 }

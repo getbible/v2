@@ -10,7 +10,7 @@
     "book_name": "2 Kings",
     "chapter": 1,
     "name": "2 Kings 1",
-    "url": "https://getbible.net/v2/codex/12/1.json",
+    "url": "https://api.getbible.net/v2/codex/12/1.json",
     "sha": "67921bd91e334e9caf3c0d611b123c953ed73618"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Kings",
     "chapter": 2,
     "name": "2 Kings 2",
-    "url": "https://getbible.net/v2/codex/12/2.json",
+    "url": "https://api.getbible.net/v2/codex/12/2.json",
     "sha": "07deaa6ccbccd758d599d9c8570581a96bdef300"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Kings",
     "chapter": 3,
     "name": "2 Kings 3",
-    "url": "https://getbible.net/v2/codex/12/3.json",
+    "url": "https://api.getbible.net/v2/codex/12/3.json",
     "sha": "733c4b36c30c7a03fd4b29493ff7be3a9410fcd8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Kings",
     "chapter": 4,
     "name": "2 Kings 4",
-    "url": "https://getbible.net/v2/codex/12/4.json",
+    "url": "https://api.getbible.net/v2/codex/12/4.json",
     "sha": "8a9747c6890c3ceda6153aad0e440a8ebe955354"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "2 Kings",
     "chapter": 5,
     "name": "2 Kings 5",
-    "url": "https://getbible.net/v2/codex/12/5.json",
+    "url": "https://api.getbible.net/v2/codex/12/5.json",
     "sha": "df813225d1d80442646eaa3ca379e88dfb9f0c1a"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "2 Kings",
     "chapter": 6,
     "name": "2 Kings 6",
-    "url": "https://getbible.net/v2/codex/12/6.json",
+    "url": "https://api.getbible.net/v2/codex/12/6.json",
     "sha": "fa9ea19717d55b26414d3838d2b5e8a95b2f57bb"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "2 Kings",
     "chapter": 7,
     "name": "2 Kings 7",
-    "url": "https://getbible.net/v2/codex/12/7.json",
+    "url": "https://api.getbible.net/v2/codex/12/7.json",
     "sha": "24a90eb0bd5a22b0ddc63d5ff7a266fcaffc821e"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "2 Kings",
     "chapter": 8,
     "name": "2 Kings 8",
-    "url": "https://getbible.net/v2/codex/12/8.json",
+    "url": "https://api.getbible.net/v2/codex/12/8.json",
     "sha": "c23c656fe346be1a22d23246572e5915e648fa85"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "2 Kings",
     "chapter": 9,
     "name": "2 Kings 9",
-    "url": "https://getbible.net/v2/codex/12/9.json",
+    "url": "https://api.getbible.net/v2/codex/12/9.json",
     "sha": "ec582c28e90c1492f2a17fe0842104470a067a83"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "2 Kings",
     "chapter": 10,
     "name": "2 Kings 10",
-    "url": "https://getbible.net/v2/codex/12/10.json",
+    "url": "https://api.getbible.net/v2/codex/12/10.json",
     "sha": "972d5f4ca445b273e3a872a1aab490be2d03a6a8"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "2 Kings",
     "chapter": 11,
     "name": "2 Kings 11",
-    "url": "https://getbible.net/v2/codex/12/11.json",
+    "url": "https://api.getbible.net/v2/codex/12/11.json",
     "sha": "943b1a03b9c8c7e1d9cd9dc1094eee195c315015"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "2 Kings",
     "chapter": 12,
     "name": "2 Kings 12",
-    "url": "https://getbible.net/v2/codex/12/12.json",
+    "url": "https://api.getbible.net/v2/codex/12/12.json",
     "sha": "046dfa7a7d0db0cc8df0a43406cf3445aa99fbf3"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "2 Kings",
     "chapter": 13,
     "name": "2 Kings 13",
-    "url": "https://getbible.net/v2/codex/12/13.json",
+    "url": "https://api.getbible.net/v2/codex/12/13.json",
     "sha": "546190776671af59477413ed962e02b8d56cb903"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "2 Kings",
     "chapter": 14,
     "name": "2 Kings 14",
-    "url": "https://getbible.net/v2/codex/12/14.json",
+    "url": "https://api.getbible.net/v2/codex/12/14.json",
     "sha": "528db58262147072a0a6addf51e205583f7bd3da"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "2 Kings",
     "chapter": 15,
     "name": "2 Kings 15",
-    "url": "https://getbible.net/v2/codex/12/15.json",
+    "url": "https://api.getbible.net/v2/codex/12/15.json",
     "sha": "22b3789392cb863717170bcccd5417be0e248256"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "2 Kings",
     "chapter": 16,
     "name": "2 Kings 16",
-    "url": "https://getbible.net/v2/codex/12/16.json",
+    "url": "https://api.getbible.net/v2/codex/12/16.json",
     "sha": "d0591cedc91f9e10115a0e2cc8643d923868bfa5"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "2 Kings",
     "chapter": 17,
     "name": "2 Kings 17",
-    "url": "https://getbible.net/v2/codex/12/17.json",
+    "url": "https://api.getbible.net/v2/codex/12/17.json",
     "sha": "753d7a1e8a60b3a71bdf3d8c72bf91f033f233c1"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "2 Kings",
     "chapter": 18,
     "name": "2 Kings 18",
-    "url": "https://getbible.net/v2/codex/12/18.json",
+    "url": "https://api.getbible.net/v2/codex/12/18.json",
     "sha": "9fa4b7c9144bfa6916883a533286a6a6db8203d2"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "2 Kings",
     "chapter": 19,
     "name": "2 Kings 19",
-    "url": "https://getbible.net/v2/codex/12/19.json",
+    "url": "https://api.getbible.net/v2/codex/12/19.json",
     "sha": "68416a5e8b2ed2276be64b15ee21e0a9e0ca4e6f"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "2 Kings",
     "chapter": 20,
     "name": "2 Kings 20",
-    "url": "https://getbible.net/v2/codex/12/20.json",
+    "url": "https://api.getbible.net/v2/codex/12/20.json",
     "sha": "742b0c4a297081b777bccd0f909348f4adeb6e11"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "2 Kings",
     "chapter": 21,
     "name": "2 Kings 21",
-    "url": "https://getbible.net/v2/codex/12/21.json",
+    "url": "https://api.getbible.net/v2/codex/12/21.json",
     "sha": "c7af60129f03ba3a46bdf913082ffab1d1be0c37"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "2 Kings",
     "chapter": 22,
     "name": "2 Kings 22",
-    "url": "https://getbible.net/v2/codex/12/22.json",
+    "url": "https://api.getbible.net/v2/codex/12/22.json",
     "sha": "722474285b30a73a6849da324a947ea24525c2da"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "2 Kings",
     "chapter": 23,
     "name": "2 Kings 23",
-    "url": "https://getbible.net/v2/codex/12/23.json",
+    "url": "https://api.getbible.net/v2/codex/12/23.json",
     "sha": "5f5847522e666211502eb34256d1d3c1a380462a"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "2 Kings",
     "chapter": 24,
     "name": "2 Kings 24",
-    "url": "https://getbible.net/v2/codex/12/24.json",
+    "url": "https://api.getbible.net/v2/codex/12/24.json",
     "sha": "ec5a73e39e5b5773660b9ece8814c644f33b071f"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "2 Kings",
     "chapter": 25,
     "name": "2 Kings 25",
-    "url": "https://getbible.net/v2/codex/12/25.json",
+    "url": "https://api.getbible.net/v2/codex/12/25.json",
     "sha": "c2cb2f97a08cfa12570972bdca919e3c70be44a3"
   }
 }

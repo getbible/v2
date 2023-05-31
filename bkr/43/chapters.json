@@ -10,7 +10,7 @@
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
-    "url": "https://getbible.net/v2/bkr/43/1.json",
+    "url": "https://api.getbible.net/v2/bkr/43/1.json",
     "sha": "9e58c6bd16cabf2a27f98fa213ee406e3713d31f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
-    "url": "https://getbible.net/v2/bkr/43/2.json",
+    "url": "https://api.getbible.net/v2/bkr/43/2.json",
     "sha": "89c80285a7402b13ffbb8e77120e3b90564a6fac"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
-    "url": "https://getbible.net/v2/bkr/43/3.json",
+    "url": "https://api.getbible.net/v2/bkr/43/3.json",
     "sha": "907f84ea88881b5993629d8ce1dfe530338924cb"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
-    "url": "https://getbible.net/v2/bkr/43/4.json",
+    "url": "https://api.getbible.net/v2/bkr/43/4.json",
     "sha": "1c7cff448387e83c682863c58228d350b0144e0b"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
-    "url": "https://getbible.net/v2/bkr/43/5.json",
+    "url": "https://api.getbible.net/v2/bkr/43/5.json",
     "sha": "a352cc24ad0ed99f90e9a49f5fe624503edcdeb5"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
-    "url": "https://getbible.net/v2/bkr/43/6.json",
+    "url": "https://api.getbible.net/v2/bkr/43/6.json",
     "sha": "faefd49424a0720e0b063e6abee60b989ae95d65"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
-    "url": "https://getbible.net/v2/bkr/43/7.json",
+    "url": "https://api.getbible.net/v2/bkr/43/7.json",
     "sha": "05daf9c4bdab236cec3b6f3c9341eaaaefdb84be"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
-    "url": "https://getbible.net/v2/bkr/43/8.json",
+    "url": "https://api.getbible.net/v2/bkr/43/8.json",
     "sha": "4270af3e04bbca9bf3ceb25fc8207763de6734ef"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
-    "url": "https://getbible.net/v2/bkr/43/9.json",
+    "url": "https://api.getbible.net/v2/bkr/43/9.json",
     "sha": "4e2f44b2c56e483c5470046481536b0959ac69fd"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
-    "url": "https://getbible.net/v2/bkr/43/10.json",
+    "url": "https://api.getbible.net/v2/bkr/43/10.json",
     "sha": "be0f3ec0e73884059b738a4eaa58faf963e70348"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
-    "url": "https://getbible.net/v2/bkr/43/11.json",
+    "url": "https://api.getbible.net/v2/bkr/43/11.json",
     "sha": "aeccf825b32389778ec131a57d9e5b90c4b77d7b"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
-    "url": "https://getbible.net/v2/bkr/43/12.json",
+    "url": "https://api.getbible.net/v2/bkr/43/12.json",
     "sha": "d68b4fa5da690cd263bc92ce5622b7832498bd53"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
-    "url": "https://getbible.net/v2/bkr/43/13.json",
+    "url": "https://api.getbible.net/v2/bkr/43/13.json",
     "sha": "62f940b0f289dee09e1f5392bfb4587a97d19fb6"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
-    "url": "https://getbible.net/v2/bkr/43/14.json",
+    "url": "https://api.getbible.net/v2/bkr/43/14.json",
     "sha": "9df363380ffc8755b42ac33048560572969bd989"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
-    "url": "https://getbible.net/v2/bkr/43/15.json",
+    "url": "https://api.getbible.net/v2/bkr/43/15.json",
     "sha": "e10ce219649b5af21ad00abfd51dfb45ede5c42d"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
-    "url": "https://getbible.net/v2/bkr/43/16.json",
+    "url": "https://api.getbible.net/v2/bkr/43/16.json",
     "sha": "f7cb3faf666f9e40cae20653258d3c1b8bf7da1b"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
-    "url": "https://getbible.net/v2/bkr/43/17.json",
+    "url": "https://api.getbible.net/v2/bkr/43/17.json",
     "sha": "fef35cb1fc8e6003308b045e386e9bdcc5245da8"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
-    "url": "https://getbible.net/v2/bkr/43/18.json",
+    "url": "https://api.getbible.net/v2/bkr/43/18.json",
     "sha": "34dd5cee7c18aa900fcd01ba722e7254b0376775"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
-    "url": "https://getbible.net/v2/bkr/43/19.json",
+    "url": "https://api.getbible.net/v2/bkr/43/19.json",
     "sha": "e9a292096f01e6f7ba51b144fb9083bad81fd26b"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
-    "url": "https://getbible.net/v2/bkr/43/20.json",
+    "url": "https://api.getbible.net/v2/bkr/43/20.json",
     "sha": "94705175965f116d2106b4dfde4c1a3716a5d0da"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
-    "url": "https://getbible.net/v2/bkr/43/21.json",
+    "url": "https://api.getbible.net/v2/bkr/43/21.json",
     "sha": "4633bc980cee4d625c6b589f4f77cdcb95971bac"
   }
 }

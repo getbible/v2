@@ -10,7 +10,7 @@
     "book_name": "Micah",
     "chapter": 1,
     "name": "Micah 1",
-    "url": "https://getbible.net/v2/ylt/33/1.json",
+    "url": "https://api.getbible.net/v2/ylt/33/1.json",
     "sha": "867bf1712737ce55f633c601cf30d0e4513407bf"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Micah",
     "chapter": 2,
     "name": "Micah 2",
-    "url": "https://getbible.net/v2/ylt/33/2.json",
+    "url": "https://api.getbible.net/v2/ylt/33/2.json",
     "sha": "70a2b9f62752f7ec5734fac4f51a5de6eeb6f1dc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Micah",
     "chapter": 3,
     "name": "Micah 3",
-    "url": "https://getbible.net/v2/ylt/33/3.json",
+    "url": "https://api.getbible.net/v2/ylt/33/3.json",
     "sha": "cd0093ef36eff39218a723bedd7fcfdf083e6e33"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Micah",
     "chapter": 4,
     "name": "Micah 4",
-    "url": "https://getbible.net/v2/ylt/33/4.json",
+    "url": "https://api.getbible.net/v2/ylt/33/4.json",
     "sha": "2a2e48802e881ddfbe378fc9adc41c52b8091ec9"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Micah",
     "chapter": 5,
     "name": "Micah 5",
-    "url": "https://getbible.net/v2/ylt/33/5.json",
+    "url": "https://api.getbible.net/v2/ylt/33/5.json",
     "sha": "c7110091ef8f7ebf073ea3f25205f37f7a48f809"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Micah",
     "chapter": 6,
     "name": "Micah 6",
-    "url": "https://getbible.net/v2/ylt/33/6.json",
+    "url": "https://api.getbible.net/v2/ylt/33/6.json",
     "sha": "aee6bed0caf9e54b387056fb906b65207c8e5d3b"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Micah",
     "chapter": 7,
     "name": "Micah 7",
-    "url": "https://getbible.net/v2/ylt/33/7.json",
+    "url": "https://api.getbible.net/v2/ylt/33/7.json",
     "sha": "3fd2d17f83943d7575241474f21675a6ab52b91b"
   }
 }

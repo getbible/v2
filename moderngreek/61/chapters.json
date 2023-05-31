@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/moderngreek/61/1.json",
+    "url": "https://api.getbible.net/v2/moderngreek/61/1.json",
     "sha": "3d4a746f64feba16b48c6cdde1611e67ca2703b5"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/moderngreek/61/2.json",
+    "url": "https://api.getbible.net/v2/moderngreek/61/2.json",
     "sha": "feef468ce4293fe435dc70731b2b5599f825df09"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/moderngreek/61/3.json",
+    "url": "https://api.getbible.net/v2/moderngreek/61/3.json",
     "sha": "91fc1c4be754127bffa217e73db2d54de538b6f9"
   }
 }

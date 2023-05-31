@@ -10,7 +10,7 @@
     "book_name": "Philippians",
     "chapter": 1,
     "name": "Philippians 1",
-    "url": "https://getbible.net/v2/darby/50/1.json",
+    "url": "https://api.getbible.net/v2/darby/50/1.json",
     "sha": "aaa0520ddad5dbe9c914144cb9fd0281fcf5703f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Philippians",
     "chapter": 2,
     "name": "Philippians 2",
-    "url": "https://getbible.net/v2/darby/50/2.json",
+    "url": "https://api.getbible.net/v2/darby/50/2.json",
     "sha": "04e99360dba0b78725c955fa052b1dd3e26c0490"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Philippians",
     "chapter": 3,
     "name": "Philippians 3",
-    "url": "https://getbible.net/v2/darby/50/3.json",
+    "url": "https://api.getbible.net/v2/darby/50/3.json",
     "sha": "ae9af5e0c0d9bb46b4a39f354636e15ec2585cbb"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Philippians",
     "chapter": 4,
     "name": "Philippians 4",
-    "url": "https://getbible.net/v2/darby/50/4.json",
+    "url": "https://api.getbible.net/v2/darby/50/4.json",
     "sha": "aff49e2686453127512504f80016fa8c113b3095"
   }
 }

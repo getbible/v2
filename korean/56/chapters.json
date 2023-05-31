@@ -10,7 +10,7 @@
     "book_name": "Titus",
     "chapter": 1,
     "name": "Titus 1",
-    "url": "https://getbible.net/v2/korean/56/1.json",
+    "url": "https://api.getbible.net/v2/korean/56/1.json",
     "sha": "f4a0ef28d6ff8eda87297c6d346687817e464f0f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Titus",
     "chapter": 2,
     "name": "Titus 2",
-    "url": "https://getbible.net/v2/korean/56/2.json",
+    "url": "https://api.getbible.net/v2/korean/56/2.json",
     "sha": "72a60151f198901da1eb8a5d72873f6b0ba79ee4"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Titus",
     "chapter": 3,
     "name": "Titus 3",
-    "url": "https://getbible.net/v2/korean/56/3.json",
+    "url": "https://api.getbible.net/v2/korean/56/3.json",
     "sha": "58174e7fbfbb61e815344c2ab03d545e5a63503e"
   }
 }

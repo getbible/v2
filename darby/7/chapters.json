@@ -10,7 +10,7 @@
     "book_name": "Judges",
     "chapter": 1,
     "name": "Judges 1",
-    "url": "https://getbible.net/v2/darby/7/1.json",
+    "url": "https://api.getbible.net/v2/darby/7/1.json",
     "sha": "4bf1aa6bb72230d226b244826353e065d4857b80"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Judges",
     "chapter": 2,
     "name": "Judges 2",
-    "url": "https://getbible.net/v2/darby/7/2.json",
+    "url": "https://api.getbible.net/v2/darby/7/2.json",
     "sha": "90c053d99fea8f1e355b3e98c6be495338ec8421"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Judges",
     "chapter": 3,
     "name": "Judges 3",
-    "url": "https://getbible.net/v2/darby/7/3.json",
+    "url": "https://api.getbible.net/v2/darby/7/3.json",
     "sha": "ff0c7b2158e40188322b4b3378845c613accaefe"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Judges",
     "chapter": 4,
     "name": "Judges 4",
-    "url": "https://getbible.net/v2/darby/7/4.json",
+    "url": "https://api.getbible.net/v2/darby/7/4.json",
     "sha": "5239409a179324ff0fb516f8bc0f61246675626f"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Judges",
     "chapter": 5,
     "name": "Judges 5",
-    "url": "https://getbible.net/v2/darby/7/5.json",
+    "url": "https://api.getbible.net/v2/darby/7/5.json",
     "sha": "d94866daab9933074fde2779de811c868f640e6f"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Judges",
     "chapter": 6,
     "name": "Judges 6",
-    "url": "https://getbible.net/v2/darby/7/6.json",
+    "url": "https://api.getbible.net/v2/darby/7/6.json",
     "sha": "7bb2975462d53e13a359305cc980499035facbdf"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Judges",
     "chapter": 7,
     "name": "Judges 7",
-    "url": "https://getbible.net/v2/darby/7/7.json",
+    "url": "https://api.getbible.net/v2/darby/7/7.json",
     "sha": "a370c1cd3ab3519b6f93f03f77a62c1f752d2a14"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Judges",
     "chapter": 8,
     "name": "Judges 8",
-    "url": "https://getbible.net/v2/darby/7/8.json",
+    "url": "https://api.getbible.net/v2/darby/7/8.json",
     "sha": "12dba4345fca3d1c06f455831791438027a953e7"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Judges",
     "chapter": 9,
     "name": "Judges 9",
-    "url": "https://getbible.net/v2/darby/7/9.json",
+    "url": "https://api.getbible.net/v2/darby/7/9.json",
     "sha": "384e1d00b9ff3e4fe5fe01554db2e23f12716085"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Judges",
     "chapter": 10,
     "name": "Judges 10",
-    "url": "https://getbible.net/v2/darby/7/10.json",
+    "url": "https://api.getbible.net/v2/darby/7/10.json",
     "sha": "58178e3074b3f906390a795ea6f5530f52425fef"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Judges",
     "chapter": 11,
     "name": "Judges 11",
-    "url": "https://getbible.net/v2/darby/7/11.json",
+    "url": "https://api.getbible.net/v2/darby/7/11.json",
     "sha": "f6999f3660ba5d9651cea888207be20673796ba8"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Judges",
     "chapter": 12,
     "name": "Judges 12",
-    "url": "https://getbible.net/v2/darby/7/12.json",
+    "url": "https://api.getbible.net/v2/darby/7/12.json",
     "sha": "eec3eb2b3e8fa8c95d6417d80399a822afacfb3d"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Judges",
     "chapter": 13,
     "name": "Judges 13",
-    "url": "https://getbible.net/v2/darby/7/13.json",
+    "url": "https://api.getbible.net/v2/darby/7/13.json",
     "sha": "fd85f4c605a9a1d237fb5a53adcc97f1503f0810"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Judges",
     "chapter": 14,
     "name": "Judges 14",
-    "url": "https://getbible.net/v2/darby/7/14.json",
+    "url": "https://api.getbible.net/v2/darby/7/14.json",
     "sha": "0b1534802362e7b99c9a713369f6dd32f6a52884"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Judges",
     "chapter": 15,
     "name": "Judges 15",
-    "url": "https://getbible.net/v2/darby/7/15.json",
+    "url": "https://api.getbible.net/v2/darby/7/15.json",
     "sha": "4dae25fcba938eb71079887c0c146b78d6c6a3a7"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Judges",
     "chapter": 16,
     "name": "Judges 16",
-    "url": "https://getbible.net/v2/darby/7/16.json",
+    "url": "https://api.getbible.net/v2/darby/7/16.json",
     "sha": "937b7bcb2eea1175759984daa298e851e42a453c"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Judges",
     "chapter": 17,
     "name": "Judges 17",
-    "url": "https://getbible.net/v2/darby/7/17.json",
+    "url": "https://api.getbible.net/v2/darby/7/17.json",
     "sha": "fc36ddca3d13afce91a86faac685848652358b67"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Judges",
     "chapter": 18,
     "name": "Judges 18",
-    "url": "https://getbible.net/v2/darby/7/18.json",
+    "url": "https://api.getbible.net/v2/darby/7/18.json",
     "sha": "fd0b3ede988d31bfc1ed3842d9ebaf4a86e262c1"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Judges",
     "chapter": 19,
     "name": "Judges 19",
-    "url": "https://getbible.net/v2/darby/7/19.json",
+    "url": "https://api.getbible.net/v2/darby/7/19.json",
     "sha": "c62f13f798499e549356d0d104de740267da4c41"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Judges",
     "chapter": 20,
     "name": "Judges 20",
-    "url": "https://getbible.net/v2/darby/7/20.json",
+    "url": "https://api.getbible.net/v2/darby/7/20.json",
     "sha": "6f9ff5e8051f79d6819ad56d5da89a6dc998ce12"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Judges",
     "chapter": 21,
     "name": "Judges 21",
-    "url": "https://getbible.net/v2/darby/7/21.json",
+    "url": "https://api.getbible.net/v2/darby/7/21.json",
     "sha": "856d358d6b5df8a441e2ff86e7bb375c88be8d67"
   }
 }

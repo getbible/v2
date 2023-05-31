@@ -10,7 +10,7 @@
     "book_name": "Job",
     "chapter": 1,
     "name": "Job 1",
-    "url": "https://getbible.net/v2/codex/18/1.json",
+    "url": "https://api.getbible.net/v2/codex/18/1.json",
     "sha": "b8b3e8a4b044f9772151dd60c82f09c968291913"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Job",
     "chapter": 2,
     "name": "Job 2",
-    "url": "https://getbible.net/v2/codex/18/2.json",
+    "url": "https://api.getbible.net/v2/codex/18/2.json",
     "sha": "4d2b3de37031d3802743fcf4f0082bc6c1736963"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Job",
     "chapter": 3,
     "name": "Job 3",
-    "url": "https://getbible.net/v2/codex/18/3.json",
+    "url": "https://api.getbible.net/v2/codex/18/3.json",
     "sha": "998366d01dee0d506e0010887a02d3b34e1dcbc2"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Job",
     "chapter": 4,
     "name": "Job 4",
-    "url": "https://getbible.net/v2/codex/18/4.json",
+    "url": "https://api.getbible.net/v2/codex/18/4.json",
     "sha": "d464b153fb633311b9e5b10a8dd00bbc5bae7a03"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Job",
     "chapter": 5,
     "name": "Job 5",
-    "url": "https://getbible.net/v2/codex/18/5.json",
+    "url": "https://api.getbible.net/v2/codex/18/5.json",
     "sha": "fc992bfad2313f1727a54d86c322dad3e34e0a7e"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Job",
     "chapter": 6,
     "name": "Job 6",
-    "url": "https://getbible.net/v2/codex/18/6.json",
+    "url": "https://api.getbible.net/v2/codex/18/6.json",
     "sha": "c1f65396d1c5bbf75fa38869a93f005c9d58e411"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Job",
     "chapter": 7,
     "name": "Job 7",
-    "url": "https://getbible.net/v2/codex/18/7.json",
+    "url": "https://api.getbible.net/v2/codex/18/7.json",
     "sha": "34cbf09511f28c33e1c1c8f1010ac993e28da7e3"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Job",
     "chapter": 8,
     "name": "Job 8",
-    "url": "https://getbible.net/v2/codex/18/8.json",
+    "url": "https://api.getbible.net/v2/codex/18/8.json",
     "sha": "2492529abbca3356bab0ff2e3d4c31077e372baa"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Job",
     "chapter": 9,
     "name": "Job 9",
-    "url": "https://getbible.net/v2/codex/18/9.json",
+    "url": "https://api.getbible.net/v2/codex/18/9.json",
     "sha": "5dba047df290baaaf88cf907106271038edd4933"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Job",
     "chapter": 10,
     "name": "Job 10",
-    "url": "https://getbible.net/v2/codex/18/10.json",
+    "url": "https://api.getbible.net/v2/codex/18/10.json",
     "sha": "6cece00af0e48df514dd21d3bf7cffe39fe39dd3"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Job",
     "chapter": 11,
     "name": "Job 11",
-    "url": "https://getbible.net/v2/codex/18/11.json",
+    "url": "https://api.getbible.net/v2/codex/18/11.json",
     "sha": "542e8aa480c9782e7a3dc0bb0c7d5d12c91ab3ab"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Job",
     "chapter": 12,
     "name": "Job 12",
-    "url": "https://getbible.net/v2/codex/18/12.json",
+    "url": "https://api.getbible.net/v2/codex/18/12.json",
     "sha": "a7b5dc8cb15ecb7e63327446cfbc2c5386e7b0af"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Job",
     "chapter": 13,
     "name": "Job 13",
-    "url": "https://getbible.net/v2/codex/18/13.json",
+    "url": "https://api.getbible.net/v2/codex/18/13.json",
     "sha": "713a92af201c02cbeca8ac2cdb5d739873ff60a7"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Job",
     "chapter": 14,
     "name": "Job 14",
-    "url": "https://getbible.net/v2/codex/18/14.json",
+    "url": "https://api.getbible.net/v2/codex/18/14.json",
     "sha": "9b5805933a1219208978cfe1f607c7d9d02e3807"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Job",
     "chapter": 15,
     "name": "Job 15",
-    "url": "https://getbible.net/v2/codex/18/15.json",
+    "url": "https://api.getbible.net/v2/codex/18/15.json",
     "sha": "f768cf97058dd2cc9286c650d1d380cc3d7d4c5b"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Job",
     "chapter": 16,
     "name": "Job 16",
-    "url": "https://getbible.net/v2/codex/18/16.json",
+    "url": "https://api.getbible.net/v2/codex/18/16.json",
     "sha": "8dc10d31c3b320bf860c19288e8eb43d25bbcd94"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Job",
     "chapter": 17,
     "name": "Job 17",
-    "url": "https://getbible.net/v2/codex/18/17.json",
+    "url": "https://api.getbible.net/v2/codex/18/17.json",
     "sha": "cafe8f073b0d183dcc4eca3ada3b32c235a137b7"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Job",
     "chapter": 18,
     "name": "Job 18",
-    "url": "https://getbible.net/v2/codex/18/18.json",
+    "url": "https://api.getbible.net/v2/codex/18/18.json",
     "sha": "91fb9df0772a810998cb131f3ec493860c91529f"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Job",
     "chapter": 19,
     "name": "Job 19",
-    "url": "https://getbible.net/v2/codex/18/19.json",
+    "url": "https://api.getbible.net/v2/codex/18/19.json",
     "sha": "60a4ad6c30e59481e817ba899b08993d367347b0"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Job",
     "chapter": 20,
     "name": "Job 20",
-    "url": "https://getbible.net/v2/codex/18/20.json",
+    "url": "https://api.getbible.net/v2/codex/18/20.json",
     "sha": "b970e2766b9f03f504a25adbc188de55f5bc0225"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Job",
     "chapter": 21,
     "name": "Job 21",
-    "url": "https://getbible.net/v2/codex/18/21.json",
+    "url": "https://api.getbible.net/v2/codex/18/21.json",
     "sha": "217343e1f50f987ddde66d067f5b7340f565c306"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Job",
     "chapter": 22,
     "name": "Job 22",
-    "url": "https://getbible.net/v2/codex/18/22.json",
+    "url": "https://api.getbible.net/v2/codex/18/22.json",
     "sha": "7c601307e21b387b7cfd6ddcde517ddada955dae"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Job",
     "chapter": 23,
     "name": "Job 23",
-    "url": "https://getbible.net/v2/codex/18/23.json",
+    "url": "https://api.getbible.net/v2/codex/18/23.json",
     "sha": "79906cca32cc3235a108e218030e3fa37d5a8cf1"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Job",
     "chapter": 24,
     "name": "Job 24",
-    "url": "https://getbible.net/v2/codex/18/24.json",
+    "url": "https://api.getbible.net/v2/codex/18/24.json",
     "sha": "08d15d5407da4f992b5aec2a11ebeac29b99da6c"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Job",
     "chapter": 25,
     "name": "Job 25",
-    "url": "https://getbible.net/v2/codex/18/25.json",
+    "url": "https://api.getbible.net/v2/codex/18/25.json",
     "sha": "54842bae96110f3445e08501bb13a7e2533ab309"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Job",
     "chapter": 26,
     "name": "Job 26",
-    "url": "https://getbible.net/v2/codex/18/26.json",
+    "url": "https://api.getbible.net/v2/codex/18/26.json",
     "sha": "692496f115b79ea1ff041c7e6da2dcb29bc2805c"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Job",
     "chapter": 27,
     "name": "Job 27",
-    "url": "https://getbible.net/v2/codex/18/27.json",
+    "url": "https://api.getbible.net/v2/codex/18/27.json",
     "sha": "d808d0da15624138a7cc58e141b04021581f44d3"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Job",
     "chapter": 28,
     "name": "Job 28",
-    "url": "https://getbible.net/v2/codex/18/28.json",
+    "url": "https://api.getbible.net/v2/codex/18/28.json",
     "sha": "7d3add49d3c1aea238bccc24494f22818250345c"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Job",
     "chapter": 29,
     "name": "Job 29",
-    "url": "https://getbible.net/v2/codex/18/29.json",
+    "url": "https://api.getbible.net/v2/codex/18/29.json",
     "sha": "b1236f95d7ddbfcb971d3e2f7f9c456e10f9c0b7"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Job",
     "chapter": 30,
     "name": "Job 30",
-    "url": "https://getbible.net/v2/codex/18/30.json",
+    "url": "https://api.getbible.net/v2/codex/18/30.json",
     "sha": "1f9358fcc05644f2bb22de1d21ba6647123e35aa"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Job",
     "chapter": 31,
     "name": "Job 31",
-    "url": "https://getbible.net/v2/codex/18/31.json",
+    "url": "https://api.getbible.net/v2/codex/18/31.json",
     "sha": "1786108bd1f5c70253a9578aaf90dcad15a6912b"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Job",
     "chapter": 32,
     "name": "Job 32",
-    "url": "https://getbible.net/v2/codex/18/32.json",
+    "url": "https://api.getbible.net/v2/codex/18/32.json",
     "sha": "9596e49b11bdb2e6dc2c2ac907247bf829bfa5ca"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Job",
     "chapter": 33,
     "name": "Job 33",
-    "url": "https://getbible.net/v2/codex/18/33.json",
+    "url": "https://api.getbible.net/v2/codex/18/33.json",
     "sha": "d393041b2c8f180df5dc38e9df88ee49290616d5"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Job",
     "chapter": 34,
     "name": "Job 34",
-    "url": "https://getbible.net/v2/codex/18/34.json",
+    "url": "https://api.getbible.net/v2/codex/18/34.json",
     "sha": "df41bee423734518f8168d77ff917c61d6bfa1a1"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Job",
     "chapter": 35,
     "name": "Job 35",
-    "url": "https://getbible.net/v2/codex/18/35.json",
+    "url": "https://api.getbible.net/v2/codex/18/35.json",
     "sha": "62115dfb2c156b7592c4f49752b9931422149cdf"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Job",
     "chapter": 36,
     "name": "Job 36",
-    "url": "https://getbible.net/v2/codex/18/36.json",
+    "url": "https://api.getbible.net/v2/codex/18/36.json",
     "sha": "7ad55cfbac93e1af1d76e351cfb3035bdcb057c4"
   },
   "37": {
@@ -514,7 +514,7 @@
     "book_name": "Job",
     "chapter": 37,
     "name": "Job 37",
-    "url": "https://getbible.net/v2/codex/18/37.json",
+    "url": "https://api.getbible.net/v2/codex/18/37.json",
     "sha": "a5850a3b5ff1ea7b039e05478ec33562fde63342"
   },
   "38": {
@@ -528,7 +528,7 @@
     "book_name": "Job",
     "chapter": 38,
     "name": "Job 38",
-    "url": "https://getbible.net/v2/codex/18/38.json",
+    "url": "https://api.getbible.net/v2/codex/18/38.json",
     "sha": "fb7ecec924e302788db5fb7dce905f48524ed616"
   },
   "39": {
@@ -542,7 +542,7 @@
     "book_name": "Job",
     "chapter": 39,
     "name": "Job 39",
-    "url": "https://getbible.net/v2/codex/18/39.json",
+    "url": "https://api.getbible.net/v2/codex/18/39.json",
     "sha": "ae82afed4ef45200158f5dfdf4a906fcc214e368"
   },
   "40": {
@@ -556,7 +556,7 @@
     "book_name": "Job",
     "chapter": 40,
     "name": "Job 40",
-    "url": "https://getbible.net/v2/codex/18/40.json",
+    "url": "https://api.getbible.net/v2/codex/18/40.json",
     "sha": "046c9a55bda0c4b460a85a8142a7720d70685a75"
   },
   "41": {
@@ -570,7 +570,7 @@
     "book_name": "Job",
     "chapter": 41,
     "name": "Job 41",
-    "url": "https://getbible.net/v2/codex/18/41.json",
+    "url": "https://api.getbible.net/v2/codex/18/41.json",
     "sha": "109624f311a0bbe18cecac0747072783d808f875"
   },
   "42": {
@@ -584,7 +584,7 @@
     "book_name": "Job",
     "chapter": 42,
     "name": "Job 42",
-    "url": "https://getbible.net/v2/codex/18/42.json",
+    "url": "https://api.getbible.net/v2/codex/18/42.json",
     "sha": "8e7e2d61be6b62ab075c5a497ba252c021434080"
   }
 }

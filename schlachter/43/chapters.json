@@ -10,7 +10,7 @@
     "book_name": "Johannes",
     "chapter": 1,
     "name": "Johannes 1",
-    "url": "https://getbible.net/v2/schlachter/43/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/1.json",
     "sha": "05565da90a71ac1be6e8412a6f3b501718e4f302"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Johannes",
     "chapter": 2,
     "name": "Johannes 2",
-    "url": "https://getbible.net/v2/schlachter/43/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/2.json",
     "sha": "b44889b807c539b581c621d1d3c3000d060adc45"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Johannes",
     "chapter": 3,
     "name": "Johannes 3",
-    "url": "https://getbible.net/v2/schlachter/43/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/3.json",
     "sha": "7253bf207114d0b411d9898df6a2af45b2e0dded"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Johannes",
     "chapter": 4,
     "name": "Johannes 4",
-    "url": "https://getbible.net/v2/schlachter/43/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/4.json",
     "sha": "2a0dd31aefd12cf88e2a0f11a175935317ff661c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Johannes",
     "chapter": 5,
     "name": "Johannes 5",
-    "url": "https://getbible.net/v2/schlachter/43/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/5.json",
     "sha": "15b8f35a7cdbb4619184ab13c973da9613acb018"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Johannes",
     "chapter": 6,
     "name": "Johannes 6",
-    "url": "https://getbible.net/v2/schlachter/43/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/6.json",
     "sha": "e5f85cac0e0991b64da33c8df97cee5cabc4ffca"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Johannes",
     "chapter": 7,
     "name": "Johannes 7",
-    "url": "https://getbible.net/v2/schlachter/43/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/7.json",
     "sha": "734e60146f7b88d02d79f2db4359cde37410e481"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Johannes",
     "chapter": 8,
     "name": "Johannes 8",
-    "url": "https://getbible.net/v2/schlachter/43/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/8.json",
     "sha": "caf1d418a38a13cdd335910137204916143cc93f"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Johannes",
     "chapter": 9,
     "name": "Johannes 9",
-    "url": "https://getbible.net/v2/schlachter/43/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/9.json",
     "sha": "3b51a76a7e48aac109bd57a7cabfbb78f6ff3994"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Johannes",
     "chapter": 10,
     "name": "Johannes 10",
-    "url": "https://getbible.net/v2/schlachter/43/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/10.json",
     "sha": "2180b06730683770e5e49224f2de8efdf1038b40"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Johannes",
     "chapter": 11,
     "name": "Johannes 11",
-    "url": "https://getbible.net/v2/schlachter/43/11.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/11.json",
     "sha": "1328983b3a302d34c18d85dfd6d36536aff53342"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Johannes",
     "chapter": 12,
     "name": "Johannes 12",
-    "url": "https://getbible.net/v2/schlachter/43/12.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/12.json",
     "sha": "7f2d4c80c38073114385994faed00808de275df2"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Johannes",
     "chapter": 13,
     "name": "Johannes 13",
-    "url": "https://getbible.net/v2/schlachter/43/13.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/13.json",
     "sha": "ed25c2878b405ad467d2dda0d945e786d79bd08c"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Johannes",
     "chapter": 14,
     "name": "Johannes 14",
-    "url": "https://getbible.net/v2/schlachter/43/14.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/14.json",
     "sha": "236f66e1136e55020745de86e45e50f452279d9a"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Johannes",
     "chapter": 15,
     "name": "Johannes 15",
-    "url": "https://getbible.net/v2/schlachter/43/15.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/15.json",
     "sha": "2b23cb8de8fb9104b9d180ced1b1f198fa30abf6"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Johannes",
     "chapter": 16,
     "name": "Johannes 16",
-    "url": "https://getbible.net/v2/schlachter/43/16.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/16.json",
     "sha": "2354ab12c0a8170dfb732de930d234f65469e32a"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Johannes",
     "chapter": 17,
     "name": "Johannes 17",
-    "url": "https://getbible.net/v2/schlachter/43/17.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/17.json",
     "sha": "b27f00bfd231f3e07d338f50e518990412c93d9e"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Johannes",
     "chapter": 18,
     "name": "Johannes 18",
-    "url": "https://getbible.net/v2/schlachter/43/18.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/18.json",
     "sha": "a494ca8eb813211e55acd6a5ca084188080cc301"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Johannes",
     "chapter": 19,
     "name": "Johannes 19",
-    "url": "https://getbible.net/v2/schlachter/43/19.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/19.json",
     "sha": "85c6ff3dcb9af703639edee81a8a07e690cee34d"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Johannes",
     "chapter": 20,
     "name": "Johannes 20",
-    "url": "https://getbible.net/v2/schlachter/43/20.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/20.json",
     "sha": "56e23ddffeacadafc761e272b875cd017ccc3e27"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Johannes",
     "chapter": 21,
     "name": "Johannes 21",
-    "url": "https://getbible.net/v2/schlachter/43/21.json",
+    "url": "https://api.getbible.net/v2/schlachter/43/21.json",
     "sha": "2e4aaf3861a5c5644c1fb588d281538e34d24dca"
   }
 }

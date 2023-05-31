@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/turkish/34/1.json",
+    "url": "https://api.getbible.net/v2/turkish/34/1.json",
     "sha": "3697320a0001dc294b49d65644bbc3723522aa34"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/turkish/34/2.json",
+    "url": "https://api.getbible.net/v2/turkish/34/2.json",
     "sha": "184a17008425fb79f9e55c71fb09470aa49c840d"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/turkish/34/3.json",
+    "url": "https://api.getbible.net/v2/turkish/34/3.json",
     "sha": "d041ddfe67e874eebf9298dbe5e3a9bdf6a3a778"
   }
 }

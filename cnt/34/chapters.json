@@ -10,7 +10,7 @@
     "book_name": "那鴻書",
     "chapter": 1,
     "name": "那鴻書 1",
-    "url": "https://getbible.net/v2/cnt/34/1.json",
+    "url": "https://api.getbible.net/v2/cnt/34/1.json",
     "sha": "1dd97ce445ae201e01b5c13fe4c3ed79a8c54697"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "那鴻書",
     "chapter": 2,
     "name": "那鴻書 2",
-    "url": "https://getbible.net/v2/cnt/34/2.json",
+    "url": "https://api.getbible.net/v2/cnt/34/2.json",
     "sha": "f6e02ab63e678690b75a7ef1e8d7f0faaa68daba"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "那鴻書",
     "chapter": 3,
     "name": "那鴻書 3",
-    "url": "https://getbible.net/v2/cnt/34/3.json",
+    "url": "https://api.getbible.net/v2/cnt/34/3.json",
     "sha": "c99aa3349923bb0ab9d622973f1963a787d4f4b8"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Joel",
     "chapter": 1,
     "name": "Joel 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/29/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/29/1.json",
     "sha": "0837e1be20c11114b9b919fc728d8ea567c79a3a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Joel",
     "chapter": 2,
     "name": "Joel 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/29/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/29/2.json",
     "sha": "e5ce256ca9e015f7475f53f750f64ddd6c254322"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Joel",
     "chapter": 3,
     "name": "Joel 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/29/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/29/3.json",
     "sha": "a680fbad43cf7c845f4e64b9b45ce1687a8b2ed0"
   }
 }

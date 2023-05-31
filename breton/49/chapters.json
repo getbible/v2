@@ -10,7 +10,7 @@
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
-    "url": "https://getbible.net/v2/breton/49/1.json",
+    "url": "https://api.getbible.net/v2/breton/49/1.json",
     "sha": "b4c094e57cb634ab2a0b8fd43bdfe47de228883c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
-    "url": "https://getbible.net/v2/breton/49/2.json",
+    "url": "https://api.getbible.net/v2/breton/49/2.json",
     "sha": "75a3563401708091cad3a847a9fa9608e18750aa"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
-    "url": "https://getbible.net/v2/breton/49/3.json",
+    "url": "https://api.getbible.net/v2/breton/49/3.json",
     "sha": "fa02af9d6a26d8fcce5c08626c335fe2cc45c95a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
-    "url": "https://getbible.net/v2/breton/49/4.json",
+    "url": "https://api.getbible.net/v2/breton/49/4.json",
     "sha": "de3fdc3135c33e032d0b123d6c2b5751f3026109"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
-    "url": "https://getbible.net/v2/breton/49/5.json",
+    "url": "https://api.getbible.net/v2/breton/49/5.json",
     "sha": "5b276bccaab7a25ed75e9bf9c3863d7fab6c587a"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
-    "url": "https://getbible.net/v2/breton/49/6.json",
+    "url": "https://api.getbible.net/v2/breton/49/6.json",
     "sha": "a9a0b1fa8dcdc6c2eef170656d98110549c8a77b"
   }
 }

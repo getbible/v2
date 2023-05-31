@@ -10,7 +10,7 @@
     "book_name": "Zephaniah",
     "chapter": 1,
     "name": "Zephaniah 1",
-    "url": "https://getbible.net/v2/maori/36/1.json",
+    "url": "https://api.getbible.net/v2/maori/36/1.json",
     "sha": "b2dad647fe99e25929ab29c50da4c7a17076603f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Zephaniah",
     "chapter": 2,
     "name": "Zephaniah 2",
-    "url": "https://getbible.net/v2/maori/36/2.json",
+    "url": "https://api.getbible.net/v2/maori/36/2.json",
     "sha": "2f199eb3822fb7b302c68bd08329632e187d2e4a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Zephaniah",
     "chapter": 3,
     "name": "Zephaniah 3",
-    "url": "https://getbible.net/v2/maori/36/3.json",
+    "url": "https://api.getbible.net/v2/maori/36/3.json",
     "sha": "2ebb85c21cd26c647491b3ddf9b3a30fea4b1a67"
   }
 }

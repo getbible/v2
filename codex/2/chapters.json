@@ -10,7 +10,7 @@
     "book_name": "Exodus",
     "chapter": 1,
     "name": "Exodus 1",
-    "url": "https://getbible.net/v2/codex/2/1.json",
+    "url": "https://api.getbible.net/v2/codex/2/1.json",
     "sha": "5017dbebee7bbf963712ecef4d3d8aa1ae909891"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Exodus",
     "chapter": 2,
     "name": "Exodus 2",
-    "url": "https://getbible.net/v2/codex/2/2.json",
+    "url": "https://api.getbible.net/v2/codex/2/2.json",
     "sha": "2948d522ac22ffe7c346174b73278ac76dcaeb48"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Exodus",
     "chapter": 3,
     "name": "Exodus 3",
-    "url": "https://getbible.net/v2/codex/2/3.json",
+    "url": "https://api.getbible.net/v2/codex/2/3.json",
     "sha": "181a8f42f924d9101956e320e97075c71defb72f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Exodus",
     "chapter": 4,
     "name": "Exodus 4",
-    "url": "https://getbible.net/v2/codex/2/4.json",
+    "url": "https://api.getbible.net/v2/codex/2/4.json",
     "sha": "27a8fc39612cf2dcd48e6b0e425f6d0cfc14438b"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Exodus",
     "chapter": 5,
     "name": "Exodus 5",
-    "url": "https://getbible.net/v2/codex/2/5.json",
+    "url": "https://api.getbible.net/v2/codex/2/5.json",
     "sha": "288576393a7d7f12bc0d4c5ba92d8831a3237edc"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Exodus",
     "chapter": 6,
     "name": "Exodus 6",
-    "url": "https://getbible.net/v2/codex/2/6.json",
+    "url": "https://api.getbible.net/v2/codex/2/6.json",
     "sha": "0b569341d85da99b4af4dd6fa0bb7061f008f3d1"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Exodus",
     "chapter": 7,
     "name": "Exodus 7",
-    "url": "https://getbible.net/v2/codex/2/7.json",
+    "url": "https://api.getbible.net/v2/codex/2/7.json",
     "sha": "651065f05b5a040e29ec1571926f5092e96f8a7a"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Exodus",
     "chapter": 8,
     "name": "Exodus 8",
-    "url": "https://getbible.net/v2/codex/2/8.json",
+    "url": "https://api.getbible.net/v2/codex/2/8.json",
     "sha": "d40ffd79a586655c170981a236a2eea9939c6df2"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Exodus",
     "chapter": 9,
     "name": "Exodus 9",
-    "url": "https://getbible.net/v2/codex/2/9.json",
+    "url": "https://api.getbible.net/v2/codex/2/9.json",
     "sha": "4237d1222ba05786e5696217427f4063a4fa136e"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Exodus",
     "chapter": 10,
     "name": "Exodus 10",
-    "url": "https://getbible.net/v2/codex/2/10.json",
+    "url": "https://api.getbible.net/v2/codex/2/10.json",
     "sha": "d43c96364a63c97dc6cd1b4bc581718a1d09ebf6"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Exodus",
     "chapter": 11,
     "name": "Exodus 11",
-    "url": "https://getbible.net/v2/codex/2/11.json",
+    "url": "https://api.getbible.net/v2/codex/2/11.json",
     "sha": "87d0a2708974b2109fcb610b183e5baf9f8a8ba1"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Exodus",
     "chapter": 12,
     "name": "Exodus 12",
-    "url": "https://getbible.net/v2/codex/2/12.json",
+    "url": "https://api.getbible.net/v2/codex/2/12.json",
     "sha": "3a3422b0abc42979e9879b155ad9e87e8c474187"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Exodus",
     "chapter": 13,
     "name": "Exodus 13",
-    "url": "https://getbible.net/v2/codex/2/13.json",
+    "url": "https://api.getbible.net/v2/codex/2/13.json",
     "sha": "f7bbff4c3c483519ba3e16aea6c56fb2dee14279"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Exodus",
     "chapter": 14,
     "name": "Exodus 14",
-    "url": "https://getbible.net/v2/codex/2/14.json",
+    "url": "https://api.getbible.net/v2/codex/2/14.json",
     "sha": "b0c83d76493d160923dabda2cd8761704c891ebb"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Exodus",
     "chapter": 15,
     "name": "Exodus 15",
-    "url": "https://getbible.net/v2/codex/2/15.json",
+    "url": "https://api.getbible.net/v2/codex/2/15.json",
     "sha": "149c64f62613d5c43ee9b2e073ef1b13abc21e9e"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Exodus",
     "chapter": 16,
     "name": "Exodus 16",
-    "url": "https://getbible.net/v2/codex/2/16.json",
+    "url": "https://api.getbible.net/v2/codex/2/16.json",
     "sha": "108d5df0c6e72e1b73ed80702f1c3e1b610cb550"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Exodus",
     "chapter": 17,
     "name": "Exodus 17",
-    "url": "https://getbible.net/v2/codex/2/17.json",
+    "url": "https://api.getbible.net/v2/codex/2/17.json",
     "sha": "b6f269c10a4104ccaf654dac450e038107c14366"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Exodus",
     "chapter": 18,
     "name": "Exodus 18",
-    "url": "https://getbible.net/v2/codex/2/18.json",
+    "url": "https://api.getbible.net/v2/codex/2/18.json",
     "sha": "75a023908d80d9e9f4bfc0b24b2cd2224893ade1"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Exodus",
     "chapter": 19,
     "name": "Exodus 19",
-    "url": "https://getbible.net/v2/codex/2/19.json",
+    "url": "https://api.getbible.net/v2/codex/2/19.json",
     "sha": "ca285972594f0dca4a8180b73eb7a6e6b78aa015"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Exodus",
     "chapter": 20,
     "name": "Exodus 20",
-    "url": "https://getbible.net/v2/codex/2/20.json",
+    "url": "https://api.getbible.net/v2/codex/2/20.json",
     "sha": "c133ea6d481ace9e44a16572f1a93bc4d221f20f"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Exodus",
     "chapter": 21,
     "name": "Exodus 21",
-    "url": "https://getbible.net/v2/codex/2/21.json",
+    "url": "https://api.getbible.net/v2/codex/2/21.json",
     "sha": "359d838dc320c7aa7343411866aa7f1ffb07dabc"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Exodus",
     "chapter": 22,
     "name": "Exodus 22",
-    "url": "https://getbible.net/v2/codex/2/22.json",
+    "url": "https://api.getbible.net/v2/codex/2/22.json",
     "sha": "662bb777bca9ef250e807d85474f0e4834871d5b"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Exodus",
     "chapter": 23,
     "name": "Exodus 23",
-    "url": "https://getbible.net/v2/codex/2/23.json",
+    "url": "https://api.getbible.net/v2/codex/2/23.json",
     "sha": "5c21ea59386e945140c9bf6b682191a5f38f10a8"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Exodus",
     "chapter": 24,
     "name": "Exodus 24",
-    "url": "https://getbible.net/v2/codex/2/24.json",
+    "url": "https://api.getbible.net/v2/codex/2/24.json",
     "sha": "41ab74ad7725ff78f219bdb567d2492e67b9c584"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Exodus",
     "chapter": 25,
     "name": "Exodus 25",
-    "url": "https://getbible.net/v2/codex/2/25.json",
+    "url": "https://api.getbible.net/v2/codex/2/25.json",
     "sha": "d0aaa4842f63ff27d34cd2f653667b294b77d96d"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Exodus",
     "chapter": 26,
     "name": "Exodus 26",
-    "url": "https://getbible.net/v2/codex/2/26.json",
+    "url": "https://api.getbible.net/v2/codex/2/26.json",
     "sha": "50c272cded190016dff3b30cf623dab3efe97747"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Exodus",
     "chapter": 27,
     "name": "Exodus 27",
-    "url": "https://getbible.net/v2/codex/2/27.json",
+    "url": "https://api.getbible.net/v2/codex/2/27.json",
     "sha": "99c62c503ab466857acf020ff0cff92962195c0e"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Exodus",
     "chapter": 28,
     "name": "Exodus 28",
-    "url": "https://getbible.net/v2/codex/2/28.json",
+    "url": "https://api.getbible.net/v2/codex/2/28.json",
     "sha": "0b75e8063e5abef8d7ccd312d05fdd2b403e2446"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Exodus",
     "chapter": 29,
     "name": "Exodus 29",
-    "url": "https://getbible.net/v2/codex/2/29.json",
+    "url": "https://api.getbible.net/v2/codex/2/29.json",
     "sha": "155520346eca89196bedfe4890e1dc55be22d159"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Exodus",
     "chapter": 30,
     "name": "Exodus 30",
-    "url": "https://getbible.net/v2/codex/2/30.json",
+    "url": "https://api.getbible.net/v2/codex/2/30.json",
     "sha": "652859f67f9d2cf8280bcd79f5871bb1d2423f0d"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Exodus",
     "chapter": 31,
     "name": "Exodus 31",
-    "url": "https://getbible.net/v2/codex/2/31.json",
+    "url": "https://api.getbible.net/v2/codex/2/31.json",
     "sha": "88a2e9fa23196b8a5e993e7ac894b8e84d963836"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Exodus",
     "chapter": 32,
     "name": "Exodus 32",
-    "url": "https://getbible.net/v2/codex/2/32.json",
+    "url": "https://api.getbible.net/v2/codex/2/32.json",
     "sha": "cd866aece62f9d57e3e59e6ae264279bf5123624"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Exodus",
     "chapter": 33,
     "name": "Exodus 33",
-    "url": "https://getbible.net/v2/codex/2/33.json",
+    "url": "https://api.getbible.net/v2/codex/2/33.json",
     "sha": "fe58e753ece1049be0c5b05adbe6f917f387c6d8"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Exodus",
     "chapter": 34,
     "name": "Exodus 34",
-    "url": "https://getbible.net/v2/codex/2/34.json",
+    "url": "https://api.getbible.net/v2/codex/2/34.json",
     "sha": "56bfa8211f7381bfe7d04ea4ae32796e65bb6f44"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Exodus",
     "chapter": 35,
     "name": "Exodus 35",
-    "url": "https://getbible.net/v2/codex/2/35.json",
+    "url": "https://api.getbible.net/v2/codex/2/35.json",
     "sha": "4d11d0d39ce891771833e2bcf229c04be134b600"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Exodus",
     "chapter": 36,
     "name": "Exodus 36",
-    "url": "https://getbible.net/v2/codex/2/36.json",
+    "url": "https://api.getbible.net/v2/codex/2/36.json",
     "sha": "24a0aa11c3c4a268f107964d63da4c48f060c54b"
   },
   "37": {
@@ -514,7 +514,7 @@
     "book_name": "Exodus",
     "chapter": 37,
     "name": "Exodus 37",
-    "url": "https://getbible.net/v2/codex/2/37.json",
+    "url": "https://api.getbible.net/v2/codex/2/37.json",
     "sha": "f79c7e4584e7b66b1e230019c3a83403f080351f"
   },
   "38": {
@@ -528,7 +528,7 @@
     "book_name": "Exodus",
     "chapter": 38,
     "name": "Exodus 38",
-    "url": "https://getbible.net/v2/codex/2/38.json",
+    "url": "https://api.getbible.net/v2/codex/2/38.json",
     "sha": "ffada0ab801641b3d38281469998af94f2985860"
   },
   "39": {
@@ -542,7 +542,7 @@
     "book_name": "Exodus",
     "chapter": 39,
     "name": "Exodus 39",
-    "url": "https://getbible.net/v2/codex/2/39.json",
+    "url": "https://api.getbible.net/v2/codex/2/39.json",
     "sha": "072611205b50db1ebc325570743308f493ddf165"
   },
   "40": {
@@ -556,7 +556,7 @@
     "book_name": "Exodus",
     "chapter": 40,
     "name": "Exodus 40",
-    "url": "https://getbible.net/v2/codex/2/40.json",
+    "url": "https://api.getbible.net/v2/codex/2/40.json",
     "sha": "cb5864378ab6197fe077b57baaa5b672bc3d804b"
   }
 }

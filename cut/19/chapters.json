@@ -10,7 +10,7 @@
     "book_name": "詩篇",
     "chapter": 1,
     "name": "詩篇 1",
-    "url": "https://getbible.net/v2/cut/19/1.json",
+    "url": "https://api.getbible.net/v2/cut/19/1.json",
     "sha": "9f71037de14a9e95c061d7d5164c1b011c9d796c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "詩篇",
     "chapter": 2,
     "name": "詩篇 2",
-    "url": "https://getbible.net/v2/cut/19/2.json",
+    "url": "https://api.getbible.net/v2/cut/19/2.json",
     "sha": "95474db8fd662cdbbc2c0642e93b37aa517332a2"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "詩篇",
     "chapter": 3,
     "name": "詩篇 3",
-    "url": "https://getbible.net/v2/cut/19/3.json",
+    "url": "https://api.getbible.net/v2/cut/19/3.json",
     "sha": "379ba2833962fc0e3f0e2f76370ef23829844c73"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "詩篇",
     "chapter": 4,
     "name": "詩篇 4",
-    "url": "https://getbible.net/v2/cut/19/4.json",
+    "url": "https://api.getbible.net/v2/cut/19/4.json",
     "sha": "76cf6f2cc3f5b5fc856f943e8e9ed26454277c5c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "詩篇",
     "chapter": 5,
     "name": "詩篇 5",
-    "url": "https://getbible.net/v2/cut/19/5.json",
+    "url": "https://api.getbible.net/v2/cut/19/5.json",
     "sha": "9ebada1ff2b3d7295e598449a33bde9703151eb0"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "詩篇",
     "chapter": 6,
     "name": "詩篇 6",
-    "url": "https://getbible.net/v2/cut/19/6.json",
+    "url": "https://api.getbible.net/v2/cut/19/6.json",
     "sha": "ec7e39b99832e85f207a904e4bbaba7066b07b73"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "詩篇",
     "chapter": 7,
     "name": "詩篇 7",
-    "url": "https://getbible.net/v2/cut/19/7.json",
+    "url": "https://api.getbible.net/v2/cut/19/7.json",
     "sha": "5d2ca6698e68b1577ddeabd0c45b4f5da46c05db"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "詩篇",
     "chapter": 8,
     "name": "詩篇 8",
-    "url": "https://getbible.net/v2/cut/19/8.json",
+    "url": "https://api.getbible.net/v2/cut/19/8.json",
     "sha": "9325857833c026c472569898c7852ed73102aae8"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "詩篇",
     "chapter": 9,
     "name": "詩篇 9",
-    "url": "https://getbible.net/v2/cut/19/9.json",
+    "url": "https://api.getbible.net/v2/cut/19/9.json",
     "sha": "1983c7fe12f3f5e481dc3a35c50df7b90076181c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "詩篇",
     "chapter": 10,
     "name": "詩篇 10",
-    "url": "https://getbible.net/v2/cut/19/10.json",
+    "url": "https://api.getbible.net/v2/cut/19/10.json",
     "sha": "88d25f9bfb7bf495cc6cd48bffc75ba42348c27d"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "詩篇",
     "chapter": 11,
     "name": "詩篇 11",
-    "url": "https://getbible.net/v2/cut/19/11.json",
+    "url": "https://api.getbible.net/v2/cut/19/11.json",
     "sha": "e4192891108d769a4849f5905ca44aeceba4bbe0"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "詩篇",
     "chapter": 12,
     "name": "詩篇 12",
-    "url": "https://getbible.net/v2/cut/19/12.json",
+    "url": "https://api.getbible.net/v2/cut/19/12.json",
     "sha": "be9b828bd3d5db0dac52c130ea5eba165f28ef24"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "詩篇",
     "chapter": 13,
     "name": "詩篇 13",
-    "url": "https://getbible.net/v2/cut/19/13.json",
+    "url": "https://api.getbible.net/v2/cut/19/13.json",
     "sha": "2cb95fc788250052fc29ca1e5db2de350a7116f2"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "詩篇",
     "chapter": 14,
     "name": "詩篇 14",
-    "url": "https://getbible.net/v2/cut/19/14.json",
+    "url": "https://api.getbible.net/v2/cut/19/14.json",
     "sha": "b59cb2744221476fd237980bc9110ab653c2f817"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "詩篇",
     "chapter": 15,
     "name": "詩篇 15",
-    "url": "https://getbible.net/v2/cut/19/15.json",
+    "url": "https://api.getbible.net/v2/cut/19/15.json",
     "sha": "8bdb18e5b6909fe18c9c42fdbe527beda59fcb0b"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "詩篇",
     "chapter": 16,
     "name": "詩篇 16",
-    "url": "https://getbible.net/v2/cut/19/16.json",
+    "url": "https://api.getbible.net/v2/cut/19/16.json",
     "sha": "fc4d0e4f119a68ae959547910353aeb89c1c3b22"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "詩篇",
     "chapter": 17,
     "name": "詩篇 17",
-    "url": "https://getbible.net/v2/cut/19/17.json",
+    "url": "https://api.getbible.net/v2/cut/19/17.json",
     "sha": "cda411da8391df2476652567bc623213f583d1bb"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "詩篇",
     "chapter": 18,
     "name": "詩篇 18",
-    "url": "https://getbible.net/v2/cut/19/18.json",
+    "url": "https://api.getbible.net/v2/cut/19/18.json",
     "sha": "54e059626c8177848c700ff8260461b04143c694"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "詩篇",
     "chapter": 19,
     "name": "詩篇 19",
-    "url": "https://getbible.net/v2/cut/19/19.json",
+    "url": "https://api.getbible.net/v2/cut/19/19.json",
     "sha": "04fa0f1368b50bf8e44d3b8375e08e3470e5adef"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "詩篇",
     "chapter": 20,
     "name": "詩篇 20",
-    "url": "https://getbible.net/v2/cut/19/20.json",
+    "url": "https://api.getbible.net/v2/cut/19/20.json",
     "sha": "6eed88a6d7e94eb3de24d696c8ed4e9d23f6c807"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "詩篇",
     "chapter": 21,
     "name": "詩篇 21",
-    "url": "https://getbible.net/v2/cut/19/21.json",
+    "url": "https://api.getbible.net/v2/cut/19/21.json",
     "sha": "ba55dbb1c077162ffeefd3235f360ac0c4ea4cf4"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "詩篇",
     "chapter": 22,
     "name": "詩篇 22",
-    "url": "https://getbible.net/v2/cut/19/22.json",
+    "url": "https://api.getbible.net/v2/cut/19/22.json",
     "sha": "d5a57aa388443cbb2b249253f7bbd4b68d14e0a3"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "詩篇",
     "chapter": 23,
     "name": "詩篇 23",
-    "url": "https://getbible.net/v2/cut/19/23.json",
+    "url": "https://api.getbible.net/v2/cut/19/23.json",
     "sha": "4e8f6cb81e8f6e0da04591677cd089aa951b9340"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "詩篇",
     "chapter": 24,
     "name": "詩篇 24",
-    "url": "https://getbible.net/v2/cut/19/24.json",
+    "url": "https://api.getbible.net/v2/cut/19/24.json",
     "sha": "35a5a0aff62779dc81797e8fda8d1217aa0ade65"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "詩篇",
     "chapter": 25,
     "name": "詩篇 25",
-    "url": "https://getbible.net/v2/cut/19/25.json",
+    "url": "https://api.getbible.net/v2/cut/19/25.json",
     "sha": "ba6d83ee8c640f170ac29524850a040819e92d49"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "詩篇",
     "chapter": 26,
     "name": "詩篇 26",
-    "url": "https://getbible.net/v2/cut/19/26.json",
+    "url": "https://api.getbible.net/v2/cut/19/26.json",
     "sha": "c22d7028be6ae72980d8d72f4a9cbb83c7219474"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "詩篇",
     "chapter": 27,
     "name": "詩篇 27",
-    "url": "https://getbible.net/v2/cut/19/27.json",
+    "url": "https://api.getbible.net/v2/cut/19/27.json",
     "sha": "1e447e1982c40e744aafb9464c432ad2fb918c16"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "詩篇",
     "chapter": 28,
     "name": "詩篇 28",
-    "url": "https://getbible.net/v2/cut/19/28.json",
+    "url": "https://api.getbible.net/v2/cut/19/28.json",
     "sha": "f8b193dc58a587c5d40078b09f3531ed4871f6bc"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "詩篇",
     "chapter": 29,
     "name": "詩篇 29",
-    "url": "https://getbible.net/v2/cut/19/29.json",
+    "url": "https://api.getbible.net/v2/cut/19/29.json",
     "sha": "062de3bcfb9cf058e76917c2c18ab33a6397199c"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "詩篇",
     "chapter": 30,
     "name": "詩篇 30",
-    "url": "https://getbible.net/v2/cut/19/30.json",
+    "url": "https://api.getbible.net/v2/cut/19/30.json",
     "sha": "bdcad74fe84b806816178d95ae982d9b8d299e32"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "詩篇",
     "chapter": 31,
     "name": "詩篇 31",
-    "url": "https://getbible.net/v2/cut/19/31.json",
+    "url": "https://api.getbible.net/v2/cut/19/31.json",
     "sha": "66b0135a025b36aaee3d5433940823f7c6a7d8bb"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "詩篇",
     "chapter": 32,
     "name": "詩篇 32",
-    "url": "https://getbible.net/v2/cut/19/32.json",
+    "url": "https://api.getbible.net/v2/cut/19/32.json",
     "sha": "75db7c767d3169f02eb252768bcdab352fcd16af"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "詩篇",
     "chapter": 33,
     "name": "詩篇 33",
-    "url": "https://getbible.net/v2/cut/19/33.json",
+    "url": "https://api.getbible.net/v2/cut/19/33.json",
     "sha": "798dcae635fc6f90b7e5af59ddc561ad96e37f23"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "詩篇",
     "chapter": 34,
     "name": "詩篇 34",
-    "url": "https://getbible.net/v2/cut/19/34.json",
+    "url": "https://api.getbible.net/v2/cut/19/34.json",
     "sha": "29f38d42183b1f7001f2a616e4b5af77a524b9d8"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "詩篇",
     "chapter": 35,
     "name": "詩篇 35",
-    "url": "https://getbible.net/v2/cut/19/35.json",
+    "url": "https://api.getbible.net/v2/cut/19/35.json",
     "sha": "97f5fe2933f74db0b43ad6b1a159f9fd3976266b"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "詩篇",
     "chapter": 36,
     "name": "詩篇 36",
-    "url": "https://getbible.net/v2/cut/19/36.json",
+    "url": "https://api.getbible.net/v2/cut/19/36.json",
     "sha": "bc055717d4192224b6cc77ce3eb4afc220311726"
   },
   "37": {
@@ -514,7 +514,7 @@
     "book_name": "詩篇",
     "chapter": 37,
     "name": "詩篇 37",
-    "url": "https://getbible.net/v2/cut/19/37.json",
+    "url": "https://api.getbible.net/v2/cut/19/37.json",
     "sha": "04bad3c3884e49be065f333a8943a7d7a6dd45d6"
   },
   "38": {
@@ -528,7 +528,7 @@
     "book_name": "詩篇",
     "chapter": 38,
     "name": "詩篇 38",
-    "url": "https://getbible.net/v2/cut/19/38.json",
+    "url": "https://api.getbible.net/v2/cut/19/38.json",
     "sha": "03a73fafbcf99a2fbeea8874a1f1bee00256e13e"
   },
   "39": {
@@ -542,7 +542,7 @@
     "book_name": "詩篇",
     "chapter": 39,
     "name": "詩篇 39",
-    "url": "https://getbible.net/v2/cut/19/39.json",
+    "url": "https://api.getbible.net/v2/cut/19/39.json",
     "sha": "4d1bb62908fdccd7311a653d20c1a3de3cc333e3"
   },
   "40": {
@@ -556,7 +556,7 @@
     "book_name": "詩篇",
     "chapter": 40,
     "name": "詩篇 40",
-    "url": "https://getbible.net/v2/cut/19/40.json",
+    "url": "https://api.getbible.net/v2/cut/19/40.json",
     "sha": "a6d2b6c6ee49d7c144a7054863aedde64687dbe3"
   },
   "41": {
@@ -570,7 +570,7 @@
     "book_name": "詩篇",
     "chapter": 41,
     "name": "詩篇 41",
-    "url": "https://getbible.net/v2/cut/19/41.json",
+    "url": "https://api.getbible.net/v2/cut/19/41.json",
     "sha": "044685c03c8ebf12b7deff2ec39f629b20e29c44"
   },
   "42": {
@@ -584,7 +584,7 @@
     "book_name": "詩篇",
     "chapter": 42,
     "name": "詩篇 42",
-    "url": "https://getbible.net/v2/cut/19/42.json",
+    "url": "https://api.getbible.net/v2/cut/19/42.json",
     "sha": "1a8cf628c4bc20b8da8099da679d27533efaddfe"
   },
   "43": {
@@ -598,7 +598,7 @@
     "book_name": "詩篇",
     "chapter": 43,
     "name": "詩篇 43",
-    "url": "https://getbible.net/v2/cut/19/43.json",
+    "url": "https://api.getbible.net/v2/cut/19/43.json",
     "sha": "4f09c2200273224aa555a039b134cceb660f1821"
   },
   "44": {
@@ -612,7 +612,7 @@
     "book_name": "詩篇",
     "chapter": 44,
     "name": "詩篇 44",
-    "url": "https://getbible.net/v2/cut/19/44.json",
+    "url": "https://api.getbible.net/v2/cut/19/44.json",
     "sha": "77698e85b3ab3e7ab4a40921ef9079d420085b3d"
   },
   "45": {
@@ -626,7 +626,7 @@
     "book_name": "詩篇",
     "chapter": 45,
     "name": "詩篇 45",
-    "url": "https://getbible.net/v2/cut/19/45.json",
+    "url": "https://api.getbible.net/v2/cut/19/45.json",
     "sha": "16466664adf7dc5bcea49cd70a0bafdbfaab9906"
   },
   "46": {
@@ -640,7 +640,7 @@
     "book_name": "詩篇",
     "chapter": 46,
     "name": "詩篇 46",
-    "url": "https://getbible.net/v2/cut/19/46.json",
+    "url": "https://api.getbible.net/v2/cut/19/46.json",
     "sha": "f141932f31a4b7793b86a7a3251395d8d48e356a"
   },
   "47": {
@@ -654,7 +654,7 @@
     "book_name": "詩篇",
     "chapter": 47,
     "name": "詩篇 47",
-    "url": "https://getbible.net/v2/cut/19/47.json",
+    "url": "https://api.getbible.net/v2/cut/19/47.json",
     "sha": "e63542d5542dba1687ebc487a72b2a67427db500"
   },
   "48": {
@@ -668,7 +668,7 @@
     "book_name": "詩篇",
     "chapter": 48,
     "name": "詩篇 48",
-    "url": "https://getbible.net/v2/cut/19/48.json",
+    "url": "https://api.getbible.net/v2/cut/19/48.json",
     "sha": "b70b1f81a99e59fd77d8ce74e25f5d288cb92b22"
   },
   "49": {
@@ -682,7 +682,7 @@
     "book_name": "詩篇",
     "chapter": 49,
     "name": "詩篇 49",
-    "url": "https://getbible.net/v2/cut/19/49.json",
+    "url": "https://api.getbible.net/v2/cut/19/49.json",
     "sha": "436d083a6a774a1318f6fdcb1efdb3c2d661d952"
   },
   "50": {
@@ -696,7 +696,7 @@
     "book_name": "詩篇",
     "chapter": 50,
     "name": "詩篇 50",
-    "url": "https://getbible.net/v2/cut/19/50.json",
+    "url": "https://api.getbible.net/v2/cut/19/50.json",
     "sha": "32d5b1342b6881c6fbafd4c0f5d4ad2a0ed62ab7"
   },
   "51": {
@@ -710,7 +710,7 @@
     "book_name": "詩篇",
     "chapter": 51,
     "name": "詩篇 51",
-    "url": "https://getbible.net/v2/cut/19/51.json",
+    "url": "https://api.getbible.net/v2/cut/19/51.json",
     "sha": "8cc97b30d8fcf827f29d87d9738986e87448c19f"
   },
   "52": {
@@ -724,7 +724,7 @@
     "book_name": "詩篇",
     "chapter": 52,
     "name": "詩篇 52",
-    "url": "https://getbible.net/v2/cut/19/52.json",
+    "url": "https://api.getbible.net/v2/cut/19/52.json",
     "sha": "30b455068ecfcdcdce9e5e56613c41a305e880cc"
   },
   "53": {
@@ -738,7 +738,7 @@
     "book_name": "詩篇",
     "chapter": 53,
     "name": "詩篇 53",
-    "url": "https://getbible.net/v2/cut/19/53.json",
+    "url": "https://api.getbible.net/v2/cut/19/53.json",
     "sha": "bbf94c88759408dea599313b5633fe9ef769a517"
   },
   "54": {
@@ -752,7 +752,7 @@
     "book_name": "詩篇",
     "chapter": 54,
     "name": "詩篇 54",
-    "url": "https://getbible.net/v2/cut/19/54.json",
+    "url": "https://api.getbible.net/v2/cut/19/54.json",
     "sha": "69a610e709b025b9f4b56979bc5f921d63100f72"
   },
   "55": {
@@ -766,7 +766,7 @@
     "book_name": "詩篇",
     "chapter": 55,
     "name": "詩篇 55",
-    "url": "https://getbible.net/v2/cut/19/55.json",
+    "url": "https://api.getbible.net/v2/cut/19/55.json",
     "sha": "0f27d4cecc03520fc0696c90763cc303490c1376"
   },
   "56": {
@@ -780,7 +780,7 @@
     "book_name": "詩篇",
     "chapter": 56,
     "name": "詩篇 56",
-    "url": "https://getbible.net/v2/cut/19/56.json",
+    "url": "https://api.getbible.net/v2/cut/19/56.json",
     "sha": "286c18651d0b69c50688281d05b1c7ba60944aec"
   },
   "57": {
@@ -794,7 +794,7 @@
     "book_name": "詩篇",
     "chapter": 57,
     "name": "詩篇 57",
-    "url": "https://getbible.net/v2/cut/19/57.json",
+    "url": "https://api.getbible.net/v2/cut/19/57.json",
     "sha": "524b888c8893f54d4517e258ca2ba5f85de17381"
   },
   "58": {
@@ -808,7 +808,7 @@
     "book_name": "詩篇",
     "chapter": 58,
     "name": "詩篇 58",
-    "url": "https://getbible.net/v2/cut/19/58.json",
+    "url": "https://api.getbible.net/v2/cut/19/58.json",
     "sha": "add159af05c992d8201fa96bdd37c894f1e2d033"
   },
   "59": {
@@ -822,7 +822,7 @@
     "book_name": "詩篇",
     "chapter": 59,
     "name": "詩篇 59",
-    "url": "https://getbible.net/v2/cut/19/59.json",
+    "url": "https://api.getbible.net/v2/cut/19/59.json",
     "sha": "1066cf3993e00bf795de7a7ebb76a7ced3223fa9"
   },
   "60": {
@@ -836,7 +836,7 @@
     "book_name": "詩篇",
     "chapter": 60,
     "name": "詩篇 60",
-    "url": "https://getbible.net/v2/cut/19/60.json",
+    "url": "https://api.getbible.net/v2/cut/19/60.json",
     "sha": "e74d604b6175a2dd24ca19e5ba3d37f12d710674"
   },
   "61": {
@@ -850,7 +850,7 @@
     "book_name": "詩篇",
     "chapter": 61,
     "name": "詩篇 61",
-    "url": "https://getbible.net/v2/cut/19/61.json",
+    "url": "https://api.getbible.net/v2/cut/19/61.json",
     "sha": "272d5b71ba5fc4fc362c82054d0ca20b8b0b5411"
   },
   "62": {
@@ -864,7 +864,7 @@
     "book_name": "詩篇",
     "chapter": 62,
     "name": "詩篇 62",
-    "url": "https://getbible.net/v2/cut/19/62.json",
+    "url": "https://api.getbible.net/v2/cut/19/62.json",
     "sha": "7e2753b74cb383d560f12262341cd36b5711f2c5"
   },
   "63": {
@@ -878,7 +878,7 @@
     "book_name": "詩篇",
     "chapter": 63,
     "name": "詩篇 63",
-    "url": "https://getbible.net/v2/cut/19/63.json",
+    "url": "https://api.getbible.net/v2/cut/19/63.json",
     "sha": "53a62f1bd271673eeb491b863063869cabf5c159"
   },
   "64": {
@@ -892,7 +892,7 @@
     "book_name": "詩篇",
     "chapter": 64,
     "name": "詩篇 64",
-    "url": "https://getbible.net/v2/cut/19/64.json",
+    "url": "https://api.getbible.net/v2/cut/19/64.json",
     "sha": "4d8753f609cbadf2eacd6db9a5a0c9edfccd08b4"
   },
   "65": {
@@ -906,7 +906,7 @@
     "book_name": "詩篇",
     "chapter": 65,
     "name": "詩篇 65",
-    "url": "https://getbible.net/v2/cut/19/65.json",
+    "url": "https://api.getbible.net/v2/cut/19/65.json",
     "sha": "6c3b697520772bebc8a1adc5974732a297e63879"
   },
   "66": {
@@ -920,7 +920,7 @@
     "book_name": "詩篇",
     "chapter": 66,
     "name": "詩篇 66",
-    "url": "https://getbible.net/v2/cut/19/66.json",
+    "url": "https://api.getbible.net/v2/cut/19/66.json",
     "sha": "4b1bc0a08af30c47e67c5525c038de17a4429209"
   },
   "67": {
@@ -934,7 +934,7 @@
     "book_name": "詩篇",
     "chapter": 67,
     "name": "詩篇 67",
-    "url": "https://getbible.net/v2/cut/19/67.json",
+    "url": "https://api.getbible.net/v2/cut/19/67.json",
     "sha": "2ab48bb9a689069f31616e72258ee154bcc6da1d"
   },
   "68": {
@@ -948,7 +948,7 @@
     "book_name": "詩篇",
     "chapter": 68,
     "name": "詩篇 68",
-    "url": "https://getbible.net/v2/cut/19/68.json",
+    "url": "https://api.getbible.net/v2/cut/19/68.json",
     "sha": "6fa54f5d4de27638b2d29c6fe88ad33d156eaff5"
   },
   "69": {
@@ -962,7 +962,7 @@
     "book_name": "詩篇",
     "chapter": 69,
     "name": "詩篇 69",
-    "url": "https://getbible.net/v2/cut/19/69.json",
+    "url": "https://api.getbible.net/v2/cut/19/69.json",
     "sha": "f2f3199687b2a832e63c6d8ba80b6af095b752e5"
   },
   "70": {
@@ -976,7 +976,7 @@
     "book_name": "詩篇",
     "chapter": 70,
     "name": "詩篇 70",
-    "url": "https://getbible.net/v2/cut/19/70.json",
+    "url": "https://api.getbible.net/v2/cut/19/70.json",
     "sha": "3f59401a7b1e1f30ea56b3e750df5b8b5b38c294"
   },
   "71": {
@@ -990,7 +990,7 @@
     "book_name": "詩篇",
     "chapter": 71,
     "name": "詩篇 71",
-    "url": "https://getbible.net/v2/cut/19/71.json",
+    "url": "https://api.getbible.net/v2/cut/19/71.json",
     "sha": "b6922893e97383df5b5ae13b33e3896d45e0954c"
   },
   "72": {
@@ -1004,7 +1004,7 @@
     "book_name": "詩篇",
     "chapter": 72,
     "name": "詩篇 72",
-    "url": "https://getbible.net/v2/cut/19/72.json",
+    "url": "https://api.getbible.net/v2/cut/19/72.json",
     "sha": "b8665a336043930f02e2d24e53858078f5f219d4"
   },
   "73": {
@@ -1018,7 +1018,7 @@
     "book_name": "詩篇",
     "chapter": 73,
     "name": "詩篇 73",
-    "url": "https://getbible.net/v2/cut/19/73.json",
+    "url": "https://api.getbible.net/v2/cut/19/73.json",
     "sha": "8b150567d36aaca47efdf38804bfd79a1543c963"
   },
   "74": {
@@ -1032,7 +1032,7 @@
     "book_name": "詩篇",
     "chapter": 74,
     "name": "詩篇 74",
-    "url": "https://getbible.net/v2/cut/19/74.json",
+    "url": "https://api.getbible.net/v2/cut/19/74.json",
     "sha": "cf7f883a7d6afaf59b4d577589b3d28454807658"
   },
   "75": {
@@ -1046,7 +1046,7 @@
     "book_name": "詩篇",
     "chapter": 75,
     "name": "詩篇 75",
-    "url": "https://getbible.net/v2/cut/19/75.json",
+    "url": "https://api.getbible.net/v2/cut/19/75.json",
     "sha": "2671a083727caff2d4ff4b0794762fb66c347690"
   },
   "76": {
@@ -1060,7 +1060,7 @@
     "book_name": "詩篇",
     "chapter": 76,
     "name": "詩篇 76",
-    "url": "https://getbible.net/v2/cut/19/76.json",
+    "url": "https://api.getbible.net/v2/cut/19/76.json",
     "sha": "37777ac7742433c40a306da466039bcd7fcba3e1"
   },
   "77": {
@@ -1074,7 +1074,7 @@
     "book_name": "詩篇",
     "chapter": 77,
     "name": "詩篇 77",
-    "url": "https://getbible.net/v2/cut/19/77.json",
+    "url": "https://api.getbible.net/v2/cut/19/77.json",
     "sha": "d8c38a3a0520d30f799003d653a93834c0e8446f"
   },
   "78": {
@@ -1088,7 +1088,7 @@
     "book_name": "詩篇",
     "chapter": 78,
     "name": "詩篇 78",
-    "url": "https://getbible.net/v2/cut/19/78.json",
+    "url": "https://api.getbible.net/v2/cut/19/78.json",
     "sha": "e4a7a32ac650a3b3ad3224c2432388a4adea3961"
   },
   "79": {
@@ -1102,7 +1102,7 @@
     "book_name": "詩篇",
     "chapter": 79,
     "name": "詩篇 79",
-    "url": "https://getbible.net/v2/cut/19/79.json",
+    "url": "https://api.getbible.net/v2/cut/19/79.json",
     "sha": "8839851c7947ba5f1a90111cd64a9e2925ba4f0b"
   },
   "80": {
@@ -1116,7 +1116,7 @@
     "book_name": "詩篇",
     "chapter": 80,
     "name": "詩篇 80",
-    "url": "https://getbible.net/v2/cut/19/80.json",
+    "url": "https://api.getbible.net/v2/cut/19/80.json",
     "sha": "ae56acc0b79384b5f7137376da3e50678ec92b55"
   },
   "81": {
@@ -1130,7 +1130,7 @@
     "book_name": "詩篇",
     "chapter": 81,
     "name": "詩篇 81",
-    "url": "https://getbible.net/v2/cut/19/81.json",
+    "url": "https://api.getbible.net/v2/cut/19/81.json",
     "sha": "b6d60e840f510f6bd24786a51a6ca1ac8e9a74cb"
   },
   "82": {
@@ -1144,7 +1144,7 @@
     "book_name": "詩篇",
     "chapter": 82,
     "name": "詩篇 82",
-    "url": "https://getbible.net/v2/cut/19/82.json",
+    "url": "https://api.getbible.net/v2/cut/19/82.json",
     "sha": "c2a2c4f61b5eb0876dfd2391a0700e43b0c49d3d"
   },
   "83": {
@@ -1158,7 +1158,7 @@
     "book_name": "詩篇",
     "chapter": 83,
     "name": "詩篇 83",
-    "url": "https://getbible.net/v2/cut/19/83.json",
+    "url": "https://api.getbible.net/v2/cut/19/83.json",
     "sha": "b03aae93b6974eb359b1b74d03498599f9ed68d4"
   },
   "84": {
@@ -1172,7 +1172,7 @@
     "book_name": "詩篇",
     "chapter": 84,
     "name": "詩篇 84",
-    "url": "https://getbible.net/v2/cut/19/84.json",
+    "url": "https://api.getbible.net/v2/cut/19/84.json",
     "sha": "a9de0c2ff24a15bfc61d8713174685898732380e"
   },
   "85": {
@@ -1186,7 +1186,7 @@
     "book_name": "詩篇",
     "chapter": 85,
     "name": "詩篇 85",
-    "url": "https://getbible.net/v2/cut/19/85.json",
+    "url": "https://api.getbible.net/v2/cut/19/85.json",
     "sha": "b2f7671d11be316ae279d83a679587a4c497700e"
   },
   "86": {
@@ -1200,7 +1200,7 @@
     "book_name": "詩篇",
     "chapter": 86,
     "name": "詩篇 86",
-    "url": "https://getbible.net/v2/cut/19/86.json",
+    "url": "https://api.getbible.net/v2/cut/19/86.json",
     "sha": "fb3a4393a26661e8c3d0b7bdb5d50d549f4e7c23"
   },
   "87": {
@@ -1214,7 +1214,7 @@
     "book_name": "詩篇",
     "chapter": 87,
     "name": "詩篇 87",
-    "url": "https://getbible.net/v2/cut/19/87.json",
+    "url": "https://api.getbible.net/v2/cut/19/87.json",
     "sha": "4b1b2e0161b28806ede0d90780c8509b02587041"
   },
   "88": {
@@ -1228,7 +1228,7 @@
     "book_name": "詩篇",
     "chapter": 88,
     "name": "詩篇 88",
-    "url": "https://getbible.net/v2/cut/19/88.json",
+    "url": "https://api.getbible.net/v2/cut/19/88.json",
     "sha": "98e893a806c0881c82ebe0609fe882210bc4e294"
   },
   "89": {
@@ -1242,7 +1242,7 @@
     "book_name": "詩篇",
     "chapter": 89,
     "name": "詩篇 89",
-    "url": "https://getbible.net/v2/cut/19/89.json",
+    "url": "https://api.getbible.net/v2/cut/19/89.json",
     "sha": "b91a86ff0c1f41ad42b5356c86762814f61f238f"
   },
   "90": {
@@ -1256,7 +1256,7 @@
     "book_name": "詩篇",
     "chapter": 90,
     "name": "詩篇 90",
-    "url": "https://getbible.net/v2/cut/19/90.json",
+    "url": "https://api.getbible.net/v2/cut/19/90.json",
     "sha": "4d3e5470506effb3a1f187ddaaa2509bd8f2759c"
   },
   "91": {
@@ -1270,7 +1270,7 @@
     "book_name": "詩篇",
     "chapter": 91,
     "name": "詩篇 91",
-    "url": "https://getbible.net/v2/cut/19/91.json",
+    "url": "https://api.getbible.net/v2/cut/19/91.json",
     "sha": "0949e02d9ed2c194dca1e595fedfe77e2986cc96"
   },
   "92": {
@@ -1284,7 +1284,7 @@
     "book_name": "詩篇",
     "chapter": 92,
     "name": "詩篇 92",
-    "url": "https://getbible.net/v2/cut/19/92.json",
+    "url": "https://api.getbible.net/v2/cut/19/92.json",
     "sha": "30ab2a3b793524e6389499b43b3055ece9adc218"
   },
   "93": {
@@ -1298,7 +1298,7 @@
     "book_name": "詩篇",
     "chapter": 93,
     "name": "詩篇 93",
-    "url": "https://getbible.net/v2/cut/19/93.json",
+    "url": "https://api.getbible.net/v2/cut/19/93.json",
     "sha": "21213782d1e01d98ddaabdd4b6862c08fe6711cb"
   },
   "94": {
@@ -1312,7 +1312,7 @@
     "book_name": "詩篇",
     "chapter": 94,
     "name": "詩篇 94",
-    "url": "https://getbible.net/v2/cut/19/94.json",
+    "url": "https://api.getbible.net/v2/cut/19/94.json",
     "sha": "b4553f8d278a1477dd667ac5ecb9f71378b59dc6"
   },
   "95": {
@@ -1326,7 +1326,7 @@
     "book_name": "詩篇",
     "chapter": 95,
     "name": "詩篇 95",
-    "url": "https://getbible.net/v2/cut/19/95.json",
+    "url": "https://api.getbible.net/v2/cut/19/95.json",
     "sha": "5e167452c8897faa5a494adc013e9f2c98dc9ebd"
   },
   "96": {
@@ -1340,7 +1340,7 @@
     "book_name": "詩篇",
     "chapter": 96,
     "name": "詩篇 96",
-    "url": "https://getbible.net/v2/cut/19/96.json",
+    "url": "https://api.getbible.net/v2/cut/19/96.json",
     "sha": "72ef68306f0bc0ae3b63c3cba65e8228fcf2f6c9"
   },
   "97": {
@@ -1354,7 +1354,7 @@
     "book_name": "詩篇",
     "chapter": 97,
     "name": "詩篇 97",
-    "url": "https://getbible.net/v2/cut/19/97.json",
+    "url": "https://api.getbible.net/v2/cut/19/97.json",
     "sha": "376fea8b3d22bf4fb9b335001ef65db8606f7d65"
   },
   "98": {
@@ -1368,7 +1368,7 @@
     "book_name": "詩篇",
     "chapter": 98,
     "name": "詩篇 98",
-    "url": "https://getbible.net/v2/cut/19/98.json",
+    "url": "https://api.getbible.net/v2/cut/19/98.json",
     "sha": "a725a43a91e825e0fae61ae1a24611dbfcf27189"
   },
   "99": {
@@ -1382,7 +1382,7 @@
     "book_name": "詩篇",
     "chapter": 99,
     "name": "詩篇 99",
-    "url": "https://getbible.net/v2/cut/19/99.json",
+    "url": "https://api.getbible.net/v2/cut/19/99.json",
     "sha": "43cf863fb8ff0f6f430e119d9f2038fee5f11993"
   },
   "100": {
@@ -1396,7 +1396,7 @@
     "book_name": "詩篇",
     "chapter": 100,
     "name": "詩篇 100",
-    "url": "https://getbible.net/v2/cut/19/100.json",
+    "url": "https://api.getbible.net/v2/cut/19/100.json",
     "sha": "82b8ec5b39485c964d84ad105d0ba6c8280bd4cb"
   },
   "101": {
@@ -1410,7 +1410,7 @@
     "book_name": "詩篇",
     "chapter": 101,
     "name": "詩篇 101",
-    "url": "https://getbible.net/v2/cut/19/101.json",
+    "url": "https://api.getbible.net/v2/cut/19/101.json",
     "sha": "e8ff578206408904c095bf3e3f0b952aa477722f"
   },
   "102": {
@@ -1424,7 +1424,7 @@
     "book_name": "詩篇",
     "chapter": 102,
     "name": "詩篇 102",
-    "url": "https://getbible.net/v2/cut/19/102.json",
+    "url": "https://api.getbible.net/v2/cut/19/102.json",
     "sha": "6d7d3058f99250c5de7e0dde4e8bed1287206121"
   },
   "103": {
@@ -1438,7 +1438,7 @@
     "book_name": "詩篇",
     "chapter": 103,
     "name": "詩篇 103",
-    "url": "https://getbible.net/v2/cut/19/103.json",
+    "url": "https://api.getbible.net/v2/cut/19/103.json",
     "sha": "1709f54b4305ec693d60acff7c7477ffe2fed351"
   },
   "104": {
@@ -1452,7 +1452,7 @@
     "book_name": "詩篇",
     "chapter": 104,
     "name": "詩篇 104",
-    "url": "https://getbible.net/v2/cut/19/104.json",
+    "url": "https://api.getbible.net/v2/cut/19/104.json",
     "sha": "15a42526b52159ae85619b84a72fe5834c51935d"
   },
   "105": {
@@ -1466,7 +1466,7 @@
     "book_name": "詩篇",
     "chapter": 105,
     "name": "詩篇 105",
-    "url": "https://getbible.net/v2/cut/19/105.json",
+    "url": "https://api.getbible.net/v2/cut/19/105.json",
     "sha": "185d19bd15d3ef1117177580702e277169b02c4e"
   },
   "106": {
@@ -1480,7 +1480,7 @@
     "book_name": "詩篇",
     "chapter": 106,
     "name": "詩篇 106",
-    "url": "https://getbible.net/v2/cut/19/106.json",
+    "url": "https://api.getbible.net/v2/cut/19/106.json",
     "sha": "49f6a2c0376b5f728b320d25c9fd2091b7fd7db2"
   },
   "107": {
@@ -1494,7 +1494,7 @@
     "book_name": "詩篇",
     "chapter": 107,
     "name": "詩篇 107",
-    "url": "https://getbible.net/v2/cut/19/107.json",
+    "url": "https://api.getbible.net/v2/cut/19/107.json",
     "sha": "60c2f6638fe7e1ba0c64dc36825ef777127685b2"
   },
   "108": {
@@ -1508,7 +1508,7 @@
     "book_name": "詩篇",
     "chapter": 108,
     "name": "詩篇 108",
-    "url": "https://getbible.net/v2/cut/19/108.json",
+    "url": "https://api.getbible.net/v2/cut/19/108.json",
     "sha": "54d1968c197596119e660648ffa67a6ec559c69a"
   },
   "109": {
@@ -1522,7 +1522,7 @@
     "book_name": "詩篇",
     "chapter": 109,
     "name": "詩篇 109",
-    "url": "https://getbible.net/v2/cut/19/109.json",
+    "url": "https://api.getbible.net/v2/cut/19/109.json",
     "sha": "7e52b52c11067b5f4ce2688ce8c0e53dbe38e409"
   },
   "110": {
@@ -1536,7 +1536,7 @@
     "book_name": "詩篇",
     "chapter": 110,
     "name": "詩篇 110",
-    "url": "https://getbible.net/v2/cut/19/110.json",
+    "url": "https://api.getbible.net/v2/cut/19/110.json",
     "sha": "7d76b5bf2aba1fae49653436cdd48eae279fc83a"
   },
   "111": {
@@ -1550,7 +1550,7 @@
     "book_name": "詩篇",
     "chapter": 111,
     "name": "詩篇 111",
-    "url": "https://getbible.net/v2/cut/19/111.json",
+    "url": "https://api.getbible.net/v2/cut/19/111.json",
     "sha": "6520ae81257b477155b21355632455d252949edd"
   },
   "112": {
@@ -1564,7 +1564,7 @@
     "book_name": "詩篇",
     "chapter": 112,
     "name": "詩篇 112",
-    "url": "https://getbible.net/v2/cut/19/112.json",
+    "url": "https://api.getbible.net/v2/cut/19/112.json",
     "sha": "3a0290db86c0c704be4793e556200a982b21833c"
   },
   "113": {
@@ -1578,7 +1578,7 @@
     "book_name": "詩篇",
     "chapter": 113,
     "name": "詩篇 113",
-    "url": "https://getbible.net/v2/cut/19/113.json",
+    "url": "https://api.getbible.net/v2/cut/19/113.json",
     "sha": "1a27b061ea8bfcf303a378221db7b2eb62451a19"
   },
   "114": {
@@ -1592,7 +1592,7 @@
     "book_name": "詩篇",
     "chapter": 114,
     "name": "詩篇 114",
-    "url": "https://getbible.net/v2/cut/19/114.json",
+    "url": "https://api.getbible.net/v2/cut/19/114.json",
     "sha": "c3f5588b74402a9d3150574f459672f026d98c1e"
   },
   "115": {
@@ -1606,7 +1606,7 @@
     "book_name": "詩篇",
     "chapter": 115,
     "name": "詩篇 115",
-    "url": "https://getbible.net/v2/cut/19/115.json",
+    "url": "https://api.getbible.net/v2/cut/19/115.json",
     "sha": "dc4c184669ebd647bb40b45987cb32c9394a3f22"
   },
   "116": {
@@ -1620,7 +1620,7 @@
     "book_name": "詩篇",
     "chapter": 116,
     "name": "詩篇 116",
-    "url": "https://getbible.net/v2/cut/19/116.json",
+    "url": "https://api.getbible.net/v2/cut/19/116.json",
     "sha": "f8c91675f3e25e6c4bd51bba9d4ff5328d4d4d3b"
   },
   "117": {
@@ -1634,7 +1634,7 @@
     "book_name": "詩篇",
     "chapter": 117,
     "name": "詩篇 117",
-    "url": "https://getbible.net/v2/cut/19/117.json",
+    "url": "https://api.getbible.net/v2/cut/19/117.json",
     "sha": "bca079d16cd37eb1ea10d91c85049cd3390d3721"
   },
   "118": {
@@ -1648,7 +1648,7 @@
     "book_name": "詩篇",
     "chapter": 118,
     "name": "詩篇 118",
-    "url": "https://getbible.net/v2/cut/19/118.json",
+    "url": "https://api.getbible.net/v2/cut/19/118.json",
     "sha": "7185db600cc0465a2593ef45459349e5de2cdcbd"
   },
   "119": {
@@ -1662,7 +1662,7 @@
     "book_name": "詩篇",
     "chapter": 119,
     "name": "詩篇 119",
-    "url": "https://getbible.net/v2/cut/19/119.json",
+    "url": "https://api.getbible.net/v2/cut/19/119.json",
     "sha": "6b5fba999194a0ffcbfdcdfd9245350c39b69c2a"
   },
   "120": {
@@ -1676,7 +1676,7 @@
     "book_name": "詩篇",
     "chapter": 120,
     "name": "詩篇 120",
-    "url": "https://getbible.net/v2/cut/19/120.json",
+    "url": "https://api.getbible.net/v2/cut/19/120.json",
     "sha": "09049683060193909306c6dfb1a8899969e6e632"
   },
   "121": {
@@ -1690,7 +1690,7 @@
     "book_name": "詩篇",
     "chapter": 121,
     "name": "詩篇 121",
-    "url": "https://getbible.net/v2/cut/19/121.json",
+    "url": "https://api.getbible.net/v2/cut/19/121.json",
     "sha": "a5c79f71c9cb0642098e6b8f7844c61cfca92efd"
   },
   "122": {
@@ -1704,7 +1704,7 @@
     "book_name": "詩篇",
     "chapter": 122,
     "name": "詩篇 122",
-    "url": "https://getbible.net/v2/cut/19/122.json",
+    "url": "https://api.getbible.net/v2/cut/19/122.json",
     "sha": "a3c0d05943e51cd7d79a130fee985930d6e7aea1"
   },
   "123": {
@@ -1718,7 +1718,7 @@
     "book_name": "詩篇",
     "chapter": 123,
     "name": "詩篇 123",
-    "url": "https://getbible.net/v2/cut/19/123.json",
+    "url": "https://api.getbible.net/v2/cut/19/123.json",
     "sha": "9996bfaf4044747f617234d9652afde0e1783230"
   },
   "124": {
@@ -1732,7 +1732,7 @@
     "book_name": "詩篇",
     "chapter": 124,
     "name": "詩篇 124",
-    "url": "https://getbible.net/v2/cut/19/124.json",
+    "url": "https://api.getbible.net/v2/cut/19/124.json",
     "sha": "3b396f8f66ddba4fd44a210d2d0418623ea0c487"
   },
   "125": {
@@ -1746,7 +1746,7 @@
     "book_name": "詩篇",
     "chapter": 125,
     "name": "詩篇 125",
-    "url": "https://getbible.net/v2/cut/19/125.json",
+    "url": "https://api.getbible.net/v2/cut/19/125.json",
     "sha": "cf45fad22ef62e164179db4f53ce122487621e1f"
   },
   "126": {
@@ -1760,7 +1760,7 @@
     "book_name": "詩篇",
     "chapter": 126,
     "name": "詩篇 126",
-    "url": "https://getbible.net/v2/cut/19/126.json",
+    "url": "https://api.getbible.net/v2/cut/19/126.json",
     "sha": "e3fd3acb3efca8dc8c3b8252db08030ede22e872"
   },
   "127": {
@@ -1774,7 +1774,7 @@
     "book_name": "詩篇",
     "chapter": 127,
     "name": "詩篇 127",
-    "url": "https://getbible.net/v2/cut/19/127.json",
+    "url": "https://api.getbible.net/v2/cut/19/127.json",
     "sha": "67cdef001b9f33accab3118abb98ed569a2d3b9f"
   },
   "128": {
@@ -1788,7 +1788,7 @@
     "book_name": "詩篇",
     "chapter": 128,
     "name": "詩篇 128",
-    "url": "https://getbible.net/v2/cut/19/128.json",
+    "url": "https://api.getbible.net/v2/cut/19/128.json",
     "sha": "2fe250b59cdd63172707477cf368cec951789703"
   },
   "129": {
@@ -1802,7 +1802,7 @@
     "book_name": "詩篇",
     "chapter": 129,
     "name": "詩篇 129",
-    "url": "https://getbible.net/v2/cut/19/129.json",
+    "url": "https://api.getbible.net/v2/cut/19/129.json",
     "sha": "3d50964b37ff634fa8f84b9c8e2e02c7b78fbc6d"
   },
   "130": {
@@ -1816,7 +1816,7 @@
     "book_name": "詩篇",
     "chapter": 130,
     "name": "詩篇 130",
-    "url": "https://getbible.net/v2/cut/19/130.json",
+    "url": "https://api.getbible.net/v2/cut/19/130.json",
     "sha": "0d247e43138d18990224ec76c7b236dc12d27808"
   },
   "131": {
@@ -1830,7 +1830,7 @@
     "book_name": "詩篇",
     "chapter": 131,
     "name": "詩篇 131",
-    "url": "https://getbible.net/v2/cut/19/131.json",
+    "url": "https://api.getbible.net/v2/cut/19/131.json",
     "sha": "cb51c5c2ea1a8ee6f9ec05ee27619bbe70c9e76e"
   },
   "132": {
@@ -1844,7 +1844,7 @@
     "book_name": "詩篇",
     "chapter": 132,
     "name": "詩篇 132",
-    "url": "https://getbible.net/v2/cut/19/132.json",
+    "url": "https://api.getbible.net/v2/cut/19/132.json",
     "sha": "7928f5f68436d16da5528709952603108e81d0ca"
   },
   "133": {
@@ -1858,7 +1858,7 @@
     "book_name": "詩篇",
     "chapter": 133,
     "name": "詩篇 133",
-    "url": "https://getbible.net/v2/cut/19/133.json",
+    "url": "https://api.getbible.net/v2/cut/19/133.json",
     "sha": "e53d8aaae7527f359bead4bc7eac3dad84bfec92"
   },
   "134": {
@@ -1872,7 +1872,7 @@
     "book_name": "詩篇",
     "chapter": 134,
     "name": "詩篇 134",
-    "url": "https://getbible.net/v2/cut/19/134.json",
+    "url": "https://api.getbible.net/v2/cut/19/134.json",
     "sha": "b314dcb1009437ed78c22c81a6a46252b2614006"
   },
   "135": {
@@ -1886,7 +1886,7 @@
     "book_name": "詩篇",
     "chapter": 135,
     "name": "詩篇 135",
-    "url": "https://getbible.net/v2/cut/19/135.json",
+    "url": "https://api.getbible.net/v2/cut/19/135.json",
     "sha": "ddf189d071c27612692b232874f00157114f3338"
   },
   "136": {
@@ -1900,7 +1900,7 @@
     "book_name": "詩篇",
     "chapter": 136,
     "name": "詩篇 136",
-    "url": "https://getbible.net/v2/cut/19/136.json",
+    "url": "https://api.getbible.net/v2/cut/19/136.json",
     "sha": "8b52d3db3622895d1cea77bb07523b186c673fa2"
   },
   "137": {
@@ -1914,7 +1914,7 @@
     "book_name": "詩篇",
     "chapter": 137,
     "name": "詩篇 137",
-    "url": "https://getbible.net/v2/cut/19/137.json",
+    "url": "https://api.getbible.net/v2/cut/19/137.json",
     "sha": "fad117661484ae50c69ccee1fc0c00b1377222a8"
   },
   "138": {
@@ -1928,7 +1928,7 @@
     "book_name": "詩篇",
     "chapter": 138,
     "name": "詩篇 138",
-    "url": "https://getbible.net/v2/cut/19/138.json",
+    "url": "https://api.getbible.net/v2/cut/19/138.json",
     "sha": "dabc57c860241639775cca103edd124927c22768"
   },
   "139": {
@@ -1942,7 +1942,7 @@
     "book_name": "詩篇",
     "chapter": 139,
     "name": "詩篇 139",
-    "url": "https://getbible.net/v2/cut/19/139.json",
+    "url": "https://api.getbible.net/v2/cut/19/139.json",
     "sha": "3e81c63c25bb9d13495b7c2673423804ad0709d8"
   },
   "140": {
@@ -1956,7 +1956,7 @@
     "book_name": "詩篇",
     "chapter": 140,
     "name": "詩篇 140",
-    "url": "https://getbible.net/v2/cut/19/140.json",
+    "url": "https://api.getbible.net/v2/cut/19/140.json",
     "sha": "c40c0aa69d6e0f97b0780862aca0ccdfa12d21f3"
   },
   "141": {
@@ -1970,7 +1970,7 @@
     "book_name": "詩篇",
     "chapter": 141,
     "name": "詩篇 141",
-    "url": "https://getbible.net/v2/cut/19/141.json",
+    "url": "https://api.getbible.net/v2/cut/19/141.json",
     "sha": "acc5715a3c03c3a7792adb3792c3f4cdbc00c1f2"
   },
   "142": {
@@ -1984,7 +1984,7 @@
     "book_name": "詩篇",
     "chapter": 142,
     "name": "詩篇 142",
-    "url": "https://getbible.net/v2/cut/19/142.json",
+    "url": "https://api.getbible.net/v2/cut/19/142.json",
     "sha": "892366776fe268c218ff4aae4b85fc365ca5e347"
   },
   "143": {
@@ -1998,7 +1998,7 @@
     "book_name": "詩篇",
     "chapter": 143,
     "name": "詩篇 143",
-    "url": "https://getbible.net/v2/cut/19/143.json",
+    "url": "https://api.getbible.net/v2/cut/19/143.json",
     "sha": "746312461ce0060f0c6414f85c23f3dd15806b3b"
   },
   "144": {
@@ -2012,7 +2012,7 @@
     "book_name": "詩篇",
     "chapter": 144,
     "name": "詩篇 144",
-    "url": "https://getbible.net/v2/cut/19/144.json",
+    "url": "https://api.getbible.net/v2/cut/19/144.json",
     "sha": "c30fa60cb2db71c4981ab1dce291c67d7cfb18b8"
   },
   "145": {
@@ -2026,7 +2026,7 @@
     "book_name": "詩篇",
     "chapter": 145,
     "name": "詩篇 145",
-    "url": "https://getbible.net/v2/cut/19/145.json",
+    "url": "https://api.getbible.net/v2/cut/19/145.json",
     "sha": "484dd6763c1d56ca231f63d71c1ba7284af50089"
   },
   "146": {
@@ -2040,7 +2040,7 @@
     "book_name": "詩篇",
     "chapter": 146,
     "name": "詩篇 146",
-    "url": "https://getbible.net/v2/cut/19/146.json",
+    "url": "https://api.getbible.net/v2/cut/19/146.json",
     "sha": "429b026c9fa908c91ddb04f46c2a509793c6f9c9"
   },
   "147": {
@@ -2054,7 +2054,7 @@
     "book_name": "詩篇",
     "chapter": 147,
     "name": "詩篇 147",
-    "url": "https://getbible.net/v2/cut/19/147.json",
+    "url": "https://api.getbible.net/v2/cut/19/147.json",
     "sha": "3cc1e6e5091207f388da217b9ade55b6fbc0aea0"
   },
   "148": {
@@ -2068,7 +2068,7 @@
     "book_name": "詩篇",
     "chapter": 148,
     "name": "詩篇 148",
-    "url": "https://getbible.net/v2/cut/19/148.json",
+    "url": "https://api.getbible.net/v2/cut/19/148.json",
     "sha": "8245b6fb5fb99858bde991b488f57d84f777d27a"
   },
   "149": {
@@ -2082,7 +2082,7 @@
     "book_name": "詩篇",
     "chapter": 149,
     "name": "詩篇 149",
-    "url": "https://getbible.net/v2/cut/19/149.json",
+    "url": "https://api.getbible.net/v2/cut/19/149.json",
     "sha": "325d1abe28852d7c5f0f4db37e9e50653ec24e05"
   },
   "150": {
@@ -2096,7 +2096,7 @@
     "book_name": "詩篇",
     "chapter": 150,
     "name": "詩篇 150",
-    "url": "https://getbible.net/v2/cut/19/150.json",
+    "url": "https://api.getbible.net/v2/cut/19/150.json",
     "sha": "c5a12f2eccbc2ea2dae862e21fb6503afe7a28d5"
   }
 }

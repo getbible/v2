@@ -10,7 +10,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
-    "url": "https://getbible.net/v2/korean/53/1.json",
+    "url": "https://api.getbible.net/v2/korean/53/1.json",
     "sha": "e3bb486ee98948adf01bef3da03c979101fe2041"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
-    "url": "https://getbible.net/v2/korean/53/2.json",
+    "url": "https://api.getbible.net/v2/korean/53/2.json",
     "sha": "79b59ae3833f020e83708a09cfff87e9c6282469"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
-    "url": "https://getbible.net/v2/korean/53/3.json",
+    "url": "https://api.getbible.net/v2/korean/53/3.json",
     "sha": "fafb84d947aad92f0442b55cc0f59cd356659a45"
   }
 }

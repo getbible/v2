@@ -10,7 +10,7 @@
     "book_name": "Kolossense",
     "chapter": 1,
     "name": "Kolossense 1",
-    "url": "https://getbible.net/v2/aov/51/1.json",
+    "url": "https://api.getbible.net/v2/aov/51/1.json",
     "sha": "2cac64b62f1e2d4d5b574de483c4439c06ac2b1d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Kolossense",
     "chapter": 2,
     "name": "Kolossense 2",
-    "url": "https://getbible.net/v2/aov/51/2.json",
+    "url": "https://api.getbible.net/v2/aov/51/2.json",
     "sha": "e5131e5c237fa946ecc16fa14fafc22bae7652c4"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Kolossense",
     "chapter": 3,
     "name": "Kolossense 3",
-    "url": "https://getbible.net/v2/aov/51/3.json",
+    "url": "https://api.getbible.net/v2/aov/51/3.json",
     "sha": "d5bd160d62d8c03bbf5cc296cea1827dd65dc280"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Kolossense",
     "chapter": 4,
     "name": "Kolossense 4",
-    "url": "https://getbible.net/v2/aov/51/4.json",
+    "url": "https://api.getbible.net/v2/aov/51/4.json",
     "sha": "02df2ee9d5bb84da48aeded53305c1bedb5293e0"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Matthew",
     "chapter": 1,
     "name": "Matthew 1",
-    "url": "https://getbible.net/v2/darby/40/1.json",
+    "url": "https://api.getbible.net/v2/darby/40/1.json",
     "sha": "1d4208374f3e8d77d08be9fc846392ea4a6bfd79"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Matthew",
     "chapter": 2,
     "name": "Matthew 2",
-    "url": "https://getbible.net/v2/darby/40/2.json",
+    "url": "https://api.getbible.net/v2/darby/40/2.json",
     "sha": "af2cdc5106bd3ab3a6d618821ed4fcfa213e53ff"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Matthew",
     "chapter": 3,
     "name": "Matthew 3",
-    "url": "https://getbible.net/v2/darby/40/3.json",
+    "url": "https://api.getbible.net/v2/darby/40/3.json",
     "sha": "6d83254d1ea6e895ccf26fd974858f2a95aa03ff"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Matthew",
     "chapter": 4,
     "name": "Matthew 4",
-    "url": "https://getbible.net/v2/darby/40/4.json",
+    "url": "https://api.getbible.net/v2/darby/40/4.json",
     "sha": "ff5c71383247d7b8280e5b3a829a55eaed6dd195"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Matthew",
     "chapter": 5,
     "name": "Matthew 5",
-    "url": "https://getbible.net/v2/darby/40/5.json",
+    "url": "https://api.getbible.net/v2/darby/40/5.json",
     "sha": "2a006d76fd9d4a33c4f22fa270868cc58082c0fb"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Matthew",
     "chapter": 6,
     "name": "Matthew 6",
-    "url": "https://getbible.net/v2/darby/40/6.json",
+    "url": "https://api.getbible.net/v2/darby/40/6.json",
     "sha": "1384ceed0a77f6e9d5d29ef0dce73ed520ba8956"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Matthew",
     "chapter": 7,
     "name": "Matthew 7",
-    "url": "https://getbible.net/v2/darby/40/7.json",
+    "url": "https://api.getbible.net/v2/darby/40/7.json",
     "sha": "99f31cec091af19ceb91526f6d0ab769854c7153"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Matthew",
     "chapter": 8,
     "name": "Matthew 8",
-    "url": "https://getbible.net/v2/darby/40/8.json",
+    "url": "https://api.getbible.net/v2/darby/40/8.json",
     "sha": "0a6794710b10f4841230705f272d1977539dc22a"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Matthew",
     "chapter": 9,
     "name": "Matthew 9",
-    "url": "https://getbible.net/v2/darby/40/9.json",
+    "url": "https://api.getbible.net/v2/darby/40/9.json",
     "sha": "aacb47b560dbfa7971ba7f353c9a7a0f3923abf3"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Matthew",
     "chapter": 10,
     "name": "Matthew 10",
-    "url": "https://getbible.net/v2/darby/40/10.json",
+    "url": "https://api.getbible.net/v2/darby/40/10.json",
     "sha": "4c68da601cc0b64484bb34c55e5643987733825e"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Matthew",
     "chapter": 11,
     "name": "Matthew 11",
-    "url": "https://getbible.net/v2/darby/40/11.json",
+    "url": "https://api.getbible.net/v2/darby/40/11.json",
     "sha": "3f451cabd41f2ee0ba92b64c0cfefd966510d2c5"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Matthew",
     "chapter": 12,
     "name": "Matthew 12",
-    "url": "https://getbible.net/v2/darby/40/12.json",
+    "url": "https://api.getbible.net/v2/darby/40/12.json",
     "sha": "ba6ed4644c5e6c16c785821033bf8e604fbba43f"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Matthew",
     "chapter": 13,
     "name": "Matthew 13",
-    "url": "https://getbible.net/v2/darby/40/13.json",
+    "url": "https://api.getbible.net/v2/darby/40/13.json",
     "sha": "af8cec237662a8ab7811bc8bc938a0d116d5e2f5"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Matthew",
     "chapter": 14,
     "name": "Matthew 14",
-    "url": "https://getbible.net/v2/darby/40/14.json",
+    "url": "https://api.getbible.net/v2/darby/40/14.json",
     "sha": "85de6f7c2d916cb1e0cc11d10abaea4a1643a2a1"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Matthew",
     "chapter": 15,
     "name": "Matthew 15",
-    "url": "https://getbible.net/v2/darby/40/15.json",
+    "url": "https://api.getbible.net/v2/darby/40/15.json",
     "sha": "fab396cec236d798e9c9174a0e6bf0279497bb92"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Matthew",
     "chapter": 16,
     "name": "Matthew 16",
-    "url": "https://getbible.net/v2/darby/40/16.json",
+    "url": "https://api.getbible.net/v2/darby/40/16.json",
     "sha": "184c0f3330bfb7a747048b7fa044480faba7318d"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Matthew",
     "chapter": 17,
     "name": "Matthew 17",
-    "url": "https://getbible.net/v2/darby/40/17.json",
+    "url": "https://api.getbible.net/v2/darby/40/17.json",
     "sha": "0831deb1d00c9e51fa88df97c8b126c0fa323045"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Matthew",
     "chapter": 18,
     "name": "Matthew 18",
-    "url": "https://getbible.net/v2/darby/40/18.json",
+    "url": "https://api.getbible.net/v2/darby/40/18.json",
     "sha": "ae00f090b0173f7e69aaaf43dd9c8af38076aa82"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Matthew",
     "chapter": 19,
     "name": "Matthew 19",
-    "url": "https://getbible.net/v2/darby/40/19.json",
+    "url": "https://api.getbible.net/v2/darby/40/19.json",
     "sha": "70e2c1155aecb2074d94a883748468a9a6e40921"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Matthew",
     "chapter": 20,
     "name": "Matthew 20",
-    "url": "https://getbible.net/v2/darby/40/20.json",
+    "url": "https://api.getbible.net/v2/darby/40/20.json",
     "sha": "adfa88c39fd0f8b35f7ef4928ad080254f9f4670"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Matthew",
     "chapter": 21,
     "name": "Matthew 21",
-    "url": "https://getbible.net/v2/darby/40/21.json",
+    "url": "https://api.getbible.net/v2/darby/40/21.json",
     "sha": "525aad638197fce35ef846041cdab2218a13b0d8"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Matthew",
     "chapter": 22,
     "name": "Matthew 22",
-    "url": "https://getbible.net/v2/darby/40/22.json",
+    "url": "https://api.getbible.net/v2/darby/40/22.json",
     "sha": "a2bdf22e14b97a5a88e30645760938c7d4906d2b"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Matthew",
     "chapter": 23,
     "name": "Matthew 23",
-    "url": "https://getbible.net/v2/darby/40/23.json",
+    "url": "https://api.getbible.net/v2/darby/40/23.json",
     "sha": "0352ca2311e849915a777f07fb1090778cac08ad"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Matthew",
     "chapter": 24,
     "name": "Matthew 24",
-    "url": "https://getbible.net/v2/darby/40/24.json",
+    "url": "https://api.getbible.net/v2/darby/40/24.json",
     "sha": "a1a3034e968489b6a2e9924dca17f43986b6470d"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Matthew",
     "chapter": 25,
     "name": "Matthew 25",
-    "url": "https://getbible.net/v2/darby/40/25.json",
+    "url": "https://api.getbible.net/v2/darby/40/25.json",
     "sha": "9bcac5cf124182425f2769e4eb157f72e7158023"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Matthew",
     "chapter": 26,
     "name": "Matthew 26",
-    "url": "https://getbible.net/v2/darby/40/26.json",
+    "url": "https://api.getbible.net/v2/darby/40/26.json",
     "sha": "8778ab52ff4c0c0c11f53ea024da38e9c402e612"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Matthew",
     "chapter": 27,
     "name": "Matthew 27",
-    "url": "https://getbible.net/v2/darby/40/27.json",
+    "url": "https://api.getbible.net/v2/darby/40/27.json",
     "sha": "d6214533c5ebd3ee38c768ebb255c3f42c28e30d"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Matthew",
     "chapter": 28,
     "name": "Matthew 28",
-    "url": "https://getbible.net/v2/darby/40/28.json",
+    "url": "https://api.getbible.net/v2/darby/40/28.json",
     "sha": "06b857d304b95f48d58c68759390bdad95a645c4"
   }
 }

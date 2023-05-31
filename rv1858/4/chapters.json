@@ -10,7 +10,7 @@
     "book_name": "Numbers",
     "chapter": 1,
     "name": "Numbers 1",
-    "url": "https://getbible.net/v2/rv1858/4/1.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/1.json",
     "sha": "c8b34acd2264663f4f2db13faede3809eb48a6a3"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Numbers",
     "chapter": 2,
     "name": "Numbers 2",
-    "url": "https://getbible.net/v2/rv1858/4/2.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/2.json",
     "sha": "8de1be2eaebfb35d5f264a43d78041ce241be830"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Numbers",
     "chapter": 3,
     "name": "Numbers 3",
-    "url": "https://getbible.net/v2/rv1858/4/3.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/3.json",
     "sha": "f18aae38bc0b5ee1689cb0f1f184f559debc968a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Numbers",
     "chapter": 4,
     "name": "Numbers 4",
-    "url": "https://getbible.net/v2/rv1858/4/4.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/4.json",
     "sha": "cc5a7aff20289274e89267e4729336b43381879b"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Numbers",
     "chapter": 5,
     "name": "Numbers 5",
-    "url": "https://getbible.net/v2/rv1858/4/5.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/5.json",
     "sha": "c3cf29b8d729fa3586764f0fba040b48e0a78c9e"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Numbers",
     "chapter": 6,
     "name": "Numbers 6",
-    "url": "https://getbible.net/v2/rv1858/4/6.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/6.json",
     "sha": "cf4e5759fb15ff894d6eaa388cbdb33454614755"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Numbers",
     "chapter": 7,
     "name": "Numbers 7",
-    "url": "https://getbible.net/v2/rv1858/4/7.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/7.json",
     "sha": "bcd96b688b6de777d00444424150a55b8dcad1b2"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Numbers",
     "chapter": 8,
     "name": "Numbers 8",
-    "url": "https://getbible.net/v2/rv1858/4/8.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/8.json",
     "sha": "1e5aa94dd36466dc509326ec7de027fd6d90f392"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Numbers",
     "chapter": 9,
     "name": "Numbers 9",
-    "url": "https://getbible.net/v2/rv1858/4/9.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/9.json",
     "sha": "1b85b3aedde67f009c72a204145b99f1d6f49ffc"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Numbers",
     "chapter": 10,
     "name": "Numbers 10",
-    "url": "https://getbible.net/v2/rv1858/4/10.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/10.json",
     "sha": "aef13ad9e632d8ac68487198855e7247fbf689a3"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Numbers",
     "chapter": 11,
     "name": "Numbers 11",
-    "url": "https://getbible.net/v2/rv1858/4/11.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/11.json",
     "sha": "fdad8b2cbf4f28c8d0f3e6261ea6ce00226adee3"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Numbers",
     "chapter": 12,
     "name": "Numbers 12",
-    "url": "https://getbible.net/v2/rv1858/4/12.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/12.json",
     "sha": "73053373fb4ffcd21cf52cbf1577b0b1b3e243f4"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Numbers",
     "chapter": 13,
     "name": "Numbers 13",
-    "url": "https://getbible.net/v2/rv1858/4/13.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/13.json",
     "sha": "6c044b7e646353ced802f2337e9fb6c1b52dacd9"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Numbers",
     "chapter": 14,
     "name": "Numbers 14",
-    "url": "https://getbible.net/v2/rv1858/4/14.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/14.json",
     "sha": "569eef0e186166040b8ecb1939fda2682e148476"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Numbers",
     "chapter": 15,
     "name": "Numbers 15",
-    "url": "https://getbible.net/v2/rv1858/4/15.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/15.json",
     "sha": "a02a104541fdc78cc71ec42b3d7e63da773d21de"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Numbers",
     "chapter": 16,
     "name": "Numbers 16",
-    "url": "https://getbible.net/v2/rv1858/4/16.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/16.json",
     "sha": "c9f1e132e16883a95176ce42297efe3062ba15ee"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Numbers",
     "chapter": 17,
     "name": "Numbers 17",
-    "url": "https://getbible.net/v2/rv1858/4/17.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/17.json",
     "sha": "acf662713e8d85bc1d57241c0a0a61a31cc2be4c"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Numbers",
     "chapter": 18,
     "name": "Numbers 18",
-    "url": "https://getbible.net/v2/rv1858/4/18.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/18.json",
     "sha": "4db3c44fbf2f84e3e964f0f1316c96541439d5a4"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Numbers",
     "chapter": 19,
     "name": "Numbers 19",
-    "url": "https://getbible.net/v2/rv1858/4/19.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/19.json",
     "sha": "3a60ed1102c05a0dbd065e9ca88cd8000d94da40"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Numbers",
     "chapter": 20,
     "name": "Numbers 20",
-    "url": "https://getbible.net/v2/rv1858/4/20.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/20.json",
     "sha": "a698d4498c550af769e6ef69b26a966839edc4a9"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Numbers",
     "chapter": 21,
     "name": "Numbers 21",
-    "url": "https://getbible.net/v2/rv1858/4/21.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/21.json",
     "sha": "26504443bcf81cb28fefa31f648b10a8fe9b1cda"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Numbers",
     "chapter": 22,
     "name": "Numbers 22",
-    "url": "https://getbible.net/v2/rv1858/4/22.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/22.json",
     "sha": "67647197055e2bbefa6ba572da457025d110b404"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Numbers",
     "chapter": 23,
     "name": "Numbers 23",
-    "url": "https://getbible.net/v2/rv1858/4/23.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/23.json",
     "sha": "310ddc29b148cc64088d7c2392ad3008da868dc4"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Numbers",
     "chapter": 24,
     "name": "Numbers 24",
-    "url": "https://getbible.net/v2/rv1858/4/24.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/24.json",
     "sha": "aea46e4fb8f20fe675cbaabfabf038bd5826f4f9"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Numbers",
     "chapter": 25,
     "name": "Numbers 25",
-    "url": "https://getbible.net/v2/rv1858/4/25.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/25.json",
     "sha": "ccdaa5ef8b84c13c07a1ae4aa98ae120695fd892"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Numbers",
     "chapter": 26,
     "name": "Numbers 26",
-    "url": "https://getbible.net/v2/rv1858/4/26.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/26.json",
     "sha": "171f26b10bca07707c13942d2e2469f5dd381864"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Numbers",
     "chapter": 27,
     "name": "Numbers 27",
-    "url": "https://getbible.net/v2/rv1858/4/27.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/27.json",
     "sha": "0f6d5ac3d49b1b4e5b348addff429e1718053949"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Numbers",
     "chapter": 28,
     "name": "Numbers 28",
-    "url": "https://getbible.net/v2/rv1858/4/28.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/28.json",
     "sha": "0d393334b0c5c10b5e8f3b7e1fb6636213761415"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Numbers",
     "chapter": 29,
     "name": "Numbers 29",
-    "url": "https://getbible.net/v2/rv1858/4/29.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/29.json",
     "sha": "ee657461d1a97a4b5b159e41ab90a537a39365cc"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Numbers",
     "chapter": 30,
     "name": "Numbers 30",
-    "url": "https://getbible.net/v2/rv1858/4/30.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/30.json",
     "sha": "34afebcc20c2fafe44b2c4f64c0bc38ba3a5c46b"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Numbers",
     "chapter": 31,
     "name": "Numbers 31",
-    "url": "https://getbible.net/v2/rv1858/4/31.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/31.json",
     "sha": "6bf64a1a785a0b9eb440395460eff1a4bf09c70b"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Numbers",
     "chapter": 32,
     "name": "Numbers 32",
-    "url": "https://getbible.net/v2/rv1858/4/32.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/32.json",
     "sha": "2e9b8a2f5ebedd06e78756af9fe20de7cee69eec"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Numbers",
     "chapter": 33,
     "name": "Numbers 33",
-    "url": "https://getbible.net/v2/rv1858/4/33.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/33.json",
     "sha": "a854528d58cda12e1b21a6cce5904f68dc49de76"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Numbers",
     "chapter": 34,
     "name": "Numbers 34",
-    "url": "https://getbible.net/v2/rv1858/4/34.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/34.json",
     "sha": "dc7701e4d0f6010d59d4af95ae0cda2c6ce65a8f"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Numbers",
     "chapter": 35,
     "name": "Numbers 35",
-    "url": "https://getbible.net/v2/rv1858/4/35.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/35.json",
     "sha": "c1905efac25e6691e0d5fd4b8797254389fd3d86"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Numbers",
     "chapter": 36,
     "name": "Numbers 36",
-    "url": "https://getbible.net/v2/rv1858/4/36.json",
+    "url": "https://api.getbible.net/v2/rv1858/4/36.json",
     "sha": "2beb43825c3d2807d4addad48f9c53bcac65eff1"
   }
 }

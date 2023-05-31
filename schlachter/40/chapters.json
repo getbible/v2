@@ -10,7 +10,7 @@
     "book_name": "Matthäus",
     "chapter": 1,
     "name": "Matthäus 1",
-    "url": "https://getbible.net/v2/schlachter/40/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/1.json",
     "sha": "7e994d25ef4f2fcd6f3ada8e8140dfdee09098d9"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Matthäus",
     "chapter": 2,
     "name": "Matthäus 2",
-    "url": "https://getbible.net/v2/schlachter/40/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/2.json",
     "sha": "a1580580f0a6ce2cec22b316a60010050552c08c"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Matthäus",
     "chapter": 3,
     "name": "Matthäus 3",
-    "url": "https://getbible.net/v2/schlachter/40/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/3.json",
     "sha": "e44bc757e1a9ac5005073e31366a206280ff5a2c"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Matthäus",
     "chapter": 4,
     "name": "Matthäus 4",
-    "url": "https://getbible.net/v2/schlachter/40/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/4.json",
     "sha": "5bc7d30414a4765566c39c8e1173f44e953ed70d"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Matthäus",
     "chapter": 5,
     "name": "Matthäus 5",
-    "url": "https://getbible.net/v2/schlachter/40/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/5.json",
     "sha": "52579a5df2326e0323f66b0d1e196f1504e98f41"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Matthäus",
     "chapter": 6,
     "name": "Matthäus 6",
-    "url": "https://getbible.net/v2/schlachter/40/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/6.json",
     "sha": "682ba5ff76758a2a1fbbed200892dc5aa569b3d7"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Matthäus",
     "chapter": 7,
     "name": "Matthäus 7",
-    "url": "https://getbible.net/v2/schlachter/40/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/7.json",
     "sha": "85568b05465127acac1afe4f65ff351a6fe298a1"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Matthäus",
     "chapter": 8,
     "name": "Matthäus 8",
-    "url": "https://getbible.net/v2/schlachter/40/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/8.json",
     "sha": "cac59f9ca4f61c2a1148ecea5fb2399a10f283d5"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Matthäus",
     "chapter": 9,
     "name": "Matthäus 9",
-    "url": "https://getbible.net/v2/schlachter/40/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/9.json",
     "sha": "464cf0454ece051e21148ae69eed518b0360615c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Matthäus",
     "chapter": 10,
     "name": "Matthäus 10",
-    "url": "https://getbible.net/v2/schlachter/40/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/10.json",
     "sha": "8c1faaae8750737227f823f741358f1cb792f0dc"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Matthäus",
     "chapter": 11,
     "name": "Matthäus 11",
-    "url": "https://getbible.net/v2/schlachter/40/11.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/11.json",
     "sha": "f63c22d2e3773e74a9021bba599abea99124a684"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Matthäus",
     "chapter": 12,
     "name": "Matthäus 12",
-    "url": "https://getbible.net/v2/schlachter/40/12.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/12.json",
     "sha": "9dd5e992c895969e096747edd0482ddb1a548010"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Matthäus",
     "chapter": 13,
     "name": "Matthäus 13",
-    "url": "https://getbible.net/v2/schlachter/40/13.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/13.json",
     "sha": "2d0817e383ceaf53a7e7a535cd02c7aabf95b8d3"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Matthäus",
     "chapter": 14,
     "name": "Matthäus 14",
-    "url": "https://getbible.net/v2/schlachter/40/14.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/14.json",
     "sha": "203bbb948da773d48a7e56fe5a0e37acad803a65"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Matthäus",
     "chapter": 15,
     "name": "Matthäus 15",
-    "url": "https://getbible.net/v2/schlachter/40/15.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/15.json",
     "sha": "217847117db5a053a0e7a3037cf4f7f1f9128bbc"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Matthäus",
     "chapter": 16,
     "name": "Matthäus 16",
-    "url": "https://getbible.net/v2/schlachter/40/16.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/16.json",
     "sha": "b350bc113feb0017f3cd921830a833739f933afb"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Matthäus",
     "chapter": 17,
     "name": "Matthäus 17",
-    "url": "https://getbible.net/v2/schlachter/40/17.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/17.json",
     "sha": "4998d30b4c45ade11d2eff07ff69f7e9078c68e8"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Matthäus",
     "chapter": 18,
     "name": "Matthäus 18",
-    "url": "https://getbible.net/v2/schlachter/40/18.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/18.json",
     "sha": "511b853cef1e74a7d3394da26a3d5dab56f7b12b"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Matthäus",
     "chapter": 19,
     "name": "Matthäus 19",
-    "url": "https://getbible.net/v2/schlachter/40/19.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/19.json",
     "sha": "f81290810827ce921fa7e85c6aa261fb6602a344"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Matthäus",
     "chapter": 20,
     "name": "Matthäus 20",
-    "url": "https://getbible.net/v2/schlachter/40/20.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/20.json",
     "sha": "7c97c5ac553f2119ca17ede35386942aea2730bd"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Matthäus",
     "chapter": 21,
     "name": "Matthäus 21",
-    "url": "https://getbible.net/v2/schlachter/40/21.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/21.json",
     "sha": "d25b4eb72abe61eb87c770f4733969990239af05"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Matthäus",
     "chapter": 22,
     "name": "Matthäus 22",
-    "url": "https://getbible.net/v2/schlachter/40/22.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/22.json",
     "sha": "b97948233c24bef2e3ce64205281479080d1b0e0"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Matthäus",
     "chapter": 23,
     "name": "Matthäus 23",
-    "url": "https://getbible.net/v2/schlachter/40/23.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/23.json",
     "sha": "2b621256077fae835cb0dd548c3d659509eb6664"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Matthäus",
     "chapter": 24,
     "name": "Matthäus 24",
-    "url": "https://getbible.net/v2/schlachter/40/24.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/24.json",
     "sha": "69c2aff041f3dcf84795bebc243dad7e244e59f9"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Matthäus",
     "chapter": 25,
     "name": "Matthäus 25",
-    "url": "https://getbible.net/v2/schlachter/40/25.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/25.json",
     "sha": "7dd345e4ad78c04bde18d1c6f0fbdd8e41bd20f3"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Matthäus",
     "chapter": 26,
     "name": "Matthäus 26",
-    "url": "https://getbible.net/v2/schlachter/40/26.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/26.json",
     "sha": "3ab7eea4664ae7c5afe6299f807af23c27025308"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Matthäus",
     "chapter": 27,
     "name": "Matthäus 27",
-    "url": "https://getbible.net/v2/schlachter/40/27.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/27.json",
     "sha": "4f920bfd950bbf6cccfb1e7aed00b3aff56b0827"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Matthäus",
     "chapter": 28,
     "name": "Matthäus 28",
-    "url": "https://getbible.net/v2/schlachter/40/28.json",
+    "url": "https://api.getbible.net/v2/schlachter/40/28.json",
     "sha": "aff736a2b24e145c63644e8be8aaa12843d98375"
   }
 }

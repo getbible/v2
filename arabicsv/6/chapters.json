@@ -10,7 +10,7 @@
     "book_name": "Joshua",
     "chapter": 1,
     "name": "Joshua 1",
-    "url": "https://getbible.net/v2/arabicsv/6/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/1.json",
     "sha": "b920ed96ef01397234e8c699ca7547a4bafb5cf0"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Joshua",
     "chapter": 2,
     "name": "Joshua 2",
-    "url": "https://getbible.net/v2/arabicsv/6/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/2.json",
     "sha": "db04efc7f513c620e9d959b3ff6c7c7964816953"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Joshua",
     "chapter": 3,
     "name": "Joshua 3",
-    "url": "https://getbible.net/v2/arabicsv/6/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/3.json",
     "sha": "39ff6d82257858e66ab57afc4c0536704168d5d1"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Joshua",
     "chapter": 4,
     "name": "Joshua 4",
-    "url": "https://getbible.net/v2/arabicsv/6/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/4.json",
     "sha": "e1e49248e52fe53290f4c81c4597d1ac2c584aed"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Joshua",
     "chapter": 5,
     "name": "Joshua 5",
-    "url": "https://getbible.net/v2/arabicsv/6/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/5.json",
     "sha": "82b62a25222f1e93c8c0de0f03030401b060ea16"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Joshua",
     "chapter": 6,
     "name": "Joshua 6",
-    "url": "https://getbible.net/v2/arabicsv/6/6.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/6.json",
     "sha": "7cc6c8a3be03749e4f76ca320da1099142eb72b8"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Joshua",
     "chapter": 7,
     "name": "Joshua 7",
-    "url": "https://getbible.net/v2/arabicsv/6/7.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/7.json",
     "sha": "48d59caeefc0a3814e8deed82a0f5849991a2173"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Joshua",
     "chapter": 8,
     "name": "Joshua 8",
-    "url": "https://getbible.net/v2/arabicsv/6/8.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/8.json",
     "sha": "9cc07fc43372c0bb94d99b45bb7da8dc2a20e483"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Joshua",
     "chapter": 9,
     "name": "Joshua 9",
-    "url": "https://getbible.net/v2/arabicsv/6/9.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/9.json",
     "sha": "743ced803b0d9bbd22de9068f6e43783fec2c760"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Joshua",
     "chapter": 10,
     "name": "Joshua 10",
-    "url": "https://getbible.net/v2/arabicsv/6/10.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/10.json",
     "sha": "32132d1ede7a9e21441b828f844bb7d5b3d47081"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Joshua",
     "chapter": 11,
     "name": "Joshua 11",
-    "url": "https://getbible.net/v2/arabicsv/6/11.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/11.json",
     "sha": "cd5b973c0f2ea53a0e1db450181622a577c1de1a"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Joshua",
     "chapter": 12,
     "name": "Joshua 12",
-    "url": "https://getbible.net/v2/arabicsv/6/12.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/12.json",
     "sha": "1f3c5c91f9a081e40470dd07695f7e4fc2514c27"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Joshua",
     "chapter": 13,
     "name": "Joshua 13",
-    "url": "https://getbible.net/v2/arabicsv/6/13.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/13.json",
     "sha": "30793dc3094238fa418aa5733efc82b01f465998"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Joshua",
     "chapter": 14,
     "name": "Joshua 14",
-    "url": "https://getbible.net/v2/arabicsv/6/14.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/14.json",
     "sha": "37cdc868463e0b6b0cb8c3677acf78e1c44c0371"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Joshua",
     "chapter": 15,
     "name": "Joshua 15",
-    "url": "https://getbible.net/v2/arabicsv/6/15.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/15.json",
     "sha": "d40238009ca617630dd857754663d03c5a5cd06b"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Joshua",
     "chapter": 16,
     "name": "Joshua 16",
-    "url": "https://getbible.net/v2/arabicsv/6/16.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/16.json",
     "sha": "f786b22e4035e500efdaea3e626461785bbbcf4a"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Joshua",
     "chapter": 17,
     "name": "Joshua 17",
-    "url": "https://getbible.net/v2/arabicsv/6/17.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/17.json",
     "sha": "ea22d86ecb266387e46033f44ee16dc767cc94a9"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Joshua",
     "chapter": 18,
     "name": "Joshua 18",
-    "url": "https://getbible.net/v2/arabicsv/6/18.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/18.json",
     "sha": "c1983c6196c176d848314bd864d5cc7c4c4fd776"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Joshua",
     "chapter": 19,
     "name": "Joshua 19",
-    "url": "https://getbible.net/v2/arabicsv/6/19.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/19.json",
     "sha": "c5d68be55eee279cf794cc4646dc76fd070c1f60"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Joshua",
     "chapter": 20,
     "name": "Joshua 20",
-    "url": "https://getbible.net/v2/arabicsv/6/20.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/20.json",
     "sha": "58b76ea11b6f388b16604737c1bc6997c2284792"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Joshua",
     "chapter": 21,
     "name": "Joshua 21",
-    "url": "https://getbible.net/v2/arabicsv/6/21.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/21.json",
     "sha": "6e44d02eb2951c354e077b63fec90a66555f3be9"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Joshua",
     "chapter": 22,
     "name": "Joshua 22",
-    "url": "https://getbible.net/v2/arabicsv/6/22.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/22.json",
     "sha": "8ac2c4f71fd49edd80487d3792c68dc9e3362f2a"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Joshua",
     "chapter": 23,
     "name": "Joshua 23",
-    "url": "https://getbible.net/v2/arabicsv/6/23.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/23.json",
     "sha": "cc4dc961068eca36d34501f971e0318a43582a29"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Joshua",
     "chapter": 24,
     "name": "Joshua 24",
-    "url": "https://getbible.net/v2/arabicsv/6/24.json",
+    "url": "https://api.getbible.net/v2/arabicsv/6/24.json",
     "sha": "c4d3f55572532f5fb68ffd7a65ceccab587b73be"
   }
 }

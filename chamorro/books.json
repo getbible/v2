@@ -8,7 +8,7 @@
     "encoding": "UTF-8",
     "nr": 19,
     "name": "Psalms",
-    "url": "https://getbible.net/v2/chamorro/19.json",
+    "url": "https://api.getbible.net/v2/chamorro/19.json",
     "sha": "4804425dd73bde662fce24e914ee2e3b116a7a8e"
   },
   "40": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "nr": 40,
     "name": "Matthew",
-    "url": "https://getbible.net/v2/chamorro/40.json",
+    "url": "https://api.getbible.net/v2/chamorro/40.json",
     "sha": "93a2275e3a5a3adfe3c21ac0c6cd741bc77384be"
   },
   "41": {
@@ -32,7 +32,7 @@
     "encoding": "UTF-8",
     "nr": 41,
     "name": "Mark",
-    "url": "https://getbible.net/v2/chamorro/41.json",
+    "url": "https://api.getbible.net/v2/chamorro/41.json",
     "sha": "f0234d63c3fdb7406145b40c85ac1e574de0e2af"
   },
   "42": {
@@ -44,7 +44,7 @@
     "encoding": "UTF-8",
     "nr": 42,
     "name": "Luke",
-    "url": "https://getbible.net/v2/chamorro/42.json",
+    "url": "https://api.getbible.net/v2/chamorro/42.json",
     "sha": "af64097063d9d0a1341acc27e82e26ffd1b79d25"
   },
   "43": {
@@ -56,7 +56,7 @@
     "encoding": "UTF-8",
     "nr": 43,
     "name": "John",
-    "url": "https://getbible.net/v2/chamorro/43.json",
+    "url": "https://api.getbible.net/v2/chamorro/43.json",
     "sha": "5047634893ca95945e5ebe3cb7b24311811463ff"
   },
   "44": {
@@ -68,7 +68,7 @@
     "encoding": "UTF-8",
     "nr": 44,
     "name": "Acts",
-    "url": "https://getbible.net/v2/chamorro/44.json",
+    "url": "https://api.getbible.net/v2/chamorro/44.json",
     "sha": "f6e7ff2b609d65bd4e07840ee459ef31d8181519"
   }
 }

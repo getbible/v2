@@ -10,7 +10,7 @@
     "book_name": "Jonah",
     "chapter": 1,
     "name": "Jonah 1",
-    "url": "https://getbible.net/v2/rv1858/32/1.json",
+    "url": "https://api.getbible.net/v2/rv1858/32/1.json",
     "sha": "6eb0596b1530f024f5a73cf9e8e953412d13af16"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Jonah",
     "chapter": 2,
     "name": "Jonah 2",
-    "url": "https://getbible.net/v2/rv1858/32/2.json",
+    "url": "https://api.getbible.net/v2/rv1858/32/2.json",
     "sha": "e46e68426623b12ae09cd456875849d216fab303"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Jonah",
     "chapter": 3,
     "name": "Jonah 3",
-    "url": "https://getbible.net/v2/rv1858/32/3.json",
+    "url": "https://api.getbible.net/v2/rv1858/32/3.json",
     "sha": "294381dc3b3e73f00851147841f0e7b07cf3e70e"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Jonah",
     "chapter": 4,
     "name": "Jonah 4",
-    "url": "https://getbible.net/v2/rv1858/32/4.json",
+    "url": "https://api.getbible.net/v2/rv1858/32/4.json",
     "sha": "3716080241600fd077f40b71265aeac40b99c1e2"
   }
 }

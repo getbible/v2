@@ -10,7 +10,7 @@
     "book_name": "Daniel",
     "chapter": 1,
     "name": "Daniel 1",
-    "url": "https://getbible.net/v2/aleppo/27/1.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/1.json",
     "sha": "bc0056bb239883fc49937c75a7fa62821ef568ca"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Daniel",
     "chapter": 2,
     "name": "Daniel 2",
-    "url": "https://getbible.net/v2/aleppo/27/2.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/2.json",
     "sha": "2f4935f44dbd7028348ccfc989e5ec620cb356f9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Daniel",
     "chapter": 3,
     "name": "Daniel 3",
-    "url": "https://getbible.net/v2/aleppo/27/3.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/3.json",
     "sha": "0d85c09fe1ec667779f38fb7814cf626dbbe5c28"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Daniel",
     "chapter": 4,
     "name": "Daniel 4",
-    "url": "https://getbible.net/v2/aleppo/27/4.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/4.json",
     "sha": "28fa8faa33738154f9a3995f7c8d493b81c0df69"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Daniel",
     "chapter": 5,
     "name": "Daniel 5",
-    "url": "https://getbible.net/v2/aleppo/27/5.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/5.json",
     "sha": "b62f86845d085b4c13e49b1d613eceae4dbff821"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Daniel",
     "chapter": 6,
     "name": "Daniel 6",
-    "url": "https://getbible.net/v2/aleppo/27/6.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/6.json",
     "sha": "a7cc0a6ffa593484c828e947900afc31e00f016b"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Daniel",
     "chapter": 7,
     "name": "Daniel 7",
-    "url": "https://getbible.net/v2/aleppo/27/7.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/7.json",
     "sha": "53b11ddefdc576882f5453714091a240effa77a4"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Daniel",
     "chapter": 8,
     "name": "Daniel 8",
-    "url": "https://getbible.net/v2/aleppo/27/8.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/8.json",
     "sha": "5660dcc7901fd93a59cc4bae51f0288af9d7da54"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Daniel",
     "chapter": 9,
     "name": "Daniel 9",
-    "url": "https://getbible.net/v2/aleppo/27/9.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/9.json",
     "sha": "b2af981679b3f15b336df3205834358c1c73c79a"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Daniel",
     "chapter": 10,
     "name": "Daniel 10",
-    "url": "https://getbible.net/v2/aleppo/27/10.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/10.json",
     "sha": "5cca690bfe0ef4a9c5857969fb614234a89da01c"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Daniel",
     "chapter": 11,
     "name": "Daniel 11",
-    "url": "https://getbible.net/v2/aleppo/27/11.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/11.json",
     "sha": "3c733d94ffae35ec1b87bb60a7e15d1b32b44b7d"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Daniel",
     "chapter": 12,
     "name": "Daniel 12",
-    "url": "https://getbible.net/v2/aleppo/27/12.json",
+    "url": "https://api.getbible.net/v2/aleppo/27/12.json",
     "sha": "816bcae4576d0dad12baeef129216293d8c4ac90"
   }
 }

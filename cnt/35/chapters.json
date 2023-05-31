@@ -10,7 +10,7 @@
     "book_name": "哈巴谷書",
     "chapter": 1,
     "name": "哈巴谷書 1",
-    "url": "https://getbible.net/v2/cnt/35/1.json",
+    "url": "https://api.getbible.net/v2/cnt/35/1.json",
     "sha": "d99ddb52aa50985cb01c5129d0d2320d369ab97b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "哈巴谷書",
     "chapter": 2,
     "name": "哈巴谷書 2",
-    "url": "https://getbible.net/v2/cnt/35/2.json",
+    "url": "https://api.getbible.net/v2/cnt/35/2.json",
     "sha": "1126f0117acd0099b607477a4258e5833156c935"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "哈巴谷書",
     "chapter": 3,
     "name": "哈巴谷書 3",
-    "url": "https://getbible.net/v2/cnt/35/3.json",
+    "url": "https://api.getbible.net/v2/cnt/35/3.json",
     "sha": "e43d409a47b6d549ecfcb22b6df788cbd2bbd9b7"
   }
 }

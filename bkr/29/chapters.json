@@ -10,7 +10,7 @@
     "book_name": "Joel",
     "chapter": 1,
     "name": "Joel 1",
-    "url": "https://getbible.net/v2/bkr/29/1.json",
+    "url": "https://api.getbible.net/v2/bkr/29/1.json",
     "sha": "1d583403ac9d9005aa885e88097ba08122dd4f8f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Joel",
     "chapter": 2,
     "name": "Joel 2",
-    "url": "https://getbible.net/v2/bkr/29/2.json",
+    "url": "https://api.getbible.net/v2/bkr/29/2.json",
     "sha": "4016999ea7c97067575b445dfa42dfab0bda980a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Joel",
     "chapter": 3,
     "name": "Joel 3",
-    "url": "https://getbible.net/v2/bkr/29/3.json",
+    "url": "https://api.getbible.net/v2/bkr/29/3.json",
     "sha": "5d9c2d88961a4efe194814e34e5e9c160f19a5ed"
   }
 }

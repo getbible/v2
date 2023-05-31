@@ -10,7 +10,7 @@
     "book_name": "Hebrews",
     "chapter": 1,
     "name": "Hebrews 1",
-    "url": "https://getbible.net/v2/textusreceptus/58/1.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/1.json",
     "sha": "10e712d3d43d0fcb5a467734de4fe720df0b1a4a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Hebrews",
     "chapter": 2,
     "name": "Hebrews 2",
-    "url": "https://getbible.net/v2/textusreceptus/58/2.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/2.json",
     "sha": "aceeb04943aaad5f83d52248c32bd20602d58a33"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Hebrews",
     "chapter": 3,
     "name": "Hebrews 3",
-    "url": "https://getbible.net/v2/textusreceptus/58/3.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/3.json",
     "sha": "a20696cbb18aba6db776bf42b68d3a7efd81725d"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Hebrews",
     "chapter": 4,
     "name": "Hebrews 4",
-    "url": "https://getbible.net/v2/textusreceptus/58/4.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/4.json",
     "sha": "feebf95b40a8bc6fefb3c48f9699c68589137f32"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Hebrews",
     "chapter": 5,
     "name": "Hebrews 5",
-    "url": "https://getbible.net/v2/textusreceptus/58/5.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/5.json",
     "sha": "bedf851e4d038f54c947720a09bc752ba7469c7d"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Hebrews",
     "chapter": 6,
     "name": "Hebrews 6",
-    "url": "https://getbible.net/v2/textusreceptus/58/6.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/6.json",
     "sha": "ac8ebc28e918693438f65f4b1f248f6500540a3e"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Hebrews",
     "chapter": 7,
     "name": "Hebrews 7",
-    "url": "https://getbible.net/v2/textusreceptus/58/7.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/7.json",
     "sha": "9085cc5ea05f4af2808d715b97d7b5df29270e68"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Hebrews",
     "chapter": 8,
     "name": "Hebrews 8",
-    "url": "https://getbible.net/v2/textusreceptus/58/8.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/8.json",
     "sha": "aaf7c9a533d5d477d5ade5fbc57738f9012d603f"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Hebrews",
     "chapter": 9,
     "name": "Hebrews 9",
-    "url": "https://getbible.net/v2/textusreceptus/58/9.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/9.json",
     "sha": "5c9524f058d6187c81ff429d6f8bd9c0d025349b"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Hebrews",
     "chapter": 10,
     "name": "Hebrews 10",
-    "url": "https://getbible.net/v2/textusreceptus/58/10.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/10.json",
     "sha": "f6f2783ee2b91fbec6e1dee95a98da311d12ea5b"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Hebrews",
     "chapter": 11,
     "name": "Hebrews 11",
-    "url": "https://getbible.net/v2/textusreceptus/58/11.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/11.json",
     "sha": "3598493537bb4b1b9eb1d4f0be7717b65e792181"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Hebrews",
     "chapter": 12,
     "name": "Hebrews 12",
-    "url": "https://getbible.net/v2/textusreceptus/58/12.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/12.json",
     "sha": "945188803b8b3b67ebcce8db75ba20705ff9a327"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Hebrews",
     "chapter": 13,
     "name": "Hebrews 13",
-    "url": "https://getbible.net/v2/textusreceptus/58/13.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58/13.json",
     "sha": "9462e2da38bebd22380482a4a37ca3247343b0e6"
   }
 }

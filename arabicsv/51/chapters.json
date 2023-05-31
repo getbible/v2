@@ -10,7 +10,7 @@
     "book_name": "Colossians",
     "chapter": 1,
     "name": "Colossians 1",
-    "url": "https://getbible.net/v2/arabicsv/51/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/51/1.json",
     "sha": "13e93c5048475dbd261d4c975beba0ada5e07bbd"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Colossians",
     "chapter": 2,
     "name": "Colossians 2",
-    "url": "https://getbible.net/v2/arabicsv/51/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/51/2.json",
     "sha": "83893867bbe7071f1389a200eed7e8dde7ffea66"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Colossians",
     "chapter": 3,
     "name": "Colossians 3",
-    "url": "https://getbible.net/v2/arabicsv/51/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/51/3.json",
     "sha": "7ea332d058615e12c6d5360a36e9cb2daf8f3ecd"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Colossians",
     "chapter": 4,
     "name": "Colossians 4",
-    "url": "https://getbible.net/v2/arabicsv/51/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/51/4.json",
     "sha": "40543ff1552b4a7310ac3408cace2d56eb3663f9"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Micha",
     "chapter": 1,
     "name": "Micha 1",
-    "url": "https://getbible.net/v2/schlachter/33/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/33/1.json",
     "sha": "9a9df235143153cc5c83fa4c12eff20e11e0c53e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Micha",
     "chapter": 2,
     "name": "Micha 2",
-    "url": "https://getbible.net/v2/schlachter/33/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/33/2.json",
     "sha": "40e5ed1231a62f5ac98cba5532802394120687c7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Micha",
     "chapter": 3,
     "name": "Micha 3",
-    "url": "https://getbible.net/v2/schlachter/33/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/33/3.json",
     "sha": "27f4628eb37e64eab687a3a8fa924d3ea4aecea6"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Micha",
     "chapter": 4,
     "name": "Micha 4",
-    "url": "https://getbible.net/v2/schlachter/33/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/33/4.json",
     "sha": "c78f40606dd040034b8b6e7f6f5f7e5ded8dcf87"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Micha",
     "chapter": 5,
     "name": "Micha 5",
-    "url": "https://getbible.net/v2/schlachter/33/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/33/5.json",
     "sha": "12cac8058218d18c0b1c4eafce8040f76c5d1b14"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Micha",
     "chapter": 6,
     "name": "Micha 6",
-    "url": "https://getbible.net/v2/schlachter/33/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/33/6.json",
     "sha": "1ca393cedfc045161985ad08cc55a6ddf584d715"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Micha",
     "chapter": 7,
     "name": "Micha 7",
-    "url": "https://getbible.net/v2/schlachter/33/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/33/7.json",
     "sha": "03a7f7fb30e340597cd9433c5726b47870bc9bde"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "1. Thessalonicher",
     "chapter": 1,
     "name": "1. Thessalonicher 1",
-    "url": "https://getbible.net/v2/schlachter/52/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/52/1.json",
     "sha": "0a6b5d9de9e62fc080ab14de402056fbd182fc5f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1. Thessalonicher",
     "chapter": 2,
     "name": "1. Thessalonicher 2",
-    "url": "https://getbible.net/v2/schlachter/52/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/52/2.json",
     "sha": "34e048f032e104cedcf3d95bc724e913625dc54f"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1. Thessalonicher",
     "chapter": 3,
     "name": "1. Thessalonicher 3",
-    "url": "https://getbible.net/v2/schlachter/52/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/52/3.json",
     "sha": "c0b7e1afca275b4563519d6336680d61d4414b95"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1. Thessalonicher",
     "chapter": 4,
     "name": "1. Thessalonicher 4",
-    "url": "https://getbible.net/v2/schlachter/52/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/52/4.json",
     "sha": "f3f6e46fa02c42a811f87f1fabf82355bcdfe014"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1. Thessalonicher",
     "chapter": 5,
     "name": "1. Thessalonicher 5",
-    "url": "https://getbible.net/v2/schlachter/52/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/52/5.json",
     "sha": "b8cdc411ef3db077b516646fb3e6160de49190b1"
   }
 }

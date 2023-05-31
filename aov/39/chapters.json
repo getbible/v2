@@ -10,7 +10,7 @@
     "book_name": "Maleagi",
     "chapter": 1,
     "name": "Maleagi 1",
-    "url": "https://getbible.net/v2/aov/39/1.json",
+    "url": "https://api.getbible.net/v2/aov/39/1.json",
     "sha": "539ab9777e35eb2d3cded22127a29f667042cf03"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Maleagi",
     "chapter": 2,
     "name": "Maleagi 2",
-    "url": "https://getbible.net/v2/aov/39/2.json",
+    "url": "https://api.getbible.net/v2/aov/39/2.json",
     "sha": "706f8c28eadc71ab8b27d8e1a6d40a4ff3126685"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Maleagi",
     "chapter": 3,
     "name": "Maleagi 3",
-    "url": "https://getbible.net/v2/aov/39/3.json",
+    "url": "https://api.getbible.net/v2/aov/39/3.json",
     "sha": "5330763ca6192492a3636d6f61c315c8ff08ce04"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Maleagi",
     "chapter": 4,
     "name": "Maleagi 4",
-    "url": "https://getbible.net/v2/aov/39/4.json",
+    "url": "https://api.getbible.net/v2/aov/39/4.json",
     "sha": "3f2e21cb304befd71d7ff42d01c45990bca1ee6c"
   }
 }

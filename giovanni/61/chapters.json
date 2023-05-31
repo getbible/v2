@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/giovanni/61/1.json",
+    "url": "https://api.getbible.net/v2/giovanni/61/1.json",
     "sha": "399779ff34c29e9e97995daffb0770ef2f3272aa"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/giovanni/61/2.json",
+    "url": "https://api.getbible.net/v2/giovanni/61/2.json",
     "sha": "93406de7361d2e806aabf9e2d9771c0089b2b65a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/giovanni/61/3.json",
+    "url": "https://api.getbible.net/v2/giovanni/61/3.json",
     "sha": "cdc3d61131f8bd3169e52f1d1bafb3f2acf15680"
   }
 }

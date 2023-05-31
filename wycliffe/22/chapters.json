@@ -10,7 +10,7 @@
     "book_name": "Song of Solomon",
     "chapter": 1,
     "name": "Song of Solomon 1",
-    "url": "https://getbible.net/v2/wycliffe/22/1.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/1.json",
     "sha": "7c8ec8679c1942fde7694a5a057cfe0f7601953e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Song of Solomon",
     "chapter": 2,
     "name": "Song of Solomon 2",
-    "url": "https://getbible.net/v2/wycliffe/22/2.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/2.json",
     "sha": "3a4789efe95ac1822d675a1e9518bc9e119ea6b3"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Song of Solomon",
     "chapter": 3,
     "name": "Song of Solomon 3",
-    "url": "https://getbible.net/v2/wycliffe/22/3.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/3.json",
     "sha": "09763c89044eb86e382ee0064799be74a66955d8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Song of Solomon",
     "chapter": 4,
     "name": "Song of Solomon 4",
-    "url": "https://getbible.net/v2/wycliffe/22/4.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/4.json",
     "sha": "b058dc83cb4389cc1779fecb68c28d51aa8e955a"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Song of Solomon",
     "chapter": 5,
     "name": "Song of Solomon 5",
-    "url": "https://getbible.net/v2/wycliffe/22/5.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/5.json",
     "sha": "7cb3d6b08fc8eadd9cd82bf5b0ee767f553f0e1c"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Song of Solomon",
     "chapter": 6,
     "name": "Song of Solomon 6",
-    "url": "https://getbible.net/v2/wycliffe/22/6.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/6.json",
     "sha": "0dfe8693fe60a66642ac554be88f4c55c5670357"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Song of Solomon",
     "chapter": 7,
     "name": "Song of Solomon 7",
-    "url": "https://getbible.net/v2/wycliffe/22/7.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/7.json",
     "sha": "68f28f5877d440eacdf0a2fedd199a1eac591897"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Song of Solomon",
     "chapter": 8,
     "name": "Song of Solomon 8",
-    "url": "https://getbible.net/v2/wycliffe/22/8.json",
+    "url": "https://api.getbible.net/v2/wycliffe/22/8.json",
     "sha": "67bf09a3ffbf665e83405bc1cfeaf3d860473d55"
   }
 }

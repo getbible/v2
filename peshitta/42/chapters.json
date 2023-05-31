@@ -10,7 +10,7 @@
     "book_name": "Luke",
     "chapter": 1,
     "name": "Luke 1",
-    "url": "https://getbible.net/v2/peshitta/42/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/1.json",
     "sha": "3437d4341cab2cd175ca70fefe43f4ebfcbf28a8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Luke",
     "chapter": 2,
     "name": "Luke 2",
-    "url": "https://getbible.net/v2/peshitta/42/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/2.json",
     "sha": "a2122d40c7d277493135265bc131c6742d7d1ced"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Luke",
     "chapter": 3,
     "name": "Luke 3",
-    "url": "https://getbible.net/v2/peshitta/42/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/3.json",
     "sha": "b53821d77282c6f065bf3151f8ac18698564e597"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Luke",
     "chapter": 4,
     "name": "Luke 4",
-    "url": "https://getbible.net/v2/peshitta/42/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/4.json",
     "sha": "4c2d3f4b8479698224febba844bf136fda13c230"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Luke",
     "chapter": 5,
     "name": "Luke 5",
-    "url": "https://getbible.net/v2/peshitta/42/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/5.json",
     "sha": "5754e1bf54f1fd06924f631fd7dcfce30bc077ed"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Luke",
     "chapter": 6,
     "name": "Luke 6",
-    "url": "https://getbible.net/v2/peshitta/42/6.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/6.json",
     "sha": "ca4a02ac90ea6e802b59dcc1c7a5023e136af3f5"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Luke",
     "chapter": 7,
     "name": "Luke 7",
-    "url": "https://getbible.net/v2/peshitta/42/7.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/7.json",
     "sha": "5b8785196c96a9e14ee9cb4d4fbcbc0aa452a032"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Luke",
     "chapter": 8,
     "name": "Luke 8",
-    "url": "https://getbible.net/v2/peshitta/42/8.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/8.json",
     "sha": "c4300c3b7a286bdbeff21c7c60bd7e4990fa6363"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Luke",
     "chapter": 9,
     "name": "Luke 9",
-    "url": "https://getbible.net/v2/peshitta/42/9.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/9.json",
     "sha": "a3a2b3a157edd49e4e024c958ea3e724246eb69d"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Luke",
     "chapter": 10,
     "name": "Luke 10",
-    "url": "https://getbible.net/v2/peshitta/42/10.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/10.json",
     "sha": "569ec386115dad88021ee964312282f3a8239815"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Luke",
     "chapter": 11,
     "name": "Luke 11",
-    "url": "https://getbible.net/v2/peshitta/42/11.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/11.json",
     "sha": "d9d810609c7e505266b04eade0a6f57a448dc6d0"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Luke",
     "chapter": 12,
     "name": "Luke 12",
-    "url": "https://getbible.net/v2/peshitta/42/12.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/12.json",
     "sha": "4fa10847b84e768f16963ad904783a390a312af3"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Luke",
     "chapter": 13,
     "name": "Luke 13",
-    "url": "https://getbible.net/v2/peshitta/42/13.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/13.json",
     "sha": "37d73b218a42d26bb246afd0ba0da16c7ffdfd89"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Luke",
     "chapter": 14,
     "name": "Luke 14",
-    "url": "https://getbible.net/v2/peshitta/42/14.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/14.json",
     "sha": "0243c506550818db92f3fff965b9fd99347fb38c"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Luke",
     "chapter": 15,
     "name": "Luke 15",
-    "url": "https://getbible.net/v2/peshitta/42/15.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/15.json",
     "sha": "54d1c825e8dbc2d9fecd1545640864fff05ecc34"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Luke",
     "chapter": 16,
     "name": "Luke 16",
-    "url": "https://getbible.net/v2/peshitta/42/16.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/16.json",
     "sha": "89a909884e164414287c172ee2ba5c7e83f29712"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Luke",
     "chapter": 17,
     "name": "Luke 17",
-    "url": "https://getbible.net/v2/peshitta/42/17.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/17.json",
     "sha": "a6f061ec4b46f08132a668d42c55b21bdbdcef85"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Luke",
     "chapter": 18,
     "name": "Luke 18",
-    "url": "https://getbible.net/v2/peshitta/42/18.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/18.json",
     "sha": "00eb71a49a7de402b024687b05377f95ca8006bd"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Luke",
     "chapter": 19,
     "name": "Luke 19",
-    "url": "https://getbible.net/v2/peshitta/42/19.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/19.json",
     "sha": "157c4fa03dcd231c6b021156778e106730f50b61"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Luke",
     "chapter": 20,
     "name": "Luke 20",
-    "url": "https://getbible.net/v2/peshitta/42/20.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/20.json",
     "sha": "1c753795004387e359d7dfb7ac30b8a5d781aebb"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Luke",
     "chapter": 21,
     "name": "Luke 21",
-    "url": "https://getbible.net/v2/peshitta/42/21.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/21.json",
     "sha": "70f0860f157893ee25bd2283aed1b0d65ec7b099"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Luke",
     "chapter": 22,
     "name": "Luke 22",
-    "url": "https://getbible.net/v2/peshitta/42/22.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/22.json",
     "sha": "0c6b6890dfd0fce96e7a20a5a79ffe66ed6b4bad"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Luke",
     "chapter": 23,
     "name": "Luke 23",
-    "url": "https://getbible.net/v2/peshitta/42/23.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/23.json",
     "sha": "ce12f8a332a27aded9723da93be0dcfb637abae3"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Luke",
     "chapter": 24,
     "name": "Luke 24",
-    "url": "https://getbible.net/v2/peshitta/42/24.json",
+    "url": "https://api.getbible.net/v2/peshitta/42/24.json",
     "sha": "b951cf3f4ed17b690858bca6030712be9e6f3a2c"
   }
 }

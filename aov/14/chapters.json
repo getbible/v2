@@ -10,7 +10,7 @@
     "book_name": "2 Kronieke",
     "chapter": 1,
     "name": "2 Kronieke 1",
-    "url": "https://getbible.net/v2/aov/14/1.json",
+    "url": "https://api.getbible.net/v2/aov/14/1.json",
     "sha": "58a363cf5ddb712a5b65e1a33b4394674dabfd8c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Kronieke",
     "chapter": 2,
     "name": "2 Kronieke 2",
-    "url": "https://getbible.net/v2/aov/14/2.json",
+    "url": "https://api.getbible.net/v2/aov/14/2.json",
     "sha": "0d75dc1e5e7e974c4b477c24ae4b509856393db8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Kronieke",
     "chapter": 3,
     "name": "2 Kronieke 3",
-    "url": "https://getbible.net/v2/aov/14/3.json",
+    "url": "https://api.getbible.net/v2/aov/14/3.json",
     "sha": "a6517f68a21423ed2d03b1abf233219e59c3db5f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Kronieke",
     "chapter": 4,
     "name": "2 Kronieke 4",
-    "url": "https://getbible.net/v2/aov/14/4.json",
+    "url": "https://api.getbible.net/v2/aov/14/4.json",
     "sha": "34ae29e6da3b92301551e44fb12ef046f7e0cdf5"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "2 Kronieke",
     "chapter": 5,
     "name": "2 Kronieke 5",
-    "url": "https://getbible.net/v2/aov/14/5.json",
+    "url": "https://api.getbible.net/v2/aov/14/5.json",
     "sha": "11e604b5080705b7c4651fc5dc9b87a25f0b64d2"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "2 Kronieke",
     "chapter": 6,
     "name": "2 Kronieke 6",
-    "url": "https://getbible.net/v2/aov/14/6.json",
+    "url": "https://api.getbible.net/v2/aov/14/6.json",
     "sha": "75969edb4af7cd37eec29cd00427a1db8b7100b4"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "2 Kronieke",
     "chapter": 7,
     "name": "2 Kronieke 7",
-    "url": "https://getbible.net/v2/aov/14/7.json",
+    "url": "https://api.getbible.net/v2/aov/14/7.json",
     "sha": "f0335da7dea3b13e0e38697b659b77fa1f184dec"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "2 Kronieke",
     "chapter": 8,
     "name": "2 Kronieke 8",
-    "url": "https://getbible.net/v2/aov/14/8.json",
+    "url": "https://api.getbible.net/v2/aov/14/8.json",
     "sha": "856831ebfe73ca1ea29d8bb7a64ce85db50d32b2"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "2 Kronieke",
     "chapter": 9,
     "name": "2 Kronieke 9",
-    "url": "https://getbible.net/v2/aov/14/9.json",
+    "url": "https://api.getbible.net/v2/aov/14/9.json",
     "sha": "111bdc0761b9b15460489946adfd0512c8a59645"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "2 Kronieke",
     "chapter": 10,
     "name": "2 Kronieke 10",
-    "url": "https://getbible.net/v2/aov/14/10.json",
+    "url": "https://api.getbible.net/v2/aov/14/10.json",
     "sha": "4308c283d14c45d2e493caab85db490c285592d5"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "2 Kronieke",
     "chapter": 11,
     "name": "2 Kronieke 11",
-    "url": "https://getbible.net/v2/aov/14/11.json",
+    "url": "https://api.getbible.net/v2/aov/14/11.json",
     "sha": "254d3b18e61ea2b8489a75b5e8b0b1ee6df8f633"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "2 Kronieke",
     "chapter": 12,
     "name": "2 Kronieke 12",
-    "url": "https://getbible.net/v2/aov/14/12.json",
+    "url": "https://api.getbible.net/v2/aov/14/12.json",
     "sha": "b81caec38a718dd3d26f783757d8920614eb868e"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "2 Kronieke",
     "chapter": 13,
     "name": "2 Kronieke 13",
-    "url": "https://getbible.net/v2/aov/14/13.json",
+    "url": "https://api.getbible.net/v2/aov/14/13.json",
     "sha": "f89b01ba210902bab463bd6220a00306e5b6aa4c"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "2 Kronieke",
     "chapter": 14,
     "name": "2 Kronieke 14",
-    "url": "https://getbible.net/v2/aov/14/14.json",
+    "url": "https://api.getbible.net/v2/aov/14/14.json",
     "sha": "c08d4a5d262349be6138503c8165d67db648aeae"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "2 Kronieke",
     "chapter": 15,
     "name": "2 Kronieke 15",
-    "url": "https://getbible.net/v2/aov/14/15.json",
+    "url": "https://api.getbible.net/v2/aov/14/15.json",
     "sha": "5c7fee864a7d6d6c3c7671700dc3ef37c7b7adba"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "2 Kronieke",
     "chapter": 16,
     "name": "2 Kronieke 16",
-    "url": "https://getbible.net/v2/aov/14/16.json",
+    "url": "https://api.getbible.net/v2/aov/14/16.json",
     "sha": "e339826aec2a04fb1cf99ecd780fbaef221aec5e"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "2 Kronieke",
     "chapter": 17,
     "name": "2 Kronieke 17",
-    "url": "https://getbible.net/v2/aov/14/17.json",
+    "url": "https://api.getbible.net/v2/aov/14/17.json",
     "sha": "58fefc4450c148b09aac7c6b92f950243780ef64"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "2 Kronieke",
     "chapter": 18,
     "name": "2 Kronieke 18",
-    "url": "https://getbible.net/v2/aov/14/18.json",
+    "url": "https://api.getbible.net/v2/aov/14/18.json",
     "sha": "10d57a3381115dc38277eb69d05e9aaf166fdee4"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "2 Kronieke",
     "chapter": 19,
     "name": "2 Kronieke 19",
-    "url": "https://getbible.net/v2/aov/14/19.json",
+    "url": "https://api.getbible.net/v2/aov/14/19.json",
     "sha": "e79128d619daf2ac380064e77697d8b77511b617"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "2 Kronieke",
     "chapter": 20,
     "name": "2 Kronieke 20",
-    "url": "https://getbible.net/v2/aov/14/20.json",
+    "url": "https://api.getbible.net/v2/aov/14/20.json",
     "sha": "32a62f692db544d56dfa4c714fa527a48676721d"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "2 Kronieke",
     "chapter": 21,
     "name": "2 Kronieke 21",
-    "url": "https://getbible.net/v2/aov/14/21.json",
+    "url": "https://api.getbible.net/v2/aov/14/21.json",
     "sha": "523f6d879c57b1fa212d6c5b9825927aee248bc0"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "2 Kronieke",
     "chapter": 22,
     "name": "2 Kronieke 22",
-    "url": "https://getbible.net/v2/aov/14/22.json",
+    "url": "https://api.getbible.net/v2/aov/14/22.json",
     "sha": "69776be460830dfb7baed0502e972d2b6c711511"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "2 Kronieke",
     "chapter": 23,
     "name": "2 Kronieke 23",
-    "url": "https://getbible.net/v2/aov/14/23.json",
+    "url": "https://api.getbible.net/v2/aov/14/23.json",
     "sha": "396dbaee164ddc5291dbce2f3aed9deeec652ff9"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "2 Kronieke",
     "chapter": 24,
     "name": "2 Kronieke 24",
-    "url": "https://getbible.net/v2/aov/14/24.json",
+    "url": "https://api.getbible.net/v2/aov/14/24.json",
     "sha": "a217d50d5f74ca94ac70ddd8b865ea03da5bea39"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "2 Kronieke",
     "chapter": 25,
     "name": "2 Kronieke 25",
-    "url": "https://getbible.net/v2/aov/14/25.json",
+    "url": "https://api.getbible.net/v2/aov/14/25.json",
     "sha": "bcd5cc1d99b4bd5541cecdb68f3de66d275117a6"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "2 Kronieke",
     "chapter": 26,
     "name": "2 Kronieke 26",
-    "url": "https://getbible.net/v2/aov/14/26.json",
+    "url": "https://api.getbible.net/v2/aov/14/26.json",
     "sha": "ee80cee946be5e8d659cf7a870bc6899bafae8d8"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "2 Kronieke",
     "chapter": 27,
     "name": "2 Kronieke 27",
-    "url": "https://getbible.net/v2/aov/14/27.json",
+    "url": "https://api.getbible.net/v2/aov/14/27.json",
     "sha": "9e618fcb777540c47215a37d5d68d1b04f424861"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "2 Kronieke",
     "chapter": 28,
     "name": "2 Kronieke 28",
-    "url": "https://getbible.net/v2/aov/14/28.json",
+    "url": "https://api.getbible.net/v2/aov/14/28.json",
     "sha": "2b87563c575587152f2e8c9dce8eb1ef955832d5"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "2 Kronieke",
     "chapter": 29,
     "name": "2 Kronieke 29",
-    "url": "https://getbible.net/v2/aov/14/29.json",
+    "url": "https://api.getbible.net/v2/aov/14/29.json",
     "sha": "ec5bf5098ff601b6c957b640cba7de8a594a62a0"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "2 Kronieke",
     "chapter": 30,
     "name": "2 Kronieke 30",
-    "url": "https://getbible.net/v2/aov/14/30.json",
+    "url": "https://api.getbible.net/v2/aov/14/30.json",
     "sha": "1a1383679c4380bd0deddadb4bd6b5bf8a4f68f6"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "2 Kronieke",
     "chapter": 31,
     "name": "2 Kronieke 31",
-    "url": "https://getbible.net/v2/aov/14/31.json",
+    "url": "https://api.getbible.net/v2/aov/14/31.json",
     "sha": "1b5325f831b69aa1b0650a7eeb69233b7eea3745"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "2 Kronieke",
     "chapter": 32,
     "name": "2 Kronieke 32",
-    "url": "https://getbible.net/v2/aov/14/32.json",
+    "url": "https://api.getbible.net/v2/aov/14/32.json",
     "sha": "f078066d9abce60ef82396ae1288b7b3ea107a6d"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "2 Kronieke",
     "chapter": 33,
     "name": "2 Kronieke 33",
-    "url": "https://getbible.net/v2/aov/14/33.json",
+    "url": "https://api.getbible.net/v2/aov/14/33.json",
     "sha": "a60444bb28683f7e44b89b928de3705e7d5e42a6"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "2 Kronieke",
     "chapter": 34,
     "name": "2 Kronieke 34",
-    "url": "https://getbible.net/v2/aov/14/34.json",
+    "url": "https://api.getbible.net/v2/aov/14/34.json",
     "sha": "2b6282bccd8b882f902bfd9b19a8c35fc6b19154"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "2 Kronieke",
     "chapter": 35,
     "name": "2 Kronieke 35",
-    "url": "https://getbible.net/v2/aov/14/35.json",
+    "url": "https://api.getbible.net/v2/aov/14/35.json",
     "sha": "c1fb6cca4228aa9b9fd4edc710680fd16bd92f3a"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "2 Kronieke",
     "chapter": 36,
     "name": "2 Kronieke 36",
-    "url": "https://getbible.net/v2/aov/14/36.json",
+    "url": "https://api.getbible.net/v2/aov/14/36.json",
     "sha": "9922f97c4ca9a7fedad603530636eccad79656f4"
   }
 }

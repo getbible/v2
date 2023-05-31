@@ -10,7 +10,7 @@
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
-    "url": "https://getbible.net/v2/sse/49/1.json",
+    "url": "https://api.getbible.net/v2/sse/49/1.json",
     "sha": "c2262e0a273ea646a39a5d1f6ceec9b5af32d729"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
-    "url": "https://getbible.net/v2/sse/49/2.json",
+    "url": "https://api.getbible.net/v2/sse/49/2.json",
     "sha": "cfdc10a330ac456e876aacb23587953d0ec73cc0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
-    "url": "https://getbible.net/v2/sse/49/3.json",
+    "url": "https://api.getbible.net/v2/sse/49/3.json",
     "sha": "10d3e3d3b6185d43af883b768223e17a4c7c4328"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
-    "url": "https://getbible.net/v2/sse/49/4.json",
+    "url": "https://api.getbible.net/v2/sse/49/4.json",
     "sha": "ef69e4e08d189213b04ea1fc2b607d4d56825951"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
-    "url": "https://getbible.net/v2/sse/49/5.json",
+    "url": "https://api.getbible.net/v2/sse/49/5.json",
     "sha": "c76f1e87fca7672308433b68bd1e4fee175d81e5"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
-    "url": "https://getbible.net/v2/sse/49/6.json",
+    "url": "https://api.getbible.net/v2/sse/49/6.json",
     "sha": "c2c36bb9565bca6467d9737e84f2dd89ad66ee80"
   }
 }

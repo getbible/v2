@@ -10,7 +10,7 @@
     "book_name": "2 Corinthians",
     "chapter": 1,
     "name": "2 Corinthians 1",
-    "url": "https://getbible.net/v2/peshitta/47/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/1.json",
     "sha": "fc7f965f26748bb6da152632d11ee313d4077809"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Corinthians",
     "chapter": 2,
     "name": "2 Corinthians 2",
-    "url": "https://getbible.net/v2/peshitta/47/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/2.json",
     "sha": "168cf74b4fe4035d0433cd0b599a990b2ba08cc2"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Corinthians",
     "chapter": 3,
     "name": "2 Corinthians 3",
-    "url": "https://getbible.net/v2/peshitta/47/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/3.json",
     "sha": "a222cced3ba22599eeebbd26a465cb8fd1220f91"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Corinthians",
     "chapter": 4,
     "name": "2 Corinthians 4",
-    "url": "https://getbible.net/v2/peshitta/47/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/4.json",
     "sha": "d2239baff7365b9155390ae612abcfd4df5fd2cc"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "2 Corinthians",
     "chapter": 5,
     "name": "2 Corinthians 5",
-    "url": "https://getbible.net/v2/peshitta/47/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/5.json",
     "sha": "7ef00dceaf39a5d78364759c8cc0f88fd8d81aab"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "2 Corinthians",
     "chapter": 6,
     "name": "2 Corinthians 6",
-    "url": "https://getbible.net/v2/peshitta/47/6.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/6.json",
     "sha": "5c7fa4f333b429e6d8cb094c5d469bab006fde12"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "2 Corinthians",
     "chapter": 7,
     "name": "2 Corinthians 7",
-    "url": "https://getbible.net/v2/peshitta/47/7.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/7.json",
     "sha": "73303f898c2ebffdc645eb406d59b9eaaf17b787"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "2 Corinthians",
     "chapter": 8,
     "name": "2 Corinthians 8",
-    "url": "https://getbible.net/v2/peshitta/47/8.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/8.json",
     "sha": "f1c9fac9600c2b5c9f95d95803afd3204aef0157"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "2 Corinthians",
     "chapter": 9,
     "name": "2 Corinthians 9",
-    "url": "https://getbible.net/v2/peshitta/47/9.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/9.json",
     "sha": "45e87fd56b79a088837903495a228f314a7d5af1"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "2 Corinthians",
     "chapter": 10,
     "name": "2 Corinthians 10",
-    "url": "https://getbible.net/v2/peshitta/47/10.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/10.json",
     "sha": "3e9c6bac8d58d71dbf6869df970e442aaf614243"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "2 Corinthians",
     "chapter": 11,
     "name": "2 Corinthians 11",
-    "url": "https://getbible.net/v2/peshitta/47/11.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/11.json",
     "sha": "b7702595bf2caf5c0421e8de142e014957db3f09"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "2 Corinthians",
     "chapter": 12,
     "name": "2 Corinthians 12",
-    "url": "https://getbible.net/v2/peshitta/47/12.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/12.json",
     "sha": "6decfa05d4dcbab84a95a57011543c70cee5ce65"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "2 Corinthians",
     "chapter": 13,
     "name": "2 Corinthians 13",
-    "url": "https://getbible.net/v2/peshitta/47/13.json",
+    "url": "https://api.getbible.net/v2/peshitta/47/13.json",
     "sha": "4f16ea3320e91999497f68c8e62854121da7f9f8"
   }
 }

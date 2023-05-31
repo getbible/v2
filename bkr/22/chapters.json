@@ -10,7 +10,7 @@
     "book_name": "Song of Songs",
     "chapter": 1,
     "name": "Song of Songs 1",
-    "url": "https://getbible.net/v2/bkr/22/1.json",
+    "url": "https://api.getbible.net/v2/bkr/22/1.json",
     "sha": "f7bae72354cc6386326f0fc112d2b50db8773848"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Song of Songs",
     "chapter": 2,
     "name": "Song of Songs 2",
-    "url": "https://getbible.net/v2/bkr/22/2.json",
+    "url": "https://api.getbible.net/v2/bkr/22/2.json",
     "sha": "49ac7bf2b45cdbb7c5c543cc3b820bd682c6702a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Song of Songs",
     "chapter": 3,
     "name": "Song of Songs 3",
-    "url": "https://getbible.net/v2/bkr/22/3.json",
+    "url": "https://api.getbible.net/v2/bkr/22/3.json",
     "sha": "f8e3b318ed00fddd9cc33c1baaf5e649f1b7d968"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Song of Songs",
     "chapter": 4,
     "name": "Song of Songs 4",
-    "url": "https://getbible.net/v2/bkr/22/4.json",
+    "url": "https://api.getbible.net/v2/bkr/22/4.json",
     "sha": "52841f7fc1b31c275a5151c4503edc735ebba42f"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Song of Songs",
     "chapter": 5,
     "name": "Song of Songs 5",
-    "url": "https://getbible.net/v2/bkr/22/5.json",
+    "url": "https://api.getbible.net/v2/bkr/22/5.json",
     "sha": "1644f3c2140a67e67b528b6b07c62e2e5c19f254"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Song of Songs",
     "chapter": 6,
     "name": "Song of Songs 6",
-    "url": "https://getbible.net/v2/bkr/22/6.json",
+    "url": "https://api.getbible.net/v2/bkr/22/6.json",
     "sha": "61ace8681acf7596b4412843ed107c3ea19dcbec"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Song of Songs",
     "chapter": 7,
     "name": "Song of Songs 7",
-    "url": "https://getbible.net/v2/bkr/22/7.json",
+    "url": "https://api.getbible.net/v2/bkr/22/7.json",
     "sha": "70c15a7d28dc042b68787af80a2c9dfde2dc90f0"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Song of Songs",
     "chapter": 8,
     "name": "Song of Songs 8",
-    "url": "https://getbible.net/v2/bkr/22/8.json",
+    "url": "https://api.getbible.net/v2/bkr/22/8.json",
     "sha": "22f87e3ee05fcc3ad5487b533b251390f0a7425f"
   }
 }

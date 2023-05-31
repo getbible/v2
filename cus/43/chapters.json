@@ -10,7 +10,7 @@
     "book_name": "约翰福音",
     "chapter": 1,
     "name": "约翰福音 1",
-    "url": "https://getbible.net/v2/cus/43/1.json",
+    "url": "https://api.getbible.net/v2/cus/43/1.json",
     "sha": "c3daca04b314a60d5e01ca1d780115cf7d2cfe8c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "约翰福音",
     "chapter": 2,
     "name": "约翰福音 2",
-    "url": "https://getbible.net/v2/cus/43/2.json",
+    "url": "https://api.getbible.net/v2/cus/43/2.json",
     "sha": "fc013cc451bfe8e3a95813e818f6d3fb5f6a6677"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "约翰福音",
     "chapter": 3,
     "name": "约翰福音 3",
-    "url": "https://getbible.net/v2/cus/43/3.json",
+    "url": "https://api.getbible.net/v2/cus/43/3.json",
     "sha": "02eccb953aa7414a6d1117fc615c5ead4dbc31b1"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "约翰福音",
     "chapter": 4,
     "name": "约翰福音 4",
-    "url": "https://getbible.net/v2/cus/43/4.json",
+    "url": "https://api.getbible.net/v2/cus/43/4.json",
     "sha": "b8ded2cd879a72efbb11c17a934d1d0e43262467"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "约翰福音",
     "chapter": 5,
     "name": "约翰福音 5",
-    "url": "https://getbible.net/v2/cus/43/5.json",
+    "url": "https://api.getbible.net/v2/cus/43/5.json",
     "sha": "d553dd160bff51d97d01c784bc9ace0e42ba7a66"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "约翰福音",
     "chapter": 6,
     "name": "约翰福音 6",
-    "url": "https://getbible.net/v2/cus/43/6.json",
+    "url": "https://api.getbible.net/v2/cus/43/6.json",
     "sha": "0a0974377d1926d807658f65dc9cf7123342b4a7"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "约翰福音",
     "chapter": 7,
     "name": "约翰福音 7",
-    "url": "https://getbible.net/v2/cus/43/7.json",
+    "url": "https://api.getbible.net/v2/cus/43/7.json",
     "sha": "3ed47918c1b9583b9939339ab8eeb51d2f489105"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "约翰福音",
     "chapter": 8,
     "name": "约翰福音 8",
-    "url": "https://getbible.net/v2/cus/43/8.json",
+    "url": "https://api.getbible.net/v2/cus/43/8.json",
     "sha": "9f8baca4a7e61e6a17257aebc09e24fcea772a36"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "约翰福音",
     "chapter": 9,
     "name": "约翰福音 9",
-    "url": "https://getbible.net/v2/cus/43/9.json",
+    "url": "https://api.getbible.net/v2/cus/43/9.json",
     "sha": "933c79a1dc39de599503c3e6cc24b9d08307526c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "约翰福音",
     "chapter": 10,
     "name": "约翰福音 10",
-    "url": "https://getbible.net/v2/cus/43/10.json",
+    "url": "https://api.getbible.net/v2/cus/43/10.json",
     "sha": "d3c148ef5bfb9e2fa81709324a2260fcff65519a"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "约翰福音",
     "chapter": 11,
     "name": "约翰福音 11",
-    "url": "https://getbible.net/v2/cus/43/11.json",
+    "url": "https://api.getbible.net/v2/cus/43/11.json",
     "sha": "c8d3bbb52cbabda3ac340847aef874986dae8b05"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "约翰福音",
     "chapter": 12,
     "name": "约翰福音 12",
-    "url": "https://getbible.net/v2/cus/43/12.json",
+    "url": "https://api.getbible.net/v2/cus/43/12.json",
     "sha": "b2313560b53dfe30865ce213f558d20288d0cb7f"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "约翰福音",
     "chapter": 13,
     "name": "约翰福音 13",
-    "url": "https://getbible.net/v2/cus/43/13.json",
+    "url": "https://api.getbible.net/v2/cus/43/13.json",
     "sha": "7de81c481c43dc7eacfdff43989440e52ba44fa0"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "约翰福音",
     "chapter": 14,
     "name": "约翰福音 14",
-    "url": "https://getbible.net/v2/cus/43/14.json",
+    "url": "https://api.getbible.net/v2/cus/43/14.json",
     "sha": "172ad57f343343c2c6a5fd024c80193f67a7581a"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "约翰福音",
     "chapter": 15,
     "name": "约翰福音 15",
-    "url": "https://getbible.net/v2/cus/43/15.json",
+    "url": "https://api.getbible.net/v2/cus/43/15.json",
     "sha": "838ef7ed165c47ca60451c76e476e6d30f859934"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "约翰福音",
     "chapter": 16,
     "name": "约翰福音 16",
-    "url": "https://getbible.net/v2/cus/43/16.json",
+    "url": "https://api.getbible.net/v2/cus/43/16.json",
     "sha": "388c527f4f102c8ad84ec9494e97ec152bf48f60"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "约翰福音",
     "chapter": 17,
     "name": "约翰福音 17",
-    "url": "https://getbible.net/v2/cus/43/17.json",
+    "url": "https://api.getbible.net/v2/cus/43/17.json",
     "sha": "361d43898132135a9599a4f757f1b56a67b285b5"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "约翰福音",
     "chapter": 18,
     "name": "约翰福音 18",
-    "url": "https://getbible.net/v2/cus/43/18.json",
+    "url": "https://api.getbible.net/v2/cus/43/18.json",
     "sha": "614604b686ef6fae49d69eb7f9fb19bbd38ebac2"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "约翰福音",
     "chapter": 19,
     "name": "约翰福音 19",
-    "url": "https://getbible.net/v2/cus/43/19.json",
+    "url": "https://api.getbible.net/v2/cus/43/19.json",
     "sha": "fa6caf011ade97362d692cbe475a3b14da27e2be"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "约翰福音",
     "chapter": 20,
     "name": "约翰福音 20",
-    "url": "https://getbible.net/v2/cus/43/20.json",
+    "url": "https://api.getbible.net/v2/cus/43/20.json",
     "sha": "08f5285e243a4227f81cbb30d7cc18d0a2915efa"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "约翰福音",
     "chapter": 21,
     "name": "约翰福音 21",
-    "url": "https://getbible.net/v2/cus/43/21.json",
+    "url": "https://api.getbible.net/v2/cus/43/21.json",
     "sha": "1cd81bc576c2243e9766dcee4849d3d5917b0aae"
   }
 }

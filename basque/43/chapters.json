@@ -10,7 +10,7 @@
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
-    "url": "https://getbible.net/v2/basque/43/1.json",
+    "url": "https://api.getbible.net/v2/basque/43/1.json",
     "sha": "11c0c5813eaddce6413b91d0ab4a67644a24a8ca"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
-    "url": "https://getbible.net/v2/basque/43/2.json",
+    "url": "https://api.getbible.net/v2/basque/43/2.json",
     "sha": "fd3e9b1d649a2b8a32db1e666534548ded5b7ac4"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
-    "url": "https://getbible.net/v2/basque/43/3.json",
+    "url": "https://api.getbible.net/v2/basque/43/3.json",
     "sha": "7fc15f9bcf77a94cc904766648ae26d5b5836a7a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
-    "url": "https://getbible.net/v2/basque/43/4.json",
+    "url": "https://api.getbible.net/v2/basque/43/4.json",
     "sha": "c8790fa04c3df93c7d04bb46076e098eb2beb392"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
-    "url": "https://getbible.net/v2/basque/43/5.json",
+    "url": "https://api.getbible.net/v2/basque/43/5.json",
     "sha": "80b9bcae63c38187125c5a313d8f79d799ed00d3"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
-    "url": "https://getbible.net/v2/basque/43/6.json",
+    "url": "https://api.getbible.net/v2/basque/43/6.json",
     "sha": "dddd30fcaef42241710e61e839a64e4d78ec54dd"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
-    "url": "https://getbible.net/v2/basque/43/7.json",
+    "url": "https://api.getbible.net/v2/basque/43/7.json",
     "sha": "aea8b649bc06e668ff82ad5805a92b79d3b684cd"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
-    "url": "https://getbible.net/v2/basque/43/8.json",
+    "url": "https://api.getbible.net/v2/basque/43/8.json",
     "sha": "59f87ccbfbb00ffbbbe510de5b1d3e07ae24302e"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
-    "url": "https://getbible.net/v2/basque/43/9.json",
+    "url": "https://api.getbible.net/v2/basque/43/9.json",
     "sha": "b4c22780b6c5f958a6f82f7d1c8c90417b899b45"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
-    "url": "https://getbible.net/v2/basque/43/10.json",
+    "url": "https://api.getbible.net/v2/basque/43/10.json",
     "sha": "a1fd6513f96ad03cd91658f000faa76972994cf2"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
-    "url": "https://getbible.net/v2/basque/43/11.json",
+    "url": "https://api.getbible.net/v2/basque/43/11.json",
     "sha": "55df09e094d84997555d78ddb5400e68e3afe981"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
-    "url": "https://getbible.net/v2/basque/43/12.json",
+    "url": "https://api.getbible.net/v2/basque/43/12.json",
     "sha": "84a8a4689390871b91ed803b262b431c8bf95d07"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
-    "url": "https://getbible.net/v2/basque/43/13.json",
+    "url": "https://api.getbible.net/v2/basque/43/13.json",
     "sha": "93c09575479a6f82e1f5818506a4e8bb663d78c9"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
-    "url": "https://getbible.net/v2/basque/43/14.json",
+    "url": "https://api.getbible.net/v2/basque/43/14.json",
     "sha": "08cd5858b155408fa93e1ad70160e11edd80053e"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
-    "url": "https://getbible.net/v2/basque/43/15.json",
+    "url": "https://api.getbible.net/v2/basque/43/15.json",
     "sha": "e21f35cc81ab37fba7dd6b94599ba60a6c5c10c7"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
-    "url": "https://getbible.net/v2/basque/43/16.json",
+    "url": "https://api.getbible.net/v2/basque/43/16.json",
     "sha": "ce01a3ffbedfeccaef2ce3856aa4a427a2c54a32"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
-    "url": "https://getbible.net/v2/basque/43/17.json",
+    "url": "https://api.getbible.net/v2/basque/43/17.json",
     "sha": "691e890194a072ab2423950a8455a28329b3c1d1"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
-    "url": "https://getbible.net/v2/basque/43/18.json",
+    "url": "https://api.getbible.net/v2/basque/43/18.json",
     "sha": "0d11152d04e04d1f36f56b2a9ce5244b24091fdf"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
-    "url": "https://getbible.net/v2/basque/43/19.json",
+    "url": "https://api.getbible.net/v2/basque/43/19.json",
     "sha": "6e5bc055081c7aed364b2d63cc57bff03326b1f6"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
-    "url": "https://getbible.net/v2/basque/43/20.json",
+    "url": "https://api.getbible.net/v2/basque/43/20.json",
     "sha": "1e29bf2f72cf15d61eaf797eafe59bb228b90801"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
-    "url": "https://getbible.net/v2/basque/43/21.json",
+    "url": "https://api.getbible.net/v2/basque/43/21.json",
     "sha": "c276085f3a96bcae9c58e455c81803323fe1d7fe"
   }
 }

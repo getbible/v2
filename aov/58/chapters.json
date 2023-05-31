@@ -10,7 +10,7 @@
     "book_name": "Hebreërs",
     "chapter": 1,
     "name": "Hebreërs 1",
-    "url": "https://getbible.net/v2/aov/58/1.json",
+    "url": "https://api.getbible.net/v2/aov/58/1.json",
     "sha": "876a8c08e1dd37522f8a606edc9dbfb37f33a1a2"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Hebreërs",
     "chapter": 2,
     "name": "Hebreërs 2",
-    "url": "https://getbible.net/v2/aov/58/2.json",
+    "url": "https://api.getbible.net/v2/aov/58/2.json",
     "sha": "2fd6b4097e8695da836328b8a6598dbd4b1e45cd"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Hebreërs",
     "chapter": 3,
     "name": "Hebreërs 3",
-    "url": "https://getbible.net/v2/aov/58/3.json",
+    "url": "https://api.getbible.net/v2/aov/58/3.json",
     "sha": "12fb42b9f75186ecead906de24aadfffa9129a16"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Hebreërs",
     "chapter": 4,
     "name": "Hebreërs 4",
-    "url": "https://getbible.net/v2/aov/58/4.json",
+    "url": "https://api.getbible.net/v2/aov/58/4.json",
     "sha": "f8a9cbfce61ea0166a9aae40ee06919da4cb4964"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Hebreërs",
     "chapter": 5,
     "name": "Hebreërs 5",
-    "url": "https://getbible.net/v2/aov/58/5.json",
+    "url": "https://api.getbible.net/v2/aov/58/5.json",
     "sha": "2205c45bf8ac4d957ea75f94db2cbcfbb3d298f7"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Hebreërs",
     "chapter": 6,
     "name": "Hebreërs 6",
-    "url": "https://getbible.net/v2/aov/58/6.json",
+    "url": "https://api.getbible.net/v2/aov/58/6.json",
     "sha": "bb13781b39eb55db1adbe7be4ef54e67fdd0b556"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Hebreërs",
     "chapter": 7,
     "name": "Hebreërs 7",
-    "url": "https://getbible.net/v2/aov/58/7.json",
+    "url": "https://api.getbible.net/v2/aov/58/7.json",
     "sha": "57586c6fb324e274334d5dbb67f4a6829f9a1c8d"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Hebreërs",
     "chapter": 8,
     "name": "Hebreërs 8",
-    "url": "https://getbible.net/v2/aov/58/8.json",
+    "url": "https://api.getbible.net/v2/aov/58/8.json",
     "sha": "db9b2341388228907bc2d846262f52e21aafd508"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Hebreërs",
     "chapter": 9,
     "name": "Hebreërs 9",
-    "url": "https://getbible.net/v2/aov/58/9.json",
+    "url": "https://api.getbible.net/v2/aov/58/9.json",
     "sha": "4ce064de8ca9cd1b503906f43e0e8faddce6de17"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Hebreërs",
     "chapter": 10,
     "name": "Hebreërs 10",
-    "url": "https://getbible.net/v2/aov/58/10.json",
+    "url": "https://api.getbible.net/v2/aov/58/10.json",
     "sha": "97448bf48aa9f11af3b79fe2c4563ce4673586cd"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Hebreërs",
     "chapter": 11,
     "name": "Hebreërs 11",
-    "url": "https://getbible.net/v2/aov/58/11.json",
+    "url": "https://api.getbible.net/v2/aov/58/11.json",
     "sha": "da9a0e741303118acb609201b3236a85956ebea9"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Hebreërs",
     "chapter": 12,
     "name": "Hebreërs 12",
-    "url": "https://getbible.net/v2/aov/58/12.json",
+    "url": "https://api.getbible.net/v2/aov/58/12.json",
     "sha": "35f8e2a4191938d4eceb920e20e81c3bf0ff0c8e"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Hebreërs",
     "chapter": 13,
     "name": "Hebreërs 13",
-    "url": "https://getbible.net/v2/aov/58/13.json",
+    "url": "https://api.getbible.net/v2/aov/58/13.json",
     "sha": "5db3e0b4fe9e7575a7511cffeef80164a0b3ad7b"
   }
 }

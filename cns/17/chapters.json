@@ -10,7 +10,7 @@
     "book_name": "以斯帖记",
     "chapter": 1,
     "name": "以斯帖记 1",
-    "url": "https://getbible.net/v2/cns/17/1.json",
+    "url": "https://api.getbible.net/v2/cns/17/1.json",
     "sha": "50e68cba815148bf733bbe268e4782fbba6c2f6c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "以斯帖记",
     "chapter": 2,
     "name": "以斯帖记 2",
-    "url": "https://getbible.net/v2/cns/17/2.json",
+    "url": "https://api.getbible.net/v2/cns/17/2.json",
     "sha": "4246de8096e2f4f994d741e7a195e385eb6e2fd4"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "以斯帖记",
     "chapter": 3,
     "name": "以斯帖记 3",
-    "url": "https://getbible.net/v2/cns/17/3.json",
+    "url": "https://api.getbible.net/v2/cns/17/3.json",
     "sha": "9e176f7f4e5dc8877cedb2be91b3816d7ba136e3"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "以斯帖记",
     "chapter": 4,
     "name": "以斯帖记 4",
-    "url": "https://getbible.net/v2/cns/17/4.json",
+    "url": "https://api.getbible.net/v2/cns/17/4.json",
     "sha": "38d4750b6bf9f126353b5545ae42b913dcb8d9bd"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "以斯帖记",
     "chapter": 5,
     "name": "以斯帖记 5",
-    "url": "https://getbible.net/v2/cns/17/5.json",
+    "url": "https://api.getbible.net/v2/cns/17/5.json",
     "sha": "6a4f7e56e79769c36a2028c3eca7ec48b75f5e84"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "以斯帖记",
     "chapter": 6,
     "name": "以斯帖记 6",
-    "url": "https://getbible.net/v2/cns/17/6.json",
+    "url": "https://api.getbible.net/v2/cns/17/6.json",
     "sha": "d4ad8bc756b1741ba0a16f162abf0097c2f5d444"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "以斯帖记",
     "chapter": 7,
     "name": "以斯帖记 7",
-    "url": "https://getbible.net/v2/cns/17/7.json",
+    "url": "https://api.getbible.net/v2/cns/17/7.json",
     "sha": "264126b3159f5412a671fcf7be3bfe676b73625d"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "以斯帖记",
     "chapter": 8,
     "name": "以斯帖记 8",
-    "url": "https://getbible.net/v2/cns/17/8.json",
+    "url": "https://api.getbible.net/v2/cns/17/8.json",
     "sha": "8d8ca66eeace05a192b7fd77c54fdbe2fbed8b8c"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "以斯帖记",
     "chapter": 9,
     "name": "以斯帖记 9",
-    "url": "https://getbible.net/v2/cns/17/9.json",
+    "url": "https://api.getbible.net/v2/cns/17/9.json",
     "sha": "3faca18bb357d2d0abada67688ec328f42ce2ae4"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "以斯帖记",
     "chapter": 10,
     "name": "以斯帖记 10",
-    "url": "https://getbible.net/v2/cns/17/10.json",
+    "url": "https://api.getbible.net/v2/cns/17/10.json",
     "sha": "0163594ccf01a826f65f573967d69515f734fe9c"
   }
 }

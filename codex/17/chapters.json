@@ -10,7 +10,7 @@
     "book_name": "Esther",
     "chapter": 1,
     "name": "Esther 1",
-    "url": "https://getbible.net/v2/codex/17/1.json",
+    "url": "https://api.getbible.net/v2/codex/17/1.json",
     "sha": "a4764359fdb9dec1a013a36249c2795c794eb0dc"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Esther",
     "chapter": 2,
     "name": "Esther 2",
-    "url": "https://getbible.net/v2/codex/17/2.json",
+    "url": "https://api.getbible.net/v2/codex/17/2.json",
     "sha": "3cd8488aec4e3794fb3c83360535568a86f51ceb"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Esther",
     "chapter": 3,
     "name": "Esther 3",
-    "url": "https://getbible.net/v2/codex/17/3.json",
+    "url": "https://api.getbible.net/v2/codex/17/3.json",
     "sha": "8d769ff4714ff2f9e6cab5cb90d8e4a94070001b"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Esther",
     "chapter": 4,
     "name": "Esther 4",
-    "url": "https://getbible.net/v2/codex/17/4.json",
+    "url": "https://api.getbible.net/v2/codex/17/4.json",
     "sha": "8eb0ec74fd27004b72ce7298d0a92bf70d0a1f9b"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Esther",
     "chapter": 5,
     "name": "Esther 5",
-    "url": "https://getbible.net/v2/codex/17/5.json",
+    "url": "https://api.getbible.net/v2/codex/17/5.json",
     "sha": "e8cde9e1f495d75059e1e636fe1796d2ac63227c"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Esther",
     "chapter": 6,
     "name": "Esther 6",
-    "url": "https://getbible.net/v2/codex/17/6.json",
+    "url": "https://api.getbible.net/v2/codex/17/6.json",
     "sha": "317f50a22db7fa891da2409e9a6142fabb4d5964"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Esther",
     "chapter": 7,
     "name": "Esther 7",
-    "url": "https://getbible.net/v2/codex/17/7.json",
+    "url": "https://api.getbible.net/v2/codex/17/7.json",
     "sha": "c6b9d0d85dc252c88b0d79e5b362869fffb36053"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Esther",
     "chapter": 8,
     "name": "Esther 8",
-    "url": "https://getbible.net/v2/codex/17/8.json",
+    "url": "https://api.getbible.net/v2/codex/17/8.json",
     "sha": "017bcbba663c99ecc7a823951ca87bfe7b9d79f8"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Esther",
     "chapter": 9,
     "name": "Esther 9",
-    "url": "https://getbible.net/v2/codex/17/9.json",
+    "url": "https://api.getbible.net/v2/codex/17/9.json",
     "sha": "d4c2b37472fe5412824ed06d41d0463574a1e756"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Esther",
     "chapter": 10,
     "name": "Esther 10",
-    "url": "https://getbible.net/v2/codex/17/10.json",
+    "url": "https://api.getbible.net/v2/codex/17/10.json",
     "sha": "df152420c2b9b9b8c8cf87de9f092486a9ac6855"
   }
 }

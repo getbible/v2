@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/thai/37/1.json",
+    "url": "https://api.getbible.net/v2/thai/37/1.json",
     "sha": "bb7e2f636540d507f445b6ce3d9e67c4ff367779"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/thai/37/2.json",
+    "url": "https://api.getbible.net/v2/thai/37/2.json",
     "sha": "188a139ecf46903f3cdea86cd0fe42260abeecd2"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Revelation",
     "chapter": 1,
     "name": "Revelation 1",
-    "url": "https://getbible.net/v2/rv1858/66/1.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/1.json",
     "sha": "4252d5b345c110c3c28156fcd55f8c48ba4ad75f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Revelation",
     "chapter": 2,
     "name": "Revelation 2",
-    "url": "https://getbible.net/v2/rv1858/66/2.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/2.json",
     "sha": "b85738c95c30bcfd6d89d756d4678974421d1b33"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Revelation",
     "chapter": 3,
     "name": "Revelation 3",
-    "url": "https://getbible.net/v2/rv1858/66/3.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/3.json",
     "sha": "01b7acd73295c308beb4330efa91f2b2f772ac12"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Revelation",
     "chapter": 4,
     "name": "Revelation 4",
-    "url": "https://getbible.net/v2/rv1858/66/4.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/4.json",
     "sha": "3a7c4663acb0f8cc62d3559b14c9f44589e713ec"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Revelation",
     "chapter": 5,
     "name": "Revelation 5",
-    "url": "https://getbible.net/v2/rv1858/66/5.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/5.json",
     "sha": "12f4b516f33929b2b08874792471299258393c4b"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Revelation",
     "chapter": 6,
     "name": "Revelation 6",
-    "url": "https://getbible.net/v2/rv1858/66/6.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/6.json",
     "sha": "977e00a851a66f300f6d06e8e103c3cfc3eecc55"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Revelation",
     "chapter": 7,
     "name": "Revelation 7",
-    "url": "https://getbible.net/v2/rv1858/66/7.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/7.json",
     "sha": "c309cf210173e1fc3048a37f43675605c0c5768c"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Revelation",
     "chapter": 8,
     "name": "Revelation 8",
-    "url": "https://getbible.net/v2/rv1858/66/8.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/8.json",
     "sha": "82f86f9544a457fc91764af20ed489dffbbaf3b5"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Revelation",
     "chapter": 9,
     "name": "Revelation 9",
-    "url": "https://getbible.net/v2/rv1858/66/9.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/9.json",
     "sha": "0c2f55a2b83b650f5d093734e81613c64348a036"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Revelation",
     "chapter": 10,
     "name": "Revelation 10",
-    "url": "https://getbible.net/v2/rv1858/66/10.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/10.json",
     "sha": "fa92954f6918dbb69909f76a6e4f4baae02028b1"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Revelation",
     "chapter": 11,
     "name": "Revelation 11",
-    "url": "https://getbible.net/v2/rv1858/66/11.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/11.json",
     "sha": "25399f607983bb6812051fb5824cebb03f445093"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Revelation",
     "chapter": 12,
     "name": "Revelation 12",
-    "url": "https://getbible.net/v2/rv1858/66/12.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/12.json",
     "sha": "790b4264517a5c82d953eaee12c1d7717dcf16cc"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Revelation",
     "chapter": 13,
     "name": "Revelation 13",
-    "url": "https://getbible.net/v2/rv1858/66/13.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/13.json",
     "sha": "22f2982753a6e8e84892326904c51eeff429286a"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Revelation",
     "chapter": 14,
     "name": "Revelation 14",
-    "url": "https://getbible.net/v2/rv1858/66/14.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/14.json",
     "sha": "3553a79bc1d80a929f5f40ba5d567ecab2307100"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Revelation",
     "chapter": 15,
     "name": "Revelation 15",
-    "url": "https://getbible.net/v2/rv1858/66/15.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/15.json",
     "sha": "191ff7d38f4bda6534259364eb6dcddea66da4c7"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Revelation",
     "chapter": 16,
     "name": "Revelation 16",
-    "url": "https://getbible.net/v2/rv1858/66/16.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/16.json",
     "sha": "4fc1b9b455040e5504cf8ed15cdf417460f86123"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Revelation",
     "chapter": 17,
     "name": "Revelation 17",
-    "url": "https://getbible.net/v2/rv1858/66/17.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/17.json",
     "sha": "b698f2429e1e598acf695428e75d710d7ae9af66"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Revelation",
     "chapter": 18,
     "name": "Revelation 18",
-    "url": "https://getbible.net/v2/rv1858/66/18.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/18.json",
     "sha": "521af02515a693ba9dff4a78c7515a49268283b3"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Revelation",
     "chapter": 19,
     "name": "Revelation 19",
-    "url": "https://getbible.net/v2/rv1858/66/19.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/19.json",
     "sha": "4402adab9db5d35d4f8d5dd9e485c68fc30dfecf"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Revelation",
     "chapter": 20,
     "name": "Revelation 20",
-    "url": "https://getbible.net/v2/rv1858/66/20.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/20.json",
     "sha": "b2feb971ba9d4e2c22ab4d4bfcca96d54e67fd90"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Revelation",
     "chapter": 21,
     "name": "Revelation 21",
-    "url": "https://getbible.net/v2/rv1858/66/21.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/21.json",
     "sha": "f8936329e509ffec32900ee9d41279563f32b484"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Revelation",
     "chapter": 22,
     "name": "Revelation 22",
-    "url": "https://getbible.net/v2/rv1858/66/22.json",
+    "url": "https://api.getbible.net/v2/rv1858/66/22.json",
     "sha": "92626f0487a3e83aa2102cf8d05dc4020f8f8336"
   }
 }

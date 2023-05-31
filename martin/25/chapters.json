@@ -10,7 +10,7 @@
     "book_name": "Lamentations",
     "chapter": 1,
     "name": "Lamentations 1",
-    "url": "https://getbible.net/v2/martin/25/1.json",
+    "url": "https://api.getbible.net/v2/martin/25/1.json",
     "sha": "597efb5979495371452318e10f020aafc02f3342"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Lamentations",
     "chapter": 2,
     "name": "Lamentations 2",
-    "url": "https://getbible.net/v2/martin/25/2.json",
+    "url": "https://api.getbible.net/v2/martin/25/2.json",
     "sha": "6416134fb562f3a27d9b63792d90a70c2083f941"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Lamentations",
     "chapter": 3,
     "name": "Lamentations 3",
-    "url": "https://getbible.net/v2/martin/25/3.json",
+    "url": "https://api.getbible.net/v2/martin/25/3.json",
     "sha": "0acd6bbd93a96c09f0907a0189d28827df21a90d"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Lamentations",
     "chapter": 4,
     "name": "Lamentations 4",
-    "url": "https://getbible.net/v2/martin/25/4.json",
+    "url": "https://api.getbible.net/v2/martin/25/4.json",
     "sha": "f8f8b02b7955d94d386b101d2fc7e6f500f4a2aa"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Lamentations",
     "chapter": 5,
     "name": "Lamentations 5",
-    "url": "https://getbible.net/v2/martin/25/5.json",
+    "url": "https://api.getbible.net/v2/martin/25/5.json",
     "sha": "28fd6f731c6d61a909ae2b634f3f8fdf4ea7639d"
   }
 }

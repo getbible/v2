@@ -10,7 +10,7 @@
     "book_name": "Esther (Greek)",
     "chapter": 10,
     "name": "Esther (Greek) 10",
-    "url": "https://getbible.net/v2/pyharaamattu1933/71/10.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/71/10.json",
     "sha": "383ec3c19c564714eb09a76cc80ae6a3c4784179"
   },
   "11": {
@@ -24,7 +24,7 @@
     "book_name": "Esther (Greek)",
     "chapter": 11,
     "name": "Esther (Greek) 11",
-    "url": "https://getbible.net/v2/pyharaamattu1933/71/11.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/71/11.json",
     "sha": "28790cb959bf59ac6b95c820a4928ddeba679139"
   },
   "13": {
@@ -38,7 +38,7 @@
     "book_name": "Esther (Greek)",
     "chapter": 13,
     "name": "Esther (Greek) 13",
-    "url": "https://getbible.net/v2/pyharaamattu1933/71/13.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/71/13.json",
     "sha": "9ca4d96357c89d422a0d4b2bf58649f0144f4a44"
   },
   "14": {
@@ -52,7 +52,7 @@
     "book_name": "Esther (Greek)",
     "chapter": 14,
     "name": "Esther (Greek) 14",
-    "url": "https://getbible.net/v2/pyharaamattu1933/71/14.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/71/14.json",
     "sha": "43ca10f4322b347d663a552be1b4d0aa9615497c"
   },
   "15": {
@@ -66,7 +66,7 @@
     "book_name": "Esther (Greek)",
     "chapter": 15,
     "name": "Esther (Greek) 15",
-    "url": "https://getbible.net/v2/pyharaamattu1933/71/15.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/71/15.json",
     "sha": "e2fa312603d70dc57036578770d1517d0f800adc"
   },
   "16": {
@@ -80,7 +80,7 @@
     "book_name": "Esther (Greek)",
     "chapter": 16,
     "name": "Esther (Greek) 16",
-    "url": "https://getbible.net/v2/pyharaamattu1933/71/16.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/71/16.json",
     "sha": "9ffbbac66692e491874dddd4aa6a63b050d0397f"
   }
 }

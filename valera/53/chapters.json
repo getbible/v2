@@ -10,7 +10,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
-    "url": "https://getbible.net/v2/valera/53/1.json",
+    "url": "https://api.getbible.net/v2/valera/53/1.json",
     "sha": "cd0157761ad70926619a1a638207c54b64008455"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
-    "url": "https://getbible.net/v2/valera/53/2.json",
+    "url": "https://api.getbible.net/v2/valera/53/2.json",
     "sha": "0f1f59f5cdfc0717112791ecb3ef6f669ea3668b"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
-    "url": "https://getbible.net/v2/valera/53/3.json",
+    "url": "https://api.getbible.net/v2/valera/53/3.json",
     "sha": "c17882d072f3091719021a6a319796335954e889"
   }
 }

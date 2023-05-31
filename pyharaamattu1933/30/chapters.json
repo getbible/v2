@@ -10,7 +10,7 @@
     "book_name": "Amos",
     "chapter": 1,
     "name": "Amos 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/1.json",
     "sha": "355935caea95d2e33074e495f1a9b001bd372e2a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Amos",
     "chapter": 2,
     "name": "Amos 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/2.json",
     "sha": "457a3c82010c1113f15e3c4d9c491e9bd8e3b910"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Amos",
     "chapter": 3,
     "name": "Amos 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/3.json",
     "sha": "974c2d78c13b2262110c2451e73aae37c50fa462"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Amos",
     "chapter": 4,
     "name": "Amos 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/4.json",
     "sha": "7eaad42f27d7975d7d2dd4bbf8b3ad80ddacaf2d"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Amos",
     "chapter": 5,
     "name": "Amos 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/5.json",
     "sha": "aa531a47150ec34a53b864f6d50c3e4cbf3e0cef"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Amos",
     "chapter": 6,
     "name": "Amos 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/6.json",
     "sha": "17eba2072099eaff495509d2c831e54c96151db8"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Amos",
     "chapter": 7,
     "name": "Amos 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/7.json",
     "sha": "5f72af77d66666f5d106950e892f4fcf0a94047b"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Amos",
     "chapter": 8,
     "name": "Amos 8",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/8.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/8.json",
     "sha": "4966e7a536397940ec836cfc2e9e0bf242e79d8b"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Amos",
     "chapter": 9,
     "name": "Amos 9",
-    "url": "https://getbible.net/v2/pyharaamattu1933/30/9.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/30/9.json",
     "sha": "69bfb35e14eaf4c659a9bd9fd0c6e0c8452966f8"
   }
 }

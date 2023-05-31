@@ -10,7 +10,7 @@
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
-    "url": "https://getbible.net/v2/mal1910/39/1.json",
+    "url": "https://api.getbible.net/v2/mal1910/39/1.json",
     "sha": "d50dcdd5f1e4bbeb66f092651b36d6803343d83b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
-    "url": "https://getbible.net/v2/mal1910/39/2.json",
+    "url": "https://api.getbible.net/v2/mal1910/39/2.json",
     "sha": "aeac3d78a420ff13d71973eeff0366439f6d53fc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
-    "url": "https://getbible.net/v2/mal1910/39/3.json",
+    "url": "https://api.getbible.net/v2/mal1910/39/3.json",
     "sha": "da4e08fb6af9e930e9732b53c50ea35aa5676f1d"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Malachi",
     "chapter": 4,
     "name": "Malachi 4",
-    "url": "https://getbible.net/v2/mal1910/39/4.json",
+    "url": "https://api.getbible.net/v2/mal1910/39/4.json",
     "sha": "1f5e0753bdad04cbabe6a62c6656a0b62d079f1f"
   }
 }

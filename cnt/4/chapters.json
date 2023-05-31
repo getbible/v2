@@ -10,7 +10,7 @@
     "book_name": "民數記",
     "chapter": 1,
     "name": "民數記 1",
-    "url": "https://getbible.net/v2/cnt/4/1.json",
+    "url": "https://api.getbible.net/v2/cnt/4/1.json",
     "sha": "d9540413eb2674fd27b345161e875314d8b7fb22"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "民數記",
     "chapter": 2,
     "name": "民數記 2",
-    "url": "https://getbible.net/v2/cnt/4/2.json",
+    "url": "https://api.getbible.net/v2/cnt/4/2.json",
     "sha": "8d652964b52f4859f2dceef3325f9aa79c55f5bf"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "民數記",
     "chapter": 3,
     "name": "民數記 3",
-    "url": "https://getbible.net/v2/cnt/4/3.json",
+    "url": "https://api.getbible.net/v2/cnt/4/3.json",
     "sha": "0395be511f9efa36455bb2deb680c63fa4ffa6b5"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "民數記",
     "chapter": 4,
     "name": "民數記 4",
-    "url": "https://getbible.net/v2/cnt/4/4.json",
+    "url": "https://api.getbible.net/v2/cnt/4/4.json",
     "sha": "ccf7471710d6e74d1cdffbafdb6ee306c600a4f0"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "民數記",
     "chapter": 5,
     "name": "民數記 5",
-    "url": "https://getbible.net/v2/cnt/4/5.json",
+    "url": "https://api.getbible.net/v2/cnt/4/5.json",
     "sha": "ff25d8d8bbcb82cbd32f3f6d8d3c98982481a902"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "民數記",
     "chapter": 6,
     "name": "民數記 6",
-    "url": "https://getbible.net/v2/cnt/4/6.json",
+    "url": "https://api.getbible.net/v2/cnt/4/6.json",
     "sha": "465ee5076fd5c65cfa8727442af700db5d0bb94d"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "民數記",
     "chapter": 7,
     "name": "民數記 7",
-    "url": "https://getbible.net/v2/cnt/4/7.json",
+    "url": "https://api.getbible.net/v2/cnt/4/7.json",
     "sha": "916a5f569516cf5f085243b938fb2d04a8691847"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "民數記",
     "chapter": 8,
     "name": "民數記 8",
-    "url": "https://getbible.net/v2/cnt/4/8.json",
+    "url": "https://api.getbible.net/v2/cnt/4/8.json",
     "sha": "214973b1bc772758d492669dd8bb5d30d79a6011"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "民數記",
     "chapter": 9,
     "name": "民數記 9",
-    "url": "https://getbible.net/v2/cnt/4/9.json",
+    "url": "https://api.getbible.net/v2/cnt/4/9.json",
     "sha": "9413f83149b9f2faac9979fe8d90a86921299e44"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "民數記",
     "chapter": 10,
     "name": "民數記 10",
-    "url": "https://getbible.net/v2/cnt/4/10.json",
+    "url": "https://api.getbible.net/v2/cnt/4/10.json",
     "sha": "1747deac2f82e5abedda9b43ca55cc6ef83e84a0"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "民數記",
     "chapter": 11,
     "name": "民數記 11",
-    "url": "https://getbible.net/v2/cnt/4/11.json",
+    "url": "https://api.getbible.net/v2/cnt/4/11.json",
     "sha": "c70a147f7bbc0a85d02f20212c2afa67b8074a99"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "民數記",
     "chapter": 12,
     "name": "民數記 12",
-    "url": "https://getbible.net/v2/cnt/4/12.json",
+    "url": "https://api.getbible.net/v2/cnt/4/12.json",
     "sha": "56fb78c14d59ad1e2494ed916cca6c79d459bd64"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "民數記",
     "chapter": 13,
     "name": "民數記 13",
-    "url": "https://getbible.net/v2/cnt/4/13.json",
+    "url": "https://api.getbible.net/v2/cnt/4/13.json",
     "sha": "136945e2a2313b25b1cb160ccb34b581f3fc4a9b"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "民數記",
     "chapter": 14,
     "name": "民數記 14",
-    "url": "https://getbible.net/v2/cnt/4/14.json",
+    "url": "https://api.getbible.net/v2/cnt/4/14.json",
     "sha": "dab77ef85e826d401d6da13620ce7befc305d615"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "民數記",
     "chapter": 15,
     "name": "民數記 15",
-    "url": "https://getbible.net/v2/cnt/4/15.json",
+    "url": "https://api.getbible.net/v2/cnt/4/15.json",
     "sha": "aefa6bf9dcf7700feb07342f22f6450bef462226"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "民數記",
     "chapter": 16,
     "name": "民數記 16",
-    "url": "https://getbible.net/v2/cnt/4/16.json",
+    "url": "https://api.getbible.net/v2/cnt/4/16.json",
     "sha": "af59c7624f1371720f871a41658991ec9ca9d1d8"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "民數記",
     "chapter": 17,
     "name": "民數記 17",
-    "url": "https://getbible.net/v2/cnt/4/17.json",
+    "url": "https://api.getbible.net/v2/cnt/4/17.json",
     "sha": "ef64e7368e3eda749b8bba6d5e1ccfa30896cf35"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "民數記",
     "chapter": 18,
     "name": "民數記 18",
-    "url": "https://getbible.net/v2/cnt/4/18.json",
+    "url": "https://api.getbible.net/v2/cnt/4/18.json",
     "sha": "e62213b280005e7405655a94e3c0d9c2563f3de3"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "民數記",
     "chapter": 19,
     "name": "民數記 19",
-    "url": "https://getbible.net/v2/cnt/4/19.json",
+    "url": "https://api.getbible.net/v2/cnt/4/19.json",
     "sha": "a48daf39e636c6c0f72ffe3cee715b37bdf45c3f"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "民數記",
     "chapter": 20,
     "name": "民數記 20",
-    "url": "https://getbible.net/v2/cnt/4/20.json",
+    "url": "https://api.getbible.net/v2/cnt/4/20.json",
     "sha": "720e36b5c382a712e908666a4b9b9cb52f180861"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "民數記",
     "chapter": 21,
     "name": "民數記 21",
-    "url": "https://getbible.net/v2/cnt/4/21.json",
+    "url": "https://api.getbible.net/v2/cnt/4/21.json",
     "sha": "4bc23fe3295ce1d07c4f8aa9599c4cdccc7c2718"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "民數記",
     "chapter": 22,
     "name": "民數記 22",
-    "url": "https://getbible.net/v2/cnt/4/22.json",
+    "url": "https://api.getbible.net/v2/cnt/4/22.json",
     "sha": "2ef72012bfe9f72bed04e2b89da6d9d4cef1f5bc"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "民數記",
     "chapter": 23,
     "name": "民數記 23",
-    "url": "https://getbible.net/v2/cnt/4/23.json",
+    "url": "https://api.getbible.net/v2/cnt/4/23.json",
     "sha": "3b690bb2857d4683634551a2334538cedef4360e"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "民數記",
     "chapter": 24,
     "name": "民數記 24",
-    "url": "https://getbible.net/v2/cnt/4/24.json",
+    "url": "https://api.getbible.net/v2/cnt/4/24.json",
     "sha": "f72170acf2958c95da095bae8125c8026b848370"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "民數記",
     "chapter": 25,
     "name": "民數記 25",
-    "url": "https://getbible.net/v2/cnt/4/25.json",
+    "url": "https://api.getbible.net/v2/cnt/4/25.json",
     "sha": "6fac49cb381db73e470f413e3517e1478ac265cc"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "民數記",
     "chapter": 26,
     "name": "民數記 26",
-    "url": "https://getbible.net/v2/cnt/4/26.json",
+    "url": "https://api.getbible.net/v2/cnt/4/26.json",
     "sha": "170bcbd559a42b4e2561d6f88d1b444c8da7d046"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "民數記",
     "chapter": 27,
     "name": "民數記 27",
-    "url": "https://getbible.net/v2/cnt/4/27.json",
+    "url": "https://api.getbible.net/v2/cnt/4/27.json",
     "sha": "c8fc70c3ec50a7fa31290c1e343b92637bf7c0ad"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "民數記",
     "chapter": 28,
     "name": "民數記 28",
-    "url": "https://getbible.net/v2/cnt/4/28.json",
+    "url": "https://api.getbible.net/v2/cnt/4/28.json",
     "sha": "04691faf5bb4136063325a76bd9303b87ba41bbc"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "民數記",
     "chapter": 29,
     "name": "民數記 29",
-    "url": "https://getbible.net/v2/cnt/4/29.json",
+    "url": "https://api.getbible.net/v2/cnt/4/29.json",
     "sha": "c2a56bffac96145ff7005d93aa853ffefbddafc1"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "民數記",
     "chapter": 30,
     "name": "民數記 30",
-    "url": "https://getbible.net/v2/cnt/4/30.json",
+    "url": "https://api.getbible.net/v2/cnt/4/30.json",
     "sha": "46e79712f5d9f8e1a55f7d7259521b362f812bbc"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "民數記",
     "chapter": 31,
     "name": "民數記 31",
-    "url": "https://getbible.net/v2/cnt/4/31.json",
+    "url": "https://api.getbible.net/v2/cnt/4/31.json",
     "sha": "e451dcc766898a42dd6c525620628a294cecfed4"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "民數記",
     "chapter": 32,
     "name": "民數記 32",
-    "url": "https://getbible.net/v2/cnt/4/32.json",
+    "url": "https://api.getbible.net/v2/cnt/4/32.json",
     "sha": "91db2eefcbbbc3b8f319e100b82ca361922a47eb"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "民數記",
     "chapter": 33,
     "name": "民數記 33",
-    "url": "https://getbible.net/v2/cnt/4/33.json",
+    "url": "https://api.getbible.net/v2/cnt/4/33.json",
     "sha": "693f902cfb7a6430e86574cfefee02ac576802f7"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "民數記",
     "chapter": 34,
     "name": "民數記 34",
-    "url": "https://getbible.net/v2/cnt/4/34.json",
+    "url": "https://api.getbible.net/v2/cnt/4/34.json",
     "sha": "d1f8f866592e6372d7be705a2f2c09ecac7854a7"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "民數記",
     "chapter": 35,
     "name": "民數記 35",
-    "url": "https://getbible.net/v2/cnt/4/35.json",
+    "url": "https://api.getbible.net/v2/cnt/4/35.json",
     "sha": "4a665aa99eacca2d64bfe1ae3391756aedab8f98"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "民數記",
     "chapter": 36,
     "name": "民數記 36",
-    "url": "https://getbible.net/v2/cnt/4/36.json",
+    "url": "https://api.getbible.net/v2/cnt/4/36.json",
     "sha": "1a3611d04f1224856eb500b3f15074e50fb3ff20"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Genesis",
     "chapter": 1,
     "name": "Genesis 1",
-    "url": "https://getbible.net/v2/codex/1/1.json",
+    "url": "https://api.getbible.net/v2/codex/1/1.json",
     "sha": "63354c6d8527a1deafd90e12aacabeac6dcde554"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Genesis",
     "chapter": 2,
     "name": "Genesis 2",
-    "url": "https://getbible.net/v2/codex/1/2.json",
+    "url": "https://api.getbible.net/v2/codex/1/2.json",
     "sha": "34bd02c6a729e5ea3795a0f5a332eb9caf53461c"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Genesis",
     "chapter": 3,
     "name": "Genesis 3",
-    "url": "https://getbible.net/v2/codex/1/3.json",
+    "url": "https://api.getbible.net/v2/codex/1/3.json",
     "sha": "38234b529999799fb6970c82dc4adeb2520833bd"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Genesis",
     "chapter": 4,
     "name": "Genesis 4",
-    "url": "https://getbible.net/v2/codex/1/4.json",
+    "url": "https://api.getbible.net/v2/codex/1/4.json",
     "sha": "f7067f3285d6806bf8697a6bdb08483becc7de41"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Genesis",
     "chapter": 5,
     "name": "Genesis 5",
-    "url": "https://getbible.net/v2/codex/1/5.json",
+    "url": "https://api.getbible.net/v2/codex/1/5.json",
     "sha": "9359018c6f1b59698bae6b6eeeeff93150a85ecd"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Genesis",
     "chapter": 6,
     "name": "Genesis 6",
-    "url": "https://getbible.net/v2/codex/1/6.json",
+    "url": "https://api.getbible.net/v2/codex/1/6.json",
     "sha": "6b44619dde440fdca1591f57ff35684fc032c2a4"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Genesis",
     "chapter": 7,
     "name": "Genesis 7",
-    "url": "https://getbible.net/v2/codex/1/7.json",
+    "url": "https://api.getbible.net/v2/codex/1/7.json",
     "sha": "d073ab8c03bef4b07298b1168177df536aa24a94"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Genesis",
     "chapter": 8,
     "name": "Genesis 8",
-    "url": "https://getbible.net/v2/codex/1/8.json",
+    "url": "https://api.getbible.net/v2/codex/1/8.json",
     "sha": "f08eeff8a51c37e8c4d2719c734421d7bec42445"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Genesis",
     "chapter": 9,
     "name": "Genesis 9",
-    "url": "https://getbible.net/v2/codex/1/9.json",
+    "url": "https://api.getbible.net/v2/codex/1/9.json",
     "sha": "84993d811158821db827e4bffd33962198593aa7"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Genesis",
     "chapter": 10,
     "name": "Genesis 10",
-    "url": "https://getbible.net/v2/codex/1/10.json",
+    "url": "https://api.getbible.net/v2/codex/1/10.json",
     "sha": "13553b126bb547e22462709ced5b015e0b67422d"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Genesis",
     "chapter": 11,
     "name": "Genesis 11",
-    "url": "https://getbible.net/v2/codex/1/11.json",
+    "url": "https://api.getbible.net/v2/codex/1/11.json",
     "sha": "3e599529df781afc4dafe54a8a1aa1cc986ef4cc"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Genesis",
     "chapter": 12,
     "name": "Genesis 12",
-    "url": "https://getbible.net/v2/codex/1/12.json",
+    "url": "https://api.getbible.net/v2/codex/1/12.json",
     "sha": "31e6da8dc8a82c89ee0d21a33f366cdd4548401a"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Genesis",
     "chapter": 13,
     "name": "Genesis 13",
-    "url": "https://getbible.net/v2/codex/1/13.json",
+    "url": "https://api.getbible.net/v2/codex/1/13.json",
     "sha": "cf98f47d5219af1eacf8a20baf463bac897ac502"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Genesis",
     "chapter": 14,
     "name": "Genesis 14",
-    "url": "https://getbible.net/v2/codex/1/14.json",
+    "url": "https://api.getbible.net/v2/codex/1/14.json",
     "sha": "9bf627c6537b1ef038ce7f43ad71bfd0d172fee8"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Genesis",
     "chapter": 15,
     "name": "Genesis 15",
-    "url": "https://getbible.net/v2/codex/1/15.json",
+    "url": "https://api.getbible.net/v2/codex/1/15.json",
     "sha": "ab20c4a5c8a5323db047da607b82ceb1a404157a"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Genesis",
     "chapter": 16,
     "name": "Genesis 16",
-    "url": "https://getbible.net/v2/codex/1/16.json",
+    "url": "https://api.getbible.net/v2/codex/1/16.json",
     "sha": "4097f1c8f42b9d0a20f268d0774d874b21c28733"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Genesis",
     "chapter": 17,
     "name": "Genesis 17",
-    "url": "https://getbible.net/v2/codex/1/17.json",
+    "url": "https://api.getbible.net/v2/codex/1/17.json",
     "sha": "53eb2708580bf80c372e460ff8d9109fef3ab94c"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Genesis",
     "chapter": 18,
     "name": "Genesis 18",
-    "url": "https://getbible.net/v2/codex/1/18.json",
+    "url": "https://api.getbible.net/v2/codex/1/18.json",
     "sha": "4d491742cd9a2c269925f8c8d6001a6300663a31"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Genesis",
     "chapter": 19,
     "name": "Genesis 19",
-    "url": "https://getbible.net/v2/codex/1/19.json",
+    "url": "https://api.getbible.net/v2/codex/1/19.json",
     "sha": "3e829e57e2780aa5852fac4e118faba28ec3d7bc"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Genesis",
     "chapter": 20,
     "name": "Genesis 20",
-    "url": "https://getbible.net/v2/codex/1/20.json",
+    "url": "https://api.getbible.net/v2/codex/1/20.json",
     "sha": "ebd601256a541804efacafc6c9b4d38d14c61c04"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Genesis",
     "chapter": 21,
     "name": "Genesis 21",
-    "url": "https://getbible.net/v2/codex/1/21.json",
+    "url": "https://api.getbible.net/v2/codex/1/21.json",
     "sha": "8eb85932b0b01a69d657033a28c778def24aa92c"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Genesis",
     "chapter": 22,
     "name": "Genesis 22",
-    "url": "https://getbible.net/v2/codex/1/22.json",
+    "url": "https://api.getbible.net/v2/codex/1/22.json",
     "sha": "7858df9230ba01172d5c9cb2263218f4c4f48452"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Genesis",
     "chapter": 23,
     "name": "Genesis 23",
-    "url": "https://getbible.net/v2/codex/1/23.json",
+    "url": "https://api.getbible.net/v2/codex/1/23.json",
     "sha": "253d46d094b0f4be9b1b16981d2eb4a2c157a726"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Genesis",
     "chapter": 24,
     "name": "Genesis 24",
-    "url": "https://getbible.net/v2/codex/1/24.json",
+    "url": "https://api.getbible.net/v2/codex/1/24.json",
     "sha": "526897b6eb78e66d1303ef300fb41fb69a4cb498"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Genesis",
     "chapter": 25,
     "name": "Genesis 25",
-    "url": "https://getbible.net/v2/codex/1/25.json",
+    "url": "https://api.getbible.net/v2/codex/1/25.json",
     "sha": "6e8beab731cdd26255b1402bb9530fa2d844c1a2"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Genesis",
     "chapter": 26,
     "name": "Genesis 26",
-    "url": "https://getbible.net/v2/codex/1/26.json",
+    "url": "https://api.getbible.net/v2/codex/1/26.json",
     "sha": "462bde387ace3ad2afdd9941dbc409ed5899f25d"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Genesis",
     "chapter": 27,
     "name": "Genesis 27",
-    "url": "https://getbible.net/v2/codex/1/27.json",
+    "url": "https://api.getbible.net/v2/codex/1/27.json",
     "sha": "8887e1ab73071aed593b30ad4383110da264a434"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Genesis",
     "chapter": 28,
     "name": "Genesis 28",
-    "url": "https://getbible.net/v2/codex/1/28.json",
+    "url": "https://api.getbible.net/v2/codex/1/28.json",
     "sha": "4be07da85359c3c63da5c8fc0f1c742e989b972b"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Genesis",
     "chapter": 29,
     "name": "Genesis 29",
-    "url": "https://getbible.net/v2/codex/1/29.json",
+    "url": "https://api.getbible.net/v2/codex/1/29.json",
     "sha": "e44313dc47a89ef5b5ce4cb7762cd694d1d263a5"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Genesis",
     "chapter": 30,
     "name": "Genesis 30",
-    "url": "https://getbible.net/v2/codex/1/30.json",
+    "url": "https://api.getbible.net/v2/codex/1/30.json",
     "sha": "9f8c29fa23005dd376fb96f097d7481aafe56558"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Genesis",
     "chapter": 31,
     "name": "Genesis 31",
-    "url": "https://getbible.net/v2/codex/1/31.json",
+    "url": "https://api.getbible.net/v2/codex/1/31.json",
     "sha": "b415b8f046692c514961d11ac92042ff12628c91"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Genesis",
     "chapter": 32,
     "name": "Genesis 32",
-    "url": "https://getbible.net/v2/codex/1/32.json",
+    "url": "https://api.getbible.net/v2/codex/1/32.json",
     "sha": "58627eb21f4d979e34fa4537e162c82031625f43"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Genesis",
     "chapter": 33,
     "name": "Genesis 33",
-    "url": "https://getbible.net/v2/codex/1/33.json",
+    "url": "https://api.getbible.net/v2/codex/1/33.json",
     "sha": "41d6c8535be6e6c53501a36cdc1afb5c38d70db7"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Genesis",
     "chapter": 34,
     "name": "Genesis 34",
-    "url": "https://getbible.net/v2/codex/1/34.json",
+    "url": "https://api.getbible.net/v2/codex/1/34.json",
     "sha": "6ee66b2ea4ecb927e8037d9313d2260419cf8b39"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Genesis",
     "chapter": 35,
     "name": "Genesis 35",
-    "url": "https://getbible.net/v2/codex/1/35.json",
+    "url": "https://api.getbible.net/v2/codex/1/35.json",
     "sha": "65f72515f5adfe07bbf921e92c5f71a00e4a909f"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Genesis",
     "chapter": 36,
     "name": "Genesis 36",
-    "url": "https://getbible.net/v2/codex/1/36.json",
+    "url": "https://api.getbible.net/v2/codex/1/36.json",
     "sha": "ad2bddc13a661c08bad29f98cfc8f11a2cf1ef64"
   },
   "37": {
@@ -514,7 +514,7 @@
     "book_name": "Genesis",
     "chapter": 37,
     "name": "Genesis 37",
-    "url": "https://getbible.net/v2/codex/1/37.json",
+    "url": "https://api.getbible.net/v2/codex/1/37.json",
     "sha": "a96d66288aa7bfd6702ce0459ff4109272cb42e9"
   },
   "38": {
@@ -528,7 +528,7 @@
     "book_name": "Genesis",
     "chapter": 38,
     "name": "Genesis 38",
-    "url": "https://getbible.net/v2/codex/1/38.json",
+    "url": "https://api.getbible.net/v2/codex/1/38.json",
     "sha": "a738969dca86650a0da121975ba82d88900648f0"
   },
   "39": {
@@ -542,7 +542,7 @@
     "book_name": "Genesis",
     "chapter": 39,
     "name": "Genesis 39",
-    "url": "https://getbible.net/v2/codex/1/39.json",
+    "url": "https://api.getbible.net/v2/codex/1/39.json",
     "sha": "b11b2c4f0955f36cca0926144f1c14865614293f"
   },
   "40": {
@@ -556,7 +556,7 @@
     "book_name": "Genesis",
     "chapter": 40,
     "name": "Genesis 40",
-    "url": "https://getbible.net/v2/codex/1/40.json",
+    "url": "https://api.getbible.net/v2/codex/1/40.json",
     "sha": "1338c2bea7c81a218e0a8e6aecac7a435063e5c7"
   },
   "41": {
@@ -570,7 +570,7 @@
     "book_name": "Genesis",
     "chapter": 41,
     "name": "Genesis 41",
-    "url": "https://getbible.net/v2/codex/1/41.json",
+    "url": "https://api.getbible.net/v2/codex/1/41.json",
     "sha": "25ea7af99e01d14a0a81df5b31ae05513b9471ed"
   },
   "42": {
@@ -584,7 +584,7 @@
     "book_name": "Genesis",
     "chapter": 42,
     "name": "Genesis 42",
-    "url": "https://getbible.net/v2/codex/1/42.json",
+    "url": "https://api.getbible.net/v2/codex/1/42.json",
     "sha": "b36c33b2862dd136ff6b874bc4e3fd1a51493bb7"
   },
   "43": {
@@ -598,7 +598,7 @@
     "book_name": "Genesis",
     "chapter": 43,
     "name": "Genesis 43",
-    "url": "https://getbible.net/v2/codex/1/43.json",
+    "url": "https://api.getbible.net/v2/codex/1/43.json",
     "sha": "d5f1b2157899fdd46b72c079bef3adc3c4328455"
   },
   "44": {
@@ -612,7 +612,7 @@
     "book_name": "Genesis",
     "chapter": 44,
     "name": "Genesis 44",
-    "url": "https://getbible.net/v2/codex/1/44.json",
+    "url": "https://api.getbible.net/v2/codex/1/44.json",
     "sha": "eaab02f64833e16f019800f4f164175b17660dcf"
   },
   "45": {
@@ -626,7 +626,7 @@
     "book_name": "Genesis",
     "chapter": 45,
     "name": "Genesis 45",
-    "url": "https://getbible.net/v2/codex/1/45.json",
+    "url": "https://api.getbible.net/v2/codex/1/45.json",
     "sha": "2e304b8b713f5feec03f9796031082b72a49dfa1"
   },
   "46": {
@@ -640,7 +640,7 @@
     "book_name": "Genesis",
     "chapter": 46,
     "name": "Genesis 46",
-    "url": "https://getbible.net/v2/codex/1/46.json",
+    "url": "https://api.getbible.net/v2/codex/1/46.json",
     "sha": "0988dd0e4c2a966fbc5c17e43cfdbac7d9205117"
   },
   "47": {
@@ -654,7 +654,7 @@
     "book_name": "Genesis",
     "chapter": 47,
     "name": "Genesis 47",
-    "url": "https://getbible.net/v2/codex/1/47.json",
+    "url": "https://api.getbible.net/v2/codex/1/47.json",
     "sha": "f985ef71db284ebf1a601fefd0cc8c3aa1df2534"
   },
   "48": {
@@ -668,7 +668,7 @@
     "book_name": "Genesis",
     "chapter": 48,
     "name": "Genesis 48",
-    "url": "https://getbible.net/v2/codex/1/48.json",
+    "url": "https://api.getbible.net/v2/codex/1/48.json",
     "sha": "50592be0e04c238d3a018fbfde591122b17746eb"
   },
   "49": {
@@ -682,7 +682,7 @@
     "book_name": "Genesis",
     "chapter": 49,
     "name": "Genesis 49",
-    "url": "https://getbible.net/v2/codex/1/49.json",
+    "url": "https://api.getbible.net/v2/codex/1/49.json",
     "sha": "7aea945a94546399aa934cc2b26d14c9b75def1b"
   },
   "50": {
@@ -696,7 +696,7 @@
     "book_name": "Genesis",
     "chapter": 50,
     "name": "Genesis 50",
-    "url": "https://getbible.net/v2/codex/1/50.json",
+    "url": "https://api.getbible.net/v2/codex/1/50.json",
     "sha": "25813fe0517578049ed70863bba93ecb31b43098"
   }
 }

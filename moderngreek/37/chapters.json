@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/moderngreek/37/1.json",
+    "url": "https://api.getbible.net/v2/moderngreek/37/1.json",
     "sha": "511e1a58fc753aa1f8e32eca0e5490fdb5ac0f6d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/moderngreek/37/2.json",
+    "url": "https://api.getbible.net/v2/moderngreek/37/2.json",
     "sha": "db59d0d72656372c2477889d8a5bfadd41feec02"
   }
 }

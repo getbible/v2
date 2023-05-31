@@ -8,7 +8,7 @@
     "encoding": "UTF-8",
     "nr": 40,
     "name": "Matthew",
-    "url": "https://getbible.net/v2/textusreceptus/40.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40.json",
     "sha": "62a7ad083f1e818f35655fb5c9f69f63d6d322cf"
   },
   "41": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "nr": 41,
     "name": "Mark",
-    "url": "https://getbible.net/v2/textusreceptus/41.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41.json",
     "sha": "1bea1387eea530160d131eaeb9562c53f4aa9029"
   },
   "42": {
@@ -32,7 +32,7 @@
     "encoding": "UTF-8",
     "nr": 42,
     "name": "Luke",
-    "url": "https://getbible.net/v2/textusreceptus/42.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/42.json",
     "sha": "76a1a551fdfdc68b6b139e20a9ff4a2f44228717"
   },
   "43": {
@@ -44,7 +44,7 @@
     "encoding": "UTF-8",
     "nr": 43,
     "name": "John",
-    "url": "https://getbible.net/v2/textusreceptus/43.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/43.json",
     "sha": "2cea1b3aaccf2ecd0325d67c7be3d1d5172e29bc"
   },
   "44": {
@@ -56,7 +56,7 @@
     "encoding": "UTF-8",
     "nr": 44,
     "name": "Acts",
-    "url": "https://getbible.net/v2/textusreceptus/44.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/44.json",
     "sha": "50ce97f31a636fb4b5c7f5f57fe26b31f8edf2c6"
   },
   "45": {
@@ -68,7 +68,7 @@
     "encoding": "UTF-8",
     "nr": 45,
     "name": "Romans",
-    "url": "https://getbible.net/v2/textusreceptus/45.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/45.json",
     "sha": "c22e1f9fbdda3abdcff36595293bac43435ff903"
   },
   "46": {
@@ -80,7 +80,7 @@
     "encoding": "UTF-8",
     "nr": 46,
     "name": "1 Corinthians",
-    "url": "https://getbible.net/v2/textusreceptus/46.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/46.json",
     "sha": "8a053bac4442f5b82efcfe638c2019362f924622"
   },
   "47": {
@@ -92,7 +92,7 @@
     "encoding": "UTF-8",
     "nr": 47,
     "name": "2 Corinthians",
-    "url": "https://getbible.net/v2/textusreceptus/47.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/47.json",
     "sha": "4a23a2b4dc9e35bcc547bced053016c25354ed62"
   },
   "48": {
@@ -104,7 +104,7 @@
     "encoding": "UTF-8",
     "nr": 48,
     "name": "Galatians",
-    "url": "https://getbible.net/v2/textusreceptus/48.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/48.json",
     "sha": "47451a987c97d88ed40a76e8827c4f9182a245f8"
   },
   "49": {
@@ -116,7 +116,7 @@
     "encoding": "UTF-8",
     "nr": 49,
     "name": "Ephesians",
-    "url": "https://getbible.net/v2/textusreceptus/49.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/49.json",
     "sha": "ba893ce3e7cd61cb5da67808547d1eadd0e4df1e"
   },
   "50": {
@@ -128,7 +128,7 @@
     "encoding": "UTF-8",
     "nr": 50,
     "name": "Philippians",
-    "url": "https://getbible.net/v2/textusreceptus/50.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/50.json",
     "sha": "c3190a353f939b35823baadefe0b71608c9bd1f3"
   },
   "51": {
@@ -140,7 +140,7 @@
     "encoding": "UTF-8",
     "nr": 51,
     "name": "Colossians",
-    "url": "https://getbible.net/v2/textusreceptus/51.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/51.json",
     "sha": "588dbde2424a796de7564a3c8c0dc48f6e98b47b"
   },
   "52": {
@@ -152,7 +152,7 @@
     "encoding": "UTF-8",
     "nr": 52,
     "name": "1 Thessalonians",
-    "url": "https://getbible.net/v2/textusreceptus/52.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/52.json",
     "sha": "893ce10dc1c64f07a1edf6b799a69d6c396c4d74"
   },
   "53": {
@@ -164,7 +164,7 @@
     "encoding": "UTF-8",
     "nr": 53,
     "name": "2 Thessalonians",
-    "url": "https://getbible.net/v2/textusreceptus/53.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/53.json",
     "sha": "41e5ea29f361b49a185ad26762ecce15d19d0802"
   },
   "54": {
@@ -176,7 +176,7 @@
     "encoding": "UTF-8",
     "nr": 54,
     "name": "1 Timothy",
-    "url": "https://getbible.net/v2/textusreceptus/54.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/54.json",
     "sha": "5506b7092b59fe0297cf0c247e7aaa06ca6a5295"
   },
   "55": {
@@ -188,7 +188,7 @@
     "encoding": "UTF-8",
     "nr": 55,
     "name": "2 Timothy",
-    "url": "https://getbible.net/v2/textusreceptus/55.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/55.json",
     "sha": "c0eafb9ebb416c0308b0d0220e688d763d757f8a"
   },
   "56": {
@@ -200,7 +200,7 @@
     "encoding": "UTF-8",
     "nr": 56,
     "name": "Titus",
-    "url": "https://getbible.net/v2/textusreceptus/56.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/56.json",
     "sha": "e33000ff81ba948c81e6756ca90ba0c31e5b4869"
   },
   "57": {
@@ -212,7 +212,7 @@
     "encoding": "UTF-8",
     "nr": 57,
     "name": "Philemon",
-    "url": "https://getbible.net/v2/textusreceptus/57.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/57.json",
     "sha": "fb9de4402dbdeef2c629bddb209c7a36d860eae7"
   },
   "58": {
@@ -224,7 +224,7 @@
     "encoding": "UTF-8",
     "nr": 58,
     "name": "Hebrews",
-    "url": "https://getbible.net/v2/textusreceptus/58.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/58.json",
     "sha": "1bf45f42a761291d723ecf95c2f061fc608f8783"
   },
   "59": {
@@ -236,7 +236,7 @@
     "encoding": "UTF-8",
     "nr": 59,
     "name": "James",
-    "url": "https://getbible.net/v2/textusreceptus/59.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/59.json",
     "sha": "47a28417fd316b4a2145a6e3aacb1c2ecdcda2b6"
   },
   "60": {
@@ -248,7 +248,7 @@
     "encoding": "UTF-8",
     "nr": 60,
     "name": "1 Peter",
-    "url": "https://getbible.net/v2/textusreceptus/60.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/60.json",
     "sha": "018fd414a8f24652523156f968088eaf57ebecc3"
   },
   "61": {
@@ -260,7 +260,7 @@
     "encoding": "UTF-8",
     "nr": 61,
     "name": "2 Peter",
-    "url": "https://getbible.net/v2/textusreceptus/61.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/61.json",
     "sha": "e3f6134ded85d28bd856b3e6e32c476f348363af"
   },
   "62": {
@@ -272,7 +272,7 @@
     "encoding": "UTF-8",
     "nr": 62,
     "name": "1 John",
-    "url": "https://getbible.net/v2/textusreceptus/62.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/62.json",
     "sha": "4b88a96f2909f9954fd5130faf33579cf14db520"
   },
   "63": {
@@ -284,7 +284,7 @@
     "encoding": "UTF-8",
     "nr": 63,
     "name": "2 John",
-    "url": "https://getbible.net/v2/textusreceptus/63.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/63.json",
     "sha": "f87a868adeb7a357b555218d85ffd208567b8f27"
   },
   "64": {
@@ -296,7 +296,7 @@
     "encoding": "UTF-8",
     "nr": 64,
     "name": "3 John",
-    "url": "https://getbible.net/v2/textusreceptus/64.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/64.json",
     "sha": "0f2e8ff96b9a474e997f4a2e0279b1af590686ae"
   },
   "65": {
@@ -308,7 +308,7 @@
     "encoding": "UTF-8",
     "nr": 65,
     "name": "Jude",
-    "url": "https://getbible.net/v2/textusreceptus/65.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/65.json",
     "sha": "b9aa0f60e12ce6247278bc757ca9f0a1f7531d0a"
   },
   "66": {
@@ -320,7 +320,7 @@
     "encoding": "UTF-8",
     "nr": 66,
     "name": "Revelation",
-    "url": "https://getbible.net/v2/textusreceptus/66.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/66.json",
     "sha": "231dda9918eb425352af04311d6e7cf7573e7939"
   }
 }

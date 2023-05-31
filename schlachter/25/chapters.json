@@ -10,7 +10,7 @@
     "book_name": "Klagelieder",
     "chapter": 1,
     "name": "Klagelieder 1",
-    "url": "https://getbible.net/v2/schlachter/25/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/25/1.json",
     "sha": "631233cbd3d3ae90f5dbc49a1fe862686c9e551e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Klagelieder",
     "chapter": 2,
     "name": "Klagelieder 2",
-    "url": "https://getbible.net/v2/schlachter/25/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/25/2.json",
     "sha": "c23dc59fa6b9ec5557824f3647431366dcf041fc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Klagelieder",
     "chapter": 3,
     "name": "Klagelieder 3",
-    "url": "https://getbible.net/v2/schlachter/25/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/25/3.json",
     "sha": "beec6a172cdd7ea54791d001185927d0a817ff73"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Klagelieder",
     "chapter": 4,
     "name": "Klagelieder 4",
-    "url": "https://getbible.net/v2/schlachter/25/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/25/4.json",
     "sha": "5c33afd8dbb8957b641234e1818a81c462081100"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Klagelieder",
     "chapter": 5,
     "name": "Klagelieder 5",
-    "url": "https://getbible.net/v2/schlachter/25/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/25/5.json",
     "sha": "2bfddeddd90d6c3f758d8dbaa7923c1124d5da23"
   }
 }

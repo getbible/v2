@@ -10,7 +10,7 @@
     "book_name": "Mark",
     "chapter": 1,
     "name": "Mark 1",
-    "url": "https://getbible.net/v2/bkr/41/1.json",
+    "url": "https://api.getbible.net/v2/bkr/41/1.json",
     "sha": "77ba0bedef9509eecd0a714a65569a14277e4b7c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Mark",
     "chapter": 2,
     "name": "Mark 2",
-    "url": "https://getbible.net/v2/bkr/41/2.json",
+    "url": "https://api.getbible.net/v2/bkr/41/2.json",
     "sha": "4ea12d88c98750a1603919b7e2780a769a991cea"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Mark",
     "chapter": 3,
     "name": "Mark 3",
-    "url": "https://getbible.net/v2/bkr/41/3.json",
+    "url": "https://api.getbible.net/v2/bkr/41/3.json",
     "sha": "c63acb6643f362d06d0a54d125d3a63e82691131"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Mark",
     "chapter": 4,
     "name": "Mark 4",
-    "url": "https://getbible.net/v2/bkr/41/4.json",
+    "url": "https://api.getbible.net/v2/bkr/41/4.json",
     "sha": "8a900a644f488a728c3b4a37202f5dd2e9338c70"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Mark",
     "chapter": 5,
     "name": "Mark 5",
-    "url": "https://getbible.net/v2/bkr/41/5.json",
+    "url": "https://api.getbible.net/v2/bkr/41/5.json",
     "sha": "e2eb36aa9b2f2b36eb89a537e1f846c1ade49e98"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Mark",
     "chapter": 6,
     "name": "Mark 6",
-    "url": "https://getbible.net/v2/bkr/41/6.json",
+    "url": "https://api.getbible.net/v2/bkr/41/6.json",
     "sha": "f915f3a6848fcda142a451b050a2fcc16d3ab258"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Mark",
     "chapter": 7,
     "name": "Mark 7",
-    "url": "https://getbible.net/v2/bkr/41/7.json",
+    "url": "https://api.getbible.net/v2/bkr/41/7.json",
     "sha": "ed775bf27c9218709aecdfeeceb4de53b5e5a27b"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Mark",
     "chapter": 8,
     "name": "Mark 8",
-    "url": "https://getbible.net/v2/bkr/41/8.json",
+    "url": "https://api.getbible.net/v2/bkr/41/8.json",
     "sha": "9118318703809512d1e10c3a9765e2f5d58e3592"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Mark",
     "chapter": 9,
     "name": "Mark 9",
-    "url": "https://getbible.net/v2/bkr/41/9.json",
+    "url": "https://api.getbible.net/v2/bkr/41/9.json",
     "sha": "7cc36ce2f6b05c005464456d5a83a2ffe50a0b6c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Mark",
     "chapter": 10,
     "name": "Mark 10",
-    "url": "https://getbible.net/v2/bkr/41/10.json",
+    "url": "https://api.getbible.net/v2/bkr/41/10.json",
     "sha": "e8750af7d933b6835987b56f657a5dd39b1935a4"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Mark",
     "chapter": 11,
     "name": "Mark 11",
-    "url": "https://getbible.net/v2/bkr/41/11.json",
+    "url": "https://api.getbible.net/v2/bkr/41/11.json",
     "sha": "8530c4ee2fc1958cd65e6d008d2eec94f483c536"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Mark",
     "chapter": 12,
     "name": "Mark 12",
-    "url": "https://getbible.net/v2/bkr/41/12.json",
+    "url": "https://api.getbible.net/v2/bkr/41/12.json",
     "sha": "a96176547229777ecef00c491fd0e9c4cfc0174a"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Mark",
     "chapter": 13,
     "name": "Mark 13",
-    "url": "https://getbible.net/v2/bkr/41/13.json",
+    "url": "https://api.getbible.net/v2/bkr/41/13.json",
     "sha": "765bfe5c4acf1a19f19f43804d6e52eadd973c46"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Mark",
     "chapter": 14,
     "name": "Mark 14",
-    "url": "https://getbible.net/v2/bkr/41/14.json",
+    "url": "https://api.getbible.net/v2/bkr/41/14.json",
     "sha": "d323fde1436f94c624fffae9fc7e916667248d54"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Mark",
     "chapter": 15,
     "name": "Mark 15",
-    "url": "https://getbible.net/v2/bkr/41/15.json",
+    "url": "https://api.getbible.net/v2/bkr/41/15.json",
     "sha": "e335635e0b7c1bbb15a3f4a788c6e91218cbcb3e"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Mark",
     "chapter": 16,
     "name": "Mark 16",
-    "url": "https://getbible.net/v2/bkr/41/16.json",
+    "url": "https://api.getbible.net/v2/bkr/41/16.json",
     "sha": "371495502d6fa2b286800ca7d3a7fad92028cf59"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Titus",
     "chapter": 1,
     "name": "Titus 1",
-    "url": "https://getbible.net/v2/darby/56/1.json",
+    "url": "https://api.getbible.net/v2/darby/56/1.json",
     "sha": "82a6215c35fab322e96d48939001d0785e1e19a0"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Titus",
     "chapter": 2,
     "name": "Titus 2",
-    "url": "https://getbible.net/v2/darby/56/2.json",
+    "url": "https://api.getbible.net/v2/darby/56/2.json",
     "sha": "4a5cc98dfa4c2c47ef9e99579dff9b11a413fe27"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Titus",
     "chapter": 3,
     "name": "Titus 3",
-    "url": "https://getbible.net/v2/darby/56/3.json",
+    "url": "https://api.getbible.net/v2/darby/56/3.json",
     "sha": "617c1a60adb7098c0aa785bcb7e83096dbecad11"
   }
 }

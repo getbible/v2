@@ -10,7 +10,7 @@
     "book_name": "Hebrews",
     "chapter": 1,
     "name": "Hebrews 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/1.json",
     "sha": "c24a83ea31993aed6bda232f13ccbe39e42e31a0"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Hebrews",
     "chapter": 2,
     "name": "Hebrews 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/2.json",
     "sha": "3de0954c46d34921914085c2245ff5001c2ad1c9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Hebrews",
     "chapter": 3,
     "name": "Hebrews 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/3.json",
     "sha": "c75f4c97514e392994af561160d8e3b4e6cfcd59"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Hebrews",
     "chapter": 4,
     "name": "Hebrews 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/4.json",
     "sha": "da17d67887b8a75b680f4c25dda93be10d615357"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Hebrews",
     "chapter": 5,
     "name": "Hebrews 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/5.json",
     "sha": "fdda5ed916dcda11032e59f4b5897d8193639574"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Hebrews",
     "chapter": 6,
     "name": "Hebrews 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/6.json",
     "sha": "4bde781bf4ac4fe2e5d7ff2d3b7a407398f5e2cb"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Hebrews",
     "chapter": 7,
     "name": "Hebrews 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/7.json",
     "sha": "d39ed109a77687f6685e98a0d0f7c4c400b1b5a8"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Hebrews",
     "chapter": 8,
     "name": "Hebrews 8",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/8.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/8.json",
     "sha": "1ea328ac41f5d507c6d4b6300e781c4568b0a771"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Hebrews",
     "chapter": 9,
     "name": "Hebrews 9",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/9.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/9.json",
     "sha": "fe6a7046a1b569e4d97706133660e5524d234b71"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Hebrews",
     "chapter": 10,
     "name": "Hebrews 10",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/10.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/10.json",
     "sha": "6d6f3bde47e4b54007ebf0212f9f5d32dde1564e"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Hebrews",
     "chapter": 11,
     "name": "Hebrews 11",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/11.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/11.json",
     "sha": "9d15e2c11b92da190523aa4438ab29fc10d4a867"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Hebrews",
     "chapter": 12,
     "name": "Hebrews 12",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/12.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/12.json",
     "sha": "f2d5601f61b900748033888abcfbd57b2eb8ba4a"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Hebrews",
     "chapter": 13,
     "name": "Hebrews 13",
-    "url": "https://getbible.net/v2/pyharaamattu1933/58/13.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/58/13.json",
     "sha": "506c51a9ec9c513235d0fde94bddf9ff4d9d8e71"
   }
 }

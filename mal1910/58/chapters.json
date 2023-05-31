@@ -10,7 +10,7 @@
     "book_name": "Hebrews",
     "chapter": 1,
     "name": "Hebrews 1",
-    "url": "https://getbible.net/v2/mal1910/58/1.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/1.json",
     "sha": "e2377b5cd0213c566dad4cff9ad26d45a32ef18d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Hebrews",
     "chapter": 2,
     "name": "Hebrews 2",
-    "url": "https://getbible.net/v2/mal1910/58/2.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/2.json",
     "sha": "a6936fe2700cad4f96866735199fbffe61971dae"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Hebrews",
     "chapter": 3,
     "name": "Hebrews 3",
-    "url": "https://getbible.net/v2/mal1910/58/3.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/3.json",
     "sha": "186a23e3635ec5b515b06a8129c403e937cf7f59"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Hebrews",
     "chapter": 4,
     "name": "Hebrews 4",
-    "url": "https://getbible.net/v2/mal1910/58/4.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/4.json",
     "sha": "c51ea5a83c3422260a348e498fea423f4f9a0c05"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Hebrews",
     "chapter": 5,
     "name": "Hebrews 5",
-    "url": "https://getbible.net/v2/mal1910/58/5.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/5.json",
     "sha": "33547e9a8d43b9b6d822489629501fad12247ea6"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Hebrews",
     "chapter": 6,
     "name": "Hebrews 6",
-    "url": "https://getbible.net/v2/mal1910/58/6.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/6.json",
     "sha": "2d41147643fd684fd6c00569ca943110a8da825d"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Hebrews",
     "chapter": 7,
     "name": "Hebrews 7",
-    "url": "https://getbible.net/v2/mal1910/58/7.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/7.json",
     "sha": "a7dfb6653430c0238b90891f3d0f066590810e77"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Hebrews",
     "chapter": 8,
     "name": "Hebrews 8",
-    "url": "https://getbible.net/v2/mal1910/58/8.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/8.json",
     "sha": "4cde01cb5031a6322ca4cdd27b30ff1dc1d83a92"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Hebrews",
     "chapter": 9,
     "name": "Hebrews 9",
-    "url": "https://getbible.net/v2/mal1910/58/9.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/9.json",
     "sha": "afe6c46ae1df47bcbd09dc3b3c5c949a4be9a556"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Hebrews",
     "chapter": 10,
     "name": "Hebrews 10",
-    "url": "https://getbible.net/v2/mal1910/58/10.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/10.json",
     "sha": "3a0d16751f8338a83a072b0d52c5514339c9fa3c"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Hebrews",
     "chapter": 11,
     "name": "Hebrews 11",
-    "url": "https://getbible.net/v2/mal1910/58/11.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/11.json",
     "sha": "b1b180365a892f0b1ed9ec617a91c9ffd527e6d7"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Hebrews",
     "chapter": 12,
     "name": "Hebrews 12",
-    "url": "https://getbible.net/v2/mal1910/58/12.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/12.json",
     "sha": "8045acf0397378bfc92be631b31a365ac6c8369c"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Hebrews",
     "chapter": 13,
     "name": "Hebrews 13",
-    "url": "https://getbible.net/v2/mal1910/58/13.json",
+    "url": "https://api.getbible.net/v2/mal1910/58/13.json",
     "sha": "974f5dc288a70c8ae39e17d4e3304c58355f1a00"
   }
 }

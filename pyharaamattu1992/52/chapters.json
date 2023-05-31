@@ -10,8 +10,8 @@
     "book_name": "1 Thessalonians",
     "chapter": 1,
     "name": "1 Thessalonians 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/52/1.json",
-    "sha": "f7a781ca2449794552d0ffc66d0e350dc8648b63"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/52/1.json",
+    "sha": "b9fa9a518e6217bdf44c715f6a0d06c9c6221083"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "1 Thessalonians",
     "chapter": 2,
     "name": "1 Thessalonians 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/52/2.json",
-    "sha": "ee04c0e0c9d0774ba33690e414174ec913bfde4c"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/52/2.json",
+    "sha": "9b971325e32e0a14bc3cc63431a36c6b6b8145d7"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,8 +38,8 @@
     "book_name": "1 Thessalonians",
     "chapter": 3,
     "name": "1 Thessalonians 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/52/3.json",
-    "sha": "d12fd9fa40c0d85c1e28baed187ed326f96271d1"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/52/3.json",
+    "sha": "11d50d5c08b9211b9ed5da64dd34fd9f86d8592f"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -52,8 +52,8 @@
     "book_name": "1 Thessalonians",
     "chapter": 4,
     "name": "1 Thessalonians 4",
-    "url": "https://getbible.net/v2/pyharaamattu1992/52/4.json",
-    "sha": "cf938cd0d82317a30265de720d8430c6bceb4361"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/52/4.json",
+    "sha": "5d8959a23b232479ce15b48bce4810ceca462d63"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -66,7 +66,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 5,
     "name": "1 Thessalonians 5",
-    "url": "https://getbible.net/v2/pyharaamattu1992/52/5.json",
-    "sha": "13bc3946998a135ca8ed52fef970f9d8658af622"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/52/5.json",
+    "sha": "6a8fe6e51df6654273b9a534017c9697e0f8b125"
   }
 }

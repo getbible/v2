@@ -10,7 +10,7 @@
     "book_name": "Micah",
     "chapter": 1,
     "name": "Micah 1",
-    "url": "https://getbible.net/v2/esperanto/33/1.json",
+    "url": "https://api.getbible.net/v2/esperanto/33/1.json",
     "sha": "5292729816fd4fe2e6872549690fc5690196f3e2"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Micah",
     "chapter": 2,
     "name": "Micah 2",
-    "url": "https://getbible.net/v2/esperanto/33/2.json",
+    "url": "https://api.getbible.net/v2/esperanto/33/2.json",
     "sha": "a4dd49ac01c4a4cd2044c3a89ff508c90ac0e34d"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Micah",
     "chapter": 3,
     "name": "Micah 3",
-    "url": "https://getbible.net/v2/esperanto/33/3.json",
+    "url": "https://api.getbible.net/v2/esperanto/33/3.json",
     "sha": "8da491a4c81b928227685fdcdfafd3bdfa677ccf"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Micah",
     "chapter": 4,
     "name": "Micah 4",
-    "url": "https://getbible.net/v2/esperanto/33/4.json",
+    "url": "https://api.getbible.net/v2/esperanto/33/4.json",
     "sha": "e72dc30642f579dc4b5fa5193776d15ce2986ad9"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Micah",
     "chapter": 5,
     "name": "Micah 5",
-    "url": "https://getbible.net/v2/esperanto/33/5.json",
+    "url": "https://api.getbible.net/v2/esperanto/33/5.json",
     "sha": "74f942c19e44ac62a2987f7011312cddef5250ee"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Micah",
     "chapter": 6,
     "name": "Micah 6",
-    "url": "https://getbible.net/v2/esperanto/33/6.json",
+    "url": "https://api.getbible.net/v2/esperanto/33/6.json",
     "sha": "7271104af1268a5df58c3e16e088b845e647542f"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Micah",
     "chapter": 7,
     "name": "Micah 7",
-    "url": "https://getbible.net/v2/esperanto/33/7.json",
+    "url": "https://api.getbible.net/v2/esperanto/33/7.json",
     "sha": "76eb12444e3b59e5f3b4c1d5258e7be56a6a9c54"
   }
 }

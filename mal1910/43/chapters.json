@@ -10,7 +10,7 @@
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
-    "url": "https://getbible.net/v2/mal1910/43/1.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/1.json",
     "sha": "39af374f9dd7fc2d231b7b1df8433ef29df18331"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
-    "url": "https://getbible.net/v2/mal1910/43/2.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/2.json",
     "sha": "e8aadcaf0c78b44f57edfb9d2de19783ec2cc5b9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
-    "url": "https://getbible.net/v2/mal1910/43/3.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/3.json",
     "sha": "cd3d79c532bd274f8d7a1934e5878c8f63b55d30"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
-    "url": "https://getbible.net/v2/mal1910/43/4.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/4.json",
     "sha": "9e9777a5b88b86df47b7ec524cd167537202f8a8"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
-    "url": "https://getbible.net/v2/mal1910/43/5.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/5.json",
     "sha": "c111ffb87453ad0c172dbe44ddfbde801009eeda"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
-    "url": "https://getbible.net/v2/mal1910/43/6.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/6.json",
     "sha": "f4e066694c5015fe1b7f3c557f66d7657018fe5d"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
-    "url": "https://getbible.net/v2/mal1910/43/7.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/7.json",
     "sha": "e6491902bc68e036d465c74e30cd607523f8ae88"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
-    "url": "https://getbible.net/v2/mal1910/43/8.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/8.json",
     "sha": "27126e3a95a478bc6014d72aec25d789d28104bd"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
-    "url": "https://getbible.net/v2/mal1910/43/9.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/9.json",
     "sha": "402d8ce980ea961127358e663ef4154fa4e1abb7"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
-    "url": "https://getbible.net/v2/mal1910/43/10.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/10.json",
     "sha": "4db45b37b747d0fa846b1dabdc1c3073fcd484a4"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
-    "url": "https://getbible.net/v2/mal1910/43/11.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/11.json",
     "sha": "35db9baca89635c587055a0379def6c0f04db320"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
-    "url": "https://getbible.net/v2/mal1910/43/12.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/12.json",
     "sha": "656f460117f8a2879bbf7c64aa2010fc9c868212"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
-    "url": "https://getbible.net/v2/mal1910/43/13.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/13.json",
     "sha": "7106fb6418814c5399510208b8045935625e0dca"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
-    "url": "https://getbible.net/v2/mal1910/43/14.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/14.json",
     "sha": "358972136c2c2dcb80b0586f17a18cbf6d8e4c28"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
-    "url": "https://getbible.net/v2/mal1910/43/15.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/15.json",
     "sha": "2166ea9a5e69d5da161a600d9a689b0875b6168b"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
-    "url": "https://getbible.net/v2/mal1910/43/16.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/16.json",
     "sha": "e15ad2cba950a5cc669cc1fcd08595641d3bdedc"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
-    "url": "https://getbible.net/v2/mal1910/43/17.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/17.json",
     "sha": "deea9c72e28fb0da4b62eb57645e7e09b2d7055d"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
-    "url": "https://getbible.net/v2/mal1910/43/18.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/18.json",
     "sha": "9e8f237db1f67cd1b2956adabd85881f801d79d9"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
-    "url": "https://getbible.net/v2/mal1910/43/19.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/19.json",
     "sha": "792744e3388fb87314c6496e841716664f6f4c80"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
-    "url": "https://getbible.net/v2/mal1910/43/20.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/20.json",
     "sha": "813e2f03820a23ecc8b5efb1e5e81be725b8aa3e"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
-    "url": "https://getbible.net/v2/mal1910/43/21.json",
+    "url": "https://api.getbible.net/v2/mal1910/43/21.json",
     "sha": "2032d7725ba5eb00abda4f9cf10f33434c4b1785"
   }
 }

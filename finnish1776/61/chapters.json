@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/finnish1776/61/1.json",
+    "url": "https://api.getbible.net/v2/finnish1776/61/1.json",
     "sha": "7e4125b2b6d9dc7686554e82bf4b905929bef21e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/finnish1776/61/2.json",
+    "url": "https://api.getbible.net/v2/finnish1776/61/2.json",
     "sha": "95aa8b045b223f270561ec8e6fa7045c7d3c9c17"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/finnish1776/61/3.json",
+    "url": "https://api.getbible.net/v2/finnish1776/61/3.json",
     "sha": "b3b906d128c27f082444a40dc67c1988744832b6"
   }
 }

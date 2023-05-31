@@ -10,7 +10,7 @@
     "book_name": "Amos",
     "chapter": 1,
     "name": "Amos 1",
-    "url": "https://getbible.net/v2/danish/30/1.json",
+    "url": "https://api.getbible.net/v2/danish/30/1.json",
     "sha": "614f1e936aba4e345c42d147c5b3f7846e920c08"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Amos",
     "chapter": 2,
     "name": "Amos 2",
-    "url": "https://getbible.net/v2/danish/30/2.json",
+    "url": "https://api.getbible.net/v2/danish/30/2.json",
     "sha": "93dca63cd381080c09baf89c6e6276b528ed72d0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Amos",
     "chapter": 3,
     "name": "Amos 3",
-    "url": "https://getbible.net/v2/danish/30/3.json",
+    "url": "https://api.getbible.net/v2/danish/30/3.json",
     "sha": "28b610aa3e0e44fe83946fd436084bd2cbfbe9fc"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Amos",
     "chapter": 4,
     "name": "Amos 4",
-    "url": "https://getbible.net/v2/danish/30/4.json",
+    "url": "https://api.getbible.net/v2/danish/30/4.json",
     "sha": "a349654c9b54702d459ab02bdc2109f8dbacfb7a"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Amos",
     "chapter": 5,
     "name": "Amos 5",
-    "url": "https://getbible.net/v2/danish/30/5.json",
+    "url": "https://api.getbible.net/v2/danish/30/5.json",
     "sha": "d11da760d7d213c9977ae119b387452ef1d43959"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Amos",
     "chapter": 6,
     "name": "Amos 6",
-    "url": "https://getbible.net/v2/danish/30/6.json",
+    "url": "https://api.getbible.net/v2/danish/30/6.json",
     "sha": "4717c666501af84793f5530bdd1ee5752c8ba61c"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Amos",
     "chapter": 7,
     "name": "Amos 7",
-    "url": "https://getbible.net/v2/danish/30/7.json",
+    "url": "https://api.getbible.net/v2/danish/30/7.json",
     "sha": "d005f5bf8697fe87ed5c3ab603cf3c31c9978072"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Amos",
     "chapter": 8,
     "name": "Amos 8",
-    "url": "https://getbible.net/v2/danish/30/8.json",
+    "url": "https://api.getbible.net/v2/danish/30/8.json",
     "sha": "f06b48859694e6a25b695b5a30f1c8838544777c"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Amos",
     "chapter": 9,
     "name": "Amos 9",
-    "url": "https://getbible.net/v2/danish/30/9.json",
+    "url": "https://api.getbible.net/v2/danish/30/9.json",
     "sha": "ab642f1946391fbeeb47c48fcc1d6b0ac0dc2cd0"
   }
 }

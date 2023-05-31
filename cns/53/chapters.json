@@ -10,7 +10,7 @@
     "book_name": "帖撒罗尼迦后书",
     "chapter": 1,
     "name": "帖撒罗尼迦后书 1",
-    "url": "https://getbible.net/v2/cns/53/1.json",
+    "url": "https://api.getbible.net/v2/cns/53/1.json",
     "sha": "e1c4307e579decd14d6520fb40be9e15ea74526b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "帖撒罗尼迦后书",
     "chapter": 2,
     "name": "帖撒罗尼迦后书 2",
-    "url": "https://getbible.net/v2/cns/53/2.json",
+    "url": "https://api.getbible.net/v2/cns/53/2.json",
     "sha": "01247a9db3f4e5ef46111d07717f9d9eaba2552e"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "帖撒罗尼迦后书",
     "chapter": 3,
     "name": "帖撒罗尼迦后书 3",
-    "url": "https://getbible.net/v2/cns/53/3.json",
+    "url": "https://api.getbible.net/v2/cns/53/3.json",
     "sha": "ec40451cd46f05cc47c70fbae8b3b5fb95dc52ef"
   }
 }

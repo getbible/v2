@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/luther1545/34/1.json",
+    "url": "https://api.getbible.net/v2/luther1545/34/1.json",
     "sha": "4f5bd416e27054c19f4721b40173c2e28d0c079b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/luther1545/34/2.json",
+    "url": "https://api.getbible.net/v2/luther1545/34/2.json",
     "sha": "36986c0825506e5a104450b1d6c652096380a7db"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/luther1545/34/3.json",
+    "url": "https://api.getbible.net/v2/luther1545/34/3.json",
     "sha": "222e42fcd3f64540853df262330a13d6fa61633a"
   }
 }

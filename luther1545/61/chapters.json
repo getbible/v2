@@ -10,7 +10,7 @@
     "book_name": "2. Petrus",
     "chapter": 1,
     "name": "2. Petrus 1",
-    "url": "https://getbible.net/v2/luther1545/61/1.json",
+    "url": "https://api.getbible.net/v2/luther1545/61/1.json",
     "sha": "9dc70879bcc405d6896355b3200798950bab761b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2. Petrus",
     "chapter": 2,
     "name": "2. Petrus 2",
-    "url": "https://getbible.net/v2/luther1545/61/2.json",
+    "url": "https://api.getbible.net/v2/luther1545/61/2.json",
     "sha": "3df343b6748e87d458d154345e3230da08e9ff3a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2. Petrus",
     "chapter": 3,
     "name": "2. Petrus 3",
-    "url": "https://getbible.net/v2/luther1545/61/3.json",
+    "url": "https://api.getbible.net/v2/luther1545/61/3.json",
     "sha": "4cae2368f894e1de655d8f25c685566521cf7ee6"
   }
 }

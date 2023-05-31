@@ -10,7 +10,7 @@
     "book_name": "1 John",
     "chapter": 1,
     "name": "1 John 1",
-    "url": "https://getbible.net/v2/arabicsv/62/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/62/1.json",
     "sha": "e9c99bbd2739ad9b9e699ac4678f02f0567bf261"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 John",
     "chapter": 2,
     "name": "1 John 2",
-    "url": "https://getbible.net/v2/arabicsv/62/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/62/2.json",
     "sha": "39fb824879a0035ca3dca7d150e025d8c75e7383"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 John",
     "chapter": 3,
     "name": "1 John 3",
-    "url": "https://getbible.net/v2/arabicsv/62/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/62/3.json",
     "sha": "73fa0f7286fa08346176ac0571348b1604de36fc"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 John",
     "chapter": 4,
     "name": "1 John 4",
-    "url": "https://getbible.net/v2/arabicsv/62/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/62/4.json",
     "sha": "191f975ff8e7e2a74652f892b568bcc26fe44bcd"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 John",
     "chapter": 5,
     "name": "1 John 5",
-    "url": "https://getbible.net/v2/arabicsv/62/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/62/5.json",
     "sha": "d8761cecbab53e9b0164777aef49a915fda17bd8"
   }
 }

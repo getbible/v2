@@ -10,7 +10,7 @@
     "book_name": "Galatians",
     "chapter": 1,
     "name": "Galatians 1",
-    "url": "https://getbible.net/v2/breton/48/1.json",
+    "url": "https://api.getbible.net/v2/breton/48/1.json",
     "sha": "41f2c1a5365980385031e34bd781eadcc8025dee"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Galatians",
     "chapter": 2,
     "name": "Galatians 2",
-    "url": "https://getbible.net/v2/breton/48/2.json",
+    "url": "https://api.getbible.net/v2/breton/48/2.json",
     "sha": "a59b20a9d371c3f3ce51c3bfa87148e7bbf848e6"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Galatians",
     "chapter": 3,
     "name": "Galatians 3",
-    "url": "https://getbible.net/v2/breton/48/3.json",
+    "url": "https://api.getbible.net/v2/breton/48/3.json",
     "sha": "411eaf7f0ceaf048775452257cb16bc40a64f86e"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Galatians",
     "chapter": 4,
     "name": "Galatians 4",
-    "url": "https://getbible.net/v2/breton/48/4.json",
+    "url": "https://api.getbible.net/v2/breton/48/4.json",
     "sha": "c5c6bb08799bf8014a198ab7e3351605e6ab1fa2"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Galatians",
     "chapter": 5,
     "name": "Galatians 5",
-    "url": "https://getbible.net/v2/breton/48/5.json",
+    "url": "https://api.getbible.net/v2/breton/48/5.json",
     "sha": "0c0fdc7b9cae01494faf0486323024a035ef5db8"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Galatians",
     "chapter": 6,
     "name": "Galatians 6",
-    "url": "https://getbible.net/v2/breton/48/6.json",
+    "url": "https://api.getbible.net/v2/breton/48/6.json",
     "sha": "7b9dca8cd7adf2779f9a8e9783c9a0db1c150686"
   }
 }

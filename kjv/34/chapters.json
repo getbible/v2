@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/kjv/34/1.json",
+    "url": "https://api.getbible.net/v2/kjv/34/1.json",
     "sha": "1b0d2bb5a03048e9afbe1d5c43532584ada3926e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/kjv/34/2.json",
+    "url": "https://api.getbible.net/v2/kjv/34/2.json",
     "sha": "c2e33bc897ce77c7c68491c759ee8447a93df074"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/kjv/34/3.json",
+    "url": "https://api.getbible.net/v2/kjv/34/3.json",
     "sha": "e6719870c2baf4d081b6df7b70c2102bdb712d6b"
   }
 }

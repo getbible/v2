@@ -10,7 +10,7 @@
     "book_name": "1 Timothy",
     "chapter": 1,
     "name": "1 Timothy 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/54/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/54/1.json",
     "sha": "1f3fa96d1281c3f7b571e57b5660ff9d4d7ff8ef"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Timothy",
     "chapter": 2,
     "name": "1 Timothy 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/54/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/54/2.json",
     "sha": "3e3c3c13dac2d4c9d16f45108ac699c75f5bd6c8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Timothy",
     "chapter": 3,
     "name": "1 Timothy 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/54/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/54/3.json",
     "sha": "a1bea398f29e36e1d7192a2eeab9af8730fd7703"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Timothy",
     "chapter": 4,
     "name": "1 Timothy 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/54/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/54/4.json",
     "sha": "b6791bb20003760ed422e0eb3b1ff55e13d97828"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Timothy",
     "chapter": 5,
     "name": "1 Timothy 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/54/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/54/5.json",
     "sha": "54884b8f6b96015b2be7b80d731aab4cff214020"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1 Timothy",
     "chapter": 6,
     "name": "1 Timothy 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/54/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/54/6.json",
     "sha": "4ffbb47025f036efcb00f7289894b055d6bd3eb5"
   }
 }

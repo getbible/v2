@@ -10,7 +10,7 @@
     "book_name": "Joshua",
     "chapter": 1,
     "name": "Joshua 1",
-    "url": "https://getbible.net/v2/codex/6/1.json",
+    "url": "https://api.getbible.net/v2/codex/6/1.json",
     "sha": "d66359678d516c2deed9b4fbcdd1da13efafc9fd"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Joshua",
     "chapter": 2,
     "name": "Joshua 2",
-    "url": "https://getbible.net/v2/codex/6/2.json",
+    "url": "https://api.getbible.net/v2/codex/6/2.json",
     "sha": "2b417d58489694d589208074990abfad6d23cc59"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Joshua",
     "chapter": 3,
     "name": "Joshua 3",
-    "url": "https://getbible.net/v2/codex/6/3.json",
+    "url": "https://api.getbible.net/v2/codex/6/3.json",
     "sha": "f6d5ad07c6099a861b09a0b729be5ecb7fc22fb7"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Joshua",
     "chapter": 4,
     "name": "Joshua 4",
-    "url": "https://getbible.net/v2/codex/6/4.json",
+    "url": "https://api.getbible.net/v2/codex/6/4.json",
     "sha": "4956557f8b22a23ede21af94a467ae76dd63b870"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Joshua",
     "chapter": 5,
     "name": "Joshua 5",
-    "url": "https://getbible.net/v2/codex/6/5.json",
+    "url": "https://api.getbible.net/v2/codex/6/5.json",
     "sha": "2af1bf61401d5ef9a76272cf91287717deacd2f1"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Joshua",
     "chapter": 6,
     "name": "Joshua 6",
-    "url": "https://getbible.net/v2/codex/6/6.json",
+    "url": "https://api.getbible.net/v2/codex/6/6.json",
     "sha": "fbc9eb2740f7a2c76aaa2436bc77ae2638bcea1e"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Joshua",
     "chapter": 7,
     "name": "Joshua 7",
-    "url": "https://getbible.net/v2/codex/6/7.json",
+    "url": "https://api.getbible.net/v2/codex/6/7.json",
     "sha": "6290d52fb2e79fbaadab3fa2f504b9eee828893e"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Joshua",
     "chapter": 8,
     "name": "Joshua 8",
-    "url": "https://getbible.net/v2/codex/6/8.json",
+    "url": "https://api.getbible.net/v2/codex/6/8.json",
     "sha": "cd67aa00c8df304f77ad7b6db529f85d879a91ce"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Joshua",
     "chapter": 9,
     "name": "Joshua 9",
-    "url": "https://getbible.net/v2/codex/6/9.json",
+    "url": "https://api.getbible.net/v2/codex/6/9.json",
     "sha": "095ed4568d67375febf7163aa0db03367f9e3d7c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Joshua",
     "chapter": 10,
     "name": "Joshua 10",
-    "url": "https://getbible.net/v2/codex/6/10.json",
+    "url": "https://api.getbible.net/v2/codex/6/10.json",
     "sha": "7c5da1af5c6cd81f6a2a0b563e5e698aeacdf7c7"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Joshua",
     "chapter": 11,
     "name": "Joshua 11",
-    "url": "https://getbible.net/v2/codex/6/11.json",
+    "url": "https://api.getbible.net/v2/codex/6/11.json",
     "sha": "9269e8ecbd4440678fc488a993cb59790d181a05"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Joshua",
     "chapter": 12,
     "name": "Joshua 12",
-    "url": "https://getbible.net/v2/codex/6/12.json",
+    "url": "https://api.getbible.net/v2/codex/6/12.json",
     "sha": "82cf5c2bfb599ae8c76ccff96c6cc929dfece254"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Joshua",
     "chapter": 13,
     "name": "Joshua 13",
-    "url": "https://getbible.net/v2/codex/6/13.json",
+    "url": "https://api.getbible.net/v2/codex/6/13.json",
     "sha": "86e99e9a9947a2af96f1ba5b8868a6ccdf671eae"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Joshua",
     "chapter": 14,
     "name": "Joshua 14",
-    "url": "https://getbible.net/v2/codex/6/14.json",
+    "url": "https://api.getbible.net/v2/codex/6/14.json",
     "sha": "339bf6d3fc2bb19c3899fa4f3e7af7904bc52763"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Joshua",
     "chapter": 15,
     "name": "Joshua 15",
-    "url": "https://getbible.net/v2/codex/6/15.json",
+    "url": "https://api.getbible.net/v2/codex/6/15.json",
     "sha": "dc78f9907ead3c2ad8ea1bf50dee75870ce7e8b8"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Joshua",
     "chapter": 16,
     "name": "Joshua 16",
-    "url": "https://getbible.net/v2/codex/6/16.json",
+    "url": "https://api.getbible.net/v2/codex/6/16.json",
     "sha": "0a070099aafcbfbfe91bb5a59b99af6476873af8"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Joshua",
     "chapter": 17,
     "name": "Joshua 17",
-    "url": "https://getbible.net/v2/codex/6/17.json",
+    "url": "https://api.getbible.net/v2/codex/6/17.json",
     "sha": "bde03e34dcb5c7f03f1b2e4f036c17515f93ad92"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Joshua",
     "chapter": 18,
     "name": "Joshua 18",
-    "url": "https://getbible.net/v2/codex/6/18.json",
+    "url": "https://api.getbible.net/v2/codex/6/18.json",
     "sha": "5cd25d3af8cffbbb11479a4e7ba3ca3abaa38133"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Joshua",
     "chapter": 19,
     "name": "Joshua 19",
-    "url": "https://getbible.net/v2/codex/6/19.json",
+    "url": "https://api.getbible.net/v2/codex/6/19.json",
     "sha": "ccb3316ec208aa09af67efdd15d58abd25f7f551"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Joshua",
     "chapter": 20,
     "name": "Joshua 20",
-    "url": "https://getbible.net/v2/codex/6/20.json",
+    "url": "https://api.getbible.net/v2/codex/6/20.json",
     "sha": "03a4a8d5040755ed29161e7e8e6d433bfa0f54eb"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Joshua",
     "chapter": 21,
     "name": "Joshua 21",
-    "url": "https://getbible.net/v2/codex/6/21.json",
+    "url": "https://api.getbible.net/v2/codex/6/21.json",
     "sha": "332b027f86ce0df6e1d0e6c88877b67e3801e449"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Joshua",
     "chapter": 22,
     "name": "Joshua 22",
-    "url": "https://getbible.net/v2/codex/6/22.json",
+    "url": "https://api.getbible.net/v2/codex/6/22.json",
     "sha": "b879af0960214e665cae5b2f8a1707b9ac9fdc19"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Joshua",
     "chapter": 23,
     "name": "Joshua 23",
-    "url": "https://getbible.net/v2/codex/6/23.json",
+    "url": "https://api.getbible.net/v2/codex/6/23.json",
     "sha": "94f550997a980c5e251557d7408a352c95f8c7e2"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Joshua",
     "chapter": 24,
     "name": "Joshua 24",
-    "url": "https://getbible.net/v2/codex/6/24.json",
+    "url": "https://api.getbible.net/v2/codex/6/24.json",
     "sha": "bf9f223b4ce1c75397cbe557f6c470b227077e1c"
   }
 }

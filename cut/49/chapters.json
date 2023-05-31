@@ -10,7 +10,7 @@
     "book_name": "以弗所書",
     "chapter": 1,
     "name": "以弗所書 1",
-    "url": "https://getbible.net/v2/cut/49/1.json",
+    "url": "https://api.getbible.net/v2/cut/49/1.json",
     "sha": "ba3d554695232d96f54caab9cfd8df267f2df652"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "以弗所書",
     "chapter": 2,
     "name": "以弗所書 2",
-    "url": "https://getbible.net/v2/cut/49/2.json",
+    "url": "https://api.getbible.net/v2/cut/49/2.json",
     "sha": "4bd03e5cacf7db4c92e481583004f365f9432798"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "以弗所書",
     "chapter": 3,
     "name": "以弗所書 3",
-    "url": "https://getbible.net/v2/cut/49/3.json",
+    "url": "https://api.getbible.net/v2/cut/49/3.json",
     "sha": "672fc833e32a529a8cfe946037a6b7d37c9cc6c8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "以弗所書",
     "chapter": 4,
     "name": "以弗所書 4",
-    "url": "https://getbible.net/v2/cut/49/4.json",
+    "url": "https://api.getbible.net/v2/cut/49/4.json",
     "sha": "87b623339193878e51d52b7157a2f0854648fbc8"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "以弗所書",
     "chapter": 5,
     "name": "以弗所書 5",
-    "url": "https://getbible.net/v2/cut/49/5.json",
+    "url": "https://api.getbible.net/v2/cut/49/5.json",
     "sha": "ae196614fb8efece264ed4232a2cd148f9c4cba1"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "以弗所書",
     "chapter": 6,
     "name": "以弗所書 6",
-    "url": "https://getbible.net/v2/cut/49/6.json",
+    "url": "https://api.getbible.net/v2/cut/49/6.json",
     "sha": "5c4eefa5aa4bf5ed811af2b438e6701755a05c49"
   }
 }

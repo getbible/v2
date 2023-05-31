@@ -10,7 +10,7 @@
     "book_name": "约翰一书",
     "chapter": 1,
     "name": "约翰一书 1",
-    "url": "https://getbible.net/v2/cus/62/1.json",
+    "url": "https://api.getbible.net/v2/cus/62/1.json",
     "sha": "bba56721eb2dca5168d5133145439a48ed9453e1"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "约翰一书",
     "chapter": 2,
     "name": "约翰一书 2",
-    "url": "https://getbible.net/v2/cus/62/2.json",
+    "url": "https://api.getbible.net/v2/cus/62/2.json",
     "sha": "801857094429c00b6bb0136bbda05088e8552bf4"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "约翰一书",
     "chapter": 3,
     "name": "约翰一书 3",
-    "url": "https://getbible.net/v2/cus/62/3.json",
+    "url": "https://api.getbible.net/v2/cus/62/3.json",
     "sha": "d24387bebed674170a7bc401cb0880f17225ff95"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "约翰一书",
     "chapter": 4,
     "name": "约翰一书 4",
-    "url": "https://getbible.net/v2/cus/62/4.json",
+    "url": "https://api.getbible.net/v2/cus/62/4.json",
     "sha": "eaf02455264219f709e72297f9450d1b930f35bf"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "约翰一书",
     "chapter": 5,
     "name": "约翰一书 5",
-    "url": "https://getbible.net/v2/cus/62/5.json",
+    "url": "https://api.getbible.net/v2/cus/62/5.json",
     "sha": "d9495782b84aa81922b1a1136d19de65713be476"
   }
 }

@@ -8,7 +8,7 @@
     "encoding": "UTF-8",
     "nr": 1,
     "name": "﻿创世记",
-    "url": "https://getbible.net/v2/cus/1.json",
+    "url": "https://api.getbible.net/v2/cus/1.json",
     "sha": "970dc48f247a4b6bdce85b2610e5c7342e7f4233"
   },
   "2": {
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "nr": 2,
     "name": "出埃及记",
-    "url": "https://getbible.net/v2/cus/2.json",
+    "url": "https://api.getbible.net/v2/cus/2.json",
     "sha": "943f7cb6ee5de826f0b2c0fed72573a26f1e85d5"
   },
   "3": {
@@ -32,7 +32,7 @@
     "encoding": "UTF-8",
     "nr": 3,
     "name": "利未记",
-    "url": "https://getbible.net/v2/cus/3.json",
+    "url": "https://api.getbible.net/v2/cus/3.json",
     "sha": "c07140e29f58cc3b1af4d53ae7458c3f0c729da3"
   },
   "4": {
@@ -44,7 +44,7 @@
     "encoding": "UTF-8",
     "nr": 4,
     "name": "民数记",
-    "url": "https://getbible.net/v2/cus/4.json",
+    "url": "https://api.getbible.net/v2/cus/4.json",
     "sha": "445cf64a784024db7c51c884954c306ac756aa59"
   },
   "5": {
@@ -56,7 +56,7 @@
     "encoding": "UTF-8",
     "nr": 5,
     "name": "申命记",
-    "url": "https://getbible.net/v2/cus/5.json",
+    "url": "https://api.getbible.net/v2/cus/5.json",
     "sha": "028ad3385d46f4315b61f7c5570c05801e8454b4"
   },
   "6": {
@@ -68,7 +68,7 @@
     "encoding": "UTF-8",
     "nr": 6,
     "name": "约书亚记",
-    "url": "https://getbible.net/v2/cus/6.json",
+    "url": "https://api.getbible.net/v2/cus/6.json",
     "sha": "37f3de6b7264a371a1a9f23d633bb135ae0c31ee"
   },
   "7": {
@@ -80,7 +80,7 @@
     "encoding": "UTF-8",
     "nr": 7,
     "name": "士师记",
-    "url": "https://getbible.net/v2/cus/7.json",
+    "url": "https://api.getbible.net/v2/cus/7.json",
     "sha": "852c33d98477989312d3e6ef4758339284088c30"
   },
   "8": {
@@ -92,7 +92,7 @@
     "encoding": "UTF-8",
     "nr": 8,
     "name": "路得记",
-    "url": "https://getbible.net/v2/cus/8.json",
+    "url": "https://api.getbible.net/v2/cus/8.json",
     "sha": "2eaa275495c702b2f2f05d0907038c0292b13c9c"
   },
   "9": {
@@ -104,7 +104,7 @@
     "encoding": "UTF-8",
     "nr": 9,
     "name": "撒母耳记上",
-    "url": "https://getbible.net/v2/cus/9.json",
+    "url": "https://api.getbible.net/v2/cus/9.json",
     "sha": "af4d8e6443c8b458e400554d0ddf9ddb9a793d4e"
   },
   "10": {
@@ -116,7 +116,7 @@
     "encoding": "UTF-8",
     "nr": 10,
     "name": "撒母耳记下",
-    "url": "https://getbible.net/v2/cus/10.json",
+    "url": "https://api.getbible.net/v2/cus/10.json",
     "sha": "0e5d43d5c8920a9ddc67b8768b0aaee82e6a71f3"
   },
   "11": {
@@ -128,7 +128,7 @@
     "encoding": "UTF-8",
     "nr": 11,
     "name": "列王纪上",
-    "url": "https://getbible.net/v2/cus/11.json",
+    "url": "https://api.getbible.net/v2/cus/11.json",
     "sha": "a37efb1dea432b02482a7e50974a1b00aa60bc61"
   },
   "12": {
@@ -140,7 +140,7 @@
     "encoding": "UTF-8",
     "nr": 12,
     "name": "列王纪下",
-    "url": "https://getbible.net/v2/cus/12.json",
+    "url": "https://api.getbible.net/v2/cus/12.json",
     "sha": "0f8efae5da7238b495384761cfacc09118c10261"
   },
   "13": {
@@ -152,7 +152,7 @@
     "encoding": "UTF-8",
     "nr": 13,
     "name": "历代志上",
-    "url": "https://getbible.net/v2/cus/13.json",
+    "url": "https://api.getbible.net/v2/cus/13.json",
     "sha": "f3d6735d366d904bfae75061055ce55dba04235c"
   },
   "14": {
@@ -164,7 +164,7 @@
     "encoding": "UTF-8",
     "nr": 14,
     "name": "历代志下",
-    "url": "https://getbible.net/v2/cus/14.json",
+    "url": "https://api.getbible.net/v2/cus/14.json",
     "sha": "1646217a33e67f5afbef7a2f246342d35f694bfb"
   },
   "15": {
@@ -176,7 +176,7 @@
     "encoding": "UTF-8",
     "nr": 15,
     "name": "以斯拉记",
-    "url": "https://getbible.net/v2/cus/15.json",
+    "url": "https://api.getbible.net/v2/cus/15.json",
     "sha": "0176a6bd7af7c333cff418bf1c660315a3e3e76b"
   },
   "16": {
@@ -188,7 +188,7 @@
     "encoding": "UTF-8",
     "nr": 16,
     "name": "尼希米记",
-    "url": "https://getbible.net/v2/cus/16.json",
+    "url": "https://api.getbible.net/v2/cus/16.json",
     "sha": "9422cce952e5b466bd6dd58ef8834a2b1bbbd6b8"
   },
   "17": {
@@ -200,7 +200,7 @@
     "encoding": "UTF-8",
     "nr": 17,
     "name": "以斯帖记",
-    "url": "https://getbible.net/v2/cus/17.json",
+    "url": "https://api.getbible.net/v2/cus/17.json",
     "sha": "5291b5310d16630b704cf40945e934005a3caa84"
   },
   "18": {
@@ -212,7 +212,7 @@
     "encoding": "UTF-8",
     "nr": 18,
     "name": "约伯记",
-    "url": "https://getbible.net/v2/cus/18.json",
+    "url": "https://api.getbible.net/v2/cus/18.json",
     "sha": "8da432a679470ae8074050d04d233dd922f7ca1e"
   },
   "19": {
@@ -224,7 +224,7 @@
     "encoding": "UTF-8",
     "nr": 19,
     "name": "诗篇",
-    "url": "https://getbible.net/v2/cus/19.json",
+    "url": "https://api.getbible.net/v2/cus/19.json",
     "sha": "96cd3cb73b2e96a5c694cf80e47aed229e3f8c63"
   },
   "20": {
@@ -236,7 +236,7 @@
     "encoding": "UTF-8",
     "nr": 20,
     "name": "箴言",
-    "url": "https://getbible.net/v2/cus/20.json",
+    "url": "https://api.getbible.net/v2/cus/20.json",
     "sha": "4ced56930c088d92e7499d812c724ccc38f306dd"
   },
   "21": {
@@ -248,7 +248,7 @@
     "encoding": "UTF-8",
     "nr": 21,
     "name": "传道书",
-    "url": "https://getbible.net/v2/cus/21.json",
+    "url": "https://api.getbible.net/v2/cus/21.json",
     "sha": "38e68985205c89f8d967eef89683b44f060d6868"
   },
   "22": {
@@ -260,7 +260,7 @@
     "encoding": "UTF-8",
     "nr": 22,
     "name": "雅歌",
-    "url": "https://getbible.net/v2/cus/22.json",
+    "url": "https://api.getbible.net/v2/cus/22.json",
     "sha": "f02e235a010b73187f164b81dd044c6cdb97705b"
   },
   "23": {
@@ -272,7 +272,7 @@
     "encoding": "UTF-8",
     "nr": 23,
     "name": "以赛亚书",
-    "url": "https://getbible.net/v2/cus/23.json",
+    "url": "https://api.getbible.net/v2/cus/23.json",
     "sha": "c1ae6888fc6578131789190158e72b5794dd0912"
   },
   "24": {
@@ -284,7 +284,7 @@
     "encoding": "UTF-8",
     "nr": 24,
     "name": "耶利米书",
-    "url": "https://getbible.net/v2/cus/24.json",
+    "url": "https://api.getbible.net/v2/cus/24.json",
     "sha": "670e366662ae2c6d3899ba543c8befc512f52a67"
   },
   "25": {
@@ -296,7 +296,7 @@
     "encoding": "UTF-8",
     "nr": 25,
     "name": "耶利米哀歌",
-    "url": "https://getbible.net/v2/cus/25.json",
+    "url": "https://api.getbible.net/v2/cus/25.json",
     "sha": "296f7e6f2394dbfa1911d3b56020fe78d95c3ba5"
   },
   "26": {
@@ -308,7 +308,7 @@
     "encoding": "UTF-8",
     "nr": 26,
     "name": "以西结书",
-    "url": "https://getbible.net/v2/cus/26.json",
+    "url": "https://api.getbible.net/v2/cus/26.json",
     "sha": "6d5c921f8b1ffb38f22b779b5e49dba35b7438f9"
   },
   "27": {
@@ -320,7 +320,7 @@
     "encoding": "UTF-8",
     "nr": 27,
     "name": "但以理书",
-    "url": "https://getbible.net/v2/cus/27.json",
+    "url": "https://api.getbible.net/v2/cus/27.json",
     "sha": "89250db94a64c4c731311e4087ea12b0d98d3b7f"
   },
   "28": {
@@ -332,7 +332,7 @@
     "encoding": "UTF-8",
     "nr": 28,
     "name": "何西阿书",
-    "url": "https://getbible.net/v2/cus/28.json",
+    "url": "https://api.getbible.net/v2/cus/28.json",
     "sha": "3f90373721f7d9082e830eb7be3ef058d1fbe5e2"
   },
   "29": {
@@ -344,7 +344,7 @@
     "encoding": "UTF-8",
     "nr": 29,
     "name": "约珥书",
-    "url": "https://getbible.net/v2/cus/29.json",
+    "url": "https://api.getbible.net/v2/cus/29.json",
     "sha": "1cd9189ef9b57bcb0b4d4164b024b17cfd8b81f1"
   },
   "30": {
@@ -356,7 +356,7 @@
     "encoding": "UTF-8",
     "nr": 30,
     "name": "阿摩司书",
-    "url": "https://getbible.net/v2/cus/30.json",
+    "url": "https://api.getbible.net/v2/cus/30.json",
     "sha": "1b6d8c3d879a82b0e23d69c4301cf2a9c1bbf66a"
   },
   "31": {
@@ -368,7 +368,7 @@
     "encoding": "UTF-8",
     "nr": 31,
     "name": "俄巴底亚书",
-    "url": "https://getbible.net/v2/cus/31.json",
+    "url": "https://api.getbible.net/v2/cus/31.json",
     "sha": "89358ec1baa8d3b0a7e520d0338a5d32de1b1b6a"
   },
   "32": {
@@ -380,7 +380,7 @@
     "encoding": "UTF-8",
     "nr": 32,
     "name": "约拿书",
-    "url": "https://getbible.net/v2/cus/32.json",
+    "url": "https://api.getbible.net/v2/cus/32.json",
     "sha": "7133208c71534868c4226a9ce0408742526180f4"
   },
   "33": {
@@ -392,7 +392,7 @@
     "encoding": "UTF-8",
     "nr": 33,
     "name": "弥迦书",
-    "url": "https://getbible.net/v2/cus/33.json",
+    "url": "https://api.getbible.net/v2/cus/33.json",
     "sha": "642758eedd947763240073b2e4275cbabb70c96b"
   },
   "34": {
@@ -404,7 +404,7 @@
     "encoding": "UTF-8",
     "nr": 34,
     "name": "那鸿书",
-    "url": "https://getbible.net/v2/cus/34.json",
+    "url": "https://api.getbible.net/v2/cus/34.json",
     "sha": "8d87550a868a45c8b7d2ffca26f8ba1c8fed9988"
   },
   "35": {
@@ -416,7 +416,7 @@
     "encoding": "UTF-8",
     "nr": 35,
     "name": "哈巴谷书",
-    "url": "https://getbible.net/v2/cus/35.json",
+    "url": "https://api.getbible.net/v2/cus/35.json",
     "sha": "54da7778d037477b59218cd4ed78d5504c6e1540"
   },
   "36": {
@@ -428,7 +428,7 @@
     "encoding": "UTF-8",
     "nr": 36,
     "name": "西番雅书",
-    "url": "https://getbible.net/v2/cus/36.json",
+    "url": "https://api.getbible.net/v2/cus/36.json",
     "sha": "033e052cb39852911c75991d24553b347cc231bc"
   },
   "37": {
@@ -440,7 +440,7 @@
     "encoding": "UTF-8",
     "nr": 37,
     "name": "哈该书",
-    "url": "https://getbible.net/v2/cus/37.json",
+    "url": "https://api.getbible.net/v2/cus/37.json",
     "sha": "81f33376235e09b8558dd3b94369d89d2718a637"
   },
   "38": {
@@ -452,7 +452,7 @@
     "encoding": "UTF-8",
     "nr": 38,
     "name": "撒迦利亚书",
-    "url": "https://getbible.net/v2/cus/38.json",
+    "url": "https://api.getbible.net/v2/cus/38.json",
     "sha": "78babceaee61833b4ad9a10e780d6a66b7dd931a"
   },
   "39": {
@@ -464,7 +464,7 @@
     "encoding": "UTF-8",
     "nr": 39,
     "name": "玛拉基书",
-    "url": "https://getbible.net/v2/cus/39.json",
+    "url": "https://api.getbible.net/v2/cus/39.json",
     "sha": "40cdb0c797cede7dca2b6d2e9368d6bcf6b780d4"
   },
   "40": {
@@ -476,7 +476,7 @@
     "encoding": "UTF-8",
     "nr": 40,
     "name": "马太福音",
-    "url": "https://getbible.net/v2/cus/40.json",
+    "url": "https://api.getbible.net/v2/cus/40.json",
     "sha": "a59a273449ae126a0339198cb4e27069692ae90c"
   },
   "41": {
@@ -488,7 +488,7 @@
     "encoding": "UTF-8",
     "nr": 41,
     "name": "马可福音",
-    "url": "https://getbible.net/v2/cus/41.json",
+    "url": "https://api.getbible.net/v2/cus/41.json",
     "sha": "dcfb8765aafd6350311c968c38c650380e760ec3"
   },
   "42": {
@@ -500,7 +500,7 @@
     "encoding": "UTF-8",
     "nr": 42,
     "name": "路加福音",
-    "url": "https://getbible.net/v2/cus/42.json",
+    "url": "https://api.getbible.net/v2/cus/42.json",
     "sha": "70ff521c82da2f7309e72096da6a0f08ca5b2786"
   },
   "43": {
@@ -512,7 +512,7 @@
     "encoding": "UTF-8",
     "nr": 43,
     "name": "约翰福音",
-    "url": "https://getbible.net/v2/cus/43.json",
+    "url": "https://api.getbible.net/v2/cus/43.json",
     "sha": "8e48167b296d767b9bc18d98076d7113ff180e57"
   },
   "44": {
@@ -524,7 +524,7 @@
     "encoding": "UTF-8",
     "nr": 44,
     "name": "使徒行传",
-    "url": "https://getbible.net/v2/cus/44.json",
+    "url": "https://api.getbible.net/v2/cus/44.json",
     "sha": "f281d751ac446510381843180a8b2619bf1bd69a"
   },
   "45": {
@@ -536,7 +536,7 @@
     "encoding": "UTF-8",
     "nr": 45,
     "name": "罗马书",
-    "url": "https://getbible.net/v2/cus/45.json",
+    "url": "https://api.getbible.net/v2/cus/45.json",
     "sha": "8f1bc3c016b3d87eda33362925168a46088337cb"
   },
   "46": {
@@ -548,7 +548,7 @@
     "encoding": "UTF-8",
     "nr": 46,
     "name": "哥林多前书",
-    "url": "https://getbible.net/v2/cus/46.json",
+    "url": "https://api.getbible.net/v2/cus/46.json",
     "sha": "5eb66162a2a441de61f44956fa56fad8484d7cd0"
   },
   "47": {
@@ -560,7 +560,7 @@
     "encoding": "UTF-8",
     "nr": 47,
     "name": "哥林多后书",
-    "url": "https://getbible.net/v2/cus/47.json",
+    "url": "https://api.getbible.net/v2/cus/47.json",
     "sha": "77481265e652c8d3e8bc6b4744fd794d07dfa3bd"
   },
   "48": {
@@ -572,7 +572,7 @@
     "encoding": "UTF-8",
     "nr": 48,
     "name": "加拉太书",
-    "url": "https://getbible.net/v2/cus/48.json",
+    "url": "https://api.getbible.net/v2/cus/48.json",
     "sha": "45d79f784a063b66daf15ad1ef2fc03e4d79f094"
   },
   "49": {
@@ -584,7 +584,7 @@
     "encoding": "UTF-8",
     "nr": 49,
     "name": "以弗所书",
-    "url": "https://getbible.net/v2/cus/49.json",
+    "url": "https://api.getbible.net/v2/cus/49.json",
     "sha": "0b3ded15593a98df41b45791d9fe765ec60cba88"
   },
   "50": {
@@ -596,7 +596,7 @@
     "encoding": "UTF-8",
     "nr": 50,
     "name": "腓立比书",
-    "url": "https://getbible.net/v2/cus/50.json",
+    "url": "https://api.getbible.net/v2/cus/50.json",
     "sha": "65a953ac2c32927c5a3b37bd2f8a2072c4a873e0"
   },
   "51": {
@@ -608,7 +608,7 @@
     "encoding": "UTF-8",
     "nr": 51,
     "name": "歌罗西书",
-    "url": "https://getbible.net/v2/cus/51.json",
+    "url": "https://api.getbible.net/v2/cus/51.json",
     "sha": "ca19691363690cec9f4d23e65e5a2870ce242285"
   },
   "52": {
@@ -620,7 +620,7 @@
     "encoding": "UTF-8",
     "nr": 52,
     "name": "帖撒罗尼迦前书",
-    "url": "https://getbible.net/v2/cus/52.json",
+    "url": "https://api.getbible.net/v2/cus/52.json",
     "sha": "9d9659c90bccce6315c916aaf829160c51d2f9b9"
   },
   "53": {
@@ -632,7 +632,7 @@
     "encoding": "UTF-8",
     "nr": 53,
     "name": "帖撒罗尼迦后书",
-    "url": "https://getbible.net/v2/cus/53.json",
+    "url": "https://api.getbible.net/v2/cus/53.json",
     "sha": "b412b74c8c66972a4bfe04a8957d756cca543289"
   },
   "54": {
@@ -644,7 +644,7 @@
     "encoding": "UTF-8",
     "nr": 54,
     "name": "提摩太前书",
-    "url": "https://getbible.net/v2/cus/54.json",
+    "url": "https://api.getbible.net/v2/cus/54.json",
     "sha": "4d4aae3a2946f7589b063991a6cbe2419fb6cd0f"
   },
   "55": {
@@ -656,7 +656,7 @@
     "encoding": "UTF-8",
     "nr": 55,
     "name": "提摩太后书",
-    "url": "https://getbible.net/v2/cus/55.json",
+    "url": "https://api.getbible.net/v2/cus/55.json",
     "sha": "65e013affe7da03e69e8b3f7dcca2d7d33b76c89"
   },
   "56": {
@@ -668,7 +668,7 @@
     "encoding": "UTF-8",
     "nr": 56,
     "name": "提多书",
-    "url": "https://getbible.net/v2/cus/56.json",
+    "url": "https://api.getbible.net/v2/cus/56.json",
     "sha": "56ad165062b981986687042d95eb4ef33b87d311"
   },
   "57": {
@@ -680,7 +680,7 @@
     "encoding": "UTF-8",
     "nr": 57,
     "name": "腓利门书",
-    "url": "https://getbible.net/v2/cus/57.json",
+    "url": "https://api.getbible.net/v2/cus/57.json",
     "sha": "ad3eea81a6ab41a131cee1b275afbf4ad3f72772"
   },
   "58": {
@@ -692,7 +692,7 @@
     "encoding": "UTF-8",
     "nr": 58,
     "name": "希伯来书",
-    "url": "https://getbible.net/v2/cus/58.json",
+    "url": "https://api.getbible.net/v2/cus/58.json",
     "sha": "9b84370176a54b4ec6a5589b9b3f970cc6e7dcd7"
   },
   "59": {
@@ -704,7 +704,7 @@
     "encoding": "UTF-8",
     "nr": 59,
     "name": "雅各书",
-    "url": "https://getbible.net/v2/cus/59.json",
+    "url": "https://api.getbible.net/v2/cus/59.json",
     "sha": "1f6acb0c0fd65fa47f181e195deab19b23ec9c1c"
   },
   "60": {
@@ -716,7 +716,7 @@
     "encoding": "UTF-8",
     "nr": 60,
     "name": "彼得前书",
-    "url": "https://getbible.net/v2/cus/60.json",
+    "url": "https://api.getbible.net/v2/cus/60.json",
     "sha": "4b35daa11984b6bf76383b88d359007464c78e39"
   },
   "61": {
@@ -728,7 +728,7 @@
     "encoding": "UTF-8",
     "nr": 61,
     "name": "彼得后书",
-    "url": "https://getbible.net/v2/cus/61.json",
+    "url": "https://api.getbible.net/v2/cus/61.json",
     "sha": "39a05abbdc7d26ce422d139f6abe6252b021df83"
   },
   "62": {
@@ -740,7 +740,7 @@
     "encoding": "UTF-8",
     "nr": 62,
     "name": "约翰一书",
-    "url": "https://getbible.net/v2/cus/62.json",
+    "url": "https://api.getbible.net/v2/cus/62.json",
     "sha": "05091df972cafdfdc8329380fa0ad1d198c64cfe"
   },
   "63": {
@@ -752,7 +752,7 @@
     "encoding": "UTF-8",
     "nr": 63,
     "name": "约翰二书",
-    "url": "https://getbible.net/v2/cus/63.json",
+    "url": "https://api.getbible.net/v2/cus/63.json",
     "sha": "65cd2ac4b93d0564ff0c7e8a1ba44212300f646b"
   },
   "64": {
@@ -764,7 +764,7 @@
     "encoding": "UTF-8",
     "nr": 64,
     "name": "约翰三书",
-    "url": "https://getbible.net/v2/cus/64.json",
+    "url": "https://api.getbible.net/v2/cus/64.json",
     "sha": "d3dad0f39aaccb37e0c469b88f7f750928713462"
   },
   "65": {
@@ -776,7 +776,7 @@
     "encoding": "UTF-8",
     "nr": 65,
     "name": "犹大书",
-    "url": "https://getbible.net/v2/cus/65.json",
+    "url": "https://api.getbible.net/v2/cus/65.json",
     "sha": "f9dd60bb1668ae68b0309950ae9a4b9db2831ff2"
   },
   "66": {
@@ -788,7 +788,7 @@
     "encoding": "UTF-8",
     "nr": 66,
     "name": "启示录",
-    "url": "https://getbible.net/v2/cus/66.json",
+    "url": "https://api.getbible.net/v2/cus/66.json",
     "sha": "4af8bd086116823226a7597d6744830e440ed4c0"
   }
 }

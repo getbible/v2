@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/wycliffe/34/1.json",
+    "url": "https://api.getbible.net/v2/wycliffe/34/1.json",
     "sha": "3b3bce54fc0d0b8bc46c7cb3caf55ebbb4c27ef8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/wycliffe/34/2.json",
+    "url": "https://api.getbible.net/v2/wycliffe/34/2.json",
     "sha": "9ee6a5ba3adb891af8eeaa676d019c8f0fede790"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/wycliffe/34/3.json",
+    "url": "https://api.getbible.net/v2/wycliffe/34/3.json",
     "sha": "178b4fa19aa6757bfeaf170bf79f634bac5f9833"
   }
 }

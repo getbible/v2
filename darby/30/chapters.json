@@ -10,7 +10,7 @@
     "book_name": "Amos",
     "chapter": 1,
     "name": "Amos 1",
-    "url": "https://getbible.net/v2/darby/30/1.json",
+    "url": "https://api.getbible.net/v2/darby/30/1.json",
     "sha": "667e4d81a950d0a381b1fd3d0bff0925c58cfb3c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Amos",
     "chapter": 2,
     "name": "Amos 2",
-    "url": "https://getbible.net/v2/darby/30/2.json",
+    "url": "https://api.getbible.net/v2/darby/30/2.json",
     "sha": "1a456edd58d3452e3fd754f41aa15670ec637c09"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Amos",
     "chapter": 3,
     "name": "Amos 3",
-    "url": "https://getbible.net/v2/darby/30/3.json",
+    "url": "https://api.getbible.net/v2/darby/30/3.json",
     "sha": "dce5da26a26c4c9277383ec8b289d074d191bfa4"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Amos",
     "chapter": 4,
     "name": "Amos 4",
-    "url": "https://getbible.net/v2/darby/30/4.json",
+    "url": "https://api.getbible.net/v2/darby/30/4.json",
     "sha": "98923e834a7768e7f3f2e1905ae548cb55239886"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Amos",
     "chapter": 5,
     "name": "Amos 5",
-    "url": "https://getbible.net/v2/darby/30/5.json",
+    "url": "https://api.getbible.net/v2/darby/30/5.json",
     "sha": "5308a16508bbe8799f33fb22d5ab0c36fedb35f8"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Amos",
     "chapter": 6,
     "name": "Amos 6",
-    "url": "https://getbible.net/v2/darby/30/6.json",
+    "url": "https://api.getbible.net/v2/darby/30/6.json",
     "sha": "6a60a9273b8c4380305c1f979c8e395b64a39ee0"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Amos",
     "chapter": 7,
     "name": "Amos 7",
-    "url": "https://getbible.net/v2/darby/30/7.json",
+    "url": "https://api.getbible.net/v2/darby/30/7.json",
     "sha": "c1a45a95426592ffe4415b870f080c884a6ef4bf"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Amos",
     "chapter": 8,
     "name": "Amos 8",
-    "url": "https://getbible.net/v2/darby/30/8.json",
+    "url": "https://api.getbible.net/v2/darby/30/8.json",
     "sha": "f264a5ca4da6e0843276a4cbd2921f7eb45ee935"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Amos",
     "chapter": 9,
     "name": "Amos 9",
-    "url": "https://getbible.net/v2/darby/30/9.json",
+    "url": "https://api.getbible.net/v2/darby/30/9.json",
     "sha": "e9414ba7d1e53d96f4ca1cba92cdd94751c5b2ab"
   }
 }

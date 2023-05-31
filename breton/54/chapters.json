@@ -10,7 +10,7 @@
     "book_name": "1 Timothy",
     "chapter": 1,
     "name": "1 Timothy 1",
-    "url": "https://getbible.net/v2/breton/54/1.json",
+    "url": "https://api.getbible.net/v2/breton/54/1.json",
     "sha": "3b132264c2aa38eb0ac3ef02cdc8dcf62b6e7b2e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Timothy",
     "chapter": 2,
     "name": "1 Timothy 2",
-    "url": "https://getbible.net/v2/breton/54/2.json",
+    "url": "https://api.getbible.net/v2/breton/54/2.json",
     "sha": "d9ac16f07a26518df474ba7ba98aa8975113d481"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Timothy",
     "chapter": 3,
     "name": "1 Timothy 3",
-    "url": "https://getbible.net/v2/breton/54/3.json",
+    "url": "https://api.getbible.net/v2/breton/54/3.json",
     "sha": "c50677318bf5c8599a602fc65be37ab720ad6802"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Timothy",
     "chapter": 4,
     "name": "1 Timothy 4",
-    "url": "https://getbible.net/v2/breton/54/4.json",
+    "url": "https://api.getbible.net/v2/breton/54/4.json",
     "sha": "8379df40891f3b30e998dfb98ded1b81b4cae871"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Timothy",
     "chapter": 5,
     "name": "1 Timothy 5",
-    "url": "https://getbible.net/v2/breton/54/5.json",
+    "url": "https://api.getbible.net/v2/breton/54/5.json",
     "sha": "07645225d37a640f2a3821a8fa8f210e2d8ee5e2"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1 Timothy",
     "chapter": 6,
     "name": "1 Timothy 6",
-    "url": "https://getbible.net/v2/breton/54/6.json",
+    "url": "https://api.getbible.net/v2/breton/54/6.json",
     "sha": "cd038ca7cc1f6bdfb3db218356d9e60f8f19e640"
   }
 }

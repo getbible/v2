@@ -10,7 +10,7 @@
     "book_name": "雅歌",
     "chapter": 1,
     "name": "雅歌 1",
-    "url": "https://getbible.net/v2/cns/22/1.json",
+    "url": "https://api.getbible.net/v2/cns/22/1.json",
     "sha": "297faae1898c5c98f0959eaebe6772f94f7547dd"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "雅歌",
     "chapter": 2,
     "name": "雅歌 2",
-    "url": "https://getbible.net/v2/cns/22/2.json",
+    "url": "https://api.getbible.net/v2/cns/22/2.json",
     "sha": "e3cb46985deb41394f44dcb66cb5ea4675a2f803"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "雅歌",
     "chapter": 3,
     "name": "雅歌 3",
-    "url": "https://getbible.net/v2/cns/22/3.json",
+    "url": "https://api.getbible.net/v2/cns/22/3.json",
     "sha": "86cb41a40d7ae098dee74bbc3cda74c054ccf635"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "雅歌",
     "chapter": 4,
     "name": "雅歌 4",
-    "url": "https://getbible.net/v2/cns/22/4.json",
+    "url": "https://api.getbible.net/v2/cns/22/4.json",
     "sha": "3f828623fad73b5a78b52481de5d8f5a46fa4d3c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "雅歌",
     "chapter": 5,
     "name": "雅歌 5",
-    "url": "https://getbible.net/v2/cns/22/5.json",
+    "url": "https://api.getbible.net/v2/cns/22/5.json",
     "sha": "c066c07a45d5057252211368dd7c9872c4ef77b2"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "雅歌",
     "chapter": 6,
     "name": "雅歌 6",
-    "url": "https://getbible.net/v2/cns/22/6.json",
+    "url": "https://api.getbible.net/v2/cns/22/6.json",
     "sha": "608f55335c7423196a164eec01777c58c12fadc3"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "雅歌",
     "chapter": 7,
     "name": "雅歌 7",
-    "url": "https://getbible.net/v2/cns/22/7.json",
+    "url": "https://api.getbible.net/v2/cns/22/7.json",
     "sha": "f16dc8f4d17d56692a12d0ad5aa5b30cef72ad21"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "雅歌",
     "chapter": 8,
     "name": "雅歌 8",
-    "url": "https://getbible.net/v2/cns/22/8.json",
+    "url": "https://api.getbible.net/v2/cns/22/8.json",
     "sha": "220fdf7b3aa278957f4320439ec594f970d6902c"
   }
 }

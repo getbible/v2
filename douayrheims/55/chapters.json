@@ -10,7 +10,7 @@
     "book_name": "2 Timothy",
     "chapter": 1,
     "name": "2 Timothy 1",
-    "url": "https://getbible.net/v2/douayrheims/55/1.json",
+    "url": "https://api.getbible.net/v2/douayrheims/55/1.json",
     "sha": "226d55b1ffa88161d13ead67e125146f57a065b1"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Timothy",
     "chapter": 2,
     "name": "2 Timothy 2",
-    "url": "https://getbible.net/v2/douayrheims/55/2.json",
+    "url": "https://api.getbible.net/v2/douayrheims/55/2.json",
     "sha": "e0e3a33e6052fa5b5dbd0da15a56da340d0227f3"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Timothy",
     "chapter": 3,
     "name": "2 Timothy 3",
-    "url": "https://getbible.net/v2/douayrheims/55/3.json",
+    "url": "https://api.getbible.net/v2/douayrheims/55/3.json",
     "sha": "31becce64a9350b0b3857637857102d8d6a95b57"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Timothy",
     "chapter": 4,
     "name": "2 Timothy 4",
-    "url": "https://getbible.net/v2/douayrheims/55/4.json",
+    "url": "https://api.getbible.net/v2/douayrheims/55/4.json",
     "sha": "ad4daaf77f8b0c3afa0621aba94c7dcdf5ce8289"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "1. Timotheus",
     "chapter": 1,
     "name": "1. Timotheus 1",
-    "url": "https://getbible.net/v2/schlachter/54/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/54/1.json",
     "sha": "8bbf4b52527f3b7bd29ada8221f3cd3fb687d174"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1. Timotheus",
     "chapter": 2,
     "name": "1. Timotheus 2",
-    "url": "https://getbible.net/v2/schlachter/54/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/54/2.json",
     "sha": "723d1ad35562c1a2e3591f071ae1b06ab9632f8a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1. Timotheus",
     "chapter": 3,
     "name": "1. Timotheus 3",
-    "url": "https://getbible.net/v2/schlachter/54/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/54/3.json",
     "sha": "28d08298809fed6fdb9239016ae38afb33d98aef"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1. Timotheus",
     "chapter": 4,
     "name": "1. Timotheus 4",
-    "url": "https://getbible.net/v2/schlachter/54/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/54/4.json",
     "sha": "6e5e227302de91f9168214017e899e7588ed21f2"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1. Timotheus",
     "chapter": 5,
     "name": "1. Timotheus 5",
-    "url": "https://getbible.net/v2/schlachter/54/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/54/5.json",
     "sha": "9998ac4fab27c8c43a18dd119926be5c6969cdff"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1. Timotheus",
     "chapter": 6,
     "name": "1. Timotheus 6",
-    "url": "https://getbible.net/v2/schlachter/54/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/54/6.json",
     "sha": "5e1d89462b83c3ec427821bc4f0f7727a39f179d"
   }
 }

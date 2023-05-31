@@ -10,8 +10,8 @@
     "book_name": "Song of Songs",
     "chapter": 1,
     "name": "Song of Songs 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/1.json",
-    "sha": "d1a3b92692cabec84eef57ea870613d0689877c4"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/1.json",
+    "sha": "8aba58fb9364e7c5fb1082e4b2f5dbafe87965c3"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Song of Songs",
     "chapter": 2,
     "name": "Song of Songs 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/2.json",
-    "sha": "a70b46936d1f6800c266e5e87f02d29957ae459c"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/2.json",
+    "sha": "5eeeea93c66fd7f43422272fabd11673c8e9c428"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,8 +38,8 @@
     "book_name": "Song of Songs",
     "chapter": 3,
     "name": "Song of Songs 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/3.json",
-    "sha": "f21eca3f67fcaf8999ebc06009cb57b979ffa5e8"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/3.json",
+    "sha": "99e356581dcb52ecd0bd3ce2048964001643f7e3"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -52,8 +52,8 @@
     "book_name": "Song of Songs",
     "chapter": 4,
     "name": "Song of Songs 4",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/4.json",
-    "sha": "6f1ce481a564ab851ceed595fa92be3b7a027c07"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/4.json",
+    "sha": "92b339e430451e0f71c4a3d08307d41fdd51b94a"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -66,8 +66,8 @@
     "book_name": "Song of Songs",
     "chapter": 5,
     "name": "Song of Songs 5",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/5.json",
-    "sha": "4b39c3809b84670555e273558c39b613b99c8884"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/5.json",
+    "sha": "11b18cb3dd729c9b9683527d0b40aaf0b21b2a22"
   },
   "6": {
     "translation": "Pyha Raamattu (1992)",
@@ -80,8 +80,8 @@
     "book_name": "Song of Songs",
     "chapter": 6,
     "name": "Song of Songs 6",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/6.json",
-    "sha": "8a1b3d5754b860db12ac7ca1d25b5e633da59bcc"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/6.json",
+    "sha": "7cb3ef2ca9843bc236ab3435d783f4c9e0c7593a"
   },
   "7": {
     "translation": "Pyha Raamattu (1992)",
@@ -94,8 +94,8 @@
     "book_name": "Song of Songs",
     "chapter": 7,
     "name": "Song of Songs 7",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/7.json",
-    "sha": "56706f871ec8818b7bf1efd0dd0772416970f9d9"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/7.json",
+    "sha": "f53898a5267b56cfbfb3bae51e0c4c83321876df"
   },
   "8": {
     "translation": "Pyha Raamattu (1992)",
@@ -108,7 +108,7 @@
     "book_name": "Song of Songs",
     "chapter": 8,
     "name": "Song of Songs 8",
-    "url": "https://getbible.net/v2/pyharaamattu1992/22/8.json",
-    "sha": "2e04fbfa980b3a2d3515e9c307dc448689f0ed6e"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/22/8.json",
+    "sha": "af634abdbcdb7972d866693f17b294bc6afc4b99"
   }
 }

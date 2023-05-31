@@ -10,7 +10,7 @@
     "book_name": "1 Kronieke",
     "chapter": 1,
     "name": "1 Kronieke 1",
-    "url": "https://getbible.net/v2/aov/13/1.json",
+    "url": "https://api.getbible.net/v2/aov/13/1.json",
     "sha": "d2f121867721cbc8edf76ea91f8a61ee015551ca"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Kronieke",
     "chapter": 2,
     "name": "1 Kronieke 2",
-    "url": "https://getbible.net/v2/aov/13/2.json",
+    "url": "https://api.getbible.net/v2/aov/13/2.json",
     "sha": "1387e397169a37f1d0ef350647869d2d7a9f442e"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Kronieke",
     "chapter": 3,
     "name": "1 Kronieke 3",
-    "url": "https://getbible.net/v2/aov/13/3.json",
+    "url": "https://api.getbible.net/v2/aov/13/3.json",
     "sha": "cd46482d9c93048e9fc4dd491a099ebd03ed8a8d"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Kronieke",
     "chapter": 4,
     "name": "1 Kronieke 4",
-    "url": "https://getbible.net/v2/aov/13/4.json",
+    "url": "https://api.getbible.net/v2/aov/13/4.json",
     "sha": "ab88e27c181840cb5433731a814394955bcdd4c4"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Kronieke",
     "chapter": 5,
     "name": "1 Kronieke 5",
-    "url": "https://getbible.net/v2/aov/13/5.json",
+    "url": "https://api.getbible.net/v2/aov/13/5.json",
     "sha": "0699a375156e08c1fa3af170250efb487e101974"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1 Kronieke",
     "chapter": 6,
     "name": "1 Kronieke 6",
-    "url": "https://getbible.net/v2/aov/13/6.json",
+    "url": "https://api.getbible.net/v2/aov/13/6.json",
     "sha": "7748f4e3c1ed950c838bc9c62bf630bb7c1ea97f"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "1 Kronieke",
     "chapter": 7,
     "name": "1 Kronieke 7",
-    "url": "https://getbible.net/v2/aov/13/7.json",
+    "url": "https://api.getbible.net/v2/aov/13/7.json",
     "sha": "d7a637bd575ce72c252ff5b97a4fbe129d2bf220"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "1 Kronieke",
     "chapter": 8,
     "name": "1 Kronieke 8",
-    "url": "https://getbible.net/v2/aov/13/8.json",
+    "url": "https://api.getbible.net/v2/aov/13/8.json",
     "sha": "a1893d55c68f74893f336d7cc61766b530fc74e9"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "1 Kronieke",
     "chapter": 9,
     "name": "1 Kronieke 9",
-    "url": "https://getbible.net/v2/aov/13/9.json",
+    "url": "https://api.getbible.net/v2/aov/13/9.json",
     "sha": "f2a9f0cc6b4581bdc259459ec6152c029a81d5e1"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "1 Kronieke",
     "chapter": 10,
     "name": "1 Kronieke 10",
-    "url": "https://getbible.net/v2/aov/13/10.json",
+    "url": "https://api.getbible.net/v2/aov/13/10.json",
     "sha": "fde6d7380fba7dc44829ea96ce1d30c4bacfc415"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "1 Kronieke",
     "chapter": 11,
     "name": "1 Kronieke 11",
-    "url": "https://getbible.net/v2/aov/13/11.json",
+    "url": "https://api.getbible.net/v2/aov/13/11.json",
     "sha": "d2737c035e50bda350b4dba2f46e4c34833c8f03"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "1 Kronieke",
     "chapter": 12,
     "name": "1 Kronieke 12",
-    "url": "https://getbible.net/v2/aov/13/12.json",
+    "url": "https://api.getbible.net/v2/aov/13/12.json",
     "sha": "ee5b12a5af187c3740ea67a84b0a5901e2780f3f"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "1 Kronieke",
     "chapter": 13,
     "name": "1 Kronieke 13",
-    "url": "https://getbible.net/v2/aov/13/13.json",
+    "url": "https://api.getbible.net/v2/aov/13/13.json",
     "sha": "245db9cfdb72df17bf8ba0535f519dab7c61310d"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "1 Kronieke",
     "chapter": 14,
     "name": "1 Kronieke 14",
-    "url": "https://getbible.net/v2/aov/13/14.json",
+    "url": "https://api.getbible.net/v2/aov/13/14.json",
     "sha": "5dcb9e91f1033fac242dec3c9b715490c6a6d361"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "1 Kronieke",
     "chapter": 15,
     "name": "1 Kronieke 15",
-    "url": "https://getbible.net/v2/aov/13/15.json",
+    "url": "https://api.getbible.net/v2/aov/13/15.json",
     "sha": "a50ffed496ee1047cf4ae3f1e151e591207c832e"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "1 Kronieke",
     "chapter": 16,
     "name": "1 Kronieke 16",
-    "url": "https://getbible.net/v2/aov/13/16.json",
+    "url": "https://api.getbible.net/v2/aov/13/16.json",
     "sha": "066d525cbdb797773211cf8b965e578c0eab7302"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "1 Kronieke",
     "chapter": 17,
     "name": "1 Kronieke 17",
-    "url": "https://getbible.net/v2/aov/13/17.json",
+    "url": "https://api.getbible.net/v2/aov/13/17.json",
     "sha": "d8b5949f0571054d57560fb57ebe6871c37dbe6c"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "1 Kronieke",
     "chapter": 18,
     "name": "1 Kronieke 18",
-    "url": "https://getbible.net/v2/aov/13/18.json",
+    "url": "https://api.getbible.net/v2/aov/13/18.json",
     "sha": "eb5c73ad33a68cd6c186eca59550c1b5a93560a4"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "1 Kronieke",
     "chapter": 19,
     "name": "1 Kronieke 19",
-    "url": "https://getbible.net/v2/aov/13/19.json",
+    "url": "https://api.getbible.net/v2/aov/13/19.json",
     "sha": "934b60f6d7f247125c73d59bea363eec3120d529"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "1 Kronieke",
     "chapter": 20,
     "name": "1 Kronieke 20",
-    "url": "https://getbible.net/v2/aov/13/20.json",
+    "url": "https://api.getbible.net/v2/aov/13/20.json",
     "sha": "0ab1824926cc8056b75e9b7aa92eac3211940abd"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "1 Kronieke",
     "chapter": 21,
     "name": "1 Kronieke 21",
-    "url": "https://getbible.net/v2/aov/13/21.json",
+    "url": "https://api.getbible.net/v2/aov/13/21.json",
     "sha": "535520d1fb2663713a8562aa6bedd0318f5510f9"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "1 Kronieke",
     "chapter": 22,
     "name": "1 Kronieke 22",
-    "url": "https://getbible.net/v2/aov/13/22.json",
+    "url": "https://api.getbible.net/v2/aov/13/22.json",
     "sha": "0ecd9beea3e2ef44377cf7890790d95e1d3452e0"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "1 Kronieke",
     "chapter": 23,
     "name": "1 Kronieke 23",
-    "url": "https://getbible.net/v2/aov/13/23.json",
+    "url": "https://api.getbible.net/v2/aov/13/23.json",
     "sha": "d800ba641c7f295d3ff7b59305c291bad719acfa"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "1 Kronieke",
     "chapter": 24,
     "name": "1 Kronieke 24",
-    "url": "https://getbible.net/v2/aov/13/24.json",
+    "url": "https://api.getbible.net/v2/aov/13/24.json",
     "sha": "8871527cf57b3c98cf5bc3ee2a1ccbaa07348102"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "1 Kronieke",
     "chapter": 25,
     "name": "1 Kronieke 25",
-    "url": "https://getbible.net/v2/aov/13/25.json",
+    "url": "https://api.getbible.net/v2/aov/13/25.json",
     "sha": "450a54a9aca53fbf87b634e2d351c2121cdf7aba"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "1 Kronieke",
     "chapter": 26,
     "name": "1 Kronieke 26",
-    "url": "https://getbible.net/v2/aov/13/26.json",
+    "url": "https://api.getbible.net/v2/aov/13/26.json",
     "sha": "92e87dba6c3d28b9022a820f873d9c2a26a86821"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "1 Kronieke",
     "chapter": 27,
     "name": "1 Kronieke 27",
-    "url": "https://getbible.net/v2/aov/13/27.json",
+    "url": "https://api.getbible.net/v2/aov/13/27.json",
     "sha": "e5c43e8cfc319b8765ef3f1b13361badc41d9af0"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "1 Kronieke",
     "chapter": 28,
     "name": "1 Kronieke 28",
-    "url": "https://getbible.net/v2/aov/13/28.json",
+    "url": "https://api.getbible.net/v2/aov/13/28.json",
     "sha": "2a21aa798b08ae7ffacd6007ef4ae6d490a852aa"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "1 Kronieke",
     "chapter": 29,
     "name": "1 Kronieke 29",
-    "url": "https://getbible.net/v2/aov/13/29.json",
+    "url": "https://api.getbible.net/v2/aov/13/29.json",
     "sha": "c0529e05637382564630e603a3be53c3ed4c71c8"
   }
 }

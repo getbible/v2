@@ -10,7 +10,7 @@
     "book_name": "Prediger",
     "chapter": 1,
     "name": "Prediger 1",
-    "url": "https://getbible.net/v2/schlachter/21/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/1.json",
     "sha": "2773e4f92be56aa08dc1a9e516b358092b13ff6e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Prediger",
     "chapter": 2,
     "name": "Prediger 2",
-    "url": "https://getbible.net/v2/schlachter/21/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/2.json",
     "sha": "0c492af67cae93f424bac1d9f70b9eed5c770fef"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Prediger",
     "chapter": 3,
     "name": "Prediger 3",
-    "url": "https://getbible.net/v2/schlachter/21/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/3.json",
     "sha": "a096e3c241f45743e7d131c0d40d624b7bd114bf"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Prediger",
     "chapter": 4,
     "name": "Prediger 4",
-    "url": "https://getbible.net/v2/schlachter/21/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/4.json",
     "sha": "568ddf0ef101fd0595778e6331c7137644f600b1"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Prediger",
     "chapter": 5,
     "name": "Prediger 5",
-    "url": "https://getbible.net/v2/schlachter/21/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/5.json",
     "sha": "6f7048bd65f29406f089d1c6c0275521074460b7"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Prediger",
     "chapter": 6,
     "name": "Prediger 6",
-    "url": "https://getbible.net/v2/schlachter/21/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/6.json",
     "sha": "287d96d22142eb0b83070daaf487c40aa2b2a6b4"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Prediger",
     "chapter": 7,
     "name": "Prediger 7",
-    "url": "https://getbible.net/v2/schlachter/21/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/7.json",
     "sha": "e17a29264c7fa1eba991fe9f632ba7a5219eb62b"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Prediger",
     "chapter": 8,
     "name": "Prediger 8",
-    "url": "https://getbible.net/v2/schlachter/21/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/8.json",
     "sha": "2bf69165c6440182b4b6853cdfe1ba5aa92d62e8"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Prediger",
     "chapter": 9,
     "name": "Prediger 9",
-    "url": "https://getbible.net/v2/schlachter/21/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/9.json",
     "sha": "a02ee707679b152dad4f29438521f99ae3b96ae0"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Prediger",
     "chapter": 10,
     "name": "Prediger 10",
-    "url": "https://getbible.net/v2/schlachter/21/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/10.json",
     "sha": "81e56414570fe803130eacf4118c1331d61f538a"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Prediger",
     "chapter": 11,
     "name": "Prediger 11",
-    "url": "https://getbible.net/v2/schlachter/21/11.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/11.json",
     "sha": "b87f4bb66d3c4be12a000325f2f9b586465c960a"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Prediger",
     "chapter": 12,
     "name": "Prediger 12",
-    "url": "https://getbible.net/v2/schlachter/21/12.json",
+    "url": "https://api.getbible.net/v2/schlachter/21/12.json",
     "sha": "efd29720bb1960d5f738f9e77be8f039a88718cf"
   }
 }

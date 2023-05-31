@@ -10,7 +10,7 @@
     "book_name": "Luke",
     "chapter": 1,
     "name": "Luke 1",
-    "url": "https://getbible.net/v2/valera/42/1.json",
+    "url": "https://api.getbible.net/v2/valera/42/1.json",
     "sha": "2a6592d4cc18061066fb433c041a7cab09a0c038"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Luke",
     "chapter": 2,
     "name": "Luke 2",
-    "url": "https://getbible.net/v2/valera/42/2.json",
+    "url": "https://api.getbible.net/v2/valera/42/2.json",
     "sha": "2c6b14f2f4c89aef625abd6f723561c55c0e5703"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Luke",
     "chapter": 3,
     "name": "Luke 3",
-    "url": "https://getbible.net/v2/valera/42/3.json",
+    "url": "https://api.getbible.net/v2/valera/42/3.json",
     "sha": "8c3cb1fd3cb63431d8d5606757b30bb7c25636bb"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Luke",
     "chapter": 4,
     "name": "Luke 4",
-    "url": "https://getbible.net/v2/valera/42/4.json",
+    "url": "https://api.getbible.net/v2/valera/42/4.json",
     "sha": "0a95ea9bf21c58cc88a3e804829c0d884288bc1e"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Luke",
     "chapter": 5,
     "name": "Luke 5",
-    "url": "https://getbible.net/v2/valera/42/5.json",
+    "url": "https://api.getbible.net/v2/valera/42/5.json",
     "sha": "bb21f0f0706b29a47a1e0ace8440603c4c3c96cd"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Luke",
     "chapter": 6,
     "name": "Luke 6",
-    "url": "https://getbible.net/v2/valera/42/6.json",
+    "url": "https://api.getbible.net/v2/valera/42/6.json",
     "sha": "74d5dbaa860a930ad832a5b1e35eaa3fd50fc2db"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Luke",
     "chapter": 7,
     "name": "Luke 7",
-    "url": "https://getbible.net/v2/valera/42/7.json",
+    "url": "https://api.getbible.net/v2/valera/42/7.json",
     "sha": "7efe06e42d5ac92fa2ea6ebafa144a5a5954c072"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Luke",
     "chapter": 8,
     "name": "Luke 8",
-    "url": "https://getbible.net/v2/valera/42/8.json",
+    "url": "https://api.getbible.net/v2/valera/42/8.json",
     "sha": "8cff33c78bc8c752ab7e42a031e7ba0f21545baa"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Luke",
     "chapter": 9,
     "name": "Luke 9",
-    "url": "https://getbible.net/v2/valera/42/9.json",
+    "url": "https://api.getbible.net/v2/valera/42/9.json",
     "sha": "89b33db3b544e7f080defa1227d86317771ee165"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Luke",
     "chapter": 10,
     "name": "Luke 10",
-    "url": "https://getbible.net/v2/valera/42/10.json",
+    "url": "https://api.getbible.net/v2/valera/42/10.json",
     "sha": "7f64277f6ba210e1220004cf5786b747a4124b90"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Luke",
     "chapter": 11,
     "name": "Luke 11",
-    "url": "https://getbible.net/v2/valera/42/11.json",
+    "url": "https://api.getbible.net/v2/valera/42/11.json",
     "sha": "28595d6d65ef5dd115b59c561659f928681ebcdb"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Luke",
     "chapter": 12,
     "name": "Luke 12",
-    "url": "https://getbible.net/v2/valera/42/12.json",
+    "url": "https://api.getbible.net/v2/valera/42/12.json",
     "sha": "92bf3df4782184fc046f6d066d7192657fce4aaf"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Luke",
     "chapter": 13,
     "name": "Luke 13",
-    "url": "https://getbible.net/v2/valera/42/13.json",
+    "url": "https://api.getbible.net/v2/valera/42/13.json",
     "sha": "0c95674f4a7b89fe0b5b86dcad679293ca1ee2c8"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Luke",
     "chapter": 14,
     "name": "Luke 14",
-    "url": "https://getbible.net/v2/valera/42/14.json",
+    "url": "https://api.getbible.net/v2/valera/42/14.json",
     "sha": "171afb4149f6af38fa9dbbac0fc673f052f0268f"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Luke",
     "chapter": 15,
     "name": "Luke 15",
-    "url": "https://getbible.net/v2/valera/42/15.json",
+    "url": "https://api.getbible.net/v2/valera/42/15.json",
     "sha": "232eed15fafc2385401d6b7fa4ff549ab7916851"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Luke",
     "chapter": 16,
     "name": "Luke 16",
-    "url": "https://getbible.net/v2/valera/42/16.json",
+    "url": "https://api.getbible.net/v2/valera/42/16.json",
     "sha": "d9509d2c322610cde6d5e232ce9e6145e4ca015a"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Luke",
     "chapter": 17,
     "name": "Luke 17",
-    "url": "https://getbible.net/v2/valera/42/17.json",
+    "url": "https://api.getbible.net/v2/valera/42/17.json",
     "sha": "fead3be41a1b6a3a9865d120013bfad87a40bcff"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Luke",
     "chapter": 18,
     "name": "Luke 18",
-    "url": "https://getbible.net/v2/valera/42/18.json",
+    "url": "https://api.getbible.net/v2/valera/42/18.json",
     "sha": "dac8f5b65311e69a38cde098af913d0cae9197bc"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Luke",
     "chapter": 19,
     "name": "Luke 19",
-    "url": "https://getbible.net/v2/valera/42/19.json",
+    "url": "https://api.getbible.net/v2/valera/42/19.json",
     "sha": "210b013700c362abd58359f465446872819084f8"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Luke",
     "chapter": 20,
     "name": "Luke 20",
-    "url": "https://getbible.net/v2/valera/42/20.json",
+    "url": "https://api.getbible.net/v2/valera/42/20.json",
     "sha": "ac9a8d421c15fc115275c1984504dd55daed8a0c"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Luke",
     "chapter": 21,
     "name": "Luke 21",
-    "url": "https://getbible.net/v2/valera/42/21.json",
+    "url": "https://api.getbible.net/v2/valera/42/21.json",
     "sha": "0179887a4b34bc9391b53076cc431fd48c06000a"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Luke",
     "chapter": 22,
     "name": "Luke 22",
-    "url": "https://getbible.net/v2/valera/42/22.json",
+    "url": "https://api.getbible.net/v2/valera/42/22.json",
     "sha": "a371b0f410d8e15b7171f29ddbe66acc4d7bb4b4"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Luke",
     "chapter": 23,
     "name": "Luke 23",
-    "url": "https://getbible.net/v2/valera/42/23.json",
+    "url": "https://api.getbible.net/v2/valera/42/23.json",
     "sha": "2583a16d6046b5b2780961f8b68e2cce81ecc208"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Luke",
     "chapter": 24,
     "name": "Luke 24",
-    "url": "https://getbible.net/v2/valera/42/24.json",
+    "url": "https://api.getbible.net/v2/valera/42/24.json",
     "sha": "a5297684b52c4ddc23be409f11b18f8303b2b69d"
   }
 }

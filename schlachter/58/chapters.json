@@ -10,7 +10,7 @@
     "book_name": "Hebräer",
     "chapter": 1,
     "name": "Hebräer 1",
-    "url": "https://getbible.net/v2/schlachter/58/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/1.json",
     "sha": "a6ceb95ac34ccfe522e9603dbbda6a6e41251782"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Hebräer",
     "chapter": 2,
     "name": "Hebräer 2",
-    "url": "https://getbible.net/v2/schlachter/58/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/2.json",
     "sha": "4b7d0e3d9ef1ce1b1594fd0cc285acdb62781998"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Hebräer",
     "chapter": 3,
     "name": "Hebräer 3",
-    "url": "https://getbible.net/v2/schlachter/58/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/3.json",
     "sha": "eea80b167fcbe1d7696f89844cb77bc778a9becf"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Hebräer",
     "chapter": 4,
     "name": "Hebräer 4",
-    "url": "https://getbible.net/v2/schlachter/58/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/4.json",
     "sha": "431f3406df507e56e1a1ee9ac089e5ce07fe42bb"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Hebräer",
     "chapter": 5,
     "name": "Hebräer 5",
-    "url": "https://getbible.net/v2/schlachter/58/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/5.json",
     "sha": "9e06560189bef0e23d0e6e5c4993579ddbbd0a61"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Hebräer",
     "chapter": 6,
     "name": "Hebräer 6",
-    "url": "https://getbible.net/v2/schlachter/58/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/6.json",
     "sha": "558eb81b64f4a603e887ab0a6d15363d30e58d5d"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Hebräer",
     "chapter": 7,
     "name": "Hebräer 7",
-    "url": "https://getbible.net/v2/schlachter/58/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/7.json",
     "sha": "7a475062fc9831aa895d0ff19e5cd027be31a07b"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Hebräer",
     "chapter": 8,
     "name": "Hebräer 8",
-    "url": "https://getbible.net/v2/schlachter/58/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/8.json",
     "sha": "a91ceb6a6eeded77d8bf385c5c0072feac34cb25"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Hebräer",
     "chapter": 9,
     "name": "Hebräer 9",
-    "url": "https://getbible.net/v2/schlachter/58/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/9.json",
     "sha": "049642ad753223f44b78d40306fc9fde483a2a8a"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Hebräer",
     "chapter": 10,
     "name": "Hebräer 10",
-    "url": "https://getbible.net/v2/schlachter/58/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/10.json",
     "sha": "fbb790a1574b4ebce05bef8d99020d505027215e"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Hebräer",
     "chapter": 11,
     "name": "Hebräer 11",
-    "url": "https://getbible.net/v2/schlachter/58/11.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/11.json",
     "sha": "b736c7f06d9a8cf99f8ab39b82aee4f20ec0ffc3"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Hebräer",
     "chapter": 12,
     "name": "Hebräer 12",
-    "url": "https://getbible.net/v2/schlachter/58/12.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/12.json",
     "sha": "33e2c0c6a3c3e4972e64db5b172c2fa46fa562b3"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Hebräer",
     "chapter": 13,
     "name": "Hebräer 13",
-    "url": "https://getbible.net/v2/schlachter/58/13.json",
+    "url": "https://api.getbible.net/v2/schlachter/58/13.json",
     "sha": "050d863eae62982a2801398abe647a1dd00e0106"
   }
 }

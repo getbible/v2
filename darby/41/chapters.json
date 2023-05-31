@@ -10,7 +10,7 @@
     "book_name": "Mark",
     "chapter": 1,
     "name": "Mark 1",
-    "url": "https://getbible.net/v2/darby/41/1.json",
+    "url": "https://api.getbible.net/v2/darby/41/1.json",
     "sha": "4abbd2aba39b4be491b30501f0f47ed4920e8201"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Mark",
     "chapter": 2,
     "name": "Mark 2",
-    "url": "https://getbible.net/v2/darby/41/2.json",
+    "url": "https://api.getbible.net/v2/darby/41/2.json",
     "sha": "2f32e6f1a3d5a659d3cd22513ef9fd867177e3c4"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Mark",
     "chapter": 3,
     "name": "Mark 3",
-    "url": "https://getbible.net/v2/darby/41/3.json",
+    "url": "https://api.getbible.net/v2/darby/41/3.json",
     "sha": "560d8308fb3c709d434c14c093fde4d45be817f9"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Mark",
     "chapter": 4,
     "name": "Mark 4",
-    "url": "https://getbible.net/v2/darby/41/4.json",
+    "url": "https://api.getbible.net/v2/darby/41/4.json",
     "sha": "cd66d9502de265122f5c3ebed141cb3b239e1da4"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Mark",
     "chapter": 5,
     "name": "Mark 5",
-    "url": "https://getbible.net/v2/darby/41/5.json",
+    "url": "https://api.getbible.net/v2/darby/41/5.json",
     "sha": "64c6025fe13f2c9fe0984bef123094bfeeda4de4"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Mark",
     "chapter": 6,
     "name": "Mark 6",
-    "url": "https://getbible.net/v2/darby/41/6.json",
+    "url": "https://api.getbible.net/v2/darby/41/6.json",
     "sha": "80d64173b5739432f4125ec5309d438f2e1ce592"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Mark",
     "chapter": 7,
     "name": "Mark 7",
-    "url": "https://getbible.net/v2/darby/41/7.json",
+    "url": "https://api.getbible.net/v2/darby/41/7.json",
     "sha": "3f2861b7846578119d297cdf598df124b24d065e"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Mark",
     "chapter": 8,
     "name": "Mark 8",
-    "url": "https://getbible.net/v2/darby/41/8.json",
+    "url": "https://api.getbible.net/v2/darby/41/8.json",
     "sha": "bc3226ac3833aadfd36f380e3fffbcc55309ef98"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Mark",
     "chapter": 9,
     "name": "Mark 9",
-    "url": "https://getbible.net/v2/darby/41/9.json",
+    "url": "https://api.getbible.net/v2/darby/41/9.json",
     "sha": "28d2de7a83190bae3f5a3d33b9148febf3b09368"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Mark",
     "chapter": 10,
     "name": "Mark 10",
-    "url": "https://getbible.net/v2/darby/41/10.json",
+    "url": "https://api.getbible.net/v2/darby/41/10.json",
     "sha": "c1ae5f69b77164f92f4312eb086f7bf282a3d2c8"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Mark",
     "chapter": 11,
     "name": "Mark 11",
-    "url": "https://getbible.net/v2/darby/41/11.json",
+    "url": "https://api.getbible.net/v2/darby/41/11.json",
     "sha": "9e4e9ab50a277cb9d9831d3b4ca657ef46d1d90d"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Mark",
     "chapter": 12,
     "name": "Mark 12",
-    "url": "https://getbible.net/v2/darby/41/12.json",
+    "url": "https://api.getbible.net/v2/darby/41/12.json",
     "sha": "27ba0752b470ee4f9f28240a62217cd6aadbad14"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Mark",
     "chapter": 13,
     "name": "Mark 13",
-    "url": "https://getbible.net/v2/darby/41/13.json",
+    "url": "https://api.getbible.net/v2/darby/41/13.json",
     "sha": "8113fa22ae8fe4678989db3af648e85a1b55d748"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Mark",
     "chapter": 14,
     "name": "Mark 14",
-    "url": "https://getbible.net/v2/darby/41/14.json",
+    "url": "https://api.getbible.net/v2/darby/41/14.json",
     "sha": "edc3af72cf76ec280b6556843025c69def8a24bc"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Mark",
     "chapter": 15,
     "name": "Mark 15",
-    "url": "https://getbible.net/v2/darby/41/15.json",
+    "url": "https://api.getbible.net/v2/darby/41/15.json",
     "sha": "8f66f83b6e4ad41947d7e7fd556049d4e10eb80d"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Mark",
     "chapter": 16,
     "name": "Mark 16",
-    "url": "https://getbible.net/v2/darby/41/16.json",
+    "url": "https://api.getbible.net/v2/darby/41/16.json",
     "sha": "cc742ba6f4b22c83684cf22f0e4cc31d03975663"
   }
 }

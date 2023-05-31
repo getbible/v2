@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/bkr/61/1.json",
+    "url": "https://api.getbible.net/v2/bkr/61/1.json",
     "sha": "8228328e6b18922c3a2a8943f8c695eeb6d7f2b8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/bkr/61/2.json",
+    "url": "https://api.getbible.net/v2/bkr/61/2.json",
     "sha": "2d7fc8fb888121ed99598a3d0b88a6e8add85581"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/bkr/61/3.json",
+    "url": "https://api.getbible.net/v2/bkr/61/3.json",
     "sha": "7004c7f43335ab7e9345a37d5b152ad6f1a3e367"
   }
 }

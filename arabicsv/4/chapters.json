@@ -10,7 +10,7 @@
     "book_name": "Numbers",
     "chapter": 1,
     "name": "Numbers 1",
-    "url": "https://getbible.net/v2/arabicsv/4/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/1.json",
     "sha": "4b59b50aef50061839c00d549204c36f7a89688c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Numbers",
     "chapter": 2,
     "name": "Numbers 2",
-    "url": "https://getbible.net/v2/arabicsv/4/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/2.json",
     "sha": "4af3e9e774ca1305a497dfcc2d71cbd3e585a3ed"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Numbers",
     "chapter": 3,
     "name": "Numbers 3",
-    "url": "https://getbible.net/v2/arabicsv/4/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/3.json",
     "sha": "1f2449a44539f799e7de9220614bf5d4191bed77"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Numbers",
     "chapter": 4,
     "name": "Numbers 4",
-    "url": "https://getbible.net/v2/arabicsv/4/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/4.json",
     "sha": "022c46054faf56ab4b3ff78040a38d8aeab6b632"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Numbers",
     "chapter": 5,
     "name": "Numbers 5",
-    "url": "https://getbible.net/v2/arabicsv/4/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/5.json",
     "sha": "f2b3b2dde31d850b61e175c203b1b6a59be6f35e"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Numbers",
     "chapter": 6,
     "name": "Numbers 6",
-    "url": "https://getbible.net/v2/arabicsv/4/6.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/6.json",
     "sha": "a8e3ba625c5703da95c74c90bb2508d34aeae698"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Numbers",
     "chapter": 7,
     "name": "Numbers 7",
-    "url": "https://getbible.net/v2/arabicsv/4/7.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/7.json",
     "sha": "c43c511922a67257aa2569f178a8bb4495d335a0"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Numbers",
     "chapter": 8,
     "name": "Numbers 8",
-    "url": "https://getbible.net/v2/arabicsv/4/8.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/8.json",
     "sha": "e55f4d9099624d31ac9d286975c0c3685bfa10ec"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Numbers",
     "chapter": 9,
     "name": "Numbers 9",
-    "url": "https://getbible.net/v2/arabicsv/4/9.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/9.json",
     "sha": "e11ec98d556dc51d28057c45b4738c035647c0fa"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Numbers",
     "chapter": 10,
     "name": "Numbers 10",
-    "url": "https://getbible.net/v2/arabicsv/4/10.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/10.json",
     "sha": "a451c88f81204c48a486604778cf5319969ba2b2"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Numbers",
     "chapter": 11,
     "name": "Numbers 11",
-    "url": "https://getbible.net/v2/arabicsv/4/11.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/11.json",
     "sha": "ed0d22573dcd412f4a7c079bded5053e49679aee"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Numbers",
     "chapter": 12,
     "name": "Numbers 12",
-    "url": "https://getbible.net/v2/arabicsv/4/12.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/12.json",
     "sha": "a03a920a35902fe4ee85c18fd242a9236e64dc30"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Numbers",
     "chapter": 13,
     "name": "Numbers 13",
-    "url": "https://getbible.net/v2/arabicsv/4/13.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/13.json",
     "sha": "40695d57d39f59c7bb0fd73d0092675e0f7845ce"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Numbers",
     "chapter": 14,
     "name": "Numbers 14",
-    "url": "https://getbible.net/v2/arabicsv/4/14.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/14.json",
     "sha": "1a1dc8643c04973baea49a81cec0c07d0bbe4123"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Numbers",
     "chapter": 15,
     "name": "Numbers 15",
-    "url": "https://getbible.net/v2/arabicsv/4/15.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/15.json",
     "sha": "f3a3e60e3e56bb1eba13d0ef7bcb3f39fd39fe46"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Numbers",
     "chapter": 16,
     "name": "Numbers 16",
-    "url": "https://getbible.net/v2/arabicsv/4/16.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/16.json",
     "sha": "ad0f1176d1501e2e55e3cbfaf7150ff439abd597"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Numbers",
     "chapter": 17,
     "name": "Numbers 17",
-    "url": "https://getbible.net/v2/arabicsv/4/17.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/17.json",
     "sha": "6549db4202690b8a283f6800a83d22184f7fc68c"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Numbers",
     "chapter": 18,
     "name": "Numbers 18",
-    "url": "https://getbible.net/v2/arabicsv/4/18.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/18.json",
     "sha": "be216d79c6839819df84e46e72d0af7e3276bb8b"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Numbers",
     "chapter": 19,
     "name": "Numbers 19",
-    "url": "https://getbible.net/v2/arabicsv/4/19.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/19.json",
     "sha": "a69532ca253880c4f2b6863c502c3ede548ad2eb"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Numbers",
     "chapter": 20,
     "name": "Numbers 20",
-    "url": "https://getbible.net/v2/arabicsv/4/20.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/20.json",
     "sha": "5277d598a8da8c6055202a24b2a901bf3b41ba2a"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Numbers",
     "chapter": 21,
     "name": "Numbers 21",
-    "url": "https://getbible.net/v2/arabicsv/4/21.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/21.json",
     "sha": "71ca27de1cdb962c3bfa2b3b70e60a3a2157ccc2"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Numbers",
     "chapter": 22,
     "name": "Numbers 22",
-    "url": "https://getbible.net/v2/arabicsv/4/22.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/22.json",
     "sha": "34d343f9ef48c648da609f831253f39411388f1f"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Numbers",
     "chapter": 23,
     "name": "Numbers 23",
-    "url": "https://getbible.net/v2/arabicsv/4/23.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/23.json",
     "sha": "acccfdaf82755e9bcb5c823afd73beabae500d88"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Numbers",
     "chapter": 24,
     "name": "Numbers 24",
-    "url": "https://getbible.net/v2/arabicsv/4/24.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/24.json",
     "sha": "3b48842b36b4db90bcf174a657d43df9d4620260"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Numbers",
     "chapter": 25,
     "name": "Numbers 25",
-    "url": "https://getbible.net/v2/arabicsv/4/25.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/25.json",
     "sha": "2795ccedc5962afa248cc28eadc045040acf9d18"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Numbers",
     "chapter": 26,
     "name": "Numbers 26",
-    "url": "https://getbible.net/v2/arabicsv/4/26.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/26.json",
     "sha": "ccfc12ebe6d5e9f608737d5505c564f3cf43894e"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Numbers",
     "chapter": 27,
     "name": "Numbers 27",
-    "url": "https://getbible.net/v2/arabicsv/4/27.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/27.json",
     "sha": "6b026e4c5d2f0a26f10c357bb08d61a416324558"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Numbers",
     "chapter": 28,
     "name": "Numbers 28",
-    "url": "https://getbible.net/v2/arabicsv/4/28.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/28.json",
     "sha": "0a490de5cc32b364abaf78c26c51220f3deb862f"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Numbers",
     "chapter": 29,
     "name": "Numbers 29",
-    "url": "https://getbible.net/v2/arabicsv/4/29.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/29.json",
     "sha": "29d992aa2fec19bd63408731b932dc67d817bb53"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Numbers",
     "chapter": 30,
     "name": "Numbers 30",
-    "url": "https://getbible.net/v2/arabicsv/4/30.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/30.json",
     "sha": "1299224b7da052f3d2b7155378796f89b8222807"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Numbers",
     "chapter": 31,
     "name": "Numbers 31",
-    "url": "https://getbible.net/v2/arabicsv/4/31.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/31.json",
     "sha": "75ffe74374d747199631c33f1d309d99fb657e0a"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Numbers",
     "chapter": 32,
     "name": "Numbers 32",
-    "url": "https://getbible.net/v2/arabicsv/4/32.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/32.json",
     "sha": "5aa7cd0f1903ef248f6ef22ad7b69b706c40cc31"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Numbers",
     "chapter": 33,
     "name": "Numbers 33",
-    "url": "https://getbible.net/v2/arabicsv/4/33.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/33.json",
     "sha": "40472460771ea07848455e62f64ff5b557d45283"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Numbers",
     "chapter": 34,
     "name": "Numbers 34",
-    "url": "https://getbible.net/v2/arabicsv/4/34.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/34.json",
     "sha": "786cf08c454bd160f4c1ba5099a6d3eef0d9fdd2"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Numbers",
     "chapter": 35,
     "name": "Numbers 35",
-    "url": "https://getbible.net/v2/arabicsv/4/35.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/35.json",
     "sha": "00154646d784a1a0c0a10691d79f3869ebdd8b1c"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Numbers",
     "chapter": 36,
     "name": "Numbers 36",
-    "url": "https://getbible.net/v2/arabicsv/4/36.json",
+    "url": "https://api.getbible.net/v2/arabicsv/4/36.json",
     "sha": "d5a5f45d176228082f9634d35bb1523c771d92d1"
   }
 }

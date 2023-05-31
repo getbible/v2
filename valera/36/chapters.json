@@ -10,7 +10,7 @@
     "book_name": "Zephaniah",
     "chapter": 1,
     "name": "Zephaniah 1",
-    "url": "https://getbible.net/v2/valera/36/1.json",
+    "url": "https://api.getbible.net/v2/valera/36/1.json",
     "sha": "afe99963602c12d04dcf0f6d05bde7711458ebd9"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Zephaniah",
     "chapter": 2,
     "name": "Zephaniah 2",
-    "url": "https://getbible.net/v2/valera/36/2.json",
+    "url": "https://api.getbible.net/v2/valera/36/2.json",
     "sha": "c8295f1256ba293e725b892532ed16844c6d57c7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Zephaniah",
     "chapter": 3,
     "name": "Zephaniah 3",
-    "url": "https://getbible.net/v2/valera/36/3.json",
+    "url": "https://api.getbible.net/v2/valera/36/3.json",
     "sha": "b17ebea7796b9204e52ed8d983d84fccadbab86e"
   }
 }

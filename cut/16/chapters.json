@@ -10,7 +10,7 @@
     "book_name": "尼希米記",
     "chapter": 1,
     "name": "尼希米記 1",
-    "url": "https://getbible.net/v2/cut/16/1.json",
+    "url": "https://api.getbible.net/v2/cut/16/1.json",
     "sha": "01bfc5bf6c233e81de8fe2bde02b3683cb436158"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "尼希米記",
     "chapter": 2,
     "name": "尼希米記 2",
-    "url": "https://getbible.net/v2/cut/16/2.json",
+    "url": "https://api.getbible.net/v2/cut/16/2.json",
     "sha": "fab77395a694350d01ebd401461ee5ef242bbe39"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "尼希米記",
     "chapter": 3,
     "name": "尼希米記 3",
-    "url": "https://getbible.net/v2/cut/16/3.json",
+    "url": "https://api.getbible.net/v2/cut/16/3.json",
     "sha": "f82c744cbbca9dd77cea5d5f7587a506a0fcb547"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "尼希米記",
     "chapter": 4,
     "name": "尼希米記 4",
-    "url": "https://getbible.net/v2/cut/16/4.json",
+    "url": "https://api.getbible.net/v2/cut/16/4.json",
     "sha": "256f598f5a923af10918f48ca74cbf689a173472"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "尼希米記",
     "chapter": 5,
     "name": "尼希米記 5",
-    "url": "https://getbible.net/v2/cut/16/5.json",
+    "url": "https://api.getbible.net/v2/cut/16/5.json",
     "sha": "211417a1b56035a3f5e96b5a386b72f6f18be617"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "尼希米記",
     "chapter": 6,
     "name": "尼希米記 6",
-    "url": "https://getbible.net/v2/cut/16/6.json",
+    "url": "https://api.getbible.net/v2/cut/16/6.json",
     "sha": "3885fee3dbfbdd4a8468d956b52d9ec25418b9ee"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "尼希米記",
     "chapter": 7,
     "name": "尼希米記 7",
-    "url": "https://getbible.net/v2/cut/16/7.json",
+    "url": "https://api.getbible.net/v2/cut/16/7.json",
     "sha": "eb5d0b83f43143c93cf3acfa2cda178fdaefb9be"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "尼希米記",
     "chapter": 8,
     "name": "尼希米記 8",
-    "url": "https://getbible.net/v2/cut/16/8.json",
+    "url": "https://api.getbible.net/v2/cut/16/8.json",
     "sha": "5f4d84102227e3811c1579db9822663c5c9463a6"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "尼希米記",
     "chapter": 9,
     "name": "尼希米記 9",
-    "url": "https://getbible.net/v2/cut/16/9.json",
+    "url": "https://api.getbible.net/v2/cut/16/9.json",
     "sha": "2627b15b32612a7c73972dd91e8c0c7a14e1f1a3"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "尼希米記",
     "chapter": 10,
     "name": "尼希米記 10",
-    "url": "https://getbible.net/v2/cut/16/10.json",
+    "url": "https://api.getbible.net/v2/cut/16/10.json",
     "sha": "a04433b16f0415cd0a7ab4dc4911382c5e4bed33"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "尼希米記",
     "chapter": 11,
     "name": "尼希米記 11",
-    "url": "https://getbible.net/v2/cut/16/11.json",
+    "url": "https://api.getbible.net/v2/cut/16/11.json",
     "sha": "61009b1e6677ef685a4e1a42e2e5001a258bfa95"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "尼希米記",
     "chapter": 12,
     "name": "尼希米記 12",
-    "url": "https://getbible.net/v2/cut/16/12.json",
+    "url": "https://api.getbible.net/v2/cut/16/12.json",
     "sha": "3a48e0842bb1a6e1683640a1ae8093bb6e984983"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "尼希米記",
     "chapter": 13,
     "name": "尼希米記 13",
-    "url": "https://getbible.net/v2/cut/16/13.json",
+    "url": "https://api.getbible.net/v2/cut/16/13.json",
     "sha": "fb26436476768882f889aa3c787b7ef2fb3de1ec"
   }
 }

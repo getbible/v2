@@ -10,7 +10,7 @@
     "book_name": "Nehemiah",
     "chapter": 1,
     "name": "Nehemiah 1",
-    "url": "https://getbible.net/v2/codex/16/1.json",
+    "url": "https://api.getbible.net/v2/codex/16/1.json",
     "sha": "131d5ae5a03c098c8c336a256409c4bebd0f11a2"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nehemiah",
     "chapter": 2,
     "name": "Nehemiah 2",
-    "url": "https://getbible.net/v2/codex/16/2.json",
+    "url": "https://api.getbible.net/v2/codex/16/2.json",
     "sha": "919c74d308b0674b30288f91657cef5b5dc0709d"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nehemiah",
     "chapter": 3,
     "name": "Nehemiah 3",
-    "url": "https://getbible.net/v2/codex/16/3.json",
+    "url": "https://api.getbible.net/v2/codex/16/3.json",
     "sha": "153ba86371e56758c71229560eed7db6cf607984"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Nehemiah",
     "chapter": 4,
     "name": "Nehemiah 4",
-    "url": "https://getbible.net/v2/codex/16/4.json",
+    "url": "https://api.getbible.net/v2/codex/16/4.json",
     "sha": "8540a2b320b42ebbb2c1a8aa483f18ed81e3831f"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Nehemiah",
     "chapter": 5,
     "name": "Nehemiah 5",
-    "url": "https://getbible.net/v2/codex/16/5.json",
+    "url": "https://api.getbible.net/v2/codex/16/5.json",
     "sha": "77142c6442b4dc888a6f879bb6071b56976e3a2b"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Nehemiah",
     "chapter": 6,
     "name": "Nehemiah 6",
-    "url": "https://getbible.net/v2/codex/16/6.json",
+    "url": "https://api.getbible.net/v2/codex/16/6.json",
     "sha": "707f44bc275961df8cef10d00ab622d5978d8cad"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Nehemiah",
     "chapter": 7,
     "name": "Nehemiah 7",
-    "url": "https://getbible.net/v2/codex/16/7.json",
+    "url": "https://api.getbible.net/v2/codex/16/7.json",
     "sha": "5dec13ce83d1f0dd429627688455126bd056f7ad"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Nehemiah",
     "chapter": 8,
     "name": "Nehemiah 8",
-    "url": "https://getbible.net/v2/codex/16/8.json",
+    "url": "https://api.getbible.net/v2/codex/16/8.json",
     "sha": "a5a27ff087232d5492cff3543f48073ba93c59d0"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Nehemiah",
     "chapter": 9,
     "name": "Nehemiah 9",
-    "url": "https://getbible.net/v2/codex/16/9.json",
+    "url": "https://api.getbible.net/v2/codex/16/9.json",
     "sha": "8b42a9a9f729fcceb4b65baeec2f9379e9f58ebb"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Nehemiah",
     "chapter": 10,
     "name": "Nehemiah 10",
-    "url": "https://getbible.net/v2/codex/16/10.json",
+    "url": "https://api.getbible.net/v2/codex/16/10.json",
     "sha": "1360044e56f92bff6be85e635000804774a488fc"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Nehemiah",
     "chapter": 11,
     "name": "Nehemiah 11",
-    "url": "https://getbible.net/v2/codex/16/11.json",
+    "url": "https://api.getbible.net/v2/codex/16/11.json",
     "sha": "88ef928c973dbd38f165d603eb0c4fc485e2565c"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Nehemiah",
     "chapter": 12,
     "name": "Nehemiah 12",
-    "url": "https://getbible.net/v2/codex/16/12.json",
+    "url": "https://api.getbible.net/v2/codex/16/12.json",
     "sha": "be6dcadc22ba45218acbf7b1ce6dff35c7c5d431"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Nehemiah",
     "chapter": 13,
     "name": "Nehemiah 13",
-    "url": "https://getbible.net/v2/codex/16/13.json",
+    "url": "https://api.getbible.net/v2/codex/16/13.json",
     "sha": "a38727459958c2bb320d99b783c3c50b9794a259"
   }
 }

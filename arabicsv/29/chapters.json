@@ -10,7 +10,7 @@
     "book_name": "Joel",
     "chapter": 1,
     "name": "Joel 1",
-    "url": "https://getbible.net/v2/arabicsv/29/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/29/1.json",
     "sha": "2b90e6d60f872bbf05a9d3cbe8dec2ba9149da55"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Joel",
     "chapter": 2,
     "name": "Joel 2",
-    "url": "https://getbible.net/v2/arabicsv/29/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/29/2.json",
     "sha": "8ed1f82ee3539977ff636686eb563006edc8a8fb"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Joel",
     "chapter": 3,
     "name": "Joel 3",
-    "url": "https://getbible.net/v2/arabicsv/29/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/29/3.json",
     "sha": "36eaa41c03e2d427a2c2cdb0178e0237a627f798"
   }
 }

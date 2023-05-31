@@ -10,7 +10,7 @@
     "book_name": "Numbers",
     "chapter": 1,
     "name": "Numbers 1",
-    "url": "https://getbible.net/v2/mal1910/4/1.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/1.json",
     "sha": "e1eca3c3fae1da2a17373788f7a30cdb66ac978d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Numbers",
     "chapter": 2,
     "name": "Numbers 2",
-    "url": "https://getbible.net/v2/mal1910/4/2.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/2.json",
     "sha": "c9615b7cc8adeea3bf9f06a7de7d541536af99f6"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Numbers",
     "chapter": 3,
     "name": "Numbers 3",
-    "url": "https://getbible.net/v2/mal1910/4/3.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/3.json",
     "sha": "b9022a715296affce0edabcd23b1da6020744011"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Numbers",
     "chapter": 4,
     "name": "Numbers 4",
-    "url": "https://getbible.net/v2/mal1910/4/4.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/4.json",
     "sha": "d77847dc85d65f14308b4ade0b13ca167e16df29"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Numbers",
     "chapter": 5,
     "name": "Numbers 5",
-    "url": "https://getbible.net/v2/mal1910/4/5.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/5.json",
     "sha": "b15bdb65cacf53d341acfa01ba9eb7c1fc1aa402"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Numbers",
     "chapter": 6,
     "name": "Numbers 6",
-    "url": "https://getbible.net/v2/mal1910/4/6.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/6.json",
     "sha": "2be8bbf7f930884bee2cb09be779aba2b9b3f0d1"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Numbers",
     "chapter": 7,
     "name": "Numbers 7",
-    "url": "https://getbible.net/v2/mal1910/4/7.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/7.json",
     "sha": "7cb813737ed3004efff2eb5bec8fdf361f01f936"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Numbers",
     "chapter": 8,
     "name": "Numbers 8",
-    "url": "https://getbible.net/v2/mal1910/4/8.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/8.json",
     "sha": "33c44fb56a70c28f479b45d539737f50811da60c"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Numbers",
     "chapter": 9,
     "name": "Numbers 9",
-    "url": "https://getbible.net/v2/mal1910/4/9.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/9.json",
     "sha": "9431555a64dc56eb5fd9bb85492710b66a7de7fb"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Numbers",
     "chapter": 10,
     "name": "Numbers 10",
-    "url": "https://getbible.net/v2/mal1910/4/10.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/10.json",
     "sha": "9436ed7a5697cf6086197a0279f43b61dfd200fc"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Numbers",
     "chapter": 11,
     "name": "Numbers 11",
-    "url": "https://getbible.net/v2/mal1910/4/11.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/11.json",
     "sha": "97e4e9a9ca4e7c67c81520715b2a73f4c1e211fc"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Numbers",
     "chapter": 12,
     "name": "Numbers 12",
-    "url": "https://getbible.net/v2/mal1910/4/12.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/12.json",
     "sha": "b30f9fede277904fff8babbf8ff2e78e712f837b"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Numbers",
     "chapter": 13,
     "name": "Numbers 13",
-    "url": "https://getbible.net/v2/mal1910/4/13.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/13.json",
     "sha": "dc4a16d86bceb5d62adf50a358d0ad93b300f595"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Numbers",
     "chapter": 14,
     "name": "Numbers 14",
-    "url": "https://getbible.net/v2/mal1910/4/14.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/14.json",
     "sha": "5bf125abd40cf634d1112eaadce6bac4db73e9c3"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Numbers",
     "chapter": 15,
     "name": "Numbers 15",
-    "url": "https://getbible.net/v2/mal1910/4/15.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/15.json",
     "sha": "db4b3a4b14c12e0c202e0093c272e3bd4e16b154"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Numbers",
     "chapter": 16,
     "name": "Numbers 16",
-    "url": "https://getbible.net/v2/mal1910/4/16.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/16.json",
     "sha": "da0747d5db2404a3d43ddc58386076fd61e4f97a"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Numbers",
     "chapter": 17,
     "name": "Numbers 17",
-    "url": "https://getbible.net/v2/mal1910/4/17.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/17.json",
     "sha": "10ba1afc24b84eb9c901ad84922f16720e9e50af"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Numbers",
     "chapter": 18,
     "name": "Numbers 18",
-    "url": "https://getbible.net/v2/mal1910/4/18.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/18.json",
     "sha": "27e2a22538a06e252a9eb2a5aa921b9e5f2004cb"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Numbers",
     "chapter": 19,
     "name": "Numbers 19",
-    "url": "https://getbible.net/v2/mal1910/4/19.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/19.json",
     "sha": "97834b241e848a59198f8a4dced68fdd28dc408c"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Numbers",
     "chapter": 20,
     "name": "Numbers 20",
-    "url": "https://getbible.net/v2/mal1910/4/20.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/20.json",
     "sha": "335e46843053fe76f2acc6fb501385d89e6fc0cb"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Numbers",
     "chapter": 21,
     "name": "Numbers 21",
-    "url": "https://getbible.net/v2/mal1910/4/21.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/21.json",
     "sha": "aa20aca85841dd341c22d93f45a6651ae200b61e"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Numbers",
     "chapter": 22,
     "name": "Numbers 22",
-    "url": "https://getbible.net/v2/mal1910/4/22.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/22.json",
     "sha": "be39a7d08574ab776da75917ee75b7ceba8153f4"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Numbers",
     "chapter": 23,
     "name": "Numbers 23",
-    "url": "https://getbible.net/v2/mal1910/4/23.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/23.json",
     "sha": "c3405f8624ac3f0428442cd424112ba02db816b5"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Numbers",
     "chapter": 24,
     "name": "Numbers 24",
-    "url": "https://getbible.net/v2/mal1910/4/24.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/24.json",
     "sha": "4a814b12627b126eb91e63e5ea3a8e3a9877caaa"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Numbers",
     "chapter": 25,
     "name": "Numbers 25",
-    "url": "https://getbible.net/v2/mal1910/4/25.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/25.json",
     "sha": "07be07d8ac87536c903247bacc1a972a8225a6bb"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Numbers",
     "chapter": 26,
     "name": "Numbers 26",
-    "url": "https://getbible.net/v2/mal1910/4/26.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/26.json",
     "sha": "380e97817d405252327bface2f101fba943cffc0"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Numbers",
     "chapter": 27,
     "name": "Numbers 27",
-    "url": "https://getbible.net/v2/mal1910/4/27.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/27.json",
     "sha": "ad2e519007cee07903157f2ecf67e27cee213c81"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Numbers",
     "chapter": 28,
     "name": "Numbers 28",
-    "url": "https://getbible.net/v2/mal1910/4/28.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/28.json",
     "sha": "9d63cf601029620757d910a68c2bde08183f5dd9"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "Numbers",
     "chapter": 29,
     "name": "Numbers 29",
-    "url": "https://getbible.net/v2/mal1910/4/29.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/29.json",
     "sha": "7f85651f40eaa3cb61e79e056c92417e1d4c293c"
   },
   "30": {
@@ -416,7 +416,7 @@
     "book_name": "Numbers",
     "chapter": 30,
     "name": "Numbers 30",
-    "url": "https://getbible.net/v2/mal1910/4/30.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/30.json",
     "sha": "386548b9443c9bc70ac065189a983fec324dbde2"
   },
   "31": {
@@ -430,7 +430,7 @@
     "book_name": "Numbers",
     "chapter": 31,
     "name": "Numbers 31",
-    "url": "https://getbible.net/v2/mal1910/4/31.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/31.json",
     "sha": "9ce2927081ade57e402043def629a227420acf45"
   },
   "32": {
@@ -444,7 +444,7 @@
     "book_name": "Numbers",
     "chapter": 32,
     "name": "Numbers 32",
-    "url": "https://getbible.net/v2/mal1910/4/32.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/32.json",
     "sha": "6d442e55768cb9366e09c09a2a51a24911585d8f"
   },
   "33": {
@@ -458,7 +458,7 @@
     "book_name": "Numbers",
     "chapter": 33,
     "name": "Numbers 33",
-    "url": "https://getbible.net/v2/mal1910/4/33.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/33.json",
     "sha": "241a9491d219d17a34d81b88814f55ea24e60035"
   },
   "34": {
@@ -472,7 +472,7 @@
     "book_name": "Numbers",
     "chapter": 34,
     "name": "Numbers 34",
-    "url": "https://getbible.net/v2/mal1910/4/34.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/34.json",
     "sha": "e72150bcc94d4cac0064a0905c590031b3826036"
   },
   "35": {
@@ -486,7 +486,7 @@
     "book_name": "Numbers",
     "chapter": 35,
     "name": "Numbers 35",
-    "url": "https://getbible.net/v2/mal1910/4/35.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/35.json",
     "sha": "34fd02cd19940580a5daf6cb1fdacf721b763e96"
   },
   "36": {
@@ -500,7 +500,7 @@
     "book_name": "Numbers",
     "chapter": 36,
     "name": "Numbers 36",
-    "url": "https://getbible.net/v2/mal1910/4/36.json",
+    "url": "https://api.getbible.net/v2/mal1910/4/36.json",
     "sha": "085d63ac3ba7d4713c3cb6a980270995dd937627"
   }
 }

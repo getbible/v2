@@ -10,7 +10,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
-    "url": "https://getbible.net/v2/breton/53/1.json",
+    "url": "https://api.getbible.net/v2/breton/53/1.json",
     "sha": "243bff14466e5d4fc400971cd2e54c06ce3da1b8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
-    "url": "https://getbible.net/v2/breton/53/2.json",
+    "url": "https://api.getbible.net/v2/breton/53/2.json",
     "sha": "ddf5e85c5677bf8bbefa2f547522c9a261e08e6c"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
-    "url": "https://getbible.net/v2/breton/53/3.json",
+    "url": "https://api.getbible.net/v2/breton/53/3.json",
     "sha": "69c09f71ac375957faef8a405832a80f7ad5996a"
   }
 }

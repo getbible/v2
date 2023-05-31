@@ -10,7 +10,7 @@
     "book_name": "耶利米哀歌",
     "chapter": 1,
     "name": "耶利米哀歌 1",
-    "url": "https://getbible.net/v2/cns/25/1.json",
+    "url": "https://api.getbible.net/v2/cns/25/1.json",
     "sha": "cafac69d5053e0d056c9b139ed41765655996dc4"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "耶利米哀歌",
     "chapter": 2,
     "name": "耶利米哀歌 2",
-    "url": "https://getbible.net/v2/cns/25/2.json",
+    "url": "https://api.getbible.net/v2/cns/25/2.json",
     "sha": "8ee7607f8a45a8dc5d030692e93266e5eace8c4b"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "耶利米哀歌",
     "chapter": 3,
     "name": "耶利米哀歌 3",
-    "url": "https://getbible.net/v2/cns/25/3.json",
+    "url": "https://api.getbible.net/v2/cns/25/3.json",
     "sha": "b1b165de34ba1fd3584027c4a5ee476159329306"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "耶利米哀歌",
     "chapter": 4,
     "name": "耶利米哀歌 4",
-    "url": "https://getbible.net/v2/cns/25/4.json",
+    "url": "https://api.getbible.net/v2/cns/25/4.json",
     "sha": "bdbc85c3771e099d168d24afa088aa5e9bef2992"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "耶利米哀歌",
     "chapter": 5,
     "name": "耶利米哀歌 5",
-    "url": "https://getbible.net/v2/cns/25/5.json",
+    "url": "https://api.getbible.net/v2/cns/25/5.json",
     "sha": "4718a5924530413f00db7df3b8d9c8e03b6ac2d1"
   }
 }

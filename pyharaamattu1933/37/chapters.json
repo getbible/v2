@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/37/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/37/1.json",
     "sha": "5945715e5cd43fb14b5f1e56a90696fc05a306ac"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/37/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/37/2.json",
     "sha": "b1b141675d7da235338dbf360351593ec3707a96"
   }
 }

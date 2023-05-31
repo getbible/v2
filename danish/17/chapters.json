@@ -10,7 +10,7 @@
     "book_name": "Esther",
     "chapter": 1,
     "name": "Esther 1",
-    "url": "https://getbible.net/v2/danish/17/1.json",
+    "url": "https://api.getbible.net/v2/danish/17/1.json",
     "sha": "9c4a650e7f1c70c925433aa547497af0d493d8f5"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Esther",
     "chapter": 2,
     "name": "Esther 2",
-    "url": "https://getbible.net/v2/danish/17/2.json",
+    "url": "https://api.getbible.net/v2/danish/17/2.json",
     "sha": "95855b081a9a5d541be6827b0ae2e54a8c78ead6"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Esther",
     "chapter": 3,
     "name": "Esther 3",
-    "url": "https://getbible.net/v2/danish/17/3.json",
+    "url": "https://api.getbible.net/v2/danish/17/3.json",
     "sha": "4329efcb7b76cc1f4d57057736da7c3ea4ac5838"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Esther",
     "chapter": 4,
     "name": "Esther 4",
-    "url": "https://getbible.net/v2/danish/17/4.json",
+    "url": "https://api.getbible.net/v2/danish/17/4.json",
     "sha": "8ca93461e0fb3b7f629985870c31bc4eca04e540"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Esther",
     "chapter": 5,
     "name": "Esther 5",
-    "url": "https://getbible.net/v2/danish/17/5.json",
+    "url": "https://api.getbible.net/v2/danish/17/5.json",
     "sha": "fb5a7f1d67424ebde942a37b2aff33c40f2862ed"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Esther",
     "chapter": 6,
     "name": "Esther 6",
-    "url": "https://getbible.net/v2/danish/17/6.json",
+    "url": "https://api.getbible.net/v2/danish/17/6.json",
     "sha": "ebe56dea66b30ac35db929c9212d04e36e5bc97f"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Esther",
     "chapter": 7,
     "name": "Esther 7",
-    "url": "https://getbible.net/v2/danish/17/7.json",
+    "url": "https://api.getbible.net/v2/danish/17/7.json",
     "sha": "557b3ec92074d197607d764efafb722f3b0465a5"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Esther",
     "chapter": 8,
     "name": "Esther 8",
-    "url": "https://getbible.net/v2/danish/17/8.json",
+    "url": "https://api.getbible.net/v2/danish/17/8.json",
     "sha": "a4a675b3d682ebcafcadd8f396d526a8dbc9eb9a"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Esther",
     "chapter": 9,
     "name": "Esther 9",
-    "url": "https://getbible.net/v2/danish/17/9.json",
+    "url": "https://api.getbible.net/v2/danish/17/9.json",
     "sha": "340762acfd8cdcdcfdf34c180a857ef347511a0c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Esther",
     "chapter": 10,
     "name": "Esther 10",
-    "url": "https://getbible.net/v2/danish/17/10.json",
+    "url": "https://api.getbible.net/v2/danish/17/10.json",
     "sha": "249f1c57801a3f20a4746c84b3659e136c77ee53"
   }
 }

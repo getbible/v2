@@ -10,7 +10,7 @@
     "book_name": "Joel",
     "chapter": 1,
     "name": "Joel 1",
-    "url": "https://getbible.net/v2/modernhebrew/29/1.json",
+    "url": "https://api.getbible.net/v2/modernhebrew/29/1.json",
     "sha": "2f9ca6f1f0a55d49d48668de4c04b0b2d6ee9016"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Joel",
     "chapter": 2,
     "name": "Joel 2",
-    "url": "https://getbible.net/v2/modernhebrew/29/2.json",
+    "url": "https://api.getbible.net/v2/modernhebrew/29/2.json",
     "sha": "269f09e3d2239c42d3ae140a0bd73d00526c75bb"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Joel",
     "chapter": 3,
     "name": "Joel 3",
-    "url": "https://getbible.net/v2/modernhebrew/29/3.json",
+    "url": "https://api.getbible.net/v2/modernhebrew/29/3.json",
     "sha": "98497d21668392fecec276334364c602fce33071"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Colossians",
     "chapter": 1,
     "name": "Colossians 1",
-    "url": "https://getbible.net/v2/valera/51/1.json",
+    "url": "https://api.getbible.net/v2/valera/51/1.json",
     "sha": "18d079857c820818fd75c38c0c0acc752454792d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Colossians",
     "chapter": 2,
     "name": "Colossians 2",
-    "url": "https://getbible.net/v2/valera/51/2.json",
+    "url": "https://api.getbible.net/v2/valera/51/2.json",
     "sha": "a1487f761038b575e22c0f0b15aa980468f37c43"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Colossians",
     "chapter": 3,
     "name": "Colossians 3",
-    "url": "https://getbible.net/v2/valera/51/3.json",
+    "url": "https://api.getbible.net/v2/valera/51/3.json",
     "sha": "32015ec7ae1f971c7c907dd69c7e207b592adcbb"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Colossians",
     "chapter": 4,
     "name": "Colossians 4",
-    "url": "https://getbible.net/v2/valera/51/4.json",
+    "url": "https://api.getbible.net/v2/valera/51/4.json",
     "sha": "5b06400e74164fc1b73947357f9595d0a9be3329"
   }
 }

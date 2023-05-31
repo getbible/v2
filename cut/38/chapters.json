@@ -10,7 +10,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 1,
     "name": "撒迦利亞書 1",
-    "url": "https://getbible.net/v2/cut/38/1.json",
+    "url": "https://api.getbible.net/v2/cut/38/1.json",
     "sha": "20fa46a883abc48fa18934140a6569731b74a512"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 2,
     "name": "撒迦利亞書 2",
-    "url": "https://getbible.net/v2/cut/38/2.json",
+    "url": "https://api.getbible.net/v2/cut/38/2.json",
     "sha": "3c9e0594d492d920811323c567285ee669a10326"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 3,
     "name": "撒迦利亞書 3",
-    "url": "https://getbible.net/v2/cut/38/3.json",
+    "url": "https://api.getbible.net/v2/cut/38/3.json",
     "sha": "11d49d924c82603b86c6658947c6fb3f10f2bae8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 4,
     "name": "撒迦利亞書 4",
-    "url": "https://getbible.net/v2/cut/38/4.json",
+    "url": "https://api.getbible.net/v2/cut/38/4.json",
     "sha": "47a1549eacd109ee6b1509a05507b4276871b72b"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 5,
     "name": "撒迦利亞書 5",
-    "url": "https://getbible.net/v2/cut/38/5.json",
+    "url": "https://api.getbible.net/v2/cut/38/5.json",
     "sha": "3c3f36fb5c7d3dc1a29aed2f9d5155192dcdd6e6"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 6,
     "name": "撒迦利亞書 6",
-    "url": "https://getbible.net/v2/cut/38/6.json",
+    "url": "https://api.getbible.net/v2/cut/38/6.json",
     "sha": "6fa8b578dc2cda63859da8a17e792f3cc14eaaca"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 7,
     "name": "撒迦利亞書 7",
-    "url": "https://getbible.net/v2/cut/38/7.json",
+    "url": "https://api.getbible.net/v2/cut/38/7.json",
     "sha": "65bf00e24c06372fc3e30c3f5f8ffd65c61a9f50"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 8,
     "name": "撒迦利亞書 8",
-    "url": "https://getbible.net/v2/cut/38/8.json",
+    "url": "https://api.getbible.net/v2/cut/38/8.json",
     "sha": "9d032ce96877febca4e32586d2afc08e26fb1e9e"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 9,
     "name": "撒迦利亞書 9",
-    "url": "https://getbible.net/v2/cut/38/9.json",
+    "url": "https://api.getbible.net/v2/cut/38/9.json",
     "sha": "ab9d39f1cbdc6be78b0fa0e365af5ec8a1cc7582"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 10,
     "name": "撒迦利亞書 10",
-    "url": "https://getbible.net/v2/cut/38/10.json",
+    "url": "https://api.getbible.net/v2/cut/38/10.json",
     "sha": "5ca08567ff7096a9d945b2229653d7c20a365084"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 11,
     "name": "撒迦利亞書 11",
-    "url": "https://getbible.net/v2/cut/38/11.json",
+    "url": "https://api.getbible.net/v2/cut/38/11.json",
     "sha": "f79001ad6a1ca7f3df15f107f7c825af18b157ef"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 12,
     "name": "撒迦利亞書 12",
-    "url": "https://getbible.net/v2/cut/38/12.json",
+    "url": "https://api.getbible.net/v2/cut/38/12.json",
     "sha": "efab6d131c82e619bcaf794b0424dfcbf263731a"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 13,
     "name": "撒迦利亞書 13",
-    "url": "https://getbible.net/v2/cut/38/13.json",
+    "url": "https://api.getbible.net/v2/cut/38/13.json",
     "sha": "9403a438048a2a1d539e199d6f84d43af63970bf"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "撒迦利亞書",
     "chapter": 14,
     "name": "撒迦利亞書 14",
-    "url": "https://getbible.net/v2/cut/38/14.json",
+    "url": "https://api.getbible.net/v2/cut/38/14.json",
     "sha": "75e77c2b02166026cdcb6dac568a87e1901aa38a"
   }
 }

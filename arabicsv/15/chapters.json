@@ -10,7 +10,7 @@
     "book_name": "Ezra",
     "chapter": 1,
     "name": "Ezra 1",
-    "url": "https://getbible.net/v2/arabicsv/15/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/1.json",
     "sha": "3d903b8f02ee2b55c474f6be937bb654bf66bdf3"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ezra",
     "chapter": 2,
     "name": "Ezra 2",
-    "url": "https://getbible.net/v2/arabicsv/15/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/2.json",
     "sha": "6b45178b2bfdac35bb5522749ff6545d7feaa42a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ezra",
     "chapter": 3,
     "name": "Ezra 3",
-    "url": "https://getbible.net/v2/arabicsv/15/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/3.json",
     "sha": "10ff59e7263cff53f4aaee1572469b5fb0a74add"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ezra",
     "chapter": 4,
     "name": "Ezra 4",
-    "url": "https://getbible.net/v2/arabicsv/15/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/4.json",
     "sha": "ffdba363f9a8a87a949a40914389595b9d94b5cc"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ezra",
     "chapter": 5,
     "name": "Ezra 5",
-    "url": "https://getbible.net/v2/arabicsv/15/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/5.json",
     "sha": "d07ba59bdda7d76bcb66cae2975f557b334c6529"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ezra",
     "chapter": 6,
     "name": "Ezra 6",
-    "url": "https://getbible.net/v2/arabicsv/15/6.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/6.json",
     "sha": "72d2b18a43801c12a2c3206ce2eea2420168f747"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Ezra",
     "chapter": 7,
     "name": "Ezra 7",
-    "url": "https://getbible.net/v2/arabicsv/15/7.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/7.json",
     "sha": "8e3a2dfafc72e341f49d0331344544933ac34308"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Ezra",
     "chapter": 8,
     "name": "Ezra 8",
-    "url": "https://getbible.net/v2/arabicsv/15/8.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/8.json",
     "sha": "c2f90d46a0edc2ccc95570a38fcff9d4dd9f0bc4"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Ezra",
     "chapter": 9,
     "name": "Ezra 9",
-    "url": "https://getbible.net/v2/arabicsv/15/9.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/9.json",
     "sha": "29dbf1e886ffd5707062589300f6b2576dbd7c2b"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Ezra",
     "chapter": 10,
     "name": "Ezra 10",
-    "url": "https://getbible.net/v2/arabicsv/15/10.json",
+    "url": "https://api.getbible.net/v2/arabicsv/15/10.json",
     "sha": "06f3fc6b94bb028fae1a50fdfbd4a2410ae5443a"
   }
 }

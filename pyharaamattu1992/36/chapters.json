@@ -10,8 +10,8 @@
     "book_name": "Zephaniah",
     "chapter": 1,
     "name": "Zephaniah 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/36/1.json",
-    "sha": "dbd9bb369b0c9066e9a620a58a47e2b0df61a7e2"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/36/1.json",
+    "sha": "196068f6271e0058b3656b106456dc3890e3c081"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Zephaniah",
     "chapter": 2,
     "name": "Zephaniah 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/36/2.json",
-    "sha": "9639842adc655652c71571c12dcc1495d56ac81c"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/36/2.json",
+    "sha": "fc20c5dd4e107bc23a160630c9c8cca48fa215e5"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,7 +38,7 @@
     "book_name": "Zephaniah",
     "chapter": 3,
     "name": "Zephaniah 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/36/3.json",
-    "sha": "ba1e74612c58e2bcdc3696396fe360ef501c046d"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/36/3.json",
+    "sha": "2eb86a20d8b8857f3d4f5386539860b4bec3a180"
   }
 }

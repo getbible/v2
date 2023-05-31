@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/synodal/37/1.json",
+    "url": "https://api.getbible.net/v2/synodal/37/1.json",
     "sha": "4155d2cfb22779f3d30f706135fb905259d95aa2"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/synodal/37/2.json",
+    "url": "https://api.getbible.net/v2/synodal/37/2.json",
     "sha": "19dc6bdc1982fc92107c0ec1180881489a33853a"
   }
 }

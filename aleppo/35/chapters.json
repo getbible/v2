@@ -10,7 +10,7 @@
     "book_name": "Habakkuk",
     "chapter": 1,
     "name": "Habakkuk 1",
-    "url": "https://getbible.net/v2/aleppo/35/1.json",
+    "url": "https://api.getbible.net/v2/aleppo/35/1.json",
     "sha": "d1991cd2a37343180ec30f249c628a71ec71bbda"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Habakkuk",
     "chapter": 2,
     "name": "Habakkuk 2",
-    "url": "https://getbible.net/v2/aleppo/35/2.json",
+    "url": "https://api.getbible.net/v2/aleppo/35/2.json",
     "sha": "a63413b6ed89383046ce41f548922acfd0e1e740"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Habakkuk",
     "chapter": 3,
     "name": "Habakkuk 3",
-    "url": "https://getbible.net/v2/aleppo/35/3.json",
+    "url": "https://api.getbible.net/v2/aleppo/35/3.json",
     "sha": "4e3118caddee1f7379f37fe24fede240ccd90ef3"
   }
 }

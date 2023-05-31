@@ -10,7 +10,7 @@
     "book_name": "帖撒羅尼迦前書",
     "chapter": 1,
     "name": "帖撒羅尼迦前書 1",
-    "url": "https://getbible.net/v2/cnt/52/1.json",
+    "url": "https://api.getbible.net/v2/cnt/52/1.json",
     "sha": "1f4f630bafbcd9d6bfc230daf90ba33bce998fba"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "帖撒羅尼迦前書",
     "chapter": 2,
     "name": "帖撒羅尼迦前書 2",
-    "url": "https://getbible.net/v2/cnt/52/2.json",
+    "url": "https://api.getbible.net/v2/cnt/52/2.json",
     "sha": "a9070b7f5b7a1a7b679ee0904bd59ad33f353372"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "帖撒羅尼迦前書",
     "chapter": 3,
     "name": "帖撒羅尼迦前書 3",
-    "url": "https://getbible.net/v2/cnt/52/3.json",
+    "url": "https://api.getbible.net/v2/cnt/52/3.json",
     "sha": "8c5adfa9be901d118f95bc1b92d41286166f0042"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "帖撒羅尼迦前書",
     "chapter": 4,
     "name": "帖撒羅尼迦前書 4",
-    "url": "https://getbible.net/v2/cnt/52/4.json",
+    "url": "https://api.getbible.net/v2/cnt/52/4.json",
     "sha": "4527940d5e2a8aea3dd4ab869ba253fbd2700054"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "帖撒羅尼迦前書",
     "chapter": 5,
     "name": "帖撒羅尼迦前書 5",
-    "url": "https://getbible.net/v2/cnt/52/5.json",
+    "url": "https://api.getbible.net/v2/cnt/52/5.json",
     "sha": "8c849292a54b26176cbc5939fafb9a7d9b799ccd"
   }
 }

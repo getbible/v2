@@ -10,7 +10,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
-    "url": "https://getbible.net/v2/ls1910/53/1.json",
+    "url": "https://api.getbible.net/v2/ls1910/53/1.json",
     "sha": "fb4fe451f5f2d23fab0cb8c30c3b0910e4d3ffee"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
-    "url": "https://getbible.net/v2/ls1910/53/2.json",
+    "url": "https://api.getbible.net/v2/ls1910/53/2.json",
     "sha": "ecc1a0f3dbe0e2f11f4e84e2543fd9430ecdfeb6"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
-    "url": "https://getbible.net/v2/ls1910/53/3.json",
+    "url": "https://api.getbible.net/v2/ls1910/53/3.json",
     "sha": "0230b3580b7a1c3b1ab57b3d67723056e55fbf24"
   }
 }

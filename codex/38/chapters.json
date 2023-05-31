@@ -10,7 +10,7 @@
     "book_name": "Zechariah",
     "chapter": 1,
     "name": "Zechariah 1",
-    "url": "https://getbible.net/v2/codex/38/1.json",
+    "url": "https://api.getbible.net/v2/codex/38/1.json",
     "sha": "8bdc4a7ae7785c15a99e59c654f6b3de882a8e2f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Zechariah",
     "chapter": 2,
     "name": "Zechariah 2",
-    "url": "https://getbible.net/v2/codex/38/2.json",
+    "url": "https://api.getbible.net/v2/codex/38/2.json",
     "sha": "9e7ed57cf3cbf450b508da97ff163809241c91f9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Zechariah",
     "chapter": 3,
     "name": "Zechariah 3",
-    "url": "https://getbible.net/v2/codex/38/3.json",
+    "url": "https://api.getbible.net/v2/codex/38/3.json",
     "sha": "102d567b7678ad751c7968987aa10497357d471d"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Zechariah",
     "chapter": 4,
     "name": "Zechariah 4",
-    "url": "https://getbible.net/v2/codex/38/4.json",
+    "url": "https://api.getbible.net/v2/codex/38/4.json",
     "sha": "a59d0b03264fa9af7522d0855ee205831d837153"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Zechariah",
     "chapter": 5,
     "name": "Zechariah 5",
-    "url": "https://getbible.net/v2/codex/38/5.json",
+    "url": "https://api.getbible.net/v2/codex/38/5.json",
     "sha": "5ee6d74c23bd6f8540d45456708ca69ed9916374"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Zechariah",
     "chapter": 6,
     "name": "Zechariah 6",
-    "url": "https://getbible.net/v2/codex/38/6.json",
+    "url": "https://api.getbible.net/v2/codex/38/6.json",
     "sha": "9d1fe9fff838605ab7be468c39e3dec6481bc266"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Zechariah",
     "chapter": 7,
     "name": "Zechariah 7",
-    "url": "https://getbible.net/v2/codex/38/7.json",
+    "url": "https://api.getbible.net/v2/codex/38/7.json",
     "sha": "d31210f8a301ceb30199d882be5334808717cdb8"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Zechariah",
     "chapter": 8,
     "name": "Zechariah 8",
-    "url": "https://getbible.net/v2/codex/38/8.json",
+    "url": "https://api.getbible.net/v2/codex/38/8.json",
     "sha": "b5c4bc83c0568ba9cf33ffdccdbd8d73995b923a"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Zechariah",
     "chapter": 9,
     "name": "Zechariah 9",
-    "url": "https://getbible.net/v2/codex/38/9.json",
+    "url": "https://api.getbible.net/v2/codex/38/9.json",
     "sha": "3b337e79c3cc18d477c2250f67ae24611006ef18"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Zechariah",
     "chapter": 10,
     "name": "Zechariah 10",
-    "url": "https://getbible.net/v2/codex/38/10.json",
+    "url": "https://api.getbible.net/v2/codex/38/10.json",
     "sha": "dd7eec0056e31f8525caf3d02d2c848445664247"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Zechariah",
     "chapter": 11,
     "name": "Zechariah 11",
-    "url": "https://getbible.net/v2/codex/38/11.json",
+    "url": "https://api.getbible.net/v2/codex/38/11.json",
     "sha": "8c80b07648f5895892b8eb20a77881d843fca7b6"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Zechariah",
     "chapter": 12,
     "name": "Zechariah 12",
-    "url": "https://getbible.net/v2/codex/38/12.json",
+    "url": "https://api.getbible.net/v2/codex/38/12.json",
     "sha": "04b435d8e36f2c5c781d307ebc48a3c9916bf168"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Zechariah",
     "chapter": 13,
     "name": "Zechariah 13",
-    "url": "https://getbible.net/v2/codex/38/13.json",
+    "url": "https://api.getbible.net/v2/codex/38/13.json",
     "sha": "daba76dd04870484bdfa7fa430912e6b9353d306"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Zechariah",
     "chapter": 14,
     "name": "Zechariah 14",
-    "url": "https://getbible.net/v2/codex/38/14.json",
+    "url": "https://api.getbible.net/v2/codex/38/14.json",
     "sha": "26bd226cc1fba44dae0b4d59f7d5d0a65b0e9a5d"
   }
 }

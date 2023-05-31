@@ -10,7 +10,7 @@
     "book_name": "James",
     "chapter": 1,
     "name": "James 1",
-    "url": "https://getbible.net/v2/breton/59/1.json",
+    "url": "https://api.getbible.net/v2/breton/59/1.json",
     "sha": "7a2b90cd664f90b8a128a84bd3f6625aa85124b6"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "James",
     "chapter": 2,
     "name": "James 2",
-    "url": "https://getbible.net/v2/breton/59/2.json",
+    "url": "https://api.getbible.net/v2/breton/59/2.json",
     "sha": "48093ec12d4e96bd80535e4c21d689dce19a5a85"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "James",
     "chapter": 3,
     "name": "James 3",
-    "url": "https://getbible.net/v2/breton/59/3.json",
+    "url": "https://api.getbible.net/v2/breton/59/3.json",
     "sha": "ad195dd0a3a2ecada6021ad2ad693ec7408f5af1"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "James",
     "chapter": 4,
     "name": "James 4",
-    "url": "https://getbible.net/v2/breton/59/4.json",
+    "url": "https://api.getbible.net/v2/breton/59/4.json",
     "sha": "016324ed4955cb0acb70fbf2ba7ad2142263918d"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "James",
     "chapter": 5,
     "name": "James 5",
-    "url": "https://getbible.net/v2/breton/59/5.json",
+    "url": "https://api.getbible.net/v2/breton/59/5.json",
     "sha": "0d69461788522cd5ec7f9e106fcdf8f067d491da"
   }
 }

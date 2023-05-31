@@ -10,7 +10,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 1,
     "name": "1 Thessalonians 1",
-    "url": "https://getbible.net/v2/mal1910/52/1.json",
+    "url": "https://api.getbible.net/v2/mal1910/52/1.json",
     "sha": "dd9f63b8b519c59530f17d15091d13b18ca956fc"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 2,
     "name": "1 Thessalonians 2",
-    "url": "https://getbible.net/v2/mal1910/52/2.json",
+    "url": "https://api.getbible.net/v2/mal1910/52/2.json",
     "sha": "9f7febec784cea88af4dc8396e4699398de29b0b"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 3,
     "name": "1 Thessalonians 3",
-    "url": "https://getbible.net/v2/mal1910/52/3.json",
+    "url": "https://api.getbible.net/v2/mal1910/52/3.json",
     "sha": "cfe6d166e0dc7fddce4ab3bd1aa4c298af10f44c"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 4,
     "name": "1 Thessalonians 4",
-    "url": "https://getbible.net/v2/mal1910/52/4.json",
+    "url": "https://api.getbible.net/v2/mal1910/52/4.json",
     "sha": "49203cc6387d68eaae8f0a595d5906e56f8e1b3b"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 5,
     "name": "1 Thessalonians 5",
-    "url": "https://getbible.net/v2/mal1910/52/5.json",
+    "url": "https://api.getbible.net/v2/mal1910/52/5.json",
     "sha": "894da7967d333e2c61747114399a4ea9fc3a54f3"
   }
 }

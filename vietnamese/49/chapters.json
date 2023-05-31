@@ -10,7 +10,7 @@
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
-    "url": "https://getbible.net/v2/vietnamese/49/1.json",
+    "url": "https://api.getbible.net/v2/vietnamese/49/1.json",
     "sha": "105e2da6efcd7b4bd166edbe185414a4cd7c17b2"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
-    "url": "https://getbible.net/v2/vietnamese/49/2.json",
+    "url": "https://api.getbible.net/v2/vietnamese/49/2.json",
     "sha": "537d2a00f838cdeadf1ef777ff0af81cce4769e5"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
-    "url": "https://getbible.net/v2/vietnamese/49/3.json",
+    "url": "https://api.getbible.net/v2/vietnamese/49/3.json",
     "sha": "62a9810740cca9281f69bce414f4ff9ad62555e2"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
-    "url": "https://getbible.net/v2/vietnamese/49/4.json",
+    "url": "https://api.getbible.net/v2/vietnamese/49/4.json",
     "sha": "ddd4de4621c5df633f40da506d9fa3ce46cde600"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
-    "url": "https://getbible.net/v2/vietnamese/49/5.json",
+    "url": "https://api.getbible.net/v2/vietnamese/49/5.json",
     "sha": "4478cfcae17f4969cfe29f881d9da6e4efb50e81"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
-    "url": "https://getbible.net/v2/vietnamese/49/6.json",
+    "url": "https://api.getbible.net/v2/vietnamese/49/6.json",
     "sha": "7523d85d302e064b4f6dff829efafad53e9cb2c9"
   }
 }

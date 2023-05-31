@@ -10,7 +10,7 @@
     "book_name": "Revelation",
     "chapter": 1,
     "name": "Revelation 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/1.json",
     "sha": "4649ea83c2324d40a5a0bb85e4d30c627bf1b1fb"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Revelation",
     "chapter": 2,
     "name": "Revelation 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/2.json",
     "sha": "70d676341e13cb79214e69f9c433016f86aafdad"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Revelation",
     "chapter": 3,
     "name": "Revelation 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/3.json",
     "sha": "99d568b832f043f936f3fb2cc21cf0750cc6a5a1"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Revelation",
     "chapter": 4,
     "name": "Revelation 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/4.json",
     "sha": "8e3bd94aefffca89799a37028e50450b176bef9b"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Revelation",
     "chapter": 5,
     "name": "Revelation 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/5.json",
     "sha": "7720b2c14f167d9e8ca830d11f3cd9d070e74ea6"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Revelation",
     "chapter": 6,
     "name": "Revelation 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/6.json",
     "sha": "1558453c65ead2c79ea5d6ba2767c74831eac2f6"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Revelation",
     "chapter": 7,
     "name": "Revelation 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/7.json",
     "sha": "d05d982214527ce648736d8e7cce8712d47af258"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Revelation",
     "chapter": 8,
     "name": "Revelation 8",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/8.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/8.json",
     "sha": "7d063e31bc4a0fe3186042e63db6a73c7174b262"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Revelation",
     "chapter": 9,
     "name": "Revelation 9",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/9.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/9.json",
     "sha": "bd4b0fe7113743b756371b5a0acaba9580872b0c"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Revelation",
     "chapter": 10,
     "name": "Revelation 10",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/10.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/10.json",
     "sha": "290ffd7d7966e8a49138fdfc9fce3b4f246d26d2"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Revelation",
     "chapter": 11,
     "name": "Revelation 11",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/11.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/11.json",
     "sha": "d3be0054b51312b80c91f6892c9673b70d05e248"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Revelation",
     "chapter": 12,
     "name": "Revelation 12",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/12.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/12.json",
     "sha": "60fd4370b56c138baee40accb68578a13082556c"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Revelation",
     "chapter": 13,
     "name": "Revelation 13",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/13.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/13.json",
     "sha": "d106545fdae1e75b0c3bb4f5cae1d456b9704f5a"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Revelation",
     "chapter": 14,
     "name": "Revelation 14",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/14.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/14.json",
     "sha": "430a52db1da57fcbba3f67b8419249c2dd3cbf34"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Revelation",
     "chapter": 15,
     "name": "Revelation 15",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/15.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/15.json",
     "sha": "d5c24f1f836136e16be5871f0c6a9f7a10ea6d0f"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Revelation",
     "chapter": 16,
     "name": "Revelation 16",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/16.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/16.json",
     "sha": "2f94efbe1391c0a55d14a05bdec8b3f537829bb1"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Revelation",
     "chapter": 17,
     "name": "Revelation 17",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/17.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/17.json",
     "sha": "10288b5d2cb3a33ad83710951e47c184cb7f03c3"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Revelation",
     "chapter": 18,
     "name": "Revelation 18",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/18.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/18.json",
     "sha": "a772dd3647c80ae9a2b758ede3c621da0a0df185"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Revelation",
     "chapter": 19,
     "name": "Revelation 19",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/19.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/19.json",
     "sha": "fe6e2f8be363bae0765095c50391a2ef44acede3"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Revelation",
     "chapter": 20,
     "name": "Revelation 20",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/20.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/20.json",
     "sha": "1ea83ca0b2c9edce67efddb9df420da46bd3c8f6"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Revelation",
     "chapter": 21,
     "name": "Revelation 21",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/21.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/21.json",
     "sha": "e8ddc4056cc153e0f57706008a1d65e2162bc5cd"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Revelation",
     "chapter": 22,
     "name": "Revelation 22",
-    "url": "https://getbible.net/v2/pyharaamattu1933/66/22.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/66/22.json",
     "sha": "f46e05db8c18c4c4e197d90e97b15bc37612b74a"
   }
 }

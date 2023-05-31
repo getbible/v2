@@ -10,7 +10,7 @@
     "book_name": "西番雅书",
     "chapter": 1,
     "name": "西番雅书 1",
-    "url": "https://getbible.net/v2/cus/36/1.json",
+    "url": "https://api.getbible.net/v2/cus/36/1.json",
     "sha": "058763db755110faa90572a8e870caedbe9db969"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "西番雅书",
     "chapter": 2,
     "name": "西番雅书 2",
-    "url": "https://getbible.net/v2/cus/36/2.json",
+    "url": "https://api.getbible.net/v2/cus/36/2.json",
     "sha": "091aca97db960a2cb18f19183ca19ec7b9c240f7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "西番雅书",
     "chapter": 3,
     "name": "西番雅书 3",
-    "url": "https://getbible.net/v2/cus/36/3.json",
+    "url": "https://api.getbible.net/v2/cus/36/3.json",
     "sha": "d4c8fa3dbc191e1c818e84ee23455b58c59d4849"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/aleppo/34/1.json",
+    "url": "https://api.getbible.net/v2/aleppo/34/1.json",
     "sha": "18d902645f83a8b9d5f941f44e2b79ebd38cfd12"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/aleppo/34/2.json",
+    "url": "https://api.getbible.net/v2/aleppo/34/2.json",
     "sha": "89cf5259e6c7f1ebcfc456a8d84073de1cb1f15d"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/aleppo/34/3.json",
+    "url": "https://api.getbible.net/v2/aleppo/34/3.json",
     "sha": "2e7d501ac1311ffb8db9001ac18f37638674ec56"
   }
 }

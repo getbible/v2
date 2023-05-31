@@ -10,7 +10,7 @@
     "book_name": "Galatians",
     "chapter": 1,
     "name": "Galatians 1",
-    "url": "https://getbible.net/v2/vulgate/48/1.json",
+    "url": "https://api.getbible.net/v2/vulgate/48/1.json",
     "sha": "4618ec11c63219689da123bc5f262c40218f5b6e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Galatians",
     "chapter": 2,
     "name": "Galatians 2",
-    "url": "https://getbible.net/v2/vulgate/48/2.json",
+    "url": "https://api.getbible.net/v2/vulgate/48/2.json",
     "sha": "f6bb0138e30af2a8cd8000e492b952e242764de8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Galatians",
     "chapter": 3,
     "name": "Galatians 3",
-    "url": "https://getbible.net/v2/vulgate/48/3.json",
+    "url": "https://api.getbible.net/v2/vulgate/48/3.json",
     "sha": "1979f610794a06e7212b32ade566c07e9de2b919"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Galatians",
     "chapter": 4,
     "name": "Galatians 4",
-    "url": "https://getbible.net/v2/vulgate/48/4.json",
+    "url": "https://api.getbible.net/v2/vulgate/48/4.json",
     "sha": "d4db3445e25a0e6384e7f7f36f7241650e3f418d"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Galatians",
     "chapter": 5,
     "name": "Galatians 5",
-    "url": "https://getbible.net/v2/vulgate/48/5.json",
+    "url": "https://api.getbible.net/v2/vulgate/48/5.json",
     "sha": "cdab00ca3827d0e5affa113523750d10b4eff303"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Galatians",
     "chapter": 6,
     "name": "Galatians 6",
-    "url": "https://getbible.net/v2/vulgate/48/6.json",
+    "url": "https://api.getbible.net/v2/vulgate/48/6.json",
     "sha": "d4033ac77c8a29f41118fa58ccc3a3e70df02154"
   }
 }

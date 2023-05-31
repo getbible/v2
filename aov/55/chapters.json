@@ -10,7 +10,7 @@
     "book_name": "2 Timotheüs",
     "chapter": 1,
     "name": "2 Timotheüs 1",
-    "url": "https://getbible.net/v2/aov/55/1.json",
+    "url": "https://api.getbible.net/v2/aov/55/1.json",
     "sha": "bbcfb1f881a61e9387f19083c55a20397fbe2ccb"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Timotheüs",
     "chapter": 2,
     "name": "2 Timotheüs 2",
-    "url": "https://getbible.net/v2/aov/55/2.json",
+    "url": "https://api.getbible.net/v2/aov/55/2.json",
     "sha": "f830e01724a6f35e5ca8291263814db551c89106"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Timotheüs",
     "chapter": 3,
     "name": "2 Timotheüs 3",
-    "url": "https://getbible.net/v2/aov/55/3.json",
+    "url": "https://api.getbible.net/v2/aov/55/3.json",
     "sha": "b2713daf3c491a5708e8874da8f0f719294de0ff"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Timotheüs",
     "chapter": 4,
     "name": "2 Timotheüs 4",
-    "url": "https://getbible.net/v2/aov/55/4.json",
+    "url": "https://api.getbible.net/v2/aov/55/4.json",
     "sha": "6ada2b9447b67b1cb8368d0625ca383413d478db"
   }
 }

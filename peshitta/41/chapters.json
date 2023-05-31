@@ -10,7 +10,7 @@
     "book_name": "Mark",
     "chapter": 1,
     "name": "Mark 1",
-    "url": "https://getbible.net/v2/peshitta/41/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/1.json",
     "sha": "8743b0247e9abfc33293e02fd62b160f1c798421"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Mark",
     "chapter": 2,
     "name": "Mark 2",
-    "url": "https://getbible.net/v2/peshitta/41/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/2.json",
     "sha": "433284e904e6861a11a94c34aa017344700a4236"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Mark",
     "chapter": 3,
     "name": "Mark 3",
-    "url": "https://getbible.net/v2/peshitta/41/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/3.json",
     "sha": "3770e9f539e5f394947afe204b5092058d605724"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Mark",
     "chapter": 4,
     "name": "Mark 4",
-    "url": "https://getbible.net/v2/peshitta/41/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/4.json",
     "sha": "c46549083aa3ed9f6c45e597e8b80221d31762db"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Mark",
     "chapter": 5,
     "name": "Mark 5",
-    "url": "https://getbible.net/v2/peshitta/41/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/5.json",
     "sha": "05ed499bf4d5b48cd842c92484f24154604566ed"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Mark",
     "chapter": 6,
     "name": "Mark 6",
-    "url": "https://getbible.net/v2/peshitta/41/6.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/6.json",
     "sha": "00944cc4225a569bc199a31559fb71cb51cf79e0"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Mark",
     "chapter": 7,
     "name": "Mark 7",
-    "url": "https://getbible.net/v2/peshitta/41/7.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/7.json",
     "sha": "58d319e8dfbbe019c4168a4f86542c045fdf80e2"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Mark",
     "chapter": 8,
     "name": "Mark 8",
-    "url": "https://getbible.net/v2/peshitta/41/8.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/8.json",
     "sha": "99398b1b5402ffd8485b6a725968460d44840d05"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Mark",
     "chapter": 9,
     "name": "Mark 9",
-    "url": "https://getbible.net/v2/peshitta/41/9.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/9.json",
     "sha": "76bae629dcf185d3cc2310f16797da47544151cd"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Mark",
     "chapter": 10,
     "name": "Mark 10",
-    "url": "https://getbible.net/v2/peshitta/41/10.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/10.json",
     "sha": "5244d6f0001dcd0fc0486ecd11c746b24c8178af"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Mark",
     "chapter": 11,
     "name": "Mark 11",
-    "url": "https://getbible.net/v2/peshitta/41/11.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/11.json",
     "sha": "bcefe5bc0b0b0b8c94a4c0268763d2faaec9c92e"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Mark",
     "chapter": 12,
     "name": "Mark 12",
-    "url": "https://getbible.net/v2/peshitta/41/12.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/12.json",
     "sha": "535b24fb8bbbaf7dd4bffe17674e76348d86aa48"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Mark",
     "chapter": 13,
     "name": "Mark 13",
-    "url": "https://getbible.net/v2/peshitta/41/13.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/13.json",
     "sha": "5425a348fe97033a679d92b7671032c9b7375ccd"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Mark",
     "chapter": 14,
     "name": "Mark 14",
-    "url": "https://getbible.net/v2/peshitta/41/14.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/14.json",
     "sha": "fab6b29025281a6739ad26c89915097983e7b52b"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Mark",
     "chapter": 15,
     "name": "Mark 15",
-    "url": "https://getbible.net/v2/peshitta/41/15.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/15.json",
     "sha": "cf83ca3ed40e8e096b0a7b5b079beef4fdd46f9f"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Mark",
     "chapter": 16,
     "name": "Mark 16",
-    "url": "https://getbible.net/v2/peshitta/41/16.json",
+    "url": "https://api.getbible.net/v2/peshitta/41/16.json",
     "sha": "571a07804ebc46d70ced1f93e8cf256989b163e4"
   }
 }

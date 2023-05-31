@@ -10,7 +10,7 @@
     "book_name": "2 Timothy",
     "chapter": 1,
     "name": "2 Timothy 1",
-    "url": "https://getbible.net/v2/peshitta/55/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/55/1.json",
     "sha": "22a1591fc7f9f7f51aff429bae67ad3e4cb606ab"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Timothy",
     "chapter": 2,
     "name": "2 Timothy 2",
-    "url": "https://getbible.net/v2/peshitta/55/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/55/2.json",
     "sha": "183d5b115dfd44879e65f41fb1411177bd229a7a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Timothy",
     "chapter": 3,
     "name": "2 Timothy 3",
-    "url": "https://getbible.net/v2/peshitta/55/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/55/3.json",
     "sha": "4f90a8834cc2d99f74d19bfa7fd5752ec1073509"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Timothy",
     "chapter": 4,
     "name": "2 Timothy 4",
-    "url": "https://getbible.net/v2/peshitta/55/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/55/4.json",
     "sha": "fbceacb14cbfe26221221c027af6b1889b4247a8"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Titus",
     "chapter": 1,
     "name": "Titus 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/56/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/56/1.json",
     "sha": "d9d08dc6b514c2176fa54459c46c4cf9a9c8467a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Titus",
     "chapter": 2,
     "name": "Titus 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/56/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/56/2.json",
     "sha": "4bd94525ec62faab794ef6ca03b3bf198c0c8ff0"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Titus",
     "chapter": 3,
     "name": "Titus 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/56/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/56/3.json",
     "sha": "7a09bac580fece794db20e6dcbaa250e994f1859"
   }
 }

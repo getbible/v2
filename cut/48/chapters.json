@@ -10,7 +10,7 @@
     "book_name": "加拉太書",
     "chapter": 1,
     "name": "加拉太書 1",
-    "url": "https://getbible.net/v2/cut/48/1.json",
+    "url": "https://api.getbible.net/v2/cut/48/1.json",
     "sha": "f656787f11b8f0359014f711145518174c400f74"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "加拉太書",
     "chapter": 2,
     "name": "加拉太書 2",
-    "url": "https://getbible.net/v2/cut/48/2.json",
+    "url": "https://api.getbible.net/v2/cut/48/2.json",
     "sha": "7c723f13273c69554e1f7d0e4851cba7ad6bf52e"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "加拉太書",
     "chapter": 3,
     "name": "加拉太書 3",
-    "url": "https://getbible.net/v2/cut/48/3.json",
+    "url": "https://api.getbible.net/v2/cut/48/3.json",
     "sha": "5e5719538bd4ae3aab2156c419e85fa7936e3f79"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "加拉太書",
     "chapter": 4,
     "name": "加拉太書 4",
-    "url": "https://getbible.net/v2/cut/48/4.json",
+    "url": "https://api.getbible.net/v2/cut/48/4.json",
     "sha": "bcdc851db4881ddfe4eafec16dd0a2f888e5c934"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "加拉太書",
     "chapter": 5,
     "name": "加拉太書 5",
-    "url": "https://getbible.net/v2/cut/48/5.json",
+    "url": "https://api.getbible.net/v2/cut/48/5.json",
     "sha": "2f83f2fa61145c98d2869c6363c100e5e12cd164"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "加拉太書",
     "chapter": 6,
     "name": "加拉太書 6",
-    "url": "https://getbible.net/v2/cut/48/6.json",
+    "url": "https://api.getbible.net/v2/cut/48/6.json",
     "sha": "490a359da3718c85e8dd4e7a84df61b122455386"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "2. Thessalonicher",
     "chapter": 1,
     "name": "2. Thessalonicher 1",
-    "url": "https://getbible.net/v2/elberfelder/53/1.json",
+    "url": "https://api.getbible.net/v2/elberfelder/53/1.json",
     "sha": "f5eb1173ee5488facc26d54c1d3616c72efc6cbd"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2. Thessalonicher",
     "chapter": 2,
     "name": "2. Thessalonicher 2",
-    "url": "https://getbible.net/v2/elberfelder/53/2.json",
+    "url": "https://api.getbible.net/v2/elberfelder/53/2.json",
     "sha": "003e680927c6425bafeccffbfc9fd5a3c5b872f1"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2. Thessalonicher",
     "chapter": 3,
     "name": "2. Thessalonicher 3",
-    "url": "https://getbible.net/v2/elberfelder/53/3.json",
+    "url": "https://api.getbible.net/v2/elberfelder/53/3.json",
     "sha": "c268785e91a1157f1942570edcb893ea5f4dce95"
   }
 }

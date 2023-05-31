@@ -10,7 +10,7 @@
     "book_name": "腓立比书",
     "chapter": 1,
     "name": "腓立比书 1",
-    "url": "https://getbible.net/v2/cus/50/1.json",
+    "url": "https://api.getbible.net/v2/cus/50/1.json",
     "sha": "09142b0052108fdab4c58c80aee0bb2578b3ab84"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "腓立比书",
     "chapter": 2,
     "name": "腓立比书 2",
-    "url": "https://getbible.net/v2/cus/50/2.json",
+    "url": "https://api.getbible.net/v2/cus/50/2.json",
     "sha": "b005c43150cf17b394f916aeb465a34eea66be09"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "腓立比书",
     "chapter": 3,
     "name": "腓立比书 3",
-    "url": "https://getbible.net/v2/cus/50/3.json",
+    "url": "https://api.getbible.net/v2/cus/50/3.json",
     "sha": "477d2b3046ae9caed386566d9c91974d6b43788a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "腓立比书",
     "chapter": 4,
     "name": "腓立比书 4",
-    "url": "https://getbible.net/v2/cus/50/4.json",
+    "url": "https://api.getbible.net/v2/cus/50/4.json",
     "sha": "54051708f6d8000201ea4a213bcb189e97f37a17"
   }
 }

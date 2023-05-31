@@ -10,7 +10,7 @@
     "book_name": "Mark",
     "chapter": 1,
     "name": "Mark 1",
-    "url": "https://getbible.net/v2/textusreceptus/41/1.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/1.json",
     "sha": "465e3f03ecb7cac242b40f247d5b06b6730ed6ab"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Mark",
     "chapter": 2,
     "name": "Mark 2",
-    "url": "https://getbible.net/v2/textusreceptus/41/2.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/2.json",
     "sha": "0b106d8ba0eaff55b8fdbb75f832692ae741b661"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Mark",
     "chapter": 3,
     "name": "Mark 3",
-    "url": "https://getbible.net/v2/textusreceptus/41/3.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/3.json",
     "sha": "001cb6fd103e2abbad25c394f466e8fe5f9a022f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Mark",
     "chapter": 4,
     "name": "Mark 4",
-    "url": "https://getbible.net/v2/textusreceptus/41/4.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/4.json",
     "sha": "76dfa513d12f0dc8aab18d2cb418e3b7ef8ba64f"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Mark",
     "chapter": 5,
     "name": "Mark 5",
-    "url": "https://getbible.net/v2/textusreceptus/41/5.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/5.json",
     "sha": "90b7dc9fc0385a4b63333f8fef91fdf5f51d6c71"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Mark",
     "chapter": 6,
     "name": "Mark 6",
-    "url": "https://getbible.net/v2/textusreceptus/41/6.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/6.json",
     "sha": "5d2f8cc6a620c8500077a7f2041f4a6a75224cc5"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Mark",
     "chapter": 7,
     "name": "Mark 7",
-    "url": "https://getbible.net/v2/textusreceptus/41/7.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/7.json",
     "sha": "8896122ed9d8e70e4d296bde2728ca297bc1f92d"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Mark",
     "chapter": 8,
     "name": "Mark 8",
-    "url": "https://getbible.net/v2/textusreceptus/41/8.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/8.json",
     "sha": "f55bc0cf5698eae7152a522b4f5d83496e94dfde"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Mark",
     "chapter": 9,
     "name": "Mark 9",
-    "url": "https://getbible.net/v2/textusreceptus/41/9.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/9.json",
     "sha": "754926eb47a47bd8977e897bf81ebc4b91399d93"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Mark",
     "chapter": 10,
     "name": "Mark 10",
-    "url": "https://getbible.net/v2/textusreceptus/41/10.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/10.json",
     "sha": "4d33f8125566fcc7a1dd6ea5f13c1d39a19c068c"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Mark",
     "chapter": 11,
     "name": "Mark 11",
-    "url": "https://getbible.net/v2/textusreceptus/41/11.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/11.json",
     "sha": "db842ef2b10fa80bf6df39677dcb88765f4485dd"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Mark",
     "chapter": 12,
     "name": "Mark 12",
-    "url": "https://getbible.net/v2/textusreceptus/41/12.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/12.json",
     "sha": "2a0e5f14ec5ec5671a42811bdff7b440b893e2ec"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Mark",
     "chapter": 13,
     "name": "Mark 13",
-    "url": "https://getbible.net/v2/textusreceptus/41/13.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/13.json",
     "sha": "3df41e41f491fcc59a4818d5daafa0caf510627e"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Mark",
     "chapter": 14,
     "name": "Mark 14",
-    "url": "https://getbible.net/v2/textusreceptus/41/14.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/14.json",
     "sha": "60a552d9e3b0c8aa1faa98aca352049df30c758a"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Mark",
     "chapter": 15,
     "name": "Mark 15",
-    "url": "https://getbible.net/v2/textusreceptus/41/15.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/15.json",
     "sha": "07ee71f1bc706f208a0bb4cf907efe728b8bc80f"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Mark",
     "chapter": 16,
     "name": "Mark 16",
-    "url": "https://getbible.net/v2/textusreceptus/41/16.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/41/16.json",
     "sha": "d662982972d746053fa239a7585dac73d86e13eb"
   }
 }

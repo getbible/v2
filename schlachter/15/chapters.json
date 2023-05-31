@@ -10,7 +10,7 @@
     "book_name": "Esra",
     "chapter": 1,
     "name": "Esra 1",
-    "url": "https://getbible.net/v2/schlachter/15/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/1.json",
     "sha": "450e9df38ed9cddd636327066fef68ff37ae360f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Esra",
     "chapter": 2,
     "name": "Esra 2",
-    "url": "https://getbible.net/v2/schlachter/15/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/2.json",
     "sha": "437be578a8eb00edce984b3f196319d320b489f3"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Esra",
     "chapter": 3,
     "name": "Esra 3",
-    "url": "https://getbible.net/v2/schlachter/15/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/3.json",
     "sha": "cd200c4073dd1dcf50700719fe5060e2d373f7ca"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Esra",
     "chapter": 4,
     "name": "Esra 4",
-    "url": "https://getbible.net/v2/schlachter/15/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/4.json",
     "sha": "89e4b433a16244bac494af70a5a64df112fadef4"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Esra",
     "chapter": 5,
     "name": "Esra 5",
-    "url": "https://getbible.net/v2/schlachter/15/5.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/5.json",
     "sha": "dcc28a962a57f553df8a73342c318914acbdd5d6"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Esra",
     "chapter": 6,
     "name": "Esra 6",
-    "url": "https://getbible.net/v2/schlachter/15/6.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/6.json",
     "sha": "6be9c919317cb6cacf4e77da86d18b46a4398f98"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Esra",
     "chapter": 7,
     "name": "Esra 7",
-    "url": "https://getbible.net/v2/schlachter/15/7.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/7.json",
     "sha": "5f26b08de5fbf85bcdaecfe9f3a78acc6fe6ee2b"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Esra",
     "chapter": 8,
     "name": "Esra 8",
-    "url": "https://getbible.net/v2/schlachter/15/8.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/8.json",
     "sha": "ccff0bbf017e2ac3ffbbd408124e783a5a8efc7d"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Esra",
     "chapter": 9,
     "name": "Esra 9",
-    "url": "https://getbible.net/v2/schlachter/15/9.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/9.json",
     "sha": "046c17ca005119c6f8c12294ecc779dada122425"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Esra",
     "chapter": 10,
     "name": "Esra 10",
-    "url": "https://getbible.net/v2/schlachter/15/10.json",
+    "url": "https://api.getbible.net/v2/schlachter/15/10.json",
     "sha": "2c525b8698eb3340de3dd83ac129f4a514e0b46a"
   }
 }

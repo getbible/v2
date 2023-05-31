@@ -10,7 +10,7 @@
     "book_name": "哈該書",
     "chapter": 1,
     "name": "哈該書 1",
-    "url": "https://getbible.net/v2/cnt/37/1.json",
+    "url": "https://api.getbible.net/v2/cnt/37/1.json",
     "sha": "96727b7da9fd015bcec3307c2256333ebe6dc9aa"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "哈該書",
     "chapter": 2,
     "name": "哈該書 2",
-    "url": "https://getbible.net/v2/cnt/37/2.json",
+    "url": "https://api.getbible.net/v2/cnt/37/2.json",
     "sha": "f90c83646010ccefbf3bac6688df26ba9f9b7848"
   }
 }

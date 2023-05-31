@@ -10,7 +10,7 @@
     "book_name": "Matthew",
     "chapter": 1,
     "name": "Matthew 1",
-    "url": "https://getbible.net/v2/peshitta/40/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/1.json",
     "sha": "293121af76d3b066b7c68a078b47f33a9a106df7"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Matthew",
     "chapter": 2,
     "name": "Matthew 2",
-    "url": "https://getbible.net/v2/peshitta/40/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/2.json",
     "sha": "757a24ddf5b33c6232fc76941ee069d17cb54866"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Matthew",
     "chapter": 3,
     "name": "Matthew 3",
-    "url": "https://getbible.net/v2/peshitta/40/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/3.json",
     "sha": "26578dab6b9dfa835a731e15de656771e4e73c15"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Matthew",
     "chapter": 4,
     "name": "Matthew 4",
-    "url": "https://getbible.net/v2/peshitta/40/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/4.json",
     "sha": "85d7425632be966fb0ad4186d5932f4c237f752a"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Matthew",
     "chapter": 5,
     "name": "Matthew 5",
-    "url": "https://getbible.net/v2/peshitta/40/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/5.json",
     "sha": "1026e17e67b62a0a777fbca664f4853a1864b307"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Matthew",
     "chapter": 6,
     "name": "Matthew 6",
-    "url": "https://getbible.net/v2/peshitta/40/6.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/6.json",
     "sha": "91951d08903dc3f84baafd3ad3a5d2f8ba18f501"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Matthew",
     "chapter": 7,
     "name": "Matthew 7",
-    "url": "https://getbible.net/v2/peshitta/40/7.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/7.json",
     "sha": "d9efaa6f28902fdc4c518d573f0a9f640c473bb2"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Matthew",
     "chapter": 8,
     "name": "Matthew 8",
-    "url": "https://getbible.net/v2/peshitta/40/8.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/8.json",
     "sha": "0a72d836735fd2805f6837a62758838710084861"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Matthew",
     "chapter": 9,
     "name": "Matthew 9",
-    "url": "https://getbible.net/v2/peshitta/40/9.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/9.json",
     "sha": "e4eede4f77ce1b7fd186aa25391aa7efde656a2d"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Matthew",
     "chapter": 10,
     "name": "Matthew 10",
-    "url": "https://getbible.net/v2/peshitta/40/10.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/10.json",
     "sha": "c0b6a431ff1d389c6bd9a008326b94c87a8941e2"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Matthew",
     "chapter": 11,
     "name": "Matthew 11",
-    "url": "https://getbible.net/v2/peshitta/40/11.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/11.json",
     "sha": "ffa3670509800c36dc75eabd9b46d67d253cc1dc"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Matthew",
     "chapter": 12,
     "name": "Matthew 12",
-    "url": "https://getbible.net/v2/peshitta/40/12.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/12.json",
     "sha": "410e1c071fcc2ad301709bcf156d3ae723fb3e6d"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Matthew",
     "chapter": 13,
     "name": "Matthew 13",
-    "url": "https://getbible.net/v2/peshitta/40/13.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/13.json",
     "sha": "e553b6d4caaf11da09b7f49f23341ce4bbbe9e88"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Matthew",
     "chapter": 14,
     "name": "Matthew 14",
-    "url": "https://getbible.net/v2/peshitta/40/14.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/14.json",
     "sha": "ce0734d867a026dfaaf357308b3ede33ddd27dcc"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Matthew",
     "chapter": 15,
     "name": "Matthew 15",
-    "url": "https://getbible.net/v2/peshitta/40/15.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/15.json",
     "sha": "aab61a5dd2cd18a97059e1861054ef4e6525d992"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Matthew",
     "chapter": 16,
     "name": "Matthew 16",
-    "url": "https://getbible.net/v2/peshitta/40/16.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/16.json",
     "sha": "acfd2bb7807427b547dbd289b7c1cd38ff198a2f"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Matthew",
     "chapter": 17,
     "name": "Matthew 17",
-    "url": "https://getbible.net/v2/peshitta/40/17.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/17.json",
     "sha": "fbdb539bfa39d5c2527410b0bc32168449094abe"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Matthew",
     "chapter": 18,
     "name": "Matthew 18",
-    "url": "https://getbible.net/v2/peshitta/40/18.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/18.json",
     "sha": "b016da1b25035f74f70e8c0406c350c996053d97"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Matthew",
     "chapter": 19,
     "name": "Matthew 19",
-    "url": "https://getbible.net/v2/peshitta/40/19.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/19.json",
     "sha": "7971e3c894a52b9d01f1b6e4d1a0ecd60300b31d"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Matthew",
     "chapter": 20,
     "name": "Matthew 20",
-    "url": "https://getbible.net/v2/peshitta/40/20.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/20.json",
     "sha": "921be36bd71b005ea9d053b4a106c5bf54a5dda1"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Matthew",
     "chapter": 21,
     "name": "Matthew 21",
-    "url": "https://getbible.net/v2/peshitta/40/21.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/21.json",
     "sha": "6045622901bd846a097c287be8e8a0446ccd64a6"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Matthew",
     "chapter": 22,
     "name": "Matthew 22",
-    "url": "https://getbible.net/v2/peshitta/40/22.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/22.json",
     "sha": "bdf520fff1798c3ddccf977f91957ceabfcdfc01"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Matthew",
     "chapter": 23,
     "name": "Matthew 23",
-    "url": "https://getbible.net/v2/peshitta/40/23.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/23.json",
     "sha": "1d5b2b7347d467e342c3bb5151097590f0a84312"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Matthew",
     "chapter": 24,
     "name": "Matthew 24",
-    "url": "https://getbible.net/v2/peshitta/40/24.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/24.json",
     "sha": "84e1d13de58a72a736a68a6327985da2af94fbef"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Matthew",
     "chapter": 25,
     "name": "Matthew 25",
-    "url": "https://getbible.net/v2/peshitta/40/25.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/25.json",
     "sha": "dd7da58c17b9867632699f54f625889133a358e4"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Matthew",
     "chapter": 26,
     "name": "Matthew 26",
-    "url": "https://getbible.net/v2/peshitta/40/26.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/26.json",
     "sha": "ecf426d66ff5eee406f82c1bcae9d195d570ab5b"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Matthew",
     "chapter": 27,
     "name": "Matthew 27",
-    "url": "https://getbible.net/v2/peshitta/40/27.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/27.json",
     "sha": "4059bb877df182a0aa53d9d8cf7cd321b09f6e95"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Matthew",
     "chapter": 28,
     "name": "Matthew 28",
-    "url": "https://getbible.net/v2/peshitta/40/28.json",
+    "url": "https://api.getbible.net/v2/peshitta/40/28.json",
     "sha": "a6eebcc9b61ccea4ca7208e4133b7a7141c966f7"
   }
 }

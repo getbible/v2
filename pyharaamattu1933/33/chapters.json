@@ -10,7 +10,7 @@
     "book_name": "Micah",
     "chapter": 1,
     "name": "Micah 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/33/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/33/1.json",
     "sha": "8e6db5ca5798d7e009da705d7dc83fc60ae2872d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Micah",
     "chapter": 2,
     "name": "Micah 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/33/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/33/2.json",
     "sha": "7d77388b5f520bc5990d175b567500bc653b7bd7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Micah",
     "chapter": 3,
     "name": "Micah 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/33/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/33/3.json",
     "sha": "2b386a44a3a915aa6d05bf27ea8a8225fbf48343"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Micah",
     "chapter": 4,
     "name": "Micah 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/33/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/33/4.json",
     "sha": "36fbbc285b65be4a81a229e9bc52eac06fc1fb05"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Micah",
     "chapter": 5,
     "name": "Micah 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/33/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/33/5.json",
     "sha": "33afeb65bea2fb09408def976404ee032032d895"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Micah",
     "chapter": 6,
     "name": "Micah 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/33/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/33/6.json",
     "sha": "1a442a4cf7f6cc59d360f7d0b6868e7a81585998"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Micah",
     "chapter": 7,
     "name": "Micah 7",
-    "url": "https://getbible.net/v2/pyharaamattu1933/33/7.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/33/7.json",
     "sha": "351288d5e448183b92c4f4f19654640dbc8f4183"
   }
 }

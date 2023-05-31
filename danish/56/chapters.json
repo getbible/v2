@@ -10,7 +10,7 @@
     "book_name": "Titus",
     "chapter": 1,
     "name": "Titus 1",
-    "url": "https://getbible.net/v2/danish/56/1.json",
+    "url": "https://api.getbible.net/v2/danish/56/1.json",
     "sha": "fea5379a7069b051f58297ef7ceff2c1a432a8c8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Titus",
     "chapter": 2,
     "name": "Titus 2",
-    "url": "https://getbible.net/v2/danish/56/2.json",
+    "url": "https://api.getbible.net/v2/danish/56/2.json",
     "sha": "3daf0e23ed7e4ae91cd3715de22c0971fce2ebae"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Titus",
     "chapter": 3,
     "name": "Titus 3",
-    "url": "https://getbible.net/v2/danish/56/3.json",
+    "url": "https://api.getbible.net/v2/danish/56/3.json",
     "sha": "a1d0d4af8792afc90e11b20470c88555f62372f7"
   }
 }

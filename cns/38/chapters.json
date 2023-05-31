@@ -10,7 +10,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 1,
     "name": "撒迦利亚书 1",
-    "url": "https://getbible.net/v2/cns/38/1.json",
+    "url": "https://api.getbible.net/v2/cns/38/1.json",
     "sha": "2a5c75e1a175e3334a0d9cb6acaa83655606dfaa"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 2,
     "name": "撒迦利亚书 2",
-    "url": "https://getbible.net/v2/cns/38/2.json",
+    "url": "https://api.getbible.net/v2/cns/38/2.json",
     "sha": "f11f64f26722746ca07888a5f32f63e3a79a60e6"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 3,
     "name": "撒迦利亚书 3",
-    "url": "https://getbible.net/v2/cns/38/3.json",
+    "url": "https://api.getbible.net/v2/cns/38/3.json",
     "sha": "b6efdbc77f98a2dd3677d2e809366a83536f11e4"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 4,
     "name": "撒迦利亚书 4",
-    "url": "https://getbible.net/v2/cns/38/4.json",
+    "url": "https://api.getbible.net/v2/cns/38/4.json",
     "sha": "687347f42857ee95656d8334d5b631f907c328b7"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 5,
     "name": "撒迦利亚书 5",
-    "url": "https://getbible.net/v2/cns/38/5.json",
+    "url": "https://api.getbible.net/v2/cns/38/5.json",
     "sha": "c44bbf8b18bc1b7f9d83f355d4121f2e5ae98f08"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 6,
     "name": "撒迦利亚书 6",
-    "url": "https://getbible.net/v2/cns/38/6.json",
+    "url": "https://api.getbible.net/v2/cns/38/6.json",
     "sha": "47e8e38a2bc315d1bd5e712833eccbb32de892d6"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 7,
     "name": "撒迦利亚书 7",
-    "url": "https://getbible.net/v2/cns/38/7.json",
+    "url": "https://api.getbible.net/v2/cns/38/7.json",
     "sha": "262a5cec16e16e3c6909ae80eec1fb97436e0f98"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 8,
     "name": "撒迦利亚书 8",
-    "url": "https://getbible.net/v2/cns/38/8.json",
+    "url": "https://api.getbible.net/v2/cns/38/8.json",
     "sha": "d918889566899b74b6c9889bdc1b56cc1c9f9fab"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 9,
     "name": "撒迦利亚书 9",
-    "url": "https://getbible.net/v2/cns/38/9.json",
+    "url": "https://api.getbible.net/v2/cns/38/9.json",
     "sha": "99aa3a708b10071d5f798cffa2abe9655fb927be"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 10,
     "name": "撒迦利亚书 10",
-    "url": "https://getbible.net/v2/cns/38/10.json",
+    "url": "https://api.getbible.net/v2/cns/38/10.json",
     "sha": "4e18457b92e18605ccbc96ce08f2129485c8c10f"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 11,
     "name": "撒迦利亚书 11",
-    "url": "https://getbible.net/v2/cns/38/11.json",
+    "url": "https://api.getbible.net/v2/cns/38/11.json",
     "sha": "8b62176276077febc0c44064a8158ca3a1bb3d86"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 12,
     "name": "撒迦利亚书 12",
-    "url": "https://getbible.net/v2/cns/38/12.json",
+    "url": "https://api.getbible.net/v2/cns/38/12.json",
     "sha": "aa4483f8df6570d6f2a53cfd7ea210e7d592ea30"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 13,
     "name": "撒迦利亚书 13",
-    "url": "https://getbible.net/v2/cns/38/13.json",
+    "url": "https://api.getbible.net/v2/cns/38/13.json",
     "sha": "4fab43a5b49051e70da8114608c25219d2a285d0"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "撒迦利亚书",
     "chapter": 14,
     "name": "撒迦利亚书 14",
-    "url": "https://getbible.net/v2/cns/38/14.json",
+    "url": "https://api.getbible.net/v2/cns/38/14.json",
     "sha": "31b55e33e7bdfeea81148fc0afa9ecaece20a3dc"
   }
 }

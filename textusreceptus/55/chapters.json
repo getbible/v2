@@ -10,7 +10,7 @@
     "book_name": "2 Timothy",
     "chapter": 1,
     "name": "2 Timothy 1",
-    "url": "https://getbible.net/v2/textusreceptus/55/1.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/55/1.json",
     "sha": "f9f4e45623a62377d107a8881be3ebb0749861c0"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Timothy",
     "chapter": 2,
     "name": "2 Timothy 2",
-    "url": "https://getbible.net/v2/textusreceptus/55/2.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/55/2.json",
     "sha": "34cf1971be2cc0d7ffd968fadc78908185c7edbc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Timothy",
     "chapter": 3,
     "name": "2 Timothy 3",
-    "url": "https://getbible.net/v2/textusreceptus/55/3.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/55/3.json",
     "sha": "4db1367a8c2009800eb23f7ce77c7a7de6ac37d7"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "2 Timothy",
     "chapter": 4,
     "name": "2 Timothy 4",
-    "url": "https://getbible.net/v2/textusreceptus/55/4.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/55/4.json",
     "sha": "58694d9ce799e36f0f51ddf9f875d4b11159f0eb"
   }
 }

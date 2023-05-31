@@ -10,7 +10,7 @@
     "book_name": "Micah",
     "chapter": 1,
     "name": "Micah 1",
-    "url": "https://getbible.net/v2/swedish/33/1.json",
+    "url": "https://api.getbible.net/v2/swedish/33/1.json",
     "sha": "0aa28b1934ab1f27cb3e60caaaca28c1e2264c8d"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Micah",
     "chapter": 2,
     "name": "Micah 2",
-    "url": "https://getbible.net/v2/swedish/33/2.json",
+    "url": "https://api.getbible.net/v2/swedish/33/2.json",
     "sha": "d2771314317e0a805c12e3fcd659be1168cf6ef8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Micah",
     "chapter": 3,
     "name": "Micah 3",
-    "url": "https://getbible.net/v2/swedish/33/3.json",
+    "url": "https://api.getbible.net/v2/swedish/33/3.json",
     "sha": "594b0ecb41d8d35dec1952b5f8097a1be36be95f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Micah",
     "chapter": 4,
     "name": "Micah 4",
-    "url": "https://getbible.net/v2/swedish/33/4.json",
+    "url": "https://api.getbible.net/v2/swedish/33/4.json",
     "sha": "086c90dfb98af7ebad3fd92ae82b0cb092f07cfc"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Micah",
     "chapter": 5,
     "name": "Micah 5",
-    "url": "https://getbible.net/v2/swedish/33/5.json",
+    "url": "https://api.getbible.net/v2/swedish/33/5.json",
     "sha": "b550e88fa98819cbfc2dc22ad2592036c1b9295b"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Micah",
     "chapter": 6,
     "name": "Micah 6",
-    "url": "https://getbible.net/v2/swedish/33/6.json",
+    "url": "https://api.getbible.net/v2/swedish/33/6.json",
     "sha": "bbafcf9bd835d41de94d7a9365e3a3328f11c88d"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Micah",
     "chapter": 7,
     "name": "Micah 7",
-    "url": "https://getbible.net/v2/swedish/33/7.json",
+    "url": "https://api.getbible.net/v2/swedish/33/7.json",
     "sha": "e1198d69d6984cc3578798a679196a4a7d11d8b5"
   }
 }

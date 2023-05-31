@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/esperanto/37/1.json",
+    "url": "https://api.getbible.net/v2/esperanto/37/1.json",
     "sha": "99ec88d54eab28f2d124ea334a5c95cae6499f08"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/esperanto/37/2.json",
+    "url": "https://api.getbible.net/v2/esperanto/37/2.json",
     "sha": "05f2be18a313c230242f0b94974302e8f704f435"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "弥迦书",
     "chapter": 1,
     "name": "弥迦书 1",
-    "url": "https://getbible.net/v2/cns/33/1.json",
+    "url": "https://api.getbible.net/v2/cns/33/1.json",
     "sha": "584f7000fd17698891778a2a12cff2918b90b317"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "弥迦书",
     "chapter": 2,
     "name": "弥迦书 2",
-    "url": "https://getbible.net/v2/cns/33/2.json",
+    "url": "https://api.getbible.net/v2/cns/33/2.json",
     "sha": "433d9c0a87da593128695490f9959fa66a4598fc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "弥迦书",
     "chapter": 3,
     "name": "弥迦书 3",
-    "url": "https://getbible.net/v2/cns/33/3.json",
+    "url": "https://api.getbible.net/v2/cns/33/3.json",
     "sha": "fae178d9a44913133a22e08c2f74a8add6266073"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "弥迦书",
     "chapter": 4,
     "name": "弥迦书 4",
-    "url": "https://getbible.net/v2/cns/33/4.json",
+    "url": "https://api.getbible.net/v2/cns/33/4.json",
     "sha": "c45725d1bbb1ed344424ea40ed68c72f5a6ddd32"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "弥迦书",
     "chapter": 5,
     "name": "弥迦书 5",
-    "url": "https://getbible.net/v2/cns/33/5.json",
+    "url": "https://api.getbible.net/v2/cns/33/5.json",
     "sha": "59cb9040e1c45ab82191bb69f6b63a33bead4afc"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "弥迦书",
     "chapter": 6,
     "name": "弥迦书 6",
-    "url": "https://getbible.net/v2/cns/33/6.json",
+    "url": "https://api.getbible.net/v2/cns/33/6.json",
     "sha": "ca6a121248b18044dc67a4e198ca8ba0d6ecc505"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "弥迦书",
     "chapter": 7,
     "name": "弥迦书 7",
-    "url": "https://getbible.net/v2/cns/33/7.json",
+    "url": "https://api.getbible.net/v2/cns/33/7.json",
     "sha": "1ef84a7d8ddc43d5461c1c2ebb1e92b00cf437c2"
   }
 }

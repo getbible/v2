@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/croatia/37/1.json",
+    "url": "https://api.getbible.net/v2/croatia/37/1.json",
     "sha": "b10b149acc957bda21ce4c9a7cf5325d779b3448"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/croatia/37/2.json",
+    "url": "https://api.getbible.net/v2/croatia/37/2.json",
     "sha": "68a569acdafc1f4789c04864727d733fd993b142"
   }
 }

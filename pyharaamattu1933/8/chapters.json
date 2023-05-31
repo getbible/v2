@@ -10,7 +10,7 @@
     "book_name": "Ruth",
     "chapter": 1,
     "name": "Ruth 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/8/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/8/1.json",
     "sha": "a437edcb33f3c1e91bdb522cc3efd439699ae4f1"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ruth",
     "chapter": 2,
     "name": "Ruth 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/8/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/8/2.json",
     "sha": "2b85bcb78d1f42a2981eaa82b760b36f05215c4e"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ruth",
     "chapter": 3,
     "name": "Ruth 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/8/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/8/3.json",
     "sha": "59c8b219b5f883c3cf18ebeac1b6896a3761f69f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ruth",
     "chapter": 4,
     "name": "Ruth 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/8/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/8/4.json",
     "sha": "051ffb0e88e27be5c464f6ed2d5209e7c100825e"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/peshitta/61/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/61/1.json",
     "sha": "35e269b17c5941bdc672240c27c6766371080daf"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/peshitta/61/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/61/2.json",
     "sha": "5d0ba067b2b656081620dbe14bbaf3b232da7fd6"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/peshitta/61/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/61/3.json",
     "sha": "b1312859fa1fa1da7227fd67a766be82757c743a"
   }
 }

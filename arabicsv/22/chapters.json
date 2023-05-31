@@ -10,7 +10,7 @@
     "book_name": "Song of Songs",
     "chapter": 1,
     "name": "Song of Songs 1",
-    "url": "https://getbible.net/v2/arabicsv/22/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/1.json",
     "sha": "0b2f3c13dc3340ffd4fa94a36d7e93e4e7c092fb"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Song of Songs",
     "chapter": 2,
     "name": "Song of Songs 2",
-    "url": "https://getbible.net/v2/arabicsv/22/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/2.json",
     "sha": "27e7dab56bc19c2e28f97f0f6decd7f299004079"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Song of Songs",
     "chapter": 3,
     "name": "Song of Songs 3",
-    "url": "https://getbible.net/v2/arabicsv/22/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/3.json",
     "sha": "9e3bd5ca201e7fb38a1c350c80833fd6fcf6dec5"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Song of Songs",
     "chapter": 4,
     "name": "Song of Songs 4",
-    "url": "https://getbible.net/v2/arabicsv/22/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/4.json",
     "sha": "5ebfd7d4c496f4815231221ced78e01ce35461f6"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Song of Songs",
     "chapter": 5,
     "name": "Song of Songs 5",
-    "url": "https://getbible.net/v2/arabicsv/22/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/5.json",
     "sha": "9f6b46e30dc626a6e6318f09594008556b0e089b"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Song of Songs",
     "chapter": 6,
     "name": "Song of Songs 6",
-    "url": "https://getbible.net/v2/arabicsv/22/6.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/6.json",
     "sha": "ded33280bdcca45c9131149689606310591fefac"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Song of Songs",
     "chapter": 7,
     "name": "Song of Songs 7",
-    "url": "https://getbible.net/v2/arabicsv/22/7.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/7.json",
     "sha": "82b9214c26f3fdf13ec6a5c57159698c22426537"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Song of Songs",
     "chapter": 8,
     "name": "Song of Songs 8",
-    "url": "https://getbible.net/v2/arabicsv/22/8.json",
+    "url": "https://api.getbible.net/v2/arabicsv/22/8.json",
     "sha": "c7fe86f793ac7a23ca192ee204f90174a52453a9"
   }
 }

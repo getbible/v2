@@ -10,7 +10,7 @@
     "book_name": "Matthew",
     "chapter": 1,
     "name": "Matthew 1",
-    "url": "https://getbible.net/v2/textusreceptus/40/1.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/1.json",
     "sha": "f21137b57c316a2a36a1cdee4466ca956a1e8224"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Matthew",
     "chapter": 2,
     "name": "Matthew 2",
-    "url": "https://getbible.net/v2/textusreceptus/40/2.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/2.json",
     "sha": "0d5ba5e76d7c3868499f3bff15b5f6af740cb4ab"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Matthew",
     "chapter": 3,
     "name": "Matthew 3",
-    "url": "https://getbible.net/v2/textusreceptus/40/3.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/3.json",
     "sha": "c6a293b73a24af7365128574f62e08c65736f0d1"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Matthew",
     "chapter": 4,
     "name": "Matthew 4",
-    "url": "https://getbible.net/v2/textusreceptus/40/4.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/4.json",
     "sha": "834faff09e2b6c11cd535000d166b32a3620feb9"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Matthew",
     "chapter": 5,
     "name": "Matthew 5",
-    "url": "https://getbible.net/v2/textusreceptus/40/5.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/5.json",
     "sha": "5be173e71a659b17dd58695a95d02a32f15e64a2"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Matthew",
     "chapter": 6,
     "name": "Matthew 6",
-    "url": "https://getbible.net/v2/textusreceptus/40/6.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/6.json",
     "sha": "99b0052ff3bf2c7b9edd9083dce3a15ba5cf4c91"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Matthew",
     "chapter": 7,
     "name": "Matthew 7",
-    "url": "https://getbible.net/v2/textusreceptus/40/7.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/7.json",
     "sha": "84084a1b915ff89c8e6f0134b764640fe222dd79"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Matthew",
     "chapter": 8,
     "name": "Matthew 8",
-    "url": "https://getbible.net/v2/textusreceptus/40/8.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/8.json",
     "sha": "32c5e620db576e720dc75c4d7b14e4efceaf3351"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Matthew",
     "chapter": 9,
     "name": "Matthew 9",
-    "url": "https://getbible.net/v2/textusreceptus/40/9.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/9.json",
     "sha": "665b98f1a53c7d8f4285a7321cbdb700df5dcd6b"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Matthew",
     "chapter": 10,
     "name": "Matthew 10",
-    "url": "https://getbible.net/v2/textusreceptus/40/10.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/10.json",
     "sha": "3896a5fee9dc11d8a13d4e0ae8a3bbaec10bc8b0"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Matthew",
     "chapter": 11,
     "name": "Matthew 11",
-    "url": "https://getbible.net/v2/textusreceptus/40/11.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/11.json",
     "sha": "a803cb3b56b219a050d7039060835768ea943522"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Matthew",
     "chapter": 12,
     "name": "Matthew 12",
-    "url": "https://getbible.net/v2/textusreceptus/40/12.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/12.json",
     "sha": "2065ba57c73db61d37bd44b59a7bdb4e571e7cb4"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Matthew",
     "chapter": 13,
     "name": "Matthew 13",
-    "url": "https://getbible.net/v2/textusreceptus/40/13.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/13.json",
     "sha": "3ed7ebe90b6de0fb8d971230a87af7c0b20c7ba2"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Matthew",
     "chapter": 14,
     "name": "Matthew 14",
-    "url": "https://getbible.net/v2/textusreceptus/40/14.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/14.json",
     "sha": "5a3c4841c201581fc70ea4c1ed2998bc68c11aed"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Matthew",
     "chapter": 15,
     "name": "Matthew 15",
-    "url": "https://getbible.net/v2/textusreceptus/40/15.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/15.json",
     "sha": "288c6988f4dbbd238f274a6aedb3ae0af738f8a4"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Matthew",
     "chapter": 16,
     "name": "Matthew 16",
-    "url": "https://getbible.net/v2/textusreceptus/40/16.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/16.json",
     "sha": "bd0755d8803bf6c3ed1d420e8aa67522a0e86786"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Matthew",
     "chapter": 17,
     "name": "Matthew 17",
-    "url": "https://getbible.net/v2/textusreceptus/40/17.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/17.json",
     "sha": "c4b02a334ce9f1c796e833a172d1f251bb7417d0"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Matthew",
     "chapter": 18,
     "name": "Matthew 18",
-    "url": "https://getbible.net/v2/textusreceptus/40/18.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/18.json",
     "sha": "f9bcf390cb4da0adef9e1ef7f9a467926d345057"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Matthew",
     "chapter": 19,
     "name": "Matthew 19",
-    "url": "https://getbible.net/v2/textusreceptus/40/19.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/19.json",
     "sha": "d5e63afede0ccde50387d08592f099527b357e03"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Matthew",
     "chapter": 20,
     "name": "Matthew 20",
-    "url": "https://getbible.net/v2/textusreceptus/40/20.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/20.json",
     "sha": "89b19ef0dfdcca970319dbe82734ab2139653cf4"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Matthew",
     "chapter": 21,
     "name": "Matthew 21",
-    "url": "https://getbible.net/v2/textusreceptus/40/21.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/21.json",
     "sha": "638168d1126d499c3800c433df7e2d6a41266920"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Matthew",
     "chapter": 22,
     "name": "Matthew 22",
-    "url": "https://getbible.net/v2/textusreceptus/40/22.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/22.json",
     "sha": "ebdf7a687c7f130ab08cf4d900bb005a61096a0f"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Matthew",
     "chapter": 23,
     "name": "Matthew 23",
-    "url": "https://getbible.net/v2/textusreceptus/40/23.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/23.json",
     "sha": "47986a92a80c55e17a56c07411c44324ba386c11"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Matthew",
     "chapter": 24,
     "name": "Matthew 24",
-    "url": "https://getbible.net/v2/textusreceptus/40/24.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/24.json",
     "sha": "acbde15efad82bfae4de067db045d8b6c93ae8f9"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "Matthew",
     "chapter": 25,
     "name": "Matthew 25",
-    "url": "https://getbible.net/v2/textusreceptus/40/25.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/25.json",
     "sha": "cce981933d099640e975d8f23b33a461e333b445"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "Matthew",
     "chapter": 26,
     "name": "Matthew 26",
-    "url": "https://getbible.net/v2/textusreceptus/40/26.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/26.json",
     "sha": "15347680366446f2ea42666946524211399744f7"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "Matthew",
     "chapter": 27,
     "name": "Matthew 27",
-    "url": "https://getbible.net/v2/textusreceptus/40/27.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/27.json",
     "sha": "7c211c53225fcf9d0a1270445497eb369abfb786"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "Matthew",
     "chapter": 28,
     "name": "Matthew 28",
-    "url": "https://getbible.net/v2/textusreceptus/40/28.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/40/28.json",
     "sha": "3c8c3f34b4d8abaae35548f4529fbd448263a868"
   }
 }

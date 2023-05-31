@@ -10,7 +10,7 @@
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
-    "url": "https://getbible.net/v2/schlachter/37/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/37/1.json",
     "sha": "a38a77ebfab3de34f2a585af2747928b4c6e6050"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
-    "url": "https://getbible.net/v2/schlachter/37/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/37/2.json",
     "sha": "bb4c2b6e6cf7880d096d6a09b96ee72ae73f3cf1"
   }
 }

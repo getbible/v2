@@ -10,7 +10,7 @@
     "book_name": "瑪拉基書",
     "chapter": 1,
     "name": "瑪拉基書 1",
-    "url": "https://getbible.net/v2/cnt/39/1.json",
+    "url": "https://api.getbible.net/v2/cnt/39/1.json",
     "sha": "3bdb7e5a3ea20066ffed462c410b4760a781db25"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "瑪拉基書",
     "chapter": 2,
     "name": "瑪拉基書 2",
-    "url": "https://getbible.net/v2/cnt/39/2.json",
+    "url": "https://api.getbible.net/v2/cnt/39/2.json",
     "sha": "67dfa6dc8b964ad968c6ea1bf0c72cff0cc34989"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "瑪拉基書",
     "chapter": 3,
     "name": "瑪拉基書 3",
-    "url": "https://getbible.net/v2/cnt/39/3.json",
+    "url": "https://api.getbible.net/v2/cnt/39/3.json",
     "sha": "080855fcf459049c7311b2c1c071df3b81075a1e"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "瑪拉基書",
     "chapter": 4,
     "name": "瑪拉基書 4",
-    "url": "https://getbible.net/v2/cnt/39/4.json",
+    "url": "https://api.getbible.net/v2/cnt/39/4.json",
     "sha": "00ceb6f7082f234eaf6311817fa55f902034ebee"
   }
 }

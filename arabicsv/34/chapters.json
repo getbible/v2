@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/arabicsv/34/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/34/1.json",
     "sha": "754a654bb7e11707b341e86695b79ee6a1c06c24"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/arabicsv/34/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/34/2.json",
     "sha": "a25c92c8b800319ecc07bb2ee5e3c6411204a5ca"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/arabicsv/34/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/34/3.json",
     "sha": "b405773871742556863746d46a3ce871d968066e"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "1 Timothy",
     "chapter": 1,
     "name": "1 Timothy 1",
-    "url": "https://getbible.net/v2/peshitta/54/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/54/1.json",
     "sha": "d52cc42ce733437e81a0211dd2bf0ceaa771befc"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Timothy",
     "chapter": 2,
     "name": "1 Timothy 2",
-    "url": "https://getbible.net/v2/peshitta/54/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/54/2.json",
     "sha": "ca8c909ffe5649fae7b5b19bc2cf40711518bdc8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Timothy",
     "chapter": 3,
     "name": "1 Timothy 3",
-    "url": "https://getbible.net/v2/peshitta/54/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/54/3.json",
     "sha": "6392788abaf8eb84a7158b810d77c9add9786f5f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Timothy",
     "chapter": 4,
     "name": "1 Timothy 4",
-    "url": "https://getbible.net/v2/peshitta/54/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/54/4.json",
     "sha": "fe4f6ae5d554068268936a617a679c570ba8e98e"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Timothy",
     "chapter": 5,
     "name": "1 Timothy 5",
-    "url": "https://getbible.net/v2/peshitta/54/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/54/5.json",
     "sha": "65e3d0e772f1269d7a4971327cd792f43acd0e73"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1 Timothy",
     "chapter": 6,
     "name": "1 Timothy 6",
-    "url": "https://getbible.net/v2/peshitta/54/6.json",
+    "url": "https://api.getbible.net/v2/peshitta/54/6.json",
     "sha": "73c5601de64b9b86ebdb05d4689a9cd9beb23a85"
   }
 }

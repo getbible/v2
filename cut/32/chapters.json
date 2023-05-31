@@ -10,7 +10,7 @@
     "book_name": "約拿書",
     "chapter": 1,
     "name": "約拿書 1",
-    "url": "https://getbible.net/v2/cut/32/1.json",
+    "url": "https://api.getbible.net/v2/cut/32/1.json",
     "sha": "325c65ac439034e332e1f1b1fbb63b4b8fccb17a"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "約拿書",
     "chapter": 2,
     "name": "約拿書 2",
-    "url": "https://getbible.net/v2/cut/32/2.json",
+    "url": "https://api.getbible.net/v2/cut/32/2.json",
     "sha": "0b1fe3ea1e4927f676601c5a6a6cf53717ff2f4b"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "約拿書",
     "chapter": 3,
     "name": "約拿書 3",
-    "url": "https://getbible.net/v2/cut/32/3.json",
+    "url": "https://api.getbible.net/v2/cut/32/3.json",
     "sha": "5209f3042b86cc804d978042092aa62b9ec2f5a4"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "約拿書",
     "chapter": 4,
     "name": "約拿書 4",
-    "url": "https://getbible.net/v2/cut/32/4.json",
+    "url": "https://api.getbible.net/v2/cut/32/4.json",
     "sha": "4c91df3a65ab6d8f5208093b6df55ca3b189631e"
   }
 }

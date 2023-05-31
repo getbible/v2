@@ -10,7 +10,7 @@
     "book_name": "Ruth",
     "chapter": 1,
     "name": "Ruth 1",
-    "url": "https://getbible.net/v2/vietnamese/8/1.json",
+    "url": "https://api.getbible.net/v2/vietnamese/8/1.json",
     "sha": "cde42e0533d57ac0759d0b05831825dfccc52a0f"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ruth",
     "chapter": 2,
     "name": "Ruth 2",
-    "url": "https://getbible.net/v2/vietnamese/8/2.json",
+    "url": "https://api.getbible.net/v2/vietnamese/8/2.json",
     "sha": "9ce81535330ab819481d257394bcdebd578fdb66"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ruth",
     "chapter": 3,
     "name": "Ruth 3",
-    "url": "https://getbible.net/v2/vietnamese/8/3.json",
+    "url": "https://api.getbible.net/v2/vietnamese/8/3.json",
     "sha": "320fb7247f000fc5248d51badcb659d61bd1199b"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ruth",
     "chapter": 4,
     "name": "Ruth 4",
-    "url": "https://getbible.net/v2/vietnamese/8/4.json",
+    "url": "https://api.getbible.net/v2/vietnamese/8/4.json",
     "sha": "27ef7810f3ced28687ad757599eb39a2f3c4fb41"
   }
 }

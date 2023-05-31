@@ -10,7 +10,7 @@
     "book_name": "Hosea",
     "chapter": 1,
     "name": "Hosea 1",
-    "url": "https://getbible.net/v2/almeida/28/1.json",
+    "url": "https://api.getbible.net/v2/almeida/28/1.json",
     "sha": "b5b6ad8cc38f277a6527463551c665f409254314"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Hosea",
     "chapter": 2,
     "name": "Hosea 2",
-    "url": "https://getbible.net/v2/almeida/28/2.json",
+    "url": "https://api.getbible.net/v2/almeida/28/2.json",
     "sha": "b0e76ca14bb64f062ecdd27a9f9f37b12011fef3"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Hosea",
     "chapter": 3,
     "name": "Hosea 3",
-    "url": "https://getbible.net/v2/almeida/28/3.json",
+    "url": "https://api.getbible.net/v2/almeida/28/3.json",
     "sha": "b09ae947e36fd778bc1d640997c31d87718f168f"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Hosea",
     "chapter": 4,
     "name": "Hosea 4",
-    "url": "https://getbible.net/v2/almeida/28/4.json",
+    "url": "https://api.getbible.net/v2/almeida/28/4.json",
     "sha": "097671fb9b1d46584d8cc07c259860b286a4e814"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Hosea",
     "chapter": 5,
     "name": "Hosea 5",
-    "url": "https://getbible.net/v2/almeida/28/5.json",
+    "url": "https://api.getbible.net/v2/almeida/28/5.json",
     "sha": "74ed69800cf696a17d50395b528ea7b6a840bddc"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Hosea",
     "chapter": 6,
     "name": "Hosea 6",
-    "url": "https://getbible.net/v2/almeida/28/6.json",
+    "url": "https://api.getbible.net/v2/almeida/28/6.json",
     "sha": "67b0cabf7b6148fddb87d517ea2b3e944950898e"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Hosea",
     "chapter": 7,
     "name": "Hosea 7",
-    "url": "https://getbible.net/v2/almeida/28/7.json",
+    "url": "https://api.getbible.net/v2/almeida/28/7.json",
     "sha": "1900792a3bef5c83642f5a636133701092039865"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Hosea",
     "chapter": 8,
     "name": "Hosea 8",
-    "url": "https://getbible.net/v2/almeida/28/8.json",
+    "url": "https://api.getbible.net/v2/almeida/28/8.json",
     "sha": "1c29e6e1672054845989a079d0c98364ce652f10"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Hosea",
     "chapter": 9,
     "name": "Hosea 9",
-    "url": "https://getbible.net/v2/almeida/28/9.json",
+    "url": "https://api.getbible.net/v2/almeida/28/9.json",
     "sha": "0255c440a5199e9c440a4fec5bf8040ae4144974"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Hosea",
     "chapter": 10,
     "name": "Hosea 10",
-    "url": "https://getbible.net/v2/almeida/28/10.json",
+    "url": "https://api.getbible.net/v2/almeida/28/10.json",
     "sha": "ec058180ae721db093242a6c2932eea7bb494475"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Hosea",
     "chapter": 11,
     "name": "Hosea 11",
-    "url": "https://getbible.net/v2/almeida/28/11.json",
+    "url": "https://api.getbible.net/v2/almeida/28/11.json",
     "sha": "b4e664aa443829535ac3491b18fc27fe528fad6e"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Hosea",
     "chapter": 12,
     "name": "Hosea 12",
-    "url": "https://getbible.net/v2/almeida/28/12.json",
+    "url": "https://api.getbible.net/v2/almeida/28/12.json",
     "sha": "5ffc01168d00062a09571d3b5e57bf3858068092"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Hosea",
     "chapter": 13,
     "name": "Hosea 13",
-    "url": "https://getbible.net/v2/almeida/28/13.json",
+    "url": "https://api.getbible.net/v2/almeida/28/13.json",
     "sha": "80c456654ed2bb732ae75b5469a68e30ed69fbf6"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Hosea",
     "chapter": 14,
     "name": "Hosea 14",
-    "url": "https://getbible.net/v2/almeida/28/14.json",
+    "url": "https://api.getbible.net/v2/almeida/28/14.json",
     "sha": "df3a2e24269bcedc3f567b99622de8b2f9aa85e9"
   }
 }

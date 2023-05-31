@@ -10,7 +10,7 @@
     "book_name": "Mark",
     "chapter": 1,
     "name": "Mark 1",
-    "url": "https://getbible.net/v2/basque/41/1.json",
+    "url": "https://api.getbible.net/v2/basque/41/1.json",
     "sha": "a2a9caf6dc91eacfb916beeeea40ca0b2d3da920"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Mark",
     "chapter": 2,
     "name": "Mark 2",
-    "url": "https://getbible.net/v2/basque/41/2.json",
+    "url": "https://api.getbible.net/v2/basque/41/2.json",
     "sha": "24601713c62e1e969faf14c4508202cdacc32e41"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Mark",
     "chapter": 3,
     "name": "Mark 3",
-    "url": "https://getbible.net/v2/basque/41/3.json",
+    "url": "https://api.getbible.net/v2/basque/41/3.json",
     "sha": "c88bfdaf8ed5b43754dc3bc07d1dffdd82c3de76"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Mark",
     "chapter": 4,
     "name": "Mark 4",
-    "url": "https://getbible.net/v2/basque/41/4.json",
+    "url": "https://api.getbible.net/v2/basque/41/4.json",
     "sha": "c3c4380faf9ed6d2e2b68f7bbe0a8baee0ccf4a3"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Mark",
     "chapter": 5,
     "name": "Mark 5",
-    "url": "https://getbible.net/v2/basque/41/5.json",
+    "url": "https://api.getbible.net/v2/basque/41/5.json",
     "sha": "f126f348326574a75aced0488dc2b31ceeecadfa"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Mark",
     "chapter": 6,
     "name": "Mark 6",
-    "url": "https://getbible.net/v2/basque/41/6.json",
+    "url": "https://api.getbible.net/v2/basque/41/6.json",
     "sha": "d7327a8aea3bf1a439a20d31df32dce3e1f9eaa3"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Mark",
     "chapter": 7,
     "name": "Mark 7",
-    "url": "https://getbible.net/v2/basque/41/7.json",
+    "url": "https://api.getbible.net/v2/basque/41/7.json",
     "sha": "a5434e14961dc1439fa1d4ce79d4fd5cd2e7b25f"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Mark",
     "chapter": 8,
     "name": "Mark 8",
-    "url": "https://getbible.net/v2/basque/41/8.json",
+    "url": "https://api.getbible.net/v2/basque/41/8.json",
     "sha": "80970c00a536e08a785589cc7d9e90fae7c1ac34"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Mark",
     "chapter": 9,
     "name": "Mark 9",
-    "url": "https://getbible.net/v2/basque/41/9.json",
+    "url": "https://api.getbible.net/v2/basque/41/9.json",
     "sha": "7280954fdb25d1a551fa815bac74cb00113a2978"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Mark",
     "chapter": 10,
     "name": "Mark 10",
-    "url": "https://getbible.net/v2/basque/41/10.json",
+    "url": "https://api.getbible.net/v2/basque/41/10.json",
     "sha": "73034eb9094f8f39a9d6320847ac2fb3cfacbecb"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Mark",
     "chapter": 11,
     "name": "Mark 11",
-    "url": "https://getbible.net/v2/basque/41/11.json",
+    "url": "https://api.getbible.net/v2/basque/41/11.json",
     "sha": "e6f9bc199df765f82702a8cfb67bf1e7ef756af0"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Mark",
     "chapter": 12,
     "name": "Mark 12",
-    "url": "https://getbible.net/v2/basque/41/12.json",
+    "url": "https://api.getbible.net/v2/basque/41/12.json",
     "sha": "74b6b3ada5aca9b4e40584d6fff77780a5490c1a"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Mark",
     "chapter": 13,
     "name": "Mark 13",
-    "url": "https://getbible.net/v2/basque/41/13.json",
+    "url": "https://api.getbible.net/v2/basque/41/13.json",
     "sha": "c1804664c5629affe0cd7c3efbba6d1b77f7c0d0"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Mark",
     "chapter": 14,
     "name": "Mark 14",
-    "url": "https://getbible.net/v2/basque/41/14.json",
+    "url": "https://api.getbible.net/v2/basque/41/14.json",
     "sha": "806959d59b8dcb6cffbb0f55abd13dcac0342971"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Mark",
     "chapter": 15,
     "name": "Mark 15",
-    "url": "https://getbible.net/v2/basque/41/15.json",
+    "url": "https://api.getbible.net/v2/basque/41/15.json",
     "sha": "498310dfeb9e5813b4202dd84592c24c88b6fa64"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Mark",
     "chapter": 16,
     "name": "Mark 16",
-    "url": "https://getbible.net/v2/basque/41/16.json",
+    "url": "https://api.getbible.net/v2/basque/41/16.json",
     "sha": "b9f91f99affd303b38ee5b26781404c69d7e59fc"
   }
 }

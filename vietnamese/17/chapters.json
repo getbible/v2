@@ -10,7 +10,7 @@
     "book_name": "Esther",
     "chapter": 1,
     "name": "Esther 1",
-    "url": "https://getbible.net/v2/vietnamese/17/1.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/1.json",
     "sha": "1f4833a212ac47c96aef42a8aca10e30494ea508"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Esther",
     "chapter": 2,
     "name": "Esther 2",
-    "url": "https://getbible.net/v2/vietnamese/17/2.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/2.json",
     "sha": "58c4341a8a2575cefcf6b4955a1eb4ad510b57bc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Esther",
     "chapter": 3,
     "name": "Esther 3",
-    "url": "https://getbible.net/v2/vietnamese/17/3.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/3.json",
     "sha": "dfb451597c049200a11e6b3efb778b28d10d285b"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Esther",
     "chapter": 4,
     "name": "Esther 4",
-    "url": "https://getbible.net/v2/vietnamese/17/4.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/4.json",
     "sha": "003ced09ec434a3409e596f47b670b4a1f9f9cae"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Esther",
     "chapter": 5,
     "name": "Esther 5",
-    "url": "https://getbible.net/v2/vietnamese/17/5.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/5.json",
     "sha": "bc876f2350ce98718e592993371ac683dfc463a6"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Esther",
     "chapter": 6,
     "name": "Esther 6",
-    "url": "https://getbible.net/v2/vietnamese/17/6.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/6.json",
     "sha": "ec60465def8598f431bbb5590fde854febc39930"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Esther",
     "chapter": 7,
     "name": "Esther 7",
-    "url": "https://getbible.net/v2/vietnamese/17/7.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/7.json",
     "sha": "199bf8edb19e3fc38fe2043aca59d07af377aa0a"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Esther",
     "chapter": 8,
     "name": "Esther 8",
-    "url": "https://getbible.net/v2/vietnamese/17/8.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/8.json",
     "sha": "1d3e3ae7a06f21b233a5706a64c2eb2afac79364"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Esther",
     "chapter": 9,
     "name": "Esther 9",
-    "url": "https://getbible.net/v2/vietnamese/17/9.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/9.json",
     "sha": "35bee9c1123c49a9493ae8cf94c3d5a41a94f893"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Esther",
     "chapter": 10,
     "name": "Esther 10",
-    "url": "https://getbible.net/v2/vietnamese/17/10.json",
+    "url": "https://api.getbible.net/v2/vietnamese/17/10.json",
     "sha": "3b462315e89e867015729154510672110a9a1a8e"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "約翰一書",
     "chapter": 1,
     "name": "約翰一書 1",
-    "url": "https://getbible.net/v2/cnt/62/1.json",
+    "url": "https://api.getbible.net/v2/cnt/62/1.json",
     "sha": "a90833ac54c52ea9516235b8601cc54778bba0cd"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "約翰一書",
     "chapter": 2,
     "name": "約翰一書 2",
-    "url": "https://getbible.net/v2/cnt/62/2.json",
+    "url": "https://api.getbible.net/v2/cnt/62/2.json",
     "sha": "dbb854fba1020037190cf51745106f781545ad80"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "約翰一書",
     "chapter": 3,
     "name": "約翰一書 3",
-    "url": "https://getbible.net/v2/cnt/62/3.json",
+    "url": "https://api.getbible.net/v2/cnt/62/3.json",
     "sha": "0cb9130b9fd390cd0c7d34ed12ac90be892641d2"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "約翰一書",
     "chapter": 4,
     "name": "約翰一書 4",
-    "url": "https://getbible.net/v2/cnt/62/4.json",
+    "url": "https://api.getbible.net/v2/cnt/62/4.json",
     "sha": "eab25482419f541b60063f420f3870ae0e094e02"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "約翰一書",
     "chapter": 5,
     "name": "約翰一書 5",
-    "url": "https://getbible.net/v2/cnt/62/5.json",
+    "url": "https://api.getbible.net/v2/cnt/62/5.json",
     "sha": "f4c8053abca976c50b3ec7f7af4ba02f9be65b9a"
   }
 }

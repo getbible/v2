@@ -10,7 +10,7 @@
     "book_name": "1 John",
     "chapter": 1,
     "name": "1 John 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/62/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/62/1.json",
     "sha": "606ebf08f09927a76aec1efe7b62525ee3039c1c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 John",
     "chapter": 2,
     "name": "1 John 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/62/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/62/2.json",
     "sha": "50c003487d9714573b86085c24a659d53121de94"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 John",
     "chapter": 3,
     "name": "1 John 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/62/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/62/3.json",
     "sha": "4a68db8b3c30ee035bc92f1a875dd3dae4a4d2e8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 John",
     "chapter": 4,
     "name": "1 John 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/62/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/62/4.json",
     "sha": "0056f7f52e3d9ed114208a97a387f7ee051b4983"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 John",
     "chapter": 5,
     "name": "1 John 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/62/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/62/5.json",
     "sha": "d108fdc38e58d7661f81df18082764fb5d68fa76"
   }
 }

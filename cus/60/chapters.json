@@ -10,7 +10,7 @@
     "book_name": "彼得前书",
     "chapter": 1,
     "name": "彼得前书 1",
-    "url": "https://getbible.net/v2/cus/60/1.json",
+    "url": "https://api.getbible.net/v2/cus/60/1.json",
     "sha": "2a9069a4bff52f8b8d3354861141789f5e02dec6"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "彼得前书",
     "chapter": 2,
     "name": "彼得前书 2",
-    "url": "https://getbible.net/v2/cus/60/2.json",
+    "url": "https://api.getbible.net/v2/cus/60/2.json",
     "sha": "333c1ed28c1a538f515b53972147a35bc93e9ad3"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "彼得前书",
     "chapter": 3,
     "name": "彼得前书 3",
-    "url": "https://getbible.net/v2/cus/60/3.json",
+    "url": "https://api.getbible.net/v2/cus/60/3.json",
     "sha": "e4d868bd20e0360dbb879ef978d25f3fba32ee06"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "彼得前书",
     "chapter": 4,
     "name": "彼得前书 4",
-    "url": "https://getbible.net/v2/cus/60/4.json",
+    "url": "https://api.getbible.net/v2/cus/60/4.json",
     "sha": "989c217892a804468c329e51353ab7c8494c58f1"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "彼得前书",
     "chapter": 5,
     "name": "彼得前书 5",
-    "url": "https://getbible.net/v2/cus/60/5.json",
+    "url": "https://api.getbible.net/v2/cus/60/5.json",
     "sha": "6efcaaffa2557073c94d65214601cd33f2db377b"
   }
 }

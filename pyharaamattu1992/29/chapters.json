@@ -10,8 +10,8 @@
     "book_name": "Joel",
     "chapter": 1,
     "name": "Joel 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/29/1.json",
-    "sha": "ed53e54882e715cce2bebdd9e620b2963362cae7"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/29/1.json",
+    "sha": "ce1ce8bf98b23dbf22151ae11f67e90e03cc5346"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Joel",
     "chapter": 2,
     "name": "Joel 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/29/2.json",
-    "sha": "d573c420ca494093defac510b79e804731949e03"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/29/2.json",
+    "sha": "c159e4a7a84c9fdc9d65fee120bc46f7f55d8808"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,7 +38,21 @@
     "book_name": "Joel",
     "chapter": 3,
     "name": "Joel 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/29/3.json",
-    "sha": "54cc548202b4d55cdfab8c1d164410160cd9aa92"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/29/3.json",
+    "sha": "5709879b1cf0f165e2fe893ad9c2c8da6b8d8341"
+  },
+  "4": {
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "lang": "fi",
+    "language": "Finnish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 4,
+    "name": "Joel 4",
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/29/4.json",
+    "sha": "340e19234f7b092d9049313aa44d29e08247296d"
   }
 }

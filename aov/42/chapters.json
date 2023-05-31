@@ -10,7 +10,7 @@
     "book_name": "Lukas",
     "chapter": 1,
     "name": "Lukas 1",
-    "url": "https://getbible.net/v2/aov/42/1.json",
+    "url": "https://api.getbible.net/v2/aov/42/1.json",
     "sha": "edac6800e5e4ee9965b5af31a12421a8142e944c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Lukas",
     "chapter": 2,
     "name": "Lukas 2",
-    "url": "https://getbible.net/v2/aov/42/2.json",
+    "url": "https://api.getbible.net/v2/aov/42/2.json",
     "sha": "0fc6f0bd680f92b2a3fb178cf8f4e0a379d12017"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Lukas",
     "chapter": 3,
     "name": "Lukas 3",
-    "url": "https://getbible.net/v2/aov/42/3.json",
+    "url": "https://api.getbible.net/v2/aov/42/3.json",
     "sha": "ecb8a8a735e628dbe17d0cb3af73ab0585b1c35c"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Lukas",
     "chapter": 4,
     "name": "Lukas 4",
-    "url": "https://getbible.net/v2/aov/42/4.json",
+    "url": "https://api.getbible.net/v2/aov/42/4.json",
     "sha": "e1714f313e7558f547ea47aae2c601f2e877a68c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Lukas",
     "chapter": 5,
     "name": "Lukas 5",
-    "url": "https://getbible.net/v2/aov/42/5.json",
+    "url": "https://api.getbible.net/v2/aov/42/5.json",
     "sha": "163e29c75f0e446a15cb344d8567db1924dd9843"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Lukas",
     "chapter": 6,
     "name": "Lukas 6",
-    "url": "https://getbible.net/v2/aov/42/6.json",
+    "url": "https://api.getbible.net/v2/aov/42/6.json",
     "sha": "0b10e9cca4d6a66f2591cf13c59be8b6ff609bbd"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Lukas",
     "chapter": 7,
     "name": "Lukas 7",
-    "url": "https://getbible.net/v2/aov/42/7.json",
+    "url": "https://api.getbible.net/v2/aov/42/7.json",
     "sha": "7115f4dd56a910ecd7faa345b2f4b64a71015f96"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Lukas",
     "chapter": 8,
     "name": "Lukas 8",
-    "url": "https://getbible.net/v2/aov/42/8.json",
+    "url": "https://api.getbible.net/v2/aov/42/8.json",
     "sha": "3d359426d206e648e5e1cfee40f59abb4afb2111"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Lukas",
     "chapter": 9,
     "name": "Lukas 9",
-    "url": "https://getbible.net/v2/aov/42/9.json",
+    "url": "https://api.getbible.net/v2/aov/42/9.json",
     "sha": "283c0419ed31a61c73ca76e5bad1ff363576cd30"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Lukas",
     "chapter": 10,
     "name": "Lukas 10",
-    "url": "https://getbible.net/v2/aov/42/10.json",
+    "url": "https://api.getbible.net/v2/aov/42/10.json",
     "sha": "10a9579bef0b46e8edb4844ee105238ed6a6063d"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Lukas",
     "chapter": 11,
     "name": "Lukas 11",
-    "url": "https://getbible.net/v2/aov/42/11.json",
+    "url": "https://api.getbible.net/v2/aov/42/11.json",
     "sha": "cd527f10a2a4bafad12a8211fea250c610048377"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Lukas",
     "chapter": 12,
     "name": "Lukas 12",
-    "url": "https://getbible.net/v2/aov/42/12.json",
+    "url": "https://api.getbible.net/v2/aov/42/12.json",
     "sha": "9d3459e1da089e9c91aaa08e32e124c5a6d4f80f"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Lukas",
     "chapter": 13,
     "name": "Lukas 13",
-    "url": "https://getbible.net/v2/aov/42/13.json",
+    "url": "https://api.getbible.net/v2/aov/42/13.json",
     "sha": "4dcf658f25b0ad92c931a11909888d2f2e236db8"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Lukas",
     "chapter": 14,
     "name": "Lukas 14",
-    "url": "https://getbible.net/v2/aov/42/14.json",
+    "url": "https://api.getbible.net/v2/aov/42/14.json",
     "sha": "8e8202db13aa101f0c44bbb3119678826b4271ec"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Lukas",
     "chapter": 15,
     "name": "Lukas 15",
-    "url": "https://getbible.net/v2/aov/42/15.json",
+    "url": "https://api.getbible.net/v2/aov/42/15.json",
     "sha": "b0b395654f7e8239d4fcee369af03571c70491dc"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Lukas",
     "chapter": 16,
     "name": "Lukas 16",
-    "url": "https://getbible.net/v2/aov/42/16.json",
+    "url": "https://api.getbible.net/v2/aov/42/16.json",
     "sha": "e66cfaacc250e65614889d550ad96e47ccc39e4e"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "Lukas",
     "chapter": 17,
     "name": "Lukas 17",
-    "url": "https://getbible.net/v2/aov/42/17.json",
+    "url": "https://api.getbible.net/v2/aov/42/17.json",
     "sha": "22010288f03bf6e84a46a8f4758603ed738a49e3"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "Lukas",
     "chapter": 18,
     "name": "Lukas 18",
-    "url": "https://getbible.net/v2/aov/42/18.json",
+    "url": "https://api.getbible.net/v2/aov/42/18.json",
     "sha": "0136efa8878a49ce79a388aaf47054298b55766c"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "Lukas",
     "chapter": 19,
     "name": "Lukas 19",
-    "url": "https://getbible.net/v2/aov/42/19.json",
+    "url": "https://api.getbible.net/v2/aov/42/19.json",
     "sha": "842e5905577744ca3fb9cca3668413d207d33abe"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "Lukas",
     "chapter": 20,
     "name": "Lukas 20",
-    "url": "https://getbible.net/v2/aov/42/20.json",
+    "url": "https://api.getbible.net/v2/aov/42/20.json",
     "sha": "9fc2cdfcbd4112b54b3948641b908815c74871d5"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "Lukas",
     "chapter": 21,
     "name": "Lukas 21",
-    "url": "https://getbible.net/v2/aov/42/21.json",
+    "url": "https://api.getbible.net/v2/aov/42/21.json",
     "sha": "6f8e5d94aa4643348383e6ccbc5ff61805b78ab8"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "Lukas",
     "chapter": 22,
     "name": "Lukas 22",
-    "url": "https://getbible.net/v2/aov/42/22.json",
+    "url": "https://api.getbible.net/v2/aov/42/22.json",
     "sha": "b01a06144711bc5adc281003f52efd3605054a70"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "Lukas",
     "chapter": 23,
     "name": "Lukas 23",
-    "url": "https://getbible.net/v2/aov/42/23.json",
+    "url": "https://api.getbible.net/v2/aov/42/23.json",
     "sha": "33cd190436bf767dba6004ec443cc88ccfdc51e8"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "Lukas",
     "chapter": 24,
     "name": "Lukas 24",
-    "url": "https://getbible.net/v2/aov/42/24.json",
+    "url": "https://api.getbible.net/v2/aov/42/24.json",
     "sha": "b6fb1b2b9a843dd64e619d3781b298eb27f31ec9"
   }
 }

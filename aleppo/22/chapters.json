@@ -10,7 +10,7 @@
     "book_name": "Song of Songs",
     "chapter": 1,
     "name": "Song of Songs 1",
-    "url": "https://getbible.net/v2/aleppo/22/1.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/1.json",
     "sha": "3ab86a6f61f2a1720cc139f21d01aa953d539e39"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Song of Songs",
     "chapter": 2,
     "name": "Song of Songs 2",
-    "url": "https://getbible.net/v2/aleppo/22/2.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/2.json",
     "sha": "507c792d0ff8aa283b80cf9b7b955e82d4bb5618"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Song of Songs",
     "chapter": 3,
     "name": "Song of Songs 3",
-    "url": "https://getbible.net/v2/aleppo/22/3.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/3.json",
     "sha": "04da4ab263bd8f6aba4b218ee4949dec401b30d6"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Song of Songs",
     "chapter": 4,
     "name": "Song of Songs 4",
-    "url": "https://getbible.net/v2/aleppo/22/4.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/4.json",
     "sha": "3e673f06c7bdde859775ef49db09892ad2652c91"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Song of Songs",
     "chapter": 5,
     "name": "Song of Songs 5",
-    "url": "https://getbible.net/v2/aleppo/22/5.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/5.json",
     "sha": "06023cc65e7f50e57afd82e9cd4d7a2d000c56ca"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Song of Songs",
     "chapter": 6,
     "name": "Song of Songs 6",
-    "url": "https://getbible.net/v2/aleppo/22/6.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/6.json",
     "sha": "2f77a6553a1e038362bc8a12351bb01379abc5c4"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Song of Songs",
     "chapter": 7,
     "name": "Song of Songs 7",
-    "url": "https://getbible.net/v2/aleppo/22/7.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/7.json",
     "sha": "f4f5d492fb1fd0665de242285be1c0960a4eb0b8"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Song of Songs",
     "chapter": 8,
     "name": "Song of Songs 8",
-    "url": "https://getbible.net/v2/aleppo/22/8.json",
+    "url": "https://api.getbible.net/v2/aleppo/22/8.json",
     "sha": "c2aa72957bbd15920fbbd67e861f45fa578ff494"
   }
 }

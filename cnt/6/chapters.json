@@ -10,7 +10,7 @@
     "book_name": "約書亞記",
     "chapter": 1,
     "name": "約書亞記 1",
-    "url": "https://getbible.net/v2/cnt/6/1.json",
+    "url": "https://api.getbible.net/v2/cnt/6/1.json",
     "sha": "28dddb0c75d5c1d7b752930fd13092d2ded5c7c2"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "約書亞記",
     "chapter": 2,
     "name": "約書亞記 2",
-    "url": "https://getbible.net/v2/cnt/6/2.json",
+    "url": "https://api.getbible.net/v2/cnt/6/2.json",
     "sha": "e5b196f8600f2a8a9942faca010f0e28967230b1"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "約書亞記",
     "chapter": 3,
     "name": "約書亞記 3",
-    "url": "https://getbible.net/v2/cnt/6/3.json",
+    "url": "https://api.getbible.net/v2/cnt/6/3.json",
     "sha": "7258235ea13fe0071ec6e5879e4e8b31fcbff192"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "約書亞記",
     "chapter": 4,
     "name": "約書亞記 4",
-    "url": "https://getbible.net/v2/cnt/6/4.json",
+    "url": "https://api.getbible.net/v2/cnt/6/4.json",
     "sha": "440fd3a6a61420574f6aae67c48e8a89d8ed1d70"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "約書亞記",
     "chapter": 5,
     "name": "約書亞記 5",
-    "url": "https://getbible.net/v2/cnt/6/5.json",
+    "url": "https://api.getbible.net/v2/cnt/6/5.json",
     "sha": "32076ed99d90e5be17073f645c3adef8d845994b"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "約書亞記",
     "chapter": 6,
     "name": "約書亞記 6",
-    "url": "https://getbible.net/v2/cnt/6/6.json",
+    "url": "https://api.getbible.net/v2/cnt/6/6.json",
     "sha": "391d4063b1cbefc1711ad5601e1f19d87d7fc09f"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "約書亞記",
     "chapter": 7,
     "name": "約書亞記 7",
-    "url": "https://getbible.net/v2/cnt/6/7.json",
+    "url": "https://api.getbible.net/v2/cnt/6/7.json",
     "sha": "a5e2342c71875da58259fc480f925e94dcb4f059"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "約書亞記",
     "chapter": 8,
     "name": "約書亞記 8",
-    "url": "https://getbible.net/v2/cnt/6/8.json",
+    "url": "https://api.getbible.net/v2/cnt/6/8.json",
     "sha": "2ea0c9b0c1132022b269793bc6b4175b33f2624d"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "約書亞記",
     "chapter": 9,
     "name": "約書亞記 9",
-    "url": "https://getbible.net/v2/cnt/6/9.json",
+    "url": "https://api.getbible.net/v2/cnt/6/9.json",
     "sha": "2d1fce24f5fda5690b778cd48a8e2813535b04f7"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "約書亞記",
     "chapter": 10,
     "name": "約書亞記 10",
-    "url": "https://getbible.net/v2/cnt/6/10.json",
+    "url": "https://api.getbible.net/v2/cnt/6/10.json",
     "sha": "c75b91be4414b18a48f23bade27c62d5974b0273"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "約書亞記",
     "chapter": 11,
     "name": "約書亞記 11",
-    "url": "https://getbible.net/v2/cnt/6/11.json",
+    "url": "https://api.getbible.net/v2/cnt/6/11.json",
     "sha": "b24b50f4b540f1917511a4b1294c88435493bf16"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "約書亞記",
     "chapter": 12,
     "name": "約書亞記 12",
-    "url": "https://getbible.net/v2/cnt/6/12.json",
+    "url": "https://api.getbible.net/v2/cnt/6/12.json",
     "sha": "a4ce19a83e608ff9bc59fad0d380f06ea7ce8768"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "約書亞記",
     "chapter": 13,
     "name": "約書亞記 13",
-    "url": "https://getbible.net/v2/cnt/6/13.json",
+    "url": "https://api.getbible.net/v2/cnt/6/13.json",
     "sha": "51d346deab43fa9731866cd6605f3b982bcc58b7"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "約書亞記",
     "chapter": 14,
     "name": "約書亞記 14",
-    "url": "https://getbible.net/v2/cnt/6/14.json",
+    "url": "https://api.getbible.net/v2/cnt/6/14.json",
     "sha": "e51acb279fa0fe9b9196e156ae2a4c20071b2d4f"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "約書亞記",
     "chapter": 15,
     "name": "約書亞記 15",
-    "url": "https://getbible.net/v2/cnt/6/15.json",
+    "url": "https://api.getbible.net/v2/cnt/6/15.json",
     "sha": "033f44419e6ce89afc098634925cebe031351a42"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "約書亞記",
     "chapter": 16,
     "name": "約書亞記 16",
-    "url": "https://getbible.net/v2/cnt/6/16.json",
+    "url": "https://api.getbible.net/v2/cnt/6/16.json",
     "sha": "fc1a84b24d953da5e5ebec654c6ff27baa882e3f"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "約書亞記",
     "chapter": 17,
     "name": "約書亞記 17",
-    "url": "https://getbible.net/v2/cnt/6/17.json",
+    "url": "https://api.getbible.net/v2/cnt/6/17.json",
     "sha": "25413d4579e0e17355dd1598e141f87a0841f0c7"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "約書亞記",
     "chapter": 18,
     "name": "約書亞記 18",
-    "url": "https://getbible.net/v2/cnt/6/18.json",
+    "url": "https://api.getbible.net/v2/cnt/6/18.json",
     "sha": "aacdde8fb45ade0497cce15ee4fdc7d31d219620"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "約書亞記",
     "chapter": 19,
     "name": "約書亞記 19",
-    "url": "https://getbible.net/v2/cnt/6/19.json",
+    "url": "https://api.getbible.net/v2/cnt/6/19.json",
     "sha": "7095292a090a2db065068f50cbbf95e23d8eb3f1"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "約書亞記",
     "chapter": 20,
     "name": "約書亞記 20",
-    "url": "https://getbible.net/v2/cnt/6/20.json",
+    "url": "https://api.getbible.net/v2/cnt/6/20.json",
     "sha": "a90d75ad092df0237e799d7ffa32554a52a0aedb"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "約書亞記",
     "chapter": 21,
     "name": "約書亞記 21",
-    "url": "https://getbible.net/v2/cnt/6/21.json",
+    "url": "https://api.getbible.net/v2/cnt/6/21.json",
     "sha": "f31a6541ffdc865f6d55638c4cf1d06b57de74fb"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "約書亞記",
     "chapter": 22,
     "name": "約書亞記 22",
-    "url": "https://getbible.net/v2/cnt/6/22.json",
+    "url": "https://api.getbible.net/v2/cnt/6/22.json",
     "sha": "b4db90ceaf3f3fb7518b39ba8bf234ad115b0d37"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "約書亞記",
     "chapter": 23,
     "name": "約書亞記 23",
-    "url": "https://getbible.net/v2/cnt/6/23.json",
+    "url": "https://api.getbible.net/v2/cnt/6/23.json",
     "sha": "61ff8daa65cf855ceba931b9b8aeca036a8a8742"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "約書亞記",
     "chapter": 24,
     "name": "約書亞記 24",
-    "url": "https://getbible.net/v2/cnt/6/24.json",
+    "url": "https://api.getbible.net/v2/cnt/6/24.json",
     "sha": "4ce9064164aa8753e021db0432179e2d044f08d5"
   }
 }

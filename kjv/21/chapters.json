@@ -10,7 +10,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 1,
     "name": "Ecclesiastes 1",
-    "url": "https://getbible.net/v2/kjv/21/1.json",
+    "url": "https://api.getbible.net/v2/kjv/21/1.json",
     "sha": "6823d5c6e6ddbdf0ecad66a4773066bb1fdda463"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 2,
     "name": "Ecclesiastes 2",
-    "url": "https://getbible.net/v2/kjv/21/2.json",
+    "url": "https://api.getbible.net/v2/kjv/21/2.json",
     "sha": "681f4822c691348ec9951613496453082d87805a"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 3,
     "name": "Ecclesiastes 3",
-    "url": "https://getbible.net/v2/kjv/21/3.json",
+    "url": "https://api.getbible.net/v2/kjv/21/3.json",
     "sha": "f732349b976ec8c8a8228dbb05641a1969fc3d58"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 4,
     "name": "Ecclesiastes 4",
-    "url": "https://getbible.net/v2/kjv/21/4.json",
+    "url": "https://api.getbible.net/v2/kjv/21/4.json",
     "sha": "e8833d7bc3f00eef03e6236dac019aa861aac40c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 5,
     "name": "Ecclesiastes 5",
-    "url": "https://getbible.net/v2/kjv/21/5.json",
+    "url": "https://api.getbible.net/v2/kjv/21/5.json",
     "sha": "cf0560ee7006af49c902a9030f6bda6cbf4eb6df"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 6,
     "name": "Ecclesiastes 6",
-    "url": "https://getbible.net/v2/kjv/21/6.json",
+    "url": "https://api.getbible.net/v2/kjv/21/6.json",
     "sha": "67c156210479480d3d3ec04af123553c25e11e7c"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 7,
     "name": "Ecclesiastes 7",
-    "url": "https://getbible.net/v2/kjv/21/7.json",
+    "url": "https://api.getbible.net/v2/kjv/21/7.json",
     "sha": "8e702268ea12e3c877343fad9fda78d48382854a"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 8,
     "name": "Ecclesiastes 8",
-    "url": "https://getbible.net/v2/kjv/21/8.json",
+    "url": "https://api.getbible.net/v2/kjv/21/8.json",
     "sha": "74f4b312a4e6dc9d82cd17e6b392281ae26c89cf"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 9,
     "name": "Ecclesiastes 9",
-    "url": "https://getbible.net/v2/kjv/21/9.json",
+    "url": "https://api.getbible.net/v2/kjv/21/9.json",
     "sha": "73a4664ab216fc4287d6623d68d1b20f5b91ffe5"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 10,
     "name": "Ecclesiastes 10",
-    "url": "https://getbible.net/v2/kjv/21/10.json",
+    "url": "https://api.getbible.net/v2/kjv/21/10.json",
     "sha": "c5724dd95abe86d13e129049f78abb61bba9e2bd"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 11,
     "name": "Ecclesiastes 11",
-    "url": "https://getbible.net/v2/kjv/21/11.json",
+    "url": "https://api.getbible.net/v2/kjv/21/11.json",
     "sha": "53111e06087ee4133b959fab662494a5398056e4"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Ecclesiastes",
     "chapter": 12,
     "name": "Ecclesiastes 12",
-    "url": "https://getbible.net/v2/kjv/21/12.json",
+    "url": "https://api.getbible.net/v2/kjv/21/12.json",
     "sha": "3d253846d639a4f59ef42a1b7e4147bbdbfaf20a"
   }
 }

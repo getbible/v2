@@ -10,7 +10,7 @@
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
-    "url": "https://getbible.net/v2/riveduta/61/1.json",
+    "url": "https://api.getbible.net/v2/riveduta/61/1.json",
     "sha": "b9024f4230c64db2c3c3be19015cbd48455d91d8"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
-    "url": "https://getbible.net/v2/riveduta/61/2.json",
+    "url": "https://api.getbible.net/v2/riveduta/61/2.json",
     "sha": "445ac809c3acd0ae769c4aaef43872c7b73c8c4f"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
-    "url": "https://getbible.net/v2/riveduta/61/3.json",
+    "url": "https://api.getbible.net/v2/riveduta/61/3.json",
     "sha": "ea9a255464621a58d05a3e2ab680679e7960b2e7"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "Romans",
     "chapter": 1,
     "name": "Romans 1",
-    "url": "https://getbible.net/v2/bkr/45/1.json",
+    "url": "https://api.getbible.net/v2/bkr/45/1.json",
     "sha": "1c729278fea046b6c4d41691c8d9d5e24026d856"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Romans",
     "chapter": 2,
     "name": "Romans 2",
-    "url": "https://getbible.net/v2/bkr/45/2.json",
+    "url": "https://api.getbible.net/v2/bkr/45/2.json",
     "sha": "41259379af6c03b78129f674c5c2495edcb1c2ae"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Romans",
     "chapter": 3,
     "name": "Romans 3",
-    "url": "https://getbible.net/v2/bkr/45/3.json",
+    "url": "https://api.getbible.net/v2/bkr/45/3.json",
     "sha": "ca1341ac6906b4bb8510880ca85e4d2fae8463e7"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Romans",
     "chapter": 4,
     "name": "Romans 4",
-    "url": "https://getbible.net/v2/bkr/45/4.json",
+    "url": "https://api.getbible.net/v2/bkr/45/4.json",
     "sha": "4aa660ce98631ce7cb6fc9db2a65ffc6d3582ce2"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Romans",
     "chapter": 5,
     "name": "Romans 5",
-    "url": "https://getbible.net/v2/bkr/45/5.json",
+    "url": "https://api.getbible.net/v2/bkr/45/5.json",
     "sha": "789af82efcfc5c7ce0fd2e35de2e329251cd59ce"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Romans",
     "chapter": 6,
     "name": "Romans 6",
-    "url": "https://getbible.net/v2/bkr/45/6.json",
+    "url": "https://api.getbible.net/v2/bkr/45/6.json",
     "sha": "37eb2bb0c3d7cd5dfb45b989e4289704a9ef63ed"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Romans",
     "chapter": 7,
     "name": "Romans 7",
-    "url": "https://getbible.net/v2/bkr/45/7.json",
+    "url": "https://api.getbible.net/v2/bkr/45/7.json",
     "sha": "f5ad92a78cbfa1d9c58bc71366954e3b10280257"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Romans",
     "chapter": 8,
     "name": "Romans 8",
-    "url": "https://getbible.net/v2/bkr/45/8.json",
+    "url": "https://api.getbible.net/v2/bkr/45/8.json",
     "sha": "cdd7ed36370f5974c861b73e9d76368bc69b94ec"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Romans",
     "chapter": 9,
     "name": "Romans 9",
-    "url": "https://getbible.net/v2/bkr/45/9.json",
+    "url": "https://api.getbible.net/v2/bkr/45/9.json",
     "sha": "90a8835bad5beccb4e66782eb2c4703647f94a58"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Romans",
     "chapter": 10,
     "name": "Romans 10",
-    "url": "https://getbible.net/v2/bkr/45/10.json",
+    "url": "https://api.getbible.net/v2/bkr/45/10.json",
     "sha": "601e3ac459af6acb46b0324b19a384c240d7ca54"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Romans",
     "chapter": 11,
     "name": "Romans 11",
-    "url": "https://getbible.net/v2/bkr/45/11.json",
+    "url": "https://api.getbible.net/v2/bkr/45/11.json",
     "sha": "47e3418a2b20edc96be789577d95df18d961cf93"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Romans",
     "chapter": 12,
     "name": "Romans 12",
-    "url": "https://getbible.net/v2/bkr/45/12.json",
+    "url": "https://api.getbible.net/v2/bkr/45/12.json",
     "sha": "ce69c367a5b76702cc5a0b3b19e4e4a297f328bd"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Romans",
     "chapter": 13,
     "name": "Romans 13",
-    "url": "https://getbible.net/v2/bkr/45/13.json",
+    "url": "https://api.getbible.net/v2/bkr/45/13.json",
     "sha": "e3be4f92e2a907e90eddba124999d45d0f688c3a"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Romans",
     "chapter": 14,
     "name": "Romans 14",
-    "url": "https://getbible.net/v2/bkr/45/14.json",
+    "url": "https://api.getbible.net/v2/bkr/45/14.json",
     "sha": "f185eb42c88a0bba9bf03c4cfbc069684b4e14df"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Romans",
     "chapter": 15,
     "name": "Romans 15",
-    "url": "https://getbible.net/v2/bkr/45/15.json",
+    "url": "https://api.getbible.net/v2/bkr/45/15.json",
     "sha": "b61b7ce30e3e89bff184efac19d6f7da719fec49"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Romans",
     "chapter": 16,
     "name": "Romans 16",
-    "url": "https://getbible.net/v2/bkr/45/16.json",
+    "url": "https://api.getbible.net/v2/bkr/45/16.json",
     "sha": "14c8bc29970a2254071210a136bb008b9c80805d"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "那鸿书",
     "chapter": 1,
     "name": "那鸿书 1",
-    "url": "https://getbible.net/v2/cus/34/1.json",
+    "url": "https://api.getbible.net/v2/cus/34/1.json",
     "sha": "d0460059581ef4f849a0b09f1dc32ffde8b6e400"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "那鸿书",
     "chapter": 2,
     "name": "那鸿书 2",
-    "url": "https://getbible.net/v2/cus/34/2.json",
+    "url": "https://api.getbible.net/v2/cus/34/2.json",
     "sha": "1fee052e51d4d35064c9f625686413a460170419"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "那鸿书",
     "chapter": 3,
     "name": "那鸿书 3",
-    "url": "https://getbible.net/v2/cus/34/3.json",
+    "url": "https://api.getbible.net/v2/cus/34/3.json",
     "sha": "ee08cdf7fc19944213be9fbe4261e740c1c7580e"
   }
 }

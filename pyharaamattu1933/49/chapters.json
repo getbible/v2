@@ -10,7 +10,7 @@
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
-    "url": "https://getbible.net/v2/pyharaamattu1933/49/1.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/49/1.json",
     "sha": "b92e6f90deab31c15d2a823fb1080ad9aa4c745e"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
-    "url": "https://getbible.net/v2/pyharaamattu1933/49/2.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/49/2.json",
     "sha": "73144a0b472114b7319e5b6226d66414f08b8db8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
-    "url": "https://getbible.net/v2/pyharaamattu1933/49/3.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/49/3.json",
     "sha": "e821ef263d9b1afd219919a80ae5b919a888cace"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
-    "url": "https://getbible.net/v2/pyharaamattu1933/49/4.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/49/4.json",
     "sha": "ac663765ca75e719a23df0840e0365d93d384f8a"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
-    "url": "https://getbible.net/v2/pyharaamattu1933/49/5.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/49/5.json",
     "sha": "f6a7ae229b5a720de37ca08057b6fd1302d427ae"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
-    "url": "https://getbible.net/v2/pyharaamattu1933/49/6.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933/49/6.json",
     "sha": "c6d1c26739c63de272ae98a3d23279f00e1a652f"
   }
 }

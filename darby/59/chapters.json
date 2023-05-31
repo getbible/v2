@@ -10,7 +10,7 @@
     "book_name": "James",
     "chapter": 1,
     "name": "James 1",
-    "url": "https://getbible.net/v2/darby/59/1.json",
+    "url": "https://api.getbible.net/v2/darby/59/1.json",
     "sha": "516367ded2da0d2da3a64b5ed4e6dbdfa11984cb"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "James",
     "chapter": 2,
     "name": "James 2",
-    "url": "https://getbible.net/v2/darby/59/2.json",
+    "url": "https://api.getbible.net/v2/darby/59/2.json",
     "sha": "da7ebbdf2cfb9dc4ad70a28ee0c73908e57b19f8"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "James",
     "chapter": 3,
     "name": "James 3",
-    "url": "https://getbible.net/v2/darby/59/3.json",
+    "url": "https://api.getbible.net/v2/darby/59/3.json",
     "sha": "72d700864326261a48f4e0c6b59ad91a21ac89ea"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "James",
     "chapter": 4,
     "name": "James 4",
-    "url": "https://getbible.net/v2/darby/59/4.json",
+    "url": "https://api.getbible.net/v2/darby/59/4.json",
     "sha": "2ee9bb83ad6f9a52c82a41b4f06b7d1ec6aa2d09"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "James",
     "chapter": 5,
     "name": "James 5",
-    "url": "https://getbible.net/v2/darby/59/5.json",
+    "url": "https://api.getbible.net/v2/darby/59/5.json",
     "sha": "44a468549dc713e9ceeb4a82802baebec2d7c05d"
   }
 }

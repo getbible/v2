@@ -10,8 +10,8 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/pyharaamattu1992/34/1.json",
-    "sha": "fa385fd0bf6710d993d7a7bd5362bc3cf5c37ebd"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/34/1.json",
+    "sha": "b0f3ad0dbad01b1849ed572604a961a972945436"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -24,8 +24,8 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/pyharaamattu1992/34/2.json",
-    "sha": "afe242fd76aa46a1bb4a275a6cbd30f4a9150253"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/34/2.json",
+    "sha": "e75fc919e8e34835d74efb3de9e43aaef4e5f892"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/pyharaamattu1992/34/3.json",
-    "sha": "cc8356f7fcc608e43162a173392cef254d6ae126"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992/34/3.json",
+    "sha": "3080767ac735ac67fbca5af917206c85506b4f7c"
   }
 }

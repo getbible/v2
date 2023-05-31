@@ -10,7 +10,7 @@
     "book_name": "以斯拉记",
     "chapter": 1,
     "name": "以斯拉记 1",
-    "url": "https://getbible.net/v2/cns/15/1.json",
+    "url": "https://api.getbible.net/v2/cns/15/1.json",
     "sha": "7cc5aaa890e15da06971e096066871049ecf3636"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "以斯拉记",
     "chapter": 2,
     "name": "以斯拉记 2",
-    "url": "https://getbible.net/v2/cns/15/2.json",
+    "url": "https://api.getbible.net/v2/cns/15/2.json",
     "sha": "4695c5a14b0877353c4afcadd0b7c25932f2dcc7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "以斯拉记",
     "chapter": 3,
     "name": "以斯拉记 3",
-    "url": "https://getbible.net/v2/cns/15/3.json",
+    "url": "https://api.getbible.net/v2/cns/15/3.json",
     "sha": "81b257c725782d001f046afee78c4f4f336a1faa"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "以斯拉记",
     "chapter": 4,
     "name": "以斯拉记 4",
-    "url": "https://getbible.net/v2/cns/15/4.json",
+    "url": "https://api.getbible.net/v2/cns/15/4.json",
     "sha": "51ffe8f9d2ca1e27d6077122c3936db63fddfacb"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "以斯拉记",
     "chapter": 5,
     "name": "以斯拉记 5",
-    "url": "https://getbible.net/v2/cns/15/5.json",
+    "url": "https://api.getbible.net/v2/cns/15/5.json",
     "sha": "73d7bb20985d3b4f3a8d73cfa93505c1d05f5fb4"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "以斯拉记",
     "chapter": 6,
     "name": "以斯拉记 6",
-    "url": "https://getbible.net/v2/cns/15/6.json",
+    "url": "https://api.getbible.net/v2/cns/15/6.json",
     "sha": "ffbf6a9fb0a4afd4dd4b0aecc047d8e013e753e9"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "以斯拉记",
     "chapter": 7,
     "name": "以斯拉记 7",
-    "url": "https://getbible.net/v2/cns/15/7.json",
+    "url": "https://api.getbible.net/v2/cns/15/7.json",
     "sha": "48db7c8898a4068ed43015253c861f885c204d24"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "以斯拉记",
     "chapter": 8,
     "name": "以斯拉记 8",
-    "url": "https://getbible.net/v2/cns/15/8.json",
+    "url": "https://api.getbible.net/v2/cns/15/8.json",
     "sha": "4c4d5629dbad41ec4a79b5762183ec64de19074c"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "以斯拉记",
     "chapter": 9,
     "name": "以斯拉记 9",
-    "url": "https://getbible.net/v2/cns/15/9.json",
+    "url": "https://api.getbible.net/v2/cns/15/9.json",
     "sha": "625825352eecb5665964c18d2c8659e6787aab1a"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "以斯拉记",
     "chapter": 10,
     "name": "以斯拉记 10",
-    "url": "https://getbible.net/v2/cns/15/10.json",
+    "url": "https://api.getbible.net/v2/cns/15/10.json",
     "sha": "89b000995a6e1a0f43187e44cfdb893ce63e3d18"
   }
 }

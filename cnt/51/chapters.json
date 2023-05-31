@@ -10,7 +10,7 @@
     "book_name": "歌羅西書",
     "chapter": 1,
     "name": "歌羅西書 1",
-    "url": "https://getbible.net/v2/cnt/51/1.json",
+    "url": "https://api.getbible.net/v2/cnt/51/1.json",
     "sha": "1321f4fbc5c9665027c50a606d477438cd243c1c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "歌羅西書",
     "chapter": 2,
     "name": "歌羅西書 2",
-    "url": "https://getbible.net/v2/cnt/51/2.json",
+    "url": "https://api.getbible.net/v2/cnt/51/2.json",
     "sha": "c2624a6ca567a677b9f13e1f69d423b6179fa37b"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "歌羅西書",
     "chapter": 3,
     "name": "歌羅西書 3",
-    "url": "https://getbible.net/v2/cnt/51/3.json",
+    "url": "https://api.getbible.net/v2/cnt/51/3.json",
     "sha": "3959be9e076a3e8ddeba5926d83a37e0216d6fb8"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "歌羅西書",
     "chapter": 4,
     "name": "歌羅西書 4",
-    "url": "https://getbible.net/v2/cnt/51/4.json",
+    "url": "https://api.getbible.net/v2/cnt/51/4.json",
     "sha": "b1b8512a7f69cf492abc8011e6583d3fc46a7bd7"
   }
 }

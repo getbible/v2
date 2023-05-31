@@ -10,7 +10,7 @@
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
-    "url": "https://getbible.net/v2/arabicsv/43/1.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/1.json",
     "sha": "5777cdee49654e92d9b15a01b6fcd9ccd910ba9b"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
-    "url": "https://getbible.net/v2/arabicsv/43/2.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/2.json",
     "sha": "8338a121dee2afec5a9d023b41a49010a0953de3"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
-    "url": "https://getbible.net/v2/arabicsv/43/3.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/3.json",
     "sha": "49e0a0193beb32d13737ab110ca214044c236051"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
-    "url": "https://getbible.net/v2/arabicsv/43/4.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/4.json",
     "sha": "d589cb6b845cde26fa78124e4d47a8f0afac38e1"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
-    "url": "https://getbible.net/v2/arabicsv/43/5.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/5.json",
     "sha": "e58ce50811a1ccd47e5db861f8178e63c64d9eef"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
-    "url": "https://getbible.net/v2/arabicsv/43/6.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/6.json",
     "sha": "51eb61ba4c781b8e87c2d9415f40b2e47b7e8fc6"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
-    "url": "https://getbible.net/v2/arabicsv/43/7.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/7.json",
     "sha": "181d7e96e7f0388c58cf74fc65c28cbdc52194dd"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
-    "url": "https://getbible.net/v2/arabicsv/43/8.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/8.json",
     "sha": "7e705c06277da981b4830b0f933869626f093377"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
-    "url": "https://getbible.net/v2/arabicsv/43/9.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/9.json",
     "sha": "ca26e145092b306097ee28b164ba5dd239d50002"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
-    "url": "https://getbible.net/v2/arabicsv/43/10.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/10.json",
     "sha": "a5ff36a51559825883efb21fd3e1ad40a7ed39b9"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
-    "url": "https://getbible.net/v2/arabicsv/43/11.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/11.json",
     "sha": "2cf0fe742cd81f585f0d1d805eb472c4ebe28b5b"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
-    "url": "https://getbible.net/v2/arabicsv/43/12.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/12.json",
     "sha": "090462b22bc8488c2eec2314f49acaa70c89367c"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
-    "url": "https://getbible.net/v2/arabicsv/43/13.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/13.json",
     "sha": "a4776a70f1706d02531d3059460d373120a2f5d4"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
-    "url": "https://getbible.net/v2/arabicsv/43/14.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/14.json",
     "sha": "f629433dc1369a024299ea530efabc27c907c530"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
-    "url": "https://getbible.net/v2/arabicsv/43/15.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/15.json",
     "sha": "0a1a094e346ea1372c068d4e67f9c4a15508b9d9"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
-    "url": "https://getbible.net/v2/arabicsv/43/16.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/16.json",
     "sha": "e79b5a246859259f9047d5125b538b6ddab44dd9"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
-    "url": "https://getbible.net/v2/arabicsv/43/17.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/17.json",
     "sha": "43224f5508a3eb5d35af2de3fcb9ed92b1b91315"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
-    "url": "https://getbible.net/v2/arabicsv/43/18.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/18.json",
     "sha": "099f073feb00a919c637f4d125e96b06e361c697"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
-    "url": "https://getbible.net/v2/arabicsv/43/19.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/19.json",
     "sha": "1cece8ac8b3e9f664f948e29480753c30fa614cc"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
-    "url": "https://getbible.net/v2/arabicsv/43/20.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/20.json",
     "sha": "8a5dd56b33fe0abb3e5a04dba0ab836c7aeb4999"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
-    "url": "https://getbible.net/v2/arabicsv/43/21.json",
+    "url": "https://api.getbible.net/v2/arabicsv/43/21.json",
     "sha": "a92ec258115599775b82da4b65489d0c2e036686"
   }
 }

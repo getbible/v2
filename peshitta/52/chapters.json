@@ -10,7 +10,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 1,
     "name": "1 Thessalonians 1",
-    "url": "https://getbible.net/v2/peshitta/52/1.json",
+    "url": "https://api.getbible.net/v2/peshitta/52/1.json",
     "sha": "8c629d1452fb6be7b151033662654a8d0d534427"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 2,
     "name": "1 Thessalonians 2",
-    "url": "https://getbible.net/v2/peshitta/52/2.json",
+    "url": "https://api.getbible.net/v2/peshitta/52/2.json",
     "sha": "1de70ec05794b9d3c8174669b9d315248538a3cc"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 3,
     "name": "1 Thessalonians 3",
-    "url": "https://getbible.net/v2/peshitta/52/3.json",
+    "url": "https://api.getbible.net/v2/peshitta/52/3.json",
     "sha": "4a442bda13518a45d9e30c6467aaf43c1f675b6a"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 4,
     "name": "1 Thessalonians 4",
-    "url": "https://getbible.net/v2/peshitta/52/4.json",
+    "url": "https://api.getbible.net/v2/peshitta/52/4.json",
     "sha": "31d00d2042e06e238678db4304b29c0d7bc6db0d"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Thessalonians",
     "chapter": 5,
     "name": "1 Thessalonians 5",
-    "url": "https://getbible.net/v2/peshitta/52/5.json",
+    "url": "https://api.getbible.net/v2/peshitta/52/5.json",
     "sha": "422cd97aba70481e0d458eb0074ee3e6e83d7635"
   }
 }

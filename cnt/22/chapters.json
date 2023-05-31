@@ -10,7 +10,7 @@
     "book_name": "雅歌",
     "chapter": 1,
     "name": "雅歌 1",
-    "url": "https://getbible.net/v2/cnt/22/1.json",
+    "url": "https://api.getbible.net/v2/cnt/22/1.json",
     "sha": "752f698ab30090402e182df90e0e23b627a4c67c"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "雅歌",
     "chapter": 2,
     "name": "雅歌 2",
-    "url": "https://getbible.net/v2/cnt/22/2.json",
+    "url": "https://api.getbible.net/v2/cnt/22/2.json",
     "sha": "e07abb69492faaad35b19b77994f09e506ba9802"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "雅歌",
     "chapter": 3,
     "name": "雅歌 3",
-    "url": "https://getbible.net/v2/cnt/22/3.json",
+    "url": "https://api.getbible.net/v2/cnt/22/3.json",
     "sha": "e16b360f1580b78a8e72e48b89a635cf087d5aef"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "雅歌",
     "chapter": 4,
     "name": "雅歌 4",
-    "url": "https://getbible.net/v2/cnt/22/4.json",
+    "url": "https://api.getbible.net/v2/cnt/22/4.json",
     "sha": "46dcddb74b80f7e79c6adcfe3d87d4cf26aa1dbc"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "雅歌",
     "chapter": 5,
     "name": "雅歌 5",
-    "url": "https://getbible.net/v2/cnt/22/5.json",
+    "url": "https://api.getbible.net/v2/cnt/22/5.json",
     "sha": "573e6c2ea7ea779c6625e40b3de8456228be5d7d"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "雅歌",
     "chapter": 6,
     "name": "雅歌 6",
-    "url": "https://getbible.net/v2/cnt/22/6.json",
+    "url": "https://api.getbible.net/v2/cnt/22/6.json",
     "sha": "70270e64dde841919d79df3ae20ec5ce521c863f"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "雅歌",
     "chapter": 7,
     "name": "雅歌 7",
-    "url": "https://getbible.net/v2/cnt/22/7.json",
+    "url": "https://api.getbible.net/v2/cnt/22/7.json",
     "sha": "08b743909d0e4ce0cd7c1650acdc427bafeeb52d"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "雅歌",
     "chapter": 8,
     "name": "雅歌 8",
-    "url": "https://getbible.net/v2/cnt/22/8.json",
+    "url": "https://api.getbible.net/v2/cnt/22/8.json",
     "sha": "bb30a43b4a670a1f58e1398ea58751c17d324b82"
   }
 }

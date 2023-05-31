@@ -10,7 +10,7 @@
     "book_name": "Ephesians",
     "chapter": 1,
     "name": "Ephesians 1",
-    "url": "https://getbible.net/v2/textusreceptus/49/1.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/49/1.json",
     "sha": "8bfb0a9ef45b726fc18fc4ce399f7b19e3dc9af1"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Ephesians",
     "chapter": 2,
     "name": "Ephesians 2",
-    "url": "https://getbible.net/v2/textusreceptus/49/2.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/49/2.json",
     "sha": "5bd094813031557b526ae39c5f175b709225adce"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Ephesians",
     "chapter": 3,
     "name": "Ephesians 3",
-    "url": "https://getbible.net/v2/textusreceptus/49/3.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/49/3.json",
     "sha": "6e0b57419f517f42b546b88b3a641cdf75dbd580"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Ephesians",
     "chapter": 4,
     "name": "Ephesians 4",
-    "url": "https://getbible.net/v2/textusreceptus/49/4.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/49/4.json",
     "sha": "3d96834bacc7888b576778e13950e603bf3ec587"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Ephesians",
     "chapter": 5,
     "name": "Ephesians 5",
-    "url": "https://getbible.net/v2/textusreceptus/49/5.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/49/5.json",
     "sha": "1134b792903464d0caa6ed0179c0350205cc072c"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Ephesians",
     "chapter": 6,
     "name": "Ephesians 6",
-    "url": "https://getbible.net/v2/textusreceptus/49/6.json",
+    "url": "https://api.getbible.net/v2/textusreceptus/49/6.json",
     "sha": "8fa099fe906e30f2e47ddb51412c5a43cac45e27"
   }
 }

@@ -10,7 +10,7 @@
     "book_name": "1 Timothy",
     "chapter": 1,
     "name": "1 Timothy 1",
-    "url": "https://getbible.net/v2/croatia/54/1.json",
+    "url": "https://api.getbible.net/v2/croatia/54/1.json",
     "sha": "5c1fc87fcd36f44bf0729632305b45da5efd1a99"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Timothy",
     "chapter": 2,
     "name": "1 Timothy 2",
-    "url": "https://getbible.net/v2/croatia/54/2.json",
+    "url": "https://api.getbible.net/v2/croatia/54/2.json",
     "sha": "b60e1eb3be56021369cdf7994f93c7372ee209ae"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Timothy",
     "chapter": 3,
     "name": "1 Timothy 3",
-    "url": "https://getbible.net/v2/croatia/54/3.json",
+    "url": "https://api.getbible.net/v2/croatia/54/3.json",
     "sha": "ba320efa97657fc00c2882857b5f845a612c2394"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Timothy",
     "chapter": 4,
     "name": "1 Timothy 4",
-    "url": "https://getbible.net/v2/croatia/54/4.json",
+    "url": "https://api.getbible.net/v2/croatia/54/4.json",
     "sha": "887943a84f7180f355ca1f8a7f6d62e537606b8c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Timothy",
     "chapter": 5,
     "name": "1 Timothy 5",
-    "url": "https://getbible.net/v2/croatia/54/5.json",
+    "url": "https://api.getbible.net/v2/croatia/54/5.json",
     "sha": "6442a0284f529b233ded2787ae6055ff9f6d83de"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1 Timothy",
     "chapter": 6,
     "name": "1 Timothy 6",
-    "url": "https://getbible.net/v2/croatia/54/6.json",
+    "url": "https://api.getbible.net/v2/croatia/54/6.json",
     "sha": "f5f93835fd04d8e798a022004d6625ff9941cac5"
   }
 }

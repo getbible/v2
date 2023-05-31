@@ -10,7 +10,7 @@
     "book_name": "Mark",
     "chapter": 1,
     "name": "Mark 1",
-    "url": "https://getbible.net/v2/westernarmenian/41/1.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/1.json",
     "sha": "aa25a94b4e2845c6a139d02821050ad19a974a21"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Mark",
     "chapter": 2,
     "name": "Mark 2",
-    "url": "https://getbible.net/v2/westernarmenian/41/2.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/2.json",
     "sha": "088beaf6549c307596968706b60a17db60392a64"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Mark",
     "chapter": 3,
     "name": "Mark 3",
-    "url": "https://getbible.net/v2/westernarmenian/41/3.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/3.json",
     "sha": "c23d689123915dee783c9900052963492db73476"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Mark",
     "chapter": 4,
     "name": "Mark 4",
-    "url": "https://getbible.net/v2/westernarmenian/41/4.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/4.json",
     "sha": "8b1b972d9151dbe2f956d12985dbde77cb560b5c"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "Mark",
     "chapter": 5,
     "name": "Mark 5",
-    "url": "https://getbible.net/v2/westernarmenian/41/5.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/5.json",
     "sha": "d84b2a9361e424101a1347f27733154ae4833882"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "Mark",
     "chapter": 6,
     "name": "Mark 6",
-    "url": "https://getbible.net/v2/westernarmenian/41/6.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/6.json",
     "sha": "2aa8dd69bfec04c6b22eddfb455dd7ea0470dadc"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "Mark",
     "chapter": 7,
     "name": "Mark 7",
-    "url": "https://getbible.net/v2/westernarmenian/41/7.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/7.json",
     "sha": "108b0d9b8e1beeb9ed14c5aea328195df878eac5"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "Mark",
     "chapter": 8,
     "name": "Mark 8",
-    "url": "https://getbible.net/v2/westernarmenian/41/8.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/8.json",
     "sha": "0513a48111546f713f3dba1e3c3d83c20b72f981"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "Mark",
     "chapter": 9,
     "name": "Mark 9",
-    "url": "https://getbible.net/v2/westernarmenian/41/9.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/9.json",
     "sha": "66e6327bf764947d204efa83fe1362ff905fb0ee"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "Mark",
     "chapter": 10,
     "name": "Mark 10",
-    "url": "https://getbible.net/v2/westernarmenian/41/10.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/10.json",
     "sha": "09873b8a81e9ddca7a338b126aceeb97a91273c8"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "Mark",
     "chapter": 11,
     "name": "Mark 11",
-    "url": "https://getbible.net/v2/westernarmenian/41/11.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/11.json",
     "sha": "89932fc8b0593b8547c9695366793f875ffa9c93"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "Mark",
     "chapter": 12,
     "name": "Mark 12",
-    "url": "https://getbible.net/v2/westernarmenian/41/12.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/12.json",
     "sha": "90ddabdbe5d1764e4b356788af9844a4b95b92c1"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "Mark",
     "chapter": 13,
     "name": "Mark 13",
-    "url": "https://getbible.net/v2/westernarmenian/41/13.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/13.json",
     "sha": "28427635a4fb22fccbfc8d9e38a2b108e5a8bd40"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "Mark",
     "chapter": 14,
     "name": "Mark 14",
-    "url": "https://getbible.net/v2/westernarmenian/41/14.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/14.json",
     "sha": "8bb0b8fc932590335d90a49772c90eec9e9f4c22"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "Mark",
     "chapter": 15,
     "name": "Mark 15",
-    "url": "https://getbible.net/v2/westernarmenian/41/15.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/15.json",
     "sha": "5c4de7c49c7a7c61f4613a13e8f6cd0af482fa08"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "Mark",
     "chapter": 16,
     "name": "Mark 16",
-    "url": "https://getbible.net/v2/westernarmenian/41/16.json",
+    "url": "https://api.getbible.net/v2/westernarmenian/41/16.json",
     "sha": "31cfbbebffc4ee857d25a444fbcdeb9b80e79abe"
   }
 }

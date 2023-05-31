@@ -10,7 +10,7 @@
     "book_name": "阿摩司书",
     "chapter": 1,
     "name": "阿摩司书 1",
-    "url": "https://getbible.net/v2/cns/30/1.json",
+    "url": "https://api.getbible.net/v2/cns/30/1.json",
     "sha": "8396c7961f95eeac40d6ecce907be723a58254f6"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "阿摩司书",
     "chapter": 2,
     "name": "阿摩司书 2",
-    "url": "https://getbible.net/v2/cns/30/2.json",
+    "url": "https://api.getbible.net/v2/cns/30/2.json",
     "sha": "4120f8367227ddfdbe290141dcc542710dd1a0f7"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "阿摩司书",
     "chapter": 3,
     "name": "阿摩司书 3",
-    "url": "https://getbible.net/v2/cns/30/3.json",
+    "url": "https://api.getbible.net/v2/cns/30/3.json",
     "sha": "3e555fac67986f9c9c5f7d3d5ecb9b4d2e527396"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "阿摩司书",
     "chapter": 4,
     "name": "阿摩司书 4",
-    "url": "https://getbible.net/v2/cns/30/4.json",
+    "url": "https://api.getbible.net/v2/cns/30/4.json",
     "sha": "2b452d0694d0fc98e88ee0fe7a5c2ac963e3b7cf"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "阿摩司书",
     "chapter": 5,
     "name": "阿摩司书 5",
-    "url": "https://getbible.net/v2/cns/30/5.json",
+    "url": "https://api.getbible.net/v2/cns/30/5.json",
     "sha": "de1b25112bb3906dd1d84171a10041d4baeb347c"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "阿摩司书",
     "chapter": 6,
     "name": "阿摩司书 6",
-    "url": "https://getbible.net/v2/cns/30/6.json",
+    "url": "https://api.getbible.net/v2/cns/30/6.json",
     "sha": "876a64033ec61565ef0940f35d191a413362b792"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "阿摩司书",
     "chapter": 7,
     "name": "阿摩司书 7",
-    "url": "https://getbible.net/v2/cns/30/7.json",
+    "url": "https://api.getbible.net/v2/cns/30/7.json",
     "sha": "1ce35f14f2f2b813a6afeac95807e347666f86bb"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "阿摩司书",
     "chapter": 8,
     "name": "阿摩司书 8",
-    "url": "https://getbible.net/v2/cns/30/8.json",
+    "url": "https://api.getbible.net/v2/cns/30/8.json",
     "sha": "fed8d44bbcc48df6393d7f135db203a670296153"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "阿摩司书",
     "chapter": 9,
     "name": "阿摩司书 9",
-    "url": "https://getbible.net/v2/cns/30/9.json",
+    "url": "https://api.getbible.net/v2/cns/30/9.json",
     "sha": "c4301366b58f160dda1c762aeab12e16edf99dcd"
   }
 }

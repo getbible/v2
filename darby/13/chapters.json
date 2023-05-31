@@ -10,7 +10,7 @@
     "book_name": "1 Chronicles",
     "chapter": 1,
     "name": "1 Chronicles 1",
-    "url": "https://getbible.net/v2/darby/13/1.json",
+    "url": "https://api.getbible.net/v2/darby/13/1.json",
     "sha": "ebf03632ef14ef5280b2b9efe69124b83d063464"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Chronicles",
     "chapter": 2,
     "name": "1 Chronicles 2",
-    "url": "https://getbible.net/v2/darby/13/2.json",
+    "url": "https://api.getbible.net/v2/darby/13/2.json",
     "sha": "aee0bb0771b59b1a0b8d4d26686a24a24cae24d9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Chronicles",
     "chapter": 3,
     "name": "1 Chronicles 3",
-    "url": "https://getbible.net/v2/darby/13/3.json",
+    "url": "https://api.getbible.net/v2/darby/13/3.json",
     "sha": "9f1e67b665fc3ae667176875bfe4992782e86337"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Chronicles",
     "chapter": 4,
     "name": "1 Chronicles 4",
-    "url": "https://getbible.net/v2/darby/13/4.json",
+    "url": "https://api.getbible.net/v2/darby/13/4.json",
     "sha": "cc7c71ff51b19bfd29fe33b5b0c7cc1e41297e62"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Chronicles",
     "chapter": 5,
     "name": "1 Chronicles 5",
-    "url": "https://getbible.net/v2/darby/13/5.json",
+    "url": "https://api.getbible.net/v2/darby/13/5.json",
     "sha": "6ea425ddfc1d05ccd2bf0f1e565aa57d0b952be7"
   },
   "6": {
@@ -80,7 +80,7 @@
     "book_name": "1 Chronicles",
     "chapter": 6,
     "name": "1 Chronicles 6",
-    "url": "https://getbible.net/v2/darby/13/6.json",
+    "url": "https://api.getbible.net/v2/darby/13/6.json",
     "sha": "c73d1168d12dde5a6d924a72f5470b5564778fae"
   },
   "7": {
@@ -94,7 +94,7 @@
     "book_name": "1 Chronicles",
     "chapter": 7,
     "name": "1 Chronicles 7",
-    "url": "https://getbible.net/v2/darby/13/7.json",
+    "url": "https://api.getbible.net/v2/darby/13/7.json",
     "sha": "2ee5e47abef6d345c9b7912f40254f3712e6365c"
   },
   "8": {
@@ -108,7 +108,7 @@
     "book_name": "1 Chronicles",
     "chapter": 8,
     "name": "1 Chronicles 8",
-    "url": "https://getbible.net/v2/darby/13/8.json",
+    "url": "https://api.getbible.net/v2/darby/13/8.json",
     "sha": "de99f8a6d205637744eb53c2b0006844e238607e"
   },
   "9": {
@@ -122,7 +122,7 @@
     "book_name": "1 Chronicles",
     "chapter": 9,
     "name": "1 Chronicles 9",
-    "url": "https://getbible.net/v2/darby/13/9.json",
+    "url": "https://api.getbible.net/v2/darby/13/9.json",
     "sha": "7bb6cc5f2e5c1b58bf6215b2b75fab46034373c1"
   },
   "10": {
@@ -136,7 +136,7 @@
     "book_name": "1 Chronicles",
     "chapter": 10,
     "name": "1 Chronicles 10",
-    "url": "https://getbible.net/v2/darby/13/10.json",
+    "url": "https://api.getbible.net/v2/darby/13/10.json",
     "sha": "d54d91accb30ecce8276cb25035f00520b2eb271"
   },
   "11": {
@@ -150,7 +150,7 @@
     "book_name": "1 Chronicles",
     "chapter": 11,
     "name": "1 Chronicles 11",
-    "url": "https://getbible.net/v2/darby/13/11.json",
+    "url": "https://api.getbible.net/v2/darby/13/11.json",
     "sha": "f00cc42d8ac151c8d04c8bf242b0d9ce02930789"
   },
   "12": {
@@ -164,7 +164,7 @@
     "book_name": "1 Chronicles",
     "chapter": 12,
     "name": "1 Chronicles 12",
-    "url": "https://getbible.net/v2/darby/13/12.json",
+    "url": "https://api.getbible.net/v2/darby/13/12.json",
     "sha": "72ceaacb3e293f567675c0e662e201f6af695051"
   },
   "13": {
@@ -178,7 +178,7 @@
     "book_name": "1 Chronicles",
     "chapter": 13,
     "name": "1 Chronicles 13",
-    "url": "https://getbible.net/v2/darby/13/13.json",
+    "url": "https://api.getbible.net/v2/darby/13/13.json",
     "sha": "41a696e3fdc5397b02219b0efcb54a0b5bee92c7"
   },
   "14": {
@@ -192,7 +192,7 @@
     "book_name": "1 Chronicles",
     "chapter": 14,
     "name": "1 Chronicles 14",
-    "url": "https://getbible.net/v2/darby/13/14.json",
+    "url": "https://api.getbible.net/v2/darby/13/14.json",
     "sha": "b472d0653746056bdc94ea04c5121fd5924ef650"
   },
   "15": {
@@ -206,7 +206,7 @@
     "book_name": "1 Chronicles",
     "chapter": 15,
     "name": "1 Chronicles 15",
-    "url": "https://getbible.net/v2/darby/13/15.json",
+    "url": "https://api.getbible.net/v2/darby/13/15.json",
     "sha": "ab21beb42bd1268570f01abf8c53aa9ccd392667"
   },
   "16": {
@@ -220,7 +220,7 @@
     "book_name": "1 Chronicles",
     "chapter": 16,
     "name": "1 Chronicles 16",
-    "url": "https://getbible.net/v2/darby/13/16.json",
+    "url": "https://api.getbible.net/v2/darby/13/16.json",
     "sha": "71b04d7b1befccd691ba6bf2259ab48f3223d8f5"
   },
   "17": {
@@ -234,7 +234,7 @@
     "book_name": "1 Chronicles",
     "chapter": 17,
     "name": "1 Chronicles 17",
-    "url": "https://getbible.net/v2/darby/13/17.json",
+    "url": "https://api.getbible.net/v2/darby/13/17.json",
     "sha": "44d8496736febd0797bbee15e4d63c57208c5fa3"
   },
   "18": {
@@ -248,7 +248,7 @@
     "book_name": "1 Chronicles",
     "chapter": 18,
     "name": "1 Chronicles 18",
-    "url": "https://getbible.net/v2/darby/13/18.json",
+    "url": "https://api.getbible.net/v2/darby/13/18.json",
     "sha": "20e247f5af14e3c68f5ac3e4f16cd2e37c5e4edf"
   },
   "19": {
@@ -262,7 +262,7 @@
     "book_name": "1 Chronicles",
     "chapter": 19,
     "name": "1 Chronicles 19",
-    "url": "https://getbible.net/v2/darby/13/19.json",
+    "url": "https://api.getbible.net/v2/darby/13/19.json",
     "sha": "deb88202895637ddedd0f482d64ed748075f204a"
   },
   "20": {
@@ -276,7 +276,7 @@
     "book_name": "1 Chronicles",
     "chapter": 20,
     "name": "1 Chronicles 20",
-    "url": "https://getbible.net/v2/darby/13/20.json",
+    "url": "https://api.getbible.net/v2/darby/13/20.json",
     "sha": "40df5e8c433a1e9fe00c395e6bda67af7c8a1374"
   },
   "21": {
@@ -290,7 +290,7 @@
     "book_name": "1 Chronicles",
     "chapter": 21,
     "name": "1 Chronicles 21",
-    "url": "https://getbible.net/v2/darby/13/21.json",
+    "url": "https://api.getbible.net/v2/darby/13/21.json",
     "sha": "7025f097d4ac0e54954cf8a10de3d5864bf9f109"
   },
   "22": {
@@ -304,7 +304,7 @@
     "book_name": "1 Chronicles",
     "chapter": 22,
     "name": "1 Chronicles 22",
-    "url": "https://getbible.net/v2/darby/13/22.json",
+    "url": "https://api.getbible.net/v2/darby/13/22.json",
     "sha": "1e6947ff1a202a882b1f3721519129989481715a"
   },
   "23": {
@@ -318,7 +318,7 @@
     "book_name": "1 Chronicles",
     "chapter": 23,
     "name": "1 Chronicles 23",
-    "url": "https://getbible.net/v2/darby/13/23.json",
+    "url": "https://api.getbible.net/v2/darby/13/23.json",
     "sha": "6b760674d1e8a00516e3f97f7a9c3d64cb7b301e"
   },
   "24": {
@@ -332,7 +332,7 @@
     "book_name": "1 Chronicles",
     "chapter": 24,
     "name": "1 Chronicles 24",
-    "url": "https://getbible.net/v2/darby/13/24.json",
+    "url": "https://api.getbible.net/v2/darby/13/24.json",
     "sha": "efe9520ee5da9d666d79b57778718fffb0a93062"
   },
   "25": {
@@ -346,7 +346,7 @@
     "book_name": "1 Chronicles",
     "chapter": 25,
     "name": "1 Chronicles 25",
-    "url": "https://getbible.net/v2/darby/13/25.json",
+    "url": "https://api.getbible.net/v2/darby/13/25.json",
     "sha": "27b11107c9328ce55823718be3da8312959e5071"
   },
   "26": {
@@ -360,7 +360,7 @@
     "book_name": "1 Chronicles",
     "chapter": 26,
     "name": "1 Chronicles 26",
-    "url": "https://getbible.net/v2/darby/13/26.json",
+    "url": "https://api.getbible.net/v2/darby/13/26.json",
     "sha": "cdbe99fe5434ddac3461b8ad7351bfbc8cc10992"
   },
   "27": {
@@ -374,7 +374,7 @@
     "book_name": "1 Chronicles",
     "chapter": 27,
     "name": "1 Chronicles 27",
-    "url": "https://getbible.net/v2/darby/13/27.json",
+    "url": "https://api.getbible.net/v2/darby/13/27.json",
     "sha": "28df657050f1f7033dd47f3b77bf439d15404da6"
   },
   "28": {
@@ -388,7 +388,7 @@
     "book_name": "1 Chronicles",
     "chapter": 28,
     "name": "1 Chronicles 28",
-    "url": "https://getbible.net/v2/darby/13/28.json",
+    "url": "https://api.getbible.net/v2/darby/13/28.json",
     "sha": "a0a1aa2684df2dc3e1c9ec6884e46debc154191d"
   },
   "29": {
@@ -402,7 +402,7 @@
     "book_name": "1 Chronicles",
     "chapter": 29,
     "name": "1 Chronicles 29",
-    "url": "https://getbible.net/v2/darby/13/29.json",
+    "url": "https://api.getbible.net/v2/darby/13/29.json",
     "sha": "3e21ca09d595cdef17adef2d0f13017e38caf1d3"
   }
 }

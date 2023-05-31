@@ -10,7 +10,7 @@
     "book_name": "Kolosser",
     "chapter": 1,
     "name": "Kolosser 1",
-    "url": "https://getbible.net/v2/schlachter/51/1.json",
+    "url": "https://api.getbible.net/v2/schlachter/51/1.json",
     "sha": "c6bf9602158e940fdf137302cc4537ed41e71379"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Kolosser",
     "chapter": 2,
     "name": "Kolosser 2",
-    "url": "https://getbible.net/v2/schlachter/51/2.json",
+    "url": "https://api.getbible.net/v2/schlachter/51/2.json",
     "sha": "a8ec0e94578f5af39042d662aca9f901f5572e83"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Kolosser",
     "chapter": 3,
     "name": "Kolosser 3",
-    "url": "https://getbible.net/v2/schlachter/51/3.json",
+    "url": "https://api.getbible.net/v2/schlachter/51/3.json",
     "sha": "03fda35d62aec35524b564c47341ba28882d2a67"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Kolosser",
     "chapter": 4,
     "name": "Kolosser 4",
-    "url": "https://getbible.net/v2/schlachter/51/4.json",
+    "url": "https://api.getbible.net/v2/schlachter/51/4.json",
     "sha": "25c0948748c835cfff8428a4abf9371c8bb08476"
   }
 }

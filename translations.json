@@ -20,7 +20,7 @@
       "history_1.3": "compressed module",
       "history_1.2": "Updated to new text and fixed a couple incomplete verses."
     },
-    "url": "https://getbible.net/v2/akjv.json",
+    "url": "https://api.getbible.net/v2/akjv.json",
     "sha": "b47203f5c1f296c63d67273bb2df2ae1dbea0f3e"
   },
   "aleppo": {
@@ -44,7 +44,7 @@
       "history_2.0": "Changed to native versification (MT)",
       "history_2.0.1": "(2022-08-06) Change Lang to Hebrew Ancient"
     },
-    "url": "https://getbible.net/v2/aleppo.json",
+    "url": "https://api.getbible.net/v2/aleppo.json",
     "sha": "1567f16903e6f7e67f7181f1d0a6a1f485be4075"
   },
   "almeida": {
@@ -69,7 +69,7 @@
       "history_1.3": "Updated to version 1.2+ε, 2012-08-03 text (2012-08-13)",
       "history_1.3.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
-    "url": "https://getbible.net/v2/almeida.json",
+    "url": "https://api.getbible.net/v2/almeida.json",
     "sha": "1afb34f1362b130681fd15a681d3369d45df2f88"
   },
   "aov": {
@@ -96,7 +96,7 @@
       "history_1.3.2": "conf file correction",
       "history_1.3.3": "(2022-08-01) conf file correction"
     },
-    "url": "https://getbible.net/v2/aov.json",
+    "url": "https://api.getbible.net/v2/aov.json",
     "sha": "b74929dcf727603e6da1fb9b2a846edf9dc3b667"
   },
   "arabicsv": {
@@ -126,7 +126,7 @@
       "history_2.2": "(2022-02-05) Spurious characters in the text, bug report MOD-430",
       "history_2.3": "(2023-01-18) Solves MOD-443: 2Cor 8:3 Is Missing Matt 17:25, 26, 27 Mar 4:2 3John 1:14 Versification issues"
     },
-    "url": "https://getbible.net/v2/arabicsv.json",
+    "url": "https://api.getbible.net/v2/arabicsv.json",
     "sha": "1776be0c683a0a7d6d6e60fe1986846f2584a4c9"
   },
   "asv": {
@@ -151,7 +151,7 @@
       "history_1.3": "Compressed the module",
       "history_2.0": "(2021-02-18) New text source, solves MOD-183"
     },
-    "url": "https://getbible.net/v2/asv.json",
+    "url": "https://api.getbible.net/v2/asv.json",
     "sha": "55c412b9eab43d069caf72c0a52f24eac019de16"
   },
   "basicenglish": {
@@ -175,7 +175,7 @@
       "history_1.2": "compressed module",
       "history_1.1": "minor correction to Rev 12:1"
     },
-    "url": "https://getbible.net/v2/basicenglish.json",
+    "url": "https://api.getbible.net/v2/basicenglish.json",
     "sha": "991485dc1f80014891e0fa681c8c7ff52342ce08"
   },
   "basque": {
@@ -199,7 +199,7 @@
       "history_1.1": "Updated text source",
       "history_1.0": "First version"
     },
-    "url": "https://getbible.net/v2/basque.json",
+    "url": "https://api.getbible.net/v2/basque.json",
     "sha": "0f9ba958aa71386d6af38fea75e723c8b2c47aab"
   },
   "bibelselskap": {
@@ -224,7 +224,7 @@
       "history_1.5": "Updated to new source, OSIS encoding",
       "history_2.0": "(2020-02-08) New module, added notes and crossreferences"
     },
-    "url": "https://getbible.net/v2/bibelselskap.json",
+    "url": "https://api.getbible.net/v2/bibelselskap.json",
     "sha": "2b9a864cd5aa7bdc1f70891f8ca9a3eb1d1313d7"
   },
   "bkr": {
@@ -250,7 +250,7 @@
       "history_1.4": "[2016-11-18] Refresh from upstream source, particularly fix J 19:18",
       "history_1.5": "(2023-01-18) Mainly fixing missing text in John-10:38 (MOD-449)"
     },
-    "url": "https://getbible.net/v2/bkr.json",
+    "url": "https://api.getbible.net/v2/bkr.json",
     "sha": "01803a40783f8e704da34ffd23361acf034e382e"
   },
   "breton": {
@@ -274,7 +274,7 @@
       "history_1.1": "[2012-03-29] Rebuilt module from source text (2011 edition)",
       "history_1.0": "[2012-02-29] Initial build  from source text (2010 edition)"
     },
-    "url": "https://getbible.net/v2/breton.json",
+    "url": "https://api.getbible.net/v2/breton.json",
     "sha": "6c26199a9ea03dc551a09cb3738125d4987ded74"
   },
   "cep": {
@@ -305,7 +305,7 @@
       "history_1.6.1": "(2017-02-28) Fix xml:lang attribute in OSIS file",
       "history_1.8": "(2020-01-23) Fix multiple typos in the text (mostly suggested by Libor Štefek)."
     },
-    "url": "https://getbible.net/v2/cep.json",
+    "url": "https://api.getbible.net/v2/cep.json",
     "sha": "bab1ccd39ff4cedd58a1aa789385d03f413f2e67"
   },
   "chamorro": {
@@ -343,7 +343,7 @@
       "history_1.4": "Red Letter markup corrected/updated for New Testament books, \"San Mateo\", \"San Marcos\", \"San Lucas\", \"San Juan\", and \"Y Checho Y Apostoles Sija\". (2004-02-23)",
       "history_1.0": "The 1908 Chamorro Bible introduced as a module for CrossWire Bible Society's \"The SWORD Project\".  This is an important date in the 1908 Chamorro Bible's history. (2004-02-19)"
     },
-    "url": "https://getbible.net/v2/chamorro.json",
+    "url": "https://api.getbible.net/v2/chamorro.json",
     "sha": "156b51f9c283c3e0f85f13a74b91990783153307"
   },
   "cns": {
@@ -367,7 +367,7 @@
       "history_1.1": "(2020-12-28) New release. Fix MOD-?",
       "history_1.1.1": "(2022-08-02) Fix typos in configuration file"
     },
-    "url": "https://getbible.net/v2/cns.json",
+    "url": "https://api.getbible.net/v2/cns.json",
     "sha": "2ac26e41c2349b8a92e7fb1c2d22ef4029eba996"
   },
   "cnt": {
@@ -391,7 +391,7 @@
       "history_1.1": "(2020-12-28) New Source",
       "history_1.1.1": "(2022-08-02) Fix typos in configuration file"
     },
-    "url": "https://getbible.net/v2/cnt.json",
+    "url": "https://api.getbible.net/v2/cnt.json",
     "sha": "834c6dcf615a8dbc0e74c2f09fba24127a63f1f6"
   },
   "codex": {
@@ -424,7 +424,7 @@
       "history_1.9.1": "(2022-08-20) Change Lang to Hebrew Ancient",
       "history_2.0": "(2022-09-17) Updated to WLC 20220916. Solves MOD-287, MOD-288: maqaf punctuation is no more followed by a space, MOD-303: Spurious notes entries removed."
     },
-    "url": "https://getbible.net/v2/codex.json",
+    "url": "https://api.getbible.net/v2/codex.json",
     "sha": "89861eba4f9c76f58e982ca1fb69c9e0cf036781"
   },
   "coptic": {
@@ -447,7 +447,7 @@
       "history_1.0.1": "corrected conf file",
       "history_1.0": "Initial release"
     },
-    "url": "https://getbible.net/v2/coptic.json",
+    "url": "https://api.getbible.net/v2/coptic.json",
     "sha": "0cf5fc3eb27635b7273c510cc7345d84799aa8d1"
   },
   "cornilescu": {
@@ -472,7 +472,7 @@
       "history_2.1": "Correction of multiple conversion errors",
       "history_2.2": "Correction of xref and conversion errors (updated toolset)"
     },
-    "url": "https://getbible.net/v2/cornilescu.json",
+    "url": "https://api.getbible.net/v2/cornilescu.json",
     "sha": "06b3d5939e4f044b9140c2a8afdfab1af4ac5c04"
   },
   "croatia": {
@@ -492,7 +492,7 @@
     "distribution_source": "http://unbound.biola.edu/",
     "distribution_versification": "",
     "distribution_history": {},
-    "url": "https://getbible.net/v2/croatia.json",
+    "url": "https://api.getbible.net/v2/croatia.json",
     "sha": "d5e268c66b04af7b47d1611e0d148e168c8e43fa"
   },
   "cus": {
@@ -518,7 +518,7 @@
       "history_2.6": "moved to av11n (2011-01-22)",
       "history_3.0": "(2021-01-31) New source http://bible.fhl.net version: 2020-12-24 Solved issues: MOD-266"
     },
-    "url": "https://getbible.net/v2/cus.json",
+    "url": "https://api.getbible.net/v2/cus.json",
     "sha": "cb47ac5340726293685aaeafcb0ae71376a34f88"
   },
   "cut": {
@@ -544,7 +544,7 @@
       "history_2.6": "moved to av11n (2011-01-22)",
       "history_3.0": "(2021-01-28) Rebuild from scratch from http://bible.fhl.net. Solve issues: MOD-266 MOD-365 MOD-366"
     },
-    "url": "https://getbible.net/v2/cut.json",
+    "url": "https://api.getbible.net/v2/cut.json",
     "sha": "b6641c1258af630360f3092f2c712fb73def9db0"
   },
   "danish": {
@@ -569,7 +569,7 @@
       "history_1.0.2": "(2022-08-09) Conf file corrections",
       "history_1..01": "(2017-05-22) Conf file corrections"
     },
-    "url": "https://getbible.net/v2/danish.json",
+    "url": "https://api.getbible.net/v2/danish.json",
     "sha": "4a39c7315522eb43bd543acfb9e7df180d29aeb3"
   },
   "darby": {
@@ -615,7 +615,7 @@
       "history_1.24": "(2019-10-23) Better formatting of Psalms, and other minor fixes",
       "history_2.0": "(2022-12-22) New source (from BPC editor JND v1.2) with new versification (German)"
     },
-    "url": "https://getbible.net/v2/darby.json",
+    "url": "https://api.getbible.net/v2/darby.json",
     "sha": "c7c70f679a4f18db9133535d30d43473d866b4cb"
   },
   "douayrheims": {
@@ -638,7 +638,7 @@
       "history_2.0": "added Deuterocanonicals, used improved text source",
       "history_1.1": "compressed module"
     },
-    "url": "https://getbible.net/v2/douayrheims.json",
+    "url": "https://api.getbible.net/v2/douayrheims.json",
     "sha": "08b19043385d6e2ae6f0f8e85e2b139260ce2bf1"
   },
   "easternarmenian": {
@@ -660,7 +660,7 @@
     "distribution_history": {
       "history_1.1": "Updated About and Description text"
     },
-    "url": "https://getbible.net/v2/easternarmenian.json",
+    "url": "https://api.getbible.net/v2/easternarmenian.json",
     "sha": "c171aaa7db9f3d4e9aa01639e3117bd4b4e78241"
   },
   "elberfelder": {
@@ -686,7 +686,7 @@
       "history_1.1.2": "(2013-08-20) Corrected .conf encoding",
       "history_1.2": "(2020-02-06) Fix https://tracker.crosswire.org/browse/MOD-299, crossref, notes..."
     },
-    "url": "https://getbible.net/v2/elberfelder.json",
+    "url": "https://api.getbible.net/v2/elberfelder.json",
     "sha": "224d98a08c274232dcdc35fc5ab07990e0edd234"
   },
   "elberfelder1905": {
@@ -713,7 +713,7 @@
       "history_1.5": "corrected bad markup, text from new source (Unbound Bible)",
       "history_1.6": "(2021-02-08) Versification change"
     },
-    "url": "https://getbible.net/v2/elberfelder1905.json",
+    "url": "https://api.getbible.net/v2/elberfelder1905.json",
     "sha": "b64678e690fc185c56ae5b3ad1ed150015f56f1e"
   },
   "esperanto": {
@@ -740,7 +740,7 @@
       "history_2.0": "(2020-02-08) New TextSource, fix MOD-232 MOD-238",
       "history_2.1": "(2020-05-21) Fix Encoding Issue"
     },
-    "url": "https://getbible.net/v2/esperanto.json",
+    "url": "https://api.getbible.net/v2/esperanto.json",
     "sha": "121800c048619f710cfd8a4a0c0202594b7373e7"
   },
   "estonian": {
@@ -762,7 +762,7 @@
     "distribution_history": {
       "history_1.1": "corrected UTF-8 encoding, fixed errors (repeating verses)"
     },
-    "url": "https://getbible.net/v2/estonian.json",
+    "url": "https://api.getbible.net/v2/estonian.json",
     "sha": "d71c2cd5153ac16df8e1f1451025e198b567205d"
   },
   "finnish1776": {
@@ -787,7 +787,7 @@
       "history_2.0": "(2020-05-21) New module with Deuterocanonicals. Fix MOD-353",
       "history_2.1": "(2020-08-01) Minor correction in DC"
     },
-    "url": "https://getbible.net/v2/finnish1776.json",
+    "url": "https://api.getbible.net/v2/finnish1776.json",
     "sha": "18dda8ab48e789f9ca2e703931711b886247571c"
   },
   "gaelic": {
@@ -810,7 +810,7 @@
       "history_1.2": "corrected language name/code, changed to upstream source with chapter titles",
       "history_1.1": "compressed module"
     },
-    "url": "https://getbible.net/v2/gaelic.json",
+    "url": "https://api.getbible.net/v2/gaelic.json",
     "sha": "5c5cc77f7e2fd08a4a92dbcfae8d8873e2e7f713"
   },
   "giovanni": {
@@ -833,7 +833,7 @@
       "history_1.0": "(2002-01-15) Initial release",
       "history_1.1": "(2020-02-08) Fix issue https://tracker.crosswire.org/browse/MOD-299"
     },
-    "url": "https://getbible.net/v2/giovanni.json",
+    "url": "https://api.getbible.net/v2/giovanni.json",
     "sha": "9dab74c6dcf1e9e97a8eea8fecd47d82fa051aae"
   },
   "gothic": {
@@ -856,7 +856,7 @@
       "history_1.0.1": "Corrected .conf encoding (2013-08-20)",
       "history_1.0": "Initial release (2002-01-01)"
     },
-    "url": "https://getbible.net/v2/gothic.json",
+    "url": "https://api.getbible.net/v2/gothic.json",
     "sha": "3f1e25c6e47016042e1d864cff8cdc7595bd1ee6"
   },
   "judson": {
@@ -881,7 +881,7 @@
       "history_1.1": "Changed default font to Padauk (http://scripts.sil.org/Padauk) (2008-03-01)",
       "history_1.0": "Initial release"
     },
-    "url": "https://getbible.net/v2/judson.json",
+    "url": "https://api.getbible.net/v2/judson.json",
     "sha": "e695200434d3fc1b1b3d09d5d8915c23227cc032"
   },
   "karoli": {
@@ -908,7 +908,7 @@
       "history_1.7": "(2009-11-12) Corrected a misspelled word in Isa.49.6",
       "history_2.0": "(2020-10-23) Module rebuilt based on new source with cross-references (from http://szentiras.hu/KG) and section titles (from http://abibliamindenkie.hu/karoli). Description corrected."
     },
-    "url": "https://getbible.net/v2/karoli.json",
+    "url": "https://api.getbible.net/v2/karoli.json",
     "sha": "23e09314d1e63c3ff865bbab3493bef907eb9fa4"
   },
   "kjv": {
@@ -945,7 +945,7 @@
       "history_1.2": "Added Feature StrongsNumbers to configuration",
       "history_1.1": "Fixed .conf file GlobalOptionFilters"
     },
-    "url": "https://getbible.net/v2/kjv.json",
+    "url": "https://api.getbible.net/v2/kjv.json",
     "sha": "fcf16e7b98fdd11807655102e798d38ceed9d8eb"
   },
   "kjva": {
@@ -976,7 +976,7 @@
       "history_1.2": "Added Feature StrongsNumbers to configuration",
       "history_1.1": "Fixed .conf file GlobalOptionFilters"
     },
-    "url": "https://getbible.net/v2/kjva.json",
+    "url": "https://api.getbible.net/v2/kjva.json",
     "sha": "3e2df44761ddabb11032880091898a039415a551"
   },
   "korean": {
@@ -1001,7 +1001,7 @@
       "history_1.5": "Updated to OSIS markup, linked merged verses, renamed to KorRV (2012-06-23)",
       "history_1.1": "Changed to UTF-8 source, replaced some missing verses, and compressed"
     },
-    "url": "https://getbible.net/v2/korean.json",
+    "url": "https://api.getbible.net/v2/korean.json",
     "sha": "6fcfa6efa638655e9929e660d3ab9cdbb53dde38"
   },
   "latvian": {
@@ -1026,7 +1026,7 @@
       "history_1.2": "fixed encoding, moved to OSIS source",
       "history_1.1": "compressed module"
     },
-    "url": "https://getbible.net/v2/latvian.json",
+    "url": "https://api.getbible.net/v2/latvian.json",
     "sha": "d3c75d2b07f072bba34ea595955e3826f17ecfa4"
   },
   "lithuanian": {
@@ -1056,7 +1056,7 @@
       "history_1.7.1": "(2017-08-17) conf update and transition to rules compliant module name",
       "history_1.7.2": "(2017-08-23) minor conf update"
     },
-    "url": "https://getbible.net/v2/lithuanian.json",
+    "url": "https://api.getbible.net/v2/lithuanian.json",
     "sha": "134f81752ce51e7c1f567e66e0d55714b2190844"
   },
   "ls1910": {
@@ -1087,7 +1087,7 @@
       "history_3.1": "(2018-11-14) Switch to Segond versification",
       "history_3.1.1": "(2022-08-05) Fix typos in configuration file"
     },
-    "url": "https://getbible.net/v2/ls1910.json",
+    "url": "https://api.getbible.net/v2/ls1910.json",
     "sha": "8b91e92c656f582d4e21209473a8fdc82f31810e"
   },
   "luther1545": {
@@ -1117,7 +1117,7 @@
       "history_0.91": "some spelling errors corrected (2000-09-09)",
       "history_0.90": "First official version (2000-08-30)"
     },
-    "url": "https://getbible.net/v2/luther1545.json",
+    "url": "https://api.getbible.net/v2/luther1545.json",
     "sha": "14fbfdeb1c5f7e1ac8f42dead7c5ef6f8b0090ea"
   },
   "mal1910": {
@@ -1142,7 +1142,7 @@
       "history_1.1.3": "(2022-08-14) Fix repeated LCSH in conf",
       "history_2.0": "(2023-01-07) Updated source to latest Git"
     },
-    "url": "https://getbible.net/v2/mal1910.json",
+    "url": "https://api.getbible.net/v2/mal1910.json",
     "sha": "c3fd3ec98e5c7b5763c3b87cfadba5289d928fb9"
   },
   "manxgaelic": {
@@ -1164,7 +1164,7 @@
     "distribution_history": {
       "history_1.1": "compressed module"
     },
-    "url": "https://getbible.net/v2/manxgaelic.json",
+    "url": "https://api.getbible.net/v2/manxgaelic.json",
     "sha": "ab92ea6c7e17e245f4fa271e12889945c86d2ecf"
   },
   "maori": {
@@ -1187,7 +1187,7 @@
       "history_1.1": "Compressed the module",
       "history_1.0": "initial release"
     },
-    "url": "https://getbible.net/v2/maori.json",
+    "url": "https://api.getbible.net/v2/maori.json",
     "sha": "ce95dee4fdf1dfe3c0127a214dd7e9ce5a9885f0"
   },
   "martin": {
@@ -1211,7 +1211,7 @@
       "history_1.1": "Updated text source",
       "history_1.0": "First version"
     },
-    "url": "https://getbible.net/v2/martin.json",
+    "url": "https://api.getbible.net/v2/martin.json",
     "sha": "85a667f3d10bc90c124c556308715660888eb7e6"
   },
   "moderngreek": {
@@ -1236,7 +1236,7 @@
       "history_1.0.2": "Added entries re license and obsoletion  to conf file (2014-12-27)",
       "history_1.0.3": "(2022-08-05) Fix repeated DistributionLicense in conf file"
     },
-    "url": "https://getbible.net/v2/moderngreek.json",
+    "url": "https://api.getbible.net/v2/moderngreek.json",
     "sha": "b5b428c6d6a6f9b2ca420548cd09b7ae9538040e"
   },
   "modernhebrew": {
@@ -1259,7 +1259,7 @@
       "history_1.1": "(2001-11-27) changed periods to sof pasuq and removed linefeeds",
       "history_1.2": "(2020-02-07) Fix issue https://tracker.crosswire.org/browse/MOD-299"
     },
-    "url": "https://getbible.net/v2/modernhebrew.json",
+    "url": "https://api.getbible.net/v2/modernhebrew.json",
     "sha": "55152a73beec48aa5489fb8c3d966145ca925916"
   },
   "peshitta": {
@@ -1282,7 +1282,7 @@
       "history_1.1": "(2002-01-01) tagged as right to left",
       "history_2.0": "(2020-02-08) New TextSource, fix emptyvss issues"
     },
-    "url": "https://getbible.net/v2/peshitta.json",
+    "url": "https://api.getbible.net/v2/peshitta.json",
     "sha": "ffbdc840380502a515466c94f5ec4c69101d6e59"
   },
   "potawatomi": {
@@ -1304,7 +1304,7 @@
     "distribution_history": {
       "history_1.0": "Initial release"
     },
-    "url": "https://getbible.net/v2/potawatomi.json",
+    "url": "https://api.getbible.net/v2/potawatomi.json",
     "sha": "8e3b62678f18923684c0b611394881fc118a4eb3"
   },
   "pyharaamattu1933": {
@@ -1329,7 +1329,7 @@
       "history_1.3": "Changed encoding to UTF-8. Rebuilt module with braces {} instead of lt/gt for av11n refs (2013-01-21)",
       "history_2.0": "(2023-01-26) Switch to OSIS format. Fix encoding issues on Ezra. Added deuterocanonical books."
     },
-    "url": "https://getbible.net/v2/pyharaamattu1933.json",
+    "url": "https://api.getbible.net/v2/pyharaamattu1933.json",
     "sha": "46d18240bfae83a4e84680c739f3dfa11f30987e"
   },
   "pyharaamattu1992": {
@@ -1339,21 +1339,23 @@
     "language": "Finnish",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. Finnish.",
-    "distribution_version": "1.1.1",
-    "distribution_version_date": "2012-12-28",
-    "distribution_abbreviation": "pyharaamattu1992",
+    "distribution_lcsh": "Bible.Finnish",
+    "distribution_version": "1.2",
+    "distribution_version_date": "2023-05-17",
+    "distribution_abbreviation": "Pyhä Raamattu 1992",
     "distribution_about": "Suomen evankelis-luterilaisen kirkon kirkolliskokouksen vuonna 1992 käyttöön ottama suomennos.\\par\\par Tämä raamatunkäännös on Kirkon keskusrahaston omistama.  Teksti on tarkoitettu tutkimus-, opetus-, ja opiskelukäyttöön.  Tekstin saa hakea itselle, mutta kopioiminen ja edelleen levittäminen on ehdottomasti kielletty.  Muuta kuin henkilökohtaista tutkimuskäyttöä varten tarvitaan erillinen lupa kirkon keskusrahastolta.\\par\\par Finnish Bible authorized by Evangelical Lutheran Church of Finland in 1992.\\par\\par This translation of The Holy Bible is copyrighted by Kirkon keskusrahasto.  The text is intended to research and studying purposes.  The text may be retrieved to your personal workstation but copying and re-distributing is strictly forbidden.  For other usages than personal research, teaching and studying a separate license by Kirkon keskusrahasto is required.\\par Kirkon keskusrahasto\\par Satamakatu 11 A\\par 00160 HELSINKI\\par FINLAND\\par\\par tel. +358-0-18021\\par\\par SWORD version by Tero Favorin (tero at favorin dot com)",
     "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
-    "distribution_sourcetype": "GBF",
-    "distribution_source": "",
-    "distribution_versification": "",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://raamattu.fi/raamattu/KR92/GEN.1/1.-Mooseksen-kirja-1",
+    "distribution_versification": "German",
     "distribution_history": {
+      "history_1.1": "Added two missing words in Luke 24:53 (2003-05-07)",
       "history_1.1.1": "Fixed encoding of .conf (2012-12-28)",
-      "history_1.1": "Added two missing words in Luke 24:53 (2003-05-07)"
+      "history_1.1.2": "Rebuilt module with braces {} instead of lt/gt (2013-01-03) ; Supplied missing \"}\" in 1Ch 12:11. Also replaced every instance of multiple whitespace by a single space. See http://www.crosswire.org/tracker/browse/MOD-230",
+      "history_1.2": "(2023-05-17) Converted from imp to OSIS and correction of the braces (MOD-230)"
     },
-    "url": "https://getbible.net/v2/pyharaamattu1992.json",
-    "sha": "abd2a2a38ee80da4a9693165c679cc52d75d18a9"
+    "url": "https://api.getbible.net/v2/pyharaamattu1992.json",
+    "sha": "81436e77895d3467fc2f6acf4d138846d1009deb"
   },
   "riveduta": {
     "translation": "Riveduta Bible (1927)",
@@ -1375,7 +1377,7 @@
       "history_1.0": "(2002-01-15) Initial release",
       "history_1.1": "(2020-02-08) Fix issue https://tracker.crosswire.org/browse/MOD-299"
     },
-    "url": "https://getbible.net/v2/riveduta.json",
+    "url": "https://api.getbible.net/v2/riveduta.json",
     "sha": "f14f0947827c3ba21bb78a5624feed15e059683c"
   },
   "rv1858": {
@@ -1401,7 +1403,7 @@
       "history_1.6": "Corrected typos & missing accents, added divineName markup, reimported text (2011-03-27)",
       "history_2.0": "(2021-10-19) New source text from wikisource"
     },
-    "url": "https://getbible.net/v2/rv1858.json",
+    "url": "https://api.getbible.net/v2/rv1858.json",
     "sha": "f5535bd2cab6fb240fc91ed3e2e852a7389ffcf0"
   },
   "sahidic": {
@@ -1424,7 +1426,7 @@
       "history_1.5": "Updated to Unicode 5.0 and OSIS encoding, corrected a number of misnumbered verses",
       "history_1.0": "Initial release"
     },
-    "url": "https://getbible.net/v2/sahidic.json",
+    "url": "https://api.getbible.net/v2/sahidic.json",
     "sha": "c56eed2f40fa880d883d28771c238311b60421ba"
   },
   "schlachter": {
@@ -1435,8 +1437,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.German",
-    "distribution_version": "2.0",
-    "distribution_version_date": "2022-06-06",
+    "distribution_version": "2.0.1",
+    "distribution_version_date": "2023-04-24",
     "distribution_abbreviation": "Schlachter",
     "distribution_about": "SCHLACHTER BIBEL 1951\\par\\par Die Heilige Schrift des Alten und Neuen Testaments nach dem Urtext üersetzt von F.E. SCHLACHTER Neue Uberarbeitung 1951\\par Genfer Bibelgesellschaft\\par\\par Copyright (c) 1951 Genfer Bibelgeschellschaft.",
     "distribution_license": "Copyrighted; Free non-commercial distribution",
@@ -1446,10 +1448,11 @@
     "distribution_history": {
       "history_1.1": "Compressed the module (2006-10-25)",
       "history_1.1.1": "Corrected module encoding (2013-08-20)",
-      "history_2.0": "(2022-06-06) Solves MOD-412 and MOD-427"
+      "history_2.0": "(2022-06-23) Solves MOD-412 and MOD-427",
+      "history_2.0.1": "(2023-04-24) Small correction in the conf file: Fix description (MOD-451)"
     },
-    "url": "https://getbible.net/v2/schlachter.json",
-    "sha": "956ee5b49dca7b38e12242fa5f126162dbdfd7db"
+    "url": "https://api.getbible.net/v2/schlachter.json",
+    "sha": "14abd442be16460f306a18b73300240d82117657"
   },
   "sse": {
     "translation": "Sagradas Escrituras (1569)",
@@ -1471,7 +1474,7 @@
       "history_1.0": "(2018-06-08) Initial Release",
       "history_1.1": "(2019-01-07) Minor textual errors corrected to match the final text sent to printer"
     },
-    "url": "https://getbible.net/v2/sse.json",
+    "url": "https://api.getbible.net/v2/sse.json",
     "sha": "fe57f8d795c154bd20c6c39ed714ccfff8213a15"
   },
   "statenvertaling": {
@@ -1500,7 +1503,7 @@
       "history_2.1": "(2020-08-01) Fix unwanted text addition in Re 22:21",
       "history_2.1.1": "(2022-08-02) Fix typo in configuration file"
     },
-    "url": "https://getbible.net/v2/statenvertaling.json",
+    "url": "https://api.getbible.net/v2/statenvertaling.json",
     "sha": "45d0213e88a87ea4be58a25ab9ab740e723a117a"
   },
   "swahili": {
@@ -1523,7 +1526,7 @@
       "history_1.1": "Compressed the module",
       "history_1.0": "Initial release"
     },
-    "url": "https://getbible.net/v2/swahili.json",
+    "url": "https://api.getbible.net/v2/swahili.json",
     "sha": "4d34975a1d2aa7f7f4fa45c03dd169119895bf3f"
   },
   "swedish": {
@@ -1548,7 +1551,7 @@
       "history_2.0": "(2019-05-11) minor correction and Deutero addition",
       "history_2.0.1": "(2022-08-06) Fix typo in TextSource"
     },
-    "url": "https://getbible.net/v2/swedish.json",
+    "url": "https://api.getbible.net/v2/swedish.json",
     "sha": "e72bc2b6089974b61a006090104a058da4df7e2d"
   },
   "synodal": {
@@ -1575,7 +1578,7 @@
       "history_1.9": "(2020-12-30) New source. Fix tracker issues: MOD-275, MOD-203, MOD-160",
       "history_1.9.1": "(2022-08-06) Fix typo in conf file"
     },
-    "url": "https://getbible.net/v2/synodal.json",
+    "url": "https://api.getbible.net/v2/synodal.json",
     "sha": "86b073a315fe4dda4d42da755c7c568b72d2b5f0"
   },
   "tagalog": {
@@ -1597,7 +1600,7 @@
     "distribution_history": {
       "history_1.2": "Minor updates to .conf text"
     },
-    "url": "https://getbible.net/v2/tagalog.json",
+    "url": "https://api.getbible.net/v2/tagalog.json",
     "sha": "3349360ca546d12893a1c2cb4fe6f132dc84be51"
   },
   "textusreceptus": {
@@ -1628,7 +1631,7 @@
       "history_3.0": "(2021-10-28) Correct issues with the Strong numbers reported in the bug tracker https://tracker.crosswire.org/browse/MOD-349",
       "history_3.1": "(2023-03-25) Correction of spurious strong numbers."
     },
-    "url": "https://getbible.net/v2/textusreceptus.json",
+    "url": "https://api.getbible.net/v2/textusreceptus.json",
     "sha": "0e8305fa330e73185d99dc1ec73322fececc6699"
   },
   "thai": {
@@ -1651,7 +1654,7 @@
       "history_2.0": "Module rebuilt from updated source text supplied by translator (2012-02-15)",
       "history_1.5": "(2003-09-24)"
     },
-    "url": "https://getbible.net/v2/thai.json",
+    "url": "https://api.getbible.net/v2/thai.json",
     "sha": "259ef44329d8fcba17c23ab6d5b513151cfb447a"
   },
   "tischendorf": {
@@ -1681,7 +1684,7 @@
       "history_2.5": "updated to version 2.5 text, which includes paragraphing and numerous corrections; version sync with source",
       "history_2.5.1": "(2022-08-06) Fix typo in History"
     },
-    "url": "https://getbible.net/v2/tischendorf.json",
+    "url": "https://api.getbible.net/v2/tischendorf.json",
     "sha": "e7a2aad60b5bd0a35236110c9c4139d3d7ce1bb2"
   },
   "turkish": {
@@ -1707,7 +1710,7 @@
       "history_2.1": "(2019-01-07) Further textual updates submitted to CrossWire in 2013",
       "history_2.1.1": "(2019-05-02) Conf file correction"
     },
-    "url": "https://getbible.net/v2/turkish.json",
+    "url": "https://api.getbible.net/v2/turkish.json",
     "sha": "72a823b5019aadb5e6b100699cf1f6934fccae66"
   },
   "tyndale": {
@@ -1727,7 +1730,7 @@
     "distribution_source": "Slavic Bible",
     "distribution_versification": "",
     "distribution_history": {},
-    "url": "https://getbible.net/v2/tyndale.json",
+    "url": "https://api.getbible.net/v2/tyndale.json",
     "sha": "c97ce326445f61edf077ac69dc83ac18278b58fc"
   },
   "ukranian": {
@@ -1749,7 +1752,7 @@
     "distribution_history": {
       "history_1.1": "Initial release"
     },
-    "url": "https://getbible.net/v2/ukranian.json",
+    "url": "https://api.getbible.net/v2/ukranian.json",
     "sha": "a62be1185a2a8a5d543cec636479d33100502d53"
   },
   "uma": {
@@ -1773,7 +1776,7 @@
       "history_1.1": "Compressed the module",
       "history_1.0": "Initial release"
     },
-    "url": "https://getbible.net/v2/uma.json",
+    "url": "https://api.getbible.net/v2/uma.json",
     "sha": "f8158045c282deb7fedc08a69f2da98e7bd9ea3c"
   },
   "valera": {
@@ -1796,7 +1799,7 @@
       "history_1.0.1": "Updated About text in .conf (2012-07-19)",
       "history_1.0": "Initial release (2012-07-10)"
     },
-    "url": "https://getbible.net/v2/valera.json",
+    "url": "https://api.getbible.net/v2/valera.json",
     "sha": "82250f5eb5dc58e034f5c9729900308eeb8c9fe6"
   },
   "vietnamese": {
@@ -1822,7 +1825,7 @@
       "history_1.2": "Changed to UTF-8 text source",
       "history_1.1": "Repaired dropped characters at beginning of some verses"
     },
-    "url": "https://getbible.net/v2/vietnamese.json",
+    "url": "https://api.getbible.net/v2/vietnamese.json",
     "sha": "1f8b508863f7e4fd5798bf7062b3264d1d90a08c"
   },
   "vulgate": {
@@ -1849,7 +1852,7 @@
       "history_2.0.1": "(2017-10-28) corrected conf file",
       "history_2.0.2": "(2019-01-07) corrected conf file"
     },
-    "url": "https://getbible.net/v2/vulgate.json",
+    "url": "https://api.getbible.net/v2/vulgate.json",
     "sha": "6b3feb833131b9265053d577539b21f7706a04be"
   },
   "wb": {
@@ -1872,7 +1875,7 @@
       "history_1.2": "compressed module",
       "history_1.1": "Fixed two small errors (noted in revision.txt)"
     },
-    "url": "https://getbible.net/v2/wb.json",
+    "url": "https://api.getbible.net/v2/wb.json",
     "sha": "7e6ad67eaf69e5bd4ec8cf82142b044a3ae6af34"
   },
   "web": {
@@ -1903,7 +1906,7 @@
       "history_1.2": "Fixed footnotes",
       "history_1.1": "Updated as of 04-13-2001"
     },
-    "url": "https://getbible.net/v2/web.json",
+    "url": "https://api.getbible.net/v2/web.json",
     "sha": "c01c5f1cdce6c0b6fad659483959644a24287aae"
   },
   "westcotthort": {
@@ -1937,7 +1940,7 @@
       "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
       "history_2.4.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
-    "url": "https://getbible.net/v2/westcotthort.json",
+    "url": "https://api.getbible.net/v2/westcotthort.json",
     "sha": "5bacc9d240bc88340d30846050334c170af5ef13"
   },
   "westernarmenian": {
@@ -1959,7 +1962,7 @@
     "distribution_history": {
       "history_1.1": "Updated About and Description text, LCSH value"
     },
-    "url": "https://getbible.net/v2/westernarmenian.json",
+    "url": "https://api.getbible.net/v2/westernarmenian.json",
     "sha": "c63ff47dc8086de5df02fa6bdd2a3636cf824b01"
   },
   "weymouth": {
@@ -1982,7 +1985,7 @@
       "history_1.1": "Compressed the module",
       "history_1.0": "Initial release"
     },
-    "url": "https://getbible.net/v2/weymouth.json",
+    "url": "https://api.getbible.net/v2/weymouth.json",
     "sha": "f544baa0da1e790bc46a6293bd1b6e1f2e023ab5"
   },
   "wycliffe": {
@@ -2011,7 +2014,7 @@
       "history_2.4": "(2020-08-01) title misplacement is fixed for the *Prayer of Jeremiah* in Baruch 6",
       "history_2.4.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
-    "url": "https://getbible.net/v2/wycliffe.json",
+    "url": "https://api.getbible.net/v2/wycliffe.json",
     "sha": "fb2140ddf230141ec4b473dc7a78b0554518654f"
   },
   "ylt": {
@@ -2034,7 +2037,7 @@
       "history_1.1": "Compressed the module.",
       "history_1.0": "Initial release."
     },
-    "url": "https://getbible.net/v2/ylt.json",
+    "url": "https://api.getbible.net/v2/ylt.json",
     "sha": "9d06cae57b8be5cac2a4e053342760222afdee56"
   },
   "zhuromsky": {
@@ -2054,7 +2057,7 @@
     "distribution_source": "Christian Information Portal at http://christ4you.org",
     "distribution_versification": "",
     "distribution_history": {},
-    "url": "https://getbible.net/v2/zhuromsky.json",
+    "url": "https://api.getbible.net/v2/zhuromsky.json",
     "sha": "44184fbba8aa23911d422b63d184011e245089e3"
   }
 }

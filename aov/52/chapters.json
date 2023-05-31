@@ -10,7 +10,7 @@
     "book_name": "1 Thessalonicense",
     "chapter": 1,
     "name": "1 Thessalonicense 1",
-    "url": "https://getbible.net/v2/aov/52/1.json",
+    "url": "https://api.getbible.net/v2/aov/52/1.json",
     "sha": "dd3665c8454feba96759833c282e74247e1c2565"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "1 Thessalonicense",
     "chapter": 2,
     "name": "1 Thessalonicense 2",
-    "url": "https://getbible.net/v2/aov/52/2.json",
+    "url": "https://api.getbible.net/v2/aov/52/2.json",
     "sha": "d84e2ac8de7d50bdcfa6a5bfbe0fb63df507d8a9"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "1 Thessalonicense",
     "chapter": 3,
     "name": "1 Thessalonicense 3",
-    "url": "https://getbible.net/v2/aov/52/3.json",
+    "url": "https://api.getbible.net/v2/aov/52/3.json",
     "sha": "2136aaff48a377bd65ee9bd3e916182a94ac7998"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "1 Thessalonicense",
     "chapter": 4,
     "name": "1 Thessalonicense 4",
-    "url": "https://getbible.net/v2/aov/52/4.json",
+    "url": "https://api.getbible.net/v2/aov/52/4.json",
     "sha": "5859d9d9a84b3c6100205a185f66db6369bb6ab4"
   },
   "5": {
@@ -66,7 +66,7 @@
     "book_name": "1 Thessalonicense",
     "chapter": 5,
     "name": "1 Thessalonicense 5",
-    "url": "https://getbible.net/v2/aov/52/5.json",
+    "url": "https://api.getbible.net/v2/aov/52/5.json",
     "sha": "253d14bcb5e48e03c4c8a8c10d2f275bf0d0814a"
   }
 }

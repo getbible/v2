@@ -10,7 +10,7 @@
     "book_name": "Nahum",
     "chapter": 1,
     "name": "Nahum 1",
-    "url": "https://getbible.net/v2/cornilescu/34/1.json",
+    "url": "https://api.getbible.net/v2/cornilescu/34/1.json",
     "sha": "c6bd331f38038e0b78380ce7b385c744410558e2"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Nahum",
     "chapter": 2,
     "name": "Nahum 2",
-    "url": "https://getbible.net/v2/cornilescu/34/2.json",
+    "url": "https://api.getbible.net/v2/cornilescu/34/2.json",
     "sha": "7b751eb7353160f2ca54fb00b1fb034bc7a3cf8e"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Nahum",
     "chapter": 3,
     "name": "Nahum 3",
-    "url": "https://getbible.net/v2/cornilescu/34/3.json",
+    "url": "https://api.getbible.net/v2/cornilescu/34/3.json",
     "sha": "eade5d0e3949537f6f2f1541ea7087b3077f639f"
   }
 }

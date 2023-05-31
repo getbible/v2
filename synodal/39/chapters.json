@@ -10,7 +10,7 @@
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
-    "url": "https://getbible.net/v2/synodal/39/1.json",
+    "url": "https://api.getbible.net/v2/synodal/39/1.json",
     "sha": "7a0058324eb090618fa1102df3f3add4ec8b2179"
   },
   "2": {
@@ -24,7 +24,7 @@
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
-    "url": "https://getbible.net/v2/synodal/39/2.json",
+    "url": "https://api.getbible.net/v2/synodal/39/2.json",
     "sha": "c316bb5a19189f31990f3453ddc3f02e2d08c774"
   },
   "3": {
@@ -38,7 +38,7 @@
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
-    "url": "https://getbible.net/v2/synodal/39/3.json",
+    "url": "https://api.getbible.net/v2/synodal/39/3.json",
     "sha": "dc6d6aa4c805f5ef053c3530825cc209f4e53830"
   },
   "4": {
@@ -52,7 +52,7 @@
     "book_name": "Malachi",
     "chapter": 4,
     "name": "Malachi 4",
-    "url": "https://getbible.net/v2/synodal/39/4.json",
+    "url": "https://api.getbible.net/v2/synodal/39/4.json",
     "sha": "59c519f343e079998bca01edde3c74db2655e560"
   }
 }
