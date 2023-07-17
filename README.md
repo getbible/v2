@@ -1,29 +1,31 @@
-# V2 GetBible API (2020)
+# V2 GetBible API
 
-We have **completely** moved away from an **open public repository** of the Holy Scripture, with **great sorrow and struggle**. This is because of a huge blow-back from Crosswire and other, saying that they regularly find typos and other mistakes in their modules of the Holy Scripture, and then they fix it. This means an open public repository like [Unbound-Biola](https://github.com/getbible/Unbound-Biola) becomes outdated, and all those who forked it have outdated and incorrect text. **This was never our intent, and so in seeking to correct this issue, we now created a whole new [API version 2](https://github.com/getbible/v2)** that will be hosted only on [api.getbible.net/v2/translations.json](https://api.getbible.net/v2/translations.json) itself to ensure it remains totaly in sync with the [Crosswire Modules](http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles). This is a step back, but after months of prayer and tears it seems like the only way forward at this time.
+GetBible has taken an essential leap forward in maintaining the integrity and accuracy of the Holy Scripture that we provide. We, with a heavy heart, have moved away from an open public repository of the Holy Scripture due to constant updates from Crosswire and others to their modules. As these updates are aimed at fixing typos and other mistakes, an open public repository like [Unbound-Biola](https://github.com/getbible/Unbound-Biola) could become outdated, leading those who forked it to have outdated and incorrect text. We realized the potential consequences and to rectify it, have developed a new [API version 2](https://github.com/getbible/v2).
 
-# How will this work and is the old API still active?
+Our API is now hosted on [api.getbible.net/v2/translations.json](https://api.getbible.net/v2/translations.json), ensuring it remains synchronized with the [Crosswire Modules](http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles). This change, though seems like a step back, is a significant improvement after months of careful consideration and prayer.
 
-We will keep the old API (the current URL query option on getBible.net) active for another year, ending 2021. We therefore encourage you all to upgrade to the newer, better option, explained below, as soon as you can.
+# Legacy and New API Versions
 
-We will always have a Version one (V1) and a Version two ([V2](https://github.com/getbible/v2)) as long as the Lord permits. V1 will return the Holy Scripture in the same format as the original (old API) but with a whole new URL query format, which we will explain in details below. [V2](https://github.com/getbible/v2) will serve as the new format being introduced to solve common issues and provide a better, faster, stronger, more accurate, and convenient API of the Holy Scripture.
+We have decided to keep the old API (the current URL query option on getBible.net) active until the end of 2021. Therefore, we encourage users to transition to the newer, more efficient version as soon as possible.
 
-## How will this work?
+As long as the Lord permits, we will maintain two versions of our API. The version one (V1) will return the Holy Scripture in the same format as the original (old API) but with a new URL query format. The version two ([V2](https://github.com/getbible/v2)) is the new format introduced to address common issues and provide a better, faster, stronger, more accurate, and convenient API of the Holy Scripture.
 
-The old API query looked like this:
-- https://getbible.net/json?passage=1Jn3
+## API Usage
 
-The new API (V1) query will look like this:
+Here's how the query formats have changed:
+
+The old API query:
+- https://getbible.net/json?passage=1Jn3 (no longer works)
+
+The new V1 API query:
 - https://api.getbible.net/v1/kjv/62/3.json
 
->That is really the only change, but we trust it will serve us all better.
-
-[V2](https://github.com/getbible/v2) query will look like this:
+The new [V2](https://github.com/getbible/v2) API query:
 - https://api.getbible.net/v2/kjv/62/3.json
 
 ### Mapping Helpers
 
-Since we will be working with numbers and translation abbreviations, we will be adding helper mappers which are available in this repository, and in the API's respectively. The purpose of these mapping helpers are to inform you of any changes via a hash for various parts of the scripture, and to validate downloads. Then these mapping helpers will also serve to inform you of each translation's scope of the Holy Scripture, and other helpful information.
+To help users interact with our API, we have added mapping helpers. These helpers will inform you of any changes via a hash for various parts of the scripture, validate downloads, inform you of each translation's scope of the Holy Scripture, and other useful information.
 
 > Translations
 - For translations: https://api.getbible.net/v2/translations.json
@@ -42,3 +44,7 @@ Since we will be working with numbers and translation abbreviations, we will be 
 - For a book: https://api.getbible.net/v2/kjv/62/chapters
 - For a book: https://api.getbible.net/v2/kjv/62/checksum.json
 - For a book: https://api.getbible.net/v2/kjv/62/checksum
+
+We continue our journey to keep the integrity of the Holy Scripture and provide the most accurate text to all users. If you have any questions or need further clarification, please feel free to open issues in the relevant repositories, and we'll respond as soon as we can.
+
+Thank you for your attention and for being a part of our mission at getBible.
