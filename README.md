@@ -15,7 +15,7 @@ As long as the Lord permits, we will maintain two versions of our API. The versi
 Here's how the query formats have changed:
 
 The old API query:
-- https://getbible.net/json?passage=1Jn3 (no longer works)
+- https://archived.getbible.net/json?passage=1Jn3 (being archived)
 
 The new V1 API query:
 - https://api.getbible.net/v1/kjv/62/3.json
@@ -28,18 +28,21 @@ The new [V2](https://github.com/getbible/v2) API query:
 To help users interact with our API, we have added mapping helpers. These helpers will inform you of any changes via a hash for various parts of the scripture, validate downloads, inform you of each translation's scope of the Holy Scripture, and other useful information.
 
 > Translations
+- For one translation: https://api.getbible.net/v2/kjv.json
 - For translations: https://api.getbible.net/v2/translations.json
 - For translations: https://api.getbible.net/v2/translations
 - For translations: https://api.getbible.net/v2/checksum.json
 - For translations: https://api.getbible.net/v2/checksum
 
 > Translation Books
+- For one book: https://api.getbible.net/v2/kjv/19.json
 - For books: https://api.getbible.net/v2/kjv/books.json
 - For books: https://api.getbible.net/v2/kjv/books
 - For books: https://api.getbible.net/v2/kjv/checksum.json
 - For books: https://api.getbible.net/v2/kjv/checksum
 
 > Book Chapters
+- For one chapter: https://api.getbible.net/v2/kjv/62/3.json
 - For a book: https://api.getbible.net/v2/kjv/62/chapters.json
 - For a book: https://api.getbible.net/v2/kjv/62/chapters
 - For a book: https://api.getbible.net/v2/kjv/62/checksum.json
