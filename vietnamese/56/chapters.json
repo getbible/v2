@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tít",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tít 1",
     "url": "https://api.getbible.net/v2/vietnamese/56/1.json",
-    "sha": "f8c6534512cc9dcd3b2edfd6735b76f7803a3324"
+    "sha": "168ecbf5fdd729cdb91786775d031896c62cd903"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tít",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tít 2",
     "url": "https://api.getbible.net/v2/vietnamese/56/2.json",
-    "sha": "bfafe51aa89c4caca2a4f8ce4f04ac17fcf2032f"
+    "sha": "a49620992e8b8fcb3ca8b1ab7ec3b69f55a18ab9"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tít",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tít 3",
     "url": "https://api.getbible.net/v2/vietnamese/56/3.json",
-    "sha": "96fc6cf5c8af446e01f8f16419fb45e3353fcd65"
+    "sha": "22063d52cc85155228a0fd01095cca07821732f1"
   }
 }

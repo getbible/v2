@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://api.getbible.net/v2/kjva/36/1.json",
-    "sha": "66122e0f931316a42c23eddbd354501c00485023"
+    "sha": "54fd8a38647f6bc188783ead70abe4b8449da987"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://api.getbible.net/v2/kjva/36/2.json",
-    "sha": "33a1b32b3510e9e524d55aeb927d15ce74b8475e"
+    "sha": "be75c71b3158acceee48366c8325dc78c263abd8"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://api.getbible.net/v2/kjva/36/3.json",
-    "sha": "9fcc412a3474958fec23aa66a1aed921f8ae765e"
+    "sha": "989dbc051c7f1999fa8c137d12fdab1600da671b"
   }
 }

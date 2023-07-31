@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "ဇာဖနီယာ",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "ဇာဖနီယာ 1",
     "url": "https://api.getbible.net/v2/judson/36/1.json",
-    "sha": "5e15511cf28af50c72973dd354b955a21941aff5"
+    "sha": "aa5da5ef47acd8d070d6d7971bb45799a183d7bd"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "ဇာဖနီယာ",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "ဇာဖနီယာ 2",
     "url": "https://api.getbible.net/v2/judson/36/2.json",
-    "sha": "740997a52aff2bb91416eb6bac23bfc3f8ba0274"
+    "sha": "d9faf044c17d273307c0448ffc9d98ef83541bc5"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "ဇာဖနီယာ",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "ဇာဖနီယာ 3",
     "url": "https://api.getbible.net/v2/judson/36/3.json",
-    "sha": "9f5af6ab0fa8ba80a27d0b8b56d193e1400635a4"
+    "sha": "b7ad4751b50021bf0bf42a25b131d33fa12b1b5e"
   }
 }

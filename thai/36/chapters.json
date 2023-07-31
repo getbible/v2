@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "เศฟันยาห์",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "เศฟันยาห์ 1",
     "url": "https://api.getbible.net/v2/thai/36/1.json",
-    "sha": "a8a0270c812906a6306adf08c625700a5bb3ec00"
+    "sha": "a5834a56c801bf9edf2ce8fba70d5adfddb4b0a9"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "เศฟันยาห์",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "เศฟันยาห์ 2",
     "url": "https://api.getbible.net/v2/thai/36/2.json",
-    "sha": "a522657709c2551fa668f4e1034935ba4bf7e2e6"
+    "sha": "f327601fb6ce084dab72459c9eba2bc1c5d170b9"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "เศฟันยาห์",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "เศฟันยาห์ 3",
     "url": "https://api.getbible.net/v2/thai/36/3.json",
-    "sha": "3855f9ab152693a2b26c3b41cfd5c674e2eda981"
+    "sha": "736cfff27dbc08c9f56857da74de802c22014a72"
   }
 }

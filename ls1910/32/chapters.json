@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jonas 1",
     "url": "https://api.getbible.net/v2/ls1910/32/1.json",
-    "sha": "890173c97d2aba6176b7bc128c031a35f87144eb"
+    "sha": "2ffd8947cad34aa2932546705976212204f521d2"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jonas 2",
     "url": "https://api.getbible.net/v2/ls1910/32/2.json",
-    "sha": "5bd555a7c72ffdbcd6168de4bdf640fa53a13e7b"
+    "sha": "4f90be30ef1ebcf061e8b0cf8a0d037d86be75d0"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jonas 3",
     "url": "https://api.getbible.net/v2/ls1910/32/3.json",
-    "sha": "6092982403b1b34ae7d3eff1448e2aaee73fb8b8"
+    "sha": "40ef884231752f122ef9581e4a196e9f48b9d113"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jonas 4",
     "url": "https://api.getbible.net/v2/ls1910/32/4.json",
-    "sha": "d230fcff768c897661e87fd170eb036e6995b5d6"
+    "sha": "6950aeafb12c6efad24eb1a55cc69eefd0834abb"
   }
 }

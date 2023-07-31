@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ioel",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Ioel 1",
     "url": "https://api.getbible.net/v2/cornilescu/29/1.json",
-    "sha": "1d6eb49e60d4a37efa4fb8f10dc7d5293a521623"
+    "sha": "ad9b6c8cc7dd18ff0357255286aeffcfb625c4e4"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ioel",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Ioel 2",
     "url": "https://api.getbible.net/v2/cornilescu/29/2.json",
-    "sha": "4dff04778a5bca1578d4c8d6ac9176a67ed709ae"
+    "sha": "e6655363cb68e7bd36216ec85b5ab78bfc046f23"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ioel",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Ioel 3",
     "url": "https://api.getbible.net/v2/cornilescu/29/3.json",
-    "sha": "bdacf7d385a8ccc2af4e8794c352964ce465eceb"
+    "sha": "be737b44655bfe406e4ade0313f4c2d15e5d7a50"
   }
 }

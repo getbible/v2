@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "디도서",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "디도서 1",
     "url": "https://api.getbible.net/v2/korean/56/1.json",
-    "sha": "f4a0ef28d6ff8eda87297c6d346687817e464f0f"
+    "sha": "971fe219fdff3f7392056c37a792c0f1f46bbd69"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "디도서",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "디도서 2",
     "url": "https://api.getbible.net/v2/korean/56/2.json",
-    "sha": "72a60151f198901da1eb8a5d72873f6b0ba79ee4"
+    "sha": "f1a8014700c50ff93b6c9c0ca2a19520527293b0"
   },
   "3": {
     "translation": "Korean",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "디도서",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "디도서 3",
     "url": "https://api.getbible.net/v2/korean/56/3.json",
-    "sha": "58174e7fbfbb61e815344c2ab03d545e5a63503e"
+    "sha": "aced9f5796799c6eeff89446178cdeda53c119c4"
   }
 }

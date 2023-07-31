@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatarrei",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galatarrei 1",
     "url": "https://api.getbible.net/v2/basque/48/1.json",
-    "sha": "c3b7367436af31ec55747ced61667ac0a0e314c7"
+    "sha": "e42b53fafcc6fcda9898bc51a8b0edaedfef547c"
   },
   "2": {
     "translation": "(Navarro Labourdin) NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatarrei",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galatarrei 2",
     "url": "https://api.getbible.net/v2/basque/48/2.json",
-    "sha": "e09b19fe61c3d55f27cb324fa676571476adc914"
+    "sha": "5cf75a3cd557d003d49e1031b80e94204ec8ebe7"
   },
   "3": {
     "translation": "(Navarro Labourdin) NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatarrei",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galatarrei 3",
     "url": "https://api.getbible.net/v2/basque/48/3.json",
-    "sha": "b50e79b8beca9deb65379081f51d3f89535d3475"
+    "sha": "cf33372e41cc6256eb4d2feba912274834d12e47"
   },
   "4": {
     "translation": "(Navarro Labourdin) NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatarrei",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galatarrei 4",
     "url": "https://api.getbible.net/v2/basque/48/4.json",
-    "sha": "7e5f3d61f51987eebf1691484d7cb83a394947c2"
+    "sha": "ceee42a3344384b6b1aeff9834d6970bdabe16bd"
   },
   "5": {
     "translation": "(Navarro Labourdin) NT",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatarrei",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galatarrei 5",
     "url": "https://api.getbible.net/v2/basque/48/5.json",
-    "sha": "6de23fd544e37e4e56087eb28667896296df7d25"
+    "sha": "c05286b4cd7b2b75af5a6b708281a01651122540"
   },
   "6": {
     "translation": "(Navarro Labourdin) NT",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatarrei",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galatarrei 6",
     "url": "https://api.getbible.net/v2/basque/48/6.json",
-    "sha": "010020d1347f5583586bdcc3ff24c63dab46fec8"
+    "sha": "b3836821523003dbc81204898869994a66671231"
   }
 }

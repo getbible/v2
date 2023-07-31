@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 1,
-    "name": "Numbers 1",
+    "name": "בְּמִדְבַּר 1",
     "url": "https://api.getbible.net/v2/modernhebrew/4/1.json",
-    "sha": "41989844646be8ca456cc586da16d0fd4a00ab09"
+    "sha": "40e8cc10878b81d96b916a5c007ef539078a9793"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 2,
-    "name": "Numbers 2",
+    "name": "בְּמִדְבַּר 2",
     "url": "https://api.getbible.net/v2/modernhebrew/4/2.json",
-    "sha": "598cb569b6d7ab2167ce4d43916265bbe8263c24"
+    "sha": "31c8788b9f9b974374b146f886e1b7698a78f4cc"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 3,
-    "name": "Numbers 3",
+    "name": "בְּמִדְבַּר 3",
     "url": "https://api.getbible.net/v2/modernhebrew/4/3.json",
-    "sha": "1223ad502d4e8c6ffb8a2ca992a768648229cfdd"
+    "sha": "90ebf1b5aea4cf110e6da578d086f6f1cde8507a"
   },
   "4": {
     "translation": "Hebrew Modern",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 4,
-    "name": "Numbers 4",
+    "name": "בְּמִדְבַּר 4",
     "url": "https://api.getbible.net/v2/modernhebrew/4/4.json",
-    "sha": "ad8f1dc03abb34a8a1ae2dd71036e6bb91dacebc"
+    "sha": "e0fc27ca5228ea1737e9485f7d53a0f58430f160"
   },
   "5": {
     "translation": "Hebrew Modern",
@@ -63,11 +63,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 5,
-    "name": "Numbers 5",
+    "name": "בְּמִדְבַּר 5",
     "url": "https://api.getbible.net/v2/modernhebrew/4/5.json",
-    "sha": "750b1b68a5941a2433fff3a18971efc77da7189c"
+    "sha": "e9dd66244df32cb151832e5ee4b129fc9fa81b76"
   },
   "6": {
     "translation": "Hebrew Modern",
@@ -77,11 +77,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 6,
-    "name": "Numbers 6",
+    "name": "בְּמִדְבַּר 6",
     "url": "https://api.getbible.net/v2/modernhebrew/4/6.json",
-    "sha": "4d47e051544d58d8fab35e9a256ee8b704fd64db"
+    "sha": "c72498b6edd9d90e1b224a9c2e999d0682ba6d92"
   },
   "7": {
     "translation": "Hebrew Modern",
@@ -91,11 +91,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 7,
-    "name": "Numbers 7",
+    "name": "בְּמִדְבַּר 7",
     "url": "https://api.getbible.net/v2/modernhebrew/4/7.json",
-    "sha": "d9fc0c013427801e939d20d3bfdbe443de5d1cce"
+    "sha": "14951fe301d598b884556dd9091dd98aecfaea05"
   },
   "8": {
     "translation": "Hebrew Modern",
@@ -105,11 +105,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 8,
-    "name": "Numbers 8",
+    "name": "בְּמִדְבַּר 8",
     "url": "https://api.getbible.net/v2/modernhebrew/4/8.json",
-    "sha": "62c3cfc6207459327a8a6032b86681603e70284e"
+    "sha": "b7e7619a7c580a77e128db256480c39538519c55"
   },
   "9": {
     "translation": "Hebrew Modern",
@@ -119,11 +119,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 9,
-    "name": "Numbers 9",
+    "name": "בְּמִדְבַּר 9",
     "url": "https://api.getbible.net/v2/modernhebrew/4/9.json",
-    "sha": "ce079b80e0400b52205a2438c32e657f4aa196c1"
+    "sha": "d2ade29b3f99543dba8d0bf97717f5d299818ae8"
   },
   "10": {
     "translation": "Hebrew Modern",
@@ -133,11 +133,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 10,
-    "name": "Numbers 10",
+    "name": "בְּמִדְבַּר 10",
     "url": "https://api.getbible.net/v2/modernhebrew/4/10.json",
-    "sha": "0114d1adceab82fc1b50351b130fb30e60c21727"
+    "sha": "bdf1a003d5f06de77a1829097fcd50cdc8645f49"
   },
   "11": {
     "translation": "Hebrew Modern",
@@ -147,11 +147,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 11,
-    "name": "Numbers 11",
+    "name": "בְּמִדְבַּר 11",
     "url": "https://api.getbible.net/v2/modernhebrew/4/11.json",
-    "sha": "10452634b94192a06fb6c1c04593093fb8c26666"
+    "sha": "1772f353f0e533cff917d6393d5172b3e0fa9170"
   },
   "12": {
     "translation": "Hebrew Modern",
@@ -161,11 +161,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 12,
-    "name": "Numbers 12",
+    "name": "בְּמִדְבַּר 12",
     "url": "https://api.getbible.net/v2/modernhebrew/4/12.json",
-    "sha": "a86d6a2868856b0398a09380f8339284dccd5f85"
+    "sha": "e49385e20061185cdc715c2f802b408220a601a6"
   },
   "13": {
     "translation": "Hebrew Modern",
@@ -175,11 +175,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 13,
-    "name": "Numbers 13",
+    "name": "בְּמִדְבַּר 13",
     "url": "https://api.getbible.net/v2/modernhebrew/4/13.json",
-    "sha": "f4de0d97454460b3bc1f7cbf733ee47cd50abeb1"
+    "sha": "ad9280c81f7ef63e4a896f3ad11202ba1dee6e15"
   },
   "14": {
     "translation": "Hebrew Modern",
@@ -189,11 +189,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 14,
-    "name": "Numbers 14",
+    "name": "בְּמִדְבַּר 14",
     "url": "https://api.getbible.net/v2/modernhebrew/4/14.json",
-    "sha": "c05204380ea48b24c10263d1be2d705d3a302855"
+    "sha": "95bd2cfe9e0792c54022f1b701601afe8d868485"
   },
   "15": {
     "translation": "Hebrew Modern",
@@ -203,11 +203,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 15,
-    "name": "Numbers 15",
+    "name": "בְּמִדְבַּר 15",
     "url": "https://api.getbible.net/v2/modernhebrew/4/15.json",
-    "sha": "fb2e60af924520b14d63261a6c65a5db580fdd78"
+    "sha": "65eede5399bea457ae0221522c74d1fe2d9fba12"
   },
   "16": {
     "translation": "Hebrew Modern",
@@ -217,11 +217,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 16,
-    "name": "Numbers 16",
+    "name": "בְּמִדְבַּר 16",
     "url": "https://api.getbible.net/v2/modernhebrew/4/16.json",
-    "sha": "ce2d5498b5994c4a97d88ed18c03493d94f398cb"
+    "sha": "5e52546cc76bfd002639ee50b7a0724cedae90ae"
   },
   "17": {
     "translation": "Hebrew Modern",
@@ -231,11 +231,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 17,
-    "name": "Numbers 17",
+    "name": "בְּמִדְבַּר 17",
     "url": "https://api.getbible.net/v2/modernhebrew/4/17.json",
-    "sha": "75cc0fb0649f2faf16dd9625b89f9c6b73bf8dd0"
+    "sha": "7751874d504e5e63cd788bb0f5306bb966ea4053"
   },
   "18": {
     "translation": "Hebrew Modern",
@@ -245,11 +245,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 18,
-    "name": "Numbers 18",
+    "name": "בְּמִדְבַּר 18",
     "url": "https://api.getbible.net/v2/modernhebrew/4/18.json",
-    "sha": "7c97eb3351ebca0d3e6605d128a6485973167c8a"
+    "sha": "45dab6f7738ba76440817b890ac8a73dec59b89b"
   },
   "19": {
     "translation": "Hebrew Modern",
@@ -259,11 +259,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 19,
-    "name": "Numbers 19",
+    "name": "בְּמִדְבַּר 19",
     "url": "https://api.getbible.net/v2/modernhebrew/4/19.json",
-    "sha": "b905416c5317e7ab044d868057e227d4a92d767d"
+    "sha": "864bd632e6d1c1bad10bd34ca582ba2d1a83f235"
   },
   "20": {
     "translation": "Hebrew Modern",
@@ -273,11 +273,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 20,
-    "name": "Numbers 20",
+    "name": "בְּמִדְבַּר 20",
     "url": "https://api.getbible.net/v2/modernhebrew/4/20.json",
-    "sha": "bf0c69cbd5209bdd07a04e8d39ac9e804c317e95"
+    "sha": "b4b2f35ca033e59f38fb6360a174fe0c3c590f81"
   },
   "21": {
     "translation": "Hebrew Modern",
@@ -287,11 +287,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 21,
-    "name": "Numbers 21",
+    "name": "בְּמִדְבַּר 21",
     "url": "https://api.getbible.net/v2/modernhebrew/4/21.json",
-    "sha": "bf50743972de1c5803468ab3a10913d69a751ea8"
+    "sha": "a49a06bd08fe30725472f32eb92ab6f4c95f74ee"
   },
   "22": {
     "translation": "Hebrew Modern",
@@ -301,11 +301,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 22,
-    "name": "Numbers 22",
+    "name": "בְּמִדְבַּר 22",
     "url": "https://api.getbible.net/v2/modernhebrew/4/22.json",
-    "sha": "48f20842db5a6eab95e8933967dc968856241871"
+    "sha": "b6ecb5e6f8418bd6413d023b1292c7043a59a416"
   },
   "23": {
     "translation": "Hebrew Modern",
@@ -315,11 +315,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 23,
-    "name": "Numbers 23",
+    "name": "בְּמִדְבַּר 23",
     "url": "https://api.getbible.net/v2/modernhebrew/4/23.json",
-    "sha": "d1cfc6a0e6ebe159888f133c810cb87d45fd478e"
+    "sha": "7725072c4cea9856eee6caf77ce7797746686805"
   },
   "24": {
     "translation": "Hebrew Modern",
@@ -329,11 +329,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 24,
-    "name": "Numbers 24",
+    "name": "בְּמִדְבַּר 24",
     "url": "https://api.getbible.net/v2/modernhebrew/4/24.json",
-    "sha": "48d438e16a0279793cc4de96031cacf13d30fee9"
+    "sha": "9eb25b8d7ddd9777f917fdbd6fc1bb288e4c15db"
   },
   "25": {
     "translation": "Hebrew Modern",
@@ -343,11 +343,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 25,
-    "name": "Numbers 25",
+    "name": "בְּמִדְבַּר 25",
     "url": "https://api.getbible.net/v2/modernhebrew/4/25.json",
-    "sha": "0431ee387deebf63d41aaa1de9a9f6178c48f7c6"
+    "sha": "0add9c3ab25fb0b85d54ce043190b3295705fc6f"
   },
   "26": {
     "translation": "Hebrew Modern",
@@ -357,11 +357,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 26,
-    "name": "Numbers 26",
+    "name": "בְּמִדְבַּר 26",
     "url": "https://api.getbible.net/v2/modernhebrew/4/26.json",
-    "sha": "8d24dd2b4c750fbb6c3313711d163d5a39e4dc0d"
+    "sha": "868555589af183cc2e243163023bedd6f3a028aa"
   },
   "27": {
     "translation": "Hebrew Modern",
@@ -371,11 +371,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 27,
-    "name": "Numbers 27",
+    "name": "בְּמִדְבַּר 27",
     "url": "https://api.getbible.net/v2/modernhebrew/4/27.json",
-    "sha": "95c6fa2f8df164cb21c29a2417ef94da98de4d4f"
+    "sha": "3e2fd868675ee94ab954650ba8b417547b833312"
   },
   "28": {
     "translation": "Hebrew Modern",
@@ -385,11 +385,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 28,
-    "name": "Numbers 28",
+    "name": "בְּמִדְבַּר 28",
     "url": "https://api.getbible.net/v2/modernhebrew/4/28.json",
-    "sha": "20f9c7b806635c1a33a5e1e5ac02037ab838304f"
+    "sha": "93fbcad25f3d0e359c398c3a7d67ff1117c941b6"
   },
   "29": {
     "translation": "Hebrew Modern",
@@ -399,11 +399,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 29,
-    "name": "Numbers 29",
+    "name": "בְּמִדְבַּר 29",
     "url": "https://api.getbible.net/v2/modernhebrew/4/29.json",
-    "sha": "53c4313e2f15479bf928a9c0ca090e76ce731441"
+    "sha": "79c90da757e5308bf65ab8268653a53d3bcbc9cc"
   },
   "30": {
     "translation": "Hebrew Modern",
@@ -413,11 +413,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 30,
-    "name": "Numbers 30",
+    "name": "בְּמִדְבַּר 30",
     "url": "https://api.getbible.net/v2/modernhebrew/4/30.json",
-    "sha": "b5e23329c665cfaa194d99c7946772bafeb69863"
+    "sha": "3529b1fa710f19b09a05da61b1949cb811d97740"
   },
   "31": {
     "translation": "Hebrew Modern",
@@ -427,11 +427,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 31,
-    "name": "Numbers 31",
+    "name": "בְּמִדְבַּר 31",
     "url": "https://api.getbible.net/v2/modernhebrew/4/31.json",
-    "sha": "b46dc3f2c99def0119876fed5f41c81ff5a17c4f"
+    "sha": "87f56b54c6ce1fe387884003e00114e3a4cfc5cf"
   },
   "32": {
     "translation": "Hebrew Modern",
@@ -441,11 +441,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 32,
-    "name": "Numbers 32",
+    "name": "בְּמִדְבַּר 32",
     "url": "https://api.getbible.net/v2/modernhebrew/4/32.json",
-    "sha": "3ab6a71a869a89f76797a17c7a926cb27877eab9"
+    "sha": "ba274cfebc6c00e94275335aa50beeb818f55090"
   },
   "33": {
     "translation": "Hebrew Modern",
@@ -455,11 +455,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 33,
-    "name": "Numbers 33",
+    "name": "בְּמִדְבַּר 33",
     "url": "https://api.getbible.net/v2/modernhebrew/4/33.json",
-    "sha": "c406323bfcf03e1f8e9a5956bd1358d5ece42712"
+    "sha": "968ba28fff4f3019a4af83053ce959d3c02e7799"
   },
   "34": {
     "translation": "Hebrew Modern",
@@ -469,11 +469,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 34,
-    "name": "Numbers 34",
+    "name": "בְּמִדְבַּר 34",
     "url": "https://api.getbible.net/v2/modernhebrew/4/34.json",
-    "sha": "91e9c2f95953c569409153e60ffa65eba68a9da1"
+    "sha": "f5a0ee0d3e82374daf60709901da6cdcd1025057"
   },
   "35": {
     "translation": "Hebrew Modern",
@@ -483,11 +483,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 35,
-    "name": "Numbers 35",
+    "name": "בְּמִדְבַּר 35",
     "url": "https://api.getbible.net/v2/modernhebrew/4/35.json",
-    "sha": "a7543e2f1ccc6cd0889c511577514747deaa254a"
+    "sha": "19d0c43a1a85d78633d2ef2ab1749a196c495fdf"
   },
   "36": {
     "translation": "Hebrew Modern",
@@ -497,10 +497,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "בְּמִדְבַּר",
     "chapter": 36,
-    "name": "Numbers 36",
+    "name": "בְּמִדְבַּר 36",
     "url": "https://api.getbible.net/v2/modernhebrew/4/36.json",
-    "sha": "de3eafcde1fb160b3b8715d196223c57fedce881"
+    "sha": "02bfab312e138b9ee8a0e452494ffe47b1797ed4"
   }
 }

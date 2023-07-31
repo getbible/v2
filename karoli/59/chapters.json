@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakab levele",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakab levele 1",
     "url": "https://api.getbible.net/v2/karoli/59/1.json",
-    "sha": "68f89b93c799ca1e2848a4f7590798bcd20e0d15"
+    "sha": "bdd3272835a27159c3be9d56f9121cd512ccc539"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakab levele",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakab levele 2",
     "url": "https://api.getbible.net/v2/karoli/59/2.json",
-    "sha": "066b2f37b91f28d67d8180a458a62d025ab1b5f2"
+    "sha": "f2e8360c09b10f942db7e4a157b8fd42e413b4f4"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakab levele",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakab levele 3",
     "url": "https://api.getbible.net/v2/karoli/59/3.json",
-    "sha": "2ca5bea71e714337f63049b467457bf5dada6d00"
+    "sha": "2109a99c16a089531e4da8a279d86e609056ae46"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakab levele",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakab levele 4",
     "url": "https://api.getbible.net/v2/karoli/59/4.json",
-    "sha": "650f8a1bac0ebda60237a3a3559a1fbfe9cb83ee"
+    "sha": "bcba730363424956ede0fd317f3468ebc866e4aa"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakab levele",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakab levele 5",
     "url": "https://api.getbible.net/v2/karoli/59/5.json",
-    "sha": "e1d0265fc83491293aee3ae3cc8b27969b7f09db"
+    "sha": "b4d51567e1c929d2e569be4e4fb76f9e8f917a31"
   }
 }

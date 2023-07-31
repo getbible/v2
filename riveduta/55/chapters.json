@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteo 1",
     "url": "https://api.getbible.net/v2/riveduta/55/1.json",
-    "sha": "c1a279aed43fc10ca97b9a0c380382e3554e50b9"
+    "sha": "684f626f8861d31b430a91cdbbf73514e55965b8"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteo 2",
     "url": "https://api.getbible.net/v2/riveduta/55/2.json",
-    "sha": "ac1139f5f48f3280d246311c3e5df717c4496db3"
+    "sha": "17d3a25fb5af46569e57cfc1b46fc2ad096c8375"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteo 3",
     "url": "https://api.getbible.net/v2/riveduta/55/3.json",
-    "sha": "050df97d9abf20b4334889577d10c8a8afb44f4b"
+    "sha": "4ead6a4797cc2583c2ebdd0a239e64c784a16ed1"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteo 4",
     "url": "https://api.getbible.net/v2/riveduta/55/4.json",
-    "sha": "9749ca294c63e3424ff60e972955bc5d5efe2dee"
+    "sha": "2b10235b92b26397863fa48ad54b2e5bb627413a"
   }
 }

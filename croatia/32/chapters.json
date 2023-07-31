@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jona 1",
     "url": "https://api.getbible.net/v2/croatia/32/1.json",
-    "sha": "48cd292f24f8e551156e2541356f6f4ede357e82"
+    "sha": "cd7da05a63e58d643c3c6e4590ccaf4024e6a829"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jona 2",
     "url": "https://api.getbible.net/v2/croatia/32/2.json",
-    "sha": "a1bcb04702f31ae0bed2815dbf54cc141bed4c5c"
+    "sha": "5969414b93e50912961d62004ff18b2c39887a16"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jona 3",
     "url": "https://api.getbible.net/v2/croatia/32/3.json",
-    "sha": "9a6cdc1f83a448e2fe2ff0ed3773054cfaac400f"
+    "sha": "7ce9173ce871574e5d201998a209ff149a79a496"
   },
   "4": {
     "translation": "Croatian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jona 4",
     "url": "https://api.getbible.net/v2/croatia/32/4.json",
-    "sha": "bcc680785304b84d60a975be164058812b0f78c3"
+    "sha": "c7df41582ef3ca1c472ee882332ba0ecafc8e061"
   }
 }

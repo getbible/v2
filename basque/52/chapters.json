@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikarrei",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Tesalonikarrei 1",
     "url": "https://api.getbible.net/v2/basque/52/1.json",
-    "sha": "31ca056f737ec6cace65b9532b229223b6252285"
+    "sha": "e98b54278d032dcbfbae43fa8416fbeac4088279"
   },
   "2": {
     "translation": "(Navarro Labourdin) NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikarrei",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Tesalonikarrei 2",
     "url": "https://api.getbible.net/v2/basque/52/2.json",
-    "sha": "8bd01e5c3a36e244dd75809aa439a10a4a73ee20"
+    "sha": "976134e1d781cf281689f9beebe8fd3c9fcf0f20"
   },
   "3": {
     "translation": "(Navarro Labourdin) NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikarrei",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Tesalonikarrei 3",
     "url": "https://api.getbible.net/v2/basque/52/3.json",
-    "sha": "016f94721c4503809c6b2efc28deb96cd09b2828"
+    "sha": "91fa13a8c08b44b61fe560500b0d60956115f6fb"
   },
   "4": {
     "translation": "(Navarro Labourdin) NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikarrei",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Tesalonikarrei 4",
     "url": "https://api.getbible.net/v2/basque/52/4.json",
-    "sha": "786f1c3513b1524a8374f30157cb39d9a4362639"
+    "sha": "3716eb02ab7482eaa83d21f496f6c054796becdf"
   },
   "5": {
     "translation": "(Navarro Labourdin) NT",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikarrei",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Tesalonikarrei 5",
     "url": "https://api.getbible.net/v2/basque/52/5.json",
-    "sha": "55d958ea83d6ee3da60fb1f159e32e8d70f72ba3"
+    "sha": "cf95020e2fb78ad32297bac9e11d0a9aa6fd1002"
   }
 }

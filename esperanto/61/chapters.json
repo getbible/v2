@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petro",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Petro 1",
     "url": "https://api.getbible.net/v2/esperanto/61/1.json",
-    "sha": "d9a075c6c2fb6113a563cc316e1e5dfaa596c68a"
+    "sha": "6f52f4f5036b48e5dcdfd529f14a55099f3d1343"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petro",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Petro 2",
     "url": "https://api.getbible.net/v2/esperanto/61/2.json",
-    "sha": "455bd6ec4a1107131dca5a4231eb4935e6511f59"
+    "sha": "a36900a91aa6cd2e9f49ec377373b75b033ac925"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petro",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Petro 3",
     "url": "https://api.getbible.net/v2/esperanto/61/3.json",
-    "sha": "bdafec91bc28c444e36568afb1e83b22cd97ce9d"
+    "sha": "7f331416afd71e14a376fc2eafd4c04903ce55ca"
   }
 }

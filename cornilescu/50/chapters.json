@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipeni",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filipeni 1",
     "url": "https://api.getbible.net/v2/cornilescu/50/1.json",
-    "sha": "77d3e128cb072c9484a4448bf338b71a80ce8c81"
+    "sha": "50d18772bc1ffe03f79aaa159b4c6d37b1aa8f4f"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipeni",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filipeni 2",
     "url": "https://api.getbible.net/v2/cornilescu/50/2.json",
-    "sha": "1d8122775869952ea13706de9bfc9d60fe64df40"
+    "sha": "4dc3d46a80a09fb99bf284e9a09bdb70fcbd532b"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipeni",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filipeni 3",
     "url": "https://api.getbible.net/v2/cornilescu/50/3.json",
-    "sha": "3a7cdfe82632e5f0bd810dfa175bf74ee85af37e"
+    "sha": "2f6a2cb710fc10a1f06ccbc1906e5fdf86366806"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipeni",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filipeni 4",
     "url": "https://api.getbible.net/v2/cornilescu/50/4.json",
-    "sha": "6f4dee0caf21935a8d9f324cbc85e4dd24ad2ad8"
+    "sha": "21947f4f13688a7643d3f189025beb4243249d88"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pêr",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Pêr 1",
     "url": "https://api.getbible.net/v2/breton/60/1.json",
-    "sha": "703f8730e58fa750b4186677be8e563d03d05229"
+    "sha": "65924aa86f0e8a9020d6960c9c333621f8532e56"
   },
   "2": {
     "translation": "Gospels",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pêr",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Pêr 2",
     "url": "https://api.getbible.net/v2/breton/60/2.json",
-    "sha": "8d1ec71f2d9344249a77459c0569014efd5bb958"
+    "sha": "f44268f7dbd056c90dc04675622140fe373ca7a8"
   },
   "3": {
     "translation": "Gospels",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pêr",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Pêr 3",
     "url": "https://api.getbible.net/v2/breton/60/3.json",
-    "sha": "3c1ffa52a140589ad246668bf22f73a38b0765aa"
+    "sha": "94dc0a47a20d9a679b729b875aba148592ff6b91"
   },
   "4": {
     "translation": "Gospels",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pêr",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Pêr 4",
     "url": "https://api.getbible.net/v2/breton/60/4.json",
-    "sha": "56a1b406846248bb74666589bd79edab44466d73"
+    "sha": "f1fdfdbc1fe996e185e758e8c8f6acb3ad12769c"
   },
   "5": {
     "translation": "Gospels",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pêr",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Pêr 5",
     "url": "https://api.getbible.net/v2/breton/60/5.json",
-    "sha": "80088fd355c5e96d2d081f002f49d67462fe5f76"
+    "sha": "2b4f69ea4663c470f9704499108945edeac6e1de"
   }
 }

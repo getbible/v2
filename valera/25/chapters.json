@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Lamentaciones 1",
     "url": "https://api.getbible.net/v2/valera/25/1.json",
-    "sha": "0acaa1adfd13485a21cd9eb02bfb971218cd880d"
+    "sha": "66b357cd656b5d5dc5d8d0dd89fa8cb49c59d206"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Lamentaciones 2",
     "url": "https://api.getbible.net/v2/valera/25/2.json",
-    "sha": "7a2b3b1c4c0dc7ab75131f2e59a16ae226884174"
+    "sha": "e844d3525bd030a069ee108af10909f66c1fabbf"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Lamentaciones 3",
     "url": "https://api.getbible.net/v2/valera/25/3.json",
-    "sha": "f5a2807fb839a5da167c389f3970045140cd1e17"
+    "sha": "0e3b2494847c30174f01a30870137a8d5cf60120"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Lamentaciones 4",
     "url": "https://api.getbible.net/v2/valera/25/4.json",
-    "sha": "20b21bd7f6d4d065930d1a3cfefa61c00e18700f"
+    "sha": "2ded0074610bcbac1b8ab517c5682238614f842b"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Lamentaciones 5",
     "url": "https://api.getbible.net/v2/valera/25/5.json",
-    "sha": "168405864120ca591fcd23d6aa76c3dcdea7aa0f"
+    "sha": "a91e6c94f005dcc89368652645c6b1a8ef0796f0"
   }
 }

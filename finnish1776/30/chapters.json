@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "Aamoksen kirja 1",
     "url": "https://api.getbible.net/v2/finnish1776/30/1.json",
-    "sha": "2c3086ce7f5c8bb63bfdf9de6b13894b6b8ab790"
+    "sha": "86d25673a1577f140bf9c578adca44f80cb67c7e"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "Aamoksen kirja 2",
     "url": "https://api.getbible.net/v2/finnish1776/30/2.json",
-    "sha": "a81c741096b5d9a2380bf0c1d7a0a3a2d44ddee0"
+    "sha": "49347770e5f5ab3b76a031e3df6e37a04ad9d0ca"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "Aamoksen kirja 3",
     "url": "https://api.getbible.net/v2/finnish1776/30/3.json",
-    "sha": "7ba7848c569eb23449e57bfc2196292e98fdb0f0"
+    "sha": "0d7f1123bd387f4910eb02b80dda683306e3624a"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "Aamoksen kirja 4",
     "url": "https://api.getbible.net/v2/finnish1776/30/4.json",
-    "sha": "e140822493e1d064a8f62a95a8cf90db1a1b08c4"
+    "sha": "53ed796df7b1bc241b443e5e2256d902c2118b65"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "Aamoksen kirja 5",
     "url": "https://api.getbible.net/v2/finnish1776/30/5.json",
-    "sha": "a858c5a0a1537373807fab4b715308c387e2fb04"
+    "sha": "fb85d0f8dc001b6b5125ee2a315704e6b6803e11"
   },
   "6": {
     "translation": "Finnish Bible (1776)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "Aamoksen kirja 6",
     "url": "https://api.getbible.net/v2/finnish1776/30/6.json",
-    "sha": "db252ad57394b80cf5a9112e8fdf54a7b8c7a2c4"
+    "sha": "2093386abb089c81923f75302e0729952a70fdca"
   },
   "7": {
     "translation": "Finnish Bible (1776)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "Aamoksen kirja 7",
     "url": "https://api.getbible.net/v2/finnish1776/30/7.json",
-    "sha": "8c32d7b3a524ccb8f818efc83324be55ce8cd4aa"
+    "sha": "b5e5a1ec1e0eda7d87d5d94466c53e1622879d8e"
   },
   "8": {
     "translation": "Finnish Bible (1776)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "Aamoksen kirja 8",
     "url": "https://api.getbible.net/v2/finnish1776/30/8.json",
-    "sha": "d8703b40ca36c306fa1bcfaf1520d3693467fdd9"
+    "sha": "46a615f62b0251e473445fbe73e8e877b9137c8e"
   },
   "9": {
     "translation": "Finnish Bible (1776)",
@@ -119,10 +119,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Aamoksen kirja",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "Aamoksen kirja 9",
     "url": "https://api.getbible.net/v2/finnish1776/30/9.json",
-    "sha": "fab3e84b76726061dd97dfa1565a065e725db670"
+    "sha": "28188597ec3329eec34315f4a3c734b0c190e2aa"
   }
 }

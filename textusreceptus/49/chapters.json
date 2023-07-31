@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Προς Εφεσίους 1",
     "url": "https://api.getbible.net/v2/textusreceptus/49/1.json",
-    "sha": "8bfb0a9ef45b726fc18fc4ce399f7b19e3dc9af1"
+    "sha": "97c8dc7ae569d47b49593a49a52bae422cce395c"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Προς Εφεσίους 2",
     "url": "https://api.getbible.net/v2/textusreceptus/49/2.json",
-    "sha": "5bd094813031557b526ae39c5f175b709225adce"
+    "sha": "e8ea2d9df5764b90d4ad54c7ea8f9de7342deb2d"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Προς Εφεσίους 3",
     "url": "https://api.getbible.net/v2/textusreceptus/49/3.json",
-    "sha": "6e0b57419f517f42b546b88b3a641cdf75dbd580"
+    "sha": "4a985fbcca297be268de0985c7e2b2406da59677"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Προς Εφεσίους 4",
     "url": "https://api.getbible.net/v2/textusreceptus/49/4.json",
-    "sha": "3d96834bacc7888b576778e13950e603bf3ec587"
+    "sha": "014559220e0340603411d19494b41383d6b7a588"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Προς Εφεσίους 5",
     "url": "https://api.getbible.net/v2/textusreceptus/49/5.json",
-    "sha": "1134b792903464d0caa6ed0179c0350205cc072c"
+    "sha": "6f57676f89a4f5867c9b2d0054be14eccafb9517"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Προς Εφεσίους 6",
     "url": "https://api.getbible.net/v2/textusreceptus/49/6.json",
-    "sha": "8fa099fe906e30f2e47ddb51412c5a43cac45e27"
+    "sha": "6d58f3c200c46c51cc81384f5d23b5e4b6bfe3ed"
   }
 }

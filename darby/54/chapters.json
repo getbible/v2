@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timothée 1",
     "url": "https://api.getbible.net/v2/darby/54/1.json",
-    "sha": "a00d8a53a3ec3245008cc59d10fa0cd27daa4e4e"
+    "sha": "d455de0b2e8b6cf881c3c3444c671f607a281751"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timothée 2",
     "url": "https://api.getbible.net/v2/darby/54/2.json",
-    "sha": "1122a913e4e4bee289a710d83c789e838366f6c1"
+    "sha": "05b0dca819cea80adda9a00044dc82c32b12468d"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timothée 3",
     "url": "https://api.getbible.net/v2/darby/54/3.json",
-    "sha": "35cfcb94159be1e709834f6cd18882d583c9166f"
+    "sha": "7028310d66ae8c8a42b06974bf2fb1f521507563"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timothée 4",
     "url": "https://api.getbible.net/v2/darby/54/4.json",
-    "sha": "9bb6d90ce4ba8b91f8f9d91886c9aa93ea8d0a4c"
+    "sha": "7f82184b03b8d3e18611beda97b97bf45e2660fa"
   },
   "5": {
     "translation": "Darby",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timothée 5",
     "url": "https://api.getbible.net/v2/darby/54/5.json",
-    "sha": "b42e344c5031f4b9590b8d6cd685f93bc0b09bd3"
+    "sha": "73abea48c4e97f495ec0cddf199777259cbd0e11"
   },
   "6": {
     "translation": "Darby",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timothée 6",
     "url": "https://api.getbible.net/v2/darby/54/6.json",
-    "sha": "ef5deb6ad5af848a8bdd950c40c7108fbeed2877"
+    "sha": "0e2f87920994252e6b4b569a151ead4fd10a68d8"
   }
 }

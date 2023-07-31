@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggain kirja",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Haggain kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/37/1.json",
-    "sha": "5945715e5cd43fb14b5f1e56a90696fc05a306ac"
+    "sha": "c5004924ad9381da4cfe0c6d1a6bfcb7ae2b4e82"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggain kirja",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Haggain kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/37/2.json",
-    "sha": "b1b141675d7da235338dbf360351593ec3707a96"
+    "sha": "a7ed1508c001d1bdf2471b17da63add176ff40e9"
   }
 }

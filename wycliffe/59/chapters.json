@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "James 1",
     "url": "https://api.getbible.net/v2/wycliffe/59/1.json",
-    "sha": "f9cbc8c55d2f4c777b7d8efe7b929b86cc41953f"
+    "sha": "bacb6981271af04af12e58fc0e42a79946b80649"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "James 2",
     "url": "https://api.getbible.net/v2/wycliffe/59/2.json",
-    "sha": "7292a9618d00635a9a3df9197a0a41f9725476b4"
+    "sha": "f28419f85b385a475a6684033deefd342a42024f"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "James 3",
     "url": "https://api.getbible.net/v2/wycliffe/59/3.json",
-    "sha": "d6e1f6e8fbc8ee3b3ea4015d35b130a2388b697d"
+    "sha": "87380cf3c2966552779e316201ac9065fcf86194"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "James 4",
     "url": "https://api.getbible.net/v2/wycliffe/59/4.json",
-    "sha": "4261f7e82e340ea276142ee44da8c8a05208086f"
+    "sha": "0cfde4da2d98dd0938f475a11247cf1095ea4296"
   },
   "5": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "James 5",
     "url": "https://api.getbible.net/v2/wycliffe/59/5.json",
-    "sha": "6d51912ea8047caec9bcc408c9329b82afe8d1b0"
+    "sha": "7cd7e29ebe66ffa82f94e10c1780787d59e42339"
   }
 }

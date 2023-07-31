@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "يونان",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "يونان 1",
     "url": "https://api.getbible.net/v2/arabicsv/32/1.json",
-    "sha": "03a3dcda0d8febd51fa54e5354c86444b161c82a"
+    "sha": "73b5c4b99c5245918a18799a9a7b66fc89a69293"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "يونان",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "يونان 2",
     "url": "https://api.getbible.net/v2/arabicsv/32/2.json",
-    "sha": "4c50a7b35bfd5e6a1b3ba0aeb1612d6b9e2c24a3"
+    "sha": "964f3b84bd863c62d49eb1c242f45d40d5b2cd77"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "يونان",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "يونان 3",
     "url": "https://api.getbible.net/v2/arabicsv/32/3.json",
-    "sha": "5c0481f5217abfe8ee211a8068395c6c558c8c69"
+    "sha": "272e0a551c35a93718c04e4bc9ac2568647f442b"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,10 +49,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "يونان",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "يونان 4",
     "url": "https://api.getbible.net/v2/arabicsv/32/4.json",
-    "sha": "be466d0648e09e7d78eabe36325ca4e01adea568"
+    "sha": "deef5f520096cb0552814b20cb6535c38a4ac12c"
   }
 }

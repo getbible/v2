@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "提摩太前書 1",
     "url": "https://api.getbible.net/v2/cnt/54/1.json",
-    "sha": "34776e77700c1119f85ad94b850af62d39101fc4"
+    "sha": "6c7569072b8302aada70e96a8d5c0341a7d9080c"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "提摩太前書 2",
     "url": "https://api.getbible.net/v2/cnt/54/2.json",
-    "sha": "6c687fe9efeb41d93ec1d1893cfffc0e18c3a82f"
+    "sha": "273a85d028453dcb2451202057d5efe56cbed0e3"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "提摩太前書 3",
     "url": "https://api.getbible.net/v2/cnt/54/3.json",
-    "sha": "e606321d645de27e15c21f8d298597d1e8b25841"
+    "sha": "6bcb77234ba08a1fa6203dc52dbcb01b78bf2a13"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "提摩太前書 4",
     "url": "https://api.getbible.net/v2/cnt/54/4.json",
-    "sha": "c84460aae026f4b0c71fab046323f0fbdb193047"
+    "sha": "2f35d62b296ab845e3d78f037b372b869ab0f82a"
   },
   "5": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "提摩太前書 5",
     "url": "https://api.getbible.net/v2/cnt/54/5.json",
-    "sha": "154fea54ef33f67b66ac650dfabeeb4b2d5e2df7"
+    "sha": "c235720ac952c788d2520285046378a25f3a74c9"
   },
   "6": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "提摩太前書 6",
     "url": "https://api.getbible.net/v2/cnt/54/6.json",
-    "sha": "839cfd3e5e23f27263bcb20acb1a9f5f8c3698d4"
+    "sha": "fe4b0bec0628b45191761462bd566b39839a9334"
   }
 }

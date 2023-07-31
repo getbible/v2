@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessalonikerbrev",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Thessalonikerbrev 1",
     "url": "https://api.getbible.net/v2/danish/53/1.json",
-    "sha": "675049a8c4601e0689e0d20124d895217338faf2"
+    "sha": "99921d6c373555ada2d8b8fed7dc96a5f1522278"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessalonikerbrev",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Thessalonikerbrev 2",
     "url": "https://api.getbible.net/v2/danish/53/2.json",
-    "sha": "1b1c12d8fd3e54560f595168d22e6d47f7dbcd11"
+    "sha": "e08bead1c0ac318122cf8b0c8a54a129a682bc8f"
   },
   "3": {
     "translation": "Danish",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessalonikerbrev",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Thessalonikerbrev 3",
     "url": "https://api.getbible.net/v2/danish/53/3.json",
-    "sha": "a0a42069b25ffa993015337f7c4f976cdc2e5ccb"
+    "sha": "e237b999d596462a5441b233a33a1a4a5a0af0d3"
   }
 }

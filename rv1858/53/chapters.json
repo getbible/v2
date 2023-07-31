@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonicenses",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Tesalonicenses 1",
     "url": "https://api.getbible.net/v2/rv1858/53/1.json",
-    "sha": "e6bfdab2fad62827551f5adf9bba820be263c199"
+    "sha": "291c9165d91c691cfcb47fce03fcae46d786dfd0"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonicenses",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Tesalonicenses 2",
     "url": "https://api.getbible.net/v2/rv1858/53/2.json",
-    "sha": "52ae159d590f05c2c076f480eaf2aba4280f932d"
+    "sha": "c830783e94a6e8cb438b989bc40826d2e6769b40"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonicenses",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Tesalonicenses 3",
     "url": "https://api.getbible.net/v2/rv1858/53/3.json",
-    "sha": "80da0e1bab5cc5291f57c561da31bedd6d5d77da"
+    "sha": "df1e3ff1e0dd4c9716307ab0533e8cd89be385b3"
   }
 }

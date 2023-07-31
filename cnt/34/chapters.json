@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "那鴻書 1",
     "url": "https://api.getbible.net/v2/cnt/34/1.json",
-    "sha": "1dd97ce445ae201e01b5c13fe4c3ed79a8c54697"
+    "sha": "945d83bf98a8f4bc920dae7bc23fedae91634930"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "那鴻書 2",
     "url": "https://api.getbible.net/v2/cnt/34/2.json",
-    "sha": "f6e02ab63e678690b75a7ef1e8d7f0faaa68daba"
+    "sha": "07a490fe7188091d7e5fcd1274fcaf156ee95bdf"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "那鴻書 3",
     "url": "https://api.getbible.net/v2/cnt/34/3.json",
-    "sha": "c99aa3349923bb0ab9d622973f1963a787d4f4b8"
+    "sha": "ca79de980d319ef9bfce3cbeede51cea435db5b4"
   }
 }

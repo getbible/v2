@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/sse/35/1.json",
-    "sha": "f59cab2db8d47356dcca3dc160f26deccdc313f0"
+    "sha": "68c2a03477e4b0ba77bc704016682100d811b8ff"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/sse/35/2.json",
-    "sha": "cd0a0c0b9eca9a0c35a1e19793fc1f9520057aa1"
+    "sha": "8faf030bc60fa63150e73d50db22e5f8e0285510"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/sse/35/3.json",
-    "sha": "993282599f7824c65812367211461fec31072981"
+    "sha": "3cbbc3a4ba3f2c0b8dc144bcc54e7fb012431ec3"
   }
 }

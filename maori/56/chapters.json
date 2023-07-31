@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tītahi",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tītahi 1",
     "url": "https://api.getbible.net/v2/maori/56/1.json",
-    "sha": "e5c719ae1068416e76df02d7359b98a2a3b84c79"
+    "sha": "29a85533b61a918a28ea30f671223ed55526e376"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tītahi",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tītahi 2",
     "url": "https://api.getbible.net/v2/maori/56/2.json",
-    "sha": "e7485f9930e943998a0a58915735229a77e4e944"
+    "sha": "e0abc1869cbd59d1a2b484759f157ff16ce89d76"
   },
   "3": {
     "translation": "Maori",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tītahi",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tītahi 3",
     "url": "https://api.getbible.net/v2/maori/56/3.json",
-    "sha": "7370e5c30d95f3921320d6deb45b137e8fb9e054"
+    "sha": "995a1bff5d5c6762f0ad09baaad31b2d15334429"
   }
 }

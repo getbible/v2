@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Andre Petersbrev",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "Andre Petersbrev 1",
     "url": "https://api.getbible.net/v2/bibelselskap/61/1.json",
-    "sha": "692cdee8b02317da2721df291748f61e13eb07a6"
+    "sha": "591c51e65020c49cd909a150619f452e529c4b20"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Andre Petersbrev",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "Andre Petersbrev 2",
     "url": "https://api.getbible.net/v2/bibelselskap/61/2.json",
-    "sha": "0e7b63a18ca3f50846138a077c0e90133ab79ed4"
+    "sha": "2a400a0974ad49b67795aaeba087d191ef3964bc"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Andre Petersbrev",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "Andre Petersbrev 3",
     "url": "https://api.getbible.net/v2/bibelselskap/61/3.json",
-    "sha": "07c32999e9854fa99f6d4334e794837cbd6b40e6"
+    "sha": "c48b37922adbc04e5bff0868fe312b75f9d1788f"
   }
 }

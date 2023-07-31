@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Ĥabakuk",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Ĥabakuk 1",
     "url": "https://api.getbible.net/v2/esperanto/35/1.json",
-    "sha": "a91ce53c198818b26e4d57154913b87e5efb7bcf"
+    "sha": "41c3f32c0b2f8fffee7cece38025571974508a6d"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Ĥabakuk",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Ĥabakuk 2",
     "url": "https://api.getbible.net/v2/esperanto/35/2.json",
-    "sha": "52e35506da7e7a30278a7404e8c2d7fd95e97129"
+    "sha": "903b8a2f6cf023a233c82b5f668d10fcb63fa5b1"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Ĥabakuk",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Ĥabakuk 3",
     "url": "https://api.getbible.net/v2/esperanto/35/3.json",
-    "sha": "e60d003342e74fe20263b8cb99cc02caf327f538"
+    "sha": "9f41df3bf7ea1e78746821675e897425ee97d3cf"
   }
 }

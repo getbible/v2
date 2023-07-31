@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Hāme",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Hāme 1",
     "url": "https://api.getbible.net/v2/maori/59/1.json",
-    "sha": "1deb8cb52eb8c1fbb88031cf2d9dacfae01e4239"
+    "sha": "dd5b60572601ad86fe8b144148b89955bad892b6"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Hāme",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Hāme 2",
     "url": "https://api.getbible.net/v2/maori/59/2.json",
-    "sha": "7f0252da2f91cfac3b271ff1d54901b5eec7e4c0"
+    "sha": "b0a2fa3f347b75964ac298fbc3ac30a48f472e13"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Hāme",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Hāme 3",
     "url": "https://api.getbible.net/v2/maori/59/3.json",
-    "sha": "655a3d7c1b85d34a543653a3f8b04fcec2c6e98a"
+    "sha": "a084d04d32c925fbd7a1a7cdcfb05823da79b117"
   },
   "4": {
     "translation": "Maori",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Hāme",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Hāme 4",
     "url": "https://api.getbible.net/v2/maori/59/4.json",
-    "sha": "eab1808e088e9e3ca3f2de77da9afaebec00d9b0"
+    "sha": "edd186855a17ddbf4d01cd695d9fb770c3d8ebeb"
   },
   "5": {
     "translation": "Maori",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Hāme",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Hāme 5",
     "url": "https://api.getbible.net/v2/maori/59/5.json",
-    "sha": "b2458ff25560eac33ea03be293bd21a74b2470d9"
+    "sha": "decd0f14b2eac30ae61ee9e508490a56074812be"
   }
 }

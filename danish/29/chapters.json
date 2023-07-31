@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joels Bog",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joels Bog 1",
     "url": "https://api.getbible.net/v2/danish/29/1.json",
-    "sha": "d520a4abddd09faef4d3c57e685581f73ba64989"
+    "sha": "c5894aa7115f9ec589838ac7d2cf1432a7e18d0b"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joels Bog",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joels Bog 2",
     "url": "https://api.getbible.net/v2/danish/29/2.json",
-    "sha": "97628ce14a0dc03726f9d4c11488457836f2caa3"
+    "sha": "7319fbcfc99d2a2c6cc446882f514b90970db816"
   },
   "3": {
     "translation": "Danish",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joels Bog",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joels Bog 3",
     "url": "https://api.getbible.net/v2/danish/29/3.json",
-    "sha": "41dd604e1374c04c9f4fd3a9089355272a445e3a"
+    "sha": "a44f7ea1e2a2ea3d65b8602619279114cbd9268b"
   }
 }

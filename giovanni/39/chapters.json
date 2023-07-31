@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malachia 1",
     "url": "https://api.getbible.net/v2/giovanni/39/1.json",
-    "sha": "0b798da931775848bfded8127628cd11135fbe3b"
+    "sha": "4243cc8066d8e63e10f2f5775551104318519995"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malachia 2",
     "url": "https://api.getbible.net/v2/giovanni/39/2.json",
-    "sha": "cdfad0100ffef75fcd133b43f0cf8a1a055d333e"
+    "sha": "6e7a7fec06557f0f3b0d0d319cad1f06453abb7a"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malachia 3",
     "url": "https://api.getbible.net/v2/giovanni/39/3.json",
-    "sha": "a7394075d63ad86c62f86990e5a8f90da4b94e44"
+    "sha": "3b44db0e970c212da530ec56038fb47575e31d5f"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malachia 4",
     "url": "https://api.getbible.net/v2/giovanni/39/4.json",
-    "sha": "f6904c009f9f574b88eb500510f60d7713b3e3f3"
+    "sha": "37e20106bf1edc46285a7d76218c0fae29e9d82d"
   }
 }

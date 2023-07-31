@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klaagliederen",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Klaagliederen 1",
     "url": "https://api.getbible.net/v2/statenvertaling/25/1.json",
-    "sha": "576b2dee6bda962653246904abddfaaa7625c81e"
+    "sha": "4feef621fba41d4dcff5b6b6ce0a7b54948d8e1c"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klaagliederen",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Klaagliederen 2",
     "url": "https://api.getbible.net/v2/statenvertaling/25/2.json",
-    "sha": "ad787e165c9bf62fa46bdc4b7305194ce6cf8a5c"
+    "sha": "09f90f63e9cb6064fbf5903a1bee8449adab1b79"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klaagliederen",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Klaagliederen 3",
     "url": "https://api.getbible.net/v2/statenvertaling/25/3.json",
-    "sha": "cc48d55e4f95eb8ffb170b7345662b97e1f74e12"
+    "sha": "40b30f85b78e2e2fcb08abb6b435702a275e3b2f"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klaagliederen",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Klaagliederen 4",
     "url": "https://api.getbible.net/v2/statenvertaling/25/4.json",
-    "sha": "e5e11e09b13931db2d054a597e6561169fb9e182"
+    "sha": "83b40ffa1528706df33400bc1cf60a5905663500"
   },
   "5": {
     "translation": "Dutch Staten Vertaling",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klaagliederen",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Klaagliederen 5",
     "url": "https://api.getbible.net/v2/statenvertaling/25/5.json",
-    "sha": "ed64789012f7de29aa043281238c5d8992e29de0"
+    "sha": "80e8966e4604de8afc030ccbf7d7651fbdbc612d"
   }
 }

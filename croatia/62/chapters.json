@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ivanova",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Ivanova 1",
     "url": "https://api.getbible.net/v2/croatia/62/1.json",
-    "sha": "586583186db48c4741bfd7a3adbc02576234d71d"
+    "sha": "80174cb4be8bb3206f56aebb5d4a84916b847bc5"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ivanova",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Ivanova 2",
     "url": "https://api.getbible.net/v2/croatia/62/2.json",
-    "sha": "37be37cfdff427d0709cbf11190d084b140d0954"
+    "sha": "4c44b69a2876c4327d3e6df777f0430375ae0eee"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ivanova",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Ivanova 3",
     "url": "https://api.getbible.net/v2/croatia/62/3.json",
-    "sha": "1d9fb9aaa504820032aa151534318c0076c72066"
+    "sha": "f472e8313a7136cd20beaa7dedafad96e68c2f09"
   },
   "4": {
     "translation": "Croatian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ivanova",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Ivanova 4",
     "url": "https://api.getbible.net/v2/croatia/62/4.json",
-    "sha": "1a807d37fe11ec8c808f8eb020158478ff80198b"
+    "sha": "d96ae5ae9f8aba465f0267cda46cd1a79e05e7df"
   },
   "5": {
     "translation": "Croatian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ivanova",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Ivanova 5",
     "url": "https://api.getbible.net/v2/croatia/62/5.json",
-    "sha": "bcaa8860652f93bacc6c413941056336f90bf8cb"
+    "sha": "3134c8d7de51cfe1ebdcfd427b98095fc93e2d11"
   }
 }

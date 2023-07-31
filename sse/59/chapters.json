@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Santiago 1",
     "url": "https://api.getbible.net/v2/sse/59/1.json",
-    "sha": "936127b5f8a8b957baa096e2e209a51bc1cb4799"
+    "sha": "60c3b52f963ce7be65bbb09bbea3b19f44fd482a"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Santiago 2",
     "url": "https://api.getbible.net/v2/sse/59/2.json",
-    "sha": "aa6d0a41eb03d071bd18293588eb31f397d5ab98"
+    "sha": "bb97ac095760195fe8a9eb1fd26091f50cec4a9d"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Santiago 3",
     "url": "https://api.getbible.net/v2/sse/59/3.json",
-    "sha": "2c1dfc2231b8fc9ca34a7212a8e3763ee17b96a9"
+    "sha": "7f72de8577b388fd0ed1da0366028961acc3955c"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Santiago 4",
     "url": "https://api.getbible.net/v2/sse/59/4.json",
-    "sha": "67840aca1719851579788a4d086e39342b882737"
+    "sha": "e9d67d7c820678a050183b227476ee17e32f7448"
   },
   "5": {
     "translation": "Sagradas Escrituras (1569)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Santiago 5",
     "url": "https://api.getbible.net/v2/sse/59/5.json",
-    "sha": "46e6f732fcb740aed19c454d8552b6546ee4534c"
+    "sha": "5f7ef75dc790019b2af6323f51562ddfebf2d857"
   }
 }

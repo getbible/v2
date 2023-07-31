@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "Amos' bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/30/1.json",
-    "sha": "4b25bd79c8cd6e231e40359d19755a8a696c33e7"
+    "sha": "0db7069f7407fb124cf09edda55d50affc05fc8a"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "Amos' bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/30/2.json",
-    "sha": "6711f51a11d9e4d6f4c964480ae1675c786a9ef5"
+    "sha": "271a0c4d1d880e310d214cc9a83dd1b49eeef239"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "Amos' bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/30/3.json",
-    "sha": "cb3be5901afed97768f915867055125ce3374df7"
+    "sha": "b5f5e014d21a68c2cc2602082933dea1dc6d3d4b"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "Amos' bok 4",
     "url": "https://api.getbible.net/v2/bibelselskap/30/4.json",
-    "sha": "13228de49da73c805e705d02ad5993416120819b"
+    "sha": "e4f5c224019c501df8dd6b208de4ca921d17c565"
   },
   "5": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "Amos' bok 5",
     "url": "https://api.getbible.net/v2/bibelselskap/30/5.json",
-    "sha": "02a3d929fdac17e8f45e866440f117e4862f69a2"
+    "sha": "0c432b0a1d28851561dcf6b72685312c91c2019c"
   },
   "6": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "Amos' bok 6",
     "url": "https://api.getbible.net/v2/bibelselskap/30/6.json",
-    "sha": "9ee19926fae8f6197e83d35c99734b8898d20570"
+    "sha": "a8764dc69a9064a065dc9fcc89a7696fba754892"
   },
   "7": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "Amos' bok 7",
     "url": "https://api.getbible.net/v2/bibelselskap/30/7.json",
-    "sha": "b9bcaa32245b1c4278fb47179f0fd9db7622d739"
+    "sha": "4e71129ae17fd47aa1257e5da645055c2666a22a"
   },
   "8": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "Amos' bok 8",
     "url": "https://api.getbible.net/v2/bibelselskap/30/8.json",
-    "sha": "d2b306aace27c49fafb397e5a0bf458dbb7d7252"
+    "sha": "6fb33c34bfe7ff3d43d0d22d64ebd79afefb63bc"
   },
   "9": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -119,10 +119,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amos' bok",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "Amos' bok 9",
     "url": "https://api.getbible.net/v2/bibelselskap/30/9.json",
-    "sha": "0869e0db36bd3c80fb88cdd6e0ae8326b153e058"
+    "sha": "8ba83957aa5c13a9ad0b3bc49903b5f2dcb8bca0"
   }
 }

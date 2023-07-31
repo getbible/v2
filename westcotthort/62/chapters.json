@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "Ιωάννου Α' 1",
     "url": "https://api.getbible.net/v2/westcotthort/62/1.json",
-    "sha": "19b4df5dcde75a04957c8eb28be929905b862795"
+    "sha": "43afb4cb22edd2f9f970ec372f4fb4c7c1889fd6"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "Ιωάννου Α' 2",
     "url": "https://api.getbible.net/v2/westcotthort/62/2.json",
-    "sha": "cd617e3a6ece03776b3815876fafca5c154e3a55"
+    "sha": "3d9487ccc20140e4260768d0c5e4e3a029a16329"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "Ιωάννου Α' 3",
     "url": "https://api.getbible.net/v2/westcotthort/62/3.json",
-    "sha": "ecba187d3fd0c2885a3a1daa1f8d859a7824a80c"
+    "sha": "376d043a7b371213437384000104829c93445b2c"
   },
   "4": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "Ιωάννου Α' 4",
     "url": "https://api.getbible.net/v2/westcotthort/62/4.json",
-    "sha": "c543652c2268190b3017a135f224b93922db29e6"
+    "sha": "287a408bb12ba05586c071e6c46a9e5fd82f5f5a"
   },
   "5": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "Ιωάννου Α' 5",
     "url": "https://api.getbible.net/v2/westcotthort/62/5.json",
-    "sha": "85843f80e7172168998cc777ff533673d50c747c"
+    "sha": "474daf5caf66f0f205fbbe9ccc8f89b30ffd5917"
   }
 }

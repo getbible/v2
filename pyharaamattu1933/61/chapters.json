@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Toinen Pietarin kirje",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "Toinen Pietarin kirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/61/1.json",
-    "sha": "767ec97eb5a8de11da4e9368e46a28da37f7f7fe"
+    "sha": "865d08277706fb291d6104102ec69fa33d8e2869"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Toinen Pietarin kirje",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "Toinen Pietarin kirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/61/2.json",
-    "sha": "7ef17a99eaa52a0129caeb3b237bf449c098564a"
+    "sha": "209b549af423e1bfac1350b6c16bb42029bb3839"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Toinen Pietarin kirje",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "Toinen Pietarin kirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/61/3.json",
-    "sha": "a6e457e88767f718af4f9b4a496b018761592afb"
+    "sha": "05712c135a800ffcf2b0749c159a869e2ce15220"
   }
 }

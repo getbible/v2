@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timothée 1",
     "url": "https://api.getbible.net/v2/darby/55/1.json",
-    "sha": "d85754e8f7276897890c33b9d09bd16913325458"
+    "sha": "7790384d5b5e232fc6a6dacb9d8a051f2e56cbcc"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timothée 2",
     "url": "https://api.getbible.net/v2/darby/55/2.json",
-    "sha": "6817d1881c9dac08e908dd0cb459411be06a9858"
+    "sha": "e75ac3fae3d95e6779429c71c9e21b80ec562a03"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timothée 3",
     "url": "https://api.getbible.net/v2/darby/55/3.json",
-    "sha": "78e0ec9987440ebe94930298940826c91ba3babf"
+    "sha": "0e8f5ccfaa689d443973eddc3b9fa3de91105be6"
   },
   "4": {
     "translation": "Darby",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timothée 4",
     "url": "https://api.getbible.net/v2/darby/55/4.json",
-    "sha": "fbf5eadd40d065506c6f8d87029c6a73d40ac55e"
+    "sha": "57ec3141088c81d4c763fc275de1019daf6423aa"
   }
 }

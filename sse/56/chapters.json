@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tito 1",
     "url": "https://api.getbible.net/v2/sse/56/1.json",
-    "sha": "d22698e6f1962c7e95f90bb27b05c6a53a09401b"
+    "sha": "0631d8f22581211f9d3018ff0c53d7c665239c22"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tito 2",
     "url": "https://api.getbible.net/v2/sse/56/2.json",
-    "sha": "de0136edbdc33cd1da9384b396a287e591f1844d"
+    "sha": "f115cc4a0136c6ed4bdff176bdc3273ee47cd86e"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tito 3",
     "url": "https://api.getbible.net/v2/sse/56/3.json",
-    "sha": "0b2f73241b491e1a5be918b39ccaf0bcb00c53e8"
+    "sha": "8c136602124a9abad19c12e85abddfe5e6ac8a20"
   }
 }

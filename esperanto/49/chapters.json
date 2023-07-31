@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesanoj",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efesanoj 1",
     "url": "https://api.getbible.net/v2/esperanto/49/1.json",
-    "sha": "5e6dfce756dd31c67a35e7d6d667385cd72a66bf"
+    "sha": "a31ace9c0927d245b64f03b914656e66cdceffa2"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesanoj",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efesanoj 2",
     "url": "https://api.getbible.net/v2/esperanto/49/2.json",
-    "sha": "5cf1a83f86eac06c873f90791696925d33e5e786"
+    "sha": "8b7d5cc9e62afb17bb9481a8b0e4dffdd1aeade8"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesanoj",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efesanoj 3",
     "url": "https://api.getbible.net/v2/esperanto/49/3.json",
-    "sha": "fbb1d4384265dd1175e6e7647f7b21f6e47d90a7"
+    "sha": "d316c65b2412756b364d8ee9135c5ad2c9f266d4"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesanoj",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efesanoj 4",
     "url": "https://api.getbible.net/v2/esperanto/49/4.json",
-    "sha": "4584f932c2d953a8311f61b95fde64e329402833"
+    "sha": "a6a739495d7bbd9d98ab5c690309ec5eacdfbecb"
   },
   "5": {
     "translation": "Esperanto",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesanoj",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efesanoj 5",
     "url": "https://api.getbible.net/v2/esperanto/49/5.json",
-    "sha": "176ae525738d238aa1b73987d1a3ff89ee7300a8"
+    "sha": "c2ec0e5611f03bac17a4ea0212af4b011b769c80"
   },
   "6": {
     "translation": "Esperanto",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesanoj",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efesanoj 6",
     "url": "https://api.getbible.net/v2/esperanto/49/6.json",
-    "sha": "8b0b4d2f3f4664295f6cc46611c10b68f8a1a2e8"
+    "sha": "145a9e9dfc301694acae4ae9ce730eb8e56b76c5"
   }
 }

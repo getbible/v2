@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 1,
-    "name": "Luke 1",
+    "name": "Ruka 1",
     "url": "https://api.getbible.net/v2/maori/42/1.json",
-    "sha": "596043f781991ec567f439ba282265afff176364"
+    "sha": "96b0f657a3f878c7b62309e9433851934e4e2070"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 2,
-    "name": "Luke 2",
+    "name": "Ruka 2",
     "url": "https://api.getbible.net/v2/maori/42/2.json",
-    "sha": "9943b54a4587ecc100b46e7a95b74b88d96958ab"
+    "sha": "e2f71f1a309fb9118eb1acf559144189feb5541e"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 3,
-    "name": "Luke 3",
+    "name": "Ruka 3",
     "url": "https://api.getbible.net/v2/maori/42/3.json",
-    "sha": "b31bb5d3a6453406dabbe583daf7e7e2bbdfed61"
+    "sha": "3fbce537d4d6e531a5b4f0ae7ad321d7c84c0aae"
   },
   "4": {
     "translation": "Maori",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 4,
-    "name": "Luke 4",
+    "name": "Ruka 4",
     "url": "https://api.getbible.net/v2/maori/42/4.json",
-    "sha": "ecc30fde513ce2bbae9e7c05d3284290981516c7"
+    "sha": "7244c21cf3ebb7d1ae66c9828a621ba5ce03de0b"
   },
   "5": {
     "translation": "Maori",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 5,
-    "name": "Luke 5",
+    "name": "Ruka 5",
     "url": "https://api.getbible.net/v2/maori/42/5.json",
-    "sha": "42905df44b99cf76d896d47984ef8556bc9e55d5"
+    "sha": "29442d18f27d348f99173d31fd5188fd4bd714a5"
   },
   "6": {
     "translation": "Maori",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 6,
-    "name": "Luke 6",
+    "name": "Ruka 6",
     "url": "https://api.getbible.net/v2/maori/42/6.json",
-    "sha": "59e7f34eefe3826a1eb759558d511ff9d42cae81"
+    "sha": "07cdd63aba5362ae63c5f052635d7d70ed60aff5"
   },
   "7": {
     "translation": "Maori",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 7,
-    "name": "Luke 7",
+    "name": "Ruka 7",
     "url": "https://api.getbible.net/v2/maori/42/7.json",
-    "sha": "d3f067eb8aac7592cec191e1381cac71c2f97886"
+    "sha": "e2179de40c1aefb4b7950b0e8278b051b59dcf95"
   },
   "8": {
     "translation": "Maori",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 8,
-    "name": "Luke 8",
+    "name": "Ruka 8",
     "url": "https://api.getbible.net/v2/maori/42/8.json",
-    "sha": "c91828ee478f329dfcc8d278d9c4642e255889fe"
+    "sha": "455622adbe58829869e79014a01f6d8899cb3cba"
   },
   "9": {
     "translation": "Maori",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 9,
-    "name": "Luke 9",
+    "name": "Ruka 9",
     "url": "https://api.getbible.net/v2/maori/42/9.json",
-    "sha": "13137eacfb2481be29fbb9e1b484831042054fe4"
+    "sha": "ac5527851d916c1b86937a6e3e51541e098ea549"
   },
   "10": {
     "translation": "Maori",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 10,
-    "name": "Luke 10",
+    "name": "Ruka 10",
     "url": "https://api.getbible.net/v2/maori/42/10.json",
-    "sha": "568197a6bfc5a6233b0ffe8c6eff204085cbfc47"
+    "sha": "304cc6a00232f3de27e31e8cb19f9f4c3a4d1b13"
   },
   "11": {
     "translation": "Maori",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 11,
-    "name": "Luke 11",
+    "name": "Ruka 11",
     "url": "https://api.getbible.net/v2/maori/42/11.json",
-    "sha": "566ee97ce16a6df112c5b7447504c745af6e8d79"
+    "sha": "882798fec8645f44f191a9962468c917558d1c1a"
   },
   "12": {
     "translation": "Maori",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 12,
-    "name": "Luke 12",
+    "name": "Ruka 12",
     "url": "https://api.getbible.net/v2/maori/42/12.json",
-    "sha": "fe10168851284b41611409d551fbaf81a0631a4d"
+    "sha": "fd6cedf07598704bf0fb2b2b57c057e3bdc2ea79"
   },
   "13": {
     "translation": "Maori",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 13,
-    "name": "Luke 13",
+    "name": "Ruka 13",
     "url": "https://api.getbible.net/v2/maori/42/13.json",
-    "sha": "647c2c0c0ff36b36eeeae9ee019f6900e3ac46c8"
+    "sha": "4c1a94e91cdfce68c0055cdb36b49638c04ea033"
   },
   "14": {
     "translation": "Maori",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 14,
-    "name": "Luke 14",
+    "name": "Ruka 14",
     "url": "https://api.getbible.net/v2/maori/42/14.json",
-    "sha": "91a3bfb3c35c790a17df9ca829a289fe10aaa91b"
+    "sha": "7f32510420c350b016f7e15b02750a75d610dcaa"
   },
   "15": {
     "translation": "Maori",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 15,
-    "name": "Luke 15",
+    "name": "Ruka 15",
     "url": "https://api.getbible.net/v2/maori/42/15.json",
-    "sha": "2fa1a43cc2147107b358d0481efa5e6a1bf8e95b"
+    "sha": "975dc462b508b7fa89dde4a2d4821197c1db18f4"
   },
   "16": {
     "translation": "Maori",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 16,
-    "name": "Luke 16",
+    "name": "Ruka 16",
     "url": "https://api.getbible.net/v2/maori/42/16.json",
-    "sha": "89d0833e17c1ded08cfe0ff5ecda463c81604319"
+    "sha": "58e214f46733e56b89917f4be0f02d0c62563940"
   },
   "17": {
     "translation": "Maori",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 17,
-    "name": "Luke 17",
+    "name": "Ruka 17",
     "url": "https://api.getbible.net/v2/maori/42/17.json",
-    "sha": "cc2d7dd77d45318f127c8b2440938862cec313d2"
+    "sha": "93ae3c355a07aeca1813910586db7e1c3f34e185"
   },
   "18": {
     "translation": "Maori",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 18,
-    "name": "Luke 18",
+    "name": "Ruka 18",
     "url": "https://api.getbible.net/v2/maori/42/18.json",
-    "sha": "e810e10385ebd2ccd7ea438c502545699cfc011c"
+    "sha": "e22638b3fba7be12c3c4cd578dd53ae2338a9320"
   },
   "19": {
     "translation": "Maori",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 19,
-    "name": "Luke 19",
+    "name": "Ruka 19",
     "url": "https://api.getbible.net/v2/maori/42/19.json",
-    "sha": "3e013ed9d165c9d7e29a350ead4da2f2365e8a17"
+    "sha": "5e9ff0e0f23955a25675907cb320be99d1691656"
   },
   "20": {
     "translation": "Maori",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 20,
-    "name": "Luke 20",
+    "name": "Ruka 20",
     "url": "https://api.getbible.net/v2/maori/42/20.json",
-    "sha": "63f90b6d070bff5432aa7ead9a6ccb8afd7373b7"
+    "sha": "66c296868b68efd658edd7f05a1e20ce0627a300"
   },
   "21": {
     "translation": "Maori",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 21,
-    "name": "Luke 21",
+    "name": "Ruka 21",
     "url": "https://api.getbible.net/v2/maori/42/21.json",
-    "sha": "c016353e84ac712cfb51df6742505f72193488a2"
+    "sha": "5ab76a555bc97da9472509329a5bdc2f48c58f31"
   },
   "22": {
     "translation": "Maori",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 22,
-    "name": "Luke 22",
+    "name": "Ruka 22",
     "url": "https://api.getbible.net/v2/maori/42/22.json",
-    "sha": "4d36cd1ff6359663074e8ec78f3a546621d7df9b"
+    "sha": "d145a953d5241578a18e6ce9c978407044968d9b"
   },
   "23": {
     "translation": "Maori",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 23,
-    "name": "Luke 23",
+    "name": "Ruka 23",
     "url": "https://api.getbible.net/v2/maori/42/23.json",
-    "sha": "ff52a67a0ffe8136c079b8af1836bebc682e34c5"
+    "sha": "a76abbe27f1f0d70b1bc093b1fc5f5241c4bbb08"
   },
   "24": {
     "translation": "Maori",
@@ -329,10 +329,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Ruka",
     "chapter": 24,
-    "name": "Luke 24",
+    "name": "Ruka 24",
     "url": "https://api.getbible.net/v2/maori/42/24.json",
-    "sha": "418d241b0b6cb96b3cd7d82e348902e419d78ba3"
+    "sha": "a3b73c889b1bbcc89b0484d0f5b9b90432aa1b63"
   }
 }

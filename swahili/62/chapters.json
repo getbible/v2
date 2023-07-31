@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yohana",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Yohana 1",
     "url": "https://api.getbible.net/v2/swahili/62/1.json",
-    "sha": "cfc529e28964247f81392972d80e587859541a19"
+    "sha": "f2e90a60fdb00174571068e69c851f8f12eda3ec"
   },
   "2": {
     "translation": "Swahili",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yohana",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Yohana 2",
     "url": "https://api.getbible.net/v2/swahili/62/2.json",
-    "sha": "d2558bb67525904389b8718f02d5db47d42c229f"
+    "sha": "becbc4d29890c350a306aecaec418031185054f6"
   },
   "3": {
     "translation": "Swahili",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yohana",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Yohana 3",
     "url": "https://api.getbible.net/v2/swahili/62/3.json",
-    "sha": "f0e2e6d064e2bee4995fb627a4c1812f1666143b"
+    "sha": "f0e58127163b7e10df113368999d9dd71bf0a3c5"
   },
   "4": {
     "translation": "Swahili",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yohana",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Yohana 4",
     "url": "https://api.getbible.net/v2/swahili/62/4.json",
-    "sha": "7b47be042c070f8caeaf93197491bc655962c0fe"
+    "sha": "5a02174a4714ae59cab339f7e3512896d3657901"
   },
   "5": {
     "translation": "Swahili",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yohana",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Yohana 5",
     "url": "https://api.getbible.net/v2/swahili/62/5.json",
-    "sha": "2474b1c9dc8fb5bfa0d920aecf7a753dc553b24b"
+    "sha": "014843123466e564ec16e7dc85113c15987dc775"
   }
 }

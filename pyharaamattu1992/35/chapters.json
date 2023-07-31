@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habakukin kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/35/1.json",
-    "sha": "52fc2a171fd5242d1ad163fb56fa318454acc5b8"
+    "sha": "b00a5b588c0bf3191c27b2f5416072379c402ba1"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habakukin kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/35/2.json",
-    "sha": "9f1f393cf45826470383030f187551e07236de8e"
+    "sha": "794584f5da3aaac28dc0d0252ef73677630bb30f"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habakukin kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/35/3.json",
-    "sha": "73b265242803141f14fc21975c006680b97fe9ab"
+    "sha": "b456d9c4d1aa5f670fca610f2ec65224ed8a3804"
   }
 }

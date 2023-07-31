@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "彌迦書 1",
     "url": "https://api.getbible.net/v2/cut/33/1.json",
-    "sha": "235898c3084ef50efe98ab8267e099ab169cc065"
+    "sha": "cf44f25ca4596f038d0472452d231616f20e3cfa"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "彌迦書 2",
     "url": "https://api.getbible.net/v2/cut/33/2.json",
-    "sha": "28271e5cd3441ec4a246476b81dd21129bfe1610"
+    "sha": "efe2c6c92f4bef91bf04bea02fa0caa019c60cf4"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "彌迦書 3",
     "url": "https://api.getbible.net/v2/cut/33/3.json",
-    "sha": "30860826e042741c14843dfe91d1233ab8d909bf"
+    "sha": "59974b24f4f6987dcac134e747935c2973012333"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "彌迦書 4",
     "url": "https://api.getbible.net/v2/cut/33/4.json",
-    "sha": "8d9c8ab96fb04a3d99177aa7a5ee551b5e2644ab"
+    "sha": "741613eec35bca5d4b67a3c6fb648c949f8ff331"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "彌迦書 5",
     "url": "https://api.getbible.net/v2/cut/33/5.json",
-    "sha": "8ace72238ff0ae3f1a5806745879f351328b5090"
+    "sha": "88ecadc1e927c314e8aa3aac6d02adb3389c0a48"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -81,13 +81,13 @@
     "chapter": 6,
     "name": "彌迦書 6",
     "url": "https://api.getbible.net/v2/cut/33/6.json",
-    "sha": "8a6635cb58b3a8ec0f35fba0f6ae8de002adfa8b"
+    "sha": "e82ab775a39be313f973591857ea586ec434cc85"
   },
   "7": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "彌迦書 7",
     "url": "https://api.getbible.net/v2/cut/33/7.json",
-    "sha": "df4621fa014bea48729deef7c6a9e44e91bb53ed"
+    "sha": "98412b2e7e63d74b1a624a978ec6d23ef120fafc"
   }
 }

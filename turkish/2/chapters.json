@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 1,
-    "name": "Exodus 1",
+    "name": "Mısır’dan Çıkış 1",
     "url": "https://api.getbible.net/v2/turkish/2/1.json",
-    "sha": "165e561377a5c99b60354f36af12b75771acb7d9"
+    "sha": "4952665c5a317fb62f2c74e03040703e179001b9"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 2,
-    "name": "Exodus 2",
+    "name": "Mısır’dan Çıkış 2",
     "url": "https://api.getbible.net/v2/turkish/2/2.json",
-    "sha": "56abbc90c7ba86658dbc6fc1ada1972c27dc17d4"
+    "sha": "5047de55dc627225f95f09c729dd5c2d7c510e5c"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 3,
-    "name": "Exodus 3",
+    "name": "Mısır’dan Çıkış 3",
     "url": "https://api.getbible.net/v2/turkish/2/3.json",
-    "sha": "b8de6d16b7f38f6a88fa347ccee720b6e8b0a1c1"
+    "sha": "4bfab677e221fe9aa54ea99e878dc300f83bad16"
   },
   "4": {
     "translation": "Turkish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 4,
-    "name": "Exodus 4",
+    "name": "Mısır’dan Çıkış 4",
     "url": "https://api.getbible.net/v2/turkish/2/4.json",
-    "sha": "a057e237f94b4e1e8a1723f4da43772bd47c7ea4"
+    "sha": "905b52e0c09aa907349c7422e49e4f5554f490d8"
   },
   "5": {
     "translation": "Turkish",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 5,
-    "name": "Exodus 5",
+    "name": "Mısır’dan Çıkış 5",
     "url": "https://api.getbible.net/v2/turkish/2/5.json",
-    "sha": "0c71ebd8a187d931e589201b636232ba9db17a9d"
+    "sha": "c1b725210037376ca9c9d4b2db4b5054c64e64a4"
   },
   "6": {
     "translation": "Turkish",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 6,
-    "name": "Exodus 6",
+    "name": "Mısır’dan Çıkış 6",
     "url": "https://api.getbible.net/v2/turkish/2/6.json",
-    "sha": "0482f7f21b2da5689436b7ffe0c270a4be132c5e"
+    "sha": "b4f55efa1768bd53a6bb0846b9dd9259b204e04d"
   },
   "7": {
     "translation": "Turkish",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 7,
-    "name": "Exodus 7",
+    "name": "Mısır’dan Çıkış 7",
     "url": "https://api.getbible.net/v2/turkish/2/7.json",
-    "sha": "65ead00d56dad169eb2308b813855096e347673c"
+    "sha": "20f7b27908ab5c9e2971765f3d9652485b341b6a"
   },
   "8": {
     "translation": "Turkish",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 8,
-    "name": "Exodus 8",
+    "name": "Mısır’dan Çıkış 8",
     "url": "https://api.getbible.net/v2/turkish/2/8.json",
-    "sha": "df9b41b73f654581203ac6e6237256384522132e"
+    "sha": "1fe695301383b41f0e7c09177e2dfc9759e1ef82"
   },
   "9": {
     "translation": "Turkish",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 9,
-    "name": "Exodus 9",
+    "name": "Mısır’dan Çıkış 9",
     "url": "https://api.getbible.net/v2/turkish/2/9.json",
-    "sha": "2770fa7a355ec78bf0d0b7a9ea4b2768e8453f71"
+    "sha": "3b90e6725516a0af0f1924e12de72bc153f40efe"
   },
   "10": {
     "translation": "Turkish",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 10,
-    "name": "Exodus 10",
+    "name": "Mısır’dan Çıkış 10",
     "url": "https://api.getbible.net/v2/turkish/2/10.json",
-    "sha": "05f192b5c5eaa8d7a4163cb68db56904a5faaf90"
+    "sha": "189120b046915b1d0dac1904ac65074467ea2c8d"
   },
   "11": {
     "translation": "Turkish",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 11,
-    "name": "Exodus 11",
+    "name": "Mısır’dan Çıkış 11",
     "url": "https://api.getbible.net/v2/turkish/2/11.json",
-    "sha": "34300c197ebecd858db9e44da1c2080c9a292807"
+    "sha": "3b74ee2eda38f9f85acb1dc2b31419f8908d43c0"
   },
   "12": {
     "translation": "Turkish",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 12,
-    "name": "Exodus 12",
+    "name": "Mısır’dan Çıkış 12",
     "url": "https://api.getbible.net/v2/turkish/2/12.json",
-    "sha": "2e0c58d1644cc14771081c5bbb2a4704aa5a84f1"
+    "sha": "f22ca7ea40b44305fd588300ff8b6056d1509b4e"
   },
   "13": {
     "translation": "Turkish",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 13,
-    "name": "Exodus 13",
+    "name": "Mısır’dan Çıkış 13",
     "url": "https://api.getbible.net/v2/turkish/2/13.json",
-    "sha": "e053bd371cee0a78aac08e1a6a3409e1104b3191"
+    "sha": "4ed3050cea0df3238242201d6a17090bbe245cf6"
   },
   "14": {
     "translation": "Turkish",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 14,
-    "name": "Exodus 14",
+    "name": "Mısır’dan Çıkış 14",
     "url": "https://api.getbible.net/v2/turkish/2/14.json",
-    "sha": "1e8b1100e29bf849c924ed531127e01f46b58c0f"
+    "sha": "72f7bdf38bf674c6f139d08fbd5aebabe2c45d27"
   },
   "15": {
     "translation": "Turkish",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 15,
-    "name": "Exodus 15",
+    "name": "Mısır’dan Çıkış 15",
     "url": "https://api.getbible.net/v2/turkish/2/15.json",
-    "sha": "c8d1acfeb5555101a0863d4b1ffe7908dda47e20"
+    "sha": "552854de0fa70a53399ec507298aa90ee4a88a27"
   },
   "16": {
     "translation": "Turkish",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 16,
-    "name": "Exodus 16",
+    "name": "Mısır’dan Çıkış 16",
     "url": "https://api.getbible.net/v2/turkish/2/16.json",
-    "sha": "c1ad0ddada3774487528fae7db5614d0465f3363"
+    "sha": "fd79f8ed9ad99d78ad6e541583c2cf9fb5b1a9cf"
   },
   "17": {
     "translation": "Turkish",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 17,
-    "name": "Exodus 17",
+    "name": "Mısır’dan Çıkış 17",
     "url": "https://api.getbible.net/v2/turkish/2/17.json",
-    "sha": "de2b51695b80b9a50c62e51bb9f9e7d8186927f2"
+    "sha": "ff32551e40d38626f6552af43b87aeab5ab908a3"
   },
   "18": {
     "translation": "Turkish",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 18,
-    "name": "Exodus 18",
+    "name": "Mısır’dan Çıkış 18",
     "url": "https://api.getbible.net/v2/turkish/2/18.json",
-    "sha": "3941d7b4f3f82a01d0c2f469a99efa4c4746d52f"
+    "sha": "330d1955719defa58c8a19cf9d9a73e07bb0485d"
   },
   "19": {
     "translation": "Turkish",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 19,
-    "name": "Exodus 19",
+    "name": "Mısır’dan Çıkış 19",
     "url": "https://api.getbible.net/v2/turkish/2/19.json",
-    "sha": "ed9747e4c7959a342d1503c35a174d9d962312d1"
+    "sha": "30c3afd857e74dfa0b67f378c763713424c4dcba"
   },
   "20": {
     "translation": "Turkish",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 20,
-    "name": "Exodus 20",
+    "name": "Mısır’dan Çıkış 20",
     "url": "https://api.getbible.net/v2/turkish/2/20.json",
-    "sha": "29995366ae890e55737e7f93311ad69f352a03d4"
+    "sha": "6d96c55d973324167c18b337d8bbffe0e52704c3"
   },
   "21": {
     "translation": "Turkish",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 21,
-    "name": "Exodus 21",
+    "name": "Mısır’dan Çıkış 21",
     "url": "https://api.getbible.net/v2/turkish/2/21.json",
-    "sha": "802da46ccf1722afc99ed5d9e5db566a10713c7e"
+    "sha": "6486dbbf969eb068fe869b5b96670036d396ca19"
   },
   "22": {
     "translation": "Turkish",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 22,
-    "name": "Exodus 22",
+    "name": "Mısır’dan Çıkış 22",
     "url": "https://api.getbible.net/v2/turkish/2/22.json",
-    "sha": "6db25307c62948ba8a1351d7269843e183b00cc8"
+    "sha": "913c2a690d6975c2426e867a3c362c578b1028f2"
   },
   "23": {
     "translation": "Turkish",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 23,
-    "name": "Exodus 23",
+    "name": "Mısır’dan Çıkış 23",
     "url": "https://api.getbible.net/v2/turkish/2/23.json",
-    "sha": "9dc586437620cc2bd78364f0ca0e716d5e020862"
+    "sha": "14c40ab241d306c6a8b8925c8f02c1d9942f78d7"
   },
   "24": {
     "translation": "Turkish",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 24,
-    "name": "Exodus 24",
+    "name": "Mısır’dan Çıkış 24",
     "url": "https://api.getbible.net/v2/turkish/2/24.json",
-    "sha": "90e4527dcef300d660b95aad4e688b64c678be73"
+    "sha": "8c7bafcd10ee88fe667534c8f9a7cafa5996a4fb"
   },
   "25": {
     "translation": "Turkish",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 25,
-    "name": "Exodus 25",
+    "name": "Mısır’dan Çıkış 25",
     "url": "https://api.getbible.net/v2/turkish/2/25.json",
-    "sha": "e983fc0dee9a14e25c113dafa9ee6227738ec4ba"
+    "sha": "4b22f22cfaa5cbf39af309e30a5c55281637d09b"
   },
   "26": {
     "translation": "Turkish",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 26,
-    "name": "Exodus 26",
+    "name": "Mısır’dan Çıkış 26",
     "url": "https://api.getbible.net/v2/turkish/2/26.json",
-    "sha": "a0134d9c17dcc682dcb8086535bc5a6975b1c1f0"
+    "sha": "7e3ab24a27f51237b5292f45e7b0cebc3efbda0c"
   },
   "27": {
     "translation": "Turkish",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 27,
-    "name": "Exodus 27",
+    "name": "Mısır’dan Çıkış 27",
     "url": "https://api.getbible.net/v2/turkish/2/27.json",
-    "sha": "0eb1c935b0903498513d6630d76525ea4341eee7"
+    "sha": "950876c9ac907ae91ba5138aa48699e9e4fbd494"
   },
   "28": {
     "translation": "Turkish",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 28,
-    "name": "Exodus 28",
+    "name": "Mısır’dan Çıkış 28",
     "url": "https://api.getbible.net/v2/turkish/2/28.json",
-    "sha": "f2d3840b3c1c7ee90da551b19a3a00d1c1efea36"
+    "sha": "e32d14cf75d57c991c7c146fa4cb93eb6393c0fb"
   },
   "29": {
     "translation": "Turkish",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 29,
-    "name": "Exodus 29",
+    "name": "Mısır’dan Çıkış 29",
     "url": "https://api.getbible.net/v2/turkish/2/29.json",
-    "sha": "10355609c5e086d9727423b75de06896f05fd2d3"
+    "sha": "ba738b98e13d11bab479af3cc45e396a1c6c4d79"
   },
   "30": {
     "translation": "Turkish",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 30,
-    "name": "Exodus 30",
+    "name": "Mısır’dan Çıkış 30",
     "url": "https://api.getbible.net/v2/turkish/2/30.json",
-    "sha": "99f46a9036ed9d1ad1073cadb9843912d03812a1"
+    "sha": "2938a144cc89325b1ff151474af83c7b587c8fdb"
   },
   "31": {
     "translation": "Turkish",
@@ -427,11 +427,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 31,
-    "name": "Exodus 31",
+    "name": "Mısır’dan Çıkış 31",
     "url": "https://api.getbible.net/v2/turkish/2/31.json",
-    "sha": "9fcecbe3856afdbd2ea43e0b8a60dde8275f5073"
+    "sha": "f1be6965bb21286aac8f36c398972afce791afbf"
   },
   "32": {
     "translation": "Turkish",
@@ -441,11 +441,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 32,
-    "name": "Exodus 32",
+    "name": "Mısır’dan Çıkış 32",
     "url": "https://api.getbible.net/v2/turkish/2/32.json",
-    "sha": "e82d87f09e1a79c0cc0a65907bb37a9089a6a091"
+    "sha": "c4dabcdefe828ecaec48ae0d1c54ceb899d4cbd5"
   },
   "33": {
     "translation": "Turkish",
@@ -455,11 +455,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 33,
-    "name": "Exodus 33",
+    "name": "Mısır’dan Çıkış 33",
     "url": "https://api.getbible.net/v2/turkish/2/33.json",
-    "sha": "746542913e13e16e20addbc4be5048d69a5cd5a8"
+    "sha": "8587d9f0439c3eb80dc0c7bbe8f24aacd9614418"
   },
   "34": {
     "translation": "Turkish",
@@ -469,11 +469,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 34,
-    "name": "Exodus 34",
+    "name": "Mısır’dan Çıkış 34",
     "url": "https://api.getbible.net/v2/turkish/2/34.json",
-    "sha": "5576cee87bb90735f3a2a2a4f98d3976f43b287f"
+    "sha": "c1590e01cfccf83bc3f3598902b059db8a650815"
   },
   "35": {
     "translation": "Turkish",
@@ -483,11 +483,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 35,
-    "name": "Exodus 35",
+    "name": "Mısır’dan Çıkış 35",
     "url": "https://api.getbible.net/v2/turkish/2/35.json",
-    "sha": "6c4529617e3bced7692ecd6370a14348d6235c89"
+    "sha": "04ebc7ba5347a0de0c7332d9e67ddfb5711eb9c5"
   },
   "36": {
     "translation": "Turkish",
@@ -497,11 +497,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 36,
-    "name": "Exodus 36",
+    "name": "Mısır’dan Çıkış 36",
     "url": "https://api.getbible.net/v2/turkish/2/36.json",
-    "sha": "143f15f795fa2c0ff1c0c93f8341e284239ee71d"
+    "sha": "309010811550ec578c00eefe23b6e84adaea2512"
   },
   "37": {
     "translation": "Turkish",
@@ -511,11 +511,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 37,
-    "name": "Exodus 37",
+    "name": "Mısır’dan Çıkış 37",
     "url": "https://api.getbible.net/v2/turkish/2/37.json",
-    "sha": "7a3cadfab9a8250b7adfad7ca420fd46d9c95b45"
+    "sha": "d64888c86583913a50eadb617f3978467a768086"
   },
   "38": {
     "translation": "Turkish",
@@ -525,11 +525,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 38,
-    "name": "Exodus 38",
+    "name": "Mısır’dan Çıkış 38",
     "url": "https://api.getbible.net/v2/turkish/2/38.json",
-    "sha": "fb2c983168b61d64edfdd4caf91ddf31b6e1f4ed"
+    "sha": "e769c11e244aa48e142f7bf2e164b59827bca986"
   },
   "39": {
     "translation": "Turkish",
@@ -539,11 +539,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 39,
-    "name": "Exodus 39",
+    "name": "Mısır’dan Çıkış 39",
     "url": "https://api.getbible.net/v2/turkish/2/39.json",
-    "sha": "24e63bc54fef13ba849f800c54021319e26bf5a8"
+    "sha": "cc4d0b9a92b17613ce3bbbeca653285f34ad6584"
   },
   "40": {
     "translation": "Turkish",
@@ -553,10 +553,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 2,
-    "book_name": "Exodus",
+    "book_name": "Mısır’dan Çıkış",
     "chapter": 40,
-    "name": "Exodus 40",
+    "name": "Mısır’dan Çıkış 40",
     "url": "https://api.getbible.net/v2/turkish/2/40.json",
-    "sha": "5e16b52e536edf49535867fb0cc599317c7218c8"
+    "sha": "3f345debfb0c87d05491e4f8f467c6b231286e20"
   }
 }

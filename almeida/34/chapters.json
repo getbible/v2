@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Naum",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Naum 1",
     "url": "https://api.getbible.net/v2/almeida/34/1.json",
-    "sha": "f44d5134222709d80d1f2b7775c7f64f58feae8e"
+    "sha": "b2a4823fdd1ac2b0f4e148170cbf51a777011952"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Naum",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Naum 2",
     "url": "https://api.getbible.net/v2/almeida/34/2.json",
-    "sha": "a24a85f90ddc6468b75125882ae663eda5e6f9f7"
+    "sha": "9c3b675e9551fd167e6a4b2622fe235d38a552e5"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Naum",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Naum 3",
     "url": "https://api.getbible.net/v2/almeida/34/3.json",
-    "sha": "4b8efbfad5330c9e5865f503955ef732e0a03d28"
+    "sha": "f0f27804174aef876f5b4b6cdebfdaa1498f88f1"
   }
 }

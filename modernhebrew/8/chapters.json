@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "רוּת",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "רוּת 1",
     "url": "https://api.getbible.net/v2/modernhebrew/8/1.json",
-    "sha": "b693db7bed7623396b7b76f8c36f5571d43c0472"
+    "sha": "5dd68f2269bac7a81de558064e687ad5f2351b52"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "רוּת",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "רוּת 2",
     "url": "https://api.getbible.net/v2/modernhebrew/8/2.json",
-    "sha": "be726eb4b86e28f16ff48e95282f5f99a49510db"
+    "sha": "c521dce4b573f7cdd4cbb77a80cb7cc45290893f"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "רוּת",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "רוּת 3",
     "url": "https://api.getbible.net/v2/modernhebrew/8/3.json",
-    "sha": "1c9abdfb8f3253d5a8cb3a43255cd40cad4983af"
+    "sha": "fdb4f9a44feb0eedd2c1550406c96bf82c6de847"
   },
   "4": {
     "translation": "Hebrew Modern",
@@ -49,10 +49,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "רוּת",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "רוּת 4",
     "url": "https://api.getbible.net/v2/modernhebrew/8/4.json",
-    "sha": "4fa30f23272dfa5c9d90ba684ace3aced0320d11"
+    "sha": "541275bbccefdd25dc898f022c1e16341fff62ef"
   }
 }

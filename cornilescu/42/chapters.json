@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 1,
-    "name": "Luke 1",
+    "name": "Luca 1",
     "url": "https://api.getbible.net/v2/cornilescu/42/1.json",
-    "sha": "7275349574e765e7feb01c817d39ab3e07166f96"
+    "sha": "7891ff3f3efb98c9d751cdc6a512c90c4975a94d"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 2,
-    "name": "Luke 2",
+    "name": "Luca 2",
     "url": "https://api.getbible.net/v2/cornilescu/42/2.json",
-    "sha": "417f6c21ac9923a698c9b3755e85f26afbef886a"
+    "sha": "9b695178cc651669cfb1b7a23f9081d3bf34aa22"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 3,
-    "name": "Luke 3",
+    "name": "Luca 3",
     "url": "https://api.getbible.net/v2/cornilescu/42/3.json",
-    "sha": "07031e845979d016d601b2280bed3d74710ab9a1"
+    "sha": "14c17a8a23f7783a1dd4b3ed6deb1c42bbf8a2e7"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 4,
-    "name": "Luke 4",
+    "name": "Luca 4",
     "url": "https://api.getbible.net/v2/cornilescu/42/4.json",
-    "sha": "63f8dae81a2158bb000616b6795ca189259bd473"
+    "sha": "49c9f0465cb213848f171edd22815b49207609ee"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 5,
-    "name": "Luke 5",
+    "name": "Luca 5",
     "url": "https://api.getbible.net/v2/cornilescu/42/5.json",
-    "sha": "8aab09d1e5e0211a9b41fd28ce9a361f99652e97"
+    "sha": "c4516ead672bd9b191702b7443abad9158920946"
   },
   "6": {
     "translation": "Cornilescu",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 6,
-    "name": "Luke 6",
+    "name": "Luca 6",
     "url": "https://api.getbible.net/v2/cornilescu/42/6.json",
-    "sha": "56f16f55036c9ffb19aa7fca006de5021c99d718"
+    "sha": "09e2a7852e65e83dc4358bff7eefc01b992954e0"
   },
   "7": {
     "translation": "Cornilescu",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 7,
-    "name": "Luke 7",
+    "name": "Luca 7",
     "url": "https://api.getbible.net/v2/cornilescu/42/7.json",
-    "sha": "b39ee59ef2cc734664139ed412bc8a54f75702d8"
+    "sha": "474430f5eccaff0bc1670a67ee1ddf807b0f997c"
   },
   "8": {
     "translation": "Cornilescu",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 8,
-    "name": "Luke 8",
+    "name": "Luca 8",
     "url": "https://api.getbible.net/v2/cornilescu/42/8.json",
-    "sha": "8e215b69920df0a7db105368a4c3785740590a23"
+    "sha": "6a441b01550462cd01e8ce68dc91abb439bd7614"
   },
   "9": {
     "translation": "Cornilescu",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 9,
-    "name": "Luke 9",
+    "name": "Luca 9",
     "url": "https://api.getbible.net/v2/cornilescu/42/9.json",
-    "sha": "f9e191b92a8882aae812dbc098c40552b718a0cf"
+    "sha": "e6bfd40dc29aa980f662a638ef4717f78b4a79f4"
   },
   "10": {
     "translation": "Cornilescu",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 10,
-    "name": "Luke 10",
+    "name": "Luca 10",
     "url": "https://api.getbible.net/v2/cornilescu/42/10.json",
-    "sha": "a33f52b764a0ecc77f0f2c6a8630dde32ec2c2ab"
+    "sha": "084dfc38c301dd18ee4862cf6f1211b00019d718"
   },
   "11": {
     "translation": "Cornilescu",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 11,
-    "name": "Luke 11",
+    "name": "Luca 11",
     "url": "https://api.getbible.net/v2/cornilescu/42/11.json",
-    "sha": "6c192d4e8c15142ecbef350ca6e2c4d970ce2dd3"
+    "sha": "7fb40321f12a18b54f968a4497a057b3dfbed46d"
   },
   "12": {
     "translation": "Cornilescu",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 12,
-    "name": "Luke 12",
+    "name": "Luca 12",
     "url": "https://api.getbible.net/v2/cornilescu/42/12.json",
-    "sha": "702e6e644a13943f15099dccc8c461f3c7aed030"
+    "sha": "8890c68e70d894ad68f77db1d41ad1fc280340f0"
   },
   "13": {
     "translation": "Cornilescu",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 13,
-    "name": "Luke 13",
+    "name": "Luca 13",
     "url": "https://api.getbible.net/v2/cornilescu/42/13.json",
-    "sha": "b8bbb1f44616a75a1b796606bf23d2f001c74de4"
+    "sha": "f28aaee973d6a260334d3d42145dc5c6952d8d6e"
   },
   "14": {
     "translation": "Cornilescu",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 14,
-    "name": "Luke 14",
+    "name": "Luca 14",
     "url": "https://api.getbible.net/v2/cornilescu/42/14.json",
-    "sha": "d7f910860ef0ee1c2b3d1543a2f1e0bd504e2487"
+    "sha": "d1f8d038504dc90246e6cb9a9c782e33936b024d"
   },
   "15": {
     "translation": "Cornilescu",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 15,
-    "name": "Luke 15",
+    "name": "Luca 15",
     "url": "https://api.getbible.net/v2/cornilescu/42/15.json",
-    "sha": "4b959913b32781b8fbaed6b6f4de17716bb7ca80"
+    "sha": "c04d7cfe05e5e18233c836353e4f0549bfd2c765"
   },
   "16": {
     "translation": "Cornilescu",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 16,
-    "name": "Luke 16",
+    "name": "Luca 16",
     "url": "https://api.getbible.net/v2/cornilescu/42/16.json",
-    "sha": "a7b5bd5260982db7443c4ebf38fbe620a0e96924"
+    "sha": "225bd8212de412ad9767529253fd7daa47a434bb"
   },
   "17": {
     "translation": "Cornilescu",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 17,
-    "name": "Luke 17",
+    "name": "Luca 17",
     "url": "https://api.getbible.net/v2/cornilescu/42/17.json",
-    "sha": "85cdf7f8c668e9ba07282d076170ee691ff877c7"
+    "sha": "e75764400ae2cb5ced989f91cb48ab5894706247"
   },
   "18": {
     "translation": "Cornilescu",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 18,
-    "name": "Luke 18",
+    "name": "Luca 18",
     "url": "https://api.getbible.net/v2/cornilescu/42/18.json",
-    "sha": "778b6bc646c3f4569efd4893aafeb4249cf35ebf"
+    "sha": "ee3e81eef932e57355d35ee4880526b1fc3b2aa9"
   },
   "19": {
     "translation": "Cornilescu",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 19,
-    "name": "Luke 19",
+    "name": "Luca 19",
     "url": "https://api.getbible.net/v2/cornilescu/42/19.json",
-    "sha": "4020f91a3b1a58d11e715d321d68d7c80d239131"
+    "sha": "c890fb64cc79e8532827ad14e83db9fc7d5c62f7"
   },
   "20": {
     "translation": "Cornilescu",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 20,
-    "name": "Luke 20",
+    "name": "Luca 20",
     "url": "https://api.getbible.net/v2/cornilescu/42/20.json",
-    "sha": "7fdb4a2f498e035b256d032c187e1ed335deaec0"
+    "sha": "7136430194a756df55dbf70a3bbed0c9931e698c"
   },
   "21": {
     "translation": "Cornilescu",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 21,
-    "name": "Luke 21",
+    "name": "Luca 21",
     "url": "https://api.getbible.net/v2/cornilescu/42/21.json",
-    "sha": "55752f5b71eaeed29b6ec1fa65b00bee16114675"
+    "sha": "357f593396b8651511f4b1b8a4425ac093bb9d93"
   },
   "22": {
     "translation": "Cornilescu",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 22,
-    "name": "Luke 22",
+    "name": "Luca 22",
     "url": "https://api.getbible.net/v2/cornilescu/42/22.json",
-    "sha": "68e212be5a9cffb1c11f4db3ba8a16ade9b67a1b"
+    "sha": "43566159e7eae14f2a5c4e02905684c4453c2481"
   },
   "23": {
     "translation": "Cornilescu",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 23,
-    "name": "Luke 23",
+    "name": "Luca 23",
     "url": "https://api.getbible.net/v2/cornilescu/42/23.json",
-    "sha": "680afb2a506c5c7a5d78cf0970da0f8a73020f01"
+    "sha": "87fcc0de09f460cb35b82de38a5dbb30b57d7463"
   },
   "24": {
     "translation": "Cornilescu",
@@ -329,10 +329,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Luca",
     "chapter": 24,
-    "name": "Luke 24",
+    "name": "Luca 24",
     "url": "https://api.getbible.net/v2/cornilescu/42/24.json",
-    "sha": "dd54691654029f06460aacd13052e1e562b6c4e9"
+    "sha": "a0362af0235d4c82655ba29559dad915a298ac7d"
   }
 }

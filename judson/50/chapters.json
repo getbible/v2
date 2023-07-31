@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ဖီလီပီ",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "ဖီလီပီ 1",
     "url": "https://api.getbible.net/v2/judson/50/1.json",
-    "sha": "deffb46c14132dfcfde3fad6ae7703493d45b4ac"
+    "sha": "79cffcac7599339242cff8dd72dbabe0ffa6ee86"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ဖီလီပီ",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "ဖီလီပီ 2",
     "url": "https://api.getbible.net/v2/judson/50/2.json",
-    "sha": "3736856fba3240379cd498629109b8142c0309f4"
+    "sha": "ceef34d1b5aeb5910fab56a2e535f7884245def3"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ဖီလီပီ",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "ဖီလီပီ 3",
     "url": "https://api.getbible.net/v2/judson/50/3.json",
-    "sha": "9bbfea551f230d9e857d580d3597df568a868622"
+    "sha": "2575b997611a591f5a788878aa62f4dcfe15d2b6"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ဖီလီပီ",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "ဖီလီပီ 4",
     "url": "https://api.getbible.net/v2/judson/50/4.json",
-    "sha": "6ec5273eb15e56ec4057018e8cb2fd9086514d1b"
+    "sha": "b84321c4c74d440ec11f5b66fa5b1f0feaff1a3d"
   }
 }

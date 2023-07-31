@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "Προς Θεσσαλονικείς Α' 1",
     "url": "https://api.getbible.net/v2/tischendorf/52/1.json",
-    "sha": "814a9cd6b3c30e9750c2cd26534489feb95c77ed"
+    "sha": "e880989fc4f0b7d6918dd6b543b286e3935ba64f"
   },
   "2": {
     "translation": "NT Tischendorf 8th Ed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "Προς Θεσσαλονικείς Α' 2",
     "url": "https://api.getbible.net/v2/tischendorf/52/2.json",
-    "sha": "9eb0aa7c37724dc9d5bcd2a15012c0e447e889f2"
+    "sha": "ae6939dc2ef42be7a6705252b589e8d9939c06d7"
   },
   "3": {
     "translation": "NT Tischendorf 8th Ed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "Προς Θεσσαλονικείς Α' 3",
     "url": "https://api.getbible.net/v2/tischendorf/52/3.json",
-    "sha": "cfbed7cf070d027f4913f7b037bee545e01c9f51"
+    "sha": "524c588b7acd259a6afe5cfe72dd7bdceccb5bcb"
   },
   "4": {
     "translation": "NT Tischendorf 8th Ed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "Προς Θεσσαλονικείς Α' 4",
     "url": "https://api.getbible.net/v2/tischendorf/52/4.json",
-    "sha": "3c60988b1180c3374cd85ec332e053b146d5c632"
+    "sha": "310ff3f5e089daf856239797b9e83577b60efd6d"
   },
   "5": {
     "translation": "NT Tischendorf 8th Ed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "Προς Θεσσαλονικείς Α' 5",
     "url": "https://api.getbible.net/v2/tischendorf/52/5.json",
-    "sha": "65735f76b94cc7da54fb6f9ec1972f86fcdee774"
+    "sha": "27cff07713c37522da87d7a7027b43d1b74a4d4f"
   }
 }

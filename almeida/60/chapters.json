@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Pedro 1",
     "url": "https://api.getbible.net/v2/almeida/60/1.json",
-    "sha": "c2debb8230aec313c46ce7d78f9a896419cfcf05"
+    "sha": "c50104616a250d588740f64b4bf3431face00ae2"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Pedro 2",
     "url": "https://api.getbible.net/v2/almeida/60/2.json",
-    "sha": "452987d97c5ccb112c88f5b829d78252ee6ff33c"
+    "sha": "93f8ac9749cc513e0d6efd81219214f7baf8fa83"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Pedro 3",
     "url": "https://api.getbible.net/v2/almeida/60/3.json",
-    "sha": "7f37150ec45c8448baaf2a557a3f769d28be6546"
+    "sha": "a683590d59f96021088565c1a13fafb9023d05b0"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Pedro 4",
     "url": "https://api.getbible.net/v2/almeida/60/4.json",
-    "sha": "4d65ea0395046078095928f1afc1008441b9a16b"
+    "sha": "ddb5973b5ab19e286d35a1c5151cd7757cf0a2b5"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Pedro 5",
     "url": "https://api.getbible.net/v2/almeida/60/5.json",
-    "sha": "d0ee952420b7c8e33b4fdf081477154c25da9eac"
+    "sha": "6386f2bd555b8c75b7adea521d42dd1efa528723"
   }
 }

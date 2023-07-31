@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pietro",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Pietro 1",
     "url": "https://api.getbible.net/v2/riveduta/60/1.json",
-    "sha": "480d199dd4f45d075b0984b6dd3642956b491e24"
+    "sha": "35379f59866a883d241b83b3610ad0924df70129"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pietro",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Pietro 2",
     "url": "https://api.getbible.net/v2/riveduta/60/2.json",
-    "sha": "07a5145fb832cdb29d4f68cdfd3cb8c091e3595b"
+    "sha": "2b52b0295e8af7029cb6b4366694b8c15c80a308"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pietro",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Pietro 3",
     "url": "https://api.getbible.net/v2/riveduta/60/3.json",
-    "sha": "c2a06e980d67cffcd4ea9ace5aa65ee20551df72"
+    "sha": "f61aefc522830ce20f14438bf57a695e871840ad"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pietro",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Pietro 4",
     "url": "https://api.getbible.net/v2/riveduta/60/4.json",
-    "sha": "876565815a05003b84984c80964e64f92b69fd8e"
+    "sha": "bd01a31667a403c155f5e491e4e57da225d1d581"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pietro",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Pietro 5",
     "url": "https://api.getbible.net/v2/riveduta/60/5.json",
-    "sha": "774d6def1174d63bb17677ee85b71817365542cd"
+    "sha": "ae62ab4af7454c9a1fc942d35e25223d02f0aed4"
   }
 }

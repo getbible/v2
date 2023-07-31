@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteovi",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timoteovi 1",
     "url": "https://api.getbible.net/v2/bkr/54/1.json",
-    "sha": "056df04a68e147d87a3b14c189e7825ff8c6975c"
+    "sha": "1b3cd2216debf7d9331add245781342ed85d5fe6"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteovi",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timoteovi 2",
     "url": "https://api.getbible.net/v2/bkr/54/2.json",
-    "sha": "52a78d6fe948e9e425a81a10f47230524b991dce"
+    "sha": "5ed3b958595830c7c6927480b97e260ec8ecd6fa"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteovi",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timoteovi 3",
     "url": "https://api.getbible.net/v2/bkr/54/3.json",
-    "sha": "f5c782ebf08d6afb6a864ffc18e5744467593455"
+    "sha": "14b0a54ca0571c41e368e93a3bb2599d78d2d2f9"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteovi",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timoteovi 4",
     "url": "https://api.getbible.net/v2/bkr/54/4.json",
-    "sha": "5e944bb243fbe20db7093d500de1761029dbcd94"
+    "sha": "6de2d03811d6dc0cefc730220cc56005ddbd15c3"
   },
   "5": {
     "translation": "Czech BKR",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteovi",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timoteovi 5",
     "url": "https://api.getbible.net/v2/bkr/54/5.json",
-    "sha": "b6f047f14333a5b4c70ac1bf00348d81af6b8e43"
+    "sha": "1215fab9a4286d9c2b872af51f50ea92fc9bab9d"
   },
   "6": {
     "translation": "Czech BKR",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteovi",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timoteovi 6",
     "url": "https://api.getbible.net/v2/bkr/54/6.json",
-    "sha": "8a65194a296a3d5bb46c68c12c8b56af13edb51f"
+    "sha": "b686de419810876382cd9d474adc03c2da34678d"
   }
 }

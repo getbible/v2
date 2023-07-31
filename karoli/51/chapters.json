@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosséiakhoz írt levél",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Kolosséiakhoz írt levél 1",
     "url": "https://api.getbible.net/v2/karoli/51/1.json",
-    "sha": "30f89b3b922c68f3b38a57ab34cc35e2b72e1f1f"
+    "sha": "8960a6196007d176689ef272930b4db197ee7978"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosséiakhoz írt levél",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Kolosséiakhoz írt levél 2",
     "url": "https://api.getbible.net/v2/karoli/51/2.json",
-    "sha": "74b4e45f81dd29651f3e2e352e7882fff0264c84"
+    "sha": "feb3636284e651a7104f4bcf1c868bd84f67692b"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosséiakhoz írt levél",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Kolosséiakhoz írt levél 3",
     "url": "https://api.getbible.net/v2/karoli/51/3.json",
-    "sha": "33929a1412a2579799976e43f7697d5069afbff5"
+    "sha": "1e50f592170d0d774d97343105ecbb58d988aead"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosséiakhoz írt levél",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Kolosséiakhoz írt levél 4",
     "url": "https://api.getbible.net/v2/karoli/51/4.json",
-    "sha": "2030b4cf3ba546e492fe9d46e2679e0d7f24b31f"
+    "sha": "8a8be7556532b82684f2e67cce0a48875473570b"
   }
 }

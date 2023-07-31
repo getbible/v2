@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Toinen Pietarin kirje",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "Toinen Pietarin kirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/61/1.json",
-    "sha": "7e4125b2b6d9dc7686554e82bf4b905929bef21e"
+    "sha": "08ce1a39d14fdfa285bed5b88001d9b946aa093e"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Toinen Pietarin kirje",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "Toinen Pietarin kirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/61/2.json",
-    "sha": "95aa8b045b223f270561ec8e6fa7045c7d3c9c17"
+    "sha": "81310cb703faffe964a345f804e143a73867d8c7"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Toinen Pietarin kirje",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "Toinen Pietarin kirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/61/3.json",
-    "sha": "b3b906d128c27f082444a40dc67c1988744832b6"
+    "sha": "4003364b39b38b2cd4ba1f88cd4638f80fcea5e6"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "哈该书 1",
     "url": "https://api.getbible.net/v2/cus/37/1.json",
-    "sha": "83afd7ebb02ecdfa2bd96e748194fd984add4119"
+    "sha": "b5d167d1c13f3315aab64569812b1ac00c47f660"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "哈该书 2",
     "url": "https://api.getbible.net/v2/cus/37/2.json",
-    "sha": "68803cf10457f79e80cfb7cf2a788de62c20c352"
+    "sha": "827d77c182c6021e7c64d5d22cc11029709285e5"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Ⲧⲓⲧⲟⲥ",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Ⲧⲓⲧⲟⲥ 1",
     "url": "https://api.getbible.net/v2/sahidic/56/1.json",
-    "sha": "816f5339fbd0f1be59171946b32a1a5b9ac6c790"
+    "sha": "57e30416337c711b715ca46cb9d2a33ca9cb715b"
   },
   "2": {
     "translation": "Sahidic NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Ⲧⲓⲧⲟⲥ",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Ⲧⲓⲧⲟⲥ 2",
     "url": "https://api.getbible.net/v2/sahidic/56/2.json",
-    "sha": "56d72c3646b15822eab4386f0e916fd8f5288b9c"
+    "sha": "510b20965fb28c3415abca3bd4844754fa8e9263"
   },
   "3": {
     "translation": "Sahidic NT",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Ⲧⲓⲧⲟⲥ",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Ⲧⲓⲧⲟⲥ 3",
     "url": "https://api.getbible.net/v2/sahidic/56/3.json",
-    "sha": "cc6288fa9ab2319d623bd90c586ecf70776cce88"
+    "sha": "f903c428ef66db5f7dcf32d5bd28d3db494aae2d"
   }
 }

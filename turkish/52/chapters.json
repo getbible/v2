@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Selanikliler’e",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Selanikliler’e 1",
     "url": "https://api.getbible.net/v2/turkish/52/1.json",
-    "sha": "9e2b1a4f705c4275ff91f38c995c0c5263838a6d"
+    "sha": "85ca3e9986e0377ee400e876425edddc99027029"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Selanikliler’e",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Selanikliler’e 2",
     "url": "https://api.getbible.net/v2/turkish/52/2.json",
-    "sha": "e55b21dfb5ee9bf694c0da336a48bba49bf0e3a7"
+    "sha": "07f993cc561b3d19b5b21893e0f65554ce79ee47"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Selanikliler’e",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Selanikliler’e 3",
     "url": "https://api.getbible.net/v2/turkish/52/3.json",
-    "sha": "d18af8fe88cb17a47ee154bd5123007b9e0a0c41"
+    "sha": "63749386a6227b0adc0aa619786055094bc18cd7"
   },
   "4": {
     "translation": "Turkish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Selanikliler’e",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Selanikliler’e 4",
     "url": "https://api.getbible.net/v2/turkish/52/4.json",
-    "sha": "89b0855c12b5b552f20ff9066c6d1dcca184e628"
+    "sha": "9295931b1d146ce96401dd20a6b3db3fde21c9dc"
   },
   "5": {
     "translation": "Turkish",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Selanikliler’e",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Selanikliler’e 5",
     "url": "https://api.getbible.net/v2/turkish/52/5.json",
-    "sha": "dedc53cf97e547917a9a2724b35e1583dc450a36"
+    "sha": "e2116e09c1cb2c5c9ce7578ea86110f6166bb57b"
   }
 }

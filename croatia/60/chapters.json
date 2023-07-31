@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrova",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Petrova 1",
     "url": "https://api.getbible.net/v2/croatia/60/1.json",
-    "sha": "bfda737bc0c16de2d50b218e5e89413af563d4e1"
+    "sha": "1f17816d6920f789c0416987d4779608f48668df"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrova",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Petrova 2",
     "url": "https://api.getbible.net/v2/croatia/60/2.json",
-    "sha": "64bb00cb26102aade4d8a9337e407a9f7c93b8dd"
+    "sha": "c4d61a0855cbee87f65416dffdcac9b65b4b6f9b"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrova",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Petrova 3",
     "url": "https://api.getbible.net/v2/croatia/60/3.json",
-    "sha": "d9b90ed135e927d0147395cdd09618801d487e8a"
+    "sha": "fb3e003c679f21f4e320226f571a76a8e3f2c3c6"
   },
   "4": {
     "translation": "Croatian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrova",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Petrova 4",
     "url": "https://api.getbible.net/v2/croatia/60/4.json",
-    "sha": "5136d0eb48151f67da174b7c68fe0a708f206ad3"
+    "sha": "31caee237314c3aa79894ac8ee9b734c8aae3763"
   },
   "5": {
     "translation": "Croatian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrova",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Petrova 5",
     "url": "https://api.getbible.net/v2/croatia/60/5.json",
-    "sha": "a16b68e6534bd816299a6cf515bb0ab994ca40fb"
+    "sha": "8b29486a55742682be977d449a2bced7288a17a1"
   }
 }

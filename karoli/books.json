@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Teremtés könyve",
     "url": "https://api.getbible.net/v2/karoli/1.json",
-    "sha": "3b4034357f2a65ccb71b76c73b391e656e754efa"
+    "sha": "4f912f2974d2d2865fd47f179e0a6afebf0394f7"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Kivonulás könyve",
     "url": "https://api.getbible.net/v2/karoli/2.json",
-    "sha": "e16ec4017711b771f5f3ac3966c212e190eeb0f7"
+    "sha": "d930618b4d191bbb144c88c0833c4ecaa7804acf"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Leviták könyve",
     "url": "https://api.getbible.net/v2/karoli/3.json",
-    "sha": "c3ea51038ce54a03345fa3330c5a1c1a138d1669"
+    "sha": "a5bdfcfbf320ea76c7d5effecc515c87fefb8954"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Számok könyve",
     "url": "https://api.getbible.net/v2/karoli/4.json",
-    "sha": "15f4a537a8265ccdea12a7d46c2dbb44b71320b1"
+    "sha": "0baaaa47dd368b545955defa0c3a25b5292e5da4"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Második törvénykönyv",
     "url": "https://api.getbible.net/v2/karoli/5.json",
-    "sha": "6185e27035a8219ba60fdc6330475dc7854b7090"
+    "sha": "430ce23ae09a4e297f9b3ee1b6e509c4094030ae"
   },
   "6": {
     "translation": "Hungarian Karoli",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Józsué könyve",
     "url": "https://api.getbible.net/v2/karoli/6.json",
-    "sha": "f2ae223325f1b3a6e9ab7719ff755d918d04c208"
+    "sha": "806104c395785ae2d32a489e70dacd41e381481f"
   },
   "7": {
     "translation": "Hungarian Karoli",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Bírák könyve",
     "url": "https://api.getbible.net/v2/karoli/7.json",
-    "sha": "1f3e433481845c72fec84831779fd32b8191007a"
+    "sha": "c7e1a100ddf1fc95e43885018d1ef640c268eef8"
   },
   "8": {
     "translation": "Hungarian Karoli",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Ruth könyve",
     "url": "https://api.getbible.net/v2/karoli/8.json",
-    "sha": "95298bb2caf934c352c2fddf946fdea06b1b2c16"
+    "sha": "c2f95bef0fc382f6fb612b9022aa7610b7cf31b8"
   },
   "9": {
     "translation": "Hungarian Karoli",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "1 Sámuel könyve",
     "url": "https://api.getbible.net/v2/karoli/9.json",
-    "sha": "8e9a4e6335b1f4b166f1107569f1ea773b41086e"
+    "sha": "69732e7a4dec68a44fbb0eead04c5c387f4d23fb"
   },
   "10": {
     "translation": "Hungarian Karoli",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "2 Sámuel könyve",
     "url": "https://api.getbible.net/v2/karoli/10.json",
-    "sha": "d1a13057886034d3384376e3217c401b5072053d"
+    "sha": "ea618caf7cf7bf9fa9c5bfbf62c582179cc760af"
   },
   "11": {
     "translation": "Hungarian Karoli",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Királyok könyve",
     "url": "https://api.getbible.net/v2/karoli/11.json",
-    "sha": "61d13634f0777b597e53c57323597bca72959ff4"
+    "sha": "4a692e44e41b58a2944a88f72071bfaba3ab52d8"
   },
   "12": {
     "translation": "Hungarian Karoli",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Királyok könyve",
     "url": "https://api.getbible.net/v2/karoli/12.json",
-    "sha": "c1185217f2d8c97aef3ad11e3a4fef3a55f63a86"
+    "sha": "27a89ee9519c1022d2a536efdd1b775ea81f4596"
   },
   "13": {
     "translation": "Hungarian Karoli",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Krónikák könyve",
     "url": "https://api.getbible.net/v2/karoli/13.json",
-    "sha": "1c72495f1ab86228af1043aa9f142cf5435cc6a2"
+    "sha": "7589bc3b29ce5db03a6aa443da3fe28f19fc3672"
   },
   "14": {
     "translation": "Hungarian Karoli",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Krónikák könyve",
     "url": "https://api.getbible.net/v2/karoli/14.json",
-    "sha": "c30ec5fbcd7ad047fae99620b098ccafa5a59a7f"
+    "sha": "48face62a143acc09f5b78c2543aeb1df6046d9e"
   },
   "15": {
     "translation": "Hungarian Karoli",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Ezdrás könyve",
     "url": "https://api.getbible.net/v2/karoli/15.json",
-    "sha": "dd20c129026f107b05b1eb5817c7e507868dd6c5"
+    "sha": "2ef4932c8bf0d409558f8af820d7a5dc369ee974"
   },
   "16": {
     "translation": "Hungarian Karoli",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehémiás könyve",
     "url": "https://api.getbible.net/v2/karoli/16.json",
-    "sha": "0cbf380a02e350e62a8850474ade8465cc00f49e"
+    "sha": "4627e61880e5cf8a718320f8471deae554d97de9"
   },
   "17": {
     "translation": "Hungarian Karoli",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Eszter könyve",
     "url": "https://api.getbible.net/v2/karoli/17.json",
-    "sha": "143a1301d1472877552e16c10a8b2f7fabb7b21e"
+    "sha": "a2314a17e9d91bee6ac40c5d9491a9e8494373b0"
   },
   "18": {
     "translation": "Hungarian Karoli",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Jób könyve",
     "url": "https://api.getbible.net/v2/karoli/18.json",
-    "sha": "3901a56fb88f490c27312efef1f3ac7237a57924"
+    "sha": "3555d2115dd5669e025c68e89b78fcb035797ae7"
   },
   "19": {
     "translation": "Hungarian Karoli",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Zsoltárok könyve",
     "url": "https://api.getbible.net/v2/karoli/19.json",
-    "sha": "823f095ea6153002465e9a6179e6fab267829c6d"
+    "sha": "7bb503a5014809cb8fe374db21a956e85aee5881"
   },
   "20": {
     "translation": "Hungarian Karoli",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Példabeszédek könyve",
     "url": "https://api.getbible.net/v2/karoli/20.json",
-    "sha": "4fa5d6a61537afe4395305074e7d2ff813941e2b"
+    "sha": "88c78a2f367dfdbed459e07fdfb1940033d9898f"
   },
   "21": {
     "translation": "Hungarian Karoli",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Prédikátor könyve",
     "url": "https://api.getbible.net/v2/karoli/21.json",
-    "sha": "55d30890681cddb69c02da5f0f1c68a43a03fe50"
+    "sha": "152651c38a08669c3bfebc761e71a3a820446fe3"
   },
   "22": {
     "translation": "Hungarian Karoli",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Énekek éneke",
     "url": "https://api.getbible.net/v2/karoli/22.json",
-    "sha": "c56c4890c5581f3b75e2026b4f8307d867cdd034"
+    "sha": "cc6d0bc815e65244b9daec4ea7164940d422040e"
   },
   "23": {
     "translation": "Hungarian Karoli",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Ézsaiás könyve",
     "url": "https://api.getbible.net/v2/karoli/23.json",
-    "sha": "c423a20b78950f6862723663740ab9f0b9dd47bf"
+    "sha": "5bf23621b368fbaf7081fe690e9219f729b1ed8d"
   },
   "24": {
     "translation": "Hungarian Karoli",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremiás könyve",
     "url": "https://api.getbible.net/v2/karoli/24.json",
-    "sha": "a9d082f08a839c783c6a4f6854328ac8c8da1fae"
+    "sha": "31cdf0c210fd7995f93e9f96f61c0b89e21797ef"
   },
   "25": {
     "translation": "Hungarian Karoli",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Jeremiás siralmai",
     "url": "https://api.getbible.net/v2/karoli/25.json",
-    "sha": "4060e920791696447d75784c0ea66ca92575d599"
+    "sha": "b334d3dcac0aefed81746ecd6e2bb5dc36664d7b"
   },
   "26": {
     "translation": "Hungarian Karoli",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezékiel könyve",
     "url": "https://api.getbible.net/v2/karoli/26.json",
-    "sha": "9c770ec65b94dbc8858a70c609463c71aee0a8a1"
+    "sha": "18ff62833acc687c5890252e8feec1c5b50b5dbb"
   },
   "27": {
     "translation": "Hungarian Karoli",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Dániel könyve",
     "url": "https://api.getbible.net/v2/karoli/27.json",
-    "sha": "2eda948e468337360058d814986a2e0679b84451"
+    "sha": "945309b299f81a7309f9b025b38d831b66e61abe"
   },
   "28": {
     "translation": "Hungarian Karoli",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Hóseás könyve",
     "url": "https://api.getbible.net/v2/karoli/28.json",
-    "sha": "635f5441770c3a09bc8cabcbb4b75034cccbae5f"
+    "sha": "4217c946561626b7dea7afdbb0fa7b57e8c0a77a"
   },
   "29": {
     "translation": "Hungarian Karoli",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Joel könyve",
     "url": "https://api.getbible.net/v2/karoli/29.json",
-    "sha": "b4a33117f70afc28466fcf59634df38723a0237e"
+    "sha": "a827edbb1dc7b640120aa06aa71fecc4b08633ee"
   },
   "30": {
     "translation": "Hungarian Karoli",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Ámosz könyve",
     "url": "https://api.getbible.net/v2/karoli/30.json",
-    "sha": "9b1924c89d7450b90bef3c0505cef764996902ee"
+    "sha": "faeff64762eeeff69aa3a88b349265e5709d4d85"
   },
   "31": {
     "translation": "Hungarian Karoli",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadiás könyve",
     "url": "https://api.getbible.net/v2/karoli/31.json",
-    "sha": "980abf3f05c0422f0173358b1b61bacdf1be83de"
+    "sha": "fb518f4403541fb163de160a1bd30102842ec63b"
   },
   "32": {
     "translation": "Hungarian Karoli",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jónás könyve",
     "url": "https://api.getbible.net/v2/karoli/32.json",
-    "sha": "0f8d6d123d9d74bfee8cad44a6f44fe6d8ba2554"
+    "sha": "782e1354eae05c830fa0c502a0965397d1021cd8"
   },
   "33": {
     "translation": "Hungarian Karoli",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Miká könyve",
     "url": "https://api.getbible.net/v2/karoli/33.json",
-    "sha": "aa0fe0ad0d74f4df0d95b4d8b0be5bc8714e39e2"
+    "sha": "2523c00a5e49fea496bd9a8253b5c4120502599a"
   },
   "34": {
     "translation": "Hungarian Karoli",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Náhum könyve",
     "url": "https://api.getbible.net/v2/karoli/34.json",
-    "sha": "7569b23f67ed73d2f410a2f3a480f2a645ea1b66"
+    "sha": "2dd2f2842b245d1a96428185f692674bd8c86dfa"
   },
   "35": {
     "translation": "Hungarian Karoli",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habakuk könyve",
     "url": "https://api.getbible.net/v2/karoli/35.json",
-    "sha": "d927b64cda6aa9652a19044c9418a2713dc01404"
+    "sha": "55cbbf429bfa31da9c2ca3daea4cfa111201a17b"
   },
   "36": {
     "translation": "Hungarian Karoli",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Szofoniás könyve",
     "url": "https://api.getbible.net/v2/karoli/36.json",
-    "sha": "399ec1c76e34ab3dc18afe83854324424dc702b0"
+    "sha": "d46f5f9719b849c8f38b7b601752961f19e92866"
   },
   "37": {
     "translation": "Hungarian Karoli",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Aggeus könyve",
     "url": "https://api.getbible.net/v2/karoli/37.json",
-    "sha": "b1f120f2c17dbcc5635e05e33fdaec74d7284031"
+    "sha": "69c97c385fee12290111ae0335ec091e173a3ba1"
   },
   "38": {
     "translation": "Hungarian Karoli",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zakariás könyve",
     "url": "https://api.getbible.net/v2/karoli/38.json",
-    "sha": "9c4ce72cdb4e17b26388a61476e9598ed9d84c7e"
+    "sha": "8e302ebde15a0f8ca0ef4a9ab282c0307040acf2"
   },
   "39": {
     "translation": "Hungarian Karoli",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malakiás könyve",
     "url": "https://api.getbible.net/v2/karoli/39.json",
-    "sha": "749a62edc58c41fba7befccc2b2c4e95c34af339"
+    "sha": "ba484f5c00d4f570fbae2d29e06a845fe791beb1"
   },
   "40": {
     "translation": "Hungarian Karoli",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Máté evangéliuma",
     "url": "https://api.getbible.net/v2/karoli/40.json",
-    "sha": "c793fde19f23640c665af616485f734a0ee16a88"
+    "sha": "03aefa0ad59c7168b137f341ea22590d9a480e7c"
   },
   "41": {
     "translation": "Hungarian Karoli",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Márk evangéliuma",
     "url": "https://api.getbible.net/v2/karoli/41.json",
-    "sha": "b043a925afd9d15339f92a05db78207aa51c4b39"
+    "sha": "e283965c1301f8c830f6710f02086360d912b356"
   },
   "42": {
     "translation": "Hungarian Karoli",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lukács evangéliuma",
     "url": "https://api.getbible.net/v2/karoli/42.json",
-    "sha": "8851ae10d81ad67956a8e437c7d8220349d9586a"
+    "sha": "abe2b5e07456253653737e2cff4dc79bc7548133"
   },
   "43": {
     "translation": "Hungarian Karoli",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "János evangéliuma",
     "url": "https://api.getbible.net/v2/karoli/43.json",
-    "sha": "f6529bdd0f95fcda765b25769af4f4a002c1feb2"
+    "sha": "3f019d0be6535b1624d55de5aaf75d25f1d47b32"
   },
   "44": {
     "translation": "Hungarian Karoli",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Apostolok cselekedetei",
     "url": "https://api.getbible.net/v2/karoli/44.json",
-    "sha": "5a5f326aa38e7693895e8598f151775344e5a1c3"
+    "sha": "7eee27b6c273cd9d59f04f394d4d8bd8bdad1fe3"
   },
   "45": {
     "translation": "Hungarian Karoli",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Rómaiakhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/45.json",
-    "sha": "eb7e111347e4f2133badb456cd10a52f137765ce"
+    "sha": "f57312a2ed7197bda942f398e014e0d8c691b901"
   },
   "46": {
     "translation": "Hungarian Karoli",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korinthusiakhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/46.json",
-    "sha": "545afcae9452c2ab75ffb4e0ac742172708fdeb0"
+    "sha": "840b332001bf3008217d6dc5e250c9ea252e28a4"
   },
   "47": {
     "translation": "Hungarian Karoli",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korinthusiakhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/47.json",
-    "sha": "6c7519901aee5a4bfbce0192807019b4181eb98e"
+    "sha": "f05b0dcc48c10ab9af70d181a079884726131da2"
   },
   "48": {
     "translation": "Hungarian Karoli",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galátákhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/48.json",
-    "sha": "e79dd959771d3a1178c8af4b41778074427463b3"
+    "sha": "3cc250491f558b4c9abc5839cb6187e0c5775d45"
   },
   "49": {
     "translation": "Hungarian Karoli",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efézusiakhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/49.json",
-    "sha": "26b630eee269a9419e47329517b3d6526cd9d7df"
+    "sha": "0a5c2a4e5c027d0eec934bcc888d9d99d740c95a"
   },
   "50": {
     "translation": "Hungarian Karoli",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filippiekhez írt levél",
     "url": "https://api.getbible.net/v2/karoli/50.json",
-    "sha": "d1758f7de612f280ca73ec25f63e64f113357db3"
+    "sha": "85f1f915b0f7b5c66745f66e1b34c545c9630c6c"
   },
   "51": {
     "translation": "Hungarian Karoli",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Kolosséiakhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/51.json",
-    "sha": "8061e1c41405a3c21807e319879b4acb50ea9dba"
+    "sha": "47418fa8900c3cb5bcf4ff0adee5cbfd52b66e19"
   },
   "52": {
     "translation": "Hungarian Karoli",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tesszalonikaiakhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/52.json",
-    "sha": "6404fbed4af8a62159625be5b2fbf0ab2bce29f8"
+    "sha": "ed3c0585020d73eb2d87707d69633a449e4286f5"
   },
   "53": {
     "translation": "Hungarian Karoli",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tesszalonikaiakhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/53.json",
-    "sha": "3a8cb1de89fb60dc60d9eb57f4c3d564b833996f"
+    "sha": "7994d047bd2bd5e0e6960ecd68d67ae60b5e6c2d"
   },
   "54": {
     "translation": "Hungarian Karoli",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timóteushoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/54.json",
-    "sha": "487147fc69340eacb34944b5f950544ceea8322a"
+    "sha": "2c04dd953658949de9333950cb0383e4bfb303d5"
   },
   "55": {
     "translation": "Hungarian Karoli",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timóteushoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/55.json",
-    "sha": "18d26ae58ce46e111e86c4304f2e203b9516df15"
+    "sha": "ae8b54c7233b19f1e74cfd8dcb016eafba0faac4"
   },
   "56": {
     "translation": "Hungarian Karoli",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tituszhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/56.json",
-    "sha": "5d1d2e88303acdbd769f3890535a1bd0d1044b18"
+    "sha": "9d9f33a0cc56bf81d48e70ec2ed3af9cf9a2d3fc"
   },
   "57": {
     "translation": "Hungarian Karoli",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemonhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/57.json",
-    "sha": "b4479751fdd39add2bcc01aa698ad67b7ea45310"
+    "sha": "76cd997709c4e109d40d240f70532c2617e9073b"
   },
   "58": {
     "translation": "Hungarian Karoli",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Zsidókhoz írt levél",
     "url": "https://api.getbible.net/v2/karoli/58.json",
-    "sha": "6bd54f310e5a95287c2cb9a84307520a0f56ecf5"
+    "sha": "76bb8bdfef6b3dc0d91c6547cd86f4d99c8ae574"
   },
   "59": {
     "translation": "Hungarian Karoli",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jakab levele",
     "url": "https://api.getbible.net/v2/karoli/59.json",
-    "sha": "21c71262c773700826fc0fd0fbbf853d7b1b34ea"
+    "sha": "5775748b1719a748b9bc824f79ab61a33b9bc9c2"
   },
   "60": {
     "translation": "Hungarian Karoli",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Péter levele",
     "url": "https://api.getbible.net/v2/karoli/60.json",
-    "sha": "ef01c81518ec4629b4ebbb991b5f7c25cc2d1f3f"
+    "sha": "370aa7a04bcee60ed59f2e2269845f021c35a58b"
   },
   "61": {
     "translation": "Hungarian Karoli",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Péter levele",
     "url": "https://api.getbible.net/v2/karoli/61.json",
-    "sha": "aa6ffd54f3fa1dd3dc15ddb051573fda2f817438"
+    "sha": "00c95f346d3eaac9a5195dfdbb998654cc3be310"
   },
   "62": {
     "translation": "Hungarian Karoli",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 János levele",
     "url": "https://api.getbible.net/v2/karoli/62.json",
-    "sha": "c11c5007ad0bb9b764fe68577845a06b7ffce00c"
+    "sha": "f1062825854c49d71ceaa824af021006cf794bde"
   },
   "63": {
     "translation": "Hungarian Karoli",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 János levele",
     "url": "https://api.getbible.net/v2/karoli/63.json",
-    "sha": "194de9a352f5d5241506ca78ee244ad7300805b8"
+    "sha": "c9b32694729cb91cf6f8ed738a16808e71fd8f83"
   },
   "64": {
     "translation": "Hungarian Karoli",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 János levele",
     "url": "https://api.getbible.net/v2/karoli/64.json",
-    "sha": "062f38a207c77897685907d59e8101a47074afcd"
+    "sha": "0a093ee96a09cca6f7710cdab98802acb911616a"
   },
   "65": {
     "translation": "Hungarian Karoli",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Júdás levele",
     "url": "https://api.getbible.net/v2/karoli/65.json",
-    "sha": "45b96bcec8ecb27cc65588a19a995d6eef33715d"
+    "sha": "de758ea4d5e090e69767b5e17494d019407ebb62"
   },
   "66": {
     "translation": "Hungarian Karoli",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Jelenések könyve",
     "url": "https://api.getbible.net/v2/karoli/66.json",
-    "sha": "c907e2f02eabd80695f8936b6fc7999c956ea3ce"
+    "sha": "9974cd39629a558c0c391f99ef2a683db465c790"
   }
 }

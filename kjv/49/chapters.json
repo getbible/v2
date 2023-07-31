@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ephesians 1",
     "url": "https://api.getbible.net/v2/kjv/49/1.json",
-    "sha": "56a7fdf5fe956a94d4b8e6ad01ef23f8bba3cde6"
+    "sha": "77f2b3acf1e99fb619f85028af09d075b67f5ac4"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ephesians 2",
     "url": "https://api.getbible.net/v2/kjv/49/2.json",
-    "sha": "adfed3cb25bd82a88dc2a835ec3afcc798670694"
+    "sha": "9b8b8008da2a66d8135b2e883e9ba1b5af8522a9"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ephesians 3",
     "url": "https://api.getbible.net/v2/kjv/49/3.json",
-    "sha": "5d4f8535df4ca665cd2b1aaea2b51b0d5a608dff"
+    "sha": "cca82c0de995e7433b715d2b8e69c8bab1e593e6"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ephesians 4",
     "url": "https://api.getbible.net/v2/kjv/49/4.json",
-    "sha": "bf3851436bb259e51a58db79b488788c6dded28c"
+    "sha": "a38bac4b5307b1a42c4e4bfa458fb3b58b34ac69"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ephesians 5",
     "url": "https://api.getbible.net/v2/kjv/49/5.json",
-    "sha": "8b44ce0e4b4714f0895fedab3a4582bb6d15206b"
+    "sha": "b6eebc2b56035723354c511ffdd841ac7748da66"
   },
   "6": {
     "translation": "King James Version",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Ephesians 6",
     "url": "https://api.getbible.net/v2/kjv/49/6.json",
-    "sha": "31222bc4a13fc1119a9d438c4af6e412c36af349"
+    "sha": "7d77559cb24dbdfc35b6a9fb023f5414fb175832"
   }
 }

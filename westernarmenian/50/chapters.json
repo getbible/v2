@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ֆիլիպպեցիներին",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Ֆիլիպպեցիներին 1",
     "url": "https://api.getbible.net/v2/westernarmenian/50/1.json",
-    "sha": "146fab46238d1dffd96cf69efad76db17f2499f3"
+    "sha": "20e2277c627ccc2625f4fc71becff6113c203e33"
   },
   "2": {
     "translation": "Western NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ֆիլիպպեցիներին",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Ֆիլիպպեցիներին 2",
     "url": "https://api.getbible.net/v2/westernarmenian/50/2.json",
-    "sha": "0b680bc340d4adfeb6fdc64d448c79e8cfee5627"
+    "sha": "8e391e2eb95c0305d2bd13013c9f6ee101f070f0"
   },
   "3": {
     "translation": "Western NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ֆիլիպպեցիներին",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Ֆիլիպպեցիներին 3",
     "url": "https://api.getbible.net/v2/westernarmenian/50/3.json",
-    "sha": "a0d0e990cf2ab8c36e5ed743fd4c09d6de9e6448"
+    "sha": "d112626dabf576f445b87f1cf6b2030b8026a3e7"
   },
   "4": {
     "translation": "Western NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ֆիլիպպեցիներին",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Ֆիլիպպեցիներին 4",
     "url": "https://api.getbible.net/v2/westernarmenian/50/4.json",
-    "sha": "a305e147f9af2e69fad69dc8b532c3e50bddbd22"
+    "sha": "804f14a54ab77ec4945bb9a06d2be4809decd2f1"
   }
 }

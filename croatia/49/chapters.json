@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efežanima",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efežanima 1",
     "url": "https://api.getbible.net/v2/croatia/49/1.json",
-    "sha": "7d7147f6824714797299f9c0bcbb32faf5106ce7"
+    "sha": "37bc12f59f092fa9be5d7a20315ab13cff38a6a0"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efežanima",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efežanima 2",
     "url": "https://api.getbible.net/v2/croatia/49/2.json",
-    "sha": "1e4bf89043b3cbfeac084bcbc0353594f8b8d00f"
+    "sha": "155bcfe466ee650dddc250fce5801f4b92fed3b6"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efežanima",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efežanima 3",
     "url": "https://api.getbible.net/v2/croatia/49/3.json",
-    "sha": "802a551028cc59048b73bf83c8158d7a0a7c0f93"
+    "sha": "f3138cd10c669a058a0d456e4700df02d9e89dad"
   },
   "4": {
     "translation": "Croatian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efežanima",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efežanima 4",
     "url": "https://api.getbible.net/v2/croatia/49/4.json",
-    "sha": "ef72f0b0c195b9a72550683101715765c9ecd09d"
+    "sha": "410abc3bb7ea76d5469328b36cabd15da8b64e8a"
   },
   "5": {
     "translation": "Croatian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efežanima",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efežanima 5",
     "url": "https://api.getbible.net/v2/croatia/49/5.json",
-    "sha": "f7e75a44c9253f0fe2514d93a6602ac62e34ec08"
+    "sha": "a665b808c5837a230817fb8b3b699ab372e30bc8"
   },
   "6": {
     "translation": "Croatian",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efežanima",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efežanima 6",
     "url": "https://api.getbible.net/v2/croatia/49/6.json",
-    "sha": "411582024c8f108eea848ef44999d19b4c2946fd"
+    "sha": "8c2193e59dd02bd5ddd0879945068d9e406f3f93"
   }
 }

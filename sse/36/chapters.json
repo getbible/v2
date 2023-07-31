@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonías",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sofonías 1",
     "url": "https://api.getbible.net/v2/sse/36/1.json",
-    "sha": "86b076e2d2908449e705e9e8ae2da82a2e393224"
+    "sha": "68ba2072a0fd1e8569d6ba156fc703607898985d"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonías",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sofonías 2",
     "url": "https://api.getbible.net/v2/sse/36/2.json",
-    "sha": "35661489e10bcef588c0c69675a093c991be3622"
+    "sha": "e4cd177dc35e7a908e448a116c3039d1232aee4e"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonías",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sofonías 3",
     "url": "https://api.getbible.net/v2/sse/36/3.json",
-    "sha": "36e3b272981ef69a51a8bf3285714c94c80b6223"
+    "sha": "4cbb41648363f72da64188dafbd5a3ef6deead89"
   }
 }

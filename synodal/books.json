@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Бытие",
     "url": "https://api.getbible.net/v2/synodal/1.json",
-    "sha": "8303b4cf1cca8ba4a77f168eb323be9e05b0de51"
+    "sha": "9ef6b57b43a6ad73ad0832fc2bc5e82048235843"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Исход",
     "url": "https://api.getbible.net/v2/synodal/2.json",
-    "sha": "7f661352ed4603e807e91d2adb472572997f549a"
+    "sha": "11aa1af7dd9cd3de004ca5356067d8aa34035130"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Левит",
     "url": "https://api.getbible.net/v2/synodal/3.json",
-    "sha": "c40648ea4af0054cca50552de7153447c72a2fcd"
+    "sha": "255f58e56a182d52221c59ac4dfce340753294ca"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Числа",
     "url": "https://api.getbible.net/v2/synodal/4.json",
-    "sha": "a98af90c48941b5ac9d07074846a46ee22f95f98"
+    "sha": "979c5f2272307b92c9ba99f95e5c5b0394caf516"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Второзаконие",
     "url": "https://api.getbible.net/v2/synodal/5.json",
-    "sha": "ba069d29900436267f48a602ad4631b9044e8fec"
+    "sha": "28dc160e3441ebd0afd30bd8daf0473d0ae5fcdf"
   },
   "6": {
     "translation": "Synodal Translation (1876)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Иисуса Навина",
     "url": "https://api.getbible.net/v2/synodal/6.json",
-    "sha": "c779d133ae766a791487af6d039dcfc2d9273f87"
+    "sha": "ea4ab259b6a1925721c7c6deaa6b9845f8c92d80"
   },
   "7": {
     "translation": "Synodal Translation (1876)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Судей",
     "url": "https://api.getbible.net/v2/synodal/7.json",
-    "sha": "69b844f01d48c234d1c626bcf8a45c594894f121"
+    "sha": "48a5123c94f8823d23746543685b15e6d6fcccad"
   },
   "8": {
     "translation": "Synodal Translation (1876)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Руфь",
     "url": "https://api.getbible.net/v2/synodal/8.json",
-    "sha": "b04c0c0e446385f465e2a7e3bfa53bc8487fbb7f"
+    "sha": "7ef7382ed6673d0f68047039b2ab4c803b885c59"
   },
   "9": {
     "translation": "Synodal Translation (1876)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "1-я Царств",
     "url": "https://api.getbible.net/v2/synodal/9.json",
-    "sha": "5e37e61e86ea7d9535afc837fac25e08b3ac2114"
+    "sha": "45cce0e6a43baa3d001f06c71ee226103dcbeb96"
   },
   "10": {
     "translation": "Synodal Translation (1876)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "2-я Царств",
     "url": "https://api.getbible.net/v2/synodal/10.json",
-    "sha": "05bc86814af1b7f3514abad5cfa46a122a331dee"
+    "sha": "70cc977dffa0241c2bd0fbee95409c6b57c7714f"
   },
   "11": {
     "translation": "Synodal Translation (1876)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "3-я Царств",
     "url": "https://api.getbible.net/v2/synodal/11.json",
-    "sha": "a5a0d76b5895e95afdf9863bb64f64f6b8c326c7"
+    "sha": "ad877543f690152c08d5009462c5e0d636e5329d"
   },
   "12": {
     "translation": "Synodal Translation (1876)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "4-я Царств",
     "url": "https://api.getbible.net/v2/synodal/12.json",
-    "sha": "a4d3769ef0c025b8489e7419d90721ed63e56fae"
+    "sha": "b90311e553b06d2e9fbf803d80d11eaa51cfcec1"
   },
   "13": {
     "translation": "Synodal Translation (1876)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1-я Паралипоменон",
     "url": "https://api.getbible.net/v2/synodal/13.json",
-    "sha": "b2b4b950a9c295c2883ab2691b961562903e1af9"
+    "sha": "2967622b02f32ca6c0e610949ab592c6894fb307"
   },
   "14": {
     "translation": "Synodal Translation (1876)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2-я Паралипоменон",
     "url": "https://api.getbible.net/v2/synodal/14.json",
-    "sha": "83e9b2001bc7df869884a2df9a3797f32eee8358"
+    "sha": "5bbf6fc8d1e1f33df3a15ce88fb19c4796945b0d"
   },
   "79": {
     "translation": "Synodal Translation (1876)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 79,
-    "name": "Prayer of Manasses",
+    "name": "Молитва Манассии",
     "url": "https://api.getbible.net/v2/synodal/79.json",
-    "sha": "7d75db1e74bed5e4ff8ba693311d559418506133"
+    "sha": "5559e2a0f44e4ee5b51e876ee1024fca5572539d"
   },
   "15": {
     "translation": "Synodal Translation (1876)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Ездры",
     "url": "https://api.getbible.net/v2/synodal/15.json",
-    "sha": "d2fcf62a16738edb5cb78c7e89877cb50c566846"
+    "sha": "b80a57409ad024a44191de7ad74e86c69012ac52"
   },
   "16": {
     "translation": "Synodal Translation (1876)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Неемии",
     "url": "https://api.getbible.net/v2/synodal/16.json",
-    "sha": "f36de9fecb218ca45b0a4bffe041136cd679e228"
+    "sha": "3421306e574a14dfb55b971efbdd0ad12d8f8053"
   },
   "67": {
     "translation": "Synodal Translation (1876)",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 67,
-    "name": "1 Esdras",
+    "name": "1-я Ездры",
     "url": "https://api.getbible.net/v2/synodal/67.json",
-    "sha": "f74944529a9669a3b5e34193699937c273aa59a9"
+    "sha": "3b119dcdacc3a6a015b1a539f0dc25e2268806fb"
   },
   "69": {
     "translation": "Synodal Translation (1876)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 69,
-    "name": "Tobit",
+    "name": "Товит",
     "url": "https://api.getbible.net/v2/synodal/69.json",
-    "sha": "43e7a71c1997806f9a10e5f2e66584bc8db7ebe9"
+    "sha": "bf6e2d20dd259643e02ccc810bb46556d64d83f6"
   },
   "70": {
     "translation": "Synodal Translation (1876)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 70,
-    "name": "Judith",
+    "name": "Юдифь",
     "url": "https://api.getbible.net/v2/synodal/70.json",
-    "sha": "f9b997f0e4ef6a5d866e512c15c1da1f358bb513"
+    "sha": "95131762cb261302517730734db5a22d9351f20e"
   },
   "17": {
     "translation": "Synodal Translation (1876)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Есфирь",
     "url": "https://api.getbible.net/v2/synodal/17.json",
-    "sha": "5516f618e4ffc33037d48715fc04a538d6f098f2"
+    "sha": "5e1654e850262b3be38bd2d9d8d720e892a11ec9"
   },
   "18": {
     "translation": "Synodal Translation (1876)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Иов",
     "url": "https://api.getbible.net/v2/synodal/18.json",
-    "sha": "6ae7d74477dcb62f7c1a8edfb7f9f61f6b75bead"
+    "sha": "814ee569382ea100614b502724263556051df0f7"
   },
   "19": {
     "translation": "Synodal Translation (1876)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Псалтирь",
     "url": "https://api.getbible.net/v2/synodal/19.json",
-    "sha": "ef93fb5feddf54791914d56c683e469fdbdc65ac"
+    "sha": "62cd950871a4cca716f3e102f0f13d784610e88c"
   },
   "20": {
     "translation": "Synodal Translation (1876)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Притчи",
     "url": "https://api.getbible.net/v2/synodal/20.json",
-    "sha": "da94e22f65df62eedefb65e0676232d058193c3b"
+    "sha": "5bf20021d36b75d0367abf2e1580440e8732c5c7"
   },
   "21": {
     "translation": "Synodal Translation (1876)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Екклесиаст",
     "url": "https://api.getbible.net/v2/synodal/21.json",
-    "sha": "c2b6e5120b004c977a60501690b76b2460a221e5"
+    "sha": "08926517f36c31b22fccdd194c29c86733eebf36"
   },
   "22": {
     "translation": "Synodal Translation (1876)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Песнь Песней",
     "url": "https://api.getbible.net/v2/synodal/22.json",
-    "sha": "fe56b22025d98e4763af54f71468e6d43b080be8"
+    "sha": "8857dc8655d2adf872459c9f5bc5fe0b8017d26f"
   },
   "73": {
     "translation": "Synodal Translation (1876)",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 73,
-    "name": "Wisdom",
+    "name": "Премудрость Соломона",
     "url": "https://api.getbible.net/v2/synodal/73.json",
-    "sha": "e08b7b9830c0850128b6983690a97e2a5b64ac17"
+    "sha": "4ee84b845575d5f7988faf45eef13ab2a282a15c"
   },
   "74": {
     "translation": "Synodal Translation (1876)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 74,
-    "name": "Sirach",
+    "name": "Сирах",
     "url": "https://api.getbible.net/v2/synodal/74.json",
-    "sha": "2a885a9b783578e86f4d267b3ca6ee0d68b49976"
+    "sha": "218656c0cc9e23dbf9a8a30dda30352f550616b4"
   },
   "23": {
     "translation": "Synodal Translation (1876)",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Исаия",
     "url": "https://api.getbible.net/v2/synodal/23.json",
-    "sha": "de8bfe79bb40510978d117c58e8e3116db876d19"
+    "sha": "73834f400b48e676e3048d740fecead4e85ee2a2"
   },
   "24": {
     "translation": "Synodal Translation (1876)",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Иеремия",
     "url": "https://api.getbible.net/v2/synodal/24.json",
-    "sha": "c82b653edf12378ff43ef84b1ed52b7f08dbde8b"
+    "sha": "b207ff8fc26f3ee40f64da968c7c19575d41865d"
   },
   "25": {
     "translation": "Synodal Translation (1876)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Плач Иеремии",
     "url": "https://api.getbible.net/v2/synodal/25.json",
-    "sha": "84bf4a8bf77907baabf42415bbace9f618cb45b2"
+    "sha": "d0686065694c562809139642a2f1006e4070654c"
   },
   "75": {
     "translation": "Synodal Translation (1876)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 75,
-    "name": "Baruch",
+    "name": "Варух",
     "url": "https://api.getbible.net/v2/synodal/75.json",
-    "sha": "cf9c21c1b82b46a41f0d49cc6581909af63dc050"
+    "sha": "c08d588c85301077e1ee721f9d689cf7d6fca927"
   },
   "26": {
     "translation": "Synodal Translation (1876)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Иезекииль",
     "url": "https://api.getbible.net/v2/synodal/26.json",
-    "sha": "0424c847a6d093f45584ebad135249eff269c8c0"
+    "sha": "a753ab28e18915a2e4bda0458a038ac143c8cdb7"
   },
   "27": {
     "translation": "Synodal Translation (1876)",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Даниил",
     "url": "https://api.getbible.net/v2/synodal/27.json",
-    "sha": "3ec83be54bbdb3a1038d96bfda32d00c2af62a28"
+    "sha": "3017af0e9c75d159d0702e1a080716c2e75575bf"
   },
   "28": {
     "translation": "Synodal Translation (1876)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Осия",
     "url": "https://api.getbible.net/v2/synodal/28.json",
-    "sha": "2ec5a4cb7ceadbe8afa7f15edc9dea60b5b22812"
+    "sha": "e9972ce28ddc422b7c9f01ece165ce70df031404"
   },
   "29": {
     "translation": "Synodal Translation (1876)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Иоиль",
     "url": "https://api.getbible.net/v2/synodal/29.json",
-    "sha": "84e0d3d35ee300ac63c0e0ec469eb2dda00ae195"
+    "sha": "fe2de077abbea61aefad7929a562f37456a1ebfc"
   },
   "30": {
     "translation": "Synodal Translation (1876)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Амос",
     "url": "https://api.getbible.net/v2/synodal/30.json",
-    "sha": "96b032cee5f6eb95edb842261f14a4c0714b5252"
+    "sha": "ca3caceb4210e99231d2d66f08117a214c68846b"
   },
   "31": {
     "translation": "Synodal Translation (1876)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Авдий",
     "url": "https://api.getbible.net/v2/synodal/31.json",
-    "sha": "a4b73aa1ec303e0aa0337295ccdbf9d5866e0149"
+    "sha": "a2705b88dd7af628c804f2c85018f67e41a25777"
   },
   "32": {
     "translation": "Synodal Translation (1876)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Иона",
     "url": "https://api.getbible.net/v2/synodal/32.json",
-    "sha": "22b0f44ff8b1b982b6196488fc384a1e76436b44"
+    "sha": "94914ede9ce060f729afe4a27affbca0a053736f"
   },
   "33": {
     "translation": "Synodal Translation (1876)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Михей",
     "url": "https://api.getbible.net/v2/synodal/33.json",
-    "sha": "626cfdb2e88d65f2c30c3f560eb934d673f25dc1"
+    "sha": "1bf9571f294975071e5e157ec967e150661a4f8e"
   },
   "34": {
     "translation": "Synodal Translation (1876)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Наум",
     "url": "https://api.getbible.net/v2/synodal/34.json",
-    "sha": "a480ee3106dce9fa4bb9d30247a0bca7488185fe"
+    "sha": "a55dbc52b14d42a96a6877158f538d1cd0a172e2"
   },
   "35": {
     "translation": "Synodal Translation (1876)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Аввакум",
     "url": "https://api.getbible.net/v2/synodal/35.json",
-    "sha": "1a1820d50b439be7547aafdb838007fd130a3ab4"
+    "sha": "3807d607bf354bc00b62c8449f20a9777b508177"
   },
   "36": {
     "translation": "Synodal Translation (1876)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Софония",
     "url": "https://api.getbible.net/v2/synodal/36.json",
-    "sha": "56264e3e233ca8ab14d3cebf944fd2a6018dba32"
+    "sha": "e99c6c51ae22e398bd091ffd82c08e4948d55bcc"
   },
   "37": {
     "translation": "Synodal Translation (1876)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Аггей",
     "url": "https://api.getbible.net/v2/synodal/37.json",
-    "sha": "f4e8a12a871f3744782d12a65c8c01654176ab95"
+    "sha": "0a70958e4ec6f1944c0606744ea88d50a0d828fd"
   },
   "38": {
     "translation": "Synodal Translation (1876)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Захария",
     "url": "https://api.getbible.net/v2/synodal/38.json",
-    "sha": "14ad0014d0a2836bcf5cf5b618b442f22290133e"
+    "sha": "d426c8144ebb56300c7b4423d108e2ea7cc312a4"
   },
   "39": {
     "translation": "Synodal Translation (1876)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Малахия",
     "url": "https://api.getbible.net/v2/synodal/39.json",
-    "sha": "0406e5ffb354c12e1ea8630def240f9ade831bc6"
+    "sha": "8c4dad952a6b30cee784202cc95e1d73f74d2b38"
   },
   "80": {
     "translation": "Synodal Translation (1876)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 80,
-    "name": "1 Maccabees",
+    "name": "1-я Маккавеев",
     "url": "https://api.getbible.net/v2/synodal/80.json",
-    "sha": "ca0e53d8f210a4fc72d14b55742dfb376cd75bca"
+    "sha": "bd2d368187d9005e500b459305fd2cee786f67ba"
   },
   "81": {
     "translation": "Synodal Translation (1876)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 81,
-    "name": "2 Maccabees",
+    "name": "2-я Маккавеев",
     "url": "https://api.getbible.net/v2/synodal/81.json",
-    "sha": "9824c72d0fa087d556f73c700949c6aaadc37239"
+    "sha": "620d3be86493ed2cc616ce413c47b6723378b81c"
   },
   "82": {
     "translation": "Synodal Translation (1876)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 82,
-    "name": "III Maccabees",
+    "name": "3-я Маккавеев",
     "url": "https://api.getbible.net/v2/synodal/82.json",
-    "sha": "2300a65fd214c2685199bf0d2519aa06a817183f"
+    "sha": "4df1631302afd26bc90316dc2d99aaadf0daecb0"
   },
   "68": {
     "translation": "Synodal Translation (1876)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 68,
-    "name": "2 Esdras",
+    "name": "2-я Ездры",
     "url": "https://api.getbible.net/v2/synodal/68.json",
-    "sha": "bcdb6aaeface0c52b2f4041fc3754164a0dd17ef"
+    "sha": "49d34faa4536e619dea9382e4c12cf0518eb6078"
   },
   "40": {
     "translation": "Synodal Translation (1876)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Матфей",
     "url": "https://api.getbible.net/v2/synodal/40.json",
-    "sha": "bafd6704379cd8c2d7528b711345d89364fe2b88"
+    "sha": "12bf270f9ec92e751b73f1a78194eed59b862848"
   },
   "41": {
     "translation": "Synodal Translation (1876)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Марк",
     "url": "https://api.getbible.net/v2/synodal/41.json",
-    "sha": "0d6521ef98231e45c695aed43f8bb0f4d2fd691d"
+    "sha": "601e2e22ec2e1388c61e52336d5e5ee612f2468e"
   },
   "42": {
     "translation": "Synodal Translation (1876)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Лука",
     "url": "https://api.getbible.net/v2/synodal/42.json",
-    "sha": "0b8ea1abac5a8f5113b7476b77d9f8aace6a36b9"
+    "sha": "6479534d1334795afc2cd0b4a1eac5f2b160228d"
   },
   "43": {
     "translation": "Synodal Translation (1876)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Иоанн",
     "url": "https://api.getbible.net/v2/synodal/43.json",
-    "sha": "47446dbcf632504e23fd1c521a02ac1d0fbce92a"
+    "sha": "f33734146d470fb2bd07d38a994f57f68ab611cf"
   },
   "44": {
     "translation": "Synodal Translation (1876)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Деяния",
     "url": "https://api.getbible.net/v2/synodal/44.json",
-    "sha": "648dccb25b03de48aaf1b93e648377e7a5bcfb60"
+    "sha": "7453253ed541a563c2b6aa8452d88483501a831f"
   },
   "59": {
     "translation": "Synodal Translation (1876)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Иакову",
     "url": "https://api.getbible.net/v2/synodal/59.json",
-    "sha": "7a887d00175d721038971f163559addca5bc6faa"
+    "sha": "d5a2c4901a5b3631067e5a11e7907fdcbb9af011"
   },
   "60": {
     "translation": "Synodal Translation (1876)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1-е Петру",
     "url": "https://api.getbible.net/v2/synodal/60.json",
-    "sha": "c3f90794987ca6c7b7df01353cb8dbec5a52e8b0"
+    "sha": "a59c876388fd2ce0a43630014944f3fe9440feab"
   },
   "61": {
     "translation": "Synodal Translation (1876)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2-е Петру",
     "url": "https://api.getbible.net/v2/synodal/61.json",
-    "sha": "72e11a2132509250dae6bf29486099f3ad6cab78"
+    "sha": "578a9b8041754aebb07fab16c8b9fcf8dd2dde02"
   },
   "62": {
     "translation": "Synodal Translation (1876)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1-е Иоанну",
     "url": "https://api.getbible.net/v2/synodal/62.json",
-    "sha": "508b538654415f35207f570265a4b2ca04586465"
+    "sha": "ea5d37fc0cf18bfa127752c7969d276db155a6f3"
   },
   "63": {
     "translation": "Synodal Translation (1876)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2-е Иоанну",
     "url": "https://api.getbible.net/v2/synodal/63.json",
-    "sha": "a5fa80fc02f586c66d9ab71fda2064f219577a2a"
+    "sha": "01f4e1599f88ac3ebbafcaaa61881bb129c4644f"
   },
   "64": {
     "translation": "Synodal Translation (1876)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3-е Иоанну",
     "url": "https://api.getbible.net/v2/synodal/64.json",
-    "sha": "c4b266d74e8c38b9e11498bd439be2e8ad2cc2cc"
+    "sha": "293c676f9dfb37aefe942c4ecb84ba332a36db48"
   },
   "65": {
     "translation": "Synodal Translation (1876)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Иуде",
     "url": "https://api.getbible.net/v2/synodal/65.json",
-    "sha": "02b9d2cbffc4dd872bf785af635f134d3cb870c9"
+    "sha": "fa5a0e476d3fbd28976e5155e5c55b7d8717673f"
   },
   "45": {
     "translation": "Synodal Translation (1876)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Римлянам",
     "url": "https://api.getbible.net/v2/synodal/45.json",
-    "sha": "48fe1a0b59c47d805f753d2d18c2d33adb69d4e2"
+    "sha": "b9fc1f6116d201875585383fc341b07f1ac8b5af"
   },
   "46": {
     "translation": "Synodal Translation (1876)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1-е Коринфянам",
     "url": "https://api.getbible.net/v2/synodal/46.json",
-    "sha": "421e41b0a2c132c99cdddccd9a651644f9a08f96"
+    "sha": "b737b0f1d50022674940979ffd75aa28957f4840"
   },
   "47": {
     "translation": "Synodal Translation (1876)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2-е Коринфянам",
     "url": "https://api.getbible.net/v2/synodal/47.json",
-    "sha": "534d5e4b8c0090ba664af8f4fa03fda8491c24dd"
+    "sha": "082ec1ff3638d17cc4fbb3afd3012f27c9686f60"
   },
   "48": {
     "translation": "Synodal Translation (1876)",
@@ -787,9 +787,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Галатам",
     "url": "https://api.getbible.net/v2/synodal/48.json",
-    "sha": "d3333f14f8581dde7342399de590a748b2fe8062"
+    "sha": "c628993b0a7d30ad21392e781c790e13cb663f84"
   },
   "49": {
     "translation": "Synodal Translation (1876)",
@@ -799,9 +799,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Ефесянам",
     "url": "https://api.getbible.net/v2/synodal/49.json",
-    "sha": "6a07d560aee5822f401ed09288fa1d922ed915e1"
+    "sha": "a10222d1497c112f9ebc0e05e84ff0b34669d914"
   },
   "50": {
     "translation": "Synodal Translation (1876)",
@@ -811,9 +811,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Филиппийцам",
     "url": "https://api.getbible.net/v2/synodal/50.json",
-    "sha": "0aac67b2e674edd56bd6c62ddf71474ec4c9c6ce"
+    "sha": "6a795c4d19bb494f94cd5ea636538faee675db58"
   },
   "51": {
     "translation": "Synodal Translation (1876)",
@@ -823,9 +823,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Колоссянам",
     "url": "https://api.getbible.net/v2/synodal/51.json",
-    "sha": "3ac571dfefb17e69bb3e4485a2f90c64b813e83f"
+    "sha": "38a3e05daf9ce98458c47b79ebcf49670e34c1a9"
   },
   "52": {
     "translation": "Synodal Translation (1876)",
@@ -835,9 +835,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1-е Фессалоникийцам",
     "url": "https://api.getbible.net/v2/synodal/52.json",
-    "sha": "f5bffdfca33f19f00b6a30e814aee32d893a27d7"
+    "sha": "acd3b24ddf4a1f368713d586d27882ffdbaa6c9c"
   },
   "53": {
     "translation": "Synodal Translation (1876)",
@@ -847,9 +847,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2-е Фессалоникийцам",
     "url": "https://api.getbible.net/v2/synodal/53.json",
-    "sha": "04c3f9c0c6e62638a665b612bab48d0f1a0759af"
+    "sha": "d10a4749b75944bf4ec801e35ae3927b0512a9e5"
   },
   "54": {
     "translation": "Synodal Translation (1876)",
@@ -859,9 +859,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1-е Тимофею",
     "url": "https://api.getbible.net/v2/synodal/54.json",
-    "sha": "9d64b5d09130ac7d9ab8619160a3986f4d17abbb"
+    "sha": "dcdf42a66d46ad1230e5e290c3a2de1becf9a51c"
   },
   "55": {
     "translation": "Synodal Translation (1876)",
@@ -871,9 +871,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2-е Тимофею",
     "url": "https://api.getbible.net/v2/synodal/55.json",
-    "sha": "3edf9a384252e51e3daa58f10a74d004a5a0b7f5"
+    "sha": "14961b8737a7297e9599788f67196d97cc7a12c0"
   },
   "56": {
     "translation": "Synodal Translation (1876)",
@@ -883,9 +883,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Титу",
     "url": "https://api.getbible.net/v2/synodal/56.json",
-    "sha": "bdcaef0e09f139f32a0a915817f671888132b5d1"
+    "sha": "810cd278fa7ec7416712348d47f27e6ce370bbfa"
   },
   "57": {
     "translation": "Synodal Translation (1876)",
@@ -895,9 +895,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Филимону",
     "url": "https://api.getbible.net/v2/synodal/57.json",
-    "sha": "a1e93734effa7c6e318095fd2fb86e7b52da6dee"
+    "sha": "ef12daf2db772b614a63757b12e0c27dee23fd4b"
   },
   "58": {
     "translation": "Synodal Translation (1876)",
@@ -907,9 +907,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Евреям",
     "url": "https://api.getbible.net/v2/synodal/58.json",
-    "sha": "e0e0fed1ad93e2763f01a45dba1a67cc1819a962"
+    "sha": "a560aa3acb8189322f7f77483abb51f275dfb87a"
   },
   "66": {
     "translation": "Synodal Translation (1876)",
@@ -919,8 +919,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Откровение",
     "url": "https://api.getbible.net/v2/synodal/66.json",
-    "sha": "e3556525dffb4759f45b4b8d0987ae0e97b96e0e"
+    "sha": "606ab3b4af7e95ae3b2fa60d59708d38d4dfb7f1"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "帖撒罗尼迦后书 1",
     "url": "https://api.getbible.net/v2/cus/53/1.json",
-    "sha": "253b47b0b2deb79640acc5a1cf3dd881baed092e"
+    "sha": "edd86ef5dd2cada7d83ecb6a8d9ead276656cd6b"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "帖撒罗尼迦后书 2",
     "url": "https://api.getbible.net/v2/cus/53/2.json",
-    "sha": "51424fdc2fed72843f09cbf2627ce83d9f6db1e3"
+    "sha": "11a487c1398b96d470f320059fd97c26ed2c74be"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "帖撒罗尼迦后书 3",
     "url": "https://api.getbible.net/v2/cus/53/3.json",
-    "sha": "ce11b9d17c85255896726b60c1f5c1b50ecb5942"
+    "sha": "087498d4249077ac5e7b7808182f45e9b6ab99a5"
   }
 }

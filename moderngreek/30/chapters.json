@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "Αμώς 1",
     "url": "https://api.getbible.net/v2/moderngreek/30/1.json",
-    "sha": "6d9373eb4e01b0cf513f976575661dfcdd00844d"
+    "sha": "58aad11d23c448efa9101bb261f0605abd0263a2"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "Αμώς 2",
     "url": "https://api.getbible.net/v2/moderngreek/30/2.json",
-    "sha": "e3729dbd33fa34a46111a6f8965cbf6a7433256a"
+    "sha": "6683a8c033c9ffbaf9509115f61078fdab66ef06"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "Αμώς 3",
     "url": "https://api.getbible.net/v2/moderngreek/30/3.json",
-    "sha": "e110b86dfce67c99147a13b351c356ab1ebf18ae"
+    "sha": "3e8162f2daeaf5e035c70b94154edd9fab10ee25"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "Αμώς 4",
     "url": "https://api.getbible.net/v2/moderngreek/30/4.json",
-    "sha": "9e0304a7fd7b73053015e2e4c32e97cea3c75d1c"
+    "sha": "9fff16cbdae8cba010b66389f704b183fc1f85fb"
   },
   "5": {
     "translation": "Greek Modern",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "Αμώς 5",
     "url": "https://api.getbible.net/v2/moderngreek/30/5.json",
-    "sha": "fcc52eab3f5ba5bad62f16f5a3e596ea4c8c1258"
+    "sha": "1a67044093333024a1a751467577845a833374ae"
   },
   "6": {
     "translation": "Greek Modern",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "Αμώς 6",
     "url": "https://api.getbible.net/v2/moderngreek/30/6.json",
-    "sha": "544ebda5ae22b31b7851890fba1760f40166c591"
+    "sha": "492a5f8f34ff7332ce3077e9c3d1816846804225"
   },
   "7": {
     "translation": "Greek Modern",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "Αμώς 7",
     "url": "https://api.getbible.net/v2/moderngreek/30/7.json",
-    "sha": "22b0aa3e05cdb0cbb08ec0bdb2f66dc6cc18fcb6"
+    "sha": "97d2615ed8153e943c8f4a5ea22dbf1c63f7a66c"
   },
   "8": {
     "translation": "Greek Modern",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "Αμώς 8",
     "url": "https://api.getbible.net/v2/moderngreek/30/8.json",
-    "sha": "30026f9fc101eeb30631deb1be8c73fb28e2cbe9"
+    "sha": "4b72eeea4bd91a9cb2b07baae287b0be4f644a56"
   },
   "9": {
     "translation": "Greek Modern",
@@ -119,10 +119,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Αμώς",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "Αμώς 9",
     "url": "https://api.getbible.net/v2/moderngreek/30/9.json",
-    "sha": "e5295bdebe704a1327f1e5470db9b66de60cb2c5"
+    "sha": "0ccb199b307804ce2d69c9039a5101d6ae06a30d"
   }
 }

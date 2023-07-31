@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filippiläiskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/50/1.json",
-    "sha": "433b7e60bf822c5e9031d564d868407910650f38"
+    "sha": "cc044ac918a1095aa7975e3ed039389ad5564bcd"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filippiläiskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/50/2.json",
-    "sha": "fb2bc430c6dddb50476930da1c32abee3ad55be1"
+    "sha": "e2f6b1c5b9e1fcc1ca1c4c19de3554985b88083a"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filippiläiskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/50/3.json",
-    "sha": "394e5ff81a9d32414d64068e1a5cf07aff818e76"
+    "sha": "4c400b605016c0ac5e4c8502e28855ecceec302d"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filippiläiskirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/50/4.json",
-    "sha": "22f62a3b376adb5db90c08757e68803846cc8839"
+    "sha": "56e7ea348035290e63138b1335999f902a547f79"
   }
 }

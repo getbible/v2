@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Галатам 1",
     "url": "https://api.getbible.net/v2/synodal/48/1.json",
-    "sha": "91279079d6b5bba0dca5a10c6e31bd2d9cd57071"
+    "sha": "5edfe65db86a95893ee2f2000aaa484be17ce532"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Галатам 2",
     "url": "https://api.getbible.net/v2/synodal/48/2.json",
-    "sha": "ec3989dd75a405a4b24286c8a321f38dff4c262b"
+    "sha": "be853d5f856410e8d1fafd090dfbebf542de3a5e"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Галатам 3",
     "url": "https://api.getbible.net/v2/synodal/48/3.json",
-    "sha": "29183eedf5afb767eb7e2746be17418bb64f46f4"
+    "sha": "11bc581f83b33a75bad60c57fffaf9da30051b5a"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Галатам 4",
     "url": "https://api.getbible.net/v2/synodal/48/4.json",
-    "sha": "cb8a4be1d04e454cc40965ee878fddc03a8486ed"
+    "sha": "beaceab3d2999ac3a29f5791f5a237d45d9ffca6"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Галатам 5",
     "url": "https://api.getbible.net/v2/synodal/48/5.json",
-    "sha": "350b22e307a2965817b4f0b740c334fe9bf76351"
+    "sha": "e5a9d157809ce6d6befcf5b0de9ec51ca97ea4cb"
   },
   "6": {
     "translation": "Synodal Translation (1876)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Галатам 6",
     "url": "https://api.getbible.net/v2/synodal/48/6.json",
-    "sha": "bff40bdabaae0ffb203a6295242d76d540ca88b6"
+    "sha": "06c94fae23d19f31bca1375507cda9a603b0b9c9"
   }
 }

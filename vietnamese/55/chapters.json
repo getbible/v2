@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ti-mô-thê",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Ti-mô-thê 1",
     "url": "https://api.getbible.net/v2/vietnamese/55/1.json",
-    "sha": "cdf7dbd39019def3e348abc14db951c01eb1a833"
+    "sha": "c96a70bb9c41a8f2af98a7469a38a5d9080f2cba"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ti-mô-thê",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Ti-mô-thê 2",
     "url": "https://api.getbible.net/v2/vietnamese/55/2.json",
-    "sha": "188dc4efabb9af963233d1d2d866a6aed87a2374"
+    "sha": "4bf050778c6efba93b385acd15293094ec2e2147"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ti-mô-thê",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Ti-mô-thê 3",
     "url": "https://api.getbible.net/v2/vietnamese/55/3.json",
-    "sha": "818851018189f8f1ab9d02930ed41118942e68a6"
+    "sha": "42460f52e525fc791249224f3dd3a1abe8f0e701"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ti-mô-thê",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Ti-mô-thê 4",
     "url": "https://api.getbible.net/v2/vietnamese/55/4.json",
-    "sha": "2352301395f292b5d164f3bdd68ed5e5d7cb6b0c"
+    "sha": "772c08d3ccf05bf7ef9fafd44168f55518112665"
   }
 }

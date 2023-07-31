@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Andra Timoteosbrevet",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "Andra Timoteosbrevet 1",
     "url": "https://api.getbible.net/v2/swedish/55/1.json",
-    "sha": "7854432a7cd88761b54328dbe543529575958e3b"
+    "sha": "0f5c54ef7a2fe12dc6eb4a083529b7b6d2ca47c3"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Andra Timoteosbrevet",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "Andra Timoteosbrevet 2",
     "url": "https://api.getbible.net/v2/swedish/55/2.json",
-    "sha": "f48b19cc5f5e8e0acfdff3874281df1dfbd02eb9"
+    "sha": "0a883fd0406c65a00e766cdc7beb0beb2eacc9d5"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Andra Timoteosbrevet",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "Andra Timoteosbrevet 3",
     "url": "https://api.getbible.net/v2/swedish/55/3.json",
-    "sha": "8ff9099b249e05dbda289dc98cbea1b2e26c9334"
+    "sha": "f77e58367030035b7b4dccd9d053f84f4bc16207"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Andra Timoteosbrevet",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "Andra Timoteosbrevet 4",
     "url": "https://api.getbible.net/v2/swedish/55/4.json",
-    "sha": "c89ff84e63f4dcf89be6d695bf8502e3bdca5e92"
+    "sha": "41e7ab965920a849c1e3ae5c846d308cca2f7e3d"
   }
 }

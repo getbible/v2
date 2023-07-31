@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 31,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "俄巴底亞書 1",
     "url": "https://api.getbible.net/v2/cnt/31/1.json",
-    "sha": "cf01cb1eefe204f3709b13ba07ea1b46c72198c8"
+    "sha": "f22a5fb3f5d2a95da92f31b68bfe58ae073ebd52"
   }
 }

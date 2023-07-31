@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippenzen",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filippenzen 1",
     "url": "https://api.getbible.net/v2/statenvertaling/50/1.json",
-    "sha": "2263e968cdbaa5418965986234b930c8cff4d42a"
+    "sha": "39d739103f6853fe7d7d4cca0c8d987caa2c1cfd"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippenzen",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filippenzen 2",
     "url": "https://api.getbible.net/v2/statenvertaling/50/2.json",
-    "sha": "228d9267ad9aa28bc0bd46453d5944a3e979d829"
+    "sha": "e110209d57bfad2535c0f06de2596529bd242aa6"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippenzen",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filippenzen 3",
     "url": "https://api.getbible.net/v2/statenvertaling/50/3.json",
-    "sha": "29c38904dd482c5c67b61c7d62907ff8b6ab3eff"
+    "sha": "c6235cf72359e7e07038c58d6e2181382e3591b3"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippenzen",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filippenzen 4",
     "url": "https://api.getbible.net/v2/statenvertaling/50/4.json",
-    "sha": "2dbe0ff7ac8d66a6c0a90518472b046e03de0704"
+    "sha": "7062964f91064b7740233355c7a8d1394729127f"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "Πέτρου Α' 1",
     "url": "https://api.getbible.net/v2/westcotthort/60/1.json",
-    "sha": "2a60a6f4e53a73f10ba2752ffe91285b1c7b8dc1"
+    "sha": "206d88e22d5c414ed5053c359eab03059a0e7793"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "Πέτρου Α' 2",
     "url": "https://api.getbible.net/v2/westcotthort/60/2.json",
-    "sha": "c810b04993f3a322ad6d32b12a9c418b0a370f2d"
+    "sha": "b2e37ed19d19794b8f1970bc910979e026ee5b9b"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "Πέτρου Α' 3",
     "url": "https://api.getbible.net/v2/westcotthort/60/3.json",
-    "sha": "0c0dc1b995bf651d822b3a0b6a13556545422d76"
+    "sha": "3880b57ec3e8c791607d905dbe078c7f537d39c3"
   },
   "4": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "Πέτρου Α' 4",
     "url": "https://api.getbible.net/v2/westcotthort/60/4.json",
-    "sha": "fb44268d32964961fb49b87384f1fbc9d052ae15"
+    "sha": "6e4c4f682ef02812dcf9e6424b2bb9d39f8c0206"
   },
   "5": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "Πέτρου Α' 5",
     "url": "https://api.getbible.net/v2/westcotthort/60/5.json",
-    "sha": "5887eb4a3106951ccdcfc57dbad52ad4d2e186dc"
+    "sha": "d189634ff7ec8daad1bb904f55a84ad5e80a81f3"
   }
 }

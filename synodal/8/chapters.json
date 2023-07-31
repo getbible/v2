@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Руфь",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Руфь 1",
     "url": "https://api.getbible.net/v2/synodal/8/1.json",
-    "sha": "d9bf8cd240406ca1badf55608876153c98bcbba1"
+    "sha": "9b5d818820cea84cae3cf52501e80aa70e829c53"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Руфь",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Руфь 2",
     "url": "https://api.getbible.net/v2/synodal/8/2.json",
-    "sha": "18e58b69a3f9bc94336b86f8e4e7b310a5da09d6"
+    "sha": "212f882213559b8778ad3598a504d3caa36a1b52"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Руфь",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Руфь 3",
     "url": "https://api.getbible.net/v2/synodal/8/3.json",
-    "sha": "4cba4f11a41f87e4001e6b5529ce8c26ecc8603e"
+    "sha": "e2c0ceedd53774867d2c548612c9b9fa02f8f86c"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Руфь",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Руфь 4",
     "url": "https://api.getbible.net/v2/synodal/8/4.json",
-    "sha": "d35624dc3244cb019bffc24723326178c63ac7f6"
+    "sha": "5d2c29c58010654de4d1aa7ba36fed784a5bba1a"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pierre",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Pierre 1",
     "url": "https://api.getbible.net/v2/ls1910/61/1.json",
-    "sha": "1a63264c9b8792ec92a32ae3d088471440d85a7d"
+    "sha": "6e00f61145a3c790e5af2777806795b25925a5b3"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pierre",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Pierre 2",
     "url": "https://api.getbible.net/v2/ls1910/61/2.json",
-    "sha": "e5513eec31a2bdef9fd395d96f20acc851ab62b4"
+    "sha": "8263c65b39a975a1c6e760e00d0b10ea1f55a744"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pierre",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Pierre 3",
     "url": "https://api.getbible.net/v2/ls1910/61/3.json",
-    "sha": "95399e373bc3502746f92326c2d648601a85163d"
+    "sha": "232103d6a0fb3789a8ea9bfb561295eddc76c6e2"
   }
 }

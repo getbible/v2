@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Иоиль",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Иоиль 1",
     "url": "https://api.getbible.net/v2/synodal/29/1.json",
-    "sha": "6c0e7b5021e685527366c22a967fa38a5a2406d1"
+    "sha": "8913558516c4ec7027e2f0c69543b03c3ab8c781"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Иоиль",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Иоиль 2",
     "url": "https://api.getbible.net/v2/synodal/29/2.json",
-    "sha": "98dae93041925b2a45d55bb02e4132112b8cb46a"
+    "sha": "9e6d39ad97493b888d3ab69441428337909cf1f8"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Иоиль",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Иоиль 3",
     "url": "https://api.getbible.net/v2/synodal/29/3.json",
-    "sha": "9c3b8d1de777e62a9d3f8c1f5c6e242c65684e57"
+    "sha": "e1b29d5fd1e166f7eed0e2a542860c0de7f091ee"
   }
 }

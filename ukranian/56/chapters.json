@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Титу 1",
     "url": "https://api.getbible.net/v2/ukranian/56/1.json",
-    "sha": "8c377f479c894614e9d55feb13006f53b3b9e4ce"
+    "sha": "6a61c5e0f4f7f822545ae8c5ca32561ff93a7029"
   },
   "2": {
     "translation": "NT (P Kulish 1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Титу 2",
     "url": "https://api.getbible.net/v2/ukranian/56/2.json",
-    "sha": "43efdd409e383574a5f7aa635a86b760a0f0f4c2"
+    "sha": "7049ad5adb400f9d8c968ff58e4c89498df6fbce"
   },
   "3": {
     "translation": "NT (P Kulish 1871)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Титу 3",
     "url": "https://api.getbible.net/v2/ukranian/56/3.json",
-    "sha": "dd46db501ee75827487b2a566eed6c290f20d768"
+    "sha": "47ccbd4dba71061114ef8a28d97d7f08043bc9d6"
   }
 }

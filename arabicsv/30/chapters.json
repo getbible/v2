@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "عاموس 1",
     "url": "https://api.getbible.net/v2/arabicsv/30/1.json",
-    "sha": "c3b6455e19ecfedb2579fb70760e5c1b1823ef5d"
+    "sha": "dccadc660bd43ce90e4986f0b3c5634467ced065"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "عاموس 2",
     "url": "https://api.getbible.net/v2/arabicsv/30/2.json",
-    "sha": "141930c73d2dd931ed3e8c08b876b845b082d192"
+    "sha": "c8ee27984f8c682e544e2c95d981f20fccd3ea09"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "عاموس 3",
     "url": "https://api.getbible.net/v2/arabicsv/30/3.json",
-    "sha": "f8e50d46d410300168eb09b35610c6d3934be983"
+    "sha": "62736f816ab960068d6275d437345c5045e5eff0"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "عاموس 4",
     "url": "https://api.getbible.net/v2/arabicsv/30/4.json",
-    "sha": "5a76a61a3a2875e7b8d29923b5779c38c686cb96"
+    "sha": "8e9f217c40f0e29201e2edaeb7763733f68b0909"
   },
   "5": {
     "translation": "Smith and Van Dyke",
@@ -63,11 +63,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "عاموس 5",
     "url": "https://api.getbible.net/v2/arabicsv/30/5.json",
-    "sha": "d5cd2f31e36729cff20e19d6ca15b84fdd37e3fe"
+    "sha": "bad2792f93b8d867b69259b298f815e9646fb720"
   },
   "6": {
     "translation": "Smith and Van Dyke",
@@ -77,11 +77,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "عاموس 6",
     "url": "https://api.getbible.net/v2/arabicsv/30/6.json",
-    "sha": "213ed5c0ffc8265c3d3468caa6940f0fb679629f"
+    "sha": "bc4e820f1f87e28570c85709712fb6ff56483f1b"
   },
   "7": {
     "translation": "Smith and Van Dyke",
@@ -91,11 +91,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "عاموس 7",
     "url": "https://api.getbible.net/v2/arabicsv/30/7.json",
-    "sha": "b9fc57dbf3eecad8d980422f8d73802755e4321f"
+    "sha": "c9fa41e2669e1990df22bf2f15e960e09bd5afd3"
   },
   "8": {
     "translation": "Smith and Van Dyke",
@@ -105,11 +105,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "عاموس 8",
     "url": "https://api.getbible.net/v2/arabicsv/30/8.json",
-    "sha": "910258adb8294b0593de9fd145c0821be5d4991d"
+    "sha": "644bac4a092bef57d4fc435d2f90b41f2c04225b"
   },
   "9": {
     "translation": "Smith and Van Dyke",
@@ -119,10 +119,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "عاموس",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "عاموس 9",
     "url": "https://api.getbible.net/v2/arabicsv/30/9.json",
-    "sha": "878bed1ac16a4d54ba4fb6a82e16ccf787ddacb5"
+    "sha": "5e9411a266fc2d0c97e84ac5ec10c4655cd456b6"
   }
 }

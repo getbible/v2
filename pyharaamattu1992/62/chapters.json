@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "Ensimmäinen Johanneksen kirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/62/1.json",
-    "sha": "6f88f0933e66600dbb56379eccb424d5f2a6428c"
+    "sha": "ba508b08a18c5261e74deff7eaed83d945ccc074"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "Ensimmäinen Johanneksen kirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/62/2.json",
-    "sha": "72e070766be75b6740fec77a4b4731684ea240c7"
+    "sha": "6bd4af47bbdab64025c2c66308a092a4e38951c4"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "Ensimmäinen Johanneksen kirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/62/3.json",
-    "sha": "4f058765d79234e1f5c46ab39051020dee0261b8"
+    "sha": "47a05dda5acd6c1b233b29abee70495a2242340d"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "Ensimmäinen Johanneksen kirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/62/4.json",
-    "sha": "8ca71b057a3899896c80a43637598dbbb7147ff3"
+    "sha": "8c2a5d5909204a270e3584ba78bdcc0504d5cb7c"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "Ensimmäinen Johanneksen kirje 5",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/62/5.json",
-    "sha": "605ba97d77fa241aa09b132cd2c18b2f5a4e1673"
+    "sha": "0c1a153d9467ddd7259f59b100080f1d3061f034"
   }
 }

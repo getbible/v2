@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 63,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "2 John 1",
     "url": "https://api.getbible.net/v2/wycliffe/63/1.json",
-    "sha": "500deaab4fb17deb56a08cab091817ed7d4f1bdb"
+    "sha": "2b04b844d0c63596a2dd5134505354087d933b60"
   }
 }

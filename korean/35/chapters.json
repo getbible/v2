@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "하박국",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "하박국 1",
     "url": "https://api.getbible.net/v2/korean/35/1.json",
-    "sha": "65a570498578884732188a7e8840f9191a258163"
+    "sha": "1d91650d9f9a90f4259f88801e449bd6915b06cc"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "하박국",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "하박국 2",
     "url": "https://api.getbible.net/v2/korean/35/2.json",
-    "sha": "85e4290e3b85a724cc7e16c3683d594213765d52"
+    "sha": "0ebf211541ac4bf242add0cfff57783cdc125231"
   },
   "3": {
     "translation": "Korean",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "하박국",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "하박국 3",
     "url": "https://api.getbible.net/v2/korean/35/3.json",
-    "sha": "ac687e98631b044620613bf1f4afc04336092c47"
+    "sha": "c52a4896fc99677cde76fb1cec6c7dd72a47af63"
   }
 }

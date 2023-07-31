@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Yoel",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Yoel 1",
     "url": "https://api.getbible.net/v2/turkish/29/1.json",
-    "sha": "07192a03d6be208788bc6fbb145b3905e0d896ba"
+    "sha": "d44943e10ac363b080eabd5bd9c00cc5ed06471d"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Yoel",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Yoel 2",
     "url": "https://api.getbible.net/v2/turkish/29/2.json",
-    "sha": "b1bf102060c8c723789094d919642071c1f40131"
+    "sha": "4dc6e81c6449d90b990e718f595c7ed38ce0cf03"
   },
   "3": {
     "translation": "Turkish",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Yoel",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Yoel 3",
     "url": "https://api.getbible.net/v2/turkish/29/3.json",
-    "sha": "334fa3f1660e12d0b1edfa3d2a88e103b01ec7f4"
+    "sha": "a48451d6617df8cae340a98df6a33e1da2044df3"
   }
 }

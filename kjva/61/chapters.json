@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://api.getbible.net/v2/kjva/61/1.json",
-    "sha": "add4c9d09ee169de2541f272573a96863f457407"
+    "sha": "45bb8929df5f4a1f2c3e1974d6cd368cacf9a0b9"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://api.getbible.net/v2/kjva/61/2.json",
-    "sha": "9e1b31adbd9051b82f3565f17a19abf62c90a915"
+    "sha": "61be10505bc0e4f34cc6d4446cd585566e152813"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://api.getbible.net/v2/kjva/61/3.json",
-    "sha": "9ec03bd2505f1cfdccaf6acf0c7a0df6fe66fc1e"
+    "sha": "c44b69ce1ffc6326632a5504c611722e85b18bef"
   }
 }

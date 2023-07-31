@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Αγγαίος",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Αγγαίος 1",
     "url": "https://api.getbible.net/v2/moderngreek/37/1.json",
-    "sha": "511e1a58fc753aa1f8e32eca0e5490fdb5ac0f6d"
+    "sha": "4000de6bd9cd6e3b27c36956878164f3fc3562b3"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Αγγαίος",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Αγγαίος 2",
     "url": "https://api.getbible.net/v2/moderngreek/37/2.json",
-    "sha": "db59d0d72656372c2477889d8a5bfadd41feec02"
+    "sha": "0fb0d754fd34be11c75e76a0cdc5861ca40473e0"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Titus 1",
     "url": "https://api.getbible.net/v2/kjv/56/1.json",
-    "sha": "0b2b63ce8a5d17bedaab4d65ad74b61453468351"
+    "sha": "e66b92fcf8a87095233b53d7dbbb7888914c1a56"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Titus 2",
     "url": "https://api.getbible.net/v2/kjv/56/2.json",
-    "sha": "18056aed060f458115c1e772f30026ff43fd07ec"
+    "sha": "ec27d2d00687a3b22c99eb579ef9166bc8e51fcd"
   },
   "3": {
     "translation": "King James Version",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Titus 3",
     "url": "https://api.getbible.net/v2/kjv/56/3.json",
-    "sha": "72557959c966f872b27206bb0309b861703f89b0"
+    "sha": "a3d7ad66b9d3f8a40a26a38804281a80b52c5a6a"
   }
 }

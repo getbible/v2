@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ai Ca",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Ai Ca 1",
     "url": "https://api.getbible.net/v2/vietnamese/25/1.json",
-    "sha": "63de8c2c2e22434f5ff2e775b3f3b1ee9f721004"
+    "sha": "5082e3f19871f1c8a927a3c2b9118d374a25fb0f"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ai Ca",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Ai Ca 2",
     "url": "https://api.getbible.net/v2/vietnamese/25/2.json",
-    "sha": "b8f6d12b85259d0ecf11eebffb5aeab639dd6624"
+    "sha": "3bfb1f14bfdba9cad0c76a20da7abb0603ba8a71"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ai Ca",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Ai Ca 3",
     "url": "https://api.getbible.net/v2/vietnamese/25/3.json",
-    "sha": "fa878f655234d88d58872901d6298246808125c0"
+    "sha": "5b0e237243f88aa5da09c98ffe725bcff768ca16"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ai Ca",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Ai Ca 4",
     "url": "https://api.getbible.net/v2/vietnamese/25/4.json",
-    "sha": "3d2d206781c2091ee80ef897eba8ce30c51e72ad"
+    "sha": "edb906a510250cc64e7b45d355efa85e9cf19754"
   },
   "5": {
     "translation": "Vietnamese (1934)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ai Ca",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Ai Ca 5",
     "url": "https://api.getbible.net/v2/vietnamese/25/5.json",
-    "sha": "4defd4e598d70f4f6c76fc36b4c544ab6819fcd4"
+    "sha": "4acdd4d67e0cded93ada3eb700a8c525a98837dc"
   }
 }

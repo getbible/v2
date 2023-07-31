@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosetarrei",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Kolosetarrei 1",
     "url": "https://api.getbible.net/v2/basque/51/1.json",
-    "sha": "f8d6131903ffe06d14177341d296d46812a7d9d4"
+    "sha": "d3e653bbe82d29af84fd114677891e16e5539162"
   },
   "2": {
     "translation": "(Navarro Labourdin) NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosetarrei",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Kolosetarrei 2",
     "url": "https://api.getbible.net/v2/basque/51/2.json",
-    "sha": "1152024e5ed17c90bfc85c9edc860cf03572e013"
+    "sha": "946a0b33934c96585a597fd0f59a78bd4103d9d1"
   },
   "3": {
     "translation": "(Navarro Labourdin) NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosetarrei",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Kolosetarrei 3",
     "url": "https://api.getbible.net/v2/basque/51/3.json",
-    "sha": "32d1c2a8f02b493c6fbcd6a2fbe976d0248faa37"
+    "sha": "79c3a530c7d6e70b8d20ac9d4b17e1ce129e83b3"
   },
   "4": {
     "translation": "(Navarro Labourdin) NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosetarrei",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Kolosetarrei 4",
     "url": "https://api.getbible.net/v2/basque/51/4.json",
-    "sha": "bf94da896ccdce1a5e1ee1d12ef4834dbfd9be60"
+    "sha": "dd27d6d40648d36e16dad26c1ca9f203b9fedebd"
   }
 }

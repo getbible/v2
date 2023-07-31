@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Sáng Thế Ký",
     "url": "https://api.getbible.net/v2/vietnamese/1.json",
-    "sha": "8ca6b3f17d65619039d837b22c75c96981ce0e4f"
+    "sha": "7a9fc38672750ffefffc15f0e00bceacaaabeda9"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Xuất Hành Ký",
     "url": "https://api.getbible.net/v2/vietnamese/2.json",
-    "sha": "068ad91813479b0479ee6b5e7cd710b567746582"
+    "sha": "062dccbd8112785c79a18dda4da81360a5ed59f5"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Lê-vi Ký",
     "url": "https://api.getbible.net/v2/vietnamese/3.json",
-    "sha": "e4fb5b66ce35170d9e9ccd470f83069992887cda"
+    "sha": "58783ca9424ec84151844f8443b012a3bf8d82fc"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Số Đếm Ký",
     "url": "https://api.getbible.net/v2/vietnamese/4.json",
-    "sha": "24471b7a2c8f746ad52c363bebde066ae600abdc"
+    "sha": "c8dca9869944032d25e861d1f2fb4598e267ea73"
   },
   "5": {
     "translation": "Vietnamese (1934)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Phục Truyền Luật Lệ Ký",
     "url": "https://api.getbible.net/v2/vietnamese/5.json",
-    "sha": "d816b908ab2921a27f562cbac23ac7863083465e"
+    "sha": "4b0b7e30109c426d251c2ac2d24207658a26ae46"
   },
   "6": {
     "translation": "Vietnamese (1934)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Giô-suê",
     "url": "https://api.getbible.net/v2/vietnamese/6.json",
-    "sha": "d438111108b870774aaa2633253ac492f33a1979"
+    "sha": "1dbaf99e8e6d65e9e7debabaa6fc5805cf29b405"
   },
   "7": {
     "translation": "Vietnamese (1934)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Các Thủ Lãnh",
     "url": "https://api.getbible.net/v2/vietnamese/7.json",
-    "sha": "a55b82551916afb6f24a05096384be11668119b0"
+    "sha": "a148ca07b6647c1705b95ff5407ce5b9f513f6a5"
   },
   "8": {
     "translation": "Vietnamese (1934)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Ru-tơ",
     "url": "https://api.getbible.net/v2/vietnamese/8.json",
-    "sha": "5e5f1e3e8f1c6018fb683f3bd16daf6be9b2806c"
+    "sha": "4ef4ea958186f5616ec7a2c69111f49b18a21e70"
   },
   "9": {
     "translation": "Vietnamese (1934)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "1 Sa-mu-ên",
     "url": "https://api.getbible.net/v2/vietnamese/9.json",
-    "sha": "787a3aa2a38cec73c98e97e3bc3b179897fca758"
+    "sha": "21c5737879a9aa119dfae80e1b9314ea17d8218f"
   },
   "10": {
     "translation": "Vietnamese (1934)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "2 Sa-mu-ên",
     "url": "https://api.getbible.net/v2/vietnamese/10.json",
-    "sha": "56bd31fee6abc46119065b0898821a7f65bfb4f6"
+    "sha": "860805ee8a796386ffa8521aeb31109e21f089b6"
   },
   "11": {
     "translation": "Vietnamese (1934)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Các Vua",
     "url": "https://api.getbible.net/v2/vietnamese/11.json",
-    "sha": "34f5aed2052f1b365149e00a716e95948661c026"
+    "sha": "d5e0fd2f39881cbbd6d62f86015f5c0d4e2530d1"
   },
   "12": {
     "translation": "Vietnamese (1934)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Các Vua",
     "url": "https://api.getbible.net/v2/vietnamese/12.json",
-    "sha": "3ba84b4696e48380db0b52cdf0a8fcb5b853dde6"
+    "sha": "0c64db2e35e94f5d4049a297a73f4c555873e207"
   },
   "13": {
     "translation": "Vietnamese (1934)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Sử Ký",
     "url": "https://api.getbible.net/v2/vietnamese/13.json",
-    "sha": "7050fbf57ac98177fff0897839b958fd3ce99fc1"
+    "sha": "23058f79dd49cbd3a66e773ac94e8422ce6237ef"
   },
   "14": {
     "translation": "Vietnamese (1934)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Sử Ký",
     "url": "https://api.getbible.net/v2/vietnamese/14.json",
-    "sha": "7e1619d13a11fa8602a85297230f08dc6ab18dd2"
+    "sha": "094c7f136c3fd8ddc59b807cc98d7e84f363158c"
   },
   "15": {
     "translation": "Vietnamese (1934)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Ê-xơ-ra",
     "url": "https://api.getbible.net/v2/vietnamese/15.json",
-    "sha": "d2e17063fa08293649993c4441e5c3ef50d2f0e7"
+    "sha": "56da1e10960a3d2e815a5610abaa7e63c45f8b19"
   },
   "16": {
     "translation": "Vietnamese (1934)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nê-hê-mi",
     "url": "https://api.getbible.net/v2/vietnamese/16.json",
-    "sha": "b7f59083ba9be62350276a893fbec6ae2528e5fb"
+    "sha": "0cf29a0c795b8d80c3875f139b1d6d15106255e1"
   },
   "17": {
     "translation": "Vietnamese (1934)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ê-xơ-tê",
     "url": "https://api.getbible.net/v2/vietnamese/17.json",
-    "sha": "19be5bb561ca11f4c0bbc2b765aa3a750ce0ed02"
+    "sha": "018efa86723e263b57ae2af879034184e2d38d49"
   },
   "18": {
     "translation": "Vietnamese (1934)",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Gióp",
     "url": "https://api.getbible.net/v2/vietnamese/18.json",
-    "sha": "96979714bf63de8e0d13ddcef6be5710e213741b"
+    "sha": "36879ebf74c3650f877db5284da75cef5deeca81"
   },
   "19": {
     "translation": "Vietnamese (1934)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Thi-thiên",
     "url": "https://api.getbible.net/v2/vietnamese/19.json",
-    "sha": "46228e85f5d4fbe3eac3c5a8ef3361f42117746f"
+    "sha": "50a6f7a067305fcba2d0eb6ded6099c906cbe8a9"
   },
   "20": {
     "translation": "Vietnamese (1934)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Châm Ngôn",
     "url": "https://api.getbible.net/v2/vietnamese/20.json",
-    "sha": "883be918dcf7522a5386a4dee8a927a1893caa49"
+    "sha": "c50730c40e67f7dafcfb1878952264ef086b6855"
   },
   "21": {
     "translation": "Vietnamese (1934)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Truyền Đạo",
     "url": "https://api.getbible.net/v2/vietnamese/21.json",
-    "sha": "75fd8f6f0d9e3cc55edf3b0e3bd60aa4b324bc7e"
+    "sha": "9da92ada8f6170c830439eba02595382d15649f5"
   },
   "22": {
     "translation": "Vietnamese (1934)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Nhã Ca",
     "url": "https://api.getbible.net/v2/vietnamese/22.json",
-    "sha": "6c471d801dd613514caec32f66d5ace50b510ec4"
+    "sha": "6d7b4f2b383afa3134290ae1a19adbea776885af"
   },
   "23": {
     "translation": "Vietnamese (1934)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Ê-sai",
     "url": "https://api.getbible.net/v2/vietnamese/23.json",
-    "sha": "3d6da6a7f28d70fcbdeea21f73cada0c65fbff13"
+    "sha": "acd4041e04d031bc50f5da0303eb7e9d57b938db"
   },
   "24": {
     "translation": "Vietnamese (1934)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Giê-rê-mi",
     "url": "https://api.getbible.net/v2/vietnamese/24.json",
-    "sha": "045b2171507ce3b6da2e2632e6d5e876df34f186"
+    "sha": "114a36b1400623bce47b60fb0dc5c18f20bcfc9d"
   },
   "25": {
     "translation": "Vietnamese (1934)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Ai Ca",
     "url": "https://api.getbible.net/v2/vietnamese/25.json",
-    "sha": "5a64c999ee7ca50ab80ecfb4d0b6032309843a7e"
+    "sha": "4542c4eda2bd7d8544fa77da4459983e4fe2e4e0"
   },
   "26": {
     "translation": "Vietnamese (1934)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ê-xê-chi-ên",
     "url": "https://api.getbible.net/v2/vietnamese/26.json",
-    "sha": "7a6aea462cd5d5680c6ac61ead5a586eff01e1be"
+    "sha": "3385a4676b9389443a727e4abf3b179c5ad9e2ec"
   },
   "27": {
     "translation": "Vietnamese (1934)",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Đa-ni-ên",
     "url": "https://api.getbible.net/v2/vietnamese/27.json",
-    "sha": "82d9b569225be0ee5f3c1fa05b1eed47470de56f"
+    "sha": "db7de9276a34cc973e8f09d0106d8c1e0385acba"
   },
   "28": {
     "translation": "Vietnamese (1934)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Hô-sêa",
     "url": "https://api.getbible.net/v2/vietnamese/28.json",
-    "sha": "667fad5f9876446794acbba6c8a04f5c6eb5096d"
+    "sha": "63801c238bb8ab67f1f652068895b1f2cc451b60"
   },
   "29": {
     "translation": "Vietnamese (1934)",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Giô-ên",
     "url": "https://api.getbible.net/v2/vietnamese/29.json",
-    "sha": "ac1cc5af4989179e49326bbea5e0c863c32d33f3"
+    "sha": "ce91017dd24888e3aa20143b51b89b95e014ecc5"
   },
   "30": {
     "translation": "Vietnamese (1934)",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "A-mốt",
     "url": "https://api.getbible.net/v2/vietnamese/30.json",
-    "sha": "afeda857c53d5d9c4fe6bb14193ce9a9b6f4b520"
+    "sha": "4a9c2b2ccb4df52c9fde9af80b477d16aaf48705"
   },
   "31": {
     "translation": "Vietnamese (1934)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Áp-đi-a",
     "url": "https://api.getbible.net/v2/vietnamese/31.json",
-    "sha": "a6ec6f6a94d6070208aefe9a3a0d444f15f3b4aa"
+    "sha": "af7377734774423b7dacc277e87250fc62f3d8b6"
   },
   "32": {
     "translation": "Vietnamese (1934)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Giô-na",
     "url": "https://api.getbible.net/v2/vietnamese/32.json",
-    "sha": "18409a5c2ec533be78271cd56d064fb19043f587"
+    "sha": "d0beea28d533a6ba86b78f32e1cd08b794144d2e"
   },
   "33": {
     "translation": "Vietnamese (1934)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Mi-chê",
     "url": "https://api.getbible.net/v2/vietnamese/33.json",
-    "sha": "73efd6e29bf2f3fa12eeddf88935c5043120a431"
+    "sha": "aa1fd3083a1f13c281e485f5b76f102ff03b0dad"
   },
   "34": {
     "translation": "Vietnamese (1934)",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Na-hum",
     "url": "https://api.getbible.net/v2/vietnamese/34.json",
-    "sha": "965c88deb4e6ba26049c477dca9549a9ead864fa"
+    "sha": "e5ccc98420cd629fa6991cf2e16f9bd3d53c79ac"
   },
   "35": {
     "translation": "Vietnamese (1934)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Ha-ba-cúc",
     "url": "https://api.getbible.net/v2/vietnamese/35.json",
-    "sha": "7a915543bb1679c489ac604cf45c3ffcc4b44c59"
+    "sha": "74d8faf89c4cc53098cb85e3fdca4600e8fbd5ab"
   },
   "36": {
     "translation": "Vietnamese (1934)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sô-phô-ni",
     "url": "https://api.getbible.net/v2/vietnamese/36.json",
-    "sha": "a9a1594c3154eca91840ec4c87fe75c1665f0549"
+    "sha": "79d9aa76c966274e10c7269af3c8904241a64544"
   },
   "37": {
     "translation": "Vietnamese (1934)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "A-gê",
     "url": "https://api.getbible.net/v2/vietnamese/37.json",
-    "sha": "50bd16185cfc32ef52e07c4110fb922a47e6dd21"
+    "sha": "38ad30071a801833a0845da64c228a00614c1fd1"
   },
   "38": {
     "translation": "Vietnamese (1934)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Xa-cha-ri",
     "url": "https://api.getbible.net/v2/vietnamese/38.json",
-    "sha": "bcf4d287e0d479b4b53ae5778a7d12561b418b62"
+    "sha": "dfb5becf6f3b7e5fd7bad4154a21ded947136fce"
   },
   "39": {
     "translation": "Vietnamese (1934)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Ma-la-chi",
     "url": "https://api.getbible.net/v2/vietnamese/39.json",
-    "sha": "dbe9a000378b7577711f282b26c134acca7c74c4"
+    "sha": "3956d0faf96072daec2a3bef0de8bba3ab12c724"
   },
   "40": {
     "translation": "Vietnamese (1934)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Ma-thi-ơ",
     "url": "https://api.getbible.net/v2/vietnamese/40.json",
-    "sha": "08f17e0f340ffdd91c6f4c61ebc7e75f105a5593"
+    "sha": "426da68724c42db3b78833b41454fb7390f09d47"
   },
   "41": {
     "translation": "Vietnamese (1934)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Mác",
     "url": "https://api.getbible.net/v2/vietnamese/41.json",
-    "sha": "710c55a38b91d6bc53dd4f90acfc1397a5ccdade"
+    "sha": "3cc8c0c21459c3f071bca6b45c03b22afd2dacab"
   },
   "42": {
     "translation": "Vietnamese (1934)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lu-ca",
     "url": "https://api.getbible.net/v2/vietnamese/42.json",
-    "sha": "2f9ec8d3fc6dceb8042502620ce6498db9d8ad25"
+    "sha": "c70314a8e116ed4e5eecc358116b1a91716c7446"
   },
   "43": {
     "translation": "Vietnamese (1934)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Giăng",
     "url": "https://api.getbible.net/v2/vietnamese/43.json",
-    "sha": "ce3ff58aff5d6ec9d10438cd9cee9854e3b93568"
+    "sha": "46c09843ccea4f0435eff92b003cb6c79a45c940"
   },
   "44": {
     "translation": "Vietnamese (1934)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Công Vụ Các Sứ Đồ",
     "url": "https://api.getbible.net/v2/vietnamese/44.json",
-    "sha": "b5aa715dc6616b6f1afd7148329d4a1e62b8b03a"
+    "sha": "fedb2fd062fd36e733e10d4c589b2d66dfaf16c0"
   },
   "45": {
     "translation": "Vietnamese (1934)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Rô-ma",
     "url": "https://api.getbible.net/v2/vietnamese/45.json",
-    "sha": "9cace2b8fe0c079ac4a5516baa112278ffb2de91"
+    "sha": "efd63e8125ce687e4043c8fbdbb658565a28bb9a"
   },
   "46": {
     "translation": "Vietnamese (1934)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Cô-rinh-tô",
     "url": "https://api.getbible.net/v2/vietnamese/46.json",
-    "sha": "c59d9aed6415a36bf6d406c5337a82b87b43d11e"
+    "sha": "cc615070c3d01b7c1bf57dba7b0136000e3e6e6d"
   },
   "47": {
     "translation": "Vietnamese (1934)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Cô-rinh-tô",
     "url": "https://api.getbible.net/v2/vietnamese/47.json",
-    "sha": "e3fe585afbf40ad1df43418c42a130f2933c6da1"
+    "sha": "94186e554cb6b30aca51a86d0f75cd2e818977ee"
   },
   "48": {
     "translation": "Vietnamese (1934)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Ga-la-ti",
     "url": "https://api.getbible.net/v2/vietnamese/48.json",
-    "sha": "cdede76475f0f86fe0dff0ba30d53cd87fa92192"
+    "sha": "6acda656ee295f898eaaa6e3b8c4cfbc5ec7ce61"
   },
   "49": {
     "translation": "Vietnamese (1934)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Ê-phê-sô",
     "url": "https://api.getbible.net/v2/vietnamese/49.json",
-    "sha": "aeae088b4fe23a2ac76d8bd3f7d55a386548ed20"
+    "sha": "23c9de1c8f49b92f374103fee9b2f1999c6fbbb5"
   },
   "50": {
     "translation": "Vietnamese (1934)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Phi-líp",
     "url": "https://api.getbible.net/v2/vietnamese/50.json",
-    "sha": "b5e935004bfb4ac520ac711aeb4393ec0c47b5ad"
+    "sha": "e103d795f9bb824c9e853226c25fbd6ab7a879a6"
   },
   "51": {
     "translation": "Vietnamese (1934)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Cô-lô-se",
     "url": "https://api.getbible.net/v2/vietnamese/51.json",
-    "sha": "c131fbcf1be917b965633fa1fa323a2979e5e49d"
+    "sha": "fbb6f5adb1a8e63db3530134709d0dc3ddd1f11b"
   },
   "52": {
     "translation": "Vietnamese (1934)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tê-sa-lô-ni-ca",
     "url": "https://api.getbible.net/v2/vietnamese/52.json",
-    "sha": "2de457c39b3d0f28d928793a39a9224d7352c891"
+    "sha": "07a91e52343f356857f0d67d4bdbd3e9a8c77dd4"
   },
   "53": {
     "translation": "Vietnamese (1934)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tê-sa-lô-ni-ca",
     "url": "https://api.getbible.net/v2/vietnamese/53.json",
-    "sha": "72a292308533984a59b84aa7611bf3a32ce1e678"
+    "sha": "f5626b62981d49b7ff7d14a5e195df6356f42b2e"
   },
   "54": {
     "translation": "Vietnamese (1934)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Ti-mô-thê",
     "url": "https://api.getbible.net/v2/vietnamese/54.json",
-    "sha": "1121785da38351069e3415f4a383e81f73dbb55d"
+    "sha": "575c1ed97c8dbe7b1f408d6310b0c89a36c9f3df"
   },
   "55": {
     "translation": "Vietnamese (1934)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Ti-mô-thê",
     "url": "https://api.getbible.net/v2/vietnamese/55.json",
-    "sha": "7e278300aeed57be2e9eec4c01ca3b31f12167bb"
+    "sha": "df2b56bd800c8ad37125e9222263e7cfdc49196d"
   },
   "56": {
     "translation": "Vietnamese (1934)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tít",
     "url": "https://api.getbible.net/v2/vietnamese/56.json",
-    "sha": "95dc5cff9c3e3eb78c3d0d0bdc3b3807f93b83da"
+    "sha": "66f063addedd6ca03a34dfd1cf9bdd147f13fc39"
   },
   "57": {
     "translation": "Vietnamese (1934)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Phi-lê-môn",
     "url": "https://api.getbible.net/v2/vietnamese/57.json",
-    "sha": "556a38a6231e5deaffa1d4bfe5a812e28b87f657"
+    "sha": "65b813d209c7df94c59114f8cbd81b4820814591"
   },
   "58": {
     "translation": "Vietnamese (1934)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hê-bơ-rơ",
     "url": "https://api.getbible.net/v2/vietnamese/58.json",
-    "sha": "c312930152efcb6054d9b8f17443e10370a62ba1"
+    "sha": "a520e25e623fef97b56571499b133dd17cae6f37"
   },
   "59": {
     "translation": "Vietnamese (1934)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Gia-cơ",
     "url": "https://api.getbible.net/v2/vietnamese/59.json",
-    "sha": "db4221cda301f850abad0438057191bbb69c665f"
+    "sha": "3f2e5e4b65dacf30e096bf29a2c4e0aa86caf77c"
   },
   "60": {
     "translation": "Vietnamese (1934)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Phi-rơ",
     "url": "https://api.getbible.net/v2/vietnamese/60.json",
-    "sha": "54519c2069380d39d7c473fb08f2e2e79cd3130d"
+    "sha": "e79d4b406194eeee86ac5c2e3c1d65ed114547ee"
   },
   "61": {
     "translation": "Vietnamese (1934)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Phi-rơ",
     "url": "https://api.getbible.net/v2/vietnamese/61.json",
-    "sha": "b637f15a0062917fc4e0ae32fa2a8f5fc3cd9ff1"
+    "sha": "decfa4c902caa2f51b70ea884c4ec413a79c2313"
   },
   "62": {
     "translation": "Vietnamese (1934)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Giăng",
     "url": "https://api.getbible.net/v2/vietnamese/62.json",
-    "sha": "2613d4fa6079bc3b805d1ec45d6bb7a0538d8bc5"
+    "sha": "056159f00fa2d878e291e0f13d295bff386b098e"
   },
   "63": {
     "translation": "Vietnamese (1934)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Giăng",
     "url": "https://api.getbible.net/v2/vietnamese/63.json",
-    "sha": "0cbf88ba2b74fbf779b14292b073c056ef26aabf"
+    "sha": "b4d2e667c71e632f6c5e11e6f9e0ba8a51ac725c"
   },
   "64": {
     "translation": "Vietnamese (1934)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Giăng",
     "url": "https://api.getbible.net/v2/vietnamese/64.json",
-    "sha": "1d50db31ff1843b8a841338770a75d87c0aa5fa4"
+    "sha": "69dc080de3012851b417441ad992fff29d847890"
   },
   "65": {
     "translation": "Vietnamese (1934)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Giu-đe",
     "url": "https://api.getbible.net/v2/vietnamese/65.json",
-    "sha": "7b8ed8cec2668d4043ed3406c86b57b6f97ee0f4"
+    "sha": "d2fd8ec613c27f50bd6365f58992067f2c9f4a18"
   },
   "66": {
     "translation": "Vietnamese (1934)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Khải Huyền",
     "url": "https://api.getbible.net/v2/vietnamese/66.json",
-    "sha": "54410f3e721c0350a6d5e6827187b0d391138e47"
+    "sha": "c1f9a8b24b4cd9952d80c35201420b0872a33512"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaki",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malaki 1",
     "url": "https://api.getbible.net/v2/swedish/39/1.json",
-    "sha": "f4a078a12abb94b0be6d0842f9f643dcadda8cc3"
+    "sha": "880915e3775fa1d6d8bedc5c2ab7c42c77b88024"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaki",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malaki 2",
     "url": "https://api.getbible.net/v2/swedish/39/2.json",
-    "sha": "e7dee384b67fcc6cd5c9e5acc8c7f00156883859"
+    "sha": "f89b4f6f0132c332546cb6bfda526e09da79ba5e"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaki",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malaki 3",
     "url": "https://api.getbible.net/v2/swedish/39/3.json",
-    "sha": "212843cbf8c5fec24791a90ecba22f57b956e6df"
+    "sha": "92009a78e562f7ca3f1a5385cdbc8bc331ba02bc"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaki",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malaki 4",
     "url": "https://api.getbible.net/v2/swedish/39/4.json",
-    "sha": "f2b4224a9205adbbed6dc46eae0d3b9f0f9d29cd"
+    "sha": "b0888b040fb76cb0883833b211d60cd7751ca2af"
   }
 }

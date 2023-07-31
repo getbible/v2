@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "Προς Τιμόθεον Β' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/55/1.json",
-    "sha": "f9f4e45623a62377d107a8881be3ebb0749861c0"
+    "sha": "7b958802b7b465ca8238ece218974f5cb162afe3"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "Προς Τιμόθεον Β' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/55/2.json",
-    "sha": "34cf1971be2cc0d7ffd968fadc78908185c7edbc"
+    "sha": "9edabf705582fcd2b443fc16ab8deceb2d78c2d3"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "Προς Τιμόθεον Β' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/55/3.json",
-    "sha": "4db1367a8c2009800eb23f7ce77c7a7de6ac37d7"
+    "sha": "6f93cf0d6d5dd273dcc3e4473d6b07e4a89dc13c"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "Προς Τιμόθεον Β' 4",
     "url": "https://api.getbible.net/v2/textusreceptus/55/4.json",
-    "sha": "58694d9ce799e36f0f51ddf9f875d4b11159f0eb"
+    "sha": "7a195566d57135e9b2fa011a0353750a91926469"
   }
 }

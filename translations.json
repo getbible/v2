@@ -2,6 +2,7 @@
   "akjv": {
     "translation": "American King James Version",
     "abbreviation": "akjv",
+    "description": "American King James Version",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -21,14 +22,15 @@
       "history_1.2": "Updated to new text and fixed a couple incomplete verses."
     },
     "url": "https://api.getbible.net/v2/akjv.json",
-    "sha": "b47203f5c1f296c63d67273bb2df2ae1dbea0f3e"
+    "sha": "2c0b022e7396795322a8a9dc02fa451fa4cbce42"
   },
   "aleppo": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
+    "description": "Aleppo Codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. O.T. Hebrew.",
     "distribution_version": "2.0.1",
@@ -45,11 +47,12 @@
       "history_2.0.1": "(2022-08-06) Change Lang to Hebrew Ancient"
     },
     "url": "https://api.getbible.net/v2/aleppo.json",
-    "sha": "1567f16903e6f7e67f7181f1d0a6a1f485be4075"
+    "sha": "6044d31a59450ba0507d92bfab1abf15eaf1ac2c"
   },
   "almeida": {
     "translation": "Almeida Atualizada",
     "abbreviation": "almeida",
+    "description": "Bíblia Almeida Recebida (AR)",
     "lang": "pt",
     "language": "Portuguese",
     "direction": "LTR",
@@ -70,11 +73,12 @@
       "history_1.3.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
     "url": "https://api.getbible.net/v2/almeida.json",
-    "sha": "1afb34f1362b130681fd15a681d3369d45df2f88"
+    "sha": "7b100492e5db9178e575f077b4145fd87afb1ca8"
   },
   "aov": {
     "translation": "Ou Vertaling",
     "abbreviation": "aov",
+    "description": "1933/1953 Afrikaans Bybel",
     "lang": "af",
     "language": "Afrikaans",
     "direction": "LTR",
@@ -97,11 +101,12 @@
       "history_1.3.3": "(2022-08-01) conf file correction"
     },
     "url": "https://api.getbible.net/v2/aov.json",
-    "sha": "b74929dcf727603e6da1fb9b2a846edf9dc3b667"
+    "sha": "e395e50cd43530b54238ac897593bdd04a46e233"
   },
   "arabicsv": {
     "translation": "Smith and Van Dyke",
     "abbreviation": "arabicsv",
+    "description": "Smith and van Dyck's al-Kitab al-Muqaddas (Arabic Bible)",
     "lang": "ar",
     "language": "Arabic",
     "direction": "RTL",
@@ -127,11 +132,12 @@
       "history_2.3": "(2023-01-18) Solves MOD-443: 2Cor 8:3 Is Missing Matt 17:25, 26, 27 Mar 4:2 3John 1:14 Versification issues"
     },
     "url": "https://api.getbible.net/v2/arabicsv.json",
-    "sha": "1776be0c683a0a7d6d6e60fe1986846f2584a4c9"
+    "sha": "3aa9d71618dfb0693e6579602a8beb6def3e2af4"
   },
   "asv": {
     "translation": "American Standard Version",
     "abbreviation": "asv",
+    "description": "American Standard Version (1901)",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -152,11 +158,12 @@
       "history_2.0": "(2021-02-18) New text source, solves MOD-183"
     },
     "url": "https://api.getbible.net/v2/asv.json",
-    "sha": "55c412b9eab43d069caf72c0a52f24eac019de16"
+    "sha": "c647bcf268a540b7fd64a65ae4282a9f23869010"
   },
   "basicenglish": {
     "translation": "Basic English Bible",
     "abbreviation": "basicenglish",
+    "description": "1949/1964 Bible in Basic English",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -176,11 +183,12 @@
       "history_1.1": "minor correction to Rev 12:1"
     },
     "url": "https://api.getbible.net/v2/basicenglish.json",
-    "sha": "991485dc1f80014891e0fa681c8c7ff52342ce08"
+    "sha": "a403c9b708b44dfba83ea9a432a314264e64513d"
   },
   "basque": {
     "translation": "(Navarro Labourdin) NT",
     "abbreviation": "basque",
+    "description": "1571 Navarro-Labourdin Basque NT",
     "lang": "eu",
     "language": "Basque",
     "direction": "LTR",
@@ -200,11 +208,12 @@
       "history_1.0": "First version"
     },
     "url": "https://api.getbible.net/v2/basque.json",
-    "sha": "0f9ba958aa71386d6af38fea75e723c8b2c47aab"
+    "sha": "4d67722c85f64f66368fc27d7254fd4d31a9450a"
   },
   "bibelselskap": {
     "translation": "Det Norsk Bibelselskap (1930)",
     "abbreviation": "bibelselskap",
+    "description": "Bibelen på Norsk (1930)",
     "lang": "nb",
     "language": "Norwegian bokmal",
     "direction": "LTR",
@@ -225,11 +234,12 @@
       "history_2.0": "(2020-02-08) New module, added notes and crossreferences"
     },
     "url": "https://api.getbible.net/v2/bibelselskap.json",
-    "sha": "2b9a864cd5aa7bdc1f70891f8ca9a3eb1d1313d7"
+    "sha": "aefc6507fc93ccdd56f850f4169cb5a97702654d"
   },
   "bkr": {
     "translation": "Czech BKR",
     "abbreviation": "bkr",
+    "description": "Czech Bible Kralicka",
     "lang": "cs",
     "language": "Czech",
     "direction": "LTR",
@@ -251,11 +261,12 @@
       "history_1.5": "(2023-01-18) Mainly fixing missing text in John-10:38 (MOD-449)"
     },
     "url": "https://api.getbible.net/v2/bkr.json",
-    "sha": "01803a40783f8e704da34ffd23361acf034e382e"
+    "sha": "5ba992b98186ae032ec8bb860dc67f73def6298c"
   },
   "breton": {
     "translation": "Gospels",
     "abbreviation": "breton",
+    "description": "Breton New Testament (Koad 21)",
     "lang": "br",
     "language": "Breton",
     "direction": "LTR",
@@ -275,11 +286,12 @@
       "history_1.0": "[2012-02-29] Initial build  from source text (2010 edition)"
     },
     "url": "https://api.getbible.net/v2/breton.json",
-    "sha": "6c26199a9ea03dc551a09cb3738125d4987ded74"
+    "sha": "648ad897438b779641b8b81695f1fc879c70a59b"
   },
   "cep": {
     "translation": "Czech CEP",
     "abbreviation": "cep",
+    "description": "Czech Ekumenicky Cesky preklad",
     "lang": "cs",
     "language": "Czech",
     "direction": "LTR",
@@ -306,11 +318,12 @@
       "history_1.8": "(2020-01-23) Fix multiple typos in the text (mostly suggested by Libor Štefek)."
     },
     "url": "https://api.getbible.net/v2/cep.json",
-    "sha": "bab1ccd39ff4cedd58a1aa789385d03f413f2e67"
+    "sha": "258aab7b8ec993ba3aeec817de5d846b96810539"
   },
   "chamorro": {
     "translation": "(Psalms Gospels Acts)",
     "abbreviation": "chamorro",
+    "description": "Chamorro: Y Santa Biblia (1908)",
     "lang": "ch",
     "language": "Chamorro",
     "direction": "LTR",
@@ -344,13 +357,14 @@
       "history_1.0": "The 1908 Chamorro Bible introduced as a module for CrossWire Bible Society's \"The SWORD Project\".  This is an important date in the 1908 Chamorro Bible's history. (2004-02-19)"
     },
     "url": "https://api.getbible.net/v2/chamorro.json",
-    "sha": "156b51f9c283c3e0f85f13a74b91990783153307"
+    "sha": "6b51caa125b55c46a84b73bac625201ff9f2ce1b"
   },
   "cns": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
+    "description": "新译本",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Chinese (Subform \"hans\")",
@@ -368,13 +382,14 @@
       "history_1.1.1": "(2022-08-02) Fix typos in configuration file"
     },
     "url": "https://api.getbible.net/v2/cns.json",
-    "sha": "2ac26e41c2349b8a92e7fb1c2d22ef4029eba996"
+    "sha": "daa5e614f7dc3ec24076c797d3fdbb6f548e596e"
   },
   "cnt": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
+    "description": "新譯本",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Chinese (Subform \"hant\")",
@@ -392,14 +407,15 @@
       "history_1.1.1": "(2022-08-02) Fix typos in configuration file"
     },
     "url": "https://api.getbible.net/v2/cnt.json",
-    "sha": "834c6dcf615a8dbc0e74c2f09fba24127a63f1f6"
+    "sha": "46a734bf685e1ad3a0b0091641582a25ac37d91b"
   },
   "codex": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
+    "description": "Westminster Leningrad Codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Ancient Hebrew",
     "distribution_version": "2.0",
@@ -425,11 +441,12 @@
       "history_2.0": "(2022-09-17) Updated to WLC 20220916. Solves MOD-287, MOD-288: maqaf punctuation is no more followed by a space, MOD-303: Spurious notes entries removed."
     },
     "url": "https://api.getbible.net/v2/codex.json",
-    "sha": "89861eba4f9c76f58e982ca1fb69c9e0cf036781"
+    "sha": "b4182ca700593decfb84e32efb91ecd9d45b897c"
   },
   "coptic": {
     "translation": "New Testament",
     "abbreviation": "coptic",
+    "description": "The Coptic New Testament",
     "lang": "cop",
     "language": "Coptic",
     "direction": "LTR",
@@ -448,11 +465,12 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/coptic.json",
-    "sha": "0cf5fc3eb27635b7273c510cc7345d84799aa8d1"
+    "sha": "70de8781f1203d2603afd8314daf50f9b72c79cd"
   },
   "cornilescu": {
     "translation": "Cornilescu",
     "abbreviation": "cornilescu",
+    "description": "Cornilescu Bible in Romanian language",
     "lang": "ro",
     "language": "Romanian",
     "direction": "LTR",
@@ -473,11 +491,12 @@
       "history_2.2": "Correction of xref and conversion errors (updated toolset)"
     },
     "url": "https://api.getbible.net/v2/cornilescu.json",
-    "sha": "06b3d5939e4f044b9140c2a8afdfab1af4ac5c04"
+    "sha": "8043a2bd800355900abdd6f3dd79a327f86aeff5"
   },
   "croatia": {
     "translation": "Croatian",
     "abbreviation": "croatia",
+    "description": "Croatian Bible",
     "lang": "hr",
     "language": "Croatian",
     "direction": "LTR",
@@ -493,13 +512,14 @@
     "distribution_versification": "",
     "distribution_history": {},
     "url": "https://api.getbible.net/v2/croatia.json",
-    "sha": "d5e268c66b04af7b47d1611e0d148e168c8e43fa"
+    "sha": "1e7a9b83deddb8d1321df5c5be835f0bbc1a2a81"
   },
   "cus": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
+    "description": "和合本 (简体字)",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible .Chinese",
@@ -519,13 +539,14 @@
       "history_3.0": "(2021-01-31) New source http://bible.fhl.net version: 2020-12-24 Solved issues: MOD-266"
     },
     "url": "https://api.getbible.net/v2/cus.json",
-    "sha": "cb47ac5340726293685aaeafcb0ae71376a34f88"
+    "sha": "bf03615515270493c89fa66db18652ffc4d8db11"
   },
   "cut": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
+    "description": "和合本 (繁體字)",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible .Chinese",
@@ -545,11 +566,12 @@
       "history_3.0": "(2021-01-28) Rebuild from scratch from http://bible.fhl.net. Solve issues: MOD-266 MOD-365 MOD-366"
     },
     "url": "https://api.getbible.net/v2/cut.json",
-    "sha": "b6641c1258af630360f3092f2c712fb73def9db0"
+    "sha": "2280c8a7ee55358756d33002828e755663eb0a8c"
   },
   "danish": {
     "translation": "Danish",
     "abbreviation": "danish",
+    "description": "Danish OT1931 + NT1907 with original orthography",
     "lang": "da",
     "language": "Danish",
     "direction": "LTR",
@@ -570,11 +592,12 @@
       "history_1..01": "(2017-05-22) Conf file corrections"
     },
     "url": "https://api.getbible.net/v2/danish.json",
-    "sha": "4a39c7315522eb43bd543acfb9e7df180d29aeb3"
+    "sha": "59aaba628473984dc487cbd45751a1de004cf61c"
   },
   "darby": {
     "translation": "Darby",
     "abbreviation": "darby",
+    "description": "Bible J.N. Darby in French (2022)",
     "lang": "fr",
     "language": "French",
     "direction": "LTR",
@@ -616,11 +639,12 @@
       "history_2.0": "(2022-12-22) New source (from BPC editor JND v1.2) with new versification (German)"
     },
     "url": "https://api.getbible.net/v2/darby.json",
-    "sha": "c7c70f679a4f18db9133535d30d43473d866b4cb"
+    "sha": "4a2ad9b27d8d97d447ef7b47ba2e6496e252d7c4"
   },
   "douayrheims": {
     "translation": "Douay Rheims",
     "abbreviation": "douayrheims",
+    "description": "Douay-Rheims Bible, Challoner Revision",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -639,11 +663,12 @@
       "history_1.1": "compressed module"
     },
     "url": "https://api.getbible.net/v2/douayrheims.json",
-    "sha": "08b19043385d6e2ae6f0f8e85e2b139260ce2bf1"
+    "sha": "414fe481d8c973bdb227f56de383874371676dd1"
   },
   "easternarmenian": {
     "translation": "Eastern (Genesis Exodus Gospels)",
     "abbreviation": "easternarmenian",
+    "description": "Eastern Armenian Bible",
     "lang": "hy",
     "language": "Armenian",
     "direction": "LTR",
@@ -661,11 +686,12 @@
       "history_1.1": "Updated About and Description text"
     },
     "url": "https://api.getbible.net/v2/easternarmenian.json",
-    "sha": "c171aaa7db9f3d4e9aa01639e3117bd4b4e78241"
+    "sha": "5c21431b0b9e8a32835ed1ec070ebba1793bd12e"
   },
   "elberfelder": {
     "translation": "Elberfelder (1871)",
     "abbreviation": "elberfelder",
+    "description": "German Elberfelder (1871) (sogenannt)",
     "lang": "de",
     "language": "German",
     "direction": "LTR",
@@ -687,11 +713,12 @@
       "history_1.2": "(2020-02-06) Fix https://tracker.crosswire.org/browse/MOD-299, crossref, notes..."
     },
     "url": "https://api.getbible.net/v2/elberfelder.json",
-    "sha": "224d98a08c274232dcdc35fc5ab07990e0edd234"
+    "sha": "8fc1c3b8d53cfea13b17becb0cca333d493f2a21"
   },
   "elberfelder1905": {
     "translation": "Elberfelder (1905)",
     "abbreviation": "elberfelder1905",
+    "description": "German Darby Unrevidierte Elberfelder (1905)",
     "lang": "de",
     "language": "German",
     "direction": "LTR",
@@ -714,11 +741,12 @@
       "history_1.6": "(2021-02-08) Versification change"
     },
     "url": "https://api.getbible.net/v2/elberfelder1905.json",
-    "sha": "b64678e690fc185c56ae5b3ad1ed150015f56f1e"
+    "sha": "a339b41e71755bacefa8c117ad489c010bc28c91"
   },
   "esperanto": {
     "translation": "Esperanto",
     "abbreviation": "esperanto",
+    "description": "Esperanto Londona Biblio",
     "lang": "eo",
     "language": "Esperanto",
     "direction": "LTR",
@@ -741,11 +769,12 @@
       "history_2.1": "(2020-05-21) Fix Encoding Issue"
     },
     "url": "https://api.getbible.net/v2/esperanto.json",
-    "sha": "121800c048619f710cfd8a4a0c0202594b7373e7"
+    "sha": "e2d47b1d02292632365ac3d8acedb126c389ff77"
   },
   "estonian": {
     "translation": "Estonian",
     "abbreviation": "estonian",
+    "description": "Estonian Bible",
     "lang": "et",
     "language": "Estonian",
     "direction": "LTR",
@@ -763,11 +792,12 @@
       "history_1.1": "corrected UTF-8 encoding, fixed errors (repeating verses)"
     },
     "url": "https://api.getbible.net/v2/estonian.json",
-    "sha": "d71c2cd5153ac16df8e1f1451025e198b567205d"
+    "sha": "ef0e9a76a4b3072ee4ad00e76b9165178d68dace"
   },
   "finnish1776": {
     "translation": "Finnish Bible (1776)",
     "abbreviation": "finnish1776",
+    "description": "Finnish Biblia (1776)",
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
@@ -788,11 +818,12 @@
       "history_2.1": "(2020-08-01) Minor correction in DC"
     },
     "url": "https://api.getbible.net/v2/finnish1776.json",
-    "sha": "18dda8ab48e789f9ca2e703931711b886247571c"
+    "sha": "022a3ce364fc90f7aa202b2e852aa1fbebc12325"
   },
   "gaelic": {
     "translation": "Scots Gaelic (Gospel of Mark)",
     "abbreviation": "gaelic",
+    "description": "Scottish Gaelic Gospel of Mark",
     "lang": "gd",
     "language": "Scottish Gaelic",
     "direction": "LTR",
@@ -811,11 +842,12 @@
       "history_1.1": "compressed module"
     },
     "url": "https://api.getbible.net/v2/gaelic.json",
-    "sha": "5c5cc77f7e2fd08a4a92dbcfae8d8873e2e7f713"
+    "sha": "d8ff4c92ffc6c2bd38aea3c35a0f54897b178ec2"
   },
   "giovanni": {
     "translation": "Giovanni Diodati Bible (1649)",
     "abbreviation": "giovanni",
+    "description": "Italian Giovanni Diodati Bibbia 1649",
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
@@ -834,11 +866,12 @@
       "history_1.1": "(2020-02-08) Fix issue https://tracker.crosswire.org/browse/MOD-299"
     },
     "url": "https://api.getbible.net/v2/giovanni.json",
-    "sha": "9dab74c6dcf1e9e97a8eea8fecd47d82fa051aae"
+    "sha": "cee35588f101b688cec9d51b32a1b4ed99df2823"
   },
   "gothic": {
     "translation": "Gothic (Nehemiah NT Portions)",
     "abbreviation": "gothic",
+    "description": "Bishop Wulfila Gothic Bible",
     "lang": "got",
     "language": "Gothic",
     "direction": "LTR",
@@ -857,11 +890,12 @@
       "history_1.0": "Initial release (2002-01-01)"
     },
     "url": "https://api.getbible.net/v2/gothic.json",
-    "sha": "3f1e25c6e47016042e1d864cff8cdc7595bd1ee6"
+    "sha": "e7e6ed1d95f40b1f8f112226398bae275fefec97"
   },
   "judson": {
     "translation": "Judson (1835)",
     "abbreviation": "judson",
+    "description": "1835 Judson Burmese Bible",
     "lang": "my",
     "language": "Myanmar Burmse",
     "direction": "LTR",
@@ -882,11 +916,12 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/judson.json",
-    "sha": "e695200434d3fc1b1b3d09d5d8915c23227cc032"
+    "sha": "0e5e0b3cc044e3b7a5c54c039a877c82e7a1f182"
   },
   "karoli": {
     "translation": "Hungarian Karoli",
     "abbreviation": "karoli",
+    "description": "Revideált Károli Biblia 1908",
     "lang": "hu",
     "language": "Hungarian",
     "direction": "LTR",
@@ -909,79 +944,85 @@
       "history_2.0": "(2020-10-23) Module rebuilt based on new source with cross-references (from http://szentiras.hu/KG) and section titles (from http://abibliamindenkie.hu/karoli). Description corrected."
     },
     "url": "https://api.getbible.net/v2/karoli.json",
-    "sha": "23e09314d1e63c3ff865bbab3493bef907eb9fa4"
+    "sha": "380a33d83198abfc7cb333fbc89d7c951045274f"
   },
   "kjv": {
     "translation": "King James Version",
     "abbreviation": "kjv",
+    "description": "King James Version (1769) with Strongs Numbers and Morphology  and CatchWords",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. English.",
-    "distribution_version": "2.10.2",
-    "distribution_version_date": "2021-04-04",
+    "distribution_lcsh": "Bible.English",
+    "distribution_version": "3.1",
+    "distribution_version_date": "2023-07-19",
     "distribution_abbreviation": "kjv",
-    "distribution_about": "This is the King James Version of the Holy Bible (also known as the Authorized Version) with embedded Strong's Numbers.  The rights to the base text are held by the Crown of England.  The Strong's numbers in the OT were obtained from The Bible Foundation: http://www.bf.org.  The NT Strong's data was obtained from The KJV2003 Project at CrossWire: http://www.crosswire.org.  These mechanisms provide a useful means for looking up the exact original language word in a lexicon that is keyed to Strong's numbers.\\par\\par Special thanks to the volunteers at Bible Foundation for keying the Hebrew/English data and of Project KJV2003 for working toward the completion of synchronizing the English phrases to the Stephanas Textus Receptus, and to Dr. Maurice Robinson for providing the base Greek text with Strong's and Morphology.  We are also appreciative of formatting markup that was provided by Michael Paul Johnson at http://www.ebible.org.  Their time and generosity to contribute such for the free use of the Body of Christ is a great blessing and this derivitive work could not have been possible without these efforts of so many individuals.  It is in this spirit that we in turn offer the KJV2003 Project text freely for any purpose.  Any copyright that might be obtained for this effort is held by CrossWire Bible Society (c) 2003-2016 and CrossWire Bible Society hereby grants a general public license to use this text for any purpose.\\par Inquiries and comments may be directed to:\\par\\par CrossWire Bible Society\\par kjv2003@crosswire.org\\par http://www.crosswire.org",
-    "distribution_license": "General public license for distribution for any purpose",
+    "distribution_about": "This is the King James Version of the Holy Bible (also known as the Authorized Version) with embedded Strong's Numbers.  The rights to the base text are held by the Crown of England.\\par  The Strong's numbers in the OT were obtained from The Bible Foundation: http://www.bf.org.  The NT Strong's data was obtained from The KJV2003 Project at CrossWire: http://www.crosswire.org.  These mechanisms provide a useful means for looking up the exact original language word in a lexicon that is keyed to Strong's numbers.\\par\\par Special thanks to the volunteers at Bible Foundation for keying the Hebrew/English data and of Project KJV2003 for working toward the completion of synchronizing the English phrases to the Stephanas Textus Receptus, and to Dr. Maurice Robinson for providing the base Greek text with Strong's and Morphology.\\par  We are also appreciative of formatting markup that was provided by Michael Paul Johnson at http://www.ebible.org.  Their time and generosity to contribute such for the free use of the Body of Christ is a great blessing and this derivitive work could not have been possible without these efforts of so many individuals.\\par  Version 3.1 incorporates a more recent set of TR data from Dr. Maurice Robinson than was used in all the earlier versions. The TR data was obtained in 2016 from the Greek New Testament sources website \\par https://sites.google.com/a/wmail.fi/greeknt/home/greeknt \\par This was integrated into the OSIS source files of an intermediate version 2.9a hosted at \\par https://www.crosswire.org/~dmsmith/kjv2011/kjv2.9a/ \\par  It is in this spirit that we in turn offer the KJV2003 Project text freely for any purpose.\\par  Any copyright that might be obtained for this effort is held by CrossWire Bible Society © 2003-2023 and CrossWire Bible Society hereby grants a general public license to use this text for any purpose.\\par Inquiries and comments may be directed to:\\par\\par CrossWire Bible Society\\par modules@crosswire.org\\par http://www.crosswire.org",
+    "distribution_license": "GPL",
     "distribution_sourcetype": "OSIS",
-    "distribution_source": "bf.org, eBible.org, https://sites.google.com/a/wmail.fi/greeknt/home/greeknt, crosswire.org",
-    "distribution_versification": "",
+    "distribution_source": "https://gitlab.com/crosswire-bible-society/kjv",
+    "distribution_versification": "KJV",
     "distribution_history": {
-      "history_2.10.2": "Fixed errant article Strong's markup (2021-04-04)",
-      "history_2.9": "Added markup to notes. Improved markup of Selah. (2016-01-21)",
-      "history_2.8": "Moved Ps 119 acrostic titles before verse number. Added Feature for no paragraphs. (2015-12-20)",
-      "history_2.7": "Fixed bugs preventing the display of some Strong's Numbers.",
-      "history_2.6.1": "Added GlobalOptionFilter for OSISLemma",
-      "history_2.6": "Fixed bugs. Added Greek from TR.",
-      "history_2.5": "Fixed bugs.",
-      "history_2.4": "Fixed bugs.",
-      "history_2.3": "Fixed bugs.",
-      "history_2.2": "Updated to 20040121 snapshot of KJV2003.",
-      "history_2.1": "Changed Old Testament to use OSIS tags, removing the last of the GBF markup.  Also updated to 20030624 snapshot of KJV2003.  Compressed.",
-      "history_2.0": "Changed New Testament to use a snapshot of the KJV2003 Project",
-      "history_1.4": "Fixed Psalm Titles to use correct GBF tags HT and Ht",
-      "history_1.3": "Added Morph option",
+      "history_1.1": "Fixed .conf file GlobalOptionFilters",
       "history_1.2": "Added Feature StrongsNumbers to configuration",
-      "history_1.1": "Fixed .conf file GlobalOptionFilters"
+      "history_1.3": "Added Morph option",
+      "history_1.4": "Fixed Psalm Titles to use correct GBF tags HT and Ht",
+      "history_2.0": "Changed New Testament to use a snapshot of the KJV2003 Project",
+      "history_2.1": "Changed Old Testament to use OSIS tags, removing the last of the GBF markup.  Also updated to 20030624 snapshot of KJV2003.  Compressed.",
+      "history_2.2": "Updated to 20040121 snapshot of KJV2003.",
+      "history_2.3": "Fixed bugs.",
+      "history_2.4": "Fixed bugs.",
+      "history_2.5": "Fixed bugs.",
+      "history_2.6": "Fixed bugs. Added Greek from TR.",
+      "history_2.6.1": "Added GlobalOptionFilter for OSISLemma",
+      "history_2.7": "Fixed bugs preventing the display of some Strong's Numbers.",
+      "history_2.8": "(2015-12-20) Moved Ps 119 acrostic titles before verse number. Added Feature for no paragraphs.",
+      "history_2.9": "(2016-01-21) Added markup to notes. Improved markup of Selah.",
+      "history_2.10.2": "(2021-04-04) Fixed errant article Strong's markup in Rom.3.26",
+      "history_2.11": "(2023-06-27) Updated the TR data in 5888 verses. Correction of Ps.2.4: the Lord → the <divineName>Lord</divineName>.\\ MOD-448: many errors with strong as G3688, should be G3588.\\ Five locations where small caps is inappropriate, <divineName>Lord</divineName> change for <divineName>LORD</divineName> Exodus 28:36; 39:30, Deuteronomy 28:58, Jeremiah 23:6, Zechariah 14:20.\\ MOD-411: Psalm 80, Shoshannim–eduth → Shoshannim–Eduth.\\ MOD-408: italics in Nahum 1:3, (<w lemma=strong:H01870>hath) → (<transChange type=added>hath</transChange>).\\ MOD-358: Missing red letter markup in Luke 11:2, red marker moved before 'When'.\\ MOD-413 multiple text issues (italics, spelling, ...).\\ MOD-441: Missing strong number for the seventh word.\\ MOD-419: Spurious \"or\" removed; Exodus 17:15 \"Jehovah–nissi\" → \"JEHOVAH–nissi\".\\ 1 John 2:23 has \"(but)\" whereas Blayney has \"[but]\"; Correction of some morph errors in I Corinthians 3:13 A-GMS → A-GSM; I Corinthians 11:6 and 14:24 N-NAM → N-NSM; Hb 9.13, 10.4: N-GMP → N-GPM; I Cor 7:37 2 change for 12; 1Chr.27.12 Abi-ezer → abiezer; Exod.17.15: Jehovah → JEHOVAH.\\ Correction of Jer.23.6: L → LORD; MOD-376: Mk 1:10.19 have a wrong strong number: 1492. The correct number is 3708. Correction of rdg attribute type=\"alternative\" (2.9) to \"alternate\".  Misplaced </w> in Numbers 16:13. Duplicated entry in Eph. 3.20, spurious comma in Gn 1.2 and 2.9. Ezra 5:3,6; 6.6,13: morph=\"strongMorph:TH8674 changed for lemma=\"strong:H08674.",
+      "history_3.1": "(2023-07-19) Conf version updated to 3.1 to match KJVA version."
     },
     "url": "https://api.getbible.net/v2/kjv.json",
-    "sha": "fcf16e7b98fdd11807655102e798d38ceed9d8eb"
+    "sha": "91287fccb61d23727204d11d72d2543241ff4862"
   },
   "kjva": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
+    "description": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. English.",
-    "distribution_version": "3.0.1",
-    "distribution_version_date": "2014-01-15",
+    "distribution_lcsh": "Bible.English",
+    "distribution_version": "3.1",
+    "distribution_version_date": "2023-07-19",
     "distribution_abbreviation": "kjva",
-    "distribution_about": "This is the King James Version of the Holy Bible (also known as the Authorized Version) with embedded Strong's Numbers.  The rights to the base text are held by the Crown of England.  The Strong's numbers in the OT were obtained from The Bible Foundation: http://www.bf.org.  The NT Strong's data was obtained from The KJV2003 Project at CrossWire: http://www.crosswire.org.  These mechanisms provide a useful means for looking up the exact original language word in a lexicon that is keyed to Strong's numbers.\\par\\par Special thanks to the volunteers at Bible Foundation for keying the Hebrew/English data and of Project KJV2003 for working toward the completion of synchronizing the English phrases to the Stephanas Textus Receptus, and to Dr. Maurice Robinson for providing the base Greek text with Strong's and Morphology.  We are also appreciative of formatting markup that was provided by Michael Paul Johnson at http://www.ebible.org.  Their time and generosity to contribute such for the free use of the Body of Christ is a great blessing and this derivitive work could not have been possible without these efforts of so many individuals.  It is in this spirit that we in turn offer the KJV2003 Project text freely for any purpose.  Any copyright that might be obtained for this effort is held by CrossWire Bible Society (c) 2003 and CrossWire Bible Society hereby grants a general public license to use this text for any purpose.\\par Inquiries and comments may be directed to:\\par\\par        CrossWire Bible Society\\par        kjv2003@crosswire.org\\par        http://www.crosswire.org",
-    "distribution_license": "General public license for distribution for any purpose",
+    "distribution_about": "This is the King James Version of the Holy Bible (also known as the Authorized Version) with embedded Strong's Numbers.  The rights to the base text are held by the Crown of England.\\par  The Strong's numbers in the OT were obtained from The Bible Foundation: http://www.bf.org.  The NT Strong's data was obtained from The KJV2003 Project at CrossWire: http://www.crosswire.org.  These mechanisms provide a useful means for looking up the exact original language word in a lexicon that is keyed to Strong's numbers.\\par\\par Special thanks to the volunteers at Bible Foundation for keying the Hebrew/English data and of Project KJV2003 for working toward the completion of synchronizing the English phrases to the Stephanas Textus Receptus, and to Dr. Maurice Robinson for providing the base Greek text with Strong's and Morphology.\\par  We are also appreciative of formatting markup that was provided by Michael Paul Johnson at http://www.ebible.org.  Their time and generosity to contribute such for the free use of the Body of Christ is a great blessing and this derivitive work could not have been possible without these efforts of so many individuals.\\par  Version 3.1 incorporates a more recent set of TR data from Dr. Maurice Robinson than was used in all the earlier versions. The TR data was obtained in 2016 from the Greek New Testament sources website \\par https://sites.google.com/a/wmail.fi/greeknt/home/greeknt \\par This was integrated into the OSIS source files of an intermediate version 2.9a hosted at \\par https://www.crosswire.org/~dmsmith/kjv2011/kjv2.9a/ \\par  It is in this spirit that we in turn offer the KJV2003 Project text freely for any purpose.\\par  Any copyright that might be obtained for this effort is held by CrossWire Bible Society © 2003-2023 and CrossWire Bible Society hereby grants a general public license to use this text for any purpose.\\par Inquiries and comments may be directed to:\\par\\par CrossWire Bible Society\\par modules@crosswire.org\\par http://www.crosswire.org",
+    "distribution_license": "GPL",
     "distribution_sourcetype": "OSIS",
-    "distribution_source": "bf.org, eBible.org, crosswire.org",
+    "distribution_source": "https://gitlab.com/crosswire-bible-society/kjv",
     "distribution_versification": "KJVA",
     "distribution_history": {
-      "history_3.0.1": "Moved to main repository & changed Description (2014-01-15)",
-      "history_3.0": "Added Apocrypha (2009-10-03)",
-      "history_2.3": "Fixed bugs",
-      "history_2.2": "Updated to 20040121 snapshot of KJV2003",
-      "history_2.1": "Changed Old Testament to use OSIS tags, removing the last of the GBF markup.  Also updated to 20030624 snapshot of KJV2003.  Compressed.",
-      "history_2.0": "Changed New Testament to use a snapshot of the KJV2003 Project",
-      "history_1.4": "Fixed Psalm Titles to use correct GBF tags <HT><Ht>",
-      "history_1.3": "Added Morph option",
+      "history_1.1": "Fixed .conf file GlobalOptionFilters",
       "history_1.2": "Added Feature StrongsNumbers to configuration",
-      "history_1.1": "Fixed .conf file GlobalOptionFilters"
+      "history_1.3": "Added Morph option",
+      "history_1.4": "Fixed Psalm Titles to use correct GBF tags <HT><Ht>",
+      "history_2.0": "Changed New Testament to use a snapshot of the KJV2003 Project",
+      "history_2.1": "Changed Old Testament to use OSIS tags, removing the last of the GBF markup.  Also updated to 20030624 snapshot of KJV2003.  Compressed.",
+      "history_2.2": "Updated to 20040121 snapshot of KJV2003",
+      "history_2.3": "Fixed bugs",
+      "history_3.0": "Added Apocrypha (2009-10-03)",
+      "history_3.0.1": "Moved to main repository & changed Description (2014-01-15)",
+      "history_3.1": "(2023-07-19) See KJV 3.1 history"
     },
     "url": "https://api.getbible.net/v2/kjva.json",
-    "sha": "3e2df44761ddabb11032880091898a039415a551"
+    "sha": "615f7414236a3695ec20e95c3244e08a9c018725"
   },
   "korean": {
     "translation": "Korean",
     "abbreviation": "korean",
+    "description": "개역성경",
     "lang": "ko",
     "language": "Korean",
     "direction": "LTR",
@@ -1002,11 +1043,12 @@
       "history_1.1": "Changed to UTF-8 source, replaced some missing verses, and compressed"
     },
     "url": "https://api.getbible.net/v2/korean.json",
-    "sha": "6fcfa6efa638655e9929e660d3ab9cdbb53dde38"
+    "sha": "ab33d24c8ba9180d727b83eb0570aa60b174af84"
   },
   "latvian": {
     "translation": "New Testament",
     "abbreviation": "latvian",
+    "description": "Latvian New Testament",
     "lang": "lv",
     "language": "Latvian",
     "direction": "LTR",
@@ -1027,11 +1069,12 @@
       "history_1.1": "compressed module"
     },
     "url": "https://api.getbible.net/v2/latvian.json",
-    "sha": "d3c75d2b07f072bba34ea595955e3826f17ecfa4"
+    "sha": "5f3eac2232eaef6f724da14fe551c3f3490e9a06"
   },
   "lithuanian": {
     "translation": "Lithuanian",
     "abbreviation": "lithuanian",
+    "description": "Lithuanian Bible",
     "lang": "lt",
     "language": "Lithuanian",
     "direction": "LTR",
@@ -1057,11 +1100,12 @@
       "history_1.7.2": "(2017-08-23) minor conf update"
     },
     "url": "https://api.getbible.net/v2/lithuanian.json",
-    "sha": "134f81752ce51e7c1f567e66e0d55714b2190844"
+    "sha": "c860263534129c724fb27dd4a347b4a5fcfedbbb"
   },
   "ls1910": {
     "translation": "Louis Segond (1910)",
     "abbreviation": "ls1910",
+    "description": "Bible Louis Segond (1910)",
     "lang": "fr",
     "language": "French",
     "direction": "LTR",
@@ -1088,11 +1132,12 @@
       "history_3.1.1": "(2022-08-05) Fix typos in configuration file"
     },
     "url": "https://api.getbible.net/v2/ls1910.json",
-    "sha": "8b91e92c656f582d4e21209473a8fdc82f31810e"
+    "sha": "c65769ae935835951f0405bff74baf7ac06e67bb"
   },
   "luther1545": {
     "translation": "Luther (1545)",
     "abbreviation": "luther1545",
+    "description": "German Luther Übersetzung von 1545 (moderne Rechtschreibung)",
     "lang": "de",
     "language": "German",
     "direction": "LTR",
@@ -1118,11 +1163,12 @@
       "history_0.90": "First official version (2000-08-30)"
     },
     "url": "https://api.getbible.net/v2/luther1545.json",
-    "sha": "14fbfdeb1c5f7e1ac8f42dead7c5ef6f8b0090ea"
+    "sha": "0599a6aef29d2ff341d16168e42a0c71dc20b628"
   },
   "mal1910": {
     "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
     "abbreviation": "mal1910",
+    "description": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
     "lang": "mlf",
     "language": "",
     "direction": "LTR",
@@ -1143,11 +1189,12 @@
       "history_2.0": "(2023-01-07) Updated source to latest Git"
     },
     "url": "https://api.getbible.net/v2/mal1910.json",
-    "sha": "c3fd3ec98e5c7b5763c3b87cfadba5289d928fb9"
+    "sha": "e4d3028c9dbc99dd7382aa944c0739c7428fbace"
   },
   "manxgaelic": {
     "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
     "abbreviation": "manxgaelic",
+    "description": "Manx Gaelic Scripture Portions",
     "lang": "gv",
     "language": "Manx Gaelic",
     "direction": "LTR",
@@ -1165,11 +1212,12 @@
       "history_1.1": "compressed module"
     },
     "url": "https://api.getbible.net/v2/manxgaelic.json",
-    "sha": "ab92ea6c7e17e245f4fa271e12889945c86d2ecf"
+    "sha": "c4edfa6615444834362be2100958c438d45524b5"
   },
   "maori": {
     "translation": "Maori",
     "abbreviation": "maori",
+    "description": "Maori Bible",
     "lang": "mi",
     "language": "Maori",
     "direction": "LTR",
@@ -1188,11 +1236,12 @@
       "history_1.0": "initial release"
     },
     "url": "https://api.getbible.net/v2/maori.json",
-    "sha": "ce95dee4fdf1dfe3c0127a214dd7e9ce5a9885f0"
+    "sha": "fe9ea9346faa91e2f292c68b69365acb2f8292c3"
   },
   "martin": {
     "translation": "Martin (1744)",
     "abbreviation": "martin",
+    "description": "French Bible Martin (1744)",
     "lang": "fr",
     "language": "French",
     "direction": "LTR",
@@ -1212,11 +1261,12 @@
       "history_1.0": "First version"
     },
     "url": "https://api.getbible.net/v2/martin.json",
-    "sha": "85a667f3d10bc90c124c556308715660888eb7e6"
+    "sha": "bfed92322117de41d6558d374ec546ae10143962"
   },
   "moderngreek": {
     "translation": "Greek Modern",
     "abbreviation": "moderngreek",
+    "description": "Neophytos Vamvas's translation of the Holy Bible into modern Greek (1850)",
     "lang": "el",
     "language": "Greek Modern",
     "direction": "LTR",
@@ -1237,11 +1287,12 @@
       "history_1.0.3": "(2022-08-05) Fix repeated DistributionLicense in conf file"
     },
     "url": "https://api.getbible.net/v2/moderngreek.json",
-    "sha": "b5b428c6d6a6f9b2ca420548cd09b7ae9538040e"
+    "sha": "c275300400c4cf0f931f0b533ee54ff57cd8ca28"
   },
   "modernhebrew": {
     "translation": "Hebrew Modern",
     "abbreviation": "modernhebrew",
+    "description": "Modern Hebrew Bible",
     "lang": "he",
     "language": "Hebrew",
     "direction": "RTL",
@@ -1260,11 +1311,12 @@
       "history_1.2": "(2020-02-07) Fix issue https://tracker.crosswire.org/browse/MOD-299"
     },
     "url": "https://api.getbible.net/v2/modernhebrew.json",
-    "sha": "55152a73beec48aa5489fb8c3d966145ca925916"
+    "sha": "26d85b11e406f7cae1992ee7579e745d2f0fab64"
   },
   "peshitta": {
     "translation": "Peshitta NT",
     "abbreviation": "peshitta",
+    "description": "Syriac Peshitta",
     "lang": "syr",
     "language": "Syriac",
     "direction": "RTL",
@@ -1283,11 +1335,12 @@
       "history_2.0": "(2020-02-08) New TextSource, fix emptyvss issues"
     },
     "url": "https://api.getbible.net/v2/peshitta.json",
-    "sha": "ffbdc840380502a515466c94f5ec4c69101d6e59"
+    "sha": "6596ad5b332a426d3b968b15db706d17ffc9961e"
   },
   "potawatomi": {
     "translation": "Potawatomi (Matthew Acts) (Lykins 1844)",
     "abbreviation": "potawatomi",
+    "description": "1833 Potawatomi Matthew and Acts",
     "lang": "pot",
     "language": "Potawatomi",
     "direction": "LTR",
@@ -1305,11 +1358,12 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/potawatomi.json",
-    "sha": "8e3b62678f18923684c0b611394881fc118a4eb3"
+    "sha": "2ec95277e315ca215bb43430920933b7a476f113"
   },
   "pyharaamattu1933": {
     "translation": "Pyha Raamattu (1933 1938)",
     "abbreviation": "pyharaamattu1933",
+    "description": "Finnish Pyhä Raamattu (1933/1938)",
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
@@ -1330,11 +1384,12 @@
       "history_2.0": "(2023-01-26) Switch to OSIS format. Fix encoding issues on Ezra. Added deuterocanonical books."
     },
     "url": "https://api.getbible.net/v2/pyharaamattu1933.json",
-    "sha": "46d18240bfae83a4e84680c739f3dfa11f30987e"
+    "sha": "01498618aec6c5166796ffab15385f4130c68c30"
   },
   "pyharaamattu1992": {
     "translation": "Pyha Raamattu (1992)",
     "abbreviation": "pyharaamattu1992",
+    "description": "Finnish Pyhä Raamattu (1992)",
     "lang": "fi",
     "language": "Finnish",
     "direction": "LTR",
@@ -1355,11 +1410,12 @@
       "history_1.2": "(2023-05-17) Converted from imp to OSIS and correction of the braces (MOD-230)"
     },
     "url": "https://api.getbible.net/v2/pyharaamattu1992.json",
-    "sha": "81436e77895d3467fc2f6acf4d138846d1009deb"
+    "sha": "5252f6923601e91beeca0f1d019ea3095469bed9"
   },
   "riveduta": {
     "translation": "Riveduta Bible (1927)",
     "abbreviation": "riveduta",
+    "description": "Italian Riveduta Bibbia (1927)",
     "lang": "it",
     "language": "Italian",
     "direction": "LTR",
@@ -1378,11 +1434,12 @@
       "history_1.1": "(2020-02-08) Fix issue https://tracker.crosswire.org/browse/MOD-299"
     },
     "url": "https://api.getbible.net/v2/riveduta.json",
-    "sha": "f14f0947827c3ba21bb78a5624feed15e059683c"
+    "sha": "47807384fa5f27222e2f7d953b5373ee5a1bc61f"
   },
   "rv1858": {
     "translation": "Reina Valera NT (1858)",
     "abbreviation": "rv1858",
+    "description": "La Santa Biblia Reina-Valera (1909)",
     "lang": "es",
     "language": "Spanish",
     "direction": "LTR",
@@ -1404,11 +1461,12 @@
       "history_2.0": "(2021-10-19) New source text from wikisource"
     },
     "url": "https://api.getbible.net/v2/rv1858.json",
-    "sha": "f5535bd2cab6fb240fc91ed3e2e852a7389ffcf0"
+    "sha": "46ecba128dc37aec35ff5aa685ca66a5208cfd39"
   },
   "sahidic": {
     "translation": "Sahidic NT",
     "abbreviation": "sahidic",
+    "description": "Sahidic Coptic New Testament, ed. by G. W. Horner",
     "lang": "cop",
     "language": "Coptic",
     "direction": "LTR",
@@ -1427,11 +1485,12 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/sahidic.json",
-    "sha": "c56eed2f40fa880d883d28771c238311b60421ba"
+    "sha": "0975d5d1e694e7f98cb21e18920c68efcf5aa505"
   },
   "schlachter": {
     "translation": "Schlachter (1951)",
     "abbreviation": "schlachter",
+    "description": "Schlachter Bibel (1951)",
     "lang": "de",
     "language": "German",
     "direction": "LTR",
@@ -1452,11 +1511,12 @@
       "history_2.0.1": "(2023-04-24) Small correction in the conf file: Fix description (MOD-451)"
     },
     "url": "https://api.getbible.net/v2/schlachter.json",
-    "sha": "14abd442be16460f306a18b73300240d82117657"
+    "sha": "d1b18f7f602fe8134f3f18e6ae10ed9b377cd270"
   },
   "sse": {
     "translation": "Sagradas Escrituras (1569)",
     "abbreviation": "sse",
+    "description": "La Santa Biblia Reina-Valera (1865) con arreglos ortográficos",
     "lang": "es",
     "language": "Spanish",
     "direction": "LTR",
@@ -1475,11 +1535,12 @@
       "history_1.1": "(2019-01-07) Minor textual errors corrected to match the final text sent to printer"
     },
     "url": "https://api.getbible.net/v2/sse.json",
-    "sha": "fe57f8d795c154bd20c6c39ed714ccfff8213a15"
+    "sha": "3633d4adaa117df39e5c39172a06a101a8b4526b"
   },
   "statenvertaling": {
     "translation": "Dutch Staten Vertaling",
     "abbreviation": "statenvertaling",
+    "description": "Dutch Statenvertaling Bijbel",
     "lang": "nl",
     "language": "Dutch",
     "direction": "LTR",
@@ -1504,11 +1565,12 @@
       "history_2.1.1": "(2022-08-02) Fix typo in configuration file"
     },
     "url": "https://api.getbible.net/v2/statenvertaling.json",
-    "sha": "45d0213e88a87ea4be58a25ab9ab740e723a117a"
+    "sha": "2bc74e4ec96e15373eda773a975d4a796edeeb8c"
   },
   "swahili": {
     "translation": "Swahili",
     "abbreviation": "swahili",
+    "description": "Swahili New Testament",
     "lang": "sw",
     "language": "Swahili",
     "direction": "LTR",
@@ -1527,11 +1589,12 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/swahili.json",
-    "sha": "4d34975a1d2aa7f7f4fa45c03dd169119895bf3f"
+    "sha": "84e944b21c24e94ed332f452ff514703e4409d69"
   },
   "swedish": {
     "translation": "Swedish (1917)",
     "abbreviation": "swedish",
+    "description": "Swedish Bible (1917)",
     "lang": "sv",
     "language": "Swedish",
     "direction": "LTR",
@@ -1552,11 +1615,12 @@
       "history_2.0.1": "(2022-08-06) Fix typo in TextSource"
     },
     "url": "https://api.getbible.net/v2/swedish.json",
-    "sha": "e72bc2b6089974b61a006090104a058da4df7e2d"
+    "sha": "9147b40a873543028e824ae5759a86e0b464a976"
   },
   "synodal": {
     "translation": "Synodal Translation (1876)",
     "abbreviation": "synodal",
+    "description": "Синодального Перевода Библии",
     "lang": "ru",
     "language": "Russian",
     "direction": "LTR",
@@ -1579,11 +1643,12 @@
       "history_1.9.1": "(2022-08-06) Fix typo in conf file"
     },
     "url": "https://api.getbible.net/v2/synodal.json",
-    "sha": "86b073a315fe4dda4d42da755c7c568b72d2b5f0"
+    "sha": "b43a3151c1b8a2d3080a1688dd80dad4894a6b30"
   },
   "tagalog": {
     "translation": "Ang Dating Biblia (1905)",
     "abbreviation": "tagalog",
+    "description": "Philippine Bible Society (1905)",
     "lang": "tl",
     "language": "Tagalog",
     "direction": "LTR",
@@ -1601,11 +1666,12 @@
       "history_1.2": "Minor updates to .conf text"
     },
     "url": "https://api.getbible.net/v2/tagalog.json",
-    "sha": "3349360ca546d12893a1c2cb4fe6f132dc84be51"
+    "sha": "fe1bd9651dc4db39be3315b80e80f6eb250bbca6"
   },
   "textusreceptus": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
     "abbreviation": "textusreceptus",
+    "description": "Textus Receptus (1550/1894)",
     "lang": "grc",
     "language": "Greek",
     "direction": "LTR",
@@ -1632,11 +1698,12 @@
       "history_3.1": "(2023-03-25) Correction of spurious strong numbers."
     },
     "url": "https://api.getbible.net/v2/textusreceptus.json",
-    "sha": "0e8305fa330e73185d99dc1ec73322fececc6699"
+    "sha": "e5e78447d0966dc55e2acb44be0ac14f05fb1ee0"
   },
   "thai": {
     "translation": "Thai from kjv",
     "abbreviation": "thai",
+    "description": "Thai King James Version",
     "lang": "th",
     "language": "Thai",
     "direction": "LTR",
@@ -1655,11 +1722,12 @@
       "history_1.5": "(2003-09-24)"
     },
     "url": "https://api.getbible.net/v2/thai.json",
-    "sha": "259ef44329d8fcba17c23ab6d5b513151cfb447a"
+    "sha": "593411293c2408d7e1ba791b0949a95c2c4278a3"
   },
   "tischendorf": {
     "translation": "NT Tischendorf 8th Ed",
     "abbreviation": "tischendorf",
+    "description": "Tischendorf's 8th edition GNT",
     "lang": "grc",
     "language": "Greek",
     "direction": "LTR",
@@ -1685,11 +1753,12 @@
       "history_2.5.1": "(2022-08-06) Fix typo in History"
     },
     "url": "https://api.getbible.net/v2/tischendorf.json",
-    "sha": "e7a2aad60b5bd0a35236110c9c4139d3d7ce1bb2"
+    "sha": "ebd74f7a1188864dcabafc49854b8180a39aba27"
   },
   "turkish": {
     "translation": "Turkish",
     "abbreviation": "turkish",
+    "description": "Kutsal Kitap (New Turkish Bible)",
     "lang": "tr",
     "language": "Turkish",
     "direction": "LTR",
@@ -1711,11 +1780,12 @@
       "history_2.1.1": "(2019-05-02) Conf file correction"
     },
     "url": "https://api.getbible.net/v2/turkish.json",
-    "sha": "72a823b5019aadb5e6b100699cf1f6934fccae66"
+    "sha": "bf816a4d212cb92735461afe89f4308bd25887fd"
   },
   "tyndale": {
     "translation": "William Tyndale Bible (1525/1530)",
     "abbreviation": "tyndale",
+    "description": "William Tyndale Bible (1525/1530)",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -1731,11 +1801,12 @@
     "distribution_versification": "",
     "distribution_history": {},
     "url": "https://api.getbible.net/v2/tyndale.json",
-    "sha": "c97ce326445f61edf077ac69dc83ac18278b58fc"
+    "sha": "61a19a34845b9430180481e3a7c4b7036f798b06"
   },
   "ukranian": {
     "translation": "NT (P Kulish 1871)",
     "abbreviation": "ukranian",
+    "description": "Новий Завіт. Переклад П. Куліша (1871)",
     "lang": "uk",
     "language": "Ukrainian",
     "direction": "LTR",
@@ -1753,11 +1824,12 @@
       "history_1.1": "Initial release"
     },
     "url": "https://api.getbible.net/v2/ukranian.json",
-    "sha": "a62be1185a2a8a5d543cec636479d33100502d53"
+    "sha": "dd4e8470b9726797de50f649d2cf7f7d043aaad3"
   },
   "uma": {
     "translation": "Uma NT",
     "abbreviation": "uma",
+    "description": "Uma New Testament",
     "lang": "ppk",
     "language": "Uma",
     "direction": "LTR",
@@ -1777,11 +1849,12 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/uma.json",
-    "sha": "f8158045c282deb7fedc08a69f2da98e7bd9ea3c"
+    "sha": "b352290d99f6597661949b72cd9d5f70d850c973"
   },
   "valera": {
     "translation": "Reina Valera (1909)",
     "abbreviation": "valera",
+    "description": "Reina-Valera 1909 con números de Strong",
     "lang": "es",
     "language": "Spanish",
     "direction": "LTR",
@@ -1800,11 +1873,12 @@
       "history_1.0": "Initial release (2012-07-10)"
     },
     "url": "https://api.getbible.net/v2/valera.json",
-    "sha": "82250f5eb5dc58e034f5c9729900308eeb8c9fe6"
+    "sha": "11405596a825b2947c7bd35d67e5eea8576a58cf"
   },
   "vietnamese": {
     "translation": "Vietnamese (1934)",
     "abbreviation": "vietnamese",
+    "description": "Kinh Thánh Tiếng Việt (1934)",
     "lang": "vi",
     "language": "Vietnamese",
     "direction": "LTR",
@@ -1826,11 +1900,12 @@
       "history_1.1": "Repaired dropped characters at beginning of some verses"
     },
     "url": "https://api.getbible.net/v2/vietnamese.json",
-    "sha": "1f8b508863f7e4fd5798bf7062b3264d1d90a08c"
+    "sha": "49730016e85f5ad13fa712a25248ecffd49ad55b"
   },
   "vulgate": {
     "translation": "Vulgata Clementina",
     "abbreviation": "vulgate",
+    "description": "Clementine Vulgate",
     "lang": "la",
     "language": "Latin",
     "direction": "LTR",
@@ -1853,11 +1928,12 @@
       "history_2.0.2": "(2019-01-07) corrected conf file"
     },
     "url": "https://api.getbible.net/v2/vulgate.json",
-    "sha": "6b3feb833131b9265053d577539b21f7706a04be"
+    "sha": "159c9d0fe1038b37b94fd6065a31fd444325c0bf"
   },
   "wb": {
     "translation": "Webster's Bible",
     "abbreviation": "wb",
+    "description": "Webster Bible",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -1876,11 +1952,12 @@
       "history_1.1": "Fixed two small errors (noted in revision.txt)"
     },
     "url": "https://api.getbible.net/v2/wb.json",
-    "sha": "7e6ad67eaf69e5bd4ec8cf82142b044a3ae6af34"
+    "sha": "07f9fd4e6b897c775cfb9afbb27f7ddd3e8e7a1e"
   },
   "web": {
     "translation": "World English Bible",
     "abbreviation": "web",
+    "description": "World English Bible",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -1907,11 +1984,12 @@
       "history_1.1": "Updated as of 04-13-2001"
     },
     "url": "https://api.getbible.net/v2/web.json",
-    "sha": "c01c5f1cdce6c0b6fad659483959644a24287aae"
+    "sha": "b02e1d3e38cc6ccba30e2c1760df9f479afaa408"
   },
   "westcotthort": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
     "abbreviation": "westcotthort",
+    "description": "Westcott and Hort with NA27/UBS4 variants",
     "lang": "grc",
     "language": "Greek",
     "direction": "LTR",
@@ -1941,11 +2019,12 @@
       "history_2.4.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
     "url": "https://api.getbible.net/v2/westcotthort.json",
-    "sha": "5bacc9d240bc88340d30846050334c170af5ef13"
+    "sha": "e8d014f49625f4ee9d542b599155adc468a3138d"
   },
   "westernarmenian": {
     "translation": "Western NT",
     "abbreviation": "westernarmenian",
+    "description": "1853 Western Armenian NT",
     "lang": "hy",
     "language": "Armenian",
     "direction": "LTR",
@@ -1963,11 +2042,12 @@
       "history_1.1": "Updated About and Description text, LCSH value"
     },
     "url": "https://api.getbible.net/v2/westernarmenian.json",
-    "sha": "c63ff47dc8086de5df02fa6bdd2a3636cf824b01"
+    "sha": "bf570de5d793b90f9fe78f57113bfa22498b7f15"
   },
   "weymouth": {
     "translation": "Weymouth NT",
     "abbreviation": "weymouth",
+    "description": "Weymouth NT (1912)",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -1986,13 +2066,14 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/weymouth.json",
-    "sha": "f544baa0da1e790bc46a6293bd1b6e1f2e023ab5"
+    "sha": "fedcb6c882a7e6b4a53a4ae5b76578108fa4542c"
   },
   "wycliffe": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
+    "description": "John Wycliffe Bible (c.1395)",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Old English (1100-1500)",
@@ -2015,11 +2096,12 @@
       "history_2.4.1": "(2022-08-06) Fix typo in DistributionLicense"
     },
     "url": "https://api.getbible.net/v2/wycliffe.json",
-    "sha": "fb2140ddf230141ec4b473dc7a78b0554518654f"
+    "sha": "127d045982b6d064c869f4922ccf5134b7ce4f71"
   },
   "ylt": {
     "translation": "Young's Literal Translation",
     "abbreviation": "ylt",
+    "description": "Young's Literal Translation (1898)",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -2038,11 +2120,12 @@
       "history_1.0": "Initial release."
     },
     "url": "https://api.getbible.net/v2/ylt.json",
-    "sha": "9d06cae57b8be5cac2a4e053342760222afdee56"
+    "sha": "cf2ce18648bff8413a5b52d9d923aba0f68ab3fe"
   },
   "zhuromsky": {
     "translation": "Victor Zhuromsky NT",
     "abbreviation": "zhuromsky",
+    "description": "Russian New Testament with Strong's Numbers under edition of Victor R. Zhuromsky.",
     "lang": "ru",
     "language": "Russian",
     "direction": "LTR",
@@ -2058,6 +2141,6 @@
     "distribution_versification": "",
     "distribution_history": {},
     "url": "https://api.getbible.net/v2/zhuromsky.json",
-    "sha": "44184fbba8aa23911d422b63d184011e245089e3"
+    "sha": "19b23c1a01af4a4694a56b6678794a70eeb6fbc9"
   }
 }

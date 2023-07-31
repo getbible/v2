@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Κατά Ματθαίον",
     "url": "https://api.getbible.net/v2/tischendorf/40.json",
-    "sha": "b756d51e314fbdb96473eb020f0c03cae40b1f3e"
+    "sha": "5b8afcc9ecfb66871f5352570ccabb57ea9733cb"
   },
   "41": {
     "translation": "NT Tischendorf 8th Ed",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Κατά Μάρκον",
     "url": "https://api.getbible.net/v2/tischendorf/41.json",
-    "sha": "5198ba85ca41b17d8503e04aa48e50b13a8775ce"
+    "sha": "70841c4555cb7cd6f0c49e2db7dec1279c8780c5"
   },
   "42": {
     "translation": "NT Tischendorf 8th Ed",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Κατά Λουκάν",
     "url": "https://api.getbible.net/v2/tischendorf/42.json",
-    "sha": "71a83a2782f0e86855cd4c070636b5ea473df22e"
+    "sha": "052c68a724978076e93972d5c33bb7e79e4d0c79"
   },
   "43": {
     "translation": "NT Tischendorf 8th Ed",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Κατά Ιωάννην",
     "url": "https://api.getbible.net/v2/tischendorf/43.json",
-    "sha": "15e1e88a8341c47053cbc4a3c505353e65e46199"
+    "sha": "1fe9284fa9617ac1adcb985410663272ad5d5f64"
   },
   "44": {
     "translation": "NT Tischendorf 8th Ed",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Πράξεις",
     "url": "https://api.getbible.net/v2/tischendorf/44.json",
-    "sha": "4c7eb8b64cc96c2e606c109466b31ed3572d82a3"
+    "sha": "eec34ba9fabc36321de4b7eda3088b830f6d8078"
   },
   "45": {
     "translation": "NT Tischendorf 8th Ed",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Προς Ρωμαίους",
     "url": "https://api.getbible.net/v2/tischendorf/45.json",
-    "sha": "7c2bfbb4b1436872b198613bb2f36baa375ef02e"
+    "sha": "be52fcfbfb64c8050bb7fce124ea44c5eefb868c"
   },
   "46": {
     "translation": "NT Tischendorf 8th Ed",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "Προς Κορινθίους Α'",
     "url": "https://api.getbible.net/v2/tischendorf/46.json",
-    "sha": "42034f2e1639f6a74dda7583c5cb50ff5819e4e3"
+    "sha": "0fd39fcf7d1d29410869cc7c27cd4314d40409b8"
   },
   "47": {
     "translation": "NT Tischendorf 8th Ed",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "Προς Κορινθίους Β'",
     "url": "https://api.getbible.net/v2/tischendorf/47.json",
-    "sha": "37d2dc737174f6104b7df557cf9cbf4aa855bb87"
+    "sha": "57973b8a07c0f53023f382ea8be321e4a3cfcef6"
   },
   "48": {
     "translation": "NT Tischendorf 8th Ed",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Προς Γαλάτας",
     "url": "https://api.getbible.net/v2/tischendorf/48.json",
-    "sha": "d0f1660fc0df6371b10f003b32b4b38e1c44cd85"
+    "sha": "9dde9859ecddb7dc015043414bf2fe283eb48073"
   },
   "49": {
     "translation": "NT Tischendorf 8th Ed",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Προς Εφεσίους",
     "url": "https://api.getbible.net/v2/tischendorf/49.json",
-    "sha": "e515bb5ea570e2206c75c8e2d6616f1a4287f9cd"
+    "sha": "b9f2679acd1664c387b89f3420eb2339bdc8a813"
   },
   "50": {
     "translation": "NT Tischendorf 8th Ed",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Προς Φιλιππησίους",
     "url": "https://api.getbible.net/v2/tischendorf/50.json",
-    "sha": "0901ec26cf6d52026629929d14f4a488e7d9ed5d"
+    "sha": "9b46b283f405584c9b5bd516814b547dcd496464"
   },
   "51": {
     "translation": "NT Tischendorf 8th Ed",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Προς Κολοσσαείς",
     "url": "https://api.getbible.net/v2/tischendorf/51.json",
-    "sha": "eb235e7d1922712fec50e6b983e9ace61b30e313"
+    "sha": "2215a91541deb3ef3915dba32483064352f4ab12"
   },
   "52": {
     "translation": "NT Tischendorf 8th Ed",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "Προς Θεσσαλονικείς Α'",
     "url": "https://api.getbible.net/v2/tischendorf/52.json",
-    "sha": "75ea9521a84cc6eccf634e084ac3c7f013eba7a5"
+    "sha": "1b173c9316751b0cd3cadc8ee6618e6d0f9b91c4"
   },
   "53": {
     "translation": "NT Tischendorf 8th Ed",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "Προς Θεσσαλονικείς Β'",
     "url": "https://api.getbible.net/v2/tischendorf/53.json",
-    "sha": "6f49da237e694db6573e4c8bc35b30b0513e4540"
+    "sha": "e287d17302c1fc31f2dc4002f4bf3b3409a9f8b1"
   },
   "54": {
     "translation": "NT Tischendorf 8th Ed",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "Προς Τιμόθεον Α'",
     "url": "https://api.getbible.net/v2/tischendorf/54.json",
-    "sha": "62a16b682197a9cb5e37113f2e73f2eb209037f6"
+    "sha": "e8e092bd3324a40fa0bd72028bde4661c2475a86"
   },
   "55": {
     "translation": "NT Tischendorf 8th Ed",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "Προς Τιμόθεον Β'",
     "url": "https://api.getbible.net/v2/tischendorf/55.json",
-    "sha": "b446c5c23e420f77f623fa93307e7f86efe29858"
+    "sha": "037577197a3c042216cfa52675dc94a05403e0cf"
   },
   "56": {
     "translation": "NT Tischendorf 8th Ed",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Προς Τίτον",
     "url": "https://api.getbible.net/v2/tischendorf/56.json",
-    "sha": "9cd355b1f9ecffe9bb98cfa8d7caebaf1f229993"
+    "sha": "f5a03d6091909656c4f514f1d5f7c484e02863e1"
   },
   "57": {
     "translation": "NT Tischendorf 8th Ed",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Προς Φιλήμονα",
     "url": "https://api.getbible.net/v2/tischendorf/57.json",
-    "sha": "4eb150fab4d348b16f5690a37f4bd6a50cfd1efa"
+    "sha": "aacb63a455fc327008a4fe59510aa50ea58a4095"
   },
   "58": {
     "translation": "NT Tischendorf 8th Ed",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Προς Εβραίους",
     "url": "https://api.getbible.net/v2/tischendorf/58.json",
-    "sha": "4e04d80622c42e22a55e83b8f91d9d94272317b9"
+    "sha": "f30bd9a4408d55c8e265ea8c54152191158ed39b"
   },
   "59": {
     "translation": "NT Tischendorf 8th Ed",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Ιάκωβος",
     "url": "https://api.getbible.net/v2/tischendorf/59.json",
-    "sha": "2696002b4962ca921adc576c71f7309d9fa432d5"
+    "sha": "c7959807794325a566c2b94d213c3ffe9be13ced"
   },
   "60": {
     "translation": "NT Tischendorf 8th Ed",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "Πέτρου Α'",
     "url": "https://api.getbible.net/v2/tischendorf/60.json",
-    "sha": "2b13e03defda49c83fd2d18f01a2a804e92a4455"
+    "sha": "cbda42ce7515ec08a15270f0752faf2c6819063d"
   },
   "61": {
     "translation": "NT Tischendorf 8th Ed",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "Πέτρου Β'",
     "url": "https://api.getbible.net/v2/tischendorf/61.json",
-    "sha": "468644191a9558a478d0033065101af0ebda1863"
+    "sha": "b0fa7591404068580acd6101c3d3aa4daba47480"
   },
   "62": {
     "translation": "NT Tischendorf 8th Ed",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "Ιωάννου Α'",
     "url": "https://api.getbible.net/v2/tischendorf/62.json",
-    "sha": "4d64ff510d504a348626b1d8db0e203a24d25e9a"
+    "sha": "3d207219b41f6fc4c049362d6923cf24924cfb1b"
   },
   "63": {
     "translation": "NT Tischendorf 8th Ed",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "Ιωάννου Β'",
     "url": "https://api.getbible.net/v2/tischendorf/63.json",
-    "sha": "2d7d4fdcd752bcbb68976aba9ecac7770c9b04ae"
+    "sha": "e3be094400738b10f9d7529d0975d7ad5742ca9b"
   },
   "64": {
     "translation": "NT Tischendorf 8th Ed",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "Ιωάννου Γ'",
     "url": "https://api.getbible.net/v2/tischendorf/64.json",
-    "sha": "a023358996739bf61737c14bf459bc7e5599a465"
+    "sha": "d155fd4340663d9e76a8250772a66e30ae0c5d35"
   },
   "65": {
     "translation": "NT Tischendorf 8th Ed",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Ιούδας",
     "url": "https://api.getbible.net/v2/tischendorf/65.json",
-    "sha": "30e230065c28b70cac3794209b3d609951d6bd39"
+    "sha": "eb68da508a36940a850fd7f95288429f5840b0b9"
   },
   "66": {
     "translation": "NT Tischendorf 8th Ed",
@@ -319,8 +319,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Αποκάλυψις",
     "url": "https://api.getbible.net/v2/tischendorf/66.json",
-    "sha": "a7bf0f4030ecb64eef59c1347a91b74d10a220a4"
+    "sha": "2a4c43061a5ee9470b51afce157cb031611aa704"
   }
 }

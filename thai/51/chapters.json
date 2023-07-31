@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "โคโลสี",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "โคโลสี 1",
     "url": "https://api.getbible.net/v2/thai/51/1.json",
-    "sha": "85c8b4cce3dd48b0121b65519e4a36ffb92f4d1e"
+    "sha": "02a578a2a7dd165b74884a14ba0f5f45e0afd4ae"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "โคโลสี",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "โคโลสี 2",
     "url": "https://api.getbible.net/v2/thai/51/2.json",
-    "sha": "b20c8e8e0c4ed129965a0a817542c0456750af9d"
+    "sha": "1c8e0968febcc88817a019d208cbbe36123493aa"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "โคโลสี",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "โคโลสี 3",
     "url": "https://api.getbible.net/v2/thai/51/3.json",
-    "sha": "757bb8bcf51e45f10dca1a3ddc25cdae98baba1b"
+    "sha": "7e530f6b081d17f48582c7ea4b578b373f4a8181"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "โคโลสี",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "โคโลสี 4",
     "url": "https://api.getbible.net/v2/thai/51/4.json",
-    "sha": "7c2e80c87f257ad0f419691a07470f088e50de83"
+    "sha": "300e66f0233b50ee7a1a848089bf0491c4b72b68"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 1,
-    "name": "1 Samuel 1",
+    "name": "1 Sámuel könyve 1",
     "url": "https://api.getbible.net/v2/karoli/9/1.json",
-    "sha": "0303e0a61c78b032fdefe44b93a93fa68002085e"
+    "sha": "1185483e75a1973d8be620cd428bc1ba7061aa6b"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 2,
-    "name": "1 Samuel 2",
+    "name": "1 Sámuel könyve 2",
     "url": "https://api.getbible.net/v2/karoli/9/2.json",
-    "sha": "79f5699bf7b8899ff8598ce6a3c19bc1aa4cf39a"
+    "sha": "198d2e8e1d3afdeaa944e6896fb18ba22d919a9e"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 3,
-    "name": "1 Samuel 3",
+    "name": "1 Sámuel könyve 3",
     "url": "https://api.getbible.net/v2/karoli/9/3.json",
-    "sha": "02d87fff9278c4094b37b62bc59f2df9823e8f02"
+    "sha": "95ad3adc22f47904b1f49ec5406eb476842c398d"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 4,
-    "name": "1 Samuel 4",
+    "name": "1 Sámuel könyve 4",
     "url": "https://api.getbible.net/v2/karoli/9/4.json",
-    "sha": "cd505e250bb69bdb8691d951aabe6f11d33042cd"
+    "sha": "6369a1f8df5531ee6a3341fbb0172f1457375def"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 5,
-    "name": "1 Samuel 5",
+    "name": "1 Sámuel könyve 5",
     "url": "https://api.getbible.net/v2/karoli/9/5.json",
-    "sha": "0a3676c4440a401ada4b73ede44f41493defd057"
+    "sha": "c66385a2a824be23b48625909397b91de9e5a091"
   },
   "6": {
     "translation": "Hungarian Karoli",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 6,
-    "name": "1 Samuel 6",
+    "name": "1 Sámuel könyve 6",
     "url": "https://api.getbible.net/v2/karoli/9/6.json",
-    "sha": "75edc88ffa6387d2eda952768a78fe665f519aca"
+    "sha": "e251d1472f80026b40ae8a092d7e81a11848c9f6"
   },
   "7": {
     "translation": "Hungarian Karoli",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 7,
-    "name": "1 Samuel 7",
+    "name": "1 Sámuel könyve 7",
     "url": "https://api.getbible.net/v2/karoli/9/7.json",
-    "sha": "555a1208f97f9bee1da3bbdfd12b48bf1a05801c"
+    "sha": "f5beff11baf445cbefcb0e87e3655aaf805dd764"
   },
   "8": {
     "translation": "Hungarian Karoli",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 8,
-    "name": "1 Samuel 8",
+    "name": "1 Sámuel könyve 8",
     "url": "https://api.getbible.net/v2/karoli/9/8.json",
-    "sha": "d115eefcbfe1b3064a25af7792ad5ea12719dbe6"
+    "sha": "d749eab5abcf8597c941b3578c478c054c0b291a"
   },
   "9": {
     "translation": "Hungarian Karoli",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 9,
-    "name": "1 Samuel 9",
+    "name": "1 Sámuel könyve 9",
     "url": "https://api.getbible.net/v2/karoli/9/9.json",
-    "sha": "49f9af7904ce090d9fa8c853d1315aa02ec7b677"
+    "sha": "1243789d958cb7c7741afdb35a8dca78f8cf58a4"
   },
   "10": {
     "translation": "Hungarian Karoli",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 10,
-    "name": "1 Samuel 10",
+    "name": "1 Sámuel könyve 10",
     "url": "https://api.getbible.net/v2/karoli/9/10.json",
-    "sha": "ea485b2597fe19cdefb0baaa50bc252743205b16"
+    "sha": "ae05c5416572b9f7ab22e65f2dfc9b6185845a79"
   },
   "11": {
     "translation": "Hungarian Karoli",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 11,
-    "name": "1 Samuel 11",
+    "name": "1 Sámuel könyve 11",
     "url": "https://api.getbible.net/v2/karoli/9/11.json",
-    "sha": "687e29f1859e4f19ef8f3534a62f9684103ddb14"
+    "sha": "fa257b1e2aa1789a28bb25189f10a24c4eb1b31c"
   },
   "12": {
     "translation": "Hungarian Karoli",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 12,
-    "name": "1 Samuel 12",
+    "name": "1 Sámuel könyve 12",
     "url": "https://api.getbible.net/v2/karoli/9/12.json",
-    "sha": "85fbdacfc3ecdae6cea60cda3d4da522225390f0"
+    "sha": "837b6b9a3fc7ef0e66347e1d78dde57a043fab0f"
   },
   "13": {
     "translation": "Hungarian Karoli",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 13,
-    "name": "1 Samuel 13",
+    "name": "1 Sámuel könyve 13",
     "url": "https://api.getbible.net/v2/karoli/9/13.json",
-    "sha": "f8718ad6bd7cdfad503ffab0978f7244a5c00e29"
+    "sha": "88c92fd7f5a254afd03e1c0ce1cdf3bdf9cc393f"
   },
   "14": {
     "translation": "Hungarian Karoli",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 14,
-    "name": "1 Samuel 14",
+    "name": "1 Sámuel könyve 14",
     "url": "https://api.getbible.net/v2/karoli/9/14.json",
-    "sha": "1923c1d71480a1661a58ab0350104f3ef731f9c5"
+    "sha": "d8940dab2f25606cfb6ea9c63042724a9d4613e0"
   },
   "15": {
     "translation": "Hungarian Karoli",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 15,
-    "name": "1 Samuel 15",
+    "name": "1 Sámuel könyve 15",
     "url": "https://api.getbible.net/v2/karoli/9/15.json",
-    "sha": "6ecf3149f9d2431dea3923e537f02d9ef737cf7f"
+    "sha": "3a5b2a9797fcbbdd750c0c66bb2757223b288ed3"
   },
   "16": {
     "translation": "Hungarian Karoli",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 16,
-    "name": "1 Samuel 16",
+    "name": "1 Sámuel könyve 16",
     "url": "https://api.getbible.net/v2/karoli/9/16.json",
-    "sha": "14304de46799cf347ea1c8161776edd8bfff318b"
+    "sha": "44420933ca740af29ad51e53a3375bac51febb8c"
   },
   "17": {
     "translation": "Hungarian Karoli",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 17,
-    "name": "1 Samuel 17",
+    "name": "1 Sámuel könyve 17",
     "url": "https://api.getbible.net/v2/karoli/9/17.json",
-    "sha": "b53f49c26566ca7dd13111aa80a6aab70f64a026"
+    "sha": "927243b70d253161eddf6061fe6a6d1c02559691"
   },
   "18": {
     "translation": "Hungarian Karoli",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 18,
-    "name": "1 Samuel 18",
+    "name": "1 Sámuel könyve 18",
     "url": "https://api.getbible.net/v2/karoli/9/18.json",
-    "sha": "799ea7bf664d21584d5770dcf618f5a75178e171"
+    "sha": "7cd5be28901b9ae454bac1ee80a2e4676c1c7d0b"
   },
   "19": {
     "translation": "Hungarian Karoli",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 19,
-    "name": "1 Samuel 19",
+    "name": "1 Sámuel könyve 19",
     "url": "https://api.getbible.net/v2/karoli/9/19.json",
-    "sha": "0f4dbacbb979218605c2feac17a1da084883ae08"
+    "sha": "ee52db58a854c068c78e7102b34af1582c3c5367"
   },
   "20": {
     "translation": "Hungarian Karoli",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 20,
-    "name": "1 Samuel 20",
+    "name": "1 Sámuel könyve 20",
     "url": "https://api.getbible.net/v2/karoli/9/20.json",
-    "sha": "243f76550fe2333430d19a63a5d3896d00d6f4e1"
+    "sha": "97783080771d81fbfc3d37ae596a6feff5472240"
   },
   "21": {
     "translation": "Hungarian Karoli",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 21,
-    "name": "1 Samuel 21",
+    "name": "1 Sámuel könyve 21",
     "url": "https://api.getbible.net/v2/karoli/9/21.json",
-    "sha": "0ec7e7c0219f83ecc5cde8778eb27188455360f1"
+    "sha": "27836682ace0c79184ff1f64046f04f5d9704b4c"
   },
   "22": {
     "translation": "Hungarian Karoli",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 22,
-    "name": "1 Samuel 22",
+    "name": "1 Sámuel könyve 22",
     "url": "https://api.getbible.net/v2/karoli/9/22.json",
-    "sha": "73e5919b8cc785c3d7ba87a87f9ff6dca291466f"
+    "sha": "76cb03a5e005f1cbab6e37416f97293aac1cbd68"
   },
   "23": {
     "translation": "Hungarian Karoli",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 23,
-    "name": "1 Samuel 23",
+    "name": "1 Sámuel könyve 23",
     "url": "https://api.getbible.net/v2/karoli/9/23.json",
-    "sha": "0b17fe535d5704d1474d6e656438943db49ea807"
+    "sha": "b8fb6715d101993ca54ee57fdfcc3e1b5ea037bd"
   },
   "24": {
     "translation": "Hungarian Karoli",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 24,
-    "name": "1 Samuel 24",
+    "name": "1 Sámuel könyve 24",
     "url": "https://api.getbible.net/v2/karoli/9/24.json",
-    "sha": "d38ce1f97062a0c89f7a3aa53b215133cba38189"
+    "sha": "ea9c91dfae9ea5e807b153befe0683484db2071b"
   },
   "25": {
     "translation": "Hungarian Karoli",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 25,
-    "name": "1 Samuel 25",
+    "name": "1 Sámuel könyve 25",
     "url": "https://api.getbible.net/v2/karoli/9/25.json",
-    "sha": "d3515a34340c6e5daf6399dc314ba7bb9df63b84"
+    "sha": "9a6c111bbc7228e939bbb05aee38593f943b29f5"
   },
   "26": {
     "translation": "Hungarian Karoli",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 26,
-    "name": "1 Samuel 26",
+    "name": "1 Sámuel könyve 26",
     "url": "https://api.getbible.net/v2/karoli/9/26.json",
-    "sha": "fcf484bbcddd625afffc0f0638ef5d31737069ed"
+    "sha": "94a9572fb175287ed10e8dcec54cddcff6a8ce5a"
   },
   "27": {
     "translation": "Hungarian Karoli",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 27,
-    "name": "1 Samuel 27",
+    "name": "1 Sámuel könyve 27",
     "url": "https://api.getbible.net/v2/karoli/9/27.json",
-    "sha": "462fae7031131947b498ddb49d766c836ac7d46f"
+    "sha": "a9a89a868737b3afa729b037ec2e4d84248448cf"
   },
   "28": {
     "translation": "Hungarian Karoli",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 28,
-    "name": "1 Samuel 28",
+    "name": "1 Sámuel könyve 28",
     "url": "https://api.getbible.net/v2/karoli/9/28.json",
-    "sha": "330181f958e5a3b1da0e5f31a7afba3cac607e65"
+    "sha": "f71c8b7228de3098306cfb24ccf3250b6c5ebe9f"
   },
   "29": {
     "translation": "Hungarian Karoli",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 29,
-    "name": "1 Samuel 29",
+    "name": "1 Sámuel könyve 29",
     "url": "https://api.getbible.net/v2/karoli/9/29.json",
-    "sha": "7ba366b49848d4e48ea8ddf5a10657bc801faf47"
+    "sha": "4f26bcb4ef7d675f5651034245441195649b8a54"
   },
   "30": {
     "translation": "Hungarian Karoli",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 30,
-    "name": "1 Samuel 30",
+    "name": "1 Sámuel könyve 30",
     "url": "https://api.getbible.net/v2/karoli/9/30.json",
-    "sha": "3e578945d4f687e307784d6e90aaacbaa444466c"
+    "sha": "71868356abbee7dc3086df454fbd26e090a0fb50"
   },
   "31": {
     "translation": "Hungarian Karoli",
@@ -427,10 +427,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 9,
-    "book_name": "1 Samuel",
+    "book_name": "1 Sámuel könyve",
     "chapter": 31,
-    "name": "1 Samuel 31",
+    "name": "1 Sámuel könyve 31",
     "url": "https://api.getbible.net/v2/karoli/9/31.json",
-    "sha": "a5e3c685d3a622d43c04eba49d7c7202ce0ef4cf"
+    "sha": "026c3531deac4a29d099dbe29dbcfc5152a54ccf"
   }
 }

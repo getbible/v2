@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miikan kirja",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Miikan kirja 1",
     "url": "https://api.getbible.net/v2/finnish1776/33/1.json",
-    "sha": "382d37cd2a0eaa13807bfcdddc169fb7a88fcc6b"
+    "sha": "ec9326b0cab835a51572d80aa5be8f634222a10b"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miikan kirja",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Miikan kirja 2",
     "url": "https://api.getbible.net/v2/finnish1776/33/2.json",
-    "sha": "a16443ab33ef9bf5d61f285af8ce32ca91defa76"
+    "sha": "3b2fe06cb3b11c076e85764bbe23d7d939ebe045"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miikan kirja",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Miikan kirja 3",
     "url": "https://api.getbible.net/v2/finnish1776/33/3.json",
-    "sha": "c8b09026666f9a544daba840b8d32a98010b29c8"
+    "sha": "6e11d12cc178163ed3909e7a139f6b20e61bcd07"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miikan kirja",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Miikan kirja 4",
     "url": "https://api.getbible.net/v2/finnish1776/33/4.json",
-    "sha": "58dbf2926d691570be6fedb07ffbb8732b27c1bd"
+    "sha": "8efa7dde7988566dbfbbc2134a3746c5cba4c40a"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miikan kirja",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Miikan kirja 5",
     "url": "https://api.getbible.net/v2/finnish1776/33/5.json",
-    "sha": "0322cf5b173294a73b21aa54d9c633d0de441276"
+    "sha": "1b903291b4d515b1467cf9498ba09a6afd341a1c"
   },
   "6": {
     "translation": "Finnish Bible (1776)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miikan kirja",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Miikan kirja 6",
     "url": "https://api.getbible.net/v2/finnish1776/33/6.json",
-    "sha": "7e5a048e5f9556ca94da95edeb9fa26d439ab6e3"
+    "sha": "8a94cf7abb9116e3095e18ef01e58db1a92cc432"
   },
   "7": {
     "translation": "Finnish Bible (1776)",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miikan kirja",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Miikan kirja 7",
     "url": "https://api.getbible.net/v2/finnish1776/33/7.json",
-    "sha": "eae1ed642a10961a19c0a796b53f0425b010ec19"
+    "sha": "0794a01b59de28741f5ce72f99ffb2a113bbcaf8"
   }
 }

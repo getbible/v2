@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Génesis",
     "url": "https://api.getbible.net/v2/rv1858/1.json",
-    "sha": "d514df96fae68942f7e5f450ff977dcd9efd8026"
+    "sha": "dd333c3b2a7128eee674ef39f0ed3f7815ace2ea"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Éxodo",
     "url": "https://api.getbible.net/v2/rv1858/2.json",
-    "sha": "4598cb37f9abc33302207751761a9d4009503af5"
+    "sha": "5ae13a2d5d0524f44c781fafd4bbd8f069fb4c00"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levítico",
     "url": "https://api.getbible.net/v2/rv1858/3.json",
-    "sha": "9a40c4f443284cabb8a4bb2f5a77a410589e3d28"
+    "sha": "52d94d29f9e16538bcfbb4ad6cfcb625db6ac6b5"
   },
   "4": {
     "translation": "Reina Valera NT (1858)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Números",
     "url": "https://api.getbible.net/v2/rv1858/4.json",
-    "sha": "b3254bfab74cf3dfde931229d33ea416ffe2a9dd"
+    "sha": "34ff92337687f5201ad978a9aa8c25a78b8e1b1d"
   },
   "5": {
     "translation": "Reina Valera NT (1858)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomio",
     "url": "https://api.getbible.net/v2/rv1858/5.json",
-    "sha": "9de4f7fd29e60b0f6e862e09ae25f9a5fddff275"
+    "sha": "d74879ccdb497adcf50d6db73b026d3ca0d9da2e"
   },
   "6": {
     "translation": "Reina Valera NT (1858)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Josué",
     "url": "https://api.getbible.net/v2/rv1858/6.json",
-    "sha": "7113e7926d9fd9317af69c48a78958a78708da47"
+    "sha": "70389cfa3dc4377b71f9a71e41ec5f1c46d6d74a"
   },
   "7": {
     "translation": "Reina Valera NT (1858)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Jueces",
     "url": "https://api.getbible.net/v2/rv1858/7.json",
-    "sha": "7d75158182067e9c23f6baccd42eb043ef07f9d2"
+    "sha": "edf7e93a812af9efa1f7d6a51287055482e6c8d5"
   },
   "8": {
     "translation": "Reina Valera NT (1858)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rut",
     "url": "https://api.getbible.net/v2/rv1858/8.json",
-    "sha": "4f127a44d54a7a9494d457ae8d02a6728867c3a0"
+    "sha": "93a256fe7b386faacc3940413759f1a0c3ae6e0a"
   },
   "9": {
     "translation": "Reina Valera NT (1858)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Reyes",
     "url": "https://api.getbible.net/v2/rv1858/11.json",
-    "sha": "9343ccd867f7c029c15498f47df8620e3e25b739"
+    "sha": "6509a4c8b8819c209857bb0a6a01a31a2828d211"
   },
   "12": {
     "translation": "Reina Valera NT (1858)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Reyes",
     "url": "https://api.getbible.net/v2/rv1858/12.json",
-    "sha": "ed28c98cf4a7a39a12462fee03213ab20d0747c7"
+    "sha": "e2bf485a9d942e322f39bb732f5c289fd3dab0ad"
   },
   "13": {
     "translation": "Reina Valera NT (1858)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Crónicas",
     "url": "https://api.getbible.net/v2/rv1858/13.json",
-    "sha": "4ce95ce5f7a67b427ac369f7fd6a17d506bab135"
+    "sha": "4a5b6d9d557644fc2e93300767955d229e93eb8a"
   },
   "14": {
     "translation": "Reina Valera NT (1858)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Crónicas",
     "url": "https://api.getbible.net/v2/rv1858/14.json",
-    "sha": "f01443562d962d6e7e4975c8d76069f0136f6b1c"
+    "sha": "26c8c3d0137cf81062bfd75629fd73b8aab93c21"
   },
   "15": {
     "translation": "Reina Valera NT (1858)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Esdras",
     "url": "https://api.getbible.net/v2/rv1858/15.json",
-    "sha": "8af7f18942f5be525b4d11e41f78f6657cbcd52a"
+    "sha": "bfbe6a8f08ae494d4169c286438488e0ca53882f"
   },
   "16": {
     "translation": "Reina Valera NT (1858)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemías",
     "url": "https://api.getbible.net/v2/rv1858/16.json",
-    "sha": "720cdb0cea143bf2d1e774d59f7856c3cc971b21"
+    "sha": "9dda76ebb6e891df3accbe8f51fca757d1fe4e05"
   },
   "17": {
     "translation": "Reina Valera NT (1858)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/rv1858/17.json",
-    "sha": "9caea7f4c4a1a49298dbd004a0737032c3958b0a"
+    "sha": "f22fdf91f61a876514fd56f4346da841f41e18b0"
   },
   "18": {
     "translation": "Reina Valera NT (1858)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Salmos",
     "url": "https://api.getbible.net/v2/rv1858/19.json",
-    "sha": "0f306460d483642f3f987f834489f2e7aea1783c"
+    "sha": "c188ce01816ddf422a2acc11dd7885e97df9a4b1"
   },
   "20": {
     "translation": "Reina Valera NT (1858)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Proverbios",
     "url": "https://api.getbible.net/v2/rv1858/20.json",
-    "sha": "6de7697bd48ddb55ac07219d0afefb7bbc4f9bf8"
+    "sha": "2734cb48e6f4e8013251361e9c1a574bcd95f1b5"
   },
   "21": {
     "translation": "Reina Valera NT (1858)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Eclesiastés",
     "url": "https://api.getbible.net/v2/rv1858/21.json",
-    "sha": "a0aba79706dd47ef1defd87ba9bb14d06a04ac71"
+    "sha": "841eb976451fbb1aa5c5e1876c65000c01d06d21"
   },
   "22": {
     "translation": "Reina Valera NT (1858)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Solomon",
+    "name": "Cantares",
     "url": "https://api.getbible.net/v2/rv1858/22.json",
-    "sha": "ec7056c46aedaa42411c7a9c4b8cca0d57b4a535"
+    "sha": "4a1aaffb199245423c8bea754c1b22b6f32607cd"
   },
   "23": {
     "translation": "Reina Valera NT (1858)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Isaías",
     "url": "https://api.getbible.net/v2/rv1858/23.json",
-    "sha": "1ac4f15903826c74af13d7744c3449cd93560fae"
+    "sha": "9ef3be2b144f9b60030e4ba2aba71d28122f58f3"
   },
   "24": {
     "translation": "Reina Valera NT (1858)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremías",
     "url": "https://api.getbible.net/v2/rv1858/24.json",
-    "sha": "cb4f59d20295dd9bdb8bf512163d82b5528b7ec0"
+    "sha": "d36cfbf563652bf637963bc8e8442fe28f5127d2"
   },
   "25": {
     "translation": "Reina Valera NT (1858)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Lamentaciones",
     "url": "https://api.getbible.net/v2/rv1858/25.json",
-    "sha": "da0ff06dfb58737609533e395ba960f80aacddeb"
+    "sha": "a99073c1ba1298483c4bcd45bf6786b35ed0ffc2"
   },
   "26": {
     "translation": "Reina Valera NT (1858)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezequiel",
     "url": "https://api.getbible.net/v2/rv1858/26.json",
-    "sha": "41035e7cadac3a9e0bd70963494d4a38276107c2"
+    "sha": "c518e2fa299a8121dc4133e10d0f5d1fd39a26fc"
   },
   "27": {
     "translation": "Reina Valera NT (1858)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Oseas",
     "url": "https://api.getbible.net/v2/rv1858/28.json",
-    "sha": "0fbb3697e2108ad523f3d27208528adc4c572f6b"
+    "sha": "61f838081bc2f52c3d81dd35d32f1ca300e68468"
   },
   "29": {
     "translation": "Reina Valera NT (1858)",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Amós",
     "url": "https://api.getbible.net/v2/rv1858/30.json",
-    "sha": "21358e55d6ff5a487940431ff3418f1c25b4d4f4"
+    "sha": "9fcd288de94e70f863b1c500d9468c32a00426c1"
   },
   "31": {
     "translation": "Reina Valera NT (1858)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Abdías",
     "url": "https://api.getbible.net/v2/rv1858/31.json",
-    "sha": "a6388097c0963fe94ea7014922a672d277088fe1"
+    "sha": "0d354198303a6c057ab288825a11f3ec9148d0fb"
   },
   "32": {
     "translation": "Reina Valera NT (1858)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jonás",
     "url": "https://api.getbible.net/v2/rv1858/32.json",
-    "sha": "a4e7a37e2a8e612a2f2b47f7705f6d28d75090d2"
+    "sha": "f1037736eaa3ab0c5f7bc7a3c3192150242f3295"
   },
   "33": {
     "translation": "Reina Valera NT (1858)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Miqueas",
     "url": "https://api.getbible.net/v2/rv1858/33.json",
-    "sha": "b8f67145a79d5a3d51f12f159137c935b1bcd97a"
+    "sha": "6adaa8ea6c6a7fcb4de085840a67bc65568b38a1"
   },
   "34": {
     "translation": "Reina Valera NT (1858)",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Nahúm",
     "url": "https://api.getbible.net/v2/rv1858/34.json",
-    "sha": "1c4bb8f9058a4adbbc897c7344e0ea0163395d75"
+    "sha": "3b3b9f42f7d059623538509cfb078908c4a26510"
   },
   "35": {
     "translation": "Reina Valera NT (1858)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habacuc",
     "url": "https://api.getbible.net/v2/rv1858/35.json",
-    "sha": "5aad53787edc804f7a48ae21fbffcc387aaccd8b"
+    "sha": "7981f3e9324bb2856ff1a5467c6136a3176aafc8"
   },
   "36": {
     "translation": "Reina Valera NT (1858)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sofonías",
     "url": "https://api.getbible.net/v2/rv1858/36.json",
-    "sha": "85db646994b4c3a30c5ed38eec8098bcb0d70db9"
+    "sha": "1a12abf44e5ce6cc0de4c5cbcd2ab648789a8a4d"
   },
   "37": {
     "translation": "Reina Valera NT (1858)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Hageo",
     "url": "https://api.getbible.net/v2/rv1858/37.json",
-    "sha": "7d15b66665805056d4f5e49e11fb5d74475c491a"
+    "sha": "8e4b2cc1dcaebc97afd0ec9d26f3c2713dc63bac"
   },
   "38": {
     "translation": "Reina Valera NT (1858)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacarías",
     "url": "https://api.getbible.net/v2/rv1858/38.json",
-    "sha": "186e45b3c7c429894ce069806caafc4af2922c47"
+    "sha": "ab49568ebaad2c5a2ab31e1ae28d659eca192550"
   },
   "39": {
     "translation": "Reina Valera NT (1858)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malaquías",
     "url": "https://api.getbible.net/v2/rv1858/39.json",
-    "sha": "1bdd921fc3dbab8451fb48ac6bb760b669d812b6"
+    "sha": "0b198ad375a33fb6e29a75442795ae821dde89ce"
   },
   "40": {
     "translation": "Reina Valera NT (1858)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Mateo",
     "url": "https://api.getbible.net/v2/rv1858/40.json",
-    "sha": "9a3a34f1fcfbf5227b675c5753b8131a1eb5894c"
+    "sha": "77c9a54ca1dac21f9931e5bf24bd1480599b74e6"
   },
   "41": {
     "translation": "Reina Valera NT (1858)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marcos",
     "url": "https://api.getbible.net/v2/rv1858/41.json",
-    "sha": "5c5909a8efcc3543698503ba4e26227552ac6ddf"
+    "sha": "c641c8fd3d9166bd19f5fc74561045305b0d2381"
   },
   "42": {
     "translation": "Reina Valera NT (1858)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lucas",
     "url": "https://api.getbible.net/v2/rv1858/42.json",
-    "sha": "537e9f1386bb00d1100a3aa2c134f9f346219cfa"
+    "sha": "af276f9263e31b6580f485040e59b5afb7c14636"
   },
   "43": {
     "translation": "Reina Valera NT (1858)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Juan",
     "url": "https://api.getbible.net/v2/rv1858/43.json",
-    "sha": "340791dc81df3955a098d3c26533cf98fa2feb08"
+    "sha": "c4c0c23743f0f29ecaaa1cb84552b9fd220a62a7"
   },
   "44": {
     "translation": "Reina Valera NT (1858)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Hechos",
     "url": "https://api.getbible.net/v2/rv1858/44.json",
-    "sha": "eaab7d0db4fddd02d2f3ba5580b94c5f1d27d836"
+    "sha": "520979840b1d7a250673836fb0314bfb3d216e1f"
   },
   "45": {
     "translation": "Reina Valera NT (1858)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romanos",
     "url": "https://api.getbible.net/v2/rv1858/45.json",
-    "sha": "b0392a0f098a5c7a10285f773e257f9dd402dfa0"
+    "sha": "bd080be9cef4c4084c28184bb2eabed8736dfaec"
   },
   "46": {
     "translation": "Reina Valera NT (1858)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Corintios",
     "url": "https://api.getbible.net/v2/rv1858/46.json",
-    "sha": "9df02b1aeadff9267777bb76e5bb76f7f6a1322a"
+    "sha": "fe13d73d7879c0849c77eb61330f21e800b72129"
   },
   "47": {
     "translation": "Reina Valera NT (1858)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Corintios",
     "url": "https://api.getbible.net/v2/rv1858/47.json",
-    "sha": "d943973729db05fd34f25f01a989963b0980eef8"
+    "sha": "6502433d7f37684e40ee9d92924a45be2ea4c26c"
   },
   "48": {
     "translation": "Reina Valera NT (1858)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Gálatas",
     "url": "https://api.getbible.net/v2/rv1858/48.json",
-    "sha": "a0152971da65d4065fdb3ed8c9bb398a905fad0c"
+    "sha": "0d251b51e4ee9e5fefd4765a4d167622c4a27440"
   },
   "49": {
     "translation": "Reina Valera NT (1858)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efesios",
     "url": "https://api.getbible.net/v2/rv1858/49.json",
-    "sha": "821085fa74532382f65cb3fbd0ba7d143b29a341"
+    "sha": "05464a33fa2909e32418ccf5b6a62f2a69aa8d27"
   },
   "50": {
     "translation": "Reina Valera NT (1858)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipenses",
     "url": "https://api.getbible.net/v2/rv1858/50.json",
-    "sha": "79da7f13388ddd7f1bad8d9fa6855736e05f7936"
+    "sha": "c70a5c8817c3c02de1ae8b66653c0275ea832a32"
   },
   "51": {
     "translation": "Reina Valera NT (1858)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Colosenses",
     "url": "https://api.getbible.net/v2/rv1858/51.json",
-    "sha": "cc6584264028f5d61d3f6db128d28b22ef61b639"
+    "sha": "43033fc6545dea8ea22615f7fa82550d515b1b44"
   },
   "52": {
     "translation": "Reina Valera NT (1858)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tesalonicenses",
     "url": "https://api.getbible.net/v2/rv1858/52.json",
-    "sha": "f0f22d076ffd6555848c20dca9a662a12f13b909"
+    "sha": "a054a649d381b81a2eb791d4ef3d351f275d0723"
   },
   "53": {
     "translation": "Reina Valera NT (1858)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tesalonicenses",
     "url": "https://api.getbible.net/v2/rv1858/53.json",
-    "sha": "648293a4969951f89569a27dc78a6af86ead4b57"
+    "sha": "7ec9b15babeb9ae0eeb6fcdafeacbc8ae2c067de"
   },
   "54": {
     "translation": "Reina Valera NT (1858)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteo",
     "url": "https://api.getbible.net/v2/rv1858/54.json",
-    "sha": "e56a2c89d8c019a4847bbb2906055f4223dbbe33"
+    "sha": "2c08959bad1d1d4255e69f6e069b22370a740ca1"
   },
   "55": {
     "translation": "Reina Valera NT (1858)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteo",
     "url": "https://api.getbible.net/v2/rv1858/55.json",
-    "sha": "9073c548de756e6c3db146e2f4faadd7ac9e5a47"
+    "sha": "6f8f3a49a91ce6940e553670aff881d0a76fd759"
   },
   "56": {
     "translation": "Reina Valera NT (1858)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tito",
     "url": "https://api.getbible.net/v2/rv1858/56.json",
-    "sha": "b5834debb3b905c6dc3bb8b93778e753281f82cb"
+    "sha": "6f2520b5bff419012cc32856daebcefb881054c4"
   },
   "57": {
     "translation": "Reina Valera NT (1858)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemón",
     "url": "https://api.getbible.net/v2/rv1858/57.json",
-    "sha": "e6465ae659f0ca42c0e7e604b24ca23bcae1096a"
+    "sha": "fc546cb92c8b0aea4a77e19459cecb0e6fb45a35"
   },
   "58": {
     "translation": "Reina Valera NT (1858)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebreos",
     "url": "https://api.getbible.net/v2/rv1858/58.json",
-    "sha": "1d82bc05e068245d2e81d9bcc5d350735f00119b"
+    "sha": "ff8b3a3cf4f65ba225d3125a4b8bba7baed894cb"
   },
   "59": {
     "translation": "Reina Valera NT (1858)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Santiago",
     "url": "https://api.getbible.net/v2/rv1858/59.json",
-    "sha": "3641a41acfc7fc8627fcd3debd90eb5d06f3a31c"
+    "sha": "81048e42054ad5d7e7f0bdf65b99667bd4e98a72"
   },
   "60": {
     "translation": "Reina Valera NT (1858)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Pedro",
     "url": "https://api.getbible.net/v2/rv1858/60.json",
-    "sha": "622b39a1cd2e1283ac9c28912db46b581a26a6f4"
+    "sha": "b426093ec98fde39567492a29f24fab991f651d6"
   },
   "61": {
     "translation": "Reina Valera NT (1858)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Pedro",
     "url": "https://api.getbible.net/v2/rv1858/61.json",
-    "sha": "f2d517231949782c5c60f583c9aba7cdbc1be944"
+    "sha": "19c4d0b30a5c3f9c8c78d1954b4b9c71d9556037"
   },
   "62": {
     "translation": "Reina Valera NT (1858)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Juan",
     "url": "https://api.getbible.net/v2/rv1858/62.json",
-    "sha": "a49c3ecc8a1a5551fee51723fdc8977a530bd915"
+    "sha": "9ebb6a0f815ec4f9c34a5f7a460ca2d74c882e68"
   },
   "63": {
     "translation": "Reina Valera NT (1858)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Juan",
     "url": "https://api.getbible.net/v2/rv1858/63.json",
-    "sha": "0625e0bc4ee0f19b5d38e7ae2b461179a434345e"
+    "sha": "40c55ebfdff3844a866c0934508666d11587c0df"
   },
   "64": {
     "translation": "Reina Valera NT (1858)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Juan",
     "url": "https://api.getbible.net/v2/rv1858/64.json",
-    "sha": "f72a9fdafb5a714aac2c412b5e059af02ed50736"
+    "sha": "894b4ec9480baaf14b3b8c5617a1664dd29eb58e"
   },
   "65": {
     "translation": "Reina Valera NT (1858)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judas",
     "url": "https://api.getbible.net/v2/rv1858/65.json",
-    "sha": "556128cf6afab2187157975e83678118b80856f2"
+    "sha": "bfa2007ec1941f0e068975db6144d927ee06dadc"
   },
   "66": {
     "translation": "Reina Valera NT (1858)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Apocalipsis",
     "url": "https://api.getbible.net/v2/rv1858/66.json",
-    "sha": "c2f96cd7175f59986ae2e6049b3d55c3eeb1d279"
+    "sha": "d12da22bc95f45ec61483cfc14d7ebfa03e0624f"
   }
 }

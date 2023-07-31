@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "約拿書 1",
     "url": "https://api.getbible.net/v2/cnt/32/1.json",
-    "sha": "52e161aad28a2a38b1a4f1a515aaa95d15af7cbc"
+    "sha": "a01adebd5decbe668270ceb1c1ca8c0c99535468"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "約拿書 2",
     "url": "https://api.getbible.net/v2/cnt/32/2.json",
-    "sha": "44872063c403bfb2d7b54c59a657c1ed84c4d9b9"
+    "sha": "c23a2444c521f194118f829c9cccfe6ea91f5e0c"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "約拿書 3",
     "url": "https://api.getbible.net/v2/cnt/32/3.json",
-    "sha": "d439cfee12a69d8a007194e45e0afa6176d6d550"
+    "sha": "e2108f54bab5deb38d4d88ca964e8d609c5b3da7"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "約拿書 4",
     "url": "https://api.getbible.net/v2/cnt/32/4.json",
-    "sha": "ff19d1c354a275b8d9043d5e019dee3828ef53dc"
+    "sha": "9ae878077e07bc09d0c3803281d1939588a1213e"
   }
 }

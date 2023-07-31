@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Cantique des Cantiques 1",
     "url": "https://api.getbible.net/v2/darby/22/1.json",
-    "sha": "032955068e66a8acfd8f85427a39484eefbc868a"
+    "sha": "fec484824326c941711724333d2c2b6933dc6d1c"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Cantique des Cantiques 2",
     "url": "https://api.getbible.net/v2/darby/22/2.json",
-    "sha": "1130f4a806d512b82d3c4a0e2b27ffcc74b5d33c"
+    "sha": "4f01b13debdc75ac27520bd985adf0286226c110"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Cantique des Cantiques 3",
     "url": "https://api.getbible.net/v2/darby/22/3.json",
-    "sha": "925136261862254c0298a3b87b24a61976efb6e5"
+    "sha": "aef8db9cf12c46a88eed97a5045e0a5b284fec2a"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Cantique des Cantiques 4",
     "url": "https://api.getbible.net/v2/darby/22/4.json",
-    "sha": "5c7ba7a1794afdac47c64af3c3ef7f5faea877d3"
+    "sha": "89d1ed759f3c1f0a5b095025e508a52b58a3100e"
   },
   "5": {
     "translation": "Darby",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Cantique des Cantiques 5",
     "url": "https://api.getbible.net/v2/darby/22/5.json",
-    "sha": "7a496d3c21575cc58d01697614c08a86be83b3c2"
+    "sha": "8badd3d12e8d33f7b33bcc62cad6eccd57001e43"
   },
   "6": {
     "translation": "Darby",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Cantique des Cantiques 6",
     "url": "https://api.getbible.net/v2/darby/22/6.json",
-    "sha": "c639d7807badfd6d1017dcc4843dc36568d4d551"
+    "sha": "ff9e9c076a0146a39c13b3591936b6439246a4b9"
   },
   "7": {
     "translation": "Darby",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Cantique des Cantiques 7",
     "url": "https://api.getbible.net/v2/darby/22/7.json",
-    "sha": "685aaff3df1c6254e249e05bf19d76916974f6d5"
+    "sha": "975dcae60221c5753d59311eaf6ddef1a8f75f2d"
   },
   "8": {
     "translation": "Darby",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Cantique des Cantiques 8",
     "url": "https://api.getbible.net/v2/darby/22/8.json",
-    "sha": "7c68f8f02bf26d0a7592c2b31e43e2662b54ad41"
+    "sha": "ff900d07d73ff56d338d2d208c00b5efc2ac2c51"
   }
 }

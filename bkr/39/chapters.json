@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachiáš",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malachiáš 1",
     "url": "https://api.getbible.net/v2/bkr/39/1.json",
-    "sha": "d81227806fd41b29e229d021b2e03b270fb61829"
+    "sha": "81668fcbe43b4355efa54bb8ca3c2ea494a36dfd"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachiáš",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malachiáš 2",
     "url": "https://api.getbible.net/v2/bkr/39/2.json",
-    "sha": "04a24356e8e3fc5cfb2665478ce4d504e16344c0"
+    "sha": "96b4222965e51a67908eac4abc7188c4dcac7dfe"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachiáš",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malachiáš 3",
     "url": "https://api.getbible.net/v2/bkr/39/3.json",
-    "sha": "0c27a1f58b4f22ada12e6e3901af5cf511d9d3ce"
+    "sha": "6f04551385a86c815bea0401cced9086c7d69b3f"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachiáš",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malachiáš 4",
     "url": "https://api.getbible.net/v2/bkr/39/4.json",
-    "sha": "9d31952c9628431f59a67591c524809d408920bd"
+    "sha": "2f7eab803376e9f73c1f41459648806487b4ace3"
   }
 }

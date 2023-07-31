@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Galatians 1",
     "url": "https://api.getbible.net/v2/wycliffe/48/1.json",
-    "sha": "447faea98b6047a5bcbd4d186ec4f1e01645d6fb"
+    "sha": "9b35474261852acd276078f4d2573d6e59282b99"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Galatians 2",
     "url": "https://api.getbible.net/v2/wycliffe/48/2.json",
-    "sha": "77b558b586bc2bd2c6a41ca13c4ae411f8931b48"
+    "sha": "454a3ce73fa6aca40823deddbdcead8965ff9d39"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "Galatians 3",
     "url": "https://api.getbible.net/v2/wycliffe/48/3.json",
-    "sha": "abe70f6de078b502bd04281619d210b36156702e"
+    "sha": "b095d3687100ee09d96c31d6020672123b9dbfb5"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "Galatians 4",
     "url": "https://api.getbible.net/v2/wycliffe/48/4.json",
-    "sha": "0c741cc7819bfa7e1879143093d07eb8f9cc785b"
+    "sha": "df8bbc2ad07fb95f8437a228d898e94ad9861ec4"
   },
   "5": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "Galatians 5",
     "url": "https://api.getbible.net/v2/wycliffe/48/5.json",
-    "sha": "2350659a7cccdb25aa90e97be5a9966e58cfc623"
+    "sha": "737865a5be950ad3682398cba6dc315b0cb1096b"
   },
   "6": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galatians 6",
     "url": "https://api.getbible.net/v2/wycliffe/48/6.json",
-    "sha": "1c50e632d6ded28d47e41da703d5da7c03cf40fb"
+    "sha": "05795c585bed71605e3f6832a281f727f5e223cf"
   }
 }

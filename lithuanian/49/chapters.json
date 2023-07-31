@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeziečiams",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efeziečiams 1",
     "url": "https://api.getbible.net/v2/lithuanian/49/1.json",
-    "sha": "66bda742c2fd0b124a9940c9d9eb2767748cf526"
+    "sha": "4c5b91e88bb86156ceb3ae96358af1ae641af3cf"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeziečiams",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efeziečiams 2",
     "url": "https://api.getbible.net/v2/lithuanian/49/2.json",
-    "sha": "04511cf7f75c24d111a623ce1f3f0bc935f76a7f"
+    "sha": "90bf2a0d3fa93e5597c521223027d2597cbdd214"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeziečiams",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efeziečiams 3",
     "url": "https://api.getbible.net/v2/lithuanian/49/3.json",
-    "sha": "939453baeb9ada11487a85f6b618c89891a093cb"
+    "sha": "ed7ad6aab8d859b624cb83cd2dfaee2a92edd9c8"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeziečiams",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efeziečiams 4",
     "url": "https://api.getbible.net/v2/lithuanian/49/4.json",
-    "sha": "0602c5177415d18b3fb0c78c5a6b980e8da54d27"
+    "sha": "8cde942bbbbc1b32d4b3f7c89b9d9572e70cb5d8"
   },
   "5": {
     "translation": "Lithuanian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeziečiams",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efeziečiams 5",
     "url": "https://api.getbible.net/v2/lithuanian/49/5.json",
-    "sha": "dd58382727010768a3c68a6c909d486a0f4214f3"
+    "sha": "7b455e7828fe2437f1bb5a309cb95370f2dff640"
   },
   "6": {
     "translation": "Lithuanian",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeziečiams",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efeziečiams 6",
     "url": "https://api.getbible.net/v2/lithuanian/49/6.json",
-    "sha": "b0470fabeee0ed790223267b9d271e0653e8a091"
+    "sha": "c6dbe8464d479de23722955ed1488b56e95e7abe"
   }
 }

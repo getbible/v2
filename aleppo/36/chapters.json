@@ -3,42 +3,42 @@
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "צְפַנְיָה 1",
     "url": "https://api.getbible.net/v2/aleppo/36/1.json",
-    "sha": "1473c7c119efbb4e77decec47eca68445690fbb5"
+    "sha": "27dbc7ec3e91c7bf755c8cef5ba1e45679dab41b"
   },
   "2": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "צְפַנְיָה 2",
     "url": "https://api.getbible.net/v2/aleppo/36/2.json",
-    "sha": "99d84eccb60f7d035e94e33e369d1c1267fe0ce6"
+    "sha": "0a54fa5b03d601969eceb98ab523830931653373"
   },
   "3": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "צְפַנְיָה 3",
     "url": "https://api.getbible.net/v2/aleppo/36/3.json",
-    "sha": "5d3e42bfd056a445669e91fc9cb539ef61e6ed81"
+    "sha": "67fbe39dcf2272a2af234f1fea551595f763f9b2"
   }
 }

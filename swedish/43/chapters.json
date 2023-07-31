@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 1,
-    "name": "John 1",
+    "name": "Johannes 1",
     "url": "https://api.getbible.net/v2/swedish/43/1.json",
-    "sha": "e1588d9b9918514bb3e386b81d11c5d5a46b2e13"
+    "sha": "4969ca8737f98ec975f845b295898508cda96d80"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 2,
-    "name": "John 2",
+    "name": "Johannes 2",
     "url": "https://api.getbible.net/v2/swedish/43/2.json",
-    "sha": "b8df5720a090cd65991feb4c4fb7413fbcf5f9e0"
+    "sha": "09bd32d25fc19038a035c26b7f04ed51f7f952ce"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 3,
-    "name": "John 3",
+    "name": "Johannes 3",
     "url": "https://api.getbible.net/v2/swedish/43/3.json",
-    "sha": "daae9ed58734ede5563b2461c12b6cf09170910c"
+    "sha": "e7fcf34fa296fba810395e94d1640b47c10b027c"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 4,
-    "name": "John 4",
+    "name": "Johannes 4",
     "url": "https://api.getbible.net/v2/swedish/43/4.json",
-    "sha": "0fab5c6a8fbbf7f7da91ea87c701d0ec97b6d98f"
+    "sha": "d1b715ff8b52e265d0238e12a0467bd417f01592"
   },
   "5": {
     "translation": "Swedish (1917)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 5,
-    "name": "John 5",
+    "name": "Johannes 5",
     "url": "https://api.getbible.net/v2/swedish/43/5.json",
-    "sha": "21eb143b7002158e691561c65e266187d80d4274"
+    "sha": "561d83189ad64bf6cc3a02b7139e3738e3dbd2ba"
   },
   "6": {
     "translation": "Swedish (1917)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 6,
-    "name": "John 6",
+    "name": "Johannes 6",
     "url": "https://api.getbible.net/v2/swedish/43/6.json",
-    "sha": "80644485289593eefe647e1fb0cfec0ebcb6f809"
+    "sha": "4dd805fff55c3c4dee8f11987bb1a730dee39dd8"
   },
   "7": {
     "translation": "Swedish (1917)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 7,
-    "name": "John 7",
+    "name": "Johannes 7",
     "url": "https://api.getbible.net/v2/swedish/43/7.json",
-    "sha": "0f2df7d843835fd360826dfd2cf4c99cb9d6a98f"
+    "sha": "c5bbf682741300d83f5c348817c00d1a2e37c97e"
   },
   "8": {
     "translation": "Swedish (1917)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 8,
-    "name": "John 8",
+    "name": "Johannes 8",
     "url": "https://api.getbible.net/v2/swedish/43/8.json",
-    "sha": "838fbe569134f9830ac6ab1bef6c602ba8060011"
+    "sha": "cf7949ea56ad25dd2d07bf40ef138ffdee5fd77d"
   },
   "9": {
     "translation": "Swedish (1917)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 9,
-    "name": "John 9",
+    "name": "Johannes 9",
     "url": "https://api.getbible.net/v2/swedish/43/9.json",
-    "sha": "4e8a27fb5dcfd33fb380d7a637be7b1861415ffa"
+    "sha": "cd32b81f7974954e76a59f8b4b51f15a16817147"
   },
   "10": {
     "translation": "Swedish (1917)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 10,
-    "name": "John 10",
+    "name": "Johannes 10",
     "url": "https://api.getbible.net/v2/swedish/43/10.json",
-    "sha": "175d01f81c77d721c7eb39aee37382294fd7c08a"
+    "sha": "bfedfeaee3468623ea22f72438bf8a413588e8cc"
   },
   "11": {
     "translation": "Swedish (1917)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 11,
-    "name": "John 11",
+    "name": "Johannes 11",
     "url": "https://api.getbible.net/v2/swedish/43/11.json",
-    "sha": "fc99c9183b4e406fc64b0d31a80f9aa8f4b7fe62"
+    "sha": "bdb1a1febef9ea2dd73f3e8ef04f310b9ad20a75"
   },
   "12": {
     "translation": "Swedish (1917)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 12,
-    "name": "John 12",
+    "name": "Johannes 12",
     "url": "https://api.getbible.net/v2/swedish/43/12.json",
-    "sha": "049c36a8b471f38ca46f68ab4ec5542ac565d2b4"
+    "sha": "86e401d77beabdfd3e1032338f02dbe19141d1f8"
   },
   "13": {
     "translation": "Swedish (1917)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 13,
-    "name": "John 13",
+    "name": "Johannes 13",
     "url": "https://api.getbible.net/v2/swedish/43/13.json",
-    "sha": "7e6c4b2373314f2a6b4ae52dd475e859c96f5417"
+    "sha": "5b2c185f0c9edf2ba506c7b0f1975860ce1d5a3b"
   },
   "14": {
     "translation": "Swedish (1917)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 14,
-    "name": "John 14",
+    "name": "Johannes 14",
     "url": "https://api.getbible.net/v2/swedish/43/14.json",
-    "sha": "54f46b9a40e450bfd217165a8eb7d19ac18bd315"
+    "sha": "f4bfad168f57f9ff792942f1ec74fa2d24dd2a96"
   },
   "15": {
     "translation": "Swedish (1917)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 15,
-    "name": "John 15",
+    "name": "Johannes 15",
     "url": "https://api.getbible.net/v2/swedish/43/15.json",
-    "sha": "0bab1ef6a57310d904e9ffdd2266774e31d9b4bc"
+    "sha": "800679b79a5f78ced72927fd7b50a93b00be8280"
   },
   "16": {
     "translation": "Swedish (1917)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 16,
-    "name": "John 16",
+    "name": "Johannes 16",
     "url": "https://api.getbible.net/v2/swedish/43/16.json",
-    "sha": "f2aa07b23387a7857d159daa911955865ecfba0a"
+    "sha": "45f39b3d6afebd3c6b6b8393071c5fded326c76c"
   },
   "17": {
     "translation": "Swedish (1917)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 17,
-    "name": "John 17",
+    "name": "Johannes 17",
     "url": "https://api.getbible.net/v2/swedish/43/17.json",
-    "sha": "7d06e27b9324657308d47bb5100375a5e8df28bf"
+    "sha": "a8be31be0d9fe6c0f943998cdfb3c79533981021"
   },
   "18": {
     "translation": "Swedish (1917)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 18,
-    "name": "John 18",
+    "name": "Johannes 18",
     "url": "https://api.getbible.net/v2/swedish/43/18.json",
-    "sha": "29374e2e1ae3d4f03e49f9f133763130b9c55bf3"
+    "sha": "207226675863b27d7055aef34c6a2b88150c3e78"
   },
   "19": {
     "translation": "Swedish (1917)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 19,
-    "name": "John 19",
+    "name": "Johannes 19",
     "url": "https://api.getbible.net/v2/swedish/43/19.json",
-    "sha": "ed3e21c65a3e53315ba51596e9276ad5f68c26ce"
+    "sha": "a6e7cccfec7af250bf6a8cbbc1397effd165997d"
   },
   "20": {
     "translation": "Swedish (1917)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 20,
-    "name": "John 20",
+    "name": "Johannes 20",
     "url": "https://api.getbible.net/v2/swedish/43/20.json",
-    "sha": "32a8dc96f36a1ce9f29537f68caace531a8dd489"
+    "sha": "5267208ec91fede393b949009bbd606a3411aaeb"
   },
   "21": {
     "translation": "Swedish (1917)",
@@ -287,10 +287,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Johannes",
     "chapter": 21,
-    "name": "John 21",
+    "name": "Johannes 21",
     "url": "https://api.getbible.net/v2/swedish/43/21.json",
-    "sha": "ac76da7bea8c2ad9e811d4ef0fe40f94ff30bfab"
+    "sha": "2a72ce4a2f9914c51e0940bbe57c3ad389ed67c7"
   }
 }

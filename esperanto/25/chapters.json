@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Prikantoj",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Prikantoj 1",
     "url": "https://api.getbible.net/v2/esperanto/25/1.json",
-    "sha": "926d704821c233b32216f47fce7ec2eb9d59f364"
+    "sha": "dbba86eb9e2b0abd27f00bcb04bb528c9017c8be"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Prikantoj",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Prikantoj 2",
     "url": "https://api.getbible.net/v2/esperanto/25/2.json",
-    "sha": "b14297130f414fcb5e6e42e0e389205a9a07d19d"
+    "sha": "158c53394ef5075b4922b143c905a086ff8a097f"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Prikantoj",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Prikantoj 3",
     "url": "https://api.getbible.net/v2/esperanto/25/3.json",
-    "sha": "0f468108fbf1442348fd6fca1175d96827e17c3c"
+    "sha": "9e6553ca984d3f00a286d82d8db13a671a53c51c"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Prikantoj",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Prikantoj 4",
     "url": "https://api.getbible.net/v2/esperanto/25/4.json",
-    "sha": "168ab625ffd7dcf63abed139e26aeb04a2ccef5d"
+    "sha": "290d114977e6f72d3c52ac37cfb5b4c37af9b7b7"
   },
   "5": {
     "translation": "Esperanto",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Prikantoj",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Prikantoj 5",
     "url": "https://api.getbible.net/v2/esperanto/25/5.json",
-    "sha": "dc92d8add24646144c1b251a9c9a45255e11f910"
+    "sha": "06b73e42b3a0920b3520493fd5ceb84296dd319b"
   }
 }

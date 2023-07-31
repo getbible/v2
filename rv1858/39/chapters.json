@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malaquías 1",
     "url": "https://api.getbible.net/v2/rv1858/39/1.json",
-    "sha": "681adde26bd0a483746edb7a723df1ea4b42991f"
+    "sha": "31b66699f1530ae639341a62627b50455a410685"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malaquías 2",
     "url": "https://api.getbible.net/v2/rv1858/39/2.json",
-    "sha": "28555e51e8f8afc687fb01cf6fe948579cb905cd"
+    "sha": "70a89ad5110d98754e4e58669a9cee2afd42370f"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malaquías 3",
     "url": "https://api.getbible.net/v2/rv1858/39/3.json",
-    "sha": "6dd63ea1d8912cc0561821ab46da811a292e7917"
+    "sha": "2e7c4001a4ef3656432b2dba6c8812a34422cd87"
   },
   "4": {
     "translation": "Reina Valera NT (1858)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malaquías 4",
     "url": "https://api.getbible.net/v2/rv1858/39/4.json",
-    "sha": "c025d936a3201fba630d6ed2a0cea5685460fe47"
+    "sha": "5b28c5d2eb7c7b2038664cbfd8305b5f84f0fbc6"
   }
 }

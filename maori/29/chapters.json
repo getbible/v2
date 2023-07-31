@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Iōēri",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Iōēri 1",
     "url": "https://api.getbible.net/v2/maori/29/1.json",
-    "sha": "b45396b04af19030d66599d80a16db1f98468683"
+    "sha": "f2b924aac34cbb6ddc3623a857777678214cd33b"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Iōēri",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Iōēri 2",
     "url": "https://api.getbible.net/v2/maori/29/2.json",
-    "sha": "742008e148f1c7fbb211789b7f303c3d45724ff9"
+    "sha": "13bb735745fea6632c57eceb4e560da9ba029b42"
   },
   "3": {
     "translation": "Maori",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Iōēri",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Iōēri 3",
     "url": "https://api.getbible.net/v2/maori/29/3.json",
-    "sha": "7229097c90b3266b9391693470f72608f30ca02f"
+    "sha": "2b8d1d621efa0951ac8a0e230f09cf44ca62645b"
   }
 }

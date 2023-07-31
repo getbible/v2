@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 1",
     "url": "https://api.getbible.net/v2/coptic/55/1.json",
-    "sha": "bfa993e77bb730e8a983621d18c93e127f5a1438"
+    "sha": "3cc5a3562175149609c8351a323853498fbb6cff"
   },
   "2": {
     "translation": "New Testament",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 2",
     "url": "https://api.getbible.net/v2/coptic/55/2.json",
-    "sha": "f398e248b584eb01a7abeef2b17014cabe00c0b3"
+    "sha": "77ce62a6a204a7fa8318618e52eb0ab0ea5bc488"
   },
   "3": {
     "translation": "New Testament",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 3",
     "url": "https://api.getbible.net/v2/coptic/55/3.json",
-    "sha": "cd2f55b0c92e363266a66ce17ab8823c7b46ee1b"
+    "sha": "de7f971e2c049dc8a11f4d006cdfbc2a4f45a52e"
   },
   "4": {
     "translation": "New Testament",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 4",
     "url": "https://api.getbible.net/v2/coptic/55/4.json",
-    "sha": "5d89bef79903dafceff9b30c53a586c5eb885241"
+    "sha": "c1869b781246438a1d8281d1116569973ff9dd8a"
   }
 }

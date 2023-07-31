@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Philippiens 1",
     "url": "https://api.getbible.net/v2/ls1910/50/1.json",
-    "sha": "81de5d12b3b02fa72f0f88370f7b7693c8b81248"
+    "sha": "64dc26d954e7df6039bc21cd0a0ebadff648414c"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Philippiens 2",
     "url": "https://api.getbible.net/v2/ls1910/50/2.json",
-    "sha": "69275e31d17a121dc6aa14a5342f601b68d5335b"
+    "sha": "6a70c279da3ad9cd7dc96bd3dd4fb806399ae084"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Philippiens 3",
     "url": "https://api.getbible.net/v2/ls1910/50/3.json",
-    "sha": "4b2d748f3891adddc2c58406069cc453747d26ab"
+    "sha": "5489a88386a35a979e284222def518d7cdc1f6e5"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Philippiens 4",
     "url": "https://api.getbible.net/v2/ls1910/50/4.json",
-    "sha": "202ee1de083c0057a698a7a3747a69f1b326f470"
+    "sha": "d4370b21a41b595c76a5b6bfcd8d15e16c5b2624"
   }
 }

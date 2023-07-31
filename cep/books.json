@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Numeri",
     "url": "https://api.getbible.net/v2/cep/4.json",
-    "sha": "778fead3d8d9afbca03652baca1863c5f5e79d0f"
+    "sha": "9e38ce747d4ae4ccbcb53ce1510e0355d336b931"
   },
   "5": {
     "translation": "Czech CEP",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomium",
     "url": "https://api.getbible.net/v2/cep/5.json",
-    "sha": "f4b1f9e4e527d0d55be6a1ae5ec5c1d23e6001bc"
+    "sha": "bacf6fd1f38d6bcaa0ca2917fa23f276eb946cff"
   },
   "6": {
     "translation": "Czech CEP",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Jozue",
     "url": "https://api.getbible.net/v2/cep/6.json",
-    "sha": "ace713df8a586ef36fd38711d272152baff0cd19"
+    "sha": "ab9dc8a2274130a5232f8ed077a060710a31b065"
   },
   "7": {
     "translation": "Czech CEP",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Soudců",
     "url": "https://api.getbible.net/v2/cep/7.json",
-    "sha": "3038a90fbb6ccbf43e705b9e42839b6caaed3ab1"
+    "sha": "9d0b5dd57805ca67fe9854271f2a53eadca6601c"
   },
   "8": {
     "translation": "Czech CEP",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rút",
     "url": "https://api.getbible.net/v2/cep/8.json",
-    "sha": "81ad77a10b794439ef8b308e7a201ad99c32f6af"
+    "sha": "126c5a87c5bd00fd990ac4c870728e716274e87e"
   },
   "9": {
     "translation": "Czech CEP",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Královská",
     "url": "https://api.getbible.net/v2/cep/11.json",
-    "sha": "1b66a97414df5d7455ec1d04c752eae545724e7a"
+    "sha": "4403949821e2683a2602a93d743e9dd84b935b43"
   },
   "12": {
     "translation": "Czech CEP",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Královská",
     "url": "https://api.getbible.net/v2/cep/12.json",
-    "sha": "92be5b27757967b12b80fb74167cf662ec7ddda4"
+    "sha": "b29806c4b77cb8d1995b6fb9902e1afe4ef292f3"
   },
   "13": {
     "translation": "Czech CEP",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Paralipomenon",
     "url": "https://api.getbible.net/v2/cep/13.json",
-    "sha": "497b92c5194220ea57eb2d9ee1a3c312640ba732"
+    "sha": "b70e2a3c0c667965483801a09f74c53b86d23545"
   },
   "14": {
     "translation": "Czech CEP",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Paralipomenon",
     "url": "https://api.getbible.net/v2/cep/14.json",
-    "sha": "18d5a2e757f03ce0332882890a237d2ca8e36324"
+    "sha": "c84def6cbdf2153a2865da5533a63e7651dd9a57"
   },
   "15": {
     "translation": "Czech CEP",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Ezdráš",
     "url": "https://api.getbible.net/v2/cep/15.json",
-    "sha": "ce991d2b41fd7b1c3359f1c387c84d045da092f1"
+    "sha": "fa96b3138450db53b3914cf04bd38ed8b6ae4976"
   },
   "16": {
     "translation": "Czech CEP",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemjáš",
     "url": "https://api.getbible.net/v2/cep/16.json",
-    "sha": "9103be757f39b128033e3eea01250d39fd1000cc"
+    "sha": "85040d62936c7169e3a144bda5c47b19c5427c54"
   },
   "17": {
     "translation": "Czech CEP",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/cep/17.json",
-    "sha": "691dadcb5adc2a906529bfdd921964829b3587ed"
+    "sha": "260c4d254416a7c3c00b477cb4ff0abbed79b72f"
   },
   "18": {
     "translation": "Czech CEP",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Žalmy",
     "url": "https://api.getbible.net/v2/cep/19.json",
-    "sha": "e737e30e2efb63f95bd973fa129aeb7b13568156"
+    "sha": "cef188731ef08d7726e3e488352db64cb3a9c7a0"
   },
   "20": {
     "translation": "Czech CEP",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Přísloví",
     "url": "https://api.getbible.net/v2/cep/20.json",
-    "sha": "3c25846258c73d1ace22b5b5cda91834146519f1"
+    "sha": "aad1857fcce9ed82d37b75cd31d6b642100790fc"
   },
   "21": {
     "translation": "Czech CEP",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Kazatel",
     "url": "https://api.getbible.net/v2/cep/21.json",
-    "sha": "196dfc0922097a3b85b9dcc99b4e62b553619c7b"
+    "sha": "0bb88324872ac85ca273a5e324503e29059ef73e"
   },
   "22": {
     "translation": "Czech CEP",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Píseň písní",
     "url": "https://api.getbible.net/v2/cep/22.json",
-    "sha": "182bad5670e9e681377e0ec29ad8f63199e95c6e"
+    "sha": "1a79ee713dd47f1950808f8da53995785e00a1c8"
   },
   "23": {
     "translation": "Czech CEP",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Izajáš",
     "url": "https://api.getbible.net/v2/cep/23.json",
-    "sha": "c60e8275eedb1e1f317e7bca26fd475b9111cbfb"
+    "sha": "407210bb26bf12fd346b65a6e6b99214ed3b30b6"
   },
   "24": {
     "translation": "Czech CEP",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremjáš",
     "url": "https://api.getbible.net/v2/cep/24.json",
-    "sha": "00f135edef3330c6f6f52795e1080db57518824e"
+    "sha": "2e4fc0516239aaaa2228c0be655abac322dda3ee"
   },
   "25": {
     "translation": "Czech CEP",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Pláč Jeremjášův",
     "url": "https://api.getbible.net/v2/cep/25.json",
-    "sha": "26c9de36aa8b6ab6624ef6a6d00d39248ee26db5"
+    "sha": "f3d0327fc21895efff661d876db8d01bfa738707"
   },
   "26": {
     "translation": "Czech CEP",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezechiel",
     "url": "https://api.getbible.net/v2/cep/26.json",
-    "sha": "a7386c4d3336f35b28dc5f37cefdd108792a2d8d"
+    "sha": "351d4252c85735f6bab9f82b06fa791bee0940dd"
   },
   "27": {
     "translation": "Czech CEP",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Ozeáš",
     "url": "https://api.getbible.net/v2/cep/28.json",
-    "sha": "25ea77697c58199e73b8a5309d5039c428c2b60d"
+    "sha": "db7c3af0feaa937ffdee4d17355ca5abc907b372"
   },
   "29": {
     "translation": "Czech CEP",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Abdijáš",
     "url": "https://api.getbible.net/v2/cep/31.json",
-    "sha": "7799937413a725cc676fd9564e1a23d4ca54240c"
+    "sha": "bec113dc7bf8e87cb65c695a79b0fd47563e0f66"
   },
   "32": {
     "translation": "Czech CEP",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jonáš",
     "url": "https://api.getbible.net/v2/cep/32.json",
-    "sha": "c33b0dc9285b50e83f51617c211a64c8f51bb132"
+    "sha": "10bc70f59f7b599bdfe123a820f0faad40f2d6aa"
   },
   "33": {
     "translation": "Czech CEP",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Micheáš",
     "url": "https://api.getbible.net/v2/cep/33.json",
-    "sha": "51cc2fac75061e49db73a3b2bd5fdd80ff71e124"
+    "sha": "df044f098aaa3613e8f6b1565654144686a0e493"
   },
   "34": {
     "translation": "Czech CEP",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habakuk",
     "url": "https://api.getbible.net/v2/cep/35.json",
-    "sha": "fd75b19ada0a6507b6e17c32db312306f6c28b1d"
+    "sha": "584aaf32a7eac59dfe35513dd86d55cc23e558ff"
   },
   "36": {
     "translation": "Czech CEP",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sofonjáš",
     "url": "https://api.getbible.net/v2/cep/36.json",
-    "sha": "19fea79e6607ff2a023a5d3881948c2815bae395"
+    "sha": "9e432bbe02aa4c220367bd60c73cc5bbc94a2978"
   },
   "37": {
     "translation": "Czech CEP",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Haggeus",
     "url": "https://api.getbible.net/v2/cep/37.json",
-    "sha": "2625bde7bd96f10a0cc8a4308899ce109a2db0b6"
+    "sha": "5a318b93a5134d19d34a96f6579aa1239c1b0885"
   },
   "38": {
     "translation": "Czech CEP",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacharjáš",
     "url": "https://api.getbible.net/v2/cep/38.json",
-    "sha": "1ae9cdcfd3ee6aeff0810004ec01633f74e235bd"
+    "sha": "c1c75c1770b66ee3f91343274e4a9abe97464b4b"
   },
   "39": {
     "translation": "Czech CEP",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malachiáš",
     "url": "https://api.getbible.net/v2/cep/39.json",
-    "sha": "de64b5fa14458d3b8c82feb86eb8b34168eeaa9f"
+    "sha": "0acc1f0685fa033b838d6b69f38336d4303977cb"
   },
   "40": {
     "translation": "Czech CEP",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matouš",
     "url": "https://api.getbible.net/v2/cep/40.json",
-    "sha": "35ec3cdeb4dfc5d65310a8da4b7f9393c4b77e1c"
+    "sha": "4b8a936c98ad3d8ccd000cd3a0691e8920d66bea"
   },
   "41": {
     "translation": "Czech CEP",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Markus",
     "url": "https://api.getbible.net/v2/cep/41.json",
-    "sha": "5ac95a20fafb93baa873437b83c8eae1546e85e5"
+    "sha": "b1457ac581b929e98e5fd91318bf552bc4b5334b"
   },
   "42": {
     "translation": "Czech CEP",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lukáš",
     "url": "https://api.getbible.net/v2/cep/42.json",
-    "sha": "0f11b98b5d0cad8c986d914e2ac513bc0ab32b3e"
+    "sha": "9be87099d37c2818e9ec45745786bf81d344f8e1"
   },
   "43": {
     "translation": "Czech CEP",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Jan",
     "url": "https://api.getbible.net/v2/cep/43.json",
-    "sha": "cca1fc98d06c363fd18d5af18d5291300054840a"
+    "sha": "e8823335ac35a74475fdbe398a1c510c87d732ea"
   },
   "44": {
     "translation": "Czech CEP",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Skutky apoštolské",
     "url": "https://api.getbible.net/v2/cep/44.json",
-    "sha": "a1bb95ef04a000d4c01b54542d6d82c520f39e13"
+    "sha": "ad2e9c699766ed1b3ab5ba6f7cc22816a4fe84e1"
   },
   "45": {
     "translation": "Czech CEP",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Římanům",
     "url": "https://api.getbible.net/v2/cep/45.json",
-    "sha": "dcd893ad51cd2d5ecdea682cab4c05ffdf2eff45"
+    "sha": "b29c71eec09e5de090da2b2a589f95964151d903"
   },
   "46": {
     "translation": "Czech CEP",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korintským",
     "url": "https://api.getbible.net/v2/cep/46.json",
-    "sha": "804b30b313b291b0ef24f2f497d6da6917d8d14b"
+    "sha": "49aa9694b6ef93e569eb77ae04d17a2055fd0958"
   },
   "47": {
     "translation": "Czech CEP",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korintským",
     "url": "https://api.getbible.net/v2/cep/47.json",
-    "sha": "b95e2da07b10dd9ba6cb7956c1aee41035224cab"
+    "sha": "0037b77fb7bc6558f1abd50a88245711a5d057aa"
   },
   "48": {
     "translation": "Czech CEP",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galaťanům",
     "url": "https://api.getbible.net/v2/cep/48.json",
-    "sha": "a48d43348d1f71de66ae61d50116c4c08f4f7411"
+    "sha": "655b0bbb621f0e965e56c8044105d9afab021d18"
   },
   "49": {
     "translation": "Czech CEP",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efezským",
     "url": "https://api.getbible.net/v2/cep/49.json",
-    "sha": "77021e36b6d327e3c49b01f557393418dc9f86c9"
+    "sha": "70aac4b1f67c3a97eae0543fdf4ca6ca63d84f84"
   },
   "50": {
     "translation": "Czech CEP",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipským",
     "url": "https://api.getbible.net/v2/cep/50.json",
-    "sha": "1087b98ce2e4d37dbac417e96a869e15302845da"
+    "sha": "2a2aa565be736b37db4675756fd3b1ed2af89532"
   },
   "51": {
     "translation": "Czech CEP",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Koloským",
     "url": "https://api.getbible.net/v2/cep/51.json",
-    "sha": "b59b4ea1710426cce6e6147d9a7b655742b1957b"
+    "sha": "e146933dfa1ea55ca9a49aa234409d76bd581116"
   },
   "52": {
     "translation": "Czech CEP",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tesalonickým",
     "url": "https://api.getbible.net/v2/cep/52.json",
-    "sha": "68e1182639c0e00e636ce0a4c7785cea433a1e9c"
+    "sha": "23868f45bad00d54851f08b7e0d3d91ced5b76a8"
   },
   "53": {
     "translation": "Czech CEP",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tesalonickým",
     "url": "https://api.getbible.net/v2/cep/53.json",
-    "sha": "fda1b137bbbf6913dc4452ceb49ac4145653f618"
+    "sha": "ee3a7a331506b8218f917385c58f7ff3585d191b"
   },
   "54": {
     "translation": "Czech CEP",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteovi",
     "url": "https://api.getbible.net/v2/cep/54.json",
-    "sha": "c02e02c1fa8a85c60b393cb3e24a88cb4060977a"
+    "sha": "baf4c51c4e426ca514496bd3f5bf520d04d4e5b0"
   },
   "55": {
     "translation": "Czech CEP",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteovi",
     "url": "https://api.getbible.net/v2/cep/55.json",
-    "sha": "0eb9763bdeec32ca6c8cd3fb93609c5c31847fa5"
+    "sha": "eef390e2b267cc0cdd278668a2eda1b7e51e776d"
   },
   "56": {
     "translation": "Czech CEP",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Titovi",
     "url": "https://api.getbible.net/v2/cep/56.json",
-    "sha": "b8f3b586a1455a6a00808dc6664c48007e2e79de"
+    "sha": "c3c330a8d31334985bd72697927bfa40539d4f17"
   },
   "57": {
     "translation": "Czech CEP",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemonovi",
     "url": "https://api.getbible.net/v2/cep/57.json",
-    "sha": "538bb4ec3ade32c38caac4c3bdd0b7c952a89cd5"
+    "sha": "d0b5e8cb73164ee8809c28d25bd15bf756f76ecf"
   },
   "58": {
     "translation": "Czech CEP",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Židům",
     "url": "https://api.getbible.net/v2/cep/58.json",
-    "sha": "b96f41af2b6563df4ded217d01492e429b3508e1"
+    "sha": "588a410624fd1ba27c01ec70d744b9a45d640709"
   },
   "59": {
     "translation": "Czech CEP",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jakub",
     "url": "https://api.getbible.net/v2/cep/59.json",
-    "sha": "5ae81123b79647bf11dc04bef02bea824612bd30"
+    "sha": "00a3d34cfc69acdf83a0b2c4e63332f41de75a7e"
   },
   "60": {
     "translation": "Czech CEP",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Petr",
     "url": "https://api.getbible.net/v2/cep/60.json",
-    "sha": "2441e10299d64e3afe347b02af82c55ff06f05a1"
+    "sha": "d71c77e93043c450fcd809fd26f85cf194cd3d79"
   },
   "61": {
     "translation": "Czech CEP",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Petr",
     "url": "https://api.getbible.net/v2/cep/61.json",
-    "sha": "936ee4affe5c2544b3c355d8af5693c417513b08"
+    "sha": "03d2d4d8d77d61c2f0d5808badf1c398b9757d64"
   },
   "62": {
     "translation": "Czech CEP",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Jan",
     "url": "https://api.getbible.net/v2/cep/62.json",
-    "sha": "2dedd9c353012932d40aa8770796360295fcd5a2"
+    "sha": "fd1163dd0652d15bb7f665729b02b437fc06ea92"
   },
   "63": {
     "translation": "Czech CEP",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Jan",
     "url": "https://api.getbible.net/v2/cep/63.json",
-    "sha": "56ff7a1eee0b92df07c5759eef4def1b913711c6"
+    "sha": "723cb3e68ea8695fe63ab1bf3ede8cbe735e5328"
   },
   "64": {
     "translation": "Czech CEP",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Jan",
     "url": "https://api.getbible.net/v2/cep/64.json",
-    "sha": "fee9dcaea4d61467a370fe9f189b0c278fa52132"
+    "sha": "b5186e70f460ca760ce81246507e2668172f70b4"
   },
   "65": {
     "translation": "Czech CEP",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Juda",
     "url": "https://api.getbible.net/v2/cep/65.json",
-    "sha": "9521d38eb240faef984d413e1cc1049cd8a4ffb5"
+    "sha": "da0991bdc05eb2f852e546534d35cb2a9fd6de61"
   },
   "66": {
     "translation": "Czech CEP",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Zjevení",
     "url": "https://api.getbible.net/v2/cep/66.json",
-    "sha": "59765ff385fd0979662d3f8cd9d8a28db21b0615"
+    "sha": "486aef7aeaf6f9c557616fdada362c0a9a090770"
   }
 }

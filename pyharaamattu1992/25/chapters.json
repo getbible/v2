@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Valitusvirret 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/25/1.json",
-    "sha": "6a5d9fab099738709659eef1f039be4a51ae7c64"
+    "sha": "f4de62a7e73718473bc1425799046b8829acbf2f"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Valitusvirret 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/25/2.json",
-    "sha": "922ed7800c3d9f4709987dab5cdabff9b160128c"
+    "sha": "2893dbf7ad52e8ad42df4869e18aacfb7d453dc8"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Valitusvirret 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/25/3.json",
-    "sha": "e4581c37ccdf26f79fddf60144fa4396d210bcd9"
+    "sha": "d230061023289e4e7cba53aba4692648e5a411fc"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Valitusvirret 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/25/4.json",
-    "sha": "83855a326968c163f2fd3c9964947d5aa2641afe"
+    "sha": "a0ce4d0d1d8afe0f0abf9c613ab12b1657292ca5"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Valitusvirret 5",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/25/5.json",
-    "sha": "0fb209ce17fc6a103b3e353a76c336d0d4a82db6"
+    "sha": "41e727ac5b83409433449f131390ca031d578f30"
   }
 }

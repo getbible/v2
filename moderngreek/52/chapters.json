@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "Προς Θεσσαλονικείς Α' 1",
     "url": "https://api.getbible.net/v2/moderngreek/52/1.json",
-    "sha": "15e7a239f19f90facab84649e8b0b481dac3fbb2"
+    "sha": "4755c1d9ad43b82683fe1caecdefaf54bf88d16c"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "Προς Θεσσαλονικείς Α' 2",
     "url": "https://api.getbible.net/v2/moderngreek/52/2.json",
-    "sha": "c88f8b60251bfedfdd4e5d1ac1a20a23f76c7d8e"
+    "sha": "93799cf886b4710483383aebc9a7530013552c12"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "Προς Θεσσαλονικείς Α' 3",
     "url": "https://api.getbible.net/v2/moderngreek/52/3.json",
-    "sha": "e0d6d23d3b03b3d6b355b8c13cd6aec605848b10"
+    "sha": "9ba0c2178ecabf9fee53a07505c502a79f7f15e0"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "Προς Θεσσαλονικείς Α' 4",
     "url": "https://api.getbible.net/v2/moderngreek/52/4.json",
-    "sha": "f2a47ee3c6d1cf211d577141b8da942a1232b82f"
+    "sha": "99a4149c019d2e2eaed0af095297f67828f05b7c"
   },
   "5": {
     "translation": "Greek Modern",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "Προς Θεσσαλονικείς Α' 5",
     "url": "https://api.getbible.net/v2/moderngreek/52/5.json",
-    "sha": "e364280b12168591a0dfc787484427b1fd141f36"
+    "sha": "cd69975ffab8221a69d11533162d41eedaaa43a2"
   }
 }

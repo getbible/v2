@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteo 1",
     "url": "https://api.getbible.net/v2/giovanni/55/1.json",
-    "sha": "d058fec92edf04a52e372b07974ebff9782247e3"
+    "sha": "d52b5107fcf8a0922ad2e1b2e910aa13bc2f61a4"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteo 2",
     "url": "https://api.getbible.net/v2/giovanni/55/2.json",
-    "sha": "9252133a077b3cfe5c666bbce924986e8005b5f3"
+    "sha": "7274cc62081cc0f648172840dc3ec821645f45ee"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteo 3",
     "url": "https://api.getbible.net/v2/giovanni/55/3.json",
-    "sha": "accfa0d15fb7d5e7019977b65698df98d61f8a7a"
+    "sha": "da506d728bbbe2b2939b1980f987bd82a3a4c88a"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteo 4",
     "url": "https://api.getbible.net/v2/giovanni/55/4.json",
-    "sha": "8a22cd1be5cf6c6b935bfc2c3f11f7ae67848791"
+    "sha": "98fa5ab700679ffbeac9706d23467e9ba84cd199"
   }
 }

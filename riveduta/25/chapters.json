@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentazioni",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Lamentazioni 1",
     "url": "https://api.getbible.net/v2/riveduta/25/1.json",
-    "sha": "f7b7bcbea28b8175d19dea77dbdf41668ba30518"
+    "sha": "215f1ed80d9615211a82835b201e3c8373394563"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentazioni",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Lamentazioni 2",
     "url": "https://api.getbible.net/v2/riveduta/25/2.json",
-    "sha": "0a8763636abd9c12f8554a64367c4c3375f72838"
+    "sha": "fb8640d685ab41b5ec9fe946775ef8303ca71eb8"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentazioni",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Lamentazioni 3",
     "url": "https://api.getbible.net/v2/riveduta/25/3.json",
-    "sha": "1680225dbfe4db13dde3fb75fd2b1ff5dfcda5aa"
+    "sha": "f75d43935401e4d0d599178628f8ac5633c6fdfd"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentazioni",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Lamentazioni 4",
     "url": "https://api.getbible.net/v2/riveduta/25/4.json",
-    "sha": "ed7d74b02cb485fc6af439bc484664dd9ceaffd3"
+    "sha": "ccb63027332ed18a9605640d8c02f4d6d7cd7d3c"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentazioni",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Lamentazioni 5",
     "url": "https://api.getbible.net/v2/riveduta/25/5.json",
-    "sha": "82f5aa9736f652e0ad2f4253f52dea3eb9561ecb"
+    "sha": "01d62a511c546aafb38eaca8bdb0244bf314111d"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "瑪拉基書 1",
     "url": "https://api.getbible.net/v2/cnt/39/1.json",
-    "sha": "3bdb7e5a3ea20066ffed462c410b4760a781db25"
+    "sha": "77d2ca11e2e8397389fc147eda6fc13d166d9793"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "瑪拉基書 2",
     "url": "https://api.getbible.net/v2/cnt/39/2.json",
-    "sha": "67dfa6dc8b964ad968c6ea1bf0c72cff0cc34989"
+    "sha": "e7e8b4b4475420e815cbfaffda44edc27d87c8a7"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "瑪拉基書 3",
     "url": "https://api.getbible.net/v2/cnt/39/3.json",
-    "sha": "080855fcf459049c7311b2c1c071df3b81075a1e"
+    "sha": "8bcfb92ad6931eac61899361d37d7bb74ba5e91f"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "瑪拉基書 4",
     "url": "https://api.getbible.net/v2/cnt/39/4.json",
-    "sha": "00ceb6f7082f234eaf6311817fa55f902034ebee"
+    "sha": "f2053b48c85f279e6cf1c5f975a5ce04a7e1d91d"
   }
 }

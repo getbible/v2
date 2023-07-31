@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Аггей",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Аггей 1",
     "url": "https://api.getbible.net/v2/synodal/37/1.json",
-    "sha": "4155d2cfb22779f3d30f706135fb905259d95aa2"
+    "sha": "7d5b7bfc761bf3ddf6232823e5ff5aa8793ab8b6"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Аггей",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Аггей 2",
     "url": "https://api.getbible.net/v2/synodal/37/2.json",
-    "sha": "19dc6bdc1982fc92107c0ec1180881489a33853a"
+    "sha": "78ae815c71cbd3fe21b397c6f8b3ba3d616158b5"
   }
 }

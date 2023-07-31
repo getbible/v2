@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachie",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malachie 1",
     "url": "https://api.getbible.net/v2/martin/39/1.json",
-    "sha": "0ea474af636ef0baa14d89fd2acfea22acaf46aa"
+    "sha": "f6f59ad3615e6d64be15efc72177a7ed6d05b55b"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachie",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malachie 2",
     "url": "https://api.getbible.net/v2/martin/39/2.json",
-    "sha": "1ec6ec246ccb4e244d0272a165fc0d83798fa6a5"
+    "sha": "0a4c0900cea625ff763c399b4156003b7235f029"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachie",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malachie 3",
     "url": "https://api.getbible.net/v2/martin/39/3.json",
-    "sha": "c416bb6719e872dd7199c7d9c6517449625a34de"
+    "sha": "31ca68d27a187e93e6ff7e2a836dd685a70044da"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachie",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malachie 4",
     "url": "https://api.getbible.net/v2/martin/39/4.json",
-    "sha": "71dd67edb2e2af4285f2fbf775de5238f3fcf768"
+    "sha": "fb611770334bbc23887876ea2436f6183d0886c2"
   }
 }

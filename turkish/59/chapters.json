@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Yakup",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Yakup 1",
     "url": "https://api.getbible.net/v2/turkish/59/1.json",
-    "sha": "57afbc5fd2a41aa9d5d1442075da1a3ddf03cf7a"
+    "sha": "52a1ca487f5e6f2cd0b1a9134880db7a92134645"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Yakup",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Yakup 2",
     "url": "https://api.getbible.net/v2/turkish/59/2.json",
-    "sha": "6aa9bd9e81540d40c0dbd8325599a1f0b1a1971c"
+    "sha": "62f2355901630d0b9b41b82cb4547a1c66ea8e99"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Yakup",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Yakup 3",
     "url": "https://api.getbible.net/v2/turkish/59/3.json",
-    "sha": "189b51e6a408395c92050b73d22541fb3f2f6f72"
+    "sha": "1a01581aba1b44e76991f70b7597f982fec5f369"
   },
   "4": {
     "translation": "Turkish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Yakup",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Yakup 4",
     "url": "https://api.getbible.net/v2/turkish/59/4.json",
-    "sha": "f5b3bdbf06fd6fbbfb44f177514ba68639481c76"
+    "sha": "9b6949d558f5858dbb956ea25f7cec1551ad1aae"
   },
   "5": {
     "translation": "Turkish",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Yakup",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Yakup 5",
     "url": "https://api.getbible.net/v2/turkish/59/5.json",
-    "sha": "33b60697bcebb642e44eef6341a1032d12f15786"
+    "sha": "510ac205a8fa1084a1002aa6afa4a376755abb1f"
   }
 }

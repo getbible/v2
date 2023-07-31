@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mihej",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Mihej 1",
     "url": "https://api.getbible.net/v2/croatia/33/1.json",
-    "sha": "593edbf6075642324f2db309aad32f235f4a7149"
+    "sha": "60fdf3b2781b5bc6bef2b9d50ad3d16b3f7ccc8b"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mihej",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Mihej 2",
     "url": "https://api.getbible.net/v2/croatia/33/2.json",
-    "sha": "6fb62d0f7773d8a2436cf9b485b5b119f5323101"
+    "sha": "b1c28c9b54080be5673815dcf252a827ded595da"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mihej",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Mihej 3",
     "url": "https://api.getbible.net/v2/croatia/33/3.json",
-    "sha": "4e1806cef379495bb2026ffb19d34f3ebd1c8a30"
+    "sha": "bda708b3a38dd856552dd2617c2a2cb2664725fa"
   },
   "4": {
     "translation": "Croatian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mihej",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Mihej 4",
     "url": "https://api.getbible.net/v2/croatia/33/4.json",
-    "sha": "d5213da0d604bd89c8c3ee45a8cf21ea707d07ed"
+    "sha": "2d1cbf9e94f25d58226e5bd635654aac93e0ee17"
   },
   "5": {
     "translation": "Croatian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mihej",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Mihej 5",
     "url": "https://api.getbible.net/v2/croatia/33/5.json",
-    "sha": "0d17c8e132fe34e6467f06ca7753344e8f412961"
+    "sha": "063594f76fcd35a89a08dd38ed79d9135b475b2e"
   },
   "6": {
     "translation": "Croatian",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mihej",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Mihej 6",
     "url": "https://api.getbible.net/v2/croatia/33/6.json",
-    "sha": "082403a0b40e8549e351e5db0f767df1a2f99d01"
+    "sha": "5f53a6b7524fb88a2730e4d3fd2e28e12db5e349"
   },
   "7": {
     "translation": "Croatian",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mihej",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Mihej 7",
     "url": "https://api.getbible.net/v2/croatia/33/7.json",
-    "sha": "19819ac19a779c5f039205c786e6dc2908d1348b"
+    "sha": "c3eb64d6b013b14ed93d991658eb2ba85ee8b125"
   }
 }

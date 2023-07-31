@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesios",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efesios 1",
     "url": "https://api.getbible.net/v2/valera/49/1.json",
-    "sha": "38204657442101c885d59232bbcfa4db1d8f1a9a"
+    "sha": "e6aa67d8a9f5e3cf4d48fb08a4bdb40f49e99843"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesios",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efesios 2",
     "url": "https://api.getbible.net/v2/valera/49/2.json",
-    "sha": "0383d473e389139c3432a8e3c857014fa91bf7c1"
+    "sha": "c0d5e14cb6837581cfe2fb2dc4092c0ab5325556"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesios",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efesios 3",
     "url": "https://api.getbible.net/v2/valera/49/3.json",
-    "sha": "6d7dc855562d6eb32ae344fae92915ed1265baa5"
+    "sha": "0ffeded9b17b2b2e50685ab917e9afcf8376d667"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesios",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efesios 4",
     "url": "https://api.getbible.net/v2/valera/49/4.json",
-    "sha": "c7af42795c6c654d3918b08ebf3a9e8ca3bfdf9c"
+    "sha": "98bec50e4512df10c4ee9db88494e4aca0b29e6b"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesios",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efesios 5",
     "url": "https://api.getbible.net/v2/valera/49/5.json",
-    "sha": "2730016d820da15d1e47314402d23e9440899627"
+    "sha": "df9e264593ad7db9adeb215128ee46464e630e42"
   },
   "6": {
     "translation": "Reina Valera (1909)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesios",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efesios 6",
     "url": "https://api.getbible.net/v2/valera/49/6.json",
-    "sha": "86456abce95ac21a5390da34dd478c5d4ea61442"
+    "sha": "68ef411bd6b6182d4781dfbf34f4a964c5f1433d"
   }
 }

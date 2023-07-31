@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotheüs",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timotheüs 1",
     "url": "https://api.getbible.net/v2/statenvertaling/54/1.json",
-    "sha": "eb9352eafaed54be48a7b203733af5a53c59ead6"
+    "sha": "ff55df42d001960d0a4f1af1eadb954c01c1cb96"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotheüs",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timotheüs 2",
     "url": "https://api.getbible.net/v2/statenvertaling/54/2.json",
-    "sha": "88f3148bef2afdc235e8dfb1aa5fdf57a6f937f6"
+    "sha": "644537f04ac8882d42c3ab593055b65d821b8d6b"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotheüs",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timotheüs 3",
     "url": "https://api.getbible.net/v2/statenvertaling/54/3.json",
-    "sha": "e897067a774ea79b435e5a12754d98f48656873b"
+    "sha": "1a1019e1810b187995340e62b896b86edca28a01"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotheüs",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timotheüs 4",
     "url": "https://api.getbible.net/v2/statenvertaling/54/4.json",
-    "sha": "409c9740dcdb630363640deb924668eb01c6a1b2"
+    "sha": "8bede72699f369e3ed665dc2801449a606e87d26"
   },
   "5": {
     "translation": "Dutch Staten Vertaling",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotheüs",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timotheüs 5",
     "url": "https://api.getbible.net/v2/statenvertaling/54/5.json",
-    "sha": "7b317b51ab91236b29296e4b4a25230a6df99f62"
+    "sha": "9655e0df3255a76fae7c04b3fb50ccc88fdbc45e"
   },
   "6": {
     "translation": "Dutch Staten Vertaling",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotheüs",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timotheüs 6",
     "url": "https://api.getbible.net/v2/statenvertaling/54/6.json",
-    "sha": "1c9d47ddc2040c7a0e9aeb1429273a93e050c423"
+    "sha": "ba2ad84875c091e8bd41a00181a65e616392a15c"
   }
 }

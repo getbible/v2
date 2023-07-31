@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Pedro 1",
     "url": "https://api.getbible.net/v2/tagalog/61/1.json",
-    "sha": "c7a6190c075a9eb9d48b9efe2aa503a83e2774ff"
+    "sha": "ed2168ad3124ae6d59f7fd3a2e43ba77578f3afc"
   },
   "2": {
     "translation": "Ang Dating Biblia (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Pedro 2",
     "url": "https://api.getbible.net/v2/tagalog/61/2.json",
-    "sha": "e852f15c9857107faf0caa83e4c9fd9e03ca8987"
+    "sha": "c18af85f81a0b10f94923428c0c8d83fc536657c"
   },
   "3": {
     "translation": "Ang Dating Biblia (1905)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Pedro 3",
     "url": "https://api.getbible.net/v2/tagalog/61/3.json",
-    "sha": "b86a0ccb91626b7b79f4895fd85f7b14d93d728e"
+    "sha": "39535fe400928cab6273d7c08f889095c2009489"
   }
 }

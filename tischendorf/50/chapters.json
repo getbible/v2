@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Προς Φιλιππησίους 1",
     "url": "https://api.getbible.net/v2/tischendorf/50/1.json",
-    "sha": "a3096d696546f5fdec82b8daf26d47d6b1cd8f39"
+    "sha": "673cc2d062b8667e61a417a8d8549135cc9b7456"
   },
   "2": {
     "translation": "NT Tischendorf 8th Ed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Προς Φιλιππησίους 2",
     "url": "https://api.getbible.net/v2/tischendorf/50/2.json",
-    "sha": "0ee123031e278f17dfa9aca3592b1041af1e04ab"
+    "sha": "1aa24fe3adfcdbeb36e822d151e7765219db1db7"
   },
   "3": {
     "translation": "NT Tischendorf 8th Ed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Προς Φιλιππησίους 3",
     "url": "https://api.getbible.net/v2/tischendorf/50/3.json",
-    "sha": "baf52b79dc8a07ec1c08f8cddacbc113b20adc2c"
+    "sha": "4013b3a89348accb07bc6b4b30f49f17400220f8"
   },
   "4": {
     "translation": "NT Tischendorf 8th Ed",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Προς Φιλιππησίους 4",
     "url": "https://api.getbible.net/v2/tischendorf/50/4.json",
-    "sha": "a9e90d22285b421409d0759a11d91fb16f5ce7da"
+    "sha": "523ac4edc30ab564990009c3cbaa2e3a790500c3"
   }
 }

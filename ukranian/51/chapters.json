@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Колосянам",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Колосянам 1",
     "url": "https://api.getbible.net/v2/ukranian/51/1.json",
-    "sha": "2bfbccd12b20b7261dee2e0738f7bff71d9c4b07"
+    "sha": "e8008ff5bbc71ab7344f127caaf3f8e2a8064a78"
   },
   "2": {
     "translation": "NT (P Kulish 1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Колосянам",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Колосянам 2",
     "url": "https://api.getbible.net/v2/ukranian/51/2.json",
-    "sha": "5d395ab37dc94582d3569b60ff4208a4c4b221da"
+    "sha": "65cad93cb9442a00870ebfcd4c8888c97ab7a4f4"
   },
   "3": {
     "translation": "NT (P Kulish 1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Колосянам",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Колосянам 3",
     "url": "https://api.getbible.net/v2/ukranian/51/3.json",
-    "sha": "725d3fb66b85b81accdc34423e5c2c3653ceb769"
+    "sha": "a98d108e1b43c669ba4f43ebd63395a0698efcea"
   },
   "4": {
     "translation": "NT (P Kulish 1871)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Колосянам",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Колосянам 4",
     "url": "https://api.getbible.net/v2/ukranian/51/4.json",
-    "sha": "76f1a76bc30560cfb8d5da1d0c01b1aabd01f8a9"
+    "sha": "180689d0f3a2a5131bcdaa426953e4182758143b"
   }
 }

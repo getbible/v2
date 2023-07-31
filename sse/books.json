@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Génesis",
     "url": "https://api.getbible.net/v2/sse/1.json",
-    "sha": "0bad72d0cd00685bfa406e7f23cbff1dc2a272ac"
+    "sha": "acfd6354b618141ce93befdae3bd3d0f0200731b"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Éxodo",
     "url": "https://api.getbible.net/v2/sse/2.json",
-    "sha": "0404dc434435b381ba952adb0282a3af205324a0"
+    "sha": "0a08ecc9efe99af685ec0f22c79fd3ed2e11b00a"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levítico",
     "url": "https://api.getbible.net/v2/sse/3.json",
-    "sha": "ac133d89af500bdf620c34e6b588c19f1ff10d7d"
+    "sha": "a2353fe5268081861764580e879e223328fd4d66"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Números",
     "url": "https://api.getbible.net/v2/sse/4.json",
-    "sha": "926d1ae99461d4169effca05a239f7b347188359"
+    "sha": "7b1da16b020df3cfb239f4261e25957ab84ecfb1"
   },
   "5": {
     "translation": "Sagradas Escrituras (1569)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomio",
     "url": "https://api.getbible.net/v2/sse/5.json",
-    "sha": "8cae7c938c1c0d1210ae9df953d5b3412860ec25"
+    "sha": "b1486801f7f27d47e5d106227b6e5448aede6871"
   },
   "6": {
     "translation": "Sagradas Escrituras (1569)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Josué",
     "url": "https://api.getbible.net/v2/sse/6.json",
-    "sha": "a5556bb10cfa058286fda83266e3ae85c9b0cc3e"
+    "sha": "e7b825c0a02de9ea09c692ffc0101b547dc925e5"
   },
   "7": {
     "translation": "Sagradas Escrituras (1569)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Jueces",
     "url": "https://api.getbible.net/v2/sse/7.json",
-    "sha": "f5ef28c38b3a6c93b55da19270f62441aad4ff10"
+    "sha": "ed6b055bdf63a23067452aa77a06ae7cae97592c"
   },
   "8": {
     "translation": "Sagradas Escrituras (1569)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rut",
     "url": "https://api.getbible.net/v2/sse/8.json",
-    "sha": "50444a0c3f68e7e7105f00d8814d435b9657badd"
+    "sha": "84553e68bfa004901ac700dbde92a3b3006a1b22"
   },
   "9": {
     "translation": "Sagradas Escrituras (1569)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Reyes",
     "url": "https://api.getbible.net/v2/sse/11.json",
-    "sha": "6f67931dad18a8c9f5a6059a8649ab2a5868034f"
+    "sha": "5758c1eac029a1fafa5b74ffc142786e8ef3b834"
   },
   "12": {
     "translation": "Sagradas Escrituras (1569)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Reyes",
     "url": "https://api.getbible.net/v2/sse/12.json",
-    "sha": "2e617f8290a6460c02abce61f4831c076940e7f4"
+    "sha": "568a388b0120b2785f11997f1b5f69d6c11700a2"
   },
   "13": {
     "translation": "Sagradas Escrituras (1569)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Crónicas",
     "url": "https://api.getbible.net/v2/sse/13.json",
-    "sha": "c4536f0d7cf5f7f93596304a45fe2bdc4bc00043"
+    "sha": "318679eeb2b039565de6715f8f2a1133d5a8de84"
   },
   "14": {
     "translation": "Sagradas Escrituras (1569)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Crónicas",
     "url": "https://api.getbible.net/v2/sse/14.json",
-    "sha": "640a1b6b7a44ec871d83a179e2de2f3342d2eb19"
+    "sha": "c2481bc3e0e5e6e02f5f81e7953620104ce82dda"
   },
   "15": {
     "translation": "Sagradas Escrituras (1569)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Esdras",
     "url": "https://api.getbible.net/v2/sse/15.json",
-    "sha": "5dd66ed5be579e74b4f2ff33a59193dacbb57590"
+    "sha": "8da04eeceac2b44ae2650ddd8b8cea8e8c911a1b"
   },
   "16": {
     "translation": "Sagradas Escrituras (1569)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemías",
     "url": "https://api.getbible.net/v2/sse/16.json",
-    "sha": "2ce745d644f1b73d04c43cd10f905041e768331a"
+    "sha": "8d893def347e423413bfc90390cd7e77ccf7433c"
   },
   "17": {
     "translation": "Sagradas Escrituras (1569)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/sse/17.json",
-    "sha": "2d2a821d7b548dfbee32640a5ef6256d2f703784"
+    "sha": "1330bba9ec6eca80ae32d483cc4226aafb3cbf96"
   },
   "18": {
     "translation": "Sagradas Escrituras (1569)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Salmos",
     "url": "https://api.getbible.net/v2/sse/19.json",
-    "sha": "d63e30e5bfca7d34b62ee4e0128dace79e9b4401"
+    "sha": "a8f7359b9aae4c1a5f2aca6ca401c5fa6d1c4619"
   },
   "20": {
     "translation": "Sagradas Escrituras (1569)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Proverbios",
     "url": "https://api.getbible.net/v2/sse/20.json",
-    "sha": "a8cf4e2ff25de9aac81a5d1e357376a63eefa3f7"
+    "sha": "aa8d2d7ac58cdd94d6de4fe658e73297169de4e6"
   },
   "21": {
     "translation": "Sagradas Escrituras (1569)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Eclesiastés",
     "url": "https://api.getbible.net/v2/sse/21.json",
-    "sha": "b7e38f4aed706421998583d29240b01054323971"
+    "sha": "d1c41e33a955693961d3f4d47c3d4ad7e2a5671f"
   },
   "22": {
     "translation": "Sagradas Escrituras (1569)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Cantares",
     "url": "https://api.getbible.net/v2/sse/22.json",
-    "sha": "953a5833e0ad081aa71575739aa735809de2e98c"
+    "sha": "99cee1704d0dc02e40d70dc660d8c9569d889950"
   },
   "23": {
     "translation": "Sagradas Escrituras (1569)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Isaías",
     "url": "https://api.getbible.net/v2/sse/23.json",
-    "sha": "1b824ff5ff24bed4718fa7a472989f2babb6236a"
+    "sha": "d8ef4550cf19542a7f6d1d4c69104548566fd859"
   },
   "24": {
     "translation": "Sagradas Escrituras (1569)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremías",
     "url": "https://api.getbible.net/v2/sse/24.json",
-    "sha": "885284568985a5e35f740aa22cf3e5e92f6ee607"
+    "sha": "8f053c06e057c7f598f2007beb95c8b7144fe867"
   },
   "25": {
     "translation": "Sagradas Escrituras (1569)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Lamentaciones",
     "url": "https://api.getbible.net/v2/sse/25.json",
-    "sha": "0364f8d6d551217eb9e2fb1d57bdb8ed0db8003e"
+    "sha": "a125d791c41599199ba9202a6b54eed3ef9dfe23"
   },
   "26": {
     "translation": "Sagradas Escrituras (1569)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezequiel",
     "url": "https://api.getbible.net/v2/sse/26.json",
-    "sha": "b2123ebc5fdbb3c7fcd67395f1172be4405c7565"
+    "sha": "c93d068edc619ff0e1605e6c100a04b59f2f5bf3"
   },
   "27": {
     "translation": "Sagradas Escrituras (1569)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Oseas",
     "url": "https://api.getbible.net/v2/sse/28.json",
-    "sha": "95c6eee8985669d60b81c4acb746d80b76abce5f"
+    "sha": "655bc5789abfae89db0175221c6954dec680e0f8"
   },
   "29": {
     "translation": "Sagradas Escrituras (1569)",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Amós",
     "url": "https://api.getbible.net/v2/sse/30.json",
-    "sha": "9351d8a8c45eb8c6b47c24dbf9c3dcd9366b71f5"
+    "sha": "5c5988e588a137f6908d066f14bf40dadcf454b4"
   },
   "31": {
     "translation": "Sagradas Escrituras (1569)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Abdías",
     "url": "https://api.getbible.net/v2/sse/31.json",
-    "sha": "21850ef13b0f0f0ba1febb5a8739bf9056708bb2"
+    "sha": "5a1796bc1ede0e4a485c2aabee494056191de0f7"
   },
   "32": {
     "translation": "Sagradas Escrituras (1569)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jonás",
     "url": "https://api.getbible.net/v2/sse/32.json",
-    "sha": "651ac42deea51367caf1e8c2175d0b8ebbf693d7"
+    "sha": "bee0dff3cb0dfe49229516206a21e0ad72a4c7f3"
   },
   "33": {
     "translation": "Sagradas Escrituras (1569)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Miqueas",
     "url": "https://api.getbible.net/v2/sse/33.json",
-    "sha": "1f65d190ed64889dbcc591d54bc86bb20b820cc1"
+    "sha": "3819b7cfe814ef8e31f9ea1fcdf58c1ece54d10c"
   },
   "34": {
     "translation": "Sagradas Escrituras (1569)",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Nahúm",
     "url": "https://api.getbible.net/v2/sse/34.json",
-    "sha": "051c0c38ade92752c8578119d8413ceb9a24b79a"
+    "sha": "5985f26ba80a5eb915937113177d108019e33589"
   },
   "35": {
     "translation": "Sagradas Escrituras (1569)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habacuc",
     "url": "https://api.getbible.net/v2/sse/35.json",
-    "sha": "37aa3b6137b28e7e02fbb1786291701c984ad951"
+    "sha": "9a0b741d3058e117eb42bf916e9ee12765b23cc5"
   },
   "36": {
     "translation": "Sagradas Escrituras (1569)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sofonías",
     "url": "https://api.getbible.net/v2/sse/36.json",
-    "sha": "8c3edc3648bd130b0654c95fa1401201e51ebd54"
+    "sha": "a5354246a17f4886f8f5f75e2dda0877bca57218"
   },
   "37": {
     "translation": "Sagradas Escrituras (1569)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Hageo",
     "url": "https://api.getbible.net/v2/sse/37.json",
-    "sha": "63b9cbe1ef4ee4978eb3ebbaee5432ed3e3ea868"
+    "sha": "892879a8a9be904d394a00204fa46d4e45733531"
   },
   "38": {
     "translation": "Sagradas Escrituras (1569)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacarías",
     "url": "https://api.getbible.net/v2/sse/38.json",
-    "sha": "4ceda8d4831275567c5486a54348c57fe38aa4b0"
+    "sha": "adb3e101633482e748ae7a1491180d25d9c3452d"
   },
   "39": {
     "translation": "Sagradas Escrituras (1569)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malaquías",
     "url": "https://api.getbible.net/v2/sse/39.json",
-    "sha": "6de736f090516d60f92f776c2da4a72b9f34b898"
+    "sha": "e3f426704ff72576f57e6ffa128389ca24d7e2a8"
   },
   "40": {
     "translation": "Sagradas Escrituras (1569)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Mateo",
     "url": "https://api.getbible.net/v2/sse/40.json",
-    "sha": "f39daa3fde93a4ff455a8a4aba62e6dc8b991f7e"
+    "sha": "a93ff278cb954fddd076255498c43e7615e97a89"
   },
   "41": {
     "translation": "Sagradas Escrituras (1569)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marcos",
     "url": "https://api.getbible.net/v2/sse/41.json",
-    "sha": "1626d39465e60d75875d692c60473a634c25437d"
+    "sha": "49c1efdcb30dc652c68b2bc5634a80e3e0b6b7df"
   },
   "42": {
     "translation": "Sagradas Escrituras (1569)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lucas",
     "url": "https://api.getbible.net/v2/sse/42.json",
-    "sha": "186847937a9cec3311c76096956b1c4d81b5d051"
+    "sha": "5d5501d34fb924eccc06dae44764b7e030400035"
   },
   "43": {
     "translation": "Sagradas Escrituras (1569)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Juan",
     "url": "https://api.getbible.net/v2/sse/43.json",
-    "sha": "52b1eda3aeb159bb9ecfebcdb0923edead67ae37"
+    "sha": "2b27ffe4648907444b84d7ce85b8e3162b6fcd6b"
   },
   "44": {
     "translation": "Sagradas Escrituras (1569)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Hechos",
     "url": "https://api.getbible.net/v2/sse/44.json",
-    "sha": "59f2f5c74b31d7bb979992bc8122dada3e40ddac"
+    "sha": "cd206515d9c989a75a970b63e1d71a25d8e795e6"
   },
   "45": {
     "translation": "Sagradas Escrituras (1569)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romanos",
     "url": "https://api.getbible.net/v2/sse/45.json",
-    "sha": "65798b63e85474739238ee9c55328c79a709985b"
+    "sha": "2d54844bf6841e141610797f0e7b33378595b835"
   },
   "46": {
     "translation": "Sagradas Escrituras (1569)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Corintios",
     "url": "https://api.getbible.net/v2/sse/46.json",
-    "sha": "a846e8f7f516665bc7670db498be2c0ac9271d85"
+    "sha": "d7129f57710d725e7f1d6921adb0ae8af33a5e32"
   },
   "47": {
     "translation": "Sagradas Escrituras (1569)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Corintios",
     "url": "https://api.getbible.net/v2/sse/47.json",
-    "sha": "32356cb0b3fd30a92f5890f4802444c0dc048e17"
+    "sha": "cde4a6aa17caafd7ce096a115a03044256811201"
   },
   "48": {
     "translation": "Sagradas Escrituras (1569)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Gálatas",
     "url": "https://api.getbible.net/v2/sse/48.json",
-    "sha": "98ca78d3b02b32808576d318fbb40f3c87c14b0e"
+    "sha": "d0f3e99c67aa344d7a25da400325a72906e84fec"
   },
   "49": {
     "translation": "Sagradas Escrituras (1569)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efesios",
     "url": "https://api.getbible.net/v2/sse/49.json",
-    "sha": "9a1079c1a9560e91fd94fdae5d447c906013819c"
+    "sha": "2890f6f5c6c4682a0f2c3c897d4dbf998c1c0b02"
   },
   "50": {
     "translation": "Sagradas Escrituras (1569)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipenses",
     "url": "https://api.getbible.net/v2/sse/50.json",
-    "sha": "ee72222639ac2756bc94231fa880e25e8b422d1d"
+    "sha": "885fb98cb765cf6b4c81f6269f44f2e9b489db8e"
   },
   "51": {
     "translation": "Sagradas Escrituras (1569)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Colosenses",
     "url": "https://api.getbible.net/v2/sse/51.json",
-    "sha": "1cedad9a9bec2aa6d1f70de5c2bf54b75341eb4f"
+    "sha": "87556028925649d4235b5c6b1440904c1f556ac8"
   },
   "52": {
     "translation": "Sagradas Escrituras (1569)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tesalonicenses",
     "url": "https://api.getbible.net/v2/sse/52.json",
-    "sha": "2645673594e308371476e5c28c524fc8418fa902"
+    "sha": "8f057a3f49b1548d280423e2ff652c91aa381230"
   },
   "53": {
     "translation": "Sagradas Escrituras (1569)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tesalonicenses",
     "url": "https://api.getbible.net/v2/sse/53.json",
-    "sha": "9d7c832441f0b73b94294b2b82d5c540533fa2ef"
+    "sha": "929ccdf138d4f18c57e639d36d29cda04dab9ed6"
   },
   "54": {
     "translation": "Sagradas Escrituras (1569)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteo",
     "url": "https://api.getbible.net/v2/sse/54.json",
-    "sha": "63cb904ead73f1feb047622c22fac6962f307f8d"
+    "sha": "aa08ede36e03115da72022880d9e3354b81fb756"
   },
   "55": {
     "translation": "Sagradas Escrituras (1569)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteo",
     "url": "https://api.getbible.net/v2/sse/55.json",
-    "sha": "556d56fee1405c4654b4b298cb29b9f59ce5191e"
+    "sha": "a6585b863ffc89e816f0fce211fee32f1f67bfd0"
   },
   "56": {
     "translation": "Sagradas Escrituras (1569)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tito",
     "url": "https://api.getbible.net/v2/sse/56.json",
-    "sha": "26c5a452245ac4cc4b6b4c22c78c13b4fecac379"
+    "sha": "97faf3338739812cabceb4866136f12dd5cfffc1"
   },
   "57": {
     "translation": "Sagradas Escrituras (1569)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemón",
     "url": "https://api.getbible.net/v2/sse/57.json",
-    "sha": "c402609cee360c7b3482cbfebb1bf6f88bb57a4e"
+    "sha": "db67f2af5abbd2a184e083d89a10036ab0845776"
   },
   "58": {
     "translation": "Sagradas Escrituras (1569)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebreos",
     "url": "https://api.getbible.net/v2/sse/58.json",
-    "sha": "f71c3f21d63ef4ddff924bc366d92ce4388ddf06"
+    "sha": "b2bc44f0024876b25f66402c21a3ce86da152262"
   },
   "59": {
     "translation": "Sagradas Escrituras (1569)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Santiago",
     "url": "https://api.getbible.net/v2/sse/59.json",
-    "sha": "579ad50bbc2a70d99f369c60a0422abf028a378d"
+    "sha": "6cebb9a53ac29f124e77c3092ed7f7b05ab894fe"
   },
   "60": {
     "translation": "Sagradas Escrituras (1569)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Pedro",
     "url": "https://api.getbible.net/v2/sse/60.json",
-    "sha": "7100f9304c6310c1c9da8667864368b596d50a2e"
+    "sha": "2157b2ff9c9df285f248f7c4720f84bb2be94663"
   },
   "61": {
     "translation": "Sagradas Escrituras (1569)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Pedro",
     "url": "https://api.getbible.net/v2/sse/61.json",
-    "sha": "89f016518943a45cf682d7fc54887052d7038014"
+    "sha": "a3720086fe741b8203c20a0059af40cb946633f0"
   },
   "62": {
     "translation": "Sagradas Escrituras (1569)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Juan",
     "url": "https://api.getbible.net/v2/sse/62.json",
-    "sha": "3e8d24f92900d70c4cd79545cc2759bb0a3cd6d1"
+    "sha": "6844209fe240b894e749cad84fb3f9696e0f38c9"
   },
   "63": {
     "translation": "Sagradas Escrituras (1569)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Juan",
     "url": "https://api.getbible.net/v2/sse/63.json",
-    "sha": "a11e14424d5371bee8c03c2304c7adf4b8f79ec5"
+    "sha": "13e4e2688a7e4611e805730cc8c9d890236f6f09"
   },
   "64": {
     "translation": "Sagradas Escrituras (1569)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Juan",
     "url": "https://api.getbible.net/v2/sse/64.json",
-    "sha": "ace554e1b8f5fc1e7712b631851629164a20628d"
+    "sha": "1b9d2894c80cdb8d62cd70f2bf37e991c4aaf86a"
   },
   "65": {
     "translation": "Sagradas Escrituras (1569)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judas",
     "url": "https://api.getbible.net/v2/sse/65.json",
-    "sha": "7e781b59096b55fbbdf5d3e1d5658c28bc6cdc99"
+    "sha": "62f7532d5f7646f97d5aa8bc2eaf04c6a32d820b"
   },
   "66": {
     "translation": "Sagradas Escrituras (1569)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Apocalipsis",
     "url": "https://api.getbible.net/v2/sse/66.json",
-    "sha": "a56c94a9b8184462891d34f8f6eb7dffc316af50"
+    "sha": "8fa10a1ad8024d289cb9b24542ca1372f0866f50"
   }
 }

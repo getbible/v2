@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kološanima",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Kološanima 1",
     "url": "https://api.getbible.net/v2/croatia/51/1.json",
-    "sha": "677e0e3ddbbc2b4abefccbc0f5eefad2df6c5dbb"
+    "sha": "3e07c5ca5dbe72d7bf85c3ebfa6042bb5d3a9540"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kološanima",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Kološanima 2",
     "url": "https://api.getbible.net/v2/croatia/51/2.json",
-    "sha": "b16f90cd4f03660b17af51778db3b46b99232333"
+    "sha": "e4cf52493e2aa8f88ab20e8f0a6e21afab060477"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kološanima",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Kološanima 3",
     "url": "https://api.getbible.net/v2/croatia/51/3.json",
-    "sha": "039aaf7ff51ed2b33cf1f30b42657d6ebcec0bd8"
+    "sha": "ccb0e542b00f0b4b1328f169faa15225670843bc"
   },
   "4": {
     "translation": "Croatian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kološanima",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Kološanima 4",
     "url": "https://api.getbible.net/v2/croatia/51/4.json",
-    "sha": "8c2e2968c1a563486616152cc4ccda6a51b665cb"
+    "sha": "a88c15fae637e51671d1c8d129d845185db2bb36"
   }
 }

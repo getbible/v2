@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Πέτρου Β'",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "Πέτρου Β' 1",
     "url": "https://api.getbible.net/v2/tischendorf/61/1.json",
-    "sha": "0990b3543a5d3c4eb72808c2128c4d1d5df8a168"
+    "sha": "c9c46d67110f5c4b499d972df814687f6e403b5d"
   },
   "2": {
     "translation": "NT Tischendorf 8th Ed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Πέτρου Β'",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "Πέτρου Β' 2",
     "url": "https://api.getbible.net/v2/tischendorf/61/2.json",
-    "sha": "1a81724900a4fb6e58914fbf7156cd2656f7c3b4"
+    "sha": "ec98c85a52cb8151afc44f9ba41bfdf91dfedc4c"
   },
   "3": {
     "translation": "NT Tischendorf 8th Ed",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Πέτρου Β'",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "Πέτρου Β' 3",
     "url": "https://api.getbible.net/v2/tischendorf/61/3.json",
-    "sha": "0c15aa7708d0e5106d5a8295495c8d86c4adbafb"
+    "sha": "378c813fff332b2789ac5a8b23c6c2eb879e6765"
   }
 }

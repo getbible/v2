@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petro",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Petro 1",
     "url": "https://api.getbible.net/v2/swahili/61/1.json",
-    "sha": "043d8e8a879ae6f14fa7053be822e3a15f26bd88"
+    "sha": "f1ccc2e74c6b580f547bf9d74045d3a834bd88e8"
   },
   "2": {
     "translation": "Swahili",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petro",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Petro 2",
     "url": "https://api.getbible.net/v2/swahili/61/2.json",
-    "sha": "c36351920c749e61d03362198cd6fd636bd1b22c"
+    "sha": "78db3d7ada00162cbc4785475be4298efee3dbe6"
   },
   "3": {
     "translation": "Swahili",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petro",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Petro 3",
     "url": "https://api.getbible.net/v2/swahili/61/3.json",
-    "sha": "01d33fe15d018d576f30a2486681d00f95bcb711"
+    "sha": "94eb129fbc610e47c9939f6a576dc2a3b2c934ca"
   }
 }

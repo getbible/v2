@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotī",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timotī 1",
     "url": "https://api.getbible.net/v2/maori/55/1.json",
-    "sha": "0948f4b1521a2f8cbfe024851882453e75f0f15a"
+    "sha": "d51ebe064ada8618311dd44ad3e6a84bd49c2189"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotī",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timotī 2",
     "url": "https://api.getbible.net/v2/maori/55/2.json",
-    "sha": "b3974cc31f1deb4e838cc21f77c367a335ec58c3"
+    "sha": "7e0e368456db80366f98c503a668e864b0384c4f"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotī",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timotī 3",
     "url": "https://api.getbible.net/v2/maori/55/3.json",
-    "sha": "f6096dad14679abce1bf5b61ada09fbc752b8753"
+    "sha": "917b3d4b5c011e8ee35aa9796538b98d125bd0a2"
   },
   "4": {
     "translation": "Maori",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotī",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timotī 4",
     "url": "https://api.getbible.net/v2/maori/55/4.json",
-    "sha": "ddd4b2e7baf4110a81bbc0db9d4c1aacc21ef6ec"
+    "sha": "660fd4a4b0b51b1fd6efd2a1564f87c81a17e9bd"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "โยเอล",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "โยเอล 1",
     "url": "https://api.getbible.net/v2/thai/29/1.json",
-    "sha": "2f4de8dcdf8fb4f645b053c1727e0bed1453cdef"
+    "sha": "173e136d2c1009f29fbdda6466c72af9390aa5d1"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "โยเอล",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "โยเอล 2",
     "url": "https://api.getbible.net/v2/thai/29/2.json",
-    "sha": "898b2411b9b4a92f87bd99b1342ed2be01af78f3"
+    "sha": "d50a3867cb01ffdb788a8fc8e5bf7fbed0ef785d"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "โยเอล",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "โยเอล 3",
     "url": "https://api.getbible.net/v2/thai/29/3.json",
-    "sha": "0457079951ff46d462a12edceefae3983de54213"
+    "sha": "f9f41a728b4101d8620c17e282ab8d25f0b6f6f9"
   }
 }

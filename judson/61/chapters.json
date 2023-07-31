@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 ပီတာ",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 ပီတာ 1",
     "url": "https://api.getbible.net/v2/judson/61/1.json",
-    "sha": "74ef5c4a0c58f56a4a5ef4ee59177107b9804007"
+    "sha": "44e0b93b323441bc17b2e96d0d3d642f0fdd90c0"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 ပီတာ",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 ပီတာ 2",
     "url": "https://api.getbible.net/v2/judson/61/2.json",
-    "sha": "a0ceef490a50e66dd0a03e9aa03cafb7378cdd15"
+    "sha": "3328d9f0cc3b613313c3b2b6ce458dc40f8cc5a9"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 ပီတာ",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 ပီတာ 3",
     "url": "https://api.getbible.net/v2/judson/61/3.json",
-    "sha": "1682a6f633a0ce6a312e52287193903af277255a"
+    "sha": "08bf1774ebfb4011202ad9885898966d05d09bad"
   }
 }

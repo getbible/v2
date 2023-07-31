@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Γένεση",
     "url": "https://api.getbible.net/v2/moderngreek/1.json",
-    "sha": "6c6d962ca10be698753187996d01929653ac2865"
+    "sha": "7a3bcdc5b9bbdbab76ba9f33755cf6d67deb81be"
   },
   "2": {
     "translation": "Greek Modern",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Έξοδος",
     "url": "https://api.getbible.net/v2/moderngreek/2.json",
-    "sha": "447d49529d4d2ddc8ec39fe39766040b77e04b29"
+    "sha": "52065b45f639061522b53c95dd974f72ac1872f9"
   },
   "3": {
     "translation": "Greek Modern",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Λευιτικό",
     "url": "https://api.getbible.net/v2/moderngreek/3.json",
-    "sha": "cf4a60e486e4ab86ff2de49bddd8d1ee2ae028c2"
+    "sha": "cff84a79f03027cdb399f76861884f7554f62b65"
   },
   "4": {
     "translation": "Greek Modern",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Αριθμοί",
     "url": "https://api.getbible.net/v2/moderngreek/4.json",
-    "sha": "abf41ef7e18e9e623a3400a63fc68c2c51941a14"
+    "sha": "a5bbb3cf344a664acef3202118d9ca814de68dfc"
   },
   "5": {
     "translation": "Greek Modern",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Δευτερονόμιο",
     "url": "https://api.getbible.net/v2/moderngreek/5.json",
-    "sha": "4302a16bbaa253ecd70d4d63b93a15bbfe91d3bf"
+    "sha": "e6eab4eedc738433a27b27163d1dee82d18b3d55"
   },
   "6": {
     "translation": "Greek Modern",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Ιησούς Ναυή",
     "url": "https://api.getbible.net/v2/moderngreek/6.json",
-    "sha": "8bcf45662cc5c07bc9e968fb123ad16e2bdeb1f5"
+    "sha": "840c9f0fe647898a9aec4a8131343fca44916c92"
   },
   "7": {
     "translation": "Greek Modern",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Κριτές",
     "url": "https://api.getbible.net/v2/moderngreek/7.json",
-    "sha": "46435374acf2ae269643bb76e07ef34e531a9d18"
+    "sha": "eb69c131d39626d31c155bc5790ac7b7c13f8cf7"
   },
   "8": {
     "translation": "Greek Modern",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Ρούθ",
     "url": "https://api.getbible.net/v2/moderngreek/8.json",
-    "sha": "b6da9489acf79c20701280c78808b4feda3a430d"
+    "sha": "d27cc3ae87b0670b6e18a1b735972f20835291aa"
   },
   "9": {
     "translation": "Greek Modern",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "Βασιλειών Α'",
     "url": "https://api.getbible.net/v2/moderngreek/9.json",
-    "sha": "a985129a9b150b5a07a34f3d804d15bb4e158732"
+    "sha": "6deaf07b5520f4b24c49380a5f9e57af271b937f"
   },
   "10": {
     "translation": "Greek Modern",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "Βασιλειών Β'",
     "url": "https://api.getbible.net/v2/moderngreek/10.json",
-    "sha": "32e32046a0220767e0de9282ac3e4e8b9c3bbc78"
+    "sha": "0158788167437b8ff4a76c1524c584841cd0395c"
   },
   "11": {
     "translation": "Greek Modern",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "Βασιλειών Γ'",
     "url": "https://api.getbible.net/v2/moderngreek/11.json",
-    "sha": "5644aa58b72c7931aa4df1156efdba8f8013be78"
+    "sha": "d72bb91b0506a2324a17b0d467271e909fc53294"
   },
   "12": {
     "translation": "Greek Modern",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "Βασιλειών Δ'",
     "url": "https://api.getbible.net/v2/moderngreek/12.json",
-    "sha": "386ab86cc5b36e2eeb249d55f189a424e5232500"
+    "sha": "b82f463fb26e14c6f097d6924d35ec1c94065b09"
   },
   "13": {
     "translation": "Greek Modern",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "Παραλειπομένων Α'",
     "url": "https://api.getbible.net/v2/moderngreek/13.json",
-    "sha": "0caaecb9ef820f1a5f61e81252ed19a7a1a9f60a"
+    "sha": "c774dd83f80ae9ad2d307fe7f125f01e2e0eb6ac"
   },
   "14": {
     "translation": "Greek Modern",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "Παραλειπομένων Β'",
     "url": "https://api.getbible.net/v2/moderngreek/14.json",
-    "sha": "9ac02b09740a73cbe9afd3a81d9f0fdbdfeb7d8d"
+    "sha": "2028d965068bb3dc252575c7d4cd06fcccb13278"
   },
   "15": {
     "translation": "Greek Modern",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Έσδρας Α'",
     "url": "https://api.getbible.net/v2/moderngreek/15.json",
-    "sha": "55f795e766e3edf107d7f88942793fb671755da7"
+    "sha": "5a02e9f6c61227b77b012478143edf29dbe38678"
   },
   "16": {
     "translation": "Greek Modern",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Νεεμίας",
     "url": "https://api.getbible.net/v2/moderngreek/16.json",
-    "sha": "5154c3ea2049ecc175917d078e86f7cda7fac3e1"
+    "sha": "a4fb0d83ddcef3d095df8d8473232a5a36ca7379"
   },
   "17": {
     "translation": "Greek Modern",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Εσθήρ",
     "url": "https://api.getbible.net/v2/moderngreek/17.json",
-    "sha": "ae7a5c1cb2885295f3985d51d69f7cc4acfb271c"
+    "sha": "96584c27c77efb90e99e916090033a8c133a1f8b"
   },
   "18": {
     "translation": "Greek Modern",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Ιώβ",
     "url": "https://api.getbible.net/v2/moderngreek/18.json",
-    "sha": "05ef59dd07d44be4d886d500b0915cf894672b83"
+    "sha": "65361497e0713d3a123ecec3ed7c669205f3884a"
   },
   "19": {
     "translation": "Greek Modern",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Ψαλμοί",
     "url": "https://api.getbible.net/v2/moderngreek/19.json",
-    "sha": "53cd388aa3b780d28b67e23e2600b235dc11d7e2"
+    "sha": "5060eda95808aa5daad660bef81ec5ff857cc471"
   },
   "20": {
     "translation": "Greek Modern",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Παροιμίες",
     "url": "https://api.getbible.net/v2/moderngreek/20.json",
-    "sha": "51bb3f6a5d8676a0c4f77488678a634df40f31eb"
+    "sha": "69dd02b50c9dc9cd4ac6777270301e1720cce212"
   },
   "21": {
     "translation": "Greek Modern",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Εκκλησιαστής",
     "url": "https://api.getbible.net/v2/moderngreek/21.json",
-    "sha": "968adfbad33048ba8e6cfda18d607b262b3b3d9d"
+    "sha": "75f2bc4bbaadabb01fd3594a1ac1d04681527729"
   },
   "22": {
     "translation": "Greek Modern",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Άσμα των Ασμάτων",
     "url": "https://api.getbible.net/v2/moderngreek/22.json",
-    "sha": "2c79f042b994bb071b58adb33a4495b03ba90f3e"
+    "sha": "5d10ca07ea6d888ff30bf83548d30e8a15681ca1"
   },
   "23": {
     "translation": "Greek Modern",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Ησαΐας",
     "url": "https://api.getbible.net/v2/moderngreek/23.json",
-    "sha": "a27430ba991b711bd6d040121c5aa641d62380af"
+    "sha": "cd5ac6eec217a8286b76a0ce3504383c62a83c9f"
   },
   "24": {
     "translation": "Greek Modern",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Ιερεμίας",
     "url": "https://api.getbible.net/v2/moderngreek/24.json",
-    "sha": "84a192992c2acb843275c5d4e6875d90f2cf974b"
+    "sha": "fd50dab40e818a41fa55db62ad2fe657ce3d93c1"
   },
   "25": {
     "translation": "Greek Modern",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Θρήνοι",
     "url": "https://api.getbible.net/v2/moderngreek/25.json",
-    "sha": "51348d885c65c967f4621c6552e9bf31a80d9646"
+    "sha": "c7e8b8cefc1bce5f7f140de45c8b41face2b0f4d"
   },
   "26": {
     "translation": "Greek Modern",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ιεζεκιήλ",
     "url": "https://api.getbible.net/v2/moderngreek/26.json",
-    "sha": "6bad53ca9ae93bbebc4257b02c12829be46c6d99"
+    "sha": "d3364c8e8966faa383cc4dde890fb6c2a56a2a98"
   },
   "27": {
     "translation": "Greek Modern",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Δανιήλ",
     "url": "https://api.getbible.net/v2/moderngreek/27.json",
-    "sha": "377d175978db013d5d61ae3de7dc75fa3c2a2f87"
+    "sha": "3b908bebf8188646c5a0fe0e7de77461615fa295"
   },
   "28": {
     "translation": "Greek Modern",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Ωσηέ",
     "url": "https://api.getbible.net/v2/moderngreek/28.json",
-    "sha": "d59365fa544128c036dfcf65be40ddf6d9e1e28d"
+    "sha": "c01023e79ab3f6ed17c2c3e8afb6a5766d9b63f2"
   },
   "29": {
     "translation": "Greek Modern",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Ιωήλ",
     "url": "https://api.getbible.net/v2/moderngreek/29.json",
-    "sha": "7fab2c37449129d88584afad52ae3140f47629e2"
+    "sha": "f1ab669013ea35716ad224626921c0b87f12fc58"
   },
   "30": {
     "translation": "Greek Modern",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Αμώς",
     "url": "https://api.getbible.net/v2/moderngreek/30.json",
-    "sha": "1b218b5826415ebc90274f5fe8bec6257e6fb6a9"
+    "sha": "4ae090bbe113524376d71b57474e5f71da26fd2e"
   },
   "31": {
     "translation": "Greek Modern",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Οβδίας",
     "url": "https://api.getbible.net/v2/moderngreek/31.json",
-    "sha": "11a3210e9875f4e9fe2a15c30b9224acde2484a2"
+    "sha": "a4ba1674b71b074e82c2d123e518fa58504b6a3b"
   },
   "32": {
     "translation": "Greek Modern",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Ιωνάς",
     "url": "https://api.getbible.net/v2/moderngreek/32.json",
-    "sha": "bef53e407182c4a9eb5ad63718aae0db96d389ba"
+    "sha": "16072debe04e6a8547c3b6e34b6bead040073c0f"
   },
   "33": {
     "translation": "Greek Modern",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Μιχαίας",
     "url": "https://api.getbible.net/v2/moderngreek/33.json",
-    "sha": "5fbcd6b113c293bacfafe931ba93276f67cd530a"
+    "sha": "119fe07d50090469ed1bc23738e8e1368d322212"
   },
   "34": {
     "translation": "Greek Modern",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Ναούμ",
     "url": "https://api.getbible.net/v2/moderngreek/34.json",
-    "sha": "4a47bad0254e09f41737e213e96d9f936a911b8c"
+    "sha": "38f9ac47b76a60462c6cd2d75c90d77b78d13b0a"
   },
   "35": {
     "translation": "Greek Modern",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Αμβακούμ",
     "url": "https://api.getbible.net/v2/moderngreek/35.json",
-    "sha": "5aa536e7cea4d3240ff6cb16eea067f49206d4aa"
+    "sha": "94e06e7e90c634b3d54dea0711317afd8b589a75"
   },
   "36": {
     "translation": "Greek Modern",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Σοφονίας",
     "url": "https://api.getbible.net/v2/moderngreek/36.json",
-    "sha": "7ff9770a0565763dd9f8a907a3cf298f61dc028e"
+    "sha": "c82a30528e6424caf6b500bacb048fbd602e1cb8"
   },
   "37": {
     "translation": "Greek Modern",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Αγγαίος",
     "url": "https://api.getbible.net/v2/moderngreek/37.json",
-    "sha": "634e30fd7e422f5d338a60002b83ba0d23d77120"
+    "sha": "1852fc9b01af60b21a3c9a20846413442daba2a0"
   },
   "38": {
     "translation": "Greek Modern",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Ζαχαρίας",
     "url": "https://api.getbible.net/v2/moderngreek/38.json",
-    "sha": "888cb7229ff36080e41c99fdc010a4c7b3c20373"
+    "sha": "d833e2c01cba3a34c4459b1be555844825552c68"
   },
   "39": {
     "translation": "Greek Modern",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Μαλαχίας",
     "url": "https://api.getbible.net/v2/moderngreek/39.json",
-    "sha": "4e03fe3d247f0f68c34c2fa5d8481ece4b6ca0a2"
+    "sha": "8e48985d62af6b715907cd78ff3f527372a0ac77"
   },
   "40": {
     "translation": "Greek Modern",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Κατά Ματθαίον",
     "url": "https://api.getbible.net/v2/moderngreek/40.json",
-    "sha": "d27d5029403b84b46d69598676f4952d34601515"
+    "sha": "422d31ecf9525fdb6f4dab412c5860232a57bc63"
   },
   "41": {
     "translation": "Greek Modern",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Κατά Μάρκον",
     "url": "https://api.getbible.net/v2/moderngreek/41.json",
-    "sha": "b247ccc5d9fa45deb8278333558a3831c321fa12"
+    "sha": "b96d10e19cfbf3d447dcf6425013e948d7a92a89"
   },
   "42": {
     "translation": "Greek Modern",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Κατά Λουκάν",
     "url": "https://api.getbible.net/v2/moderngreek/42.json",
-    "sha": "4b611d47c4d745390a88523e9c35b2e291c9ab84"
+    "sha": "12993ced74aedbd42a6fd2ca21d4bd9394604866"
   },
   "43": {
     "translation": "Greek Modern",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Κατά Ιωάννην",
     "url": "https://api.getbible.net/v2/moderngreek/43.json",
-    "sha": "effd47f3e181b4f1e97d538a47fd928582718ac5"
+    "sha": "7c47977d52820c353224e43a930761b602198f7e"
   },
   "44": {
     "translation": "Greek Modern",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Πράξεις",
     "url": "https://api.getbible.net/v2/moderngreek/44.json",
-    "sha": "8446720a0417f9f487d997991bd3d153dc760ef5"
+    "sha": "44386c479ebc5e2396783509c62bd21850d005d0"
   },
   "45": {
     "translation": "Greek Modern",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Προς Ρωμαίους",
     "url": "https://api.getbible.net/v2/moderngreek/45.json",
-    "sha": "7dde45dd2734f832ed8c47fd513913dedfefb7b4"
+    "sha": "0693c59f702ae0e4aad1dff57db64fffe1b80fc6"
   },
   "46": {
     "translation": "Greek Modern",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "Προς Κορινθίους Α'",
     "url": "https://api.getbible.net/v2/moderngreek/46.json",
-    "sha": "5ce66a70d4d6ae45557a51107bba179fa2c66b3b"
+    "sha": "ed79d765105eb0d749f0c145aee292e2067fd35f"
   },
   "47": {
     "translation": "Greek Modern",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "Προς Κορινθίους Β'",
     "url": "https://api.getbible.net/v2/moderngreek/47.json",
-    "sha": "1051ee167a99eb89a02a73b3022b334bbbd11283"
+    "sha": "c734638c666996695c2cf4869f6acfb8c1eea38b"
   },
   "48": {
     "translation": "Greek Modern",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Προς Γαλάτας",
     "url": "https://api.getbible.net/v2/moderngreek/48.json",
-    "sha": "27de774092c0224b54922bcd2bd7fcfcbfadb7d5"
+    "sha": "9b24143aae22984a2f3427c3e6b6e635ca473e25"
   },
   "49": {
     "translation": "Greek Modern",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Προς Εφεσίους",
     "url": "https://api.getbible.net/v2/moderngreek/49.json",
-    "sha": "790c184fd953d51263daa5ef56b5bdf2a541d6e2"
+    "sha": "6d744f6f3499015563be4dfb280f35798db08a5d"
   },
   "50": {
     "translation": "Greek Modern",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Προς Φιλιππησίους",
     "url": "https://api.getbible.net/v2/moderngreek/50.json",
-    "sha": "ea118e0860cc854185392e0462a8b21e662698b1"
+    "sha": "3a43b48b6e81c25d705f3a4a54a0837b2408b98a"
   },
   "51": {
     "translation": "Greek Modern",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Προς Κολοσσαείς",
     "url": "https://api.getbible.net/v2/moderngreek/51.json",
-    "sha": "889f91260e0bb3181e064fdd46d9f715bb104c83"
+    "sha": "d6550f06ae3ea8c8e394e4a76741bb61e247c9b3"
   },
   "52": {
     "translation": "Greek Modern",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "Προς Θεσσαλονικείς Α'",
     "url": "https://api.getbible.net/v2/moderngreek/52.json",
-    "sha": "cdb91ceee0a555a4b720f9b4524526a099ad4689"
+    "sha": "86159166834436dc1eb6a561426a9b4727f3600f"
   },
   "53": {
     "translation": "Greek Modern",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "Προς Θεσσαλονικείς Β'",
     "url": "https://api.getbible.net/v2/moderngreek/53.json",
-    "sha": "1c2dc385c82e3fac73d46de02d725e85d113864e"
+    "sha": "4cd1e6ff73ddd0fc269342d8ab8573675fcef5af"
   },
   "54": {
     "translation": "Greek Modern",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "Προς Τιμόθεον Α'",
     "url": "https://api.getbible.net/v2/moderngreek/54.json",
-    "sha": "e0de34e04350e7e5772fb4024e6d35d8b94bcf0b"
+    "sha": "2d6fea2868acca81d8bbc42fcfb13490ca1863cf"
   },
   "55": {
     "translation": "Greek Modern",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "Προς Τιμόθεον Β'",
     "url": "https://api.getbible.net/v2/moderngreek/55.json",
-    "sha": "0333cdde6eac6475cd05d15055d26f58e5a3ce7d"
+    "sha": "c3da9f502b0ef307887e71ee4aeaf1a171aed5af"
   },
   "56": {
     "translation": "Greek Modern",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Προς Τίτον",
     "url": "https://api.getbible.net/v2/moderngreek/56.json",
-    "sha": "ab57768d36b1d1444f5bd2db96e569e1629fed0c"
+    "sha": "2fb1be943fe7b4993eee072e2cfce7d406f5894e"
   },
   "57": {
     "translation": "Greek Modern",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Προς Φιλήμονα",
     "url": "https://api.getbible.net/v2/moderngreek/57.json",
-    "sha": "9014de284dcb78d407079a1071f6fb9dd7671e6b"
+    "sha": "08f5252a3540db2056923229a792cbdd0c16ab25"
   },
   "58": {
     "translation": "Greek Modern",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Προς Εβραίους",
     "url": "https://api.getbible.net/v2/moderngreek/58.json",
-    "sha": "29c5246973c1a140d856777e26dbab0a48e9a80b"
+    "sha": "9ec056325b1de6812600c5008b8412b8f16b7d7b"
   },
   "59": {
     "translation": "Greek Modern",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Ιάκωβος",
     "url": "https://api.getbible.net/v2/moderngreek/59.json",
-    "sha": "f20cbcbbfe65c629713540e9fd7aef9504aab87c"
+    "sha": "4e0db2b14aecc2d3fba4babfbfe84d8a4a1638a9"
   },
   "60": {
     "translation": "Greek Modern",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "Πέτρου Α'",
     "url": "https://api.getbible.net/v2/moderngreek/60.json",
-    "sha": "494d3f1891a3e048e0e56df717f724337b15b48f"
+    "sha": "277767054705aec2abeaf007626f9c04b8c8cc0c"
   },
   "61": {
     "translation": "Greek Modern",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "Πέτρου Β'",
     "url": "https://api.getbible.net/v2/moderngreek/61.json",
-    "sha": "ee2ef60b786fb36049a66186b76d665934996049"
+    "sha": "314c628bdcde42842ee6d28f7759d93fc60e86e6"
   },
   "62": {
     "translation": "Greek Modern",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "Ιωάννου Α'",
     "url": "https://api.getbible.net/v2/moderngreek/62.json",
-    "sha": "8207601f07db489a426f4e76b82220e83ded4400"
+    "sha": "0654724868a1d0c0c5c6bd2c69f98eabb855c42a"
   },
   "63": {
     "translation": "Greek Modern",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "Ιωάννου Β'",
     "url": "https://api.getbible.net/v2/moderngreek/63.json",
-    "sha": "03c91e522767a9ad2de6f00f17ddb257722efecb"
+    "sha": "73c6261a358027cc86701833212d5e8daedeb6ae"
   },
   "64": {
     "translation": "Greek Modern",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "Ιωάννου Γ'",
     "url": "https://api.getbible.net/v2/moderngreek/64.json",
-    "sha": "057e286ffc5c9fbc0612b25dfac15e284ec64e31"
+    "sha": "6d6ab29c76514c073b449bdb895853d03d40ecc0"
   },
   "65": {
     "translation": "Greek Modern",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Ιούδας",
     "url": "https://api.getbible.net/v2/moderngreek/65.json",
-    "sha": "596fbc7c7ed3129ab47f51b87a2817e61ee5af60"
+    "sha": "5e2bfb1bf61b0790ca9026a99f88c6df19ab075a"
   },
   "66": {
     "translation": "Greek Modern",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Αποκάλυψη",
     "url": "https://api.getbible.net/v2/moderngreek/66.json",
-    "sha": "c49df04158491ce8d9e16703b7d2b1db2505b268"
+    "sha": "1e32200fc04ebca2c3d98a5e63a3b2e849540b57"
   }
 }

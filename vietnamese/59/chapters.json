@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Gia-cơ",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Gia-cơ 1",
     "url": "https://api.getbible.net/v2/vietnamese/59/1.json",
-    "sha": "6c0cbd8313f6accdea10952e8d11bd881044d923"
+    "sha": "cb9caf886d78cab5c2661a70b123bcc446a44222"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Gia-cơ",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Gia-cơ 2",
     "url": "https://api.getbible.net/v2/vietnamese/59/2.json",
-    "sha": "d6c89f4ffb9d21d9bad81990e7c154f16907a237"
+    "sha": "68b926d050b64e229dbaf21169a4a18011c111a9"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Gia-cơ",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Gia-cơ 3",
     "url": "https://api.getbible.net/v2/vietnamese/59/3.json",
-    "sha": "9617c416158156669acf6073db4c7795666bc91f"
+    "sha": "2648b78eeb1da6e3c13b476f10ded1cc9964dd48"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Gia-cơ",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Gia-cơ 4",
     "url": "https://api.getbible.net/v2/vietnamese/59/4.json",
-    "sha": "4f7b4fe618b93603cdbaaf01a7073fc436c4921c"
+    "sha": "6abee2a6891f2dc20552cf4b4d29d57fb7e7dfbb"
   },
   "5": {
     "translation": "Vietnamese (1934)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Gia-cơ",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Gia-cơ 5",
     "url": "https://api.getbible.net/v2/vietnamese/59/5.json",
-    "sha": "5deb5b3a15bdcb60c2a8d81680c311bb2388381a"
+    "sha": "21d9beaf25f0fb3b32ae825ecd68d3d0aeaca21a"
   }
 }

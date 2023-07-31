@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Habakkuk 1",
     "url": "https://api.getbible.net/v2/kjv/35/1.json",
-    "sha": "d99455b3ca60fe6baed9cbf5eabd0c39770eb47a"
+    "sha": "89ba91cce24f865d4600f91bbe360fc9df10a99f"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Habakkuk 2",
     "url": "https://api.getbible.net/v2/kjv/35/2.json",
-    "sha": "76e4db5bd5a7b471039bc26a38b9c7a57b5ab356"
+    "sha": "ee4a56e64fe542ab58b51fe32506f8ee515acd73"
   },
   "3": {
     "translation": "King James Version",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habakkuk 3",
     "url": "https://api.getbible.net/v2/kjv/35/3.json",
-    "sha": "3768dd4b2e119e37de1c1f35846ee1565881e17c"
+    "sha": "9e77c7e69d347e1dcfa525bc41c16b59131577bf"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloseanoj",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Koloseanoj 1",
     "url": "https://api.getbible.net/v2/esperanto/51/1.json",
-    "sha": "76f08bbab81f7586423c07f1f3f1b2cae2b34c99"
+    "sha": "25570aac655c38950c5cf13f6c56f32632e03f27"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloseanoj",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Koloseanoj 2",
     "url": "https://api.getbible.net/v2/esperanto/51/2.json",
-    "sha": "a5f5f8667dda35ca71630b4c0c3b6c481650827e"
+    "sha": "0c7c9e5961675c29b9e78ae842da88ed4f46244f"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloseanoj",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Koloseanoj 3",
     "url": "https://api.getbible.net/v2/esperanto/51/3.json",
-    "sha": "a3efe53d60dc95335062555c705968a97de31c4d"
+    "sha": "f6676cc38547396fa2442776cd3377a69376d184"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloseanoj",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Koloseanoj 4",
     "url": "https://api.getbible.net/v2/esperanto/51/4.json",
-    "sha": "e8922cb8e410586aa38c85fa386eeace0a8e0188"
+    "sha": "a1886195f698299201b30d8657bef2c4a84572f3"
   }
 }

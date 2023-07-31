@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas Bog",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Mikas Bog 1",
     "url": "https://api.getbible.net/v2/danish/33/1.json",
-    "sha": "5f3bf32b6f82e172b3ed63f7f2930c4cdc4ab1ef"
+    "sha": "4661ada16c87814b6d4d67262c39e0281eaeed21"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas Bog",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Mikas Bog 2",
     "url": "https://api.getbible.net/v2/danish/33/2.json",
-    "sha": "45145013ab43f7ff9e096a81c11df626c8b77c11"
+    "sha": "d78ba94f9cd5706588bf910263ab883cac55c676"
   },
   "3": {
     "translation": "Danish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas Bog",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Mikas Bog 3",
     "url": "https://api.getbible.net/v2/danish/33/3.json",
-    "sha": "fe41f9a42254379a35f92db20d2c9634c5f42eb3"
+    "sha": "62bf5d667144a3f02f1014d041e0a010c791f5e8"
   },
   "4": {
     "translation": "Danish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas Bog",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Mikas Bog 4",
     "url": "https://api.getbible.net/v2/danish/33/4.json",
-    "sha": "b7da29cb662ff424bb49094d86014b7f87bee09d"
+    "sha": "fff4641d142292e77105d534cf1ae7ccef00d686"
   },
   "5": {
     "translation": "Danish",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas Bog",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Mikas Bog 5",
     "url": "https://api.getbible.net/v2/danish/33/5.json",
-    "sha": "19154dd4cc0c83d95d4668c01246edbeb92dbf06"
+    "sha": "85807120dfe9df101145c2b1d5e7a02c8acdeace"
   },
   "6": {
     "translation": "Danish",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas Bog",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Mikas Bog 6",
     "url": "https://api.getbible.net/v2/danish/33/6.json",
-    "sha": "cab16b9a9538ad2b67f04b0001c42947c0327b11"
+    "sha": "41d730c227720b9963027fccece25a5844c4d65f"
   },
   "7": {
     "translation": "Danish",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas Bog",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Mikas Bog 7",
     "url": "https://api.getbible.net/v2/danish/33/7.json",
-    "sha": "b87ee41588260934b1c42a652ddd31d47d34b5de"
+    "sha": "593eb6d5d63aee5a6ff3697810a24919a27a6168"
   }
 }

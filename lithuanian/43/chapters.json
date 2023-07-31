@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 1,
-    "name": "John 1",
+    "name": "Jonas 1",
     "url": "https://api.getbible.net/v2/lithuanian/43/1.json",
-    "sha": "584aa1eeeb62d339ea090946238ec58a256b4645"
+    "sha": "d19c342c84964fad357129df8ce4a029530bf00a"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 2,
-    "name": "John 2",
+    "name": "Jonas 2",
     "url": "https://api.getbible.net/v2/lithuanian/43/2.json",
-    "sha": "dba4becae9406bd7976422ffc9391b45f795bd6b"
+    "sha": "1df661e5e87e675e5a5805288e5b6a4656fad92c"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 3,
-    "name": "John 3",
+    "name": "Jonas 3",
     "url": "https://api.getbible.net/v2/lithuanian/43/3.json",
-    "sha": "97c751323963e861e33897c9be7014bce46b88d6"
+    "sha": "9f6ec8b0438d480b15c7e21e0e1a6b3b7647e219"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 4,
-    "name": "John 4",
+    "name": "Jonas 4",
     "url": "https://api.getbible.net/v2/lithuanian/43/4.json",
-    "sha": "7882388a997269798a1053e2a10f4c8669cf69c2"
+    "sha": "1daa363a84ede68ddebbe9df2ea92c559d5506a3"
   },
   "5": {
     "translation": "Lithuanian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 5,
-    "name": "John 5",
+    "name": "Jonas 5",
     "url": "https://api.getbible.net/v2/lithuanian/43/5.json",
-    "sha": "4b3043ef3f17e9d13c80e59c7ea3a221692a9eee"
+    "sha": "770947e4bd3fd2a47eca9a763a876d705b767d37"
   },
   "6": {
     "translation": "Lithuanian",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 6,
-    "name": "John 6",
+    "name": "Jonas 6",
     "url": "https://api.getbible.net/v2/lithuanian/43/6.json",
-    "sha": "4316234bb67933fd94e8baddfebf3e0e1df93a5f"
+    "sha": "4eaf5589c9d3c1f38795df9b281d2fef3482eccb"
   },
   "7": {
     "translation": "Lithuanian",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 7,
-    "name": "John 7",
+    "name": "Jonas 7",
     "url": "https://api.getbible.net/v2/lithuanian/43/7.json",
-    "sha": "4213eddcb9c77aaca461fbcb2f61c4bcdecc8b38"
+    "sha": "a98e8a1895ab27adac24ecea6ea930ba7e1118a8"
   },
   "8": {
     "translation": "Lithuanian",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 8,
-    "name": "John 8",
+    "name": "Jonas 8",
     "url": "https://api.getbible.net/v2/lithuanian/43/8.json",
-    "sha": "a4abce645cd3390a7d14007e8b10cf0780873081"
+    "sha": "b4b8f19885258e0783f6b827c1fb72166e798e4d"
   },
   "9": {
     "translation": "Lithuanian",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 9,
-    "name": "John 9",
+    "name": "Jonas 9",
     "url": "https://api.getbible.net/v2/lithuanian/43/9.json",
-    "sha": "388d302ddc96542d7ec3e1e4dc70123e6cb33a99"
+    "sha": "5759c77962a24322326686916c1e6fb3073e8dde"
   },
   "10": {
     "translation": "Lithuanian",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 10,
-    "name": "John 10",
+    "name": "Jonas 10",
     "url": "https://api.getbible.net/v2/lithuanian/43/10.json",
-    "sha": "fdc9adbeaee9e6667f405adc06204bd3b983ea11"
+    "sha": "6d735abdedbb89e6ca1b1419e74dc33a715f8654"
   },
   "11": {
     "translation": "Lithuanian",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 11,
-    "name": "John 11",
+    "name": "Jonas 11",
     "url": "https://api.getbible.net/v2/lithuanian/43/11.json",
-    "sha": "3d2f3b74bbae9a65aaba9f5deb72e003f7221519"
+    "sha": "06cc94d1081d276358291335f36b4c3e6e1b4f39"
   },
   "12": {
     "translation": "Lithuanian",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 12,
-    "name": "John 12",
+    "name": "Jonas 12",
     "url": "https://api.getbible.net/v2/lithuanian/43/12.json",
-    "sha": "f8656f0042353f6a2773e1b7f9dd6ca181a614d3"
+    "sha": "6d9a1462304804ad57528cd2f5474daf54c96b6c"
   },
   "13": {
     "translation": "Lithuanian",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 13,
-    "name": "John 13",
+    "name": "Jonas 13",
     "url": "https://api.getbible.net/v2/lithuanian/43/13.json",
-    "sha": "bdb6b2d24cc0559577037bcc43edfb0b62861e8c"
+    "sha": "9b21f83915efbe79e42d2f59bad60bcdfd30a834"
   },
   "14": {
     "translation": "Lithuanian",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 14,
-    "name": "John 14",
+    "name": "Jonas 14",
     "url": "https://api.getbible.net/v2/lithuanian/43/14.json",
-    "sha": "d27c37470b51135f8891f12ce886a486206bdb00"
+    "sha": "834fb12d37ba25fcf78c079aa913256051edc104"
   },
   "15": {
     "translation": "Lithuanian",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 15,
-    "name": "John 15",
+    "name": "Jonas 15",
     "url": "https://api.getbible.net/v2/lithuanian/43/15.json",
-    "sha": "b6c46d3acdabfee8308dade24d832252009d0b53"
+    "sha": "c9e2af49e11b90164e37858bca22833c8417d064"
   },
   "16": {
     "translation": "Lithuanian",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 16,
-    "name": "John 16",
+    "name": "Jonas 16",
     "url": "https://api.getbible.net/v2/lithuanian/43/16.json",
-    "sha": "5b457a9c9ae63736465ab3b46f754875ae968b63"
+    "sha": "20927dfbb473b47c5c5130e7c04b55dc4055e2a5"
   },
   "17": {
     "translation": "Lithuanian",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 17,
-    "name": "John 17",
+    "name": "Jonas 17",
     "url": "https://api.getbible.net/v2/lithuanian/43/17.json",
-    "sha": "bbbfb313ba7b82cb629bfaddef03440df0a12a50"
+    "sha": "e2e2f3a1c1d1576b755db978fb19a8cc4ea9b5be"
   },
   "18": {
     "translation": "Lithuanian",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 18,
-    "name": "John 18",
+    "name": "Jonas 18",
     "url": "https://api.getbible.net/v2/lithuanian/43/18.json",
-    "sha": "22ef7b63ab7cebf63502e2de3601821855e0321b"
+    "sha": "61ec17ba485ec5673607a8755c9c2059b7e7d3cc"
   },
   "19": {
     "translation": "Lithuanian",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 19,
-    "name": "John 19",
+    "name": "Jonas 19",
     "url": "https://api.getbible.net/v2/lithuanian/43/19.json",
-    "sha": "898b6bc93e913f55cecd66d11fe907cbc6686674"
+    "sha": "abf7c3578fce65fca8603deedb94019823f925d5"
   },
   "20": {
     "translation": "Lithuanian",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 20,
-    "name": "John 20",
+    "name": "Jonas 20",
     "url": "https://api.getbible.net/v2/lithuanian/43/20.json",
-    "sha": "2218ea5eb211ccf95113b568a6e25adf7812209c"
+    "sha": "91f3394d87227a550e88520a748e4ffab34a0939"
   },
   "21": {
     "translation": "Lithuanian",
@@ -287,10 +287,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jonas",
     "chapter": 21,
-    "name": "John 21",
+    "name": "Jonas 21",
     "url": "https://api.getbible.net/v2/lithuanian/43/21.json",
-    "sha": "fcc6252bf6efa437741c6c7e3c83e589e37e0704"
+    "sha": "c5ddae8184c3ea1ca05bcbfb8eccdacb55cce2a2"
   }
 }

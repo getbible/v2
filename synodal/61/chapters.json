@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2-е Петру",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2-е Петру 1",
     "url": "https://api.getbible.net/v2/synodal/61/1.json",
-    "sha": "35c46417376b1343bb54192a932ea024306bc57a"
+    "sha": "dcec49cdd0cd34c486799f354fa37563c40684ae"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2-е Петру",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2-е Петру 2",
     "url": "https://api.getbible.net/v2/synodal/61/2.json",
-    "sha": "fee350e1437eba97c58b29ea20f8c337cff1eff0"
+    "sha": "0535214c896ca7fb70ef53ea36329176e7a9c45c"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2-е Петру",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2-е Петру 3",
     "url": "https://api.getbible.net/v2/synodal/61/3.json",
-    "sha": "760efd4d22b42295d959886647e77621765ffbac"
+    "sha": "f7a411702c92189955718a3bccfef6902020134e"
   }
 }

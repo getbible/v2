@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Exodus 1",
     "url": "https://api.getbible.net/v2/kjva/2/1.json",
-    "sha": "72b49ba7d8c8cd0aa5031c53820a209391a8abb8"
+    "sha": "5a9220c7d5b0783c77f2d14124da29868e4b0220"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Exodus 2",
     "url": "https://api.getbible.net/v2/kjva/2/2.json",
-    "sha": "bd02912029320a8673cc476fb86fc6bad20ea1dc"
+    "sha": "3abac4df7292375097bc2dd880dc570a0458e470"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Exodus 3",
     "url": "https://api.getbible.net/v2/kjva/2/3.json",
-    "sha": "c645e5cd4deb24c624a5edb15b94e14e3c6dd016"
+    "sha": "502ce07c6bd8371bca39db0476e72d5018baac06"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "Exodus 4",
     "url": "https://api.getbible.net/v2/kjva/2/4.json",
-    "sha": "3f91667da11288c3aa00c173dfd559d93b793935"
+    "sha": "5b462ee474e6f39fc1d12694d8e9bc0d57d6859f"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "Exodus 5",
     "url": "https://api.getbible.net/v2/kjva/2/5.json",
-    "sha": "9b32a08a6fae419c813cb01a30574c3c1ce47330"
+    "sha": "fd34939753ce7e25f43ab3c45af9405cfeb6e041"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,10 +81,10 @@
     "chapter": 6,
     "name": "Exodus 6",
     "url": "https://api.getbible.net/v2/kjva/2/6.json",
-    "sha": "5c21c0553d9229833f41fd77c512844dfb936094"
+    "sha": "f1897839f25bc99fd260f273723d7059f445eae4"
   },
   "7": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -95,10 +95,10 @@
     "chapter": 7,
     "name": "Exodus 7",
     "url": "https://api.getbible.net/v2/kjva/2/7.json",
-    "sha": "822798ec1f90a6294e468b1496c8745fb4616372"
+    "sha": "6725deae17acffa745a6139b2f99b01b27d6523c"
   },
   "8": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -109,10 +109,10 @@
     "chapter": 8,
     "name": "Exodus 8",
     "url": "https://api.getbible.net/v2/kjva/2/8.json",
-    "sha": "bd34fccbd58d619e4a49a33f646d0da4bf654138"
+    "sha": "39bb55ef16533b67a19400ad01cf34ae027e5427"
   },
   "9": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -123,10 +123,10 @@
     "chapter": 9,
     "name": "Exodus 9",
     "url": "https://api.getbible.net/v2/kjva/2/9.json",
-    "sha": "6920477bffe480c656d20953dba8f35e2a6c1952"
+    "sha": "8ee2fdc14d8961b0aa9b6c44efeba0d7b3227af2"
   },
   "10": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -137,10 +137,10 @@
     "chapter": 10,
     "name": "Exodus 10",
     "url": "https://api.getbible.net/v2/kjva/2/10.json",
-    "sha": "f528aff955e203693e528930dc2dd6da18d0eba6"
+    "sha": "fedce3dd6e5a9342fbf54d5b5ede583f4a4d5a16"
   },
   "11": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -151,10 +151,10 @@
     "chapter": 11,
     "name": "Exodus 11",
     "url": "https://api.getbible.net/v2/kjva/2/11.json",
-    "sha": "241d83e6521d68f4605e6b4d6d33e76812dc069c"
+    "sha": "fce4dd3f10101a251acc3ba913b7eaf8cefeccaf"
   },
   "12": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -165,10 +165,10 @@
     "chapter": 12,
     "name": "Exodus 12",
     "url": "https://api.getbible.net/v2/kjva/2/12.json",
-    "sha": "1dcd183fe001d902c0908c876af7ce40d450ba84"
+    "sha": "dd295be781b090034c6dfd7fd35f35e68ad650ec"
   },
   "13": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -179,10 +179,10 @@
     "chapter": 13,
     "name": "Exodus 13",
     "url": "https://api.getbible.net/v2/kjva/2/13.json",
-    "sha": "3ce1fd98067b30122c5578c0c0cc7cd271427b06"
+    "sha": "fdf8103d57373cce1f2477bd1e973ccc3421c7cc"
   },
   "14": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -193,10 +193,10 @@
     "chapter": 14,
     "name": "Exodus 14",
     "url": "https://api.getbible.net/v2/kjva/2/14.json",
-    "sha": "97bb0a4ec8f6c3f2401c1834697ada24b45676b5"
+    "sha": "f7df17cca37aed0fc0208946151729ea505b5f92"
   },
   "15": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -207,10 +207,10 @@
     "chapter": 15,
     "name": "Exodus 15",
     "url": "https://api.getbible.net/v2/kjva/2/15.json",
-    "sha": "4150ce74033a24d71598bfe1c0cc4ede9c8fc022"
+    "sha": "a4c74246f6da79111d4863129bfeab6b29dd8fcd"
   },
   "16": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -221,10 +221,10 @@
     "chapter": 16,
     "name": "Exodus 16",
     "url": "https://api.getbible.net/v2/kjva/2/16.json",
-    "sha": "3b57706b651a6990c22c588c3a44e994050cc6ff"
+    "sha": "91eb6958836499ceeda85ba43bf15f2f465de7fc"
   },
   "17": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -235,10 +235,10 @@
     "chapter": 17,
     "name": "Exodus 17",
     "url": "https://api.getbible.net/v2/kjva/2/17.json",
-    "sha": "6ec9b72bbb1d766726c2d14b575bcb76065a4c78"
+    "sha": "18d370d5c886130895bb2cfbacf90f4817a8e346"
   },
   "18": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -249,10 +249,10 @@
     "chapter": 18,
     "name": "Exodus 18",
     "url": "https://api.getbible.net/v2/kjva/2/18.json",
-    "sha": "a01701db0eccb8e313b2e8d8cf68074a349af906"
+    "sha": "d65dacaa81d75560233b67ad944c1fd407b8ff3a"
   },
   "19": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -263,10 +263,10 @@
     "chapter": 19,
     "name": "Exodus 19",
     "url": "https://api.getbible.net/v2/kjva/2/19.json",
-    "sha": "b816a8e0897ce2b7fe3d7ef7e24e3753d42e6f52"
+    "sha": "92d8ea95de118ad82d3ccddf397715a696caade7"
   },
   "20": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -277,10 +277,10 @@
     "chapter": 20,
     "name": "Exodus 20",
     "url": "https://api.getbible.net/v2/kjva/2/20.json",
-    "sha": "2c3702b7904209a5741b45a9f455f72a4f1e7d85"
+    "sha": "307d2e630ac7bf9ac783535bc20f6bd487d62906"
   },
   "21": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -291,10 +291,10 @@
     "chapter": 21,
     "name": "Exodus 21",
     "url": "https://api.getbible.net/v2/kjva/2/21.json",
-    "sha": "c2600f7c255458647452623bdacea97f7129db1f"
+    "sha": "89f3e347622a32a35cc3576246e6520dadb33171"
   },
   "22": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -305,10 +305,10 @@
     "chapter": 22,
     "name": "Exodus 22",
     "url": "https://api.getbible.net/v2/kjva/2/22.json",
-    "sha": "0349c0fafcadbf8f046b72bc2c41502017b6a6cd"
+    "sha": "db228cde1548d2ca7219f4048dafafc1eda76476"
   },
   "23": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -319,10 +319,10 @@
     "chapter": 23,
     "name": "Exodus 23",
     "url": "https://api.getbible.net/v2/kjva/2/23.json",
-    "sha": "f5911e334eb5c4d153f898b4baf49bfbb5e2e1df"
+    "sha": "24ba3d09d5f42ca8919e6c50c092cb051ca09c2b"
   },
   "24": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -333,10 +333,10 @@
     "chapter": 24,
     "name": "Exodus 24",
     "url": "https://api.getbible.net/v2/kjva/2/24.json",
-    "sha": "c332e5e09cd28cfeb675217ccb14cc1d5992c122"
+    "sha": "202f391fb8cdd8dbb0a115f203c08590556692c5"
   },
   "25": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -347,10 +347,10 @@
     "chapter": 25,
     "name": "Exodus 25",
     "url": "https://api.getbible.net/v2/kjva/2/25.json",
-    "sha": "6f09254f1fb1bdf8ea53cd3b5644d6689127089f"
+    "sha": "d366f340351dcb5814fbfdd6f84b4a2f6f0b4872"
   },
   "26": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -361,10 +361,10 @@
     "chapter": 26,
     "name": "Exodus 26",
     "url": "https://api.getbible.net/v2/kjva/2/26.json",
-    "sha": "ffc4bd59c3dce2d293c06b9251f51e7ce35c4946"
+    "sha": "e0ea2ae0c5ac8e23cce9a037d733a235e9ab83f7"
   },
   "27": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -375,10 +375,10 @@
     "chapter": 27,
     "name": "Exodus 27",
     "url": "https://api.getbible.net/v2/kjva/2/27.json",
-    "sha": "2447d0b260a02a2cf182e9d30de57aa6d9a39e58"
+    "sha": "7d4f050a3965aea40256329a18da07bdec726c58"
   },
   "28": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -389,10 +389,10 @@
     "chapter": 28,
     "name": "Exodus 28",
     "url": "https://api.getbible.net/v2/kjva/2/28.json",
-    "sha": "f011f71fefe2e8687968ef1f53f7ef99d2b875b1"
+    "sha": "57787e41b07786426c2ad52048cfa7e7d1ff3f72"
   },
   "29": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -403,10 +403,10 @@
     "chapter": 29,
     "name": "Exodus 29",
     "url": "https://api.getbible.net/v2/kjva/2/29.json",
-    "sha": "543acdff725afd459c3b715961979763888a0b59"
+    "sha": "56214409eac82d7a0a175b7a55454de1e41a6acb"
   },
   "30": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -417,10 +417,10 @@
     "chapter": 30,
     "name": "Exodus 30",
     "url": "https://api.getbible.net/v2/kjva/2/30.json",
-    "sha": "184d7990482e6209b6c3c9c12fd7d281a5d45ad4"
+    "sha": "082c12915ea088423d972718ca15c4835c1ef7a4"
   },
   "31": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -431,10 +431,10 @@
     "chapter": 31,
     "name": "Exodus 31",
     "url": "https://api.getbible.net/v2/kjva/2/31.json",
-    "sha": "64bc2b040154d2380da0f1627648868ab79d0bc1"
+    "sha": "2905242dbc91ae3c6202c08ffefdac080b68ffea"
   },
   "32": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -445,10 +445,10 @@
     "chapter": 32,
     "name": "Exodus 32",
     "url": "https://api.getbible.net/v2/kjva/2/32.json",
-    "sha": "2eb5d89b7af2cc69d1993919b38b23ad82a6589d"
+    "sha": "698c1301a52f6bb66a8e05f19f70efb900c78241"
   },
   "33": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -459,10 +459,10 @@
     "chapter": 33,
     "name": "Exodus 33",
     "url": "https://api.getbible.net/v2/kjva/2/33.json",
-    "sha": "0c7c9a103d114790e5c8e7a120d4678ab9cde62a"
+    "sha": "28cc433ed14334ad9d36dfd0429587af3adc1954"
   },
   "34": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -473,10 +473,10 @@
     "chapter": 34,
     "name": "Exodus 34",
     "url": "https://api.getbible.net/v2/kjva/2/34.json",
-    "sha": "f4f667c02c97441cd7db5292550e0a344d57fe51"
+    "sha": "b4644b7f334a594723e0bd37a23888810bef9076"
   },
   "35": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -487,10 +487,10 @@
     "chapter": 35,
     "name": "Exodus 35",
     "url": "https://api.getbible.net/v2/kjva/2/35.json",
-    "sha": "7ff9e1639c92136ac2b604d49a07c54512053384"
+    "sha": "861be0887d301059232d9a61d71c911b8046e6eb"
   },
   "36": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -501,10 +501,10 @@
     "chapter": 36,
     "name": "Exodus 36",
     "url": "https://api.getbible.net/v2/kjva/2/36.json",
-    "sha": "860e863460690345f6041757566ac0c9d5f9a1df"
+    "sha": "8a4b32bc6192b05f3749d9cea0685e2a3dd11b55"
   },
   "37": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -515,10 +515,10 @@
     "chapter": 37,
     "name": "Exodus 37",
     "url": "https://api.getbible.net/v2/kjva/2/37.json",
-    "sha": "cf459608f0c8a59e86f55751bc7dd6295a57ddf4"
+    "sha": "c2a7b521121b0fb5064fbb683387154acadd5e48"
   },
   "38": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -529,10 +529,10 @@
     "chapter": 38,
     "name": "Exodus 38",
     "url": "https://api.getbible.net/v2/kjva/2/38.json",
-    "sha": "9dfb9789ab633c57c72b2333544693589e95c0ad"
+    "sha": "8c3f124f029838f37986ae3982aece00737e1152"
   },
   "39": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -543,10 +543,10 @@
     "chapter": 39,
     "name": "Exodus 39",
     "url": "https://api.getbible.net/v2/kjva/2/39.json",
-    "sha": "46134748e8a39594fff905e7d74dfef5a80b98d5"
+    "sha": "e9684ba7d1d01903da2fcc90e9e510bf108d1a1d"
   },
   "40": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -557,6 +557,6 @@
     "chapter": 40,
     "name": "Exodus 40",
     "url": "https://api.getbible.net/v2/kjva/2/40.json",
-    "sha": "60dcb851247b8cd24726a28945bfd588fd925808"
+    "sha": "863f5b9227aef7794c6bafbee2ddf88eeb6efb1e"
   }
 }

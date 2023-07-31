@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossenzen",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Kolossenzen 1",
     "url": "https://api.getbible.net/v2/statenvertaling/51/1.json",
-    "sha": "3a409cfcd2f2b369202d41282f392b72830005c2"
+    "sha": "d6d1f7bd338651f8be69bd2780220af0b2eb01f7"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossenzen",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Kolossenzen 2",
     "url": "https://api.getbible.net/v2/statenvertaling/51/2.json",
-    "sha": "e084d1873c273472f968a774686c22486485cf55"
+    "sha": "7ada3460122402f69334589caa92fc843b8a1198"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossenzen",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Kolossenzen 3",
     "url": "https://api.getbible.net/v2/statenvertaling/51/3.json",
-    "sha": "55b73a261432e2d293f9c9e58dad050d55526c0a"
+    "sha": "371ba7f923e3e977eaafae6652e9c62eeb188b56"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossenzen",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Kolossenzen 4",
     "url": "https://api.getbible.net/v2/statenvertaling/51/4.json",
-    "sha": "eec5b0e66fa2a6fab300c7bf8003f9ba30388085"
+    "sha": "74f9b403050e447d74a8f0ed452f16061713a790"
   }
 }

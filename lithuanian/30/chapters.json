@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "Amosas 1",
     "url": "https://api.getbible.net/v2/lithuanian/30/1.json",
-    "sha": "5f0f08a6c6fbeaa1bac4e7a6db278eab6af7d139"
+    "sha": "7ab9d822f226d0eb51389e98c0eaf50f13ad4eb0"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "Amosas 2",
     "url": "https://api.getbible.net/v2/lithuanian/30/2.json",
-    "sha": "d99a99eed344dc5885267435d2e4a36b2917bf9a"
+    "sha": "5570d81cafdcb52e03b45620ef16748b169558da"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "Amosas 3",
     "url": "https://api.getbible.net/v2/lithuanian/30/3.json",
-    "sha": "2f7c0bc2225cab81a348126340f2b5b49a02b34d"
+    "sha": "d0c9868c0eb7068ee17c6ae14deb6422d6976b48"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "Amosas 4",
     "url": "https://api.getbible.net/v2/lithuanian/30/4.json",
-    "sha": "f951faa1cda649ec75a928bde37615bbaf6ad513"
+    "sha": "915a786c07aa111168ce4a404ab6f3cd45ff9c1f"
   },
   "5": {
     "translation": "Lithuanian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "Amosas 5",
     "url": "https://api.getbible.net/v2/lithuanian/30/5.json",
-    "sha": "399a71b572985dc64cf689d3096608625866ec69"
+    "sha": "3e489a2807497ff38cfcf7639530a66bd225451c"
   },
   "6": {
     "translation": "Lithuanian",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "Amosas 6",
     "url": "https://api.getbible.net/v2/lithuanian/30/6.json",
-    "sha": "8685c11e877106c3193989668a881a5cd1f81d11"
+    "sha": "91cdb2f989feb5dbfe50e1cf8638fa6ed4c9db34"
   },
   "7": {
     "translation": "Lithuanian",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "Amosas 7",
     "url": "https://api.getbible.net/v2/lithuanian/30/7.json",
-    "sha": "396e8dd94e5424478cd1826c68683f81b981c3bd"
+    "sha": "e88ce245bf1e14d71cb7be706675fad2e251df23"
   },
   "8": {
     "translation": "Lithuanian",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "Amosas 8",
     "url": "https://api.getbible.net/v2/lithuanian/30/8.json",
-    "sha": "db6bfde3c97dd5fc5a84aa6765523391cc7a3774"
+    "sha": "7958631bb0e28de93af091a8d1882d30dc1fc345"
   },
   "9": {
     "translation": "Lithuanian",
@@ -119,10 +119,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amosas",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "Amosas 9",
     "url": "https://api.getbible.net/v2/lithuanian/30/9.json",
-    "sha": "fe9a40495e4ed97850d2402ee58e38c4b6ab2775"
+    "sha": "d6b4d202351b914f3198c8f475de4763e2b01996"
   }
 }

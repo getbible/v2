@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanja",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sefanja 1",
     "url": "https://api.getbible.net/v2/swedish/36/1.json",
-    "sha": "a5140b81017472a334c2b93ae77a66049da5ef0e"
+    "sha": "4777281fcd07b478661869e9fa3a5796ce393aad"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanja",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sefanja 2",
     "url": "https://api.getbible.net/v2/swedish/36/2.json",
-    "sha": "076d54f3cae6a24ee446fa8bcce60a2c49280302"
+    "sha": "8786498c5c3a696b65aa0d588b897d6e11c85b28"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanja",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sefanja 3",
     "url": "https://api.getbible.net/v2/swedish/36/3.json",
-    "sha": "a44aa788aa8a44f8b4ab84255adb452b47280dad"
+    "sha": "3b9a61edb7537e0ca97fee420726bde890e05392"
   }
 }

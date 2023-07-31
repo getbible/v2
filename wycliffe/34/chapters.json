@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Nahum 1",
     "url": "https://api.getbible.net/v2/wycliffe/34/1.json",
-    "sha": "3b3bce54fc0d0b8bc46c7cb3caf55ebbb4c27ef8"
+    "sha": "2b96e7a7eee331c139f7470184a8063298d71021"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Nahum 2",
     "url": "https://api.getbible.net/v2/wycliffe/34/2.json",
-    "sha": "9ee6a5ba3adb891af8eeaa676d019c8f0fede790"
+    "sha": "69a77bf13fb0cce62c003827887740f65f94a457"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Nahum 3",
     "url": "https://api.getbible.net/v2/wycliffe/34/3.json",
-    "sha": "178b4fa19aa6757bfeaf170bf79f634bac5f9833"
+    "sha": "3ff34da7e8d147dccf02218a3511b6078d429eac"
   }
 }

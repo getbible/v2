@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://api.getbible.net/v2/wycliffe/36/1.json",
-    "sha": "d5e170175df2ea92b45d5738b1f88a48a667ead5"
+    "sha": "f7af8f4e63b965f72a9e3dc70378f6fbe5620d24"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://api.getbible.net/v2/wycliffe/36/2.json",
-    "sha": "f59b338e99222b27eceaf32e09f735c4813ffe7e"
+    "sha": "6ac6f1ab6d36180739f0dc3423e4a2a3b41e9271"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://api.getbible.net/v2/wycliffe/36/3.json",
-    "sha": "96734b08adab01866ffc9d85243ae478d66f06f9"
+    "sha": "67f120ed53bfd77534784e70124169a81e78ff0f"
   }
 }

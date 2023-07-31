@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ιωνάς",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Ιωνάς 1",
     "url": "https://api.getbible.net/v2/moderngreek/32/1.json",
-    "sha": "5f0414571ecbc1a94175c9223155f151c38ab5b1"
+    "sha": "3002163667440ef0a54ddef8dca96b0ecc36ab44"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ιωνάς",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Ιωνάς 2",
     "url": "https://api.getbible.net/v2/moderngreek/32/2.json",
-    "sha": "bab19f405a4f0b61006a0e115008dc7011ee8261"
+    "sha": "a944cb85d909c019a6e44e5397e82623fd373cd2"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ιωνάς",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Ιωνάς 3",
     "url": "https://api.getbible.net/v2/moderngreek/32/3.json",
-    "sha": "759bb1924e7a9caaf337980f0bd22b5d31a24034"
+    "sha": "7c41b32525d4efcaf60d929d81280ec4637c25d4"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ιωνάς",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Ιωνάς 4",
     "url": "https://api.getbible.net/v2/moderngreek/32/4.json",
-    "sha": "87e48646266f52fd534d410f62bda26cdda7df2b"
+    "sha": "09565bfbccf439a62ffd5e5322ad91f82f9dfa09"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Micah 1",
     "url": "https://api.getbible.net/v2/kjv/33/1.json",
-    "sha": "d6204f5d4899aa680418f2bd6bc509bcf5bc183e"
+    "sha": "2b60457dc6d06030642c7ad03e60abd796725fd1"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Micah 2",
     "url": "https://api.getbible.net/v2/kjv/33/2.json",
-    "sha": "782ab89bbb6d7c108a335ba83f8fca3f2aba883f"
+    "sha": "5571d6c9e9c72a427e697ae6e09c545a21fd51c9"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Micah 3",
     "url": "https://api.getbible.net/v2/kjv/33/3.json",
-    "sha": "8134673466b3c43599f886f8da8481f2618fd378"
+    "sha": "cb4defe47c7b9439fdbeb9cf28585ffd738fb260"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Micah 4",
     "url": "https://api.getbible.net/v2/kjv/33/4.json",
-    "sha": "4953f87c71f4facb48ecd01acab3fb023662e7b5"
+    "sha": "6af13c465195773ae2ec02d5b4dd82417f535627"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Micah 5",
     "url": "https://api.getbible.net/v2/kjv/33/5.json",
-    "sha": "24c9858b4f11844b872892516ff168d65025f8eb"
+    "sha": "07ed73f8124926724ffdb6f89dd731ff18f68223"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Micah 6",
     "url": "https://api.getbible.net/v2/kjv/33/6.json",
-    "sha": "0176f897ea5a546509a75574b998ff6c95789324"
+    "sha": "bc49eddb9518b4598f206e5cd1d0224736ab8c62"
   },
   "7": {
     "translation": "King James Version",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Micah 7",
     "url": "https://api.getbible.net/v2/kjv/33/7.json",
-    "sha": "658ba4657d88c24ddf3761ad2ccfb47cd1ece7fe"
+    "sha": "5aef3c4ac45f3a17bca99b649b65bbe378b6aa95"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timoteo 1",
     "url": "https://api.getbible.net/v2/riveduta/54/1.json",
-    "sha": "47f6ffc0c58d4a932519411ec6a17f3b33faa868"
+    "sha": "f59fafb5dd91d4faa430ea88757263700588c3a3"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timoteo 2",
     "url": "https://api.getbible.net/v2/riveduta/54/2.json",
-    "sha": "c65f488f767a4f61558c09054df28cc293319137"
+    "sha": "f8082e78a2e28c4339c1a2d4b0955a5600945329"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timoteo 3",
     "url": "https://api.getbible.net/v2/riveduta/54/3.json",
-    "sha": "72b2c4288d3f828dc4b6056451650592961590b4"
+    "sha": "ff9f2de15228a433521299ad2e6565cc15e9f631"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timoteo 4",
     "url": "https://api.getbible.net/v2/riveduta/54/4.json",
-    "sha": "3d3a0da8b76525080f7ad9d86b103285372c1010"
+    "sha": "22933a60f6b76ce6aab6eff4fa189ccf825ac53d"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timoteo 5",
     "url": "https://api.getbible.net/v2/riveduta/54/5.json",
-    "sha": "36476c09f0bda681afc1d19ea30a6d2ee6de98eb"
+    "sha": "76ac33ee683a490643e4a79da3b8d0aa2bcceb67"
   },
   "6": {
     "translation": "Riveduta Bible (1927)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timoteo 6",
     "url": "https://api.getbible.net/v2/riveduta/54/6.json",
-    "sha": "e8f45a91f3e77be1a00ff22e1cdb8e9103eeb84f"
+    "sha": "0044026aeee1b6fc6ce8e031bb834656912c4390"
   }
 }

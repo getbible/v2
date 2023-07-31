@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipským",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filipským 1",
     "url": "https://api.getbible.net/v2/bkr/50/1.json",
-    "sha": "cd248923a634f28178034c76f817b0f56b3bb637"
+    "sha": "b8d51aae3c9a9ffa0e835d3c74f45d8c522880e3"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipským",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filipským 2",
     "url": "https://api.getbible.net/v2/bkr/50/2.json",
-    "sha": "65f8c3dfb71aeb88f7be6f563b4a7f6d0b6ffadd"
+    "sha": "5ee183ca9a7ff36cab83dcbe6502cd72677ed8ab"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipským",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filipským 3",
     "url": "https://api.getbible.net/v2/bkr/50/3.json",
-    "sha": "64a30dd88afc95f928000d8732164e3f2471d972"
+    "sha": "8c3534d00ec1a0a06a9f8dc9a406a5e08f99c8cc"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipským",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filipským 4",
     "url": "https://api.getbible.net/v2/bkr/50/4.json",
-    "sha": "197a6b822aadaba75b8df94eceb04cb944456118"
+    "sha": "843ada9ad4e473e290caa477dec5dacc9e978502"
   }
 }

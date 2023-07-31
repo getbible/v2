@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonias",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sofonias 1",
     "url": "https://api.getbible.net/v2/almeida/36/1.json",
-    "sha": "71316031b10e176b7fa7828c43a5974f2f02dc54"
+    "sha": "6760945210865668e8139da9176e6f88ee363c29"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonias",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sofonias 2",
     "url": "https://api.getbible.net/v2/almeida/36/2.json",
-    "sha": "c517dd3c1227cde158bc053ab425dd4b344b596e"
+    "sha": "789e13a1c3e2448978cae7ea08b2a1df5a2b29f4"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonias",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sofonias 3",
     "url": "https://api.getbible.net/v2/almeida/36/3.json",
-    "sha": "35aae30e442b720c8d905c13b3cd670a396bfc8e"
+    "sha": "5f375c29f7c9ffef4b3752585b5bec5ead49154c"
   }
 }

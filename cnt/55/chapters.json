@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "提摩太後書 1",
     "url": "https://api.getbible.net/v2/cnt/55/1.json",
-    "sha": "84f8ca0944069d069d2e2baabc1e959ac3e73a82"
+    "sha": "9ac0d6e7cbb39703a0db22f5e0d36d161e40d18e"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "提摩太後書 2",
     "url": "https://api.getbible.net/v2/cnt/55/2.json",
-    "sha": "5fd8e13c4eabd96aeb8a3198e7e88294e70eb526"
+    "sha": "20b55aaec36d1358adc82c105a0cc223f5efc642"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "提摩太後書 3",
     "url": "https://api.getbible.net/v2/cnt/55/3.json",
-    "sha": "f11e50c1395e6d4d364fff49276ea0fefb6ca094"
+    "sha": "b8c94b1fb4393d7cd4f259b867da2b9507b04610"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "提摩太後書 4",
     "url": "https://api.getbible.net/v2/cnt/55/4.json",
-    "sha": "17eac95caa21aa0659acfadfb51544f86f25ceee"
+    "sha": "17005adcb9c1ed3e856e7a9df90ac8f61b242067"
   }
 }

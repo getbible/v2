@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "မာလာခီ",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "မာလာခီ 1",
     "url": "https://api.getbible.net/v2/judson/39/1.json",
-    "sha": "2e572da9e8bd4ad77c241ec487918b3187663016"
+    "sha": "83b605602420a05a1874af9840fafe927388daef"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "မာလာခီ",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "မာလာခီ 2",
     "url": "https://api.getbible.net/v2/judson/39/2.json",
-    "sha": "28f35c703ca97a091f78deefc4de65fd384ad38e"
+    "sha": "da7d47af1bd5d134898437d79f9f03b5733c9dbc"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "မာလာခီ",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "မာလာခီ 3",
     "url": "https://api.getbible.net/v2/judson/39/3.json",
-    "sha": "ae823c87dc17e935028bbef8f1bd6da5baf7c25b"
+    "sha": "cbca65cf995941dba2735f5f2dac4d2eb9341ee6"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "မာလာခီ",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "မာလာခီ 4",
     "url": "https://api.getbible.net/v2/judson/39/4.json",
-    "sha": "6f2f8a38196ac4bb270b71fdbbd3d4e43531ef0b"
+    "sha": "ac216f58f17f46dafb13ecadf3525717f5955177"
   }
 }

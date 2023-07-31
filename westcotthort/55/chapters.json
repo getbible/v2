@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "Προς Τιμόθεον Β' 1",
     "url": "https://api.getbible.net/v2/westcotthort/55/1.json",
-    "sha": "9f463bcabf8c5778cd759f5641ab0c9ec9000355"
+    "sha": "d81713374fb5e51526bf6b8d4372b5eb58a99ba6"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "Προς Τιμόθεον Β' 2",
     "url": "https://api.getbible.net/v2/westcotthort/55/2.json",
-    "sha": "4c92a5abba37a84f37844eed1d5db6240a74501d"
+    "sha": "21888565e8982803cc7f0f528c3a46e60d941931"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "Προς Τιμόθεον Β' 3",
     "url": "https://api.getbible.net/v2/westcotthort/55/3.json",
-    "sha": "43682f6eb97c302fbf2fcb487f7b769b3de7843f"
+    "sha": "7952a8e7013caeb504d40cddf28dcda881b1453e"
   },
   "4": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "Προς Τιμόθεον Β' 4",
     "url": "https://api.getbible.net/v2/westcotthort/55/4.json",
-    "sha": "b3956437d91e59bc2ec49807618a1272a1cbc0f8"
+    "sha": "32467e35a94680507fc2565abbba47f0c8d5934b"
   }
 }

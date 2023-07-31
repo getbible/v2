@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Philippians 1",
     "url": "https://api.getbible.net/v2/kjva/50/1.json",
-    "sha": "97e9f6cfb70bcb3f2eecad4967cb19b90aa78552"
+    "sha": "29d72e07e29d7c98c4df5abba4581b3087d2569b"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Philippians 2",
     "url": "https://api.getbible.net/v2/kjva/50/2.json",
-    "sha": "442957751c4ffe0908226218ab0ef29c476d1e76"
+    "sha": "a62eba439d103376fdfd159bb17c51afbbe9a622"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Philippians 3",
     "url": "https://api.getbible.net/v2/kjva/50/3.json",
-    "sha": "9f76dac945cec13b55a425b7570d5c84ccacc294"
+    "sha": "c23caab5e5cb3a18cf969cdd5a8d83afa0f45734"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Philippians 4",
     "url": "https://api.getbible.net/v2/kjva/50/4.json",
-    "sha": "2ba8abc206d799eacb211c9d02dfa2a86e39f3fe"
+    "sha": "c64ac3cbfcd90fa25b116ebeb6fdde26b9e05af3"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Pedro 1",
     "url": "https://api.getbible.net/v2/valera/60/1.json",
-    "sha": "43268002d0e3430a3f5b58baae763298fa7fa54d"
+    "sha": "cd5ef9ae3558e967ab27cee996a07dbfde2070ea"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Pedro 2",
     "url": "https://api.getbible.net/v2/valera/60/2.json",
-    "sha": "0d6f740d31a0805f94caf8c7f86d77559498f671"
+    "sha": "7aa63b3b8fc3ddfae22fdf471f515d8a8b43fba2"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Pedro 3",
     "url": "https://api.getbible.net/v2/valera/60/3.json",
-    "sha": "74f5eed9ebfa423cc7f9a5366cae82db755f702e"
+    "sha": "f6c13fc5125dc7ebc631a8caa51e42292de9515f"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Pedro 4",
     "url": "https://api.getbible.net/v2/valera/60/4.json",
-    "sha": "d5eb1bb80c1cd0735a7076c41e2adff79be1a202"
+    "sha": "496747c35b8bca0c7021d76c0fd52bdec52ede20"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pedro",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Pedro 5",
     "url": "https://api.getbible.net/v2/valera/60/5.json",
-    "sha": "da95de15b419eda8e938448bac65c4de1bb4e35d"
+    "sha": "e342865fe9c5a9f2069e96e43f7ed8effa8c3482"
   }
 }

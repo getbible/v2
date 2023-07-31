@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Canticum Canticorum 1",
     "url": "https://api.getbible.net/v2/vulgate/22/1.json",
-    "sha": "9caf0658068576e19dfb504ede8206e2617da9cc"
+    "sha": "e4bdf44df669fe7d6bbc142851f465d7da8f603c"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Canticum Canticorum 2",
     "url": "https://api.getbible.net/v2/vulgate/22/2.json",
-    "sha": "db7095df00b59f88481895180eb0aa81c9a95e38"
+    "sha": "bd74ba95f13d63f00fbede00acb3451d33da9871"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Canticum Canticorum 3",
     "url": "https://api.getbible.net/v2/vulgate/22/3.json",
-    "sha": "2d8a832973331be366bd7759253655e81bfa1b0b"
+    "sha": "fb1471e566f01927f16438481dec038929da8825"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Canticum Canticorum 4",
     "url": "https://api.getbible.net/v2/vulgate/22/4.json",
-    "sha": "3c430d5f4259548011998b3313e11c911e85660a"
+    "sha": "f018fccca1b97d7b3e55023f03a8b2f4b069fac1"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Canticum Canticorum 5",
     "url": "https://api.getbible.net/v2/vulgate/22/5.json",
-    "sha": "a8ded60f1bc6fa7d65b8cd6eebb10504e9ede9d5"
+    "sha": "ef7cd6815b1174ec5dfb9d9b1e24389cdac62462"
   },
   "6": {
     "translation": "Vulgata Clementina",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Canticum Canticorum 6",
     "url": "https://api.getbible.net/v2/vulgate/22/6.json",
-    "sha": "551167ca7b4ea8eacb1b0a25446fc62914fbda3d"
+    "sha": "79216c556d33caf4e6946eeb0319e256be38a65b"
   },
   "7": {
     "translation": "Vulgata Clementina",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Canticum Canticorum 7",
     "url": "https://api.getbible.net/v2/vulgate/22/7.json",
-    "sha": "0b1939fa407f3b1585e82ab3fac2f39530304e9a"
+    "sha": "7699ddb63d48e65e5e0b1c541b4e066e2d013699"
   },
   "8": {
     "translation": "Vulgata Clementina",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Canticum Canticorum",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Canticum Canticorum 8",
     "url": "https://api.getbible.net/v2/vulgate/22/8.json",
-    "sha": "507fd674788dca95ab469b7d43c09db3d7cb395c"
+    "sha": "1bf9c3d9f8c4d92391cdc735fb9433f6c5713636"
   }
 }

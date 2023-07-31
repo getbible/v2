@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 31,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Obadiah 1",
     "url": "https://api.getbible.net/v2/wycliffe/31/1.json",
-    "sha": "8e4950ba9f2e8f6835e8a60f85c31f8b1318b96a"
+    "sha": "06ab23112a1a834b06ec1e8635e31f25da0e010e"
   }
 }

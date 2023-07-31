@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosaned",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Kolosaned 1",
     "url": "https://api.getbible.net/v2/breton/51/1.json",
-    "sha": "a3346451a8b44a9b77e807357c482096626eea81"
+    "sha": "58344841023837d80643602ea7cc83cfd71255c9"
   },
   "2": {
     "translation": "Gospels",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosaned",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Kolosaned 2",
     "url": "https://api.getbible.net/v2/breton/51/2.json",
-    "sha": "ac84e903f9e1f812305aea19cc87aae2f60cc41e"
+    "sha": "1ea6bf141adbdf736156e0cd8ec6f2db83788c14"
   },
   "3": {
     "translation": "Gospels",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosaned",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Kolosaned 3",
     "url": "https://api.getbible.net/v2/breton/51/3.json",
-    "sha": "56a8276aefa235a79aa2ba03c20deada536baa70"
+    "sha": "2e47a9b7dbca9b5507b25589aede459daf2b7eab"
   },
   "4": {
     "translation": "Gospels",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolosaned",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Kolosaned 4",
     "url": "https://api.getbible.net/v2/breton/51/4.json",
-    "sha": "6a29a1903f198b76d3e859389e58b427e681bd24"
+    "sha": "36b81b32b94ed2a8dff5994bd7637998bebbc5da"
   }
 }

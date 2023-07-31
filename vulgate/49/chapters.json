@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Ad Ephesios",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Ad Ephesios 1",
     "url": "https://api.getbible.net/v2/vulgate/49/1.json",
-    "sha": "9a06c1b35f524bc5a16f1607a6725e219466686e"
+    "sha": "78b0f7782ab9ad6aef2ee14921bb4efff615860e"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Ad Ephesios",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Ad Ephesios 2",
     "url": "https://api.getbible.net/v2/vulgate/49/2.json",
-    "sha": "abf4682d49ea554b3fc1c8fd18ee13f8add8dfff"
+    "sha": "ba8753d82cb6b063ba34037dcfb8a2055195caf7"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Ad Ephesios",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Ad Ephesios 3",
     "url": "https://api.getbible.net/v2/vulgate/49/3.json",
-    "sha": "015fe341e9135ca9bcee296a94ac0a5956c90892"
+    "sha": "a95d6c2606d6c3d45b408d705d8a1ae1380653fb"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Ad Ephesios",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Ad Ephesios 4",
     "url": "https://api.getbible.net/v2/vulgate/49/4.json",
-    "sha": "55cc80c1a325a9b0829d068619ce8dfedda925d0"
+    "sha": "522901aae9a7570ee71e73bc273e5db6839d4577"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Ad Ephesios",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Ad Ephesios 5",
     "url": "https://api.getbible.net/v2/vulgate/49/5.json",
-    "sha": "3bd4b21fc79e45f86578d64b2d896cf367baed99"
+    "sha": "2f2f366ae2e9b9ab93c1ba1724b44637da0429a1"
   },
   "6": {
     "translation": "Vulgata Clementina",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Ad Ephesios",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Ad Ephesios 6",
     "url": "https://api.getbible.net/v2/vulgate/49/6.json",
-    "sha": "9bc8ea8db5ff5f7b29678fdbc36ede7ad2dbbd40"
+    "sha": "573bb52bf7fe50290a5bfb46e0731b9cca8cae27"
   }
 }

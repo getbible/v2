@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 1",
     "url": "https://api.getbible.net/v2/coptic/52/1.json",
-    "sha": "b386026fa2bc626ae4dd3772ef2df45cf80cb927"
+    "sha": "f6b2a73a4a197c6f3b5d8c597e020a314349f03b"
   },
   "2": {
     "translation": "New Testament",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 2",
     "url": "https://api.getbible.net/v2/coptic/52/2.json",
-    "sha": "bde3a27c2e59a7593764df5219a1082a1e82396d"
+    "sha": "49fc7f17df1891e49ab04603075aa691ee45ba79"
   },
   "3": {
     "translation": "New Testament",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 3",
     "url": "https://api.getbible.net/v2/coptic/52/3.json",
-    "sha": "10e476bcdf9760fff8c24b165e4e69b08172ed8f"
+    "sha": "1073c2ebda883296c40eae6361c6a2a579a09124"
   },
   "4": {
     "translation": "New Testament",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 4",
     "url": "https://api.getbible.net/v2/coptic/52/4.json",
-    "sha": "83a8a73cdec479723b72d14979d57156e5ef949f"
+    "sha": "18a90d84235074fd1ff2c9515181373bc1468e4b"
   },
   "5": {
     "translation": "New Testament",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 5",
     "url": "https://api.getbible.net/v2/coptic/52/5.json",
-    "sha": "0c03413dcbea9f3308909c351737e804bf9ed009"
+    "sha": "ae828ca887a82dd148b9a0eb689973195952f876"
   }
 }

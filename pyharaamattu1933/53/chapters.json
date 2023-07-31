@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Toinen tessalonikalaiskirje",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "Toinen tessalonikalaiskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/53/1.json",
-    "sha": "84c025842acce7c89fce4cbdcb389a02ef007fc4"
+    "sha": "1d725d00a2ec1f4cafec3634cb1a46c2c0110ec7"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Toinen tessalonikalaiskirje",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "Toinen tessalonikalaiskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/53/2.json",
-    "sha": "c6781f287ef8f45e7109c1164fb74bec4f6a4260"
+    "sha": "b2e1e7211d834e71fc531f1a9e932519f26a1428"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Toinen tessalonikalaiskirje",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "Toinen tessalonikalaiskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/53/3.json",
-    "sha": "cb1d67d54b15cd835e4ea864af7bff787dd60b0f"
+    "sha": "4ca1ff0013555edca328fd44ff0de0d3caae4406"
   }
 }

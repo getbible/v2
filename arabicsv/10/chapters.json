@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 1,
-    "name": "2 Samuel 1",
+    "name": "2 صموئيل 1",
     "url": "https://api.getbible.net/v2/arabicsv/10/1.json",
-    "sha": "0f15e58a12ca5d0723b829d358aca7bc88506fb7"
+    "sha": "cb762cedad46b20e1a2d66d00fc4400a5240156a"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 2,
-    "name": "2 Samuel 2",
+    "name": "2 صموئيل 2",
     "url": "https://api.getbible.net/v2/arabicsv/10/2.json",
-    "sha": "4b577b2cc7a2aedcc8ea80d084ca9d576980e104"
+    "sha": "f065501f43b75d7d2eb57fc18d30105259b0f363"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 3,
-    "name": "2 Samuel 3",
+    "name": "2 صموئيل 3",
     "url": "https://api.getbible.net/v2/arabicsv/10/3.json",
-    "sha": "1551df41782ddad7f25a7df88f21f86545fd87a9"
+    "sha": "730b492b8f1e905d5416ac74168627e0f47360be"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 4,
-    "name": "2 Samuel 4",
+    "name": "2 صموئيل 4",
     "url": "https://api.getbible.net/v2/arabicsv/10/4.json",
-    "sha": "0238e1ecc6fac19c3c0b71788f33853c0f85c5c7"
+    "sha": "a6b892a40f3959d3703e65ed53ddbcb4a15eba1b"
   },
   "5": {
     "translation": "Smith and Van Dyke",
@@ -63,11 +63,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 5,
-    "name": "2 Samuel 5",
+    "name": "2 صموئيل 5",
     "url": "https://api.getbible.net/v2/arabicsv/10/5.json",
-    "sha": "c28c20400bc1f68df5c44146ade7e7a8c36104c5"
+    "sha": "3720355c99cfbc963ecbdc0215da76d116e54cfe"
   },
   "6": {
     "translation": "Smith and Van Dyke",
@@ -77,11 +77,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 6,
-    "name": "2 Samuel 6",
+    "name": "2 صموئيل 6",
     "url": "https://api.getbible.net/v2/arabicsv/10/6.json",
-    "sha": "b82e612098029a89c554086f11c983e869f4a1ff"
+    "sha": "4ffeb4228bbfbbf949b9704339d8037aa1816aca"
   },
   "7": {
     "translation": "Smith and Van Dyke",
@@ -91,11 +91,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 7,
-    "name": "2 Samuel 7",
+    "name": "2 صموئيل 7",
     "url": "https://api.getbible.net/v2/arabicsv/10/7.json",
-    "sha": "a911d7ce1494f26967b51e06aedbe2e187db8bf9"
+    "sha": "127eb30c095e4a42bf61768d13bf50cd1d7d0878"
   },
   "8": {
     "translation": "Smith and Van Dyke",
@@ -105,11 +105,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 8,
-    "name": "2 Samuel 8",
+    "name": "2 صموئيل 8",
     "url": "https://api.getbible.net/v2/arabicsv/10/8.json",
-    "sha": "578a8b2dcef5450895cc4324cf92780ac7e28a8e"
+    "sha": "7e4067172ce4026271eb4e16b49899a52c16f8f2"
   },
   "9": {
     "translation": "Smith and Van Dyke",
@@ -119,11 +119,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 9,
-    "name": "2 Samuel 9",
+    "name": "2 صموئيل 9",
     "url": "https://api.getbible.net/v2/arabicsv/10/9.json",
-    "sha": "ba3e5884be22138fec7a7252a0614f25fdec2621"
+    "sha": "64cd5fb6301bda4fd82abaabad26cf3488378bb6"
   },
   "10": {
     "translation": "Smith and Van Dyke",
@@ -133,11 +133,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 10,
-    "name": "2 Samuel 10",
+    "name": "2 صموئيل 10",
     "url": "https://api.getbible.net/v2/arabicsv/10/10.json",
-    "sha": "43bfd500a1124daf75c2e93970bab9bc0e2fac7f"
+    "sha": "327081fa693ae0274152ce95e76f0ee57d3dbefa"
   },
   "11": {
     "translation": "Smith and Van Dyke",
@@ -147,11 +147,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 11,
-    "name": "2 Samuel 11",
+    "name": "2 صموئيل 11",
     "url": "https://api.getbible.net/v2/arabicsv/10/11.json",
-    "sha": "e0c8b6cc46e9aadfd746c19c75598e3b78aff698"
+    "sha": "2e12ef0a7bdad6b8d50fdc7976d86e65631b5385"
   },
   "12": {
     "translation": "Smith and Van Dyke",
@@ -161,11 +161,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 12,
-    "name": "2 Samuel 12",
+    "name": "2 صموئيل 12",
     "url": "https://api.getbible.net/v2/arabicsv/10/12.json",
-    "sha": "c5c23aa8c94e2579f91e633093a28923a59415d0"
+    "sha": "7319ec2adcce0e8a8c4316154b354b6230bce78e"
   },
   "13": {
     "translation": "Smith and Van Dyke",
@@ -175,11 +175,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 13,
-    "name": "2 Samuel 13",
+    "name": "2 صموئيل 13",
     "url": "https://api.getbible.net/v2/arabicsv/10/13.json",
-    "sha": "913f479dc10bc87dacede8b70ba40c2ce109e75e"
+    "sha": "25d38d91d9dfe36d4ca868413b7db81269770dba"
   },
   "14": {
     "translation": "Smith and Van Dyke",
@@ -189,11 +189,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 14,
-    "name": "2 Samuel 14",
+    "name": "2 صموئيل 14",
     "url": "https://api.getbible.net/v2/arabicsv/10/14.json",
-    "sha": "2ef2cb9acc00ef4a145c97c1efd745cada8f9d66"
+    "sha": "f1ca03d68a9712e47d191f4430909bbd57f240c5"
   },
   "15": {
     "translation": "Smith and Van Dyke",
@@ -203,11 +203,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 15,
-    "name": "2 Samuel 15",
+    "name": "2 صموئيل 15",
     "url": "https://api.getbible.net/v2/arabicsv/10/15.json",
-    "sha": "a0e2646042f04ff76d4c1ca66f545aa5231853f8"
+    "sha": "bc61a7c84daf69f92f50afac85d3d1e954592f97"
   },
   "16": {
     "translation": "Smith and Van Dyke",
@@ -217,11 +217,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 16,
-    "name": "2 Samuel 16",
+    "name": "2 صموئيل 16",
     "url": "https://api.getbible.net/v2/arabicsv/10/16.json",
-    "sha": "6eebe715ca2b99768fd3900d873ca464570780ad"
+    "sha": "3296acc3c51cb4814e33396d80d6e49e0e974c4e"
   },
   "17": {
     "translation": "Smith and Van Dyke",
@@ -231,11 +231,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 17,
-    "name": "2 Samuel 17",
+    "name": "2 صموئيل 17",
     "url": "https://api.getbible.net/v2/arabicsv/10/17.json",
-    "sha": "b83a58b4165db2da9742f18d1da90a968d8b7101"
+    "sha": "25b5cba8a6ddb226d947307da5697192c7aaf1f5"
   },
   "18": {
     "translation": "Smith and Van Dyke",
@@ -245,11 +245,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 18,
-    "name": "2 Samuel 18",
+    "name": "2 صموئيل 18",
     "url": "https://api.getbible.net/v2/arabicsv/10/18.json",
-    "sha": "49b68d8b0ab5e1acb360d87244d2d6bdd8f9063c"
+    "sha": "19a6c2596226c6169ddebd87ad7ae02fa0e35eff"
   },
   "19": {
     "translation": "Smith and Van Dyke",
@@ -259,11 +259,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 19,
-    "name": "2 Samuel 19",
+    "name": "2 صموئيل 19",
     "url": "https://api.getbible.net/v2/arabicsv/10/19.json",
-    "sha": "4eda46dbf8b966e29774963564723c5bf2b75f4e"
+    "sha": "7aea8a3762d3ae3be31f37beeff9a8f8aaacddea"
   },
   "20": {
     "translation": "Smith and Van Dyke",
@@ -273,11 +273,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 20,
-    "name": "2 Samuel 20",
+    "name": "2 صموئيل 20",
     "url": "https://api.getbible.net/v2/arabicsv/10/20.json",
-    "sha": "bcc9f34db27ba8105e308651379156a7ce97b0bd"
+    "sha": "2266f2acd50de73011cd6a6029e0434aaa9f88d6"
   },
   "21": {
     "translation": "Smith and Van Dyke",
@@ -287,11 +287,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 21,
-    "name": "2 Samuel 21",
+    "name": "2 صموئيل 21",
     "url": "https://api.getbible.net/v2/arabicsv/10/21.json",
-    "sha": "13d10414f72035cf0dacd7053bbe312d885507f6"
+    "sha": "cdc700298ab2dcc47190bfea577bf9e4caddfe97"
   },
   "22": {
     "translation": "Smith and Van Dyke",
@@ -301,11 +301,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 22,
-    "name": "2 Samuel 22",
+    "name": "2 صموئيل 22",
     "url": "https://api.getbible.net/v2/arabicsv/10/22.json",
-    "sha": "04296d021bb77c5bedb0272a13939de4fa88245f"
+    "sha": "3c3691b881b972008bf7b2e2b1cb79081830105f"
   },
   "23": {
     "translation": "Smith and Van Dyke",
@@ -315,11 +315,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 23,
-    "name": "2 Samuel 23",
+    "name": "2 صموئيل 23",
     "url": "https://api.getbible.net/v2/arabicsv/10/23.json",
-    "sha": "54e6cbc72e456896c35a3e22bb784f999935fc65"
+    "sha": "26a14f14f9d0213868d3f3caf4b62ff3e0a3a220"
   },
   "24": {
     "translation": "Smith and Van Dyke",
@@ -329,10 +329,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2 صموئيل",
     "chapter": 24,
-    "name": "2 Samuel 24",
+    "name": "2 صموئيل 24",
     "url": "https://api.getbible.net/v2/arabicsv/10/24.json",
-    "sha": "fb4bc28a5e0d1671aa91357f2002b9e6b3db09a4"
+    "sha": "9b38beb00c338517cd875d38e48b904e4dcad58a"
   }
 }

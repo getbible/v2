@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Kolossalaiskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/51/1.json",
-    "sha": "e477cac7eb432ac0db3fad8a10252443c3e9ed46"
+    "sha": "15c04f9eb72d64fb67ff5f1f083ef66d4ddf4816"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Kolossalaiskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/51/2.json",
-    "sha": "8895032499b4ec87497f8bc8b4ee97cb6e41ab44"
+    "sha": "0beb73060bdfbe1523486bdbe25604065cbc7213"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Kolossalaiskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/51/3.json",
-    "sha": "feca4f8b69c293bc34d11246a5c79996ff5135c2"
+    "sha": "195c478b9c92ace6758981b047eed026fdac7db6"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Kolossalaiskirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/51/4.json",
-    "sha": "08c0b36ac517a74edc48b08cc21ebaccc499a146"
+    "sha": "9fc7239476ccfdd216728589463e2a2266a47b0a"
   }
 }

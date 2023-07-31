@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Péter levele",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Péter levele 1",
     "url": "https://api.getbible.net/v2/karoli/60/1.json",
-    "sha": "de3160a1af34f2bdadbb4dac2d1165bbde2cd76c"
+    "sha": "285bbf8c7e8cb19f8d16259fa19ac2582e5ee337"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Péter levele",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Péter levele 2",
     "url": "https://api.getbible.net/v2/karoli/60/2.json",
-    "sha": "892bc9521d58635c2e44cfdc228c93b97dbbbf27"
+    "sha": "06006a91c6cd326a2328e433f4a7e78a1a898efc"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Péter levele",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Péter levele 3",
     "url": "https://api.getbible.net/v2/karoli/60/3.json",
-    "sha": "62d55b498ab16d3028bdb64cde8d0a60bfc3e9ff"
+    "sha": "e34e8919d9a525828ac0c7a266d7907a4e7145f1"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Péter levele",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Péter levele 4",
     "url": "https://api.getbible.net/v2/karoli/60/4.json",
-    "sha": "ac9b98b72f9ace5ba918f198256c8d4396edc477"
+    "sha": "3d7bea30baaa84470ebbfc67776409ea31775f6c"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Péter levele",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Péter levele 5",
     "url": "https://api.getbible.net/v2/karoli/60/5.json",
-    "sha": "d81dac1f80ee67a327094ec3c69c62ae9e858991"
+    "sha": "165e0eeab5ca1eb72da605eed361084f57e82f5b"
   }
 }

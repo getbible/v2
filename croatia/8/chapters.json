@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruta",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Ruta 1",
     "url": "https://api.getbible.net/v2/croatia/8/1.json",
-    "sha": "049987b8af3dd137c4114e02cc42c502aff4a126"
+    "sha": "d20b12886766a11136552c0370c4a6f891a80e26"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruta",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Ruta 2",
     "url": "https://api.getbible.net/v2/croatia/8/2.json",
-    "sha": "493af5587b8ad96bd624f823f83f9b9149c1145e"
+    "sha": "90193e86c7ab81caebd64a9461497e46409348cf"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruta",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Ruta 3",
     "url": "https://api.getbible.net/v2/croatia/8/3.json",
-    "sha": "414f913db1720060cb9cfa823af59a90ad306fa2"
+    "sha": "384135b88e16e38a2242cdc8c2ca4aadeabc5884"
   },
   "4": {
     "translation": "Croatian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruta",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Ruta 4",
     "url": "https://api.getbible.net/v2/croatia/8/4.json",
-    "sha": "b113a4bb00395f1839c278b504afee22eaef304e"
+    "sha": "1e16841340015fb5739e926a9d60c9915a411c39"
   }
 }

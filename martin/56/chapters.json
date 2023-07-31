@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tite",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tite 1",
     "url": "https://api.getbible.net/v2/martin/56/1.json",
-    "sha": "61056418b75544be4f10ba9afb8bf1af82bac1af"
+    "sha": "11dd60bd7a8705ecfb2a9f053682439d0a223f1d"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tite",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tite 2",
     "url": "https://api.getbible.net/v2/martin/56/2.json",
-    "sha": "d4a98ec64904e2892ac1eb159b91cdda1876fdfb"
+    "sha": "925c7489bef43c5e28e73dbb6ff9f4c36a195939"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tite",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tite 3",
     "url": "https://api.getbible.net/v2/martin/56/3.json",
-    "sha": "c8c9b75ad83ec37e89b683fbfaaea10ba26702aa"
+    "sha": "3054bee394549a44eee444b466023cec585666b1"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Iacov",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Iacov 1",
     "url": "https://api.getbible.net/v2/cornilescu/59/1.json",
-    "sha": "508e88a2b12b9877ca860d321033501f1cf8bcc1"
+    "sha": "875990bb07443575cf272a656f5219944988eee4"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Iacov",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Iacov 2",
     "url": "https://api.getbible.net/v2/cornilescu/59/2.json",
-    "sha": "4016e9f95f5c0e0e3919e09d4d00593b58a68869"
+    "sha": "436c29062334cfed7d11d5b529a1bb107db2af6e"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Iacov",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Iacov 3",
     "url": "https://api.getbible.net/v2/cornilescu/59/3.json",
-    "sha": "8e469494d91ff86eb9b4e41bce3de8c220770c55"
+    "sha": "3913056dbd6ae8f8cba98e69fdb6f1aa1684a4ae"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Iacov",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Iacov 4",
     "url": "https://api.getbible.net/v2/cornilescu/59/4.json",
-    "sha": "6131673663775facf022dac4f1cc3e6b40561aed"
+    "sha": "a026fe38adae019c31a1868b12b673cc23db0396"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Iacov",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Iacov 5",
     "url": "https://api.getbible.net/v2/cornilescu/59/5.json",
-    "sha": "3a702539ad342565163ab9b2c34e0db31c719fa3"
+    "sha": "46a7a70367a4e42f12d309d3bcc16c75dcae5209"
   }
 }

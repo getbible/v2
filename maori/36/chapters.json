@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Horopīa",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Horopīa 1",
     "url": "https://api.getbible.net/v2/maori/36/1.json",
-    "sha": "b2dad647fe99e25929ab29c50da4c7a17076603f"
+    "sha": "54ae2679cd32ac30b8742a10fcd96711ac9735aa"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Horopīa",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Horopīa 2",
     "url": "https://api.getbible.net/v2/maori/36/2.json",
-    "sha": "2f199eb3822fb7b302c68bd08329632e187d2e4a"
+    "sha": "edeb3effd922f59476eb0fef99daf419103ad3fb"
   },
   "3": {
     "translation": "Maori",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Horopīa",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Horopīa 3",
     "url": "https://api.getbible.net/v2/maori/36/3.json",
-    "sha": "2ebb85c21cd26c647491b3ddf9b3a30fea4b1a67"
+    "sha": "36a0d64ec71c5b3371f36cd5febb9069a9f17cb4"
   }
 }

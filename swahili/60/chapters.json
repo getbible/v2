@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petro",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Petro 1",
     "url": "https://api.getbible.net/v2/swahili/60/1.json",
-    "sha": "f139e0f2de48c454f4e76c81a591a9ac95078d3d"
+    "sha": "e0a0399dc8f53b20ba7b038a2955aef7287823ad"
   },
   "2": {
     "translation": "Swahili",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petro",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Petro 2",
     "url": "https://api.getbible.net/v2/swahili/60/2.json",
-    "sha": "5228e962d0fb49e954cbeb38dc0cc58519f77b7a"
+    "sha": "2035b9ce0fe2ed41164bde79fc1b87e9af6b95f2"
   },
   "3": {
     "translation": "Swahili",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petro",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Petro 3",
     "url": "https://api.getbible.net/v2/swahili/60/3.json",
-    "sha": "5d3c808d04a702483ff84cea8a65f16644d2c2ad"
+    "sha": "e9d4ded31f7dad71d2e9d687ad3d93ef9aa314a8"
   },
   "4": {
     "translation": "Swahili",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petro",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Petro 4",
     "url": "https://api.getbible.net/v2/swahili/60/4.json",
-    "sha": "2ebf6ba9e62a6badb874335f40106a753f38d401"
+    "sha": "5a5ac800c83b4410e0241bce3a3a217cffe364be"
   },
   "5": {
     "translation": "Swahili",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petro",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Petro 5",
     "url": "https://api.getbible.net/v2/swahili/60/5.json",
-    "sha": "a678dee40f85c435ec3be3baaeaf8addb4e60900"
+    "sha": "b8840f15b68a10698f93abca802b84cad8d6d7e9"
   }
 }

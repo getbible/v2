@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timothée 1",
     "url": "https://api.getbible.net/v2/martin/55/1.json",
-    "sha": "a217b89d8964caf89ba9ee4c9c22d28632d3819f"
+    "sha": "b279b7b2b2d83a6fff1a9aea5d299a7da169c243"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timothée 2",
     "url": "https://api.getbible.net/v2/martin/55/2.json",
-    "sha": "ff0aaa7044d4587faa58375bd316b9136380bdaf"
+    "sha": "9f6767e5696569fe21c3946240bea959b04a199e"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timothée 3",
     "url": "https://api.getbible.net/v2/martin/55/3.json",
-    "sha": "fd3267d1f0bdd42d58ca0c169ffb59520b1bbfe6"
+    "sha": "52f41a46d42dd7a962e5d36f4e70bc2e41d4d89c"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timothée 4",
     "url": "https://api.getbible.net/v2/martin/55/4.json",
-    "sha": "c389cc61f7d0ec1e48a5697d48b1c8222c958cc9"
+    "sha": "0f4a02a8136e08ee04ccde9278365ce3fc62759c"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Joonan kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/32/1.json",
-    "sha": "161c36218e6bd87dbe766cf619c9f9d3132ce4ea"
+    "sha": "ce8efc3d505e7bf911cace9b0903ff5ffdbb601b"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Joonan kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/32/2.json",
-    "sha": "4791725123fec6a54b60a0098fc402675f87096b"
+    "sha": "80ba410563006e0200197d943b9c5ddda75e81bc"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Joonan kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/32/3.json",
-    "sha": "fdce1e100ef8923ca1d104f6fb1b4560f48f742d"
+    "sha": "284ac11f9d13ff27c45fc3e9be41cee3e54e5bf7"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Joonan kirja 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/32/4.json",
-    "sha": "4bfdedd2561d001fc4c0218d2bba7f5b97b28ddc"
+    "sha": "0b3b1d71a6c719140de2a82e3d1cb1ced3b2becf"
   }
 }

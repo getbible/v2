@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Tužaljke",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Tužaljke 1",
     "url": "https://api.getbible.net/v2/croatia/25/1.json",
-    "sha": "dc14cd9cfd14d977f2b307eeefca6940115210f3"
+    "sha": "7ac68ae4a7dad98fc3b90cfc4032edb322079f8c"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Tužaljke",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Tužaljke 2",
     "url": "https://api.getbible.net/v2/croatia/25/2.json",
-    "sha": "5ee83333a590ed9269328723d8ac20c8c4d29e39"
+    "sha": "9bee00c7c2354a02e940514fe5ab8269e84809fa"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Tužaljke",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Tužaljke 3",
     "url": "https://api.getbible.net/v2/croatia/25/3.json",
-    "sha": "cfc721931dba8617497bdf94500871355349a32c"
+    "sha": "3fdb347a6b4c3ec4264b9581a80f7f08feec6a47"
   },
   "4": {
     "translation": "Croatian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Tužaljke",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Tužaljke 4",
     "url": "https://api.getbible.net/v2/croatia/25/4.json",
-    "sha": "ddb9bfd7a3292dae7edbbdd3f833c47c058e02d1"
+    "sha": "0d53a43283611c21f6c1bb316a51c9cdfd90f4c0"
   },
   "5": {
     "translation": "Croatian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Tužaljke",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Tužaljke 5",
     "url": "https://api.getbible.net/v2/croatia/25/5.json",
-    "sha": "2c42292758a27ab6dd0c1116e1254be7aa1bd023"
+    "sha": "a62eba6dd2cef34464f562fd3bce8b31eb82bfea"
   }
 }

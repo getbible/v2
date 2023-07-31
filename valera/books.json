@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Génesis",
     "url": "https://api.getbible.net/v2/valera/1.json",
-    "sha": "4f95b579bea77ca6c48b80052fec358a9d84f339"
+    "sha": "1b72b7bce385b2c03a423d82f6a9c12ade77e3fd"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Éxodo",
     "url": "https://api.getbible.net/v2/valera/2.json",
-    "sha": "fe050ebb531a08339fda6e9f388f668c7f850836"
+    "sha": "1e163ff6c756e0984303b3158107757711c325c5"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levítico",
     "url": "https://api.getbible.net/v2/valera/3.json",
-    "sha": "8db2ef7453a9eb0edc813b913347f278a4309c9a"
+    "sha": "7a48553accbfc4b81e39be2dab6af1950f459bda"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Números",
     "url": "https://api.getbible.net/v2/valera/4.json",
-    "sha": "8b88707b08c500af792353e0567fc093f4dcaf4e"
+    "sha": "418f14e0dd8ec1724158083fc6daff29c8c7bff7"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomio",
     "url": "https://api.getbible.net/v2/valera/5.json",
-    "sha": "aea5092510e1de2a8c0354b799e7aa9a6117eaab"
+    "sha": "42d12a9c927e43ac96b07baa826273d77b56786b"
   },
   "6": {
     "translation": "Reina Valera (1909)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Josué",
     "url": "https://api.getbible.net/v2/valera/6.json",
-    "sha": "4190f31d1de55627efdff92f1b337250dbe81887"
+    "sha": "0fcd4b73341ccd97ee6d820f141d7814377ad023"
   },
   "7": {
     "translation": "Reina Valera (1909)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Jueces",
     "url": "https://api.getbible.net/v2/valera/7.json",
-    "sha": "31eb49c918751f6c5b6c30b3732be05a9181cea2"
+    "sha": "e17a5a4f2db935f4ab18c9fe088dffe4a78b35f6"
   },
   "8": {
     "translation": "Reina Valera (1909)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rut",
     "url": "https://api.getbible.net/v2/valera/8.json",
-    "sha": "f3db48782f975de98ad6c9c7d1b84591c73023f8"
+    "sha": "15a02dbf07453aefbc6f7fb9a5d56b7ed0b0f9eb"
   },
   "9": {
     "translation": "Reina Valera (1909)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Reyes",
     "url": "https://api.getbible.net/v2/valera/11.json",
-    "sha": "40e1cf2114ae6bf5c3f6b75e315cca02f15fd05d"
+    "sha": "8ea2f9ce9ba9d2769d27aa14bd533aeb4dc4daa7"
   },
   "12": {
     "translation": "Reina Valera (1909)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Reyes",
     "url": "https://api.getbible.net/v2/valera/12.json",
-    "sha": "fe8c8a2826cabe52d8a45d56bd7fcac7fc0be264"
+    "sha": "99560169a4e78b47a2b4edc66196f224238ab64a"
   },
   "13": {
     "translation": "Reina Valera (1909)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Crónicas",
     "url": "https://api.getbible.net/v2/valera/13.json",
-    "sha": "6967c4dfa30b00ea0789456719fc0e1da23a1b7d"
+    "sha": "b5ccea659d61ee121dede7dec7ae81cff7d5b353"
   },
   "14": {
     "translation": "Reina Valera (1909)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Crónicas",
     "url": "https://api.getbible.net/v2/valera/14.json",
-    "sha": "ca6cd84794c05ec6096efe520e7176303804dd85"
+    "sha": "552e5aca35544acab61051b18dfdf806dfd0fe49"
   },
   "15": {
     "translation": "Reina Valera (1909)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Esdras",
     "url": "https://api.getbible.net/v2/valera/15.json",
-    "sha": "da3570432d046c193a974918376766d9696e71e5"
+    "sha": "d41dacdac093500b5fa740e6d87d4ce41b8d6736"
   },
   "16": {
     "translation": "Reina Valera (1909)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemías",
     "url": "https://api.getbible.net/v2/valera/16.json",
-    "sha": "77ea7185f00d95f086dc661d5106cd608315d045"
+    "sha": "844b3296e17f39284d96be280f48111e468c469c"
   },
   "17": {
     "translation": "Reina Valera (1909)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/valera/17.json",
-    "sha": "93c42e62a58203b2ab6c0d514beedc01ba010440"
+    "sha": "ac37c6178119f8b3afe02e30d32cea76e55576d0"
   },
   "18": {
     "translation": "Reina Valera (1909)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Salmos",
     "url": "https://api.getbible.net/v2/valera/19.json",
-    "sha": "071301f9b9a11ba7dd83478629a20d867ea31af6"
+    "sha": "346f68758ef9100cdfd96788582a914772dbcf0b"
   },
   "20": {
     "translation": "Reina Valera (1909)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Proverbios",
     "url": "https://api.getbible.net/v2/valera/20.json",
-    "sha": "7673957d65bcd70d12039a7a72dc29e9029640f9"
+    "sha": "83d82185fc722c3c61279513368cb7fd94ebc34c"
   },
   "21": {
     "translation": "Reina Valera (1909)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Eclesiastés",
     "url": "https://api.getbible.net/v2/valera/21.json",
-    "sha": "e64e2ea5e61ff8d098a20f5f78d293c209fbf416"
+    "sha": "623d751217329ddd4c7478cda565f805baf1a2f3"
   },
   "22": {
     "translation": "Reina Valera (1909)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Cantares",
     "url": "https://api.getbible.net/v2/valera/22.json",
-    "sha": "2c114652196bbfa4dbee053c0ed76b7720850016"
+    "sha": "42c6ae31788b53ecb6230d69b2db1f735d4a52ed"
   },
   "23": {
     "translation": "Reina Valera (1909)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Isaías",
     "url": "https://api.getbible.net/v2/valera/23.json",
-    "sha": "57c891c682422c6cc251d750b9b2e80e018c97d9"
+    "sha": "8027cfb0502c8979066236e419d4594396099dbd"
   },
   "24": {
     "translation": "Reina Valera (1909)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremías",
     "url": "https://api.getbible.net/v2/valera/24.json",
-    "sha": "fa7ffab994369d712217d697912adc53386eb7de"
+    "sha": "9e4ed7d0ab09c934b4182ba62c20fad638472672"
   },
   "25": {
     "translation": "Reina Valera (1909)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Lamentaciones",
     "url": "https://api.getbible.net/v2/valera/25.json",
-    "sha": "0fc2742b4ef99f1f7c0c6286d55295939bf92fcb"
+    "sha": "c808b55b6619ee63da6333e1975b53a4c740056b"
   },
   "26": {
     "translation": "Reina Valera (1909)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezequiel",
     "url": "https://api.getbible.net/v2/valera/26.json",
-    "sha": "eba0b383015dc58b3545ae4e8c5736300af8aa45"
+    "sha": "b1556adae42dbe56462a554070a6180c0a054de5"
   },
   "27": {
     "translation": "Reina Valera (1909)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Oseas",
     "url": "https://api.getbible.net/v2/valera/28.json",
-    "sha": "0c2de526a7f2f2c1283a8d437405ba9c501f529c"
+    "sha": "b7a4cd2d629a5691325edf1bf79d858833f29b63"
   },
   "29": {
     "translation": "Reina Valera (1909)",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Amós",
     "url": "https://api.getbible.net/v2/valera/30.json",
-    "sha": "8565c4c67e48537b5d79dd596a0ef34a2acf70f5"
+    "sha": "02d8a7b16a06307ce391d9340dc689ab213e9cef"
   },
   "31": {
     "translation": "Reina Valera (1909)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Abdías",
     "url": "https://api.getbible.net/v2/valera/31.json",
-    "sha": "c3caae043b6285891995a819b1888836f8a123fa"
+    "sha": "f623641d8e4f0b37ad46266a165949b22229b23d"
   },
   "32": {
     "translation": "Reina Valera (1909)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jonás",
     "url": "https://api.getbible.net/v2/valera/32.json",
-    "sha": "b6da5eade06914cadd9dd89ff9c4290c47fbfe77"
+    "sha": "d3e20a00ea8f757a4ec57a53f62d89d42290042e"
   },
   "33": {
     "translation": "Reina Valera (1909)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Miqueas",
     "url": "https://api.getbible.net/v2/valera/33.json",
-    "sha": "3b64f6353084076e11810a973545bf0e31a98100"
+    "sha": "5a0a8e92a83376eca17e2cb8cdc30008524be516"
   },
   "34": {
     "translation": "Reina Valera (1909)",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Nahúm",
     "url": "https://api.getbible.net/v2/valera/34.json",
-    "sha": "5ff206e254f903138159246f3b6eccbef0a134ee"
+    "sha": "84b177f7a45f36c0c1cc2a13fd22347c15ae46a4"
   },
   "35": {
     "translation": "Reina Valera (1909)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habacuc",
     "url": "https://api.getbible.net/v2/valera/35.json",
-    "sha": "fd87ad60ee871086949262d68b40d0e3e62d215b"
+    "sha": "f76be8120a4035089e80bea25eb705ca1cd6c85f"
   },
   "36": {
     "translation": "Reina Valera (1909)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sofonías",
     "url": "https://api.getbible.net/v2/valera/36.json",
-    "sha": "ace7923f1d0f3c0a0b9050316d9b9d6b6d113643"
+    "sha": "605dd9dc52c1bf513f2ea675f271872a2756b4b9"
   },
   "37": {
     "translation": "Reina Valera (1909)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Hageo",
     "url": "https://api.getbible.net/v2/valera/37.json",
-    "sha": "9f5adb796d7a290cabfb939a0265281b0a8ce3ee"
+    "sha": "ee5fbd75c38357bef39d20e0723702d4706e14d2"
   },
   "38": {
     "translation": "Reina Valera (1909)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacarías",
     "url": "https://api.getbible.net/v2/valera/38.json",
-    "sha": "9ad94cdeaf0c56bcaedb6aedeb54e82fdef8a128"
+    "sha": "aa8d1410c2250661e7cebb12af1f54237af8dc4f"
   },
   "39": {
     "translation": "Reina Valera (1909)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malaquías",
     "url": "https://api.getbible.net/v2/valera/39.json",
-    "sha": "b115e5eed07b58eb0bfe400d3d037eace55ed969"
+    "sha": "a067b3a355cff2e2bfc4446799180d3e69711c94"
   },
   "40": {
     "translation": "Reina Valera (1909)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Mateo",
     "url": "https://api.getbible.net/v2/valera/40.json",
-    "sha": "38b79deabcb366ea9a5b8201c7f1f6e4363adfa3"
+    "sha": "f1b29b54209bb19876721ce375d07a0337bedb65"
   },
   "41": {
     "translation": "Reina Valera (1909)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marcos",
     "url": "https://api.getbible.net/v2/valera/41.json",
-    "sha": "2f17b3546fdbf9c18a10463e11fbaa6e6370a542"
+    "sha": "796cba15d7dff577014d3b6004b72df8dadc0c45"
   },
   "42": {
     "translation": "Reina Valera (1909)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lucas",
     "url": "https://api.getbible.net/v2/valera/42.json",
-    "sha": "548c084664e0c9da6f5700be6fc2650a67bab7f1"
+    "sha": "9325dc3fbd76575980d8667439e3222ee35b0414"
   },
   "43": {
     "translation": "Reina Valera (1909)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Juan",
     "url": "https://api.getbible.net/v2/valera/43.json",
-    "sha": "bcf3af4975f32333d280c9c00baac86f141c85f5"
+    "sha": "66512dbd394ab6c0df201e4b53ea09376c3ba921"
   },
   "44": {
     "translation": "Reina Valera (1909)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Hechos",
     "url": "https://api.getbible.net/v2/valera/44.json",
-    "sha": "c3c8fdf6fb839e7267caffe798e13ce09447c78e"
+    "sha": "7b14abea31d49af37186a1327e72343750fdd67c"
   },
   "45": {
     "translation": "Reina Valera (1909)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romanos",
     "url": "https://api.getbible.net/v2/valera/45.json",
-    "sha": "0e18abcfd4145c3db99595f076a7e215c1f92c74"
+    "sha": "4e88aa3d3bc08c2e70364687882642e32bbb6531"
   },
   "46": {
     "translation": "Reina Valera (1909)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Corintios",
     "url": "https://api.getbible.net/v2/valera/46.json",
-    "sha": "015a8f2e8c30066274f8cebd117606439f239595"
+    "sha": "c29273910544ae5031019155ec68226183ba5efd"
   },
   "47": {
     "translation": "Reina Valera (1909)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Corintios",
     "url": "https://api.getbible.net/v2/valera/47.json",
-    "sha": "0440bbdcfd374eb93b1e1358f60c6d70f68d0fb5"
+    "sha": "47ab56ea4f822a0341f9c05719fddf91713fd0b1"
   },
   "48": {
     "translation": "Reina Valera (1909)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Gálatas",
     "url": "https://api.getbible.net/v2/valera/48.json",
-    "sha": "a23591adb35e04a99fa73b36ecbb37de44b6a603"
+    "sha": "7fc54aa28e84029716c14ebffa40e5e6d4f9ba67"
   },
   "49": {
     "translation": "Reina Valera (1909)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efesios",
     "url": "https://api.getbible.net/v2/valera/49.json",
-    "sha": "6d009af026e71b2aa73c49b15ebea87e9aa8ccf0"
+    "sha": "11ce48034e6550739e581af3fbe490cb9a32cb68"
   },
   "50": {
     "translation": "Reina Valera (1909)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipenses",
     "url": "https://api.getbible.net/v2/valera/50.json",
-    "sha": "2dd97881b2d4979042a6e740d38758f62f2313e7"
+    "sha": "9aa96a53e0bfbc432fedfadbd3312ced5375e82e"
   },
   "51": {
     "translation": "Reina Valera (1909)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Colosenses",
     "url": "https://api.getbible.net/v2/valera/51.json",
-    "sha": "4a85fc4ed33cb2c3e0c39775404a92c0851ebb1f"
+    "sha": "d347acd0c89268932800340d11dba0e9dd59885f"
   },
   "52": {
     "translation": "Reina Valera (1909)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tesalonicenses",
     "url": "https://api.getbible.net/v2/valera/52.json",
-    "sha": "4a8a15325b578b11f59f423bfbe6396e01a4d733"
+    "sha": "5dcb4935fddc9d84eba3bb4126b6d9793cc90dd4"
   },
   "53": {
     "translation": "Reina Valera (1909)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tesalonicenses",
     "url": "https://api.getbible.net/v2/valera/53.json",
-    "sha": "32dceaae7b6358324268ee90e21b34091dfffcab"
+    "sha": "dad6ab2810a2ea712e3bdac17f9d980705397863"
   },
   "54": {
     "translation": "Reina Valera (1909)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteo",
     "url": "https://api.getbible.net/v2/valera/54.json",
-    "sha": "a3b4a1af43a50d40c246baf3c0c2bbd1176304f2"
+    "sha": "07bbeb855eed27d909d32e187bd4281931be0fc0"
   },
   "55": {
     "translation": "Reina Valera (1909)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteo",
     "url": "https://api.getbible.net/v2/valera/55.json",
-    "sha": "e0bdf50834fffa71b33488ef798fa2388417cb20"
+    "sha": "4dbede612fa1eb851ebf28e04b875855f518f769"
   },
   "56": {
     "translation": "Reina Valera (1909)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tito",
     "url": "https://api.getbible.net/v2/valera/56.json",
-    "sha": "9c9e14e1c34dedc565755af8f4b09b51990c4e85"
+    "sha": "0bde684889637f7d920a2c52367f6c2f69bc80b9"
   },
   "57": {
     "translation": "Reina Valera (1909)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemón",
     "url": "https://api.getbible.net/v2/valera/57.json",
-    "sha": "c2a823f3effb76d6b31d6e1e6ad9a49c4188acef"
+    "sha": "1f6c2866acd44dd5237dd817761904dcd66cb671"
   },
   "58": {
     "translation": "Reina Valera (1909)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebreos",
     "url": "https://api.getbible.net/v2/valera/58.json",
-    "sha": "6afc5e8e4651201ef40ee86b54e286b8e4e91a48"
+    "sha": "e620f6c803de7b44f35e2738c24b84503da8eb42"
   },
   "59": {
     "translation": "Reina Valera (1909)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Santiago",
     "url": "https://api.getbible.net/v2/valera/59.json",
-    "sha": "10a497916e0824ef555338a964c63cbc05496f11"
+    "sha": "c56105629b274915192264978ce2c96371ccb260"
   },
   "60": {
     "translation": "Reina Valera (1909)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Pedro",
     "url": "https://api.getbible.net/v2/valera/60.json",
-    "sha": "f9ee5959482c12e2b3785aaef60052f19160949a"
+    "sha": "2bc4a9986ae9ed9862858c8d1bb4f3057e6f8696"
   },
   "61": {
     "translation": "Reina Valera (1909)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Pedro",
     "url": "https://api.getbible.net/v2/valera/61.json",
-    "sha": "b51d2ddb284dc287ac77d4d2b89de25d67ffa0e8"
+    "sha": "a3cc00284b1b0c2a6ff1d2bb4880da44471f74f3"
   },
   "62": {
     "translation": "Reina Valera (1909)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Juan",
     "url": "https://api.getbible.net/v2/valera/62.json",
-    "sha": "b91fad6fa545b11bc8362508a08c7c86156d2ec7"
+    "sha": "08b75ce59121c0960aa1871c6e2dc555a510625c"
   },
   "63": {
     "translation": "Reina Valera (1909)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Juan",
     "url": "https://api.getbible.net/v2/valera/63.json",
-    "sha": "2f9cda936b976925226fe546e1f9a65dc245ff11"
+    "sha": "075beb5aa59c9c2a36a3bc4db5efeb9aac4c1140"
   },
   "64": {
     "translation": "Reina Valera (1909)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Juan",
     "url": "https://api.getbible.net/v2/valera/64.json",
-    "sha": "2855312b1525f91cee5d9368bdc967c2372bb905"
+    "sha": "d000c73d4665b1b53525d4ab07e66be21aa17ef5"
   },
   "65": {
     "translation": "Reina Valera (1909)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judas",
     "url": "https://api.getbible.net/v2/valera/65.json",
-    "sha": "b9de6895f2811714def7ef58b153ae07cee4f189"
+    "sha": "0384283d5b5c59c5b96dacd0f0bbfa66f9eb7b30"
   },
   "66": {
     "translation": "Reina Valera (1909)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Apocalipsis",
     "url": "https://api.getbible.net/v2/valera/66.json",
-    "sha": "bfc5cdd90f3e342631779dafa702cf4240561945"
+    "sha": "2e2c27bb4a7452eca865f74923bdc5cae8f5185d"
   }
 }

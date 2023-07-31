@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "עָמוֹס 1",
     "url": "https://api.getbible.net/v2/modernhebrew/30/1.json",
-    "sha": "7c7cf8a583069508bab562abfd4f448a54a349b5"
+    "sha": "ed75496a3c45746722124828e6da6b1c2aff7e80"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "עָמוֹס 2",
     "url": "https://api.getbible.net/v2/modernhebrew/30/2.json",
-    "sha": "dc1ece77af4088f02965f2e3bf410c501b4d7540"
+    "sha": "f325ab187a0e3694a503b71cf13b023e02e0c225"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "עָמוֹס 3",
     "url": "https://api.getbible.net/v2/modernhebrew/30/3.json",
-    "sha": "996ab93cc5abec48b31e2818904fb224061ff604"
+    "sha": "93b165ed1cf00c81ec96015540cffd723eaa1af9"
   },
   "4": {
     "translation": "Hebrew Modern",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "עָמוֹס 4",
     "url": "https://api.getbible.net/v2/modernhebrew/30/4.json",
-    "sha": "3424f157d647972560e05b79182719d4a4850048"
+    "sha": "9da5d365e7cc8e75e76617474d50af4f44977b03"
   },
   "5": {
     "translation": "Hebrew Modern",
@@ -63,11 +63,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "עָמוֹס 5",
     "url": "https://api.getbible.net/v2/modernhebrew/30/5.json",
-    "sha": "056d691efb2b69e609c1dac82df2200f94dccb69"
+    "sha": "920b8eb1df7bcdd242e652892bf35f6b4582200c"
   },
   "6": {
     "translation": "Hebrew Modern",
@@ -77,11 +77,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "עָמוֹס 6",
     "url": "https://api.getbible.net/v2/modernhebrew/30/6.json",
-    "sha": "82fc33539804145acfd9f3ed80916e04c7323ddf"
+    "sha": "0e0522636abc5760c14b606eb628371f5a45205f"
   },
   "7": {
     "translation": "Hebrew Modern",
@@ -91,11 +91,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "עָמוֹס 7",
     "url": "https://api.getbible.net/v2/modernhebrew/30/7.json",
-    "sha": "38bf8f4c6b33e1df8fe9189831e882929790d373"
+    "sha": "c36e342aff20b6981001b17744cd38f1911cdd4c"
   },
   "8": {
     "translation": "Hebrew Modern",
@@ -105,11 +105,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "עָמוֹס 8",
     "url": "https://api.getbible.net/v2/modernhebrew/30/8.json",
-    "sha": "eccb14436cf2e393255ac4a3b5a4d294a2fb1842"
+    "sha": "3622531d1c69325dd3e836b8a1ace897c00d40ff"
   },
   "9": {
     "translation": "Hebrew Modern",
@@ -119,10 +119,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "עָמוֹס",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "עָמוֹס 9",
     "url": "https://api.getbible.net/v2/modernhebrew/30/9.json",
-    "sha": "dc4e7de0f4313260b3eb56afd1758cead3a18acb"
+    "sha": "da4ce047e2097fe543371f565210c659204b6d0e"
   }
 }

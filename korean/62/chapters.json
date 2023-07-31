@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "요한일서",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "요한일서 1",
     "url": "https://api.getbible.net/v2/korean/62/1.json",
-    "sha": "e22b72ed8415c3b67f316df8378b334c0bfdfb90"
+    "sha": "ce3d7bac4435f75cbec508183e1bb4bfb036b02f"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "요한일서",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "요한일서 2",
     "url": "https://api.getbible.net/v2/korean/62/2.json",
-    "sha": "b3669815bdc337c8f2b971e92950a4c57e213fa9"
+    "sha": "bb3f4c5f96a943d93863d7957653dad7053c625a"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "요한일서",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "요한일서 3",
     "url": "https://api.getbible.net/v2/korean/62/3.json",
-    "sha": "34c169e3aeb840be89bc8d5ab71a0514507fad0d"
+    "sha": "9ecf896a1a3cc29bef002b8c0b46a0ff873888aa"
   },
   "4": {
     "translation": "Korean",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "요한일서",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "요한일서 4",
     "url": "https://api.getbible.net/v2/korean/62/4.json",
-    "sha": "8afd45b49a070cdc8395e6e392333f962bbcc5f1"
+    "sha": "dbd16a6e81e3db7722bec26ea6419fc7a9bd343b"
   },
   "5": {
     "translation": "Korean",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "요한일서",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "요한일서 5",
     "url": "https://api.getbible.net/v2/korean/62/5.json",
-    "sha": "867305acae4b58b959d014383bfab1d6547c4193"
+    "sha": "1ce291bf149cfec4a3b7992b460b1114962359ac"
   }
 }

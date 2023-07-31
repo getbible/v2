@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tito 1",
     "url": "https://api.getbible.net/v2/rv1858/56/1.json",
-    "sha": "35c1ff949e54edd01a8bb1e77e5292fbe3f987fb"
+    "sha": "f714a4c6c4f1c315618f91b0af1cbd78b83e3455"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tito 2",
     "url": "https://api.getbible.net/v2/rv1858/56/2.json",
-    "sha": "84b333d1a63af317005d1423768177f16b0fe41b"
+    "sha": "aab3271c180c88198c9d5f15e6b83925bb9513bb"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tito 3",
     "url": "https://api.getbible.net/v2/rv1858/56/3.json",
-    "sha": "fa10566b1fd8994c216b7ddf13f94958e14354d6"
+    "sha": "a71726e8d80ed0714cbbbb57a12083f0d8b77b3a"
   }
 }

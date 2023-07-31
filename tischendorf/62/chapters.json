@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "Ιωάννου Α' 1",
     "url": "https://api.getbible.net/v2/tischendorf/62/1.json",
-    "sha": "5109190b72908e3a3fca8c2eb4153dec6e38cc28"
+    "sha": "6643a529094a82e0daf6ec0f5ff81ca61a7e7b75"
   },
   "2": {
     "translation": "NT Tischendorf 8th Ed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "Ιωάννου Α' 2",
     "url": "https://api.getbible.net/v2/tischendorf/62/2.json",
-    "sha": "d241b6dd4824eba97813197def793cdf2e5d265d"
+    "sha": "5a9f651d159dcb8d917ee7594ca2385cce739ae6"
   },
   "3": {
     "translation": "NT Tischendorf 8th Ed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "Ιωάννου Α' 3",
     "url": "https://api.getbible.net/v2/tischendorf/62/3.json",
-    "sha": "23ae8a5ad7ba24cfc656c40f74a391df11c60493"
+    "sha": "74793fba892147cf795b6e37654eb855b4f13e86"
   },
   "4": {
     "translation": "NT Tischendorf 8th Ed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "Ιωάννου Α' 4",
     "url": "https://api.getbible.net/v2/tischendorf/62/4.json",
-    "sha": "1d15a52db7f3410341eceb38e64e1d224849ce1d"
+    "sha": "f4d217bc8fc25d6d09612408a3e73a7c1b952d92"
   },
   "5": {
     "translation": "NT Tischendorf 8th Ed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "Ιωάννου Α' 5",
     "url": "https://api.getbible.net/v2/tischendorf/62/5.json",
-    "sha": "fcb816c220f92ca009d50ee69f652b444e39a7ab"
+    "sha": "63a3c5d7d005f301b87a3c2d2edb2d91cba08718"
   }
 }

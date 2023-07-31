@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joël 1",
     "url": "https://api.getbible.net/v2/statenvertaling/29/1.json",
-    "sha": "68d0696a315766da32c25b4011e78ad491ab7ed8"
+    "sha": "9a26b8f6ec4b4d799bd5fab4f6f088248d63f600"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joël 2",
     "url": "https://api.getbible.net/v2/statenvertaling/29/2.json",
-    "sha": "9748b25049083614c5e0c60a149641049cf76ba9"
+    "sha": "21629e4458e54262d16f97fb6ee32b4167f22aa8"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joël 3",
     "url": "https://api.getbible.net/v2/statenvertaling/29/3.json",
-    "sha": "16f015de42da2b0043867fa377688ec559bd0691"
+    "sha": "26621b0564a68e006f5110e603c1188c19ffd3cc"
   }
 }

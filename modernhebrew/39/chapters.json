@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "מַלְאָכִי",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "מַלְאָכִי 1",
     "url": "https://api.getbible.net/v2/modernhebrew/39/1.json",
-    "sha": "325ff33f9acb9d52c4d606b2b1ed162e52e23e4f"
+    "sha": "36042d52b9c4676bef7677c3b7f9a2683c1a0aae"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "מַלְאָכִי",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "מַלְאָכִי 2",
     "url": "https://api.getbible.net/v2/modernhebrew/39/2.json",
-    "sha": "2139def898beefe0e8f62657134b85f20a415970"
+    "sha": "21d48ef4d7268d56a03274f3c9461b9dac57c948"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "מַלְאָכִי",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "מַלְאָכִי 3",
     "url": "https://api.getbible.net/v2/modernhebrew/39/3.json",
-    "sha": "6193a1c363ae6d92d79e6a878d0aa635e45c1e63"
+    "sha": "3c1d46d112173803ee23333084528825cdb505f6"
   },
   "4": {
     "translation": "Hebrew Modern",
@@ -49,10 +49,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "מַלְאָכִי",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "מַלְאָכִי 4",
     "url": "https://api.getbible.net/v2/modernhebrew/39/4.json",
-    "sha": "87af4d4c4d8f93bb35a796f5a13a452794e88870"
+    "sha": "ae33711415401f66607aff4febb596f78bd75a1c"
   }
 }

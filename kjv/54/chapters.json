@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Timothy 1",
     "url": "https://api.getbible.net/v2/kjv/54/1.json",
-    "sha": "bdf4016a3c2d43c027361fbe4f8a8d1a34a87012"
+    "sha": "eba34f253aa87dc73a7c068d92013d9e42fcbdbd"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Timothy 2",
     "url": "https://api.getbible.net/v2/kjv/54/2.json",
-    "sha": "a37886b71aa748b81555660097b5ac0e0e97530b"
+    "sha": "099cc1cb82a695735fa75f8befad73b8c77c1c2b"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Timothy 3",
     "url": "https://api.getbible.net/v2/kjv/54/3.json",
-    "sha": "effa980a6968cda36dce2a2199e9d1646eb7b405"
+    "sha": "a1931aeb8e8db6c2c4908f3ba1ea9725e84d41ca"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Timothy 4",
     "url": "https://api.getbible.net/v2/kjv/54/4.json",
-    "sha": "d03504593272e85ddb1de747d112d344adc630d9"
+    "sha": "97efa529f14db3758b9776fc6c33c26d8d0f66b2"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "1 Timothy 5",
     "url": "https://api.getbible.net/v2/kjv/54/5.json",
-    "sha": "3403bb20a1d282786b44713e810037c4d2202344"
+    "sha": "eb3e62d8092494617d78bcb28f5c723e1a0a3a4d"
   },
   "6": {
     "translation": "King James Version",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1 Timothy 6",
     "url": "https://api.getbible.net/v2/kjv/54/6.json",
-    "sha": "ae7a399b1feb416c999b51187d2c73f55044e259"
+    "sha": "d2b1875b1a9d0d528cc6873ce6f35c5d8ce85a78"
   }
 }

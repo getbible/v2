@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipenses",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filipenses 1",
     "url": "https://api.getbible.net/v2/rv1858/50/1.json",
-    "sha": "70b3b458ffa7a19e82cbfe23abbf82f02d4ce38b"
+    "sha": "5908310f962899232f17b20b7967f511c0cb9af5"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipenses",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filipenses 2",
     "url": "https://api.getbible.net/v2/rv1858/50/2.json",
-    "sha": "34484aff765e9fcdaba35f3302fbd40df789bb7c"
+    "sha": "943622a40f91fb9756425e439fe57cc38d500c3b"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipenses",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filipenses 3",
     "url": "https://api.getbible.net/v2/rv1858/50/3.json",
-    "sha": "b0febff42aa0db1e90e078229e74ae8b59f169ad"
+    "sha": "e51e6ea5da9e563bef8e109d07642daf02bad044"
   },
   "4": {
     "translation": "Reina Valera NT (1858)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipenses",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filipenses 4",
     "url": "https://api.getbible.net/v2/rv1858/50/4.json",
-    "sha": "10579252e12904f9ce858023ab457bc226db184f"
+    "sha": "62dc539c420c850e6996a86279ddbcc1ab39494c"
   }
 }

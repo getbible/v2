@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "1 Moosese raamat",
     "url": "https://api.getbible.net/v2/estonian/1.json",
-    "sha": "3510550860f414fa9fff1455b1406ca963947da7"
+    "sha": "def9deff4b36dd12f62b9367bddaaeb47f86214b"
   },
   "40": {
     "translation": "Estonian",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matteuse evangeelium",
     "url": "https://api.getbible.net/v2/estonian/40.json",
-    "sha": "600cc070645fad621c22224284a52137058dba75"
+    "sha": "03d62ce1ef5317651ce3001d6bcc7153d44db911"
   },
   "41": {
     "translation": "Estonian",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Markuse evangeelium",
     "url": "https://api.getbible.net/v2/estonian/41.json",
-    "sha": "47fa98d50a48b3a20e63fb3b940f7d77849696cb"
+    "sha": "b47a37999ec764fc72b85a70bbb4bb4cc956c61a"
   },
   "42": {
     "translation": "Estonian",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Luuka evangeelium",
     "url": "https://api.getbible.net/v2/estonian/42.json",
-    "sha": "1329ca35dfc0620af53cbafe0c4f7d8d86687688"
+    "sha": "8a7026685bd797c2ea36c402406c176f21db5a75"
   },
   "43": {
     "translation": "Estonian",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Johannese evangeelium",
     "url": "https://api.getbible.net/v2/estonian/43.json",
-    "sha": "7b464025355bcf45421a7361f345ca89a461fb53"
+    "sha": "db238b3aaf8761fee112d48c83fd6d75247b661a"
   },
   "44": {
     "translation": "Estonian",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Apostlite teod",
     "url": "https://api.getbible.net/v2/estonian/44.json",
-    "sha": "00b88694ab94ef659c188f45181ff54d515bcf69"
+    "sha": "9e264627fe58b832d535f1a05cd85196dcf657c1"
   },
   "45": {
     "translation": "Estonian",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Roomlastele",
     "url": "https://api.getbible.net/v2/estonian/45.json",
-    "sha": "e126cb3b96e869f0f7c3ce69749860a30196e130"
+    "sha": "741cce1ee876bd86a469fe7bd89150206ca0f43d"
   },
   "46": {
     "translation": "Estonian",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korintlastele",
     "url": "https://api.getbible.net/v2/estonian/46.json",
-    "sha": "f6494d91f7185ec231bc0639f2df5bb9d9658d48"
+    "sha": "7837d735a4c97732bdcabfab8df575cc73e99f05"
   },
   "47": {
     "translation": "Estonian",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korintlastele",
     "url": "https://api.getbible.net/v2/estonian/47.json",
-    "sha": "5a927665b14a3055f5936485dca378d337ca5583"
+    "sha": "0272b6a814c4b332dad1c1be84ca52bde2ba4c42"
   },
   "48": {
     "translation": "Estonian",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galaatlastele",
     "url": "https://api.getbible.net/v2/estonian/48.json",
-    "sha": "173eeaa2ca3ef9ff01cd1baf67f06bb34cb29719"
+    "sha": "d7b3be7a1f6ba673fffb3d3b31c7bbbe79db84d5"
   },
   "49": {
     "translation": "Estonian",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efeslastele",
     "url": "https://api.getbible.net/v2/estonian/49.json",
-    "sha": "29b686c94fc138b4fd181342e7ff5beeee41a2b2"
+    "sha": "a5bb2675c5fd75127ce3beae0514fca0c3b2a0ae"
   },
   "50": {
     "translation": "Estonian",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filiplastele",
     "url": "https://api.getbible.net/v2/estonian/50.json",
-    "sha": "eb0843eeed0ddb7d5affb7883ad05da039648589"
+    "sha": "ee3154d8afa33d88947e73585122a42fccc1e3ad"
   },
   "51": {
     "translation": "Estonian",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Koloslastele",
     "url": "https://api.getbible.net/v2/estonian/51.json",
-    "sha": "aa4b607a3c04f9d206e219d02455c558c3b5c633"
+    "sha": "bccb94a4bebe01a0c59f937ad9e362d219e1757f"
   },
   "52": {
     "translation": "Estonian",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tessalooniklastele",
     "url": "https://api.getbible.net/v2/estonian/52.json",
-    "sha": "2d1f95fe0f3f9d2cd23a05ca7e4b23c34d545c95"
+    "sha": "276badf948cfd5813935f4e252129e543efa9110"
   },
   "53": {
     "translation": "Estonian",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tessalooniklastele",
     "url": "https://api.getbible.net/v2/estonian/53.json",
-    "sha": "f1163bf1880f4e5ad89bd7865ea4ef2b78bd4bb4"
+    "sha": "6a11be4b6ac06d971f2d686425aadb2889804b61"
   },
   "54": {
     "translation": "Estonian",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteosele",
     "url": "https://api.getbible.net/v2/estonian/54.json",
-    "sha": "9999bd36f3abbc74bd15e8905fa8b0508ff1c9c6"
+    "sha": "d11db54bf0215aaa77c155009d06f6ed364a6023"
   },
   "55": {
     "translation": "Estonian",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteosele",
     "url": "https://api.getbible.net/v2/estonian/55.json",
-    "sha": "419cfc034eed001d3b2f348a18076a924cacbe54"
+    "sha": "d27caaba4d0c23331a5a38fcfd42f9ebb19f9219"
   },
   "56": {
     "translation": "Estonian",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tiitusele",
     "url": "https://api.getbible.net/v2/estonian/56.json",
-    "sha": "a2cc47a1896c336ce7780f429a6be6b42d751df5"
+    "sha": "b4ff5b4c912b147ac25aacd9aae68aa5ffdd212d"
   },
   "57": {
     "translation": "Estonian",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Fileemonile",
     "url": "https://api.getbible.net/v2/estonian/57.json",
-    "sha": "feee6e4233474a6c745cefb44dcbf79bb378ef14"
+    "sha": "da6bc9d71b32301702fd5e80b86d3b68cfb1d8e8"
   },
   "58": {
     "translation": "Estonian",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Heebrealastele",
     "url": "https://api.getbible.net/v2/estonian/58.json",
-    "sha": "d86d91424784c90dbba4ad46779fe97ec63f4ced"
+    "sha": "cd5287f085023bdf49e8df16391550e384ec37dc"
   },
   "59": {
     "translation": "Estonian",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jaakobuse",
     "url": "https://api.getbible.net/v2/estonian/59.json",
-    "sha": "43d56e2fa1a0fb13cacad48486ae3e77404f4dbe"
+    "sha": "232762b9be540b7827bd1a06927c25df7fe412d4"
   },
   "60": {
     "translation": "Estonian",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Peetruse",
     "url": "https://api.getbible.net/v2/estonian/60.json",
-    "sha": "975527433c3779ef2b893b869a2d4186b7457e26"
+    "sha": "baacc9a4119bc9a7ed91f07907a5adeab4183739"
   },
   "61": {
     "translation": "Estonian",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Peetruse",
     "url": "https://api.getbible.net/v2/estonian/61.json",
-    "sha": "9b4e315281fe2bbe63bbaf956d35905acbc06776"
+    "sha": "6ac4c0d5e84d329ddac0f3a1178a3f719b8c1b89"
   },
   "62": {
     "translation": "Estonian",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Johannese",
     "url": "https://api.getbible.net/v2/estonian/62.json",
-    "sha": "8ff8e3b2f5296e8e90d2e58d9ceb1a014e42d5c7"
+    "sha": "a5716c645492fa94728e834b5f9857fe5c7e784f"
   },
   "63": {
     "translation": "Estonian",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Johannese",
     "url": "https://api.getbible.net/v2/estonian/63.json",
-    "sha": "cc394e15b4796f8abf8643610f1df0cc821d1e7e"
+    "sha": "d029ba09dfdd28c156a73deeb6bbe8e8b4c83dcf"
   },
   "64": {
     "translation": "Estonian",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Johannese",
     "url": "https://api.getbible.net/v2/estonian/64.json",
-    "sha": "199ff536ef64f024b1d14882d9730710514e34b5"
+    "sha": "6a55a6046ef68719984a0c4c7eccd1b90f732f9a"
   },
   "65": {
     "translation": "Estonian",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Juuda",
     "url": "https://api.getbible.net/v2/estonian/65.json",
-    "sha": "9ba19ddf36fdbc4742fb5331af62d5e34c2e5045"
+    "sha": "95131f44cb07e1c36d5b883c9639a697c7b7e9db"
   },
   "66": {
     "translation": "Estonian",
@@ -331,8 +331,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Johannese ilmutus",
     "url": "https://api.getbible.net/v2/estonian/66.json",
-    "sha": "df2ad4b32fbe76b403f19cb2000869e8a48d77f5"
+    "sha": "fa1155c4b56ea3210ce68cd202e9812a22e50b4c"
   }
 }

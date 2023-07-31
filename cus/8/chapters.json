@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "路得记 1",
     "url": "https://api.getbible.net/v2/cus/8/1.json",
-    "sha": "5b7554722f9258b0a7dd2e0e3eeaab7554a4c173"
+    "sha": "5571871e38f08d21e004c7f2653f6c0e19dfe34c"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "路得记 2",
     "url": "https://api.getbible.net/v2/cus/8/2.json",
-    "sha": "f76416c2389ef388df137238438fcbf352577c6e"
+    "sha": "cc1f514b6ed6da471a0834f5efb7e3b410c5c47c"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "路得记 3",
     "url": "https://api.getbible.net/v2/cus/8/3.json",
-    "sha": "bcfc248d1e229bc9ab4a62da486278ea42a20e3d"
+    "sha": "5356213b7dc026e7de72d9627adc3bf72473dace"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "路得记 4",
     "url": "https://api.getbible.net/v2/cus/8/4.json",
-    "sha": "53fcb9edf423cec24acbab4d031823d1d47ddf98"
+    "sha": "c09355c7e5c99bb1e0c67340280321e1f58e9199"
   }
 }

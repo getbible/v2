@@ -1,68 +1,68 @@
 #	language	translation	abbreviation	direction	name	filename	sha
-1	Romanian	Cornilescu	cornilescu	LTR	Genesis	1	79f08c259147b8126408005a7960a43f78538fb9
-2	Romanian	Cornilescu	cornilescu	LTR	Exodus	2	6817dfeafbf4ac57c261a7305d33c0ed71ada05b
-3	Romanian	Cornilescu	cornilescu	LTR	Leviticus	3	588046d95fb7d59b4f92e5f39dde6c39bd6470bf
-4	Romanian	Cornilescu	cornilescu	LTR	Numbers	4	9b50556b49ba35cb14f47ac92161e1307316f624
-5	Romanian	Cornilescu	cornilescu	LTR	Deuteronomy	5	3bbd96c0aa5ef198c9135f627026e8f3d5142689
-6	Romanian	Cornilescu	cornilescu	LTR	Joshua	6	9fd1b2470821bfc532f01e9c4915d981d41059c9
-7	Romanian	Cornilescu	cornilescu	LTR	Judges	7	5ab965dd96586ade43df7f81ae56e4e61d2a4c61
-8	Romanian	Cornilescu	cornilescu	LTR	Ruth	8	7e5768ddc46fbc5d0c0f0fdec877a997bffe045c
+1	Romanian	Cornilescu	cornilescu	LTR	Geneza	1	ecde04ac834fab214e10e8f97bdaef840fbe3de3
+2	Romanian	Cornilescu	cornilescu	LTR	Exodul	2	fad9f2c81eff80b1bc80a4c37affb4c845256dc9
+3	Romanian	Cornilescu	cornilescu	LTR	Leviticul	3	d020ef55e33efb4404c1f17f6c5af69fdcaffafc
+4	Romanian	Cornilescu	cornilescu	LTR	Numeri	4	1bd7b792b4d632b2a3845b69c31321b6b4a55ef3
+5	Romanian	Cornilescu	cornilescu	LTR	Deuteronomul	5	62f9c4af4bdbcac1c11381ae41ff9a4d13174cdc
+6	Romanian	Cornilescu	cornilescu	LTR	Iosua	6	67afaca91a68e630b1bca29bb529c819dd9494f1
+7	Romanian	Cornilescu	cornilescu	LTR	Judecători	7	67d626df01f5d962a6998e10cf161ee145a671eb
+8	Romanian	Cornilescu	cornilescu	LTR	Rut	8	cfb0659cc311c66e43fe6b842a60a398a2f3153b
 9	Romanian	Cornilescu	cornilescu	LTR	1 Samuel	9	c5f6c6a1aff0936384efbdaeb2abfb193fa31b01
 10	Romanian	Cornilescu	cornilescu	LTR	2 Samuel	10	f2d964179d3e63d421e641454086eab65e4cfef5
-11	Romanian	Cornilescu	cornilescu	LTR	1 Kings	11	b70ef6fd978393f5ca828f707ebb2b471ea6d21a
-12	Romanian	Cornilescu	cornilescu	LTR	2 Kings	12	2017e59f4a0521621e2f715c15af301585420f48
-13	Romanian	Cornilescu	cornilescu	LTR	1 Chronicles	13	6d76a2a90e68004c70d83fc49a514c3ae1999841
-14	Romanian	Cornilescu	cornilescu	LTR	2 Chronicles	14	c8b00e2e3dba38062916a945804cf7bd17c083bd
+11	Romanian	Cornilescu	cornilescu	LTR	1 Împărați	11	140e2c8a9905fabe0c74e88efbba65c0382b7585
+12	Romanian	Cornilescu	cornilescu	LTR	2 Împărați	12	d5344972b1ff76d3986bb9414b87db4b858f2c04
+13	Romanian	Cornilescu	cornilescu	LTR	1 Cronici	13	7d40a44b0456b83a3670c57e139505481034112a
+14	Romanian	Cornilescu	cornilescu	LTR	2 Cronici	14	36225d5ce61b9d8494557af176a98403f71b899b
 15	Romanian	Cornilescu	cornilescu	LTR	Ezra	15	519ef55cdd1fd7062aa1ffc62e872ceb2468c876
-16	Romanian	Cornilescu	cornilescu	LTR	Nehemiah	16	552c8c21c747c9fb85a589fc23e6aa932a6f9ccc
-17	Romanian	Cornilescu	cornilescu	LTR	Esther	17	d482ea3c8de5660e92e54e3cae8abd718518d04d
-18	Romanian	Cornilescu	cornilescu	LTR	Job	18	cd3ae441873d4f5c4f519db6ffb1b463ddeecf7d
-19	Romanian	Cornilescu	cornilescu	LTR	Psalms	19	d93dfce674034925eccb42940bae0c43cfa681af
-20	Romanian	Cornilescu	cornilescu	LTR	Proverbs	20	a63e29d2c6085c19c0c408334366d8573c2072ef
-21	Romanian	Cornilescu	cornilescu	LTR	Ecclesiastes	21	5abc9ffecc0f45d610542b44f7d0edebb752a81d
-22	Romanian	Cornilescu	cornilescu	LTR	Song of Songs	22	6d18d24fd60d22e134cc570d1f85f41bd3e78c58
-23	Romanian	Cornilescu	cornilescu	LTR	Isaiah	23	f19611b232bd6837a1723b0c6d6fcb9c70d9987b
-24	Romanian	Cornilescu	cornilescu	LTR	Jeremiah	24	ec06846baa9e1ef5f0eb8da2ce2c4c869cee02b8
-25	Romanian	Cornilescu	cornilescu	LTR	Lamentations	25	5aff7e9772401ffd10f769f1c458dc1431406ed2
-26	Romanian	Cornilescu	cornilescu	LTR	Ezekiel	26	ca6bbe7a43639f4e3ec42c7599c16b180c2f7f5f
+16	Romanian	Cornilescu	cornilescu	LTR	Neemia	16	b413e219934b2540fe7e58e3b9b4b1dc7f3a17fd
+17	Romanian	Cornilescu	cornilescu	LTR	Estera	17	c5a48fe8b9a8cec273dade7738e4e88973744578
+18	Romanian	Cornilescu	cornilescu	LTR	Iov	18	6f19ccdc83f942ce4b56b07ae23d9cd1dc795893
+19	Romanian	Cornilescu	cornilescu	LTR	Psalmii	19	196f9e22d8aa658b2b2e2aa5d3b5e4e7040d0dce
+20	Romanian	Cornilescu	cornilescu	LTR	Proverbe	20	def6b4a4dc029e01b03f182c5ccf284061466552
+21	Romanian	Cornilescu	cornilescu	LTR	Eclesiastul	21	2630be3e08770d47da5b5265bcea16ead0318283
+22	Romanian	Cornilescu	cornilescu	LTR	Cântarea Cântărilor	22	718edc2326c805efc01bcf6d2a6697194f9dd786
+23	Romanian	Cornilescu	cornilescu	LTR	Isaia	23	0637d8f24afe75847a5b82c16fcfc4cde3d56069
+24	Romanian	Cornilescu	cornilescu	LTR	Ieremia	24	963c858be636e8ed830c5ee9e62a9d9de59b4967
+25	Romanian	Cornilescu	cornilescu	LTR	Plângerile lui Ieremia	25	9394dbd5df1bf2d01e5ad6d16daeaed453000603
+26	Romanian	Cornilescu	cornilescu	LTR	Ezechiel	26	7ebf5e5e99b6ec49f3abd377eb9cdfc7b39f3662
 27	Romanian	Cornilescu	cornilescu	LTR	Daniel	27	addc5d6990c5b7f37b2df2fe7bf6609a0611d6b2
-28	Romanian	Cornilescu	cornilescu	LTR	Hosea	28	e91356fdc9553caf873528de6ad006bd7216105f
-29	Romanian	Cornilescu	cornilescu	LTR	Joel	29	37363587d07b098f84cf7af578ddbc446ad0c994
+28	Romanian	Cornilescu	cornilescu	LTR	Osea	28	896dc589754b86f6338fa6c92bed2533f39efaf4
+29	Romanian	Cornilescu	cornilescu	LTR	Ioel	29	f33622f0558de5d834428b9e223040b34f08201a
 30	Romanian	Cornilescu	cornilescu	LTR	Amos	30	f1255c25393d845934a3d0c03ef4768a65dfa0c7
-31	Romanian	Cornilescu	cornilescu	LTR	Obadiah	31	8b04885ae3114e88ecacf8e46571ac5c0908299a
-32	Romanian	Cornilescu	cornilescu	LTR	Jonah	32	a1fb33f469310ef4ccc1e2f2617ecd3143a9da59
-33	Romanian	Cornilescu	cornilescu	LTR	Micah	33	f59e7ce526d1f69fa80b22343a63551a42cbab62
-34	Romanian	Cornilescu	cornilescu	LTR	Nahum	34	ac20063891cdf6bfd87088d88040da5fdee30d06
-35	Romanian	Cornilescu	cornilescu	LTR	Habakkuk	35	3a1acacf17e20d8bd8f4021e138ed199817896cf
-36	Romanian	Cornilescu	cornilescu	LTR	Zephaniah	36	c8e4e1d9408c59778ba8c69e06ec3a0f03b84bfb
-37	Romanian	Cornilescu	cornilescu	LTR	Haggai	37	10b4ad2c0185cb3ee4855c32fc399812795e4cd0
-38	Romanian	Cornilescu	cornilescu	LTR	Zechariah	38	8c4b8ef385a9c3a8b909aef27375465903864677
-39	Romanian	Cornilescu	cornilescu	LTR	Malachi	39	e74e670ba383488d99f2acb57eb4673e5fa93624
-40	Romanian	Cornilescu	cornilescu	LTR	Matthew	40	06b4a8bbc04200da7c69c06bddc0c2d572736a4f
-41	Romanian	Cornilescu	cornilescu	LTR	Mark	41	a10b0ae1455a1160e558927cca49ae57c9f8b05c
-42	Romanian	Cornilescu	cornilescu	LTR	Luke	42	66e0f3638828731fac4d30c8fd253051d472c753
-43	Romanian	Cornilescu	cornilescu	LTR	John	43	19753518e6e647f9409908cae538e03d171c084e
-44	Romanian	Cornilescu	cornilescu	LTR	Acts	44	26bd1d39d5fa8895822e7cb0f2e7e616d05c7cc3
-45	Romanian	Cornilescu	cornilescu	LTR	Romans	45	91949aa7a9edde74a17a30f779c7b18c1256db33
-46	Romanian	Cornilescu	cornilescu	LTR	1 Corinthians	46	69769f9ff6587b4c91b0176215774b62497a26c6
-47	Romanian	Cornilescu	cornilescu	LTR	2 Corinthians	47	92cf862a56a47565eb95cc4180dbb1d55c176fbf
-48	Romanian	Cornilescu	cornilescu	LTR	Galatians	48	a9e1517a84c9d52a4e5a32694c55d0b0210e2f0b
-49	Romanian	Cornilescu	cornilescu	LTR	Ephesians	49	79a459cf77779e3b72bef67e596d9e53a4aae454
-50	Romanian	Cornilescu	cornilescu	LTR	Philippians	50	9aa07872629eaf331e1de640e4cf80782a237f3f
-51	Romanian	Cornilescu	cornilescu	LTR	Colossians	51	b9cccd74072c7633da71bb2df328dc1a418651d9
-52	Romanian	Cornilescu	cornilescu	LTR	1 Thessalonians	52	9b329f17da5057c9a10dba875fa984bfbd6231a1
-53	Romanian	Cornilescu	cornilescu	LTR	2 Thessalonians	53	5ec9b3cce5fd941913e4fd1a56a3d1d7a35cc3dc
-54	Romanian	Cornilescu	cornilescu	LTR	1 Timothy	54	3e303e785945beebca0f2f2010e80d20fe985e74
-55	Romanian	Cornilescu	cornilescu	LTR	2 Timothy	55	c9c24e8df33c689e5fe1ae5f330590c1981daf54
+31	Romanian	Cornilescu	cornilescu	LTR	Obadia	31	444d140816cd3b472f2f168e24b963d9c680954d
+32	Romanian	Cornilescu	cornilescu	LTR	Iona	32	47b7da4546a0a1d5470170316d2968158a9f5fe8
+33	Romanian	Cornilescu	cornilescu	LTR	Mica	33	828bf03367db8c9e786db8143a46f15cb9736093
+34	Romanian	Cornilescu	cornilescu	LTR	Naum	34	fa2efe4bb93344240b4e16995e947f0b295f543a
+35	Romanian	Cornilescu	cornilescu	LTR	Habacuc	35	4124130daac1bfba1fe511f06f3f35272a72224f
+36	Romanian	Cornilescu	cornilescu	LTR	Ţefania	36	c83b5e1732fd0aaf54a6c069c61a338a70798fff
+37	Romanian	Cornilescu	cornilescu	LTR	Hagai	37	8991c1378ddc85be9373a45f9058908376c9a35b
+38	Romanian	Cornilescu	cornilescu	LTR	Zaharia	38	db93270eeb6dc7b266bf4dca7bd6b1a557781d82
+39	Romanian	Cornilescu	cornilescu	LTR	Maleahi	39	4d08d7b5addccf81ea1c067e9a765135fcb9d8a7
+40	Romanian	Cornilescu	cornilescu	LTR	Matei	40	50fe90a048518df743f27f9a0391c09493e145f8
+41	Romanian	Cornilescu	cornilescu	LTR	Marcu	41	3ec507f9dd7b08d78920c5efc8a78eb0cf96ff1c
+42	Romanian	Cornilescu	cornilescu	LTR	Luca	42	6d2df4a8b95b1bf8770a8cefa39670f23f42d8b4
+43	Romanian	Cornilescu	cornilescu	LTR	Ioan	43	bd8a22d6bccedaaa367d681583a37050f154d30f
+44	Romanian	Cornilescu	cornilescu	LTR	Faptele Apostolilor	44	f82158a4a833d0a7a4260a9e964ccb0ec796f1d8
+45	Romanian	Cornilescu	cornilescu	LTR	Romani	45	38b22616e1373359df1860ebe0053255d2862e2d
+46	Romanian	Cornilescu	cornilescu	LTR	1 Corinteni	46	159380f0ac8357935addf0b971c80153f230a802
+47	Romanian	Cornilescu	cornilescu	LTR	2 Corinteni	47	6720e6939ef7a9019f7436b363c473b0d6771bb1
+48	Romanian	Cornilescu	cornilescu	LTR	Galateni	48	8649f51d7543f0caf5dd0ce4aa914dbf42375d5c
+49	Romanian	Cornilescu	cornilescu	LTR	Efeseni	49	bfc3396090e09e6c05d1e04b22f7f2556ff89eeb
+50	Romanian	Cornilescu	cornilescu	LTR	Filipeni	50	7ffee198a26b09e2985ef0f5888f7f4a614e562e
+51	Romanian	Cornilescu	cornilescu	LTR	Coloseni	51	2f628625e119aa759c14cf5861c020c13414e52d
+52	Romanian	Cornilescu	cornilescu	LTR	1 Tesaloniceni	52	b16eb05427c101a6616f0fbd1c31a76938a090ed
+53	Romanian	Cornilescu	cornilescu	LTR	2 Tesaloniceni	53	f27210746c800d81308ef3a73a509279922c06cb
+54	Romanian	Cornilescu	cornilescu	LTR	1 Timotei	54	9488b160966000bcaebb7f58a021b4d201543039
+55	Romanian	Cornilescu	cornilescu	LTR	2 Timotei	55	559592cd713c9bc7f0c69ed72aeafdc55deef20e
 56	Romanian	Cornilescu	cornilescu	LTR	Titus	56	06ae16ee773b8d167eec52ca1dee9dba473af101
-57	Romanian	Cornilescu	cornilescu	LTR	Philemon	57	5c2b736cc2006792cf1c1673dce148484564ddad
-58	Romanian	Cornilescu	cornilescu	LTR	Hebrews	58	f3da2462b825cdcb151dbb537095d3444c21535b
-59	Romanian	Cornilescu	cornilescu	LTR	James	59	fcd601bb2d375113cc3c48227ebf8e1b457671e9
-60	Romanian	Cornilescu	cornilescu	LTR	1 Peter	60	8faf8bcdfe069fcea35ac7ee5e6e842a65765c63
-61	Romanian	Cornilescu	cornilescu	LTR	2 Peter	61	e4e870a430787ed8bd8a07cdcf879290c103741e
-62	Romanian	Cornilescu	cornilescu	LTR	1 John	62	91ea0e26a29504a284ff2caa02c5fb917a72b652
-63	Romanian	Cornilescu	cornilescu	LTR	2 John	63	3c60ee0df23b0a3ae02bb89f11326da5d06a1a86
-64	Romanian	Cornilescu	cornilescu	LTR	3 John	64	ba5a310638c9b2a2ab43ef42f2e76fa2d1e17b71
-65	Romanian	Cornilescu	cornilescu	LTR	Jude	65	df49f47af24c58765cb216681cda1d76a1a4e9fe
-66	Romanian	Cornilescu	cornilescu	LTR	Revelation	66	9acd45e3545e3f20f4d96781b108273059e68b16
+57	Romanian	Cornilescu	cornilescu	LTR	Filimon	57	c71246b57ac41eefe5b58b6c18b92edb5c547e70
+58	Romanian	Cornilescu	cornilescu	LTR	Evrei	58	c2727c88ac80897e7b1dbec9e41c32febf3eec07
+59	Romanian	Cornilescu	cornilescu	LTR	Iacov	59	7d709328f4dbf44200c25945b320ed578e7ce4d2
+60	Romanian	Cornilescu	cornilescu	LTR	1 Petru	60	d86eda3a2199256c099a5926195253a768263ffd
+61	Romanian	Cornilescu	cornilescu	LTR	2 Petru	61	785aa75fa7ca61fb7d0e289f7e47a7c86b1a4934
+62	Romanian	Cornilescu	cornilescu	LTR	1 Ioan	62	48a80693eeb8665589ba9682eafe1500a2895e55
+63	Romanian	Cornilescu	cornilescu	LTR	2 Ioan	63	aa8ac59961793dc9c8b77aeaad4797d021467526
+64	Romanian	Cornilescu	cornilescu	LTR	3 Ioan	64	81d6d5f0a709aad9023a2f236ace71d849e3f130
+65	Romanian	Cornilescu	cornilescu	LTR	Iuda	65	d1bb6e7e403488f20145e7143fbbc747156ca575
+66	Romanian	Cornilescu	cornilescu	LTR	Apocalipsa	66	28c5f933d39b4fc8a5133f75ab6a4b599e1849b3
 

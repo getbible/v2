@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Phi-líp",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Phi-líp 1",
     "url": "https://api.getbible.net/v2/vietnamese/50/1.json",
-    "sha": "0b65310578b450aaea5031862c11b2042be5a02d"
+    "sha": "a97eb467e6fc44e294b9ee0267b13bdddbde36dc"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Phi-líp",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Phi-líp 2",
     "url": "https://api.getbible.net/v2/vietnamese/50/2.json",
-    "sha": "abec62bd64ede41e66f72d52b5f95a929fda4589"
+    "sha": "a535f5628d4ce8831297408584a3068dd2fb0b6d"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Phi-líp",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Phi-líp 3",
     "url": "https://api.getbible.net/v2/vietnamese/50/3.json",
-    "sha": "dd9d4e81f0801cfd80ce6c7bcaf623a90921c343"
+    "sha": "3f2852a82ffe417ee1f28d21af4566bd1a16fee1"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Phi-líp",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Phi-líp 4",
     "url": "https://api.getbible.net/v2/vietnamese/50/4.json",
-    "sha": "44aa5027081ffc7364afe12c82cbe8d0b3bde302"
+    "sha": "78087107247e2a6581d0d05bb333a026c0920d97"
   }
 }

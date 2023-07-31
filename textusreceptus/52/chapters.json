@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "Προς Θεσσαλονικείς Α' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/52/1.json",
-    "sha": "bf01d3dc980fb0c80248394eadba98fa65ac92b8"
+    "sha": "574df79359908807489fb14b3c2dfb2280c02329"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "Προς Θεσσαλονικείς Α' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/52/2.json",
-    "sha": "419537dd3a487862650df180961733b4c74250b6"
+    "sha": "c8836cc6579c63643edfb303c233008cb4eeab05"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "Προς Θεσσαλονικείς Α' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/52/3.json",
-    "sha": "73ac55618159dbe3dcc2364e0bc7331b4374f9db"
+    "sha": "7bd214eef708413ace4dd95a8804a7f5b0a8c087"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "Προς Θεσσαλονικείς Α' 4",
     "url": "https://api.getbible.net/v2/textusreceptus/52/4.json",
-    "sha": "667508f5623f2550d0dc9a79e2915041f275b700"
+    "sha": "e01d57a6bc17f471ba32fa0cab87482eaee189e8"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "Προς Θεσσαλονικείς Α' 5",
     "url": "https://api.getbible.net/v2/textusreceptus/52/5.json",
-    "sha": "568ade15b18cb1b8f4efb1ff305925492fcf14ff"
+    "sha": "a08c4c551fea543bf466869c133a603df1036e71"
   }
 }

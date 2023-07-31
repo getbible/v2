@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Andre tessalonikerbrev",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "Andre tessalonikerbrev 1",
     "url": "https://api.getbible.net/v2/bibelselskap/53/1.json",
-    "sha": "222d2c0f7ef2e1a5c132de2e54fb42ac622272e3"
+    "sha": "77f0dd5dc2d92b17564117a4b074c8b50edf3118"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Andre tessalonikerbrev",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "Andre tessalonikerbrev 2",
     "url": "https://api.getbible.net/v2/bibelselskap/53/2.json",
-    "sha": "691b492f692a857b47c4a46a4458010743a0754e"
+    "sha": "fb1135b23c1c20e5e7c1af9d350a95d1791cc866"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Andre tessalonikerbrev",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "Andre tessalonikerbrev 3",
     "url": "https://api.getbible.net/v2/bibelselskap/53/3.json",
-    "sha": "d5d9a5aeb77083c54b9d5c0ea2d0c64bd12a7f9b"
+    "sha": "6551189ffeeee49fc3164da98ccc9b16fbf1ab92"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas bok",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Mikas bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/33/1.json",
-    "sha": "cfd76ce897cfe9e53191617422fd140e5992b2e3"
+    "sha": "ef90e632d17d4883cfac432885326c49d9df6369"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas bok",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Mikas bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/33/2.json",
-    "sha": "3468e35ed0e31821e502327ec727586317a03157"
+    "sha": "aafc33f77d19c6ca299321cd4d2c3f0fc271fc20"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas bok",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Mikas bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/33/3.json",
-    "sha": "727295d49038a2659aed4cef391f64030dfac5c9"
+    "sha": "0a000e26d2364d40f01ba094a18e254556a974d9"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas bok",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Mikas bok 4",
     "url": "https://api.getbible.net/v2/bibelselskap/33/4.json",
-    "sha": "57827377ccb4991445b5c503f1af1045230c7741"
+    "sha": "31602ac6d79964bb9accaecfbae3923329a448eb"
   },
   "5": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas bok",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Mikas bok 5",
     "url": "https://api.getbible.net/v2/bibelselskap/33/5.json",
-    "sha": "8a5ae4b4e545638aab2f5a2e86e21c04928d5943"
+    "sha": "c638ba8707e02d8b97768d1b1af60aff0a5d8012"
   },
   "6": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas bok",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Mikas bok 6",
     "url": "https://api.getbible.net/v2/bibelselskap/33/6.json",
-    "sha": "80d8eff8e1f22b74d513d985cb8de1d1a92fc5a5"
+    "sha": "12a9d9cbc236598e9dcde987d46888c64d8a184a"
   },
   "7": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mikas bok",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Mikas bok 7",
     "url": "https://api.getbible.net/v2/bibelselskap/33/7.json",
-    "sha": "06f5697147b12ea018b0c5384b05c40f5e00ad6d"
+    "sha": "7b76436059d7828fab07a6c0209d217ff5bdf2a2"
   }
 }

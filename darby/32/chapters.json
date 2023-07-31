@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jonas 1",
     "url": "https://api.getbible.net/v2/darby/32/1.json",
-    "sha": "522a808a887c56114718019c40980b7151bc1438"
+    "sha": "7ca2199d985ef865caa1c35d360c4c05b2d5256d"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jonas 2",
     "url": "https://api.getbible.net/v2/darby/32/2.json",
-    "sha": "7c8338dc22890b285d20442d1495e2f041bb4172"
+    "sha": "17f5346cf6539c9be07f607d66eaf47e32a4c4cf"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jonas 3",
     "url": "https://api.getbible.net/v2/darby/32/3.json",
-    "sha": "b169ccee3cc40b8b2b3c0e8ef002cc57a1858c60"
+    "sha": "e4be20da7fe9f298471e26051a7b6b55f849cd40"
   },
   "4": {
     "translation": "Darby",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jonas 4",
     "url": "https://api.getbible.net/v2/darby/32/4.json",
-    "sha": "dbf2f6a3f3524847c82b29447fe395c66e4507a0"
+    "sha": "912e5e79c2df6a014f4b128a1e4385b29210dc30"
   }
 }

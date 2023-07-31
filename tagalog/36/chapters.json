@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Zefanias",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Zefanias 1",
     "url": "https://api.getbible.net/v2/tagalog/36/1.json",
-    "sha": "b56467e41e89ac6b019eab41fa5977f08bac1f58"
+    "sha": "4e71d7bf7fd6d2e5e2a9d3325489ab26e29ca272"
   },
   "2": {
     "translation": "Ang Dating Biblia (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Zefanias",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Zefanias 2",
     "url": "https://api.getbible.net/v2/tagalog/36/2.json",
-    "sha": "c17e68cbd0d14ca58bf4f2260b599b25dfb0c507"
+    "sha": "191ecba9fb1315571144b81dee22589a70617ef0"
   },
   "3": {
     "translation": "Ang Dating Biblia (1905)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Zefanias",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Zefanias 3",
     "url": "https://api.getbible.net/v2/tagalog/36/3.json",
-    "sha": "c451c0082056155e11883e66bc5580cc2c4067e0"
+    "sha": "b23496133ab8cb53e08518fc97db696adea09cd1"
   }
 }

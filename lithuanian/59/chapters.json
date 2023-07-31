@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jokūbas",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jokūbas 1",
     "url": "https://api.getbible.net/v2/lithuanian/59/1.json",
-    "sha": "6f716514a5d4c9a192f43e47e8084f81d4556ad5"
+    "sha": "0aed56f04f3aef106c3fece774a78e4eef29a509"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jokūbas",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jokūbas 2",
     "url": "https://api.getbible.net/v2/lithuanian/59/2.json",
-    "sha": "dbbfd81a46ca0616a0b9c1db187fe7f6488cb920"
+    "sha": "0f0dd1354872f16053425aaee28b842df238c036"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jokūbas",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jokūbas 3",
     "url": "https://api.getbible.net/v2/lithuanian/59/3.json",
-    "sha": "ec35a5917f71611850458ceb2a8f73fe5c521d8b"
+    "sha": "9657732ba1e91f3e4b4d2c72a0023578d083a8f2"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jokūbas",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jokūbas 4",
     "url": "https://api.getbible.net/v2/lithuanian/59/4.json",
-    "sha": "571edbe9b8e7973388902f0dbbd747e0fd1bef68"
+    "sha": "63313d3a83e6278d5801958692c175be3967a192"
   },
   "5": {
     "translation": "Lithuanian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jokūbas",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jokūbas 5",
     "url": "https://api.getbible.net/v2/lithuanian/59/5.json",
-    "sha": "e7a053ba14b69b7997097d93c09d79c81ed17331"
+    "sha": "eff856d3a0bf78f904399997fc0f1ee889647d1b"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "提多书 1",
     "url": "https://api.getbible.net/v2/cus/56/1.json",
-    "sha": "cd33a6d13afdbb768a979f874e35e7de1bd1d7e3"
+    "sha": "a6b3961b74f1996643d297633e88368e2f4e117c"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "提多书 2",
     "url": "https://api.getbible.net/v2/cus/56/2.json",
-    "sha": "59f1469664b1099c39fde9f510d0f05218154a9e"
+    "sha": "aff6edd2e3205433d921f0670899bc702d618f49"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "提多书 3",
     "url": "https://api.getbible.net/v2/cus/56/3.json",
-    "sha": "dd26c92aea142d1d1924a8c2dd5287cfe490e27f"
+    "sha": "2aaf35c0086d9f39c48fa9624de701ce7686bb5f"
   }
 }

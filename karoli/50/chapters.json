@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiekhez írt levél",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filippiekhez írt levél 1",
     "url": "https://api.getbible.net/v2/karoli/50/1.json",
-    "sha": "dc44178869a4c0e64720ec6c16db24bf84475d00"
+    "sha": "0740eab5e7b0f7d2df7f69dfe1f2c5138a5455d0"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiekhez írt levél",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filippiekhez írt levél 2",
     "url": "https://api.getbible.net/v2/karoli/50/2.json",
-    "sha": "56f59c4a39b310978c241c1dd20ef66e80c1226b"
+    "sha": "65b2e1c46da198588918fe40eb2b4fe7918c54c3"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiekhez írt levél",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filippiekhez írt levél 3",
     "url": "https://api.getbible.net/v2/karoli/50/3.json",
-    "sha": "05e8d25835832f88ce3861bbf6b17727c75bdb23"
+    "sha": "771e9d57578a43d823bb7e4b136e629c80d05d79"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiekhez írt levél",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filippiekhez írt levél 4",
     "url": "https://api.getbible.net/v2/karoli/50/4.json",
-    "sha": "b463cb896f7a90db5edc94a5094aafa4b488ee42"
+    "sha": "6439c56c02296f537be760cd58957619f9d512ec"
   }
 }

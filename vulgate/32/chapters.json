@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ionas",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Ionas 1",
     "url": "https://api.getbible.net/v2/vulgate/32/1.json",
-    "sha": "e0d9222580dd09e17927e721e7f13e76b1fe323e"
+    "sha": "9a447245d3d25cb608a09d82093afedc3e02a90b"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ionas",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Ionas 2",
     "url": "https://api.getbible.net/v2/vulgate/32/2.json",
-    "sha": "9c45161c705a1fb220dec4a0a066d9c45e5c8649"
+    "sha": "67ad8830b5e6cf199bba6201ae4944566eb6ffbe"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ionas",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Ionas 3",
     "url": "https://api.getbible.net/v2/vulgate/32/3.json",
-    "sha": "0dd4ee46b6ad3656b3fc9757268c5c3d5891cac7"
+    "sha": "a4509943fd62a2cb76cb5ef177b17df84c534a02"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Ionas",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Ionas 4",
     "url": "https://api.getbible.net/v2/vulgate/32/4.json",
-    "sha": "6f94ff6c7bb8dd5b392a4bc407f0df34b9a6fb5d"
+    "sha": "16c93b8acbc512ef6ecb4d5eb5fe653898fa3382"
   }
 }

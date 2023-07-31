@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakija",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malakija 1",
     "url": "https://api.getbible.net/v2/esperanto/39/1.json",
-    "sha": "9612d638cb0e964860e939d66aeff71d9e5180f7"
+    "sha": "854d48883b91aba6d29a6812940a09e52be0d016"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakija",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malakija 2",
     "url": "https://api.getbible.net/v2/esperanto/39/2.json",
-    "sha": "0661e19e4c5178f1ab6a88164cc816afceca207d"
+    "sha": "e891360cbb16310907689d45b08d3a1f62bade3a"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakija",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malakija 3",
     "url": "https://api.getbible.net/v2/esperanto/39/3.json",
-    "sha": "0a5765c97dfa9b0ed4aabffe01821a1c4882e1b7"
+    "sha": "098ca442f1842194754bb63f3b763486c92e146d"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakija",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malakija 4",
     "url": "https://api.getbible.net/v2/esperanto/39/4.json",
-    "sha": "8132a06a4dae85a9dcf0c67c9849819cfa6bf8f1"
+    "sha": "594e67d7b66de646897603fa383c3243cf70acad"
   }
 }

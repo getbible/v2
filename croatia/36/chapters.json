@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanija",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sefanija 1",
     "url": "https://api.getbible.net/v2/croatia/36/1.json",
-    "sha": "a01f5608e1ee931c65f2a235f5fc5f9ca94317d8"
+    "sha": "72f07a9c21a016696a2526553ab6847016b2aba5"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanija",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sefanija 2",
     "url": "https://api.getbible.net/v2/croatia/36/2.json",
-    "sha": "cc7b7c9160819dc06a7c6b99a506c3833fa57516"
+    "sha": "cf318fa2db760ca5ea3bdbf24067f456230f4561"
   },
   "3": {
     "translation": "Croatian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanija",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sefanija 3",
     "url": "https://api.getbible.net/v2/croatia/36/3.json",
-    "sha": "0c18697603d3350c9216fdb5d233f9a39f09b972"
+    "sha": "84fcd1cd93f19e948c057521312e3979f4bc8740"
   }
 }

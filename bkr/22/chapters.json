@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Píseň písní 1",
     "url": "https://api.getbible.net/v2/bkr/22/1.json",
-    "sha": "f7bae72354cc6386326f0fc112d2b50db8773848"
+    "sha": "b8878ce436368d7ae30c88cb7fd2600713d54c54"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Píseň písní 2",
     "url": "https://api.getbible.net/v2/bkr/22/2.json",
-    "sha": "49ac7bf2b45cdbb7c5c543cc3b820bd682c6702a"
+    "sha": "0574a1228390d2319f673b848e86649de6bf16da"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Píseň písní 3",
     "url": "https://api.getbible.net/v2/bkr/22/3.json",
-    "sha": "f8e3b318ed00fddd9cc33c1baaf5e649f1b7d968"
+    "sha": "ca43f33e70b6d6d3f57e0ffbab8b32e41c024fd7"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Píseň písní 4",
     "url": "https://api.getbible.net/v2/bkr/22/4.json",
-    "sha": "52841f7fc1b31c275a5151c4503edc735ebba42f"
+    "sha": "a7980c64a77915a7c9f84a5c688f8c97a188710d"
   },
   "5": {
     "translation": "Czech BKR",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Píseň písní 5",
     "url": "https://api.getbible.net/v2/bkr/22/5.json",
-    "sha": "1644f3c2140a67e67b528b6b07c62e2e5c19f254"
+    "sha": "8ec936ddff8a59c7ad84b19f10f2d303cdd60fe4"
   },
   "6": {
     "translation": "Czech BKR",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Píseň písní 6",
     "url": "https://api.getbible.net/v2/bkr/22/6.json",
-    "sha": "61ace8681acf7596b4412843ed107c3ea19dcbec"
+    "sha": "9dace492f83670b6b885641181cfb18255940817"
   },
   "7": {
     "translation": "Czech BKR",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Píseň písní 7",
     "url": "https://api.getbible.net/v2/bkr/22/7.json",
-    "sha": "70c15a7d28dc042b68787af80a2c9dfde2dc90f0"
+    "sha": "7711a8d5ddb3f15482006bb228f8f3c3e8c0f44a"
   },
   "8": {
     "translation": "Czech BKR",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Píseň písní",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Píseň písní 8",
     "url": "https://api.getbible.net/v2/bkr/22/8.json",
-    "sha": "22f87e3ee05fcc3ad5487b533b251390f0a7425f"
+    "sha": "b7fca80930cfcda85a198892fcaa29f402c7ba73"
   }
 }

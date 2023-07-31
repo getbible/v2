@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Esther 1",
     "url": "https://api.getbible.net/v2/kjv/17/1.json",
-    "sha": "fbef06e086dd4d2c42c700c32f1eb782867bbd84"
+    "sha": "3779f7be64e202b8a597e29a01f8894e17cb5c2c"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Esther 2",
     "url": "https://api.getbible.net/v2/kjv/17/2.json",
-    "sha": "0eb0473214284b69d82ef69cfca9f601391623ad"
+    "sha": "7b06cd60975a34e6d772aec75aaa8af45d46a71a"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Esther 3",
     "url": "https://api.getbible.net/v2/kjv/17/3.json",
-    "sha": "bd220501e9c0cbfb7d0ba2071fe9ff009f799320"
+    "sha": "bbbe27219ef7b1e707db186923f04c5ddde667f9"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Esther 4",
     "url": "https://api.getbible.net/v2/kjv/17/4.json",
-    "sha": "f55058c87a8e8397b177b61dbec42bd3839b84d3"
+    "sha": "dc9df99d5f770f5fe3a902eea327c509a668bb5a"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Esther 5",
     "url": "https://api.getbible.net/v2/kjv/17/5.json",
-    "sha": "eeca35e323595b83874e230f16b951ee41bad4c8"
+    "sha": "f2a4259a3c9f5e36f168ed66b7b32431427953be"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Esther 6",
     "url": "https://api.getbible.net/v2/kjv/17/6.json",
-    "sha": "9a4494dc13abda62a7ee69e1b55d62f155a81240"
+    "sha": "40891c0d762f52e7194318c40a4af22085ce6773"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Esther 7",
     "url": "https://api.getbible.net/v2/kjv/17/7.json",
-    "sha": "f7c8a906ca42b5d54d3e428d8ac719857e6d7b32"
+    "sha": "03ac9c9f66c097c67ea5db21b81e9ad2a89c04d7"
   },
   "8": {
     "translation": "King James Version",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Esther 8",
     "url": "https://api.getbible.net/v2/kjv/17/8.json",
-    "sha": "035326a72f21bd97ba036a16810d6562436cff43"
+    "sha": "156b5e7c208becc2c548d26052cf5471589fb8a5"
   },
   "9": {
     "translation": "King James Version",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Esther 9",
     "url": "https://api.getbible.net/v2/kjv/17/9.json",
-    "sha": "81918ab796859aaecc4ba8d29fd7ea399c9b67a3"
+    "sha": "c78e7fee6834153b603acb7c1d479007ebe941a3"
   },
   "10": {
     "translation": "King James Version",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Esther 10",
     "url": "https://api.getbible.net/v2/kjv/17/10.json",
-    "sha": "d2dd83cadf4f828725ed673a61522503686b387a"
+    "sha": "97c620b8b2211ef1c8d1bbd16336b68ae1b125a0"
   }
 }

@@ -3,14 +3,14 @@
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 31,
-    "book_name": "Obadiah",
+    "book_name": "עֹבַדְיָה",
     "chapter": 1,
-    "name": "Obadiah 1",
+    "name": "עֹבַדְיָה 1",
     "url": "https://api.getbible.net/v2/codex/31/1.json",
-    "sha": "39cdad81d3fa446b61db5e8dcf1e62b17c12287f"
+    "sha": "0582d4dec1cea517b4c05cb0f967c9853169a9d5"
   }
 }

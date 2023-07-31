@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Genesi",
     "url": "https://api.getbible.net/v2/giovanni/1.json",
-    "sha": "bfb6b1db3b71ee0348490538e294d2085a63e6f0"
+    "sha": "c22d3c542202bd23bf8de815ff75d8bc46743b27"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Esodo",
     "url": "https://api.getbible.net/v2/giovanni/2.json",
-    "sha": "a9cccbb82868e7029cac43852bb7e781ddffb6d0"
+    "sha": "6b6e6cb57f541b05ea0e15d8930c55ba865b4298"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levitico",
     "url": "https://api.getbible.net/v2/giovanni/3.json",
-    "sha": "c0bc880bf1d19a9c2094305b84573c47d73d9131"
+    "sha": "b350c327e700fe771b5ca1d2cc2eac79457959fb"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Numeri",
     "url": "https://api.getbible.net/v2/giovanni/4.json",
-    "sha": "6eb6f48d11785ac5edb789b89c4e09d28128ce0d"
+    "sha": "249a88cf7e398f0b588ce6b46b75d9d2809c3ff5"
   },
   "5": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomio",
     "url": "https://api.getbible.net/v2/giovanni/5.json",
-    "sha": "5ac388687c7546f25c360dadea1fa8a466eeada9"
+    "sha": "b1ee171bcf875f2e50fb4f5f960d1fd67140cb31"
   },
   "6": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Giosuè",
     "url": "https://api.getbible.net/v2/giovanni/6.json",
-    "sha": "2aa727afad1da8cd757022c319ed897b53808aed"
+    "sha": "46b5fbbfae538bb526227f305e3d87b67262fcd2"
   },
   "7": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Giudici",
     "url": "https://api.getbible.net/v2/giovanni/7.json",
-    "sha": "f8e968de5529cef69f7b3967578940c6185e13af"
+    "sha": "056f06c838e94ddc220d6e2dd9d3232519077cc8"
   },
   "8": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rut",
     "url": "https://api.getbible.net/v2/giovanni/8.json",
-    "sha": "5a82e5f42be1493ab7ab3aa6dbe15744822cb678"
+    "sha": "c217571b8165b61d1740f23516ed57dcc895143c"
   },
   "9": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "1 Samuele",
     "url": "https://api.getbible.net/v2/giovanni/9.json",
-    "sha": "6367a989a0aebe97a077527b3d1c1401acafb43c"
+    "sha": "4531fa7782a15f38217782cc7ef3ba33cfbb5b97"
   },
   "10": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "2 Samuele",
     "url": "https://api.getbible.net/v2/giovanni/10.json",
-    "sha": "afbca15f39ae10c7942f86ef6c36ec6e5a740229"
+    "sha": "4bbb780fbc9b0b8ebbea8f2bffd9178e4744f07a"
   },
   "11": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Re",
     "url": "https://api.getbible.net/v2/giovanni/11.json",
-    "sha": "880263f202472a3947b7f2a1ba724b6e77f099f2"
+    "sha": "871660008c70c0d22010196dd0f2156dae9c344d"
   },
   "12": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Re",
     "url": "https://api.getbible.net/v2/giovanni/12.json",
-    "sha": "89d111732748bbab99bc79a31726c3faade22314"
+    "sha": "fb57758551f5e35eaa10c5289fe56bd32fab8323"
   },
   "13": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Cronache",
     "url": "https://api.getbible.net/v2/giovanni/13.json",
-    "sha": "9b0e19ba32e4110ab5ee2258283420a0f3c433a6"
+    "sha": "369a13def3fd6887d14e31b99794fad9e2036dc3"
   },
   "14": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Cronache",
     "url": "https://api.getbible.net/v2/giovanni/14.json",
-    "sha": "51a456248858e2b9aa8b672ddb5d2b4e8b90f065"
+    "sha": "f0fa95dc4de17c8fe55b9f9838c240e0232d9d9e"
   },
   "15": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Esdra",
     "url": "https://api.getbible.net/v2/giovanni/15.json",
-    "sha": "21fec217028bcbf4d8e8832081f16c7cc4614de4"
+    "sha": "7cc9a08ed8cf5dc811fe8a31163410bca601acce"
   },
   "16": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Neemia",
     "url": "https://api.getbible.net/v2/giovanni/16.json",
-    "sha": "95831465ca3ac4a29e6993b9ec47eb05a694d6d5"
+    "sha": "d60a1dae981234887dce362c2016e28b8989c18c"
   },
   "17": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/giovanni/17.json",
-    "sha": "49fd433f860832e3133312e037eab57c96828e60"
+    "sha": "3f88e50594dd1b7b64585a284a091c7389bb2c47"
   },
   "18": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Giobbe",
     "url": "https://api.getbible.net/v2/giovanni/18.json",
-    "sha": "dadd535b5f8c21d64d860e2166233cf82bfa779c"
+    "sha": "1224ce510005cd6c538ef7aa0dec080290ed3934"
   },
   "19": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Salmi",
     "url": "https://api.getbible.net/v2/giovanni/19.json",
-    "sha": "b72ba31f68677cbed66f67ead616066f19c67371"
+    "sha": "c158447150b0d4279485ca6624ef31baea0710cd"
   },
   "20": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Proverbi",
     "url": "https://api.getbible.net/v2/giovanni/20.json",
-    "sha": "79da131f1f0bd3972cf119113224a5498e44ed6b"
+    "sha": "c01fa64f91b48ff91da3e80fd47eb3b03d779f5d"
   },
   "21": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Ecclesiaste",
     "url": "https://api.getbible.net/v2/giovanni/21.json",
-    "sha": "78a4610844035c34e43747da98d4c611ee7f9542"
+    "sha": "029e211eab0ac40581eca7fd09fc648dfca5c3a9"
   },
   "22": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Cantico dei Cantici",
     "url": "https://api.getbible.net/v2/giovanni/22.json",
-    "sha": "3815043eb01b6db9503349a32842b3239f3812a0"
+    "sha": "f0f20d62824e64e6f8b9ead585e136006f3b1352"
   },
   "23": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Isaia",
     "url": "https://api.getbible.net/v2/giovanni/23.json",
-    "sha": "96199c27ebf7a9f37866bc275d8c6f67cb6e2393"
+    "sha": "479d83bb431f1cf3a59ddd5621c6a871882ea84d"
   },
   "24": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Geremia",
     "url": "https://api.getbible.net/v2/giovanni/24.json",
-    "sha": "25c38624a384530cbe430f70425be9de81ee947e"
+    "sha": "74eaedfe3cf63ce5b5b60e02ae77268f2bf6cb85"
   },
   "25": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Lamentazioni",
     "url": "https://api.getbible.net/v2/giovanni/25.json",
-    "sha": "2d7f59572c119328d15158df633b4fb4b3f56ec6"
+    "sha": "52ab18b52c04b3b00cd853df15ef95166d139f18"
   },
   "26": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezechiele",
     "url": "https://api.getbible.net/v2/giovanni/26.json",
-    "sha": "b215f38c7732759486e683249a7b608bd05b9b0a"
+    "sha": "8abfa2c355d5bef7b2b5a01a2e6157d5c3f3ccfd"
   },
   "27": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Daniele",
     "url": "https://api.getbible.net/v2/giovanni/27.json",
-    "sha": "4c2814bcf94c81aa4c34d6f23269eb91ced21d3b"
+    "sha": "2a2b2800a51e48a3cc9ba1ce8d967385adaac2aa"
   },
   "28": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Osea",
     "url": "https://api.getbible.net/v2/giovanni/28.json",
-    "sha": "5b5ab1269e15ce26201d848a0698abad15bce5a3"
+    "sha": "14e1a40a3695d8aea55e7b1ba287eb32bd75fc4b"
   },
   "29": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Gioele",
     "url": "https://api.getbible.net/v2/giovanni/29.json",
-    "sha": "34ed8d1546c3593f66ea538d6978d7b4bf010416"
+    "sha": "69454949db654e744baf59bf8911e15c3c724364"
   },
   "30": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Abdia",
     "url": "https://api.getbible.net/v2/giovanni/31.json",
-    "sha": "0133a6ad4239cd04983063bb5704af12eb944449"
+    "sha": "b50c6d922629a68c23437d0dc642b47fc48d6995"
   },
   "32": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Giona",
     "url": "https://api.getbible.net/v2/giovanni/32.json",
-    "sha": "afe07d1e143af3c9735a444362d691bce7b6d29d"
+    "sha": "f8dfc4ac710c0d4f09369d56aaf3a021020fe959"
   },
   "33": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Michea",
     "url": "https://api.getbible.net/v2/giovanni/33.json",
-    "sha": "37518139f9f9ae24f44baef0515bf58ae400af9c"
+    "sha": "565f3243370f8857235ec98b44fa85f4c9dea4fd"
   },
   "34": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Abacuc",
     "url": "https://api.getbible.net/v2/giovanni/35.json",
-    "sha": "ccaf0ce711fed89ff03d601a4ab27284b627020f"
+    "sha": "aac6df549740a7d2d95998c7024e2b1c9cd34b27"
   },
   "36": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sofonia",
     "url": "https://api.getbible.net/v2/giovanni/36.json",
-    "sha": "e836ecd545e2c12de90a255df73c1f420cfdf4a7"
+    "sha": "0ea5c2dfdb94c8f88a68526ec23438b009a431d2"
   },
   "37": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Aggeo",
     "url": "https://api.getbible.net/v2/giovanni/37.json",
-    "sha": "1101e49b016d6ebccb2f280bb01ee1166a64d743"
+    "sha": "cc4b4aefe2413c2bb446d70d3b92f535c69e8140"
   },
   "38": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zaccaria",
     "url": "https://api.getbible.net/v2/giovanni/38.json",
-    "sha": "f6ef03c76b573aa925640ee76e06b38677362d6f"
+    "sha": "0c0147545d1cfd2ac1f2f8cb9953582be4faaf75"
   },
   "39": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malachia",
     "url": "https://api.getbible.net/v2/giovanni/39.json",
-    "sha": "20cf852b6afb625917bfcd2f9f469a7d7b3c652f"
+    "sha": "8ea905ab0afa57f5e618cf80471c938920a487c0"
   },
   "40": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matteo",
     "url": "https://api.getbible.net/v2/giovanni/40.json",
-    "sha": "28ca725e6302d89611904644b0a3ff4988f1017f"
+    "sha": "15ce169c170dede334b00d73cad73fa71ce01589"
   },
   "41": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marco",
     "url": "https://api.getbible.net/v2/giovanni/41.json",
-    "sha": "098d4794ddd4ebc4a5b5bb91192fc1b43d1592da"
+    "sha": "ea2c71b91b659a7abaee30eae638fefff5c13625"
   },
   "42": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Luca",
     "url": "https://api.getbible.net/v2/giovanni/42.json",
-    "sha": "017ac8ab7a5531f11ce3afeb4b6c06758e085b98"
+    "sha": "a0bacbf748705798013ce6bb6be878d7594eaef5"
   },
   "43": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Giovanni",
     "url": "https://api.getbible.net/v2/giovanni/43.json",
-    "sha": "008852fb8c6392b8077691363b11d59fa8049d2f"
+    "sha": "98e012a0cf52d56ca99f198d7c5a875e59a21bcb"
   },
   "44": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Atti",
     "url": "https://api.getbible.net/v2/giovanni/44.json",
-    "sha": "bad3a8895e65674661dc122783f8b820ac78c742"
+    "sha": "ab97c770dbc77749590140080eee3a4b8f884037"
   },
   "45": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romani",
     "url": "https://api.getbible.net/v2/giovanni/45.json",
-    "sha": "cd1c8ef91c0b172558a1ee3d63d0c21f0475d621"
+    "sha": "110d07680a52d798077a16257d65a0bd9b8e743d"
   },
   "46": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Corinzi",
     "url": "https://api.getbible.net/v2/giovanni/46.json",
-    "sha": "82e0a1e8bd100e195cf00829c4f560fece984e84"
+    "sha": "9e6e2b00aa4c4c041a0c5c8d230461481f77bdea"
   },
   "47": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Corinzi",
     "url": "https://api.getbible.net/v2/giovanni/47.json",
-    "sha": "66cb0042629c3555459a490b57313008f73db39e"
+    "sha": "619e3b0624e774b5bebfcec81a300e313583fafe"
   },
   "48": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galati",
     "url": "https://api.getbible.net/v2/giovanni/48.json",
-    "sha": "575365fcd9d71031cdb93b1c53485effe732805c"
+    "sha": "5cce2572df3ff72424326421a6a68aeb8b8ba08b"
   },
   "49": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efesini",
     "url": "https://api.getbible.net/v2/giovanni/49.json",
-    "sha": "cf2f1aaba7bb0cf001fa8014e3473c2974621fb2"
+    "sha": "be9586b90e10f776e769f8cd09f220d7be5d2eec"
   },
   "50": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filippesi",
     "url": "https://api.getbible.net/v2/giovanni/50.json",
-    "sha": "0192ddc1b1f61d625ac8a28f8ab955b6b0804db1"
+    "sha": "1454c6f635e12cbc2d07c5714824fed5dbab3491"
   },
   "51": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Colossesi",
     "url": "https://api.getbible.net/v2/giovanni/51.json",
-    "sha": "99567ff9560013be2ec7716f9cf0a2c17348e7f7"
+    "sha": "0863e07963b79ba824aaaa20826724d65b4e1f46"
   },
   "52": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tessalonicesi",
     "url": "https://api.getbible.net/v2/giovanni/52.json",
-    "sha": "3cb1ed954c02bd3b1278eaf66a048529e18cc718"
+    "sha": "41977cfda8dca9dcf8fdeb72740bd8c83c4a95e9"
   },
   "53": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tessalonicesi",
     "url": "https://api.getbible.net/v2/giovanni/53.json",
-    "sha": "8e029d3da566eee673ceafcfa431991905375027"
+    "sha": "b37b3de470a7ef5cb5b49d370964b3685f19816e"
   },
   "54": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteo",
     "url": "https://api.getbible.net/v2/giovanni/54.json",
-    "sha": "d6fc382e1689c5613ca93b4aa3056ca8a5ca5d9a"
+    "sha": "a87b17ae67e54340693167b690318ef13d353ff2"
   },
   "55": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteo",
     "url": "https://api.getbible.net/v2/giovanni/55.json",
-    "sha": "dea1647a4d21a03a17b53bbbe0a404ad3404d04d"
+    "sha": "3f7f9e324733236d9831f80d7c19d6a6dcec9ba9"
   },
   "56": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tito",
     "url": "https://api.getbible.net/v2/giovanni/56.json",
-    "sha": "b867c4c921717fa69da3b804f965b002d1b2f1b4"
+    "sha": "2d083560b191019818adb87f754541d063f93f94"
   },
   "57": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemone",
     "url": "https://api.getbible.net/v2/giovanni/57.json",
-    "sha": "4adda9e62f4923d67a18b5bb7a70c8bd639235dd"
+    "sha": "b28f7e94562d78359ce2a1743bbac61e3694d5b0"
   },
   "58": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Ebrei",
     "url": "https://api.getbible.net/v2/giovanni/58.json",
-    "sha": "f1b9db762fe8f2116a70da6011db949f38b93953"
+    "sha": "e1e7a1c7334428caebbfaf8fc9fd978563d26f2f"
   },
   "59": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Giacomo",
     "url": "https://api.getbible.net/v2/giovanni/59.json",
-    "sha": "c5b83034f5b3f1c9d11d9d788a62bdf208310281"
+    "sha": "b0c4475a7e7b06d459a3797154f333cb3b8c9618"
   },
   "60": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Pietro",
     "url": "https://api.getbible.net/v2/giovanni/60.json",
-    "sha": "c07d1ec54b4e602ccdcb83482170e6636342a80d"
+    "sha": "8f0cf47f0afb6378ee67177ca92b3b336336a84a"
   },
   "61": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Pietro",
     "url": "https://api.getbible.net/v2/giovanni/61.json",
-    "sha": "c1d84ee988e8e8e4b12996abeea9bac6a8c8a7eb"
+    "sha": "4318bf82642717382b1cded325f60369946bca07"
   },
   "62": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Giovanni",
     "url": "https://api.getbible.net/v2/giovanni/62.json",
-    "sha": "46264a1b881145e48ddd4b0b0ea29b3676f09c66"
+    "sha": "a3ca246678754dcecb94ceb3c7c6758f5b2439a5"
   },
   "63": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Giovanni",
     "url": "https://api.getbible.net/v2/giovanni/63.json",
-    "sha": "c874210a483eb22e5ceb875db8ac848834d291d3"
+    "sha": "0481505b52dcf57b9f22a9bc8b8db8e78184a796"
   },
   "64": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Giovanni",
     "url": "https://api.getbible.net/v2/giovanni/64.json",
-    "sha": "1cf9defc0ed6de3b0669dd2bd4c0cea2d3980a37"
+    "sha": "46ed0137996dac3bb8c4086d62ca1f7d9ec5ef1d"
   },
   "65": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Giuda",
     "url": "https://api.getbible.net/v2/giovanni/65.json",
-    "sha": "2a2efa4186f9dbef0894ef4515c04f3cd9b3fbc8"
+    "sha": "546252d6860005c63b37a8b207e77e98e65542af"
   },
   "66": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Apocalisse",
     "url": "https://api.getbible.net/v2/giovanni/66.json",
-    "sha": "44d65ba9c1599b5d801e4a8f41e573aa1d5d592b"
+    "sha": "22127e8fbd6d10d31617c35886da71f198a318bc"
   }
 }

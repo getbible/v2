@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Pedro 1",
     "url": "https://api.getbible.net/v2/almeida/61/1.json",
-    "sha": "08b2d2adde43ddb392f3c5ba6bb03be6f5126d2d"
+    "sha": "99457465382bfe69e3eedad042d48ce825115c63"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Pedro 2",
     "url": "https://api.getbible.net/v2/almeida/61/2.json",
-    "sha": "bf4929d0e684d5d9bb8348dee399d6beb364e424"
+    "sha": "34603a2d1e09efee559e95b6a4664e7d17b93a2a"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Pedro 3",
     "url": "https://api.getbible.net/v2/almeida/61/3.json",
-    "sha": "35a14204241e52dd871a836e92760b908dea4bc4"
+    "sha": "0d2fdf4b095be518cb872a1328f2d6dd23d49cfa"
   }
 }

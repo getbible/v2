@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Colossiens 1",
     "url": "https://api.getbible.net/v2/ls1910/51/1.json",
-    "sha": "0261f0ddee1d4c0aa7a2d83e8216cdf1d5db83a4"
+    "sha": "9b76e4b8be8c3f9c1bc403ae2d37b75ad5a53e2c"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Colossiens 2",
     "url": "https://api.getbible.net/v2/ls1910/51/2.json",
-    "sha": "6fd422fcf7e073c372b6a3089d9a099128fd2645"
+    "sha": "80ae383a3cb2a81ad07d63cb966895c535d5aaeb"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Colossiens 3",
     "url": "https://api.getbible.net/v2/ls1910/51/3.json",
-    "sha": "56d60acc151d37a230fa6b78788d35fe39f3824c"
+    "sha": "962325bc210baea0555f2d56e80c8bb486281559"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Colossiens 4",
     "url": "https://api.getbible.net/v2/ls1910/51/4.json",
-    "sha": "81aa218f73d7a3a1ea5d40dcab70b5c0ff99a7be"
+    "sha": "effbb801c222aaf62de589834f4ae5a008165b6e"
   }
 }

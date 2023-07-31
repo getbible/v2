@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Песнь Песней 1",
     "url": "https://api.getbible.net/v2/synodal/22/1.json",
-    "sha": "062a3efaaca4688e486f7e2c7059a051d67705e6"
+    "sha": "4d5281b53ba67f916af977b32938b4f805977530"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Песнь Песней 2",
     "url": "https://api.getbible.net/v2/synodal/22/2.json",
-    "sha": "5cb7419b325eb11a81fe6ffe496e5f65a8575402"
+    "sha": "71d58d2d1dd4f88760e60b44d840fa94e533a475"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Песнь Песней 3",
     "url": "https://api.getbible.net/v2/synodal/22/3.json",
-    "sha": "2895571702dd7c96464bdaf44aadc440b25e1239"
+    "sha": "e211e158e6b59db307d5644ca2bb42e59cb4acbb"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Песнь Песней 4",
     "url": "https://api.getbible.net/v2/synodal/22/4.json",
-    "sha": "5d3241ea5a95fdc9d42cd066bdcd2b2a0f4e57d9"
+    "sha": "c43ece8535da16d7d704fd67548999125badb87b"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Песнь Песней 5",
     "url": "https://api.getbible.net/v2/synodal/22/5.json",
-    "sha": "099f396bf7ed43bf0bb35ec10d9f93bd46a5fd2e"
+    "sha": "6b3ca3c61e6ef1233d08022e355a88d01bd279ca"
   },
   "6": {
     "translation": "Synodal Translation (1876)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Песнь Песней 6",
     "url": "https://api.getbible.net/v2/synodal/22/6.json",
-    "sha": "e19e281aee5c43ad63ad982970a55275b451435c"
+    "sha": "d8060fc3843daf8322ad71a7854ef351305c7839"
   },
   "7": {
     "translation": "Synodal Translation (1876)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Песнь Песней 7",
     "url": "https://api.getbible.net/v2/synodal/22/7.json",
-    "sha": "f1e0871adf053ddcde1460c86adfcb8f741ad43d"
+    "sha": "58ee8dad47366657e633dd3fefc82d93810e4fdc"
   },
   "8": {
     "translation": "Synodal Translation (1876)",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Песнь Песней",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Песнь Песней 8",
     "url": "https://api.getbible.net/v2/synodal/22/8.json",
-    "sha": "798cd86666eae3988419a1d4d7f74ecf518d7722"
+    "sha": "7e0468c22e88537953623518893df9aaf50eaebb"
   }
 }

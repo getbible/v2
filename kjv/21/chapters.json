@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ecclesiastes 1",
     "url": "https://api.getbible.net/v2/kjv/21/1.json",
-    "sha": "6823d5c6e6ddbdf0ecad66a4773066bb1fdda463"
+    "sha": "d3887fa19c72f6d321b43a409df900d4607ab916"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ecclesiastes 2",
     "url": "https://api.getbible.net/v2/kjv/21/2.json",
-    "sha": "681f4822c691348ec9951613496453082d87805a"
+    "sha": "6574522dddb96c05c56abeb9650fcb769cafa4b1"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ecclesiastes 3",
     "url": "https://api.getbible.net/v2/kjv/21/3.json",
-    "sha": "f732349b976ec8c8a8228dbb05641a1969fc3d58"
+    "sha": "02cc2a9b82870f801f843e2d3843f65e40b15d6c"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ecclesiastes 4",
     "url": "https://api.getbible.net/v2/kjv/21/4.json",
-    "sha": "e8833d7bc3f00eef03e6236dac019aa861aac40c"
+    "sha": "811e1089a2369cd00513c4d7cd85e2ca2eed6b1d"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ecclesiastes 5",
     "url": "https://api.getbible.net/v2/kjv/21/5.json",
-    "sha": "cf0560ee7006af49c902a9030f6bda6cbf4eb6df"
+    "sha": "7443c0274faa838ffbe2dccb69aee4e39538144b"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Ecclesiastes 6",
     "url": "https://api.getbible.net/v2/kjv/21/6.json",
-    "sha": "67c156210479480d3d3ec04af123553c25e11e7c"
+    "sha": "335503279615e4d7d56480357f6b010af6a2f8ad"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Ecclesiastes 7",
     "url": "https://api.getbible.net/v2/kjv/21/7.json",
-    "sha": "8e702268ea12e3c877343fad9fda78d48382854a"
+    "sha": "583be662a97bf27185f8a49b04321c22e7b2f9c3"
   },
   "8": {
     "translation": "King James Version",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Ecclesiastes 8",
     "url": "https://api.getbible.net/v2/kjv/21/8.json",
-    "sha": "74f4b312a4e6dc9d82cd17e6b392281ae26c89cf"
+    "sha": "024057e0512256fb694e07ea50c9ee12d8a8da4a"
   },
   "9": {
     "translation": "King James Version",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Ecclesiastes 9",
     "url": "https://api.getbible.net/v2/kjv/21/9.json",
-    "sha": "73a4664ab216fc4287d6623d68d1b20f5b91ffe5"
+    "sha": "ab2c59073a70234c0898417e86e79f9102d64537"
   },
   "10": {
     "translation": "King James Version",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Ecclesiastes 10",
     "url": "https://api.getbible.net/v2/kjv/21/10.json",
-    "sha": "c5724dd95abe86d13e129049f78abb61bba9e2bd"
+    "sha": "9a908ea3e2e3ea952e4dbf3c7656469a3d59030f"
   },
   "11": {
     "translation": "King James Version",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Ecclesiastes 11",
     "url": "https://api.getbible.net/v2/kjv/21/11.json",
-    "sha": "53111e06087ee4133b959fab662494a5398056e4"
+    "sha": "f63b584ae5d3613a81b4dedbb294f6e5829d8bd3"
   },
   "12": {
     "translation": "King James Version",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Ecclesiastes 12",
     "url": "https://api.getbible.net/v2/kjv/21/12.json",
-    "sha": "3d253846d639a4f59ef42a1b7e4147bbdbfaf20a"
+    "sha": "749e336271c2acbe98d1f7f50667a410d714f338"
   }
 }

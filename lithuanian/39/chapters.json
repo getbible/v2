@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachijas",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malachijas 1",
     "url": "https://api.getbible.net/v2/lithuanian/39/1.json",
-    "sha": "cd08e87c459154232c001576bf560f2d45e63f57"
+    "sha": "89dd1eab6673243afb549bdce966a15f35c57138"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachijas",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malachijas 2",
     "url": "https://api.getbible.net/v2/lithuanian/39/2.json",
-    "sha": "dc897f83a2bb5bfd546eff580269c075ae87f164"
+    "sha": "1b0b678cbab9d323abb7ecc98be4d8aa721e1e8b"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachijas",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malachijas 3",
     "url": "https://api.getbible.net/v2/lithuanian/39/3.json",
-    "sha": "10ac1b2622c8056fb9fd342900f15245912895ad"
+    "sha": "8331603fc63329e2ff0c064b5e74bfcfdba9f436"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachijas",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malachijas 4",
     "url": "https://api.getbible.net/v2/lithuanian/39/4.json",
-    "sha": "6df543756555727f95102fef50a454f50cda9e42"
+    "sha": "a8684f3da43d28629fe9e59790c869cdce546934"
   }
 }

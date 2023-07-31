@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timothée 1",
     "url": "https://api.getbible.net/v2/ls1910/55/1.json",
-    "sha": "cff219d38bbe4bc912f1047edd13ffcebd6e4136"
+    "sha": "0020751a59745dbf2a5f08d302b5004f8292ce9b"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timothée 2",
     "url": "https://api.getbible.net/v2/ls1910/55/2.json",
-    "sha": "364c93a37c5b10a5f9c8feff5a768c6839304024"
+    "sha": "f8e7122d0d66c6d9b9f1f2e22c2a3a076830c778"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timothée 3",
     "url": "https://api.getbible.net/v2/ls1910/55/3.json",
-    "sha": "c058f5234112de8b27c072001ea0818b36df284a"
+    "sha": "107bdb51a98c2ca3fa32dba7ad460c13c16f567f"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timothée",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timothée 4",
     "url": "https://api.getbible.net/v2/ls1910/55/4.json",
-    "sha": "39128465b598cc5f2d1fe6887237e0ef19e15d51"
+    "sha": "f41c2e1b4b79ca97ffb145148743c64b215596f1"
   }
 }

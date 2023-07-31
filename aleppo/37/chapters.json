@@ -3,28 +3,28 @@
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "חַגַּי",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "חַגַּי 1",
     "url": "https://api.getbible.net/v2/aleppo/37/1.json",
-    "sha": "d06346aeeb1040a8e84d2567d1b8beae54b49ea3"
+    "sha": "6dbbcbed625830d2e34b25e16448f29cdc2602f9"
   },
   "2": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "חַגַּי",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "חַגַּי 2",
     "url": "https://api.getbible.net/v2/aleppo/37/2.json",
-    "sha": "6ef2a395ca2cb2181715ed9eb8a5243794fb8108"
+    "sha": "e34b4fd5d053a6aed67d9634d19334c8ec91250d"
   }
 }

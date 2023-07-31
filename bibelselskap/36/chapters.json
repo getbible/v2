@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjas bok",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sefanjas bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/36/1.json",
-    "sha": "be06ca228d7fc609bf5b7a8fc5fd40e16b1521ee"
+    "sha": "e3ded8accfafeb7c43cf0a5bb7ff061436a806bb"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjas bok",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sefanjas bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/36/2.json",
-    "sha": "faaa1e8eae72f3df06ebbbdcc445afe36aabdb90"
+    "sha": "218bef6ef41b0d98f59a787cd50e1a803e593476"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjas bok",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sefanjas bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/36/3.json",
-    "sha": "59d7ecc4a759b648346925afc688c7a198f8135a"
+    "sha": "379299eeb4f6d1a7fd5ac41f37ad2c4ca6d3d3ba"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jacques 1",
     "url": "https://api.getbible.net/v2/darby/59/1.json",
-    "sha": "516367ded2da0d2da3a64b5ed4e6dbdfa11984cb"
+    "sha": "8524babb8ff096e57fcfb56502a6a6fcdad2dcce"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jacques 2",
     "url": "https://api.getbible.net/v2/darby/59/2.json",
-    "sha": "da7ebbdf2cfb9dc4ad70a28ee0c73908e57b19f8"
+    "sha": "c085593adac21685bb0d346b15cf82ec4e4e5ab6"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jacques 3",
     "url": "https://api.getbible.net/v2/darby/59/3.json",
-    "sha": "72d700864326261a48f4e0c6b59ad91a21ac89ea"
+    "sha": "52d6c652f458d37c6868b5ac79f007dbeaec7080"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jacques 4",
     "url": "https://api.getbible.net/v2/darby/59/4.json",
-    "sha": "2ee9bb83ad6f9a52c82a41b4f06b7d1ec6aa2d09"
+    "sha": "54efede8152ef7fd0645ce9d8f2207f3d7af3a6d"
   },
   "5": {
     "translation": "Darby",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jacques 5",
     "url": "https://api.getbible.net/v2/darby/59/5.json",
-    "sha": "44a468549dc713e9ceeb4a82802baebec2d7c05d"
+    "sha": "b8470aec13e4be50e036eeb9199d09bb542f4fb8"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ρούθ",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Ρούθ 1",
     "url": "https://api.getbible.net/v2/moderngreek/8/1.json",
-    "sha": "5f9bddfb303e35755e84fdf052c9cf1378c07dff"
+    "sha": "b6a7b2915a9c45fc7da594decb17c96bca468bd7"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ρούθ",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Ρούθ 2",
     "url": "https://api.getbible.net/v2/moderngreek/8/2.json",
-    "sha": "b5cf3c8ad096124697286843fdd3caab1a3d534f"
+    "sha": "a3eaf6af322e8b5520eb962bd8c3c59d537cc537"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ρούθ",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Ρούθ 3",
     "url": "https://api.getbible.net/v2/moderngreek/8/3.json",
-    "sha": "0662d36a5cd2670644aac94633395fc6e810a3a9"
+    "sha": "bb0841bf8c4f479cda0a85e4f1f2c698bb9d8095"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ρούθ",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Ρούθ 4",
     "url": "https://api.getbible.net/v2/moderngreek/8/4.json",
-    "sha": "ad8bde24c6f8bac451090e5b8f333b569fab5c95"
+    "sha": "15f0cd3e9849647d4d461241e5dbc790c17d26bc"
   }
 }

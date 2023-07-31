@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesaloniceni",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Tesaloniceni 1",
     "url": "https://api.getbible.net/v2/cornilescu/53/1.json",
-    "sha": "4df0a026784fd1c612a8f34815922ff205243eb4"
+    "sha": "16a92ded2b13807c600d2b6117dba2547f6df220"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesaloniceni",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Tesaloniceni 2",
     "url": "https://api.getbible.net/v2/cornilescu/53/2.json",
-    "sha": "4cc208e644706bdba7702943fc06da9ff3b1c40c"
+    "sha": "02e89cb342454777e760f2e31b71247fb276463c"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesaloniceni",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Tesaloniceni 3",
     "url": "https://api.getbible.net/v2/cornilescu/53/3.json",
-    "sha": "187d2a209acedab1b43571fb91d075070fbb0503"
+    "sha": "de9e19aa2259c5c183709b182baa5af7ca787ff7"
   }
 }

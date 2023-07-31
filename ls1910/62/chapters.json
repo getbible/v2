@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Jean 1",
     "url": "https://api.getbible.net/v2/ls1910/62/1.json",
-    "sha": "5859658a288f235c6b803b5ccc513f7d331ddc49"
+    "sha": "568251bcb482d9d1eb0dd4ad1979b58ad9a20e7d"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Jean 2",
     "url": "https://api.getbible.net/v2/ls1910/62/2.json",
-    "sha": "54816ad4a49a0d8628f91e684fbc44752e33114d"
+    "sha": "331f9bba901b5bdf23490286e0ac82003466de1d"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Jean 3",
     "url": "https://api.getbible.net/v2/ls1910/62/3.json",
-    "sha": "45a1f49d11ab023c4106c56d543ab67a03d3a2dc"
+    "sha": "fc4794018bbe5538530fff98784c01f57fc5a7e3"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Jean 4",
     "url": "https://api.getbible.net/v2/ls1910/62/4.json",
-    "sha": "21d5e0b97de5851754e5e9418a7ae1b23a5407be"
+    "sha": "ed99cdd27980578bb351e25f3f6f4cd71995d6b8"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Jean 5",
     "url": "https://api.getbible.net/v2/ls1910/62/5.json",
-    "sha": "fd7d20b70508874cbb44c7fc0390a5f517982dda"
+    "sha": "c96ec75badee2ca964b57e2b96e4ed10fba41d7a"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "雅歌 1",
     "url": "https://api.getbible.net/v2/cns/22/1.json",
-    "sha": "297faae1898c5c98f0959eaebe6772f94f7547dd"
+    "sha": "cda09aa57544556fb36873aa7a1438f74ecacd6b"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "雅歌 2",
     "url": "https://api.getbible.net/v2/cns/22/2.json",
-    "sha": "e3cb46985deb41394f44dcb66cb5ea4675a2f803"
+    "sha": "3177a9c9cc0fda18ef5704e8d3cd145d16aa55fa"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "雅歌 3",
     "url": "https://api.getbible.net/v2/cns/22/3.json",
-    "sha": "86cb41a40d7ae098dee74bbc3cda74c054ccf635"
+    "sha": "2450b481f68e7df3b0e6a46bd7efb7be59ff7b62"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "雅歌 4",
     "url": "https://api.getbible.net/v2/cns/22/4.json",
-    "sha": "3f828623fad73b5a78b52481de5d8f5a46fa4d3c"
+    "sha": "a842b027e55f8c3447bdce7683ee6d34cdf8510b"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "雅歌 5",
     "url": "https://api.getbible.net/v2/cns/22/5.json",
-    "sha": "c066c07a45d5057252211368dd7c9872c4ef77b2"
+    "sha": "de5ce339c0879cda56fcacb933934829bfde4c19"
   },
   "6": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -81,13 +81,13 @@
     "chapter": 6,
     "name": "雅歌 6",
     "url": "https://api.getbible.net/v2/cns/22/6.json",
-    "sha": "608f55335c7423196a164eec01777c58c12fadc3"
+    "sha": "d6c427ab410d2d31ebf2e5505239ac070b02a46d"
   },
   "7": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -95,13 +95,13 @@
     "chapter": 7,
     "name": "雅歌 7",
     "url": "https://api.getbible.net/v2/cns/22/7.json",
-    "sha": "f16dc8f4d17d56692a12d0ad5aa5b30cef72ad21"
+    "sha": "c550c78748b6a2c3c85fa5d326440d15236feb84"
   },
   "8": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "雅歌 8",
     "url": "https://api.getbible.net/v2/cns/22/8.json",
-    "sha": "220fdf7b3aa278957f4320439ec594f970d6902c"
+    "sha": "088ae043f18ff1e7327fc000fb2889d040634b95"
   }
 }

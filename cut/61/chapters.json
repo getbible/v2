@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "彼得後書 1",
     "url": "https://api.getbible.net/v2/cut/61/1.json",
-    "sha": "643c758525b7e81cce6ddd78967564c8bede68f5"
+    "sha": "f61f25b656a3198bc85b703eb70fe484fc654d73"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "彼得後書 2",
     "url": "https://api.getbible.net/v2/cut/61/2.json",
-    "sha": "3c32c380b21f89f8eb182d2ce8616a230a52f64b"
+    "sha": "b4370784547fcd8f69599ca0ebd3c3824db6f28d"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "彼得後書 3",
     "url": "https://api.getbible.net/v2/cut/61/3.json",
-    "sha": "94f4a429273303b2b63e53ecb2190ac361316ece"
+    "sha": "ac232d05d1197e16e0298046365e1dd3474ca8e3"
   }
 }

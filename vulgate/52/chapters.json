@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "I Ad Thessalonicenses",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "I Ad Thessalonicenses 1",
     "url": "https://api.getbible.net/v2/vulgate/52/1.json",
-    "sha": "f1a409bb8a11f2e6b025c9d819c0b4b83b226f85"
+    "sha": "bc3f32d4c135d67c524624762062d8d44ea635e8"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "I Ad Thessalonicenses",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "I Ad Thessalonicenses 2",
     "url": "https://api.getbible.net/v2/vulgate/52/2.json",
-    "sha": "92aba059143f132f8a1f0efaf1f9c6cdea065c5c"
+    "sha": "01150524d87556f451e71355958923d6a5896a51"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "I Ad Thessalonicenses",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "I Ad Thessalonicenses 3",
     "url": "https://api.getbible.net/v2/vulgate/52/3.json",
-    "sha": "b263c1d1352e4fd26f58e225a238c054ad07b0d7"
+    "sha": "bf931d13b8a26d057b507a295d30caabf7626bb2"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "I Ad Thessalonicenses",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "I Ad Thessalonicenses 4",
     "url": "https://api.getbible.net/v2/vulgate/52/4.json",
-    "sha": "f64585ffd3bdc7cf4e87e565a499b5989599f820"
+    "sha": "a3b31e279332c142a4664a1d7c28685d4230361f"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "I Ad Thessalonicenses",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "I Ad Thessalonicenses 5",
     "url": "https://api.getbible.net/v2/vulgate/52/5.json",
-    "sha": "628bffb28ed9737b296ee62713222185a920b200"
+    "sha": "904d8179f1557a0d06606393a5cdaa696f4cab74"
   }
 }

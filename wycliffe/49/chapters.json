@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Ephesians 1",
     "url": "https://api.getbible.net/v2/wycliffe/49/1.json",
-    "sha": "dd38635ed6ba95d794a2f28f8ce9bf88528e335a"
+    "sha": "f562bf68c77aec222ee58dca73625a2cfe5ce6a1"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Ephesians 2",
     "url": "https://api.getbible.net/v2/wycliffe/49/2.json",
-    "sha": "eb8b336f0d025e4d3092205bae728466265b1fed"
+    "sha": "c2ee20b146f4a562cddd3e575b03629c0781d0ee"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "Ephesians 3",
     "url": "https://api.getbible.net/v2/wycliffe/49/3.json",
-    "sha": "5b245dc3235a2d17ae32365014c9b832d0bc493f"
+    "sha": "f8af5d303c82100d50cbf7645e9e0adfcfd1dd38"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "Ephesians 4",
     "url": "https://api.getbible.net/v2/wycliffe/49/4.json",
-    "sha": "b9b2f672f07ee6b624a6a6586fd94cf7f6e6be46"
+    "sha": "5c32122a575ee88ecfa922e05f468164acb9909c"
   },
   "5": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "Ephesians 5",
     "url": "https://api.getbible.net/v2/wycliffe/49/5.json",
-    "sha": "c68d6b6f0811c57c257f196a44838eb190e8b453"
+    "sha": "1530ef231db9234efbc773cbd76a2a90cc3be8b8"
   },
   "6": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Ephesians 6",
     "url": "https://api.getbible.net/v2/wycliffe/49/6.json",
-    "sha": "40b16bb7f7dc17d9b57621ad2b148f574ecf9235"
+    "sha": "38cdfcf66fb9cad048c4ea070e97b3d4609a003d"
   }
 }

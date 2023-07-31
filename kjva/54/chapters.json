@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "1 Timothy 1",
     "url": "https://api.getbible.net/v2/kjva/54/1.json",
-    "sha": "3624426bafef9a53ab794ab96ee35df208b8fac2"
+    "sha": "a1cc65d61f1eed931ab64daa56db67230fa75d83"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "1 Timothy 2",
     "url": "https://api.getbible.net/v2/kjva/54/2.json",
-    "sha": "f15d56895b81c5d65fae4c05414c51f6b3bd0278"
+    "sha": "d9b45cb3a2a979578c1c19a9fe7006639bef0ad5"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "1 Timothy 3",
     "url": "https://api.getbible.net/v2/kjva/54/3.json",
-    "sha": "68cf9588dc72b0c9874c14a5830d0dad1d3659ec"
+    "sha": "6d67f32760843e3efce84d5e13e2296a35cd7b56"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "1 Timothy 4",
     "url": "https://api.getbible.net/v2/kjva/54/4.json",
-    "sha": "f49b8ed41d72b5ab3982a61a7c6fe4055298005d"
+    "sha": "684494e816f6478b9075f8e85ec0523ceeea2b73"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "1 Timothy 5",
     "url": "https://api.getbible.net/v2/kjva/54/5.json",
-    "sha": "86bdf8805e665d216b135ef32bd8e1b092204634"
+    "sha": "2b2508b1455c6f8699be158664b285e88df820b8"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1 Timothy 6",
     "url": "https://api.getbible.net/v2/kjva/54/6.json",
-    "sha": "fa59b6e915fc59780a1b71e2e201654bca6fd682"
+    "sha": "38e14392ed3424045d9b603d9e459d5a73cf19fb"
   }
 }

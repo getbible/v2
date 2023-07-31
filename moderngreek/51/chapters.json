@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Προς Κολοσσαείς 1",
     "url": "https://api.getbible.net/v2/moderngreek/51/1.json",
-    "sha": "39c1a4c9837518fdf608a10ffe1abb9c4b64e32a"
+    "sha": "923d0adb3a14076be2e5a21fce62d3b8e308f2eb"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Προς Κολοσσαείς 2",
     "url": "https://api.getbible.net/v2/moderngreek/51/2.json",
-    "sha": "649a6037f84edb77b2ea45fdcb80311b07d1cfe7"
+    "sha": "f1d271fbf3ca03a51b82584464401a71ac09b64e"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Προς Κολοσσαείς 3",
     "url": "https://api.getbible.net/v2/moderngreek/51/3.json",
-    "sha": "43b3fcba590b4c8a21efd9ea0ee45e9fb8d97e27"
+    "sha": "c8be60eb686b36b3ad753f7e6b93078ebe6c6211"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Προς Κολοσσαείς 4",
     "url": "https://api.getbible.net/v2/moderngreek/51/4.json",
-    "sha": "3cd6b00f15d3c6b7d9341d98989130ef67ccae6e"
+    "sha": "b6acb21cc5da1a79fda879e38ae2719a157b0521"
   }
 }

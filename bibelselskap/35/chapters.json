@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakkuks bok",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habakkuks bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/35/1.json",
-    "sha": "cdbae225124b4402ba4f62bcea3337b17309e753"
+    "sha": "257028088076123af877476c0c19da32d758f11f"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakkuks bok",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habakkuks bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/35/2.json",
-    "sha": "c418cb6aa6e54bc6dc3caa8008dd55941f39eb54"
+    "sha": "e6eb5246fbaa9da703f437aa4523c8d91c41ebb7"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakkuks bok",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habakkuks bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/35/3.json",
-    "sha": "6ecde2a3f3dc9638d40f31b80fa4a27c72ffd4a5"
+    "sha": "c2bec71db20ffeb75ccbc0de7ad5112eb4f6d78b"
   }
 }

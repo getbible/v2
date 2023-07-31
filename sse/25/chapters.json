@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Lamentaciones 1",
     "url": "https://api.getbible.net/v2/sse/25/1.json",
-    "sha": "8bbcbe7501b2d3f5a967e2f056bd0b46228f6c3b"
+    "sha": "9dd739c18c0b6677c64370ee29d91ff63caaca2f"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Lamentaciones 2",
     "url": "https://api.getbible.net/v2/sse/25/2.json",
-    "sha": "d0a1fb28a3fe7a5d89330b1b1eab1fc80c536195"
+    "sha": "6b178923561d3cfb90bf95923e30f995f69a27fd"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Lamentaciones 3",
     "url": "https://api.getbible.net/v2/sse/25/3.json",
-    "sha": "f9e7a9be1aa214b2ea5a84938812371e0c6da273"
+    "sha": "ad3cbe8d328c80fe53a02680df08c4bbadf2ffa6"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Lamentaciones 4",
     "url": "https://api.getbible.net/v2/sse/25/4.json",
-    "sha": "23b9f209a91de390bcbaeddb6ad33334750c0790"
+    "sha": "f89bee60c56cd1541f62703c3da9ea0859659f2c"
   },
   "5": {
     "translation": "Sagradas Escrituras (1569)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentaciones",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Lamentaciones 5",
     "url": "https://api.getbible.net/v2/sse/25/5.json",
-    "sha": "baf0a6909699f38dfaccb35d24c06e0b573ed4de"
+    "sha": "b6b0c20146f9711938c935541417d447e04d01fd"
   }
 }

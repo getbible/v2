@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Солунянам",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Солунянам 1",
     "url": "https://api.getbible.net/v2/ukranian/52/1.json",
-    "sha": "bc1f8818434ea9f7a8b8499e5c924e709f9d9d26"
+    "sha": "1f1fb9d4d4bc21455153d5979dc6257447feb80b"
   },
   "2": {
     "translation": "NT (P Kulish 1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Солунянам",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Солунянам 2",
     "url": "https://api.getbible.net/v2/ukranian/52/2.json",
-    "sha": "27e8d226d50e2eba558df735db8d22da31c94992"
+    "sha": "5180084f83a56de59ac20bfcf1c5021542d573e9"
   },
   "3": {
     "translation": "NT (P Kulish 1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Солунянам",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Солунянам 3",
     "url": "https://api.getbible.net/v2/ukranian/52/3.json",
-    "sha": "a2224b6fe7a436d7364da694e9e134acf3da1362"
+    "sha": "3a2dd5e2e7b103b573bdefb13f1930d1bda72936"
   },
   "4": {
     "translation": "NT (P Kulish 1871)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Солунянам",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Солунянам 4",
     "url": "https://api.getbible.net/v2/ukranian/52/4.json",
-    "sha": "0d651f590c3aa0f0dae531243da0ab494ba62548"
+    "sha": "64ce6eebdecbb85dcf68a48125c3ff69787a71b8"
   },
   "5": {
     "translation": "NT (P Kulish 1871)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Солунянам",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Солунянам 5",
     "url": "https://api.getbible.net/v2/ukranian/52/5.json",
-    "sha": "83f63de414ee807648dad81c937ba2ec5f30bcf2"
+    "sha": "908095756ec93502443dc0c2b64be85055e1d08e"
   }
 }

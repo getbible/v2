@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 1,
-    "name": "Luke 1",
+    "name": "Κατά Λουκάν 1",
     "url": "https://api.getbible.net/v2/moderngreek/42/1.json",
-    "sha": "79eecec626baa5127b11b8a6d7b578ec664d11f7"
+    "sha": "6d3a8fdb419bf2ae506ca8a389d2ac05a1f7d41f"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 2,
-    "name": "Luke 2",
+    "name": "Κατά Λουκάν 2",
     "url": "https://api.getbible.net/v2/moderngreek/42/2.json",
-    "sha": "1f2bf2514ae7bba99d34dccffbcf3953202c607f"
+    "sha": "265d6193b422901d2406ebb40b14b2483b2d1cf3"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 3,
-    "name": "Luke 3",
+    "name": "Κατά Λουκάν 3",
     "url": "https://api.getbible.net/v2/moderngreek/42/3.json",
-    "sha": "b4169c64514b52009eedef723a1620032ea5d4b0"
+    "sha": "bed17fa6ceb4025ce0f6eeacd85fc9b9cfcb4b2c"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 4,
-    "name": "Luke 4",
+    "name": "Κατά Λουκάν 4",
     "url": "https://api.getbible.net/v2/moderngreek/42/4.json",
-    "sha": "4e5396b015682a98d12c7a21299f88ebf79b5ddd"
+    "sha": "f4f033bc2a347a7103b8fec2723dd1003ffb7a4b"
   },
   "5": {
     "translation": "Greek Modern",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 5,
-    "name": "Luke 5",
+    "name": "Κατά Λουκάν 5",
     "url": "https://api.getbible.net/v2/moderngreek/42/5.json",
-    "sha": "faa4432f3bea9c586e689eae442702fac67d51b3"
+    "sha": "9e4209afb9d49b068157cb4f5fee41f05493ed86"
   },
   "6": {
     "translation": "Greek Modern",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 6,
-    "name": "Luke 6",
+    "name": "Κατά Λουκάν 6",
     "url": "https://api.getbible.net/v2/moderngreek/42/6.json",
-    "sha": "7e24d3b6972c17e915ccc2befa5dbcce3eecbb38"
+    "sha": "c771c4f0bbd13f3ed911687916682690404a7712"
   },
   "7": {
     "translation": "Greek Modern",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 7,
-    "name": "Luke 7",
+    "name": "Κατά Λουκάν 7",
     "url": "https://api.getbible.net/v2/moderngreek/42/7.json",
-    "sha": "c5080ffa925fc04fb66263aeaf75cffbf4470974"
+    "sha": "fe6cdd7e510cfa6351b5121f50a7ed13858be9f2"
   },
   "8": {
     "translation": "Greek Modern",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 8,
-    "name": "Luke 8",
+    "name": "Κατά Λουκάν 8",
     "url": "https://api.getbible.net/v2/moderngreek/42/8.json",
-    "sha": "54fb8372460930504bf921d2ad487ef7990e8f7b"
+    "sha": "0675c18a4ab43792e4fd5c150a89599e3d7d0b8d"
   },
   "9": {
     "translation": "Greek Modern",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 9,
-    "name": "Luke 9",
+    "name": "Κατά Λουκάν 9",
     "url": "https://api.getbible.net/v2/moderngreek/42/9.json",
-    "sha": "32e57acde864d128aa88f03a3fc833b0ab3ddd27"
+    "sha": "31633be319cf2bb9bcf7d84789119dc620d45b33"
   },
   "10": {
     "translation": "Greek Modern",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 10,
-    "name": "Luke 10",
+    "name": "Κατά Λουκάν 10",
     "url": "https://api.getbible.net/v2/moderngreek/42/10.json",
-    "sha": "934cd8c3028dcb04fb26d174417c946d4af711f1"
+    "sha": "19fa6398e6d3a2e9a8fcb0f066a6199960958a06"
   },
   "11": {
     "translation": "Greek Modern",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 11,
-    "name": "Luke 11",
+    "name": "Κατά Λουκάν 11",
     "url": "https://api.getbible.net/v2/moderngreek/42/11.json",
-    "sha": "b6b49a0b2f311b260f48c2ff3e66c4cbf88a1f5b"
+    "sha": "9ff68848c5c5fde804a86efa52994dc8df5adb28"
   },
   "12": {
     "translation": "Greek Modern",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 12,
-    "name": "Luke 12",
+    "name": "Κατά Λουκάν 12",
     "url": "https://api.getbible.net/v2/moderngreek/42/12.json",
-    "sha": "ab940742d35882503cbacfc2025dd8147ab633f8"
+    "sha": "7e9968ad51cef7981e2d73c66f9829637a39c860"
   },
   "13": {
     "translation": "Greek Modern",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 13,
-    "name": "Luke 13",
+    "name": "Κατά Λουκάν 13",
     "url": "https://api.getbible.net/v2/moderngreek/42/13.json",
-    "sha": "9b14d42bc0649001a1f1d816380e1d36afddd5ac"
+    "sha": "ac55ebc1c4140d7e22ed6365163a7dfeef87758f"
   },
   "14": {
     "translation": "Greek Modern",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 14,
-    "name": "Luke 14",
+    "name": "Κατά Λουκάν 14",
     "url": "https://api.getbible.net/v2/moderngreek/42/14.json",
-    "sha": "144ba58841414707e61b9f7fb9c5221f74f2c09e"
+    "sha": "d4650e668f43aaa35c4b1541b0027fe52b8dafc3"
   },
   "15": {
     "translation": "Greek Modern",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 15,
-    "name": "Luke 15",
+    "name": "Κατά Λουκάν 15",
     "url": "https://api.getbible.net/v2/moderngreek/42/15.json",
-    "sha": "6cd25cca9637a490c9433154c8c5ff5fc2ed63e1"
+    "sha": "f9329eb74ab339d8435eab88305dd83d720de4e5"
   },
   "16": {
     "translation": "Greek Modern",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 16,
-    "name": "Luke 16",
+    "name": "Κατά Λουκάν 16",
     "url": "https://api.getbible.net/v2/moderngreek/42/16.json",
-    "sha": "f9200626379f0ba9598092bc3389a417e6f114f1"
+    "sha": "1457c00df15f2cf1b5ff42e735e46bc205ed029d"
   },
   "17": {
     "translation": "Greek Modern",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 17,
-    "name": "Luke 17",
+    "name": "Κατά Λουκάν 17",
     "url": "https://api.getbible.net/v2/moderngreek/42/17.json",
-    "sha": "77f416a4cb7bbf8306f25c538c01eddee61bd08f"
+    "sha": "873d14b2d1f3b110d6e31e1388940f5ece37f11a"
   },
   "18": {
     "translation": "Greek Modern",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 18,
-    "name": "Luke 18",
+    "name": "Κατά Λουκάν 18",
     "url": "https://api.getbible.net/v2/moderngreek/42/18.json",
-    "sha": "808ff8a6b8a36272fc8764b5756348078378045c"
+    "sha": "408e2993cf720ac4d2670d896033b2de54244e52"
   },
   "19": {
     "translation": "Greek Modern",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 19,
-    "name": "Luke 19",
+    "name": "Κατά Λουκάν 19",
     "url": "https://api.getbible.net/v2/moderngreek/42/19.json",
-    "sha": "2f57bcf37eb4ac4f451feeb2bbbf4c8ecd960f23"
+    "sha": "34d8fc8a2d034657cd18a535de6d43ee6f0411e2"
   },
   "20": {
     "translation": "Greek Modern",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 20,
-    "name": "Luke 20",
+    "name": "Κατά Λουκάν 20",
     "url": "https://api.getbible.net/v2/moderngreek/42/20.json",
-    "sha": "262f0e7427e15dbd6df0690d821a2f4b1d3d56bf"
+    "sha": "cd9ae18a43261fdf2f1d6928cdea0b0ff6685519"
   },
   "21": {
     "translation": "Greek Modern",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 21,
-    "name": "Luke 21",
+    "name": "Κατά Λουκάν 21",
     "url": "https://api.getbible.net/v2/moderngreek/42/21.json",
-    "sha": "cdbaf0328800f31f863c12f18b4415183deee9cf"
+    "sha": "fe5363041ebf64b503ef63eda31ba5982de9113b"
   },
   "22": {
     "translation": "Greek Modern",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 22,
-    "name": "Luke 22",
+    "name": "Κατά Λουκάν 22",
     "url": "https://api.getbible.net/v2/moderngreek/42/22.json",
-    "sha": "48cf0261b85c4c941fb3b2ed88cfa2ef68a7b20e"
+    "sha": "98bfca3fb7501e7fa247b7c6963ccddc7e57971f"
   },
   "23": {
     "translation": "Greek Modern",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 23,
-    "name": "Luke 23",
+    "name": "Κατά Λουκάν 23",
     "url": "https://api.getbible.net/v2/moderngreek/42/23.json",
-    "sha": "5ef3c843cc511aaf616b21bf992f52cad32b717a"
+    "sha": "43a98a6cba4bc8e97ea301552a5e66bca6212f7e"
   },
   "24": {
     "translation": "Greek Modern",
@@ -329,10 +329,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Luke",
+    "book_name": "Κατά Λουκάν",
     "chapter": 24,
-    "name": "Luke 24",
+    "name": "Κατά Λουκάν 24",
     "url": "https://api.getbible.net/v2/moderngreek/42/24.json",
-    "sha": "10b355d92134e447f1d71278e9e7e72f88718710"
+    "sha": "f2a089a43183a41965c34fbdabbe7283f8470e13"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 57,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "腓利門書 1",
     "url": "https://api.getbible.net/v2/cnt/57/1.json",
-    "sha": "d4f8d8aa016247e91aa18bfbb970eaa1d4db6023"
+    "sha": "7950a0b88493b79b85ed5853c16605ba71500b9b"
   }
 }

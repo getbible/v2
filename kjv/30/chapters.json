@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://api.getbible.net/v2/kjv/30/1.json",
-    "sha": "76955f853ce9e36a4356a8d0c6b63f7903abc9fb"
+    "sha": "dddb9268dca6576e56d105e834b5e64b2fc6e76c"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://api.getbible.net/v2/kjv/30/2.json",
-    "sha": "f6046ff8f40566c27a4ca2b6e8697408270c2c45"
+    "sha": "cdebb5d16d394125aad56cb4e63aebe074bc95ba"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://api.getbible.net/v2/kjv/30/3.json",
-    "sha": "66c125b72b73546f9072f45a2c77aebf3659840d"
+    "sha": "41ae8840a9c907ac71e44a957912d0912e5bdd6b"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://api.getbible.net/v2/kjv/30/4.json",
-    "sha": "49b99d7376a25ac2f3ac735cd844d14fa7258b45"
+    "sha": "dc2bcdbf27f35ce9ada790327c0e9f0b52711c56"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://api.getbible.net/v2/kjv/30/5.json",
-    "sha": "979952ad09ab513b0c86ed205fb905f3f5da6e4b"
+    "sha": "a7e5e548f74f916a02d7a9e4fb5fbb64928aac2c"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://api.getbible.net/v2/kjv/30/6.json",
-    "sha": "da9d1cb9ac91398fcf70616e60c0b61309f96854"
+    "sha": "91bde477d00b19341508581a5958c75bee98676f"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://api.getbible.net/v2/kjv/30/7.json",
-    "sha": "da678e6ce733e283e7e6be39abf7fadc89a42c4b"
+    "sha": "4f02d4c5395df9510b4b03d95f2cc8ed817349f7"
   },
   "8": {
     "translation": "King James Version",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://api.getbible.net/v2/kjv/30/8.json",
-    "sha": "771239260f7b50afc591d5a3f68e8c34d74e70d2"
+    "sha": "aa5dbdbbe78de94c5995c4fc1d0fdf5efea7e24d"
   },
   "9": {
     "translation": "King James Version",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://api.getbible.net/v2/kjv/30/9.json",
-    "sha": "5d89935e356af24dbd43596c5bc3ca4658debd77"
+    "sha": "f5698c459588b7c347697e87f0771284a327152e"
   }
 }

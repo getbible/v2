@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "빌립보서",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "빌립보서 1",
     "url": "https://api.getbible.net/v2/korean/50/1.json",
-    "sha": "8e5a2bb5467e18a6236e0b756e11e9a9d8a283b7"
+    "sha": "59c2a7453f253cda8b9b297827d01d3a802b48c2"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "빌립보서",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "빌립보서 2",
     "url": "https://api.getbible.net/v2/korean/50/2.json",
-    "sha": "4aa74938126e0fad4808d226e8b4693324aedef0"
+    "sha": "9563f8ecc6c389e71898e8ad5a71d78d61858172"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "빌립보서",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "빌립보서 3",
     "url": "https://api.getbible.net/v2/korean/50/3.json",
-    "sha": "1c556fe62a37b20081ffcd8a939e4078c31b047b"
+    "sha": "84e7c28e1f30ef21ebce8933997c71ee80fab247"
   },
   "4": {
     "translation": "Korean",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "빌립보서",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "빌립보서 4",
     "url": "https://api.getbible.net/v2/korean/50/4.json",
-    "sha": "1906f4ba7a51db38713b07188b4c9974b6b29a8e"
+    "sha": "7c90a57c1215ec8b68e97be244151d287b087d07"
   }
 }

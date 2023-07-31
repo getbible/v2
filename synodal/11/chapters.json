@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 1,
-    "name": "1 Kings 1",
+    "name": "3-я Царств 1",
     "url": "https://api.getbible.net/v2/synodal/11/1.json",
-    "sha": "0d63c0a3b988ebdbf934f59a71768562f2bc7c84"
+    "sha": "07f932cfa2ec3e4758cbd28dea5b512c48905210"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 2,
-    "name": "1 Kings 2",
+    "name": "3-я Царств 2",
     "url": "https://api.getbible.net/v2/synodal/11/2.json",
-    "sha": "fe85f79baca4c5814d63a8812b69be72911357ce"
+    "sha": "1b6d3e4dbd8da0298cb853552fe7f0c2289d08e8"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 3,
-    "name": "1 Kings 3",
+    "name": "3-я Царств 3",
     "url": "https://api.getbible.net/v2/synodal/11/3.json",
-    "sha": "1daf7cc6af6a96c97d92481039c3d0f36eccdb49"
+    "sha": "4a7a00992d23e7ddf6c7e7231af71c71e3530822"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 4,
-    "name": "1 Kings 4",
+    "name": "3-я Царств 4",
     "url": "https://api.getbible.net/v2/synodal/11/4.json",
-    "sha": "56e248e5edc2231e1ffd43ff94a1de9daf7434ba"
+    "sha": "033f66f36e571b305acd836d4b3a70ddf9272365"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 5,
-    "name": "1 Kings 5",
+    "name": "3-я Царств 5",
     "url": "https://api.getbible.net/v2/synodal/11/5.json",
-    "sha": "8cafd545ea2470bed68320cc2c6596524696c7b8"
+    "sha": "df33a57d8370ae5c8a9f5196d583dbdfb1329a0f"
   },
   "6": {
     "translation": "Synodal Translation (1876)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 6,
-    "name": "1 Kings 6",
+    "name": "3-я Царств 6",
     "url": "https://api.getbible.net/v2/synodal/11/6.json",
-    "sha": "e5e92b93d3909d39597e9fda067440a21dadf824"
+    "sha": "7b61c5a10a35cfc6ff9a91fb9a9ce28c4fc3235c"
   },
   "7": {
     "translation": "Synodal Translation (1876)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 7,
-    "name": "1 Kings 7",
+    "name": "3-я Царств 7",
     "url": "https://api.getbible.net/v2/synodal/11/7.json",
-    "sha": "aa4749d146f05f205f64ca39f06627e25cfea31c"
+    "sha": "b6998a6d5987fba891f02186a4e5e3ef0ed5353f"
   },
   "8": {
     "translation": "Synodal Translation (1876)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 8,
-    "name": "1 Kings 8",
+    "name": "3-я Царств 8",
     "url": "https://api.getbible.net/v2/synodal/11/8.json",
-    "sha": "709eac2a2df630589c6f4f5bb1972f0e3a88b24b"
+    "sha": "64cee586f10ca9bfeb89548e8919b12fbcdad6c4"
   },
   "9": {
     "translation": "Synodal Translation (1876)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 9,
-    "name": "1 Kings 9",
+    "name": "3-я Царств 9",
     "url": "https://api.getbible.net/v2/synodal/11/9.json",
-    "sha": "7b1d9b903a8ffe256e0740408f6c3e7db850f758"
+    "sha": "0eca7651d1c2473eb1b304e9f25f62658824a0c2"
   },
   "10": {
     "translation": "Synodal Translation (1876)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 10,
-    "name": "1 Kings 10",
+    "name": "3-я Царств 10",
     "url": "https://api.getbible.net/v2/synodal/11/10.json",
-    "sha": "7f1658966bd9e235b255e63008dc6f9a30fc51b9"
+    "sha": "d6c3e1ddad2b4992f455f2b32940cef419c168de"
   },
   "11": {
     "translation": "Synodal Translation (1876)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 11,
-    "name": "1 Kings 11",
+    "name": "3-я Царств 11",
     "url": "https://api.getbible.net/v2/synodal/11/11.json",
-    "sha": "63b13b852a3f93c1d6ea926179202d06413eb7db"
+    "sha": "0f49477cf2919f539f588583a2c58252f2e08623"
   },
   "12": {
     "translation": "Synodal Translation (1876)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 12,
-    "name": "1 Kings 12",
+    "name": "3-я Царств 12",
     "url": "https://api.getbible.net/v2/synodal/11/12.json",
-    "sha": "75f2d294304c3eb6672aea766c38d7910a80551d"
+    "sha": "74ffd0c2d34362d171a9dc330370c3dd5fd75d83"
   },
   "13": {
     "translation": "Synodal Translation (1876)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 13,
-    "name": "1 Kings 13",
+    "name": "3-я Царств 13",
     "url": "https://api.getbible.net/v2/synodal/11/13.json",
-    "sha": "2cdbe0a395a0985a2e7c2a9f2b9f5610d58c7ea3"
+    "sha": "c302c467b61c22cdbd4edfecfa5606b8a2040553"
   },
   "14": {
     "translation": "Synodal Translation (1876)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 14,
-    "name": "1 Kings 14",
+    "name": "3-я Царств 14",
     "url": "https://api.getbible.net/v2/synodal/11/14.json",
-    "sha": "61407fe061bb4113eac278ccd523c1bb773f452b"
+    "sha": "f49bbedd5027d939f6a08b6957e2423c0e04088b"
   },
   "15": {
     "translation": "Synodal Translation (1876)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 15,
-    "name": "1 Kings 15",
+    "name": "3-я Царств 15",
     "url": "https://api.getbible.net/v2/synodal/11/15.json",
-    "sha": "384485c5c19829e0b52f4aa73d646f8d1abe834b"
+    "sha": "5320ea44368407ebb00e3e1da04c28811722fbbf"
   },
   "16": {
     "translation": "Synodal Translation (1876)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 16,
-    "name": "1 Kings 16",
+    "name": "3-я Царств 16",
     "url": "https://api.getbible.net/v2/synodal/11/16.json",
-    "sha": "d9adca157ed6fa72ec65c1dc76c140a99bb4c06f"
+    "sha": "0b33d8929ee5fd9e8179ecf50a0279e4bc3f53d2"
   },
   "17": {
     "translation": "Synodal Translation (1876)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 17,
-    "name": "1 Kings 17",
+    "name": "3-я Царств 17",
     "url": "https://api.getbible.net/v2/synodal/11/17.json",
-    "sha": "393bcc13ec8ff7d7dfef410b1dc88331b77799f7"
+    "sha": "d3cdbf768e1f3a7b9667e23c51f7f73d9b77de02"
   },
   "18": {
     "translation": "Synodal Translation (1876)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 18,
-    "name": "1 Kings 18",
+    "name": "3-я Царств 18",
     "url": "https://api.getbible.net/v2/synodal/11/18.json",
-    "sha": "d15249dcc20b204a6d77fb2717f9bfbc1b5165ac"
+    "sha": "b27782976d46caa12a611fda05f98a6a5afc635f"
   },
   "19": {
     "translation": "Synodal Translation (1876)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 19,
-    "name": "1 Kings 19",
+    "name": "3-я Царств 19",
     "url": "https://api.getbible.net/v2/synodal/11/19.json",
-    "sha": "41854ed3445170a8c77c0e39607c693755aa1476"
+    "sha": "3daf9ea545d6fe74382464e722b5a36b5ff4b9b9"
   },
   "20": {
     "translation": "Synodal Translation (1876)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 20,
-    "name": "1 Kings 20",
+    "name": "3-я Царств 20",
     "url": "https://api.getbible.net/v2/synodal/11/20.json",
-    "sha": "05d06f21d4dd8b42277c83d4ae758dfa59b860da"
+    "sha": "3b80f736ab39b0b0bdc131f0ac92eb4e03ab5235"
   },
   "21": {
     "translation": "Synodal Translation (1876)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 21,
-    "name": "1 Kings 21",
+    "name": "3-я Царств 21",
     "url": "https://api.getbible.net/v2/synodal/11/21.json",
-    "sha": "e390fd6903a0658f3a63321a6a3c79efd26b76e7"
+    "sha": "76c0aa6c8ac6c51c458140ea0a8c513fb3c854b4"
   },
   "22": {
     "translation": "Synodal Translation (1876)",
@@ -301,10 +301,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 11,
-    "book_name": "1 Kings",
+    "book_name": "3-я Царств",
     "chapter": 22,
-    "name": "1 Kings 22",
+    "name": "3-я Царств 22",
     "url": "https://api.getbible.net/v2/synodal/11/22.json",
-    "sha": "9738af9685a06cc1487375fc0595e7b5c4ac9553"
+    "sha": "4b27620f1d4434bb91fa5c5687baae5b67e035b4"
   }
 }

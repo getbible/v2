@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Αμβακούμ",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Αμβακούμ 1",
     "url": "https://api.getbible.net/v2/moderngreek/35/1.json",
-    "sha": "90d920b5aae8fee2449cef16c45345a45972dadc"
+    "sha": "91fb1f0a92f5670141dda84d9f484f94bd1f9f08"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Αμβακούμ",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Αμβακούμ 2",
     "url": "https://api.getbible.net/v2/moderngreek/35/2.json",
-    "sha": "7b5172255860cdb739311fdeac5ac83389c59128"
+    "sha": "290e9c0777a70a39a0cb16c2276f63f893d73a2f"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Αμβακούμ",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Αμβακούμ 3",
     "url": "https://api.getbible.net/v2/moderngreek/35/3.json",
-    "sha": "1179bc77dbb238c64d487f4dcd433c4056ba7f39"
+    "sha": "ba7a395014263066475268d1419628d26ae8af13"
   }
 }

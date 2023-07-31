@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jona 1",
     "url": "https://api.getbible.net/v2/esperanto/32/1.json",
-    "sha": "91b452ce9b4c1d6f21f59f92105363d9d2d477af"
+    "sha": "c3a01e27b1d84098b4bc142b10bcc662923da6bb"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jona 2",
     "url": "https://api.getbible.net/v2/esperanto/32/2.json",
-    "sha": "18af195ea8a120bab66e0060e92bf485fea15c8b"
+    "sha": "57632e658441dcdb65ec6519780b2d9f9a894900"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jona 3",
     "url": "https://api.getbible.net/v2/esperanto/32/3.json",
-    "sha": "f26f97ca631d556e97c173df7ca5cf2e6b1a03a4"
+    "sha": "c28f05de9b981e8d77a6f5d5f3d1c25d1660a6ff"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jona 4",
     "url": "https://api.getbible.net/v2/esperanto/32/4.json",
-    "sha": "45d2c0447a540aec08610badd4acb59864ac21ed"
+    "sha": "46ee2c030fa08e038294be377d3ee8750eb31fc5"
   }
 }

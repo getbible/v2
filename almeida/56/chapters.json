@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tito 1",
     "url": "https://api.getbible.net/v2/almeida/56/1.json",
-    "sha": "c7496cba6a9e516c064613f3c4101971f877e680"
+    "sha": "b5e0850cabea3f9901d8fadb5ad05593e6b219cf"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tito 2",
     "url": "https://api.getbible.net/v2/almeida/56/2.json",
-    "sha": "7c1c29aa862a979d0aa8a85545e4746bedff0a48"
+    "sha": "921d89f5c0f356f9d8ce221dd1907497c61171c4"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tito 3",
     "url": "https://api.getbible.net/v2/almeida/56/3.json",
-    "sha": "89bfa8a3183278b43298216f68cf7d918e83eaa1"
+    "sha": "594c60e3fee0091979b6f24b3085dda1d0f62c7b"
   }
 }

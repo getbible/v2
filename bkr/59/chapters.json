@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakub 1",
     "url": "https://api.getbible.net/v2/bkr/59/1.json",
-    "sha": "98c0b9b3471a69a1f53431756e35db79306374ea"
+    "sha": "60f3b6a1888770fd8192ba6c41e4b5912adf0957"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakub 2",
     "url": "https://api.getbible.net/v2/bkr/59/2.json",
-    "sha": "9d2f04a1873f27e287598d0dbc2656f4a49fd8f6"
+    "sha": "7a2356a5de7be99481111ebfa3b0f04bfb480c3a"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakub 3",
     "url": "https://api.getbible.net/v2/bkr/59/3.json",
-    "sha": "7a7cd4255718b932c853db58ac0d2eca6670524b"
+    "sha": "c568e3df61608cf409c66bd139275c6a78c831af"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakub 4",
     "url": "https://api.getbible.net/v2/bkr/59/4.json",
-    "sha": "bf16f06858fa2d9bd26fce4bfda382f30b611c1b"
+    "sha": "c0353074508820c38248dcebe754e452e8934893"
   },
   "5": {
     "translation": "Czech BKR",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakub 5",
     "url": "https://api.getbible.net/v2/bkr/59/5.json",
-    "sha": "4022e52b47ae03ba68347baca67b2353a148389a"
+    "sha": "e2bd0c780865c250a05b0b3b2fffd5754a773f74"
   }
 }

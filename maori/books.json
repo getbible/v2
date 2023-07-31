@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Ekoru",
     "url": "https://api.getbible.net/v2/maori/2.json",
-    "sha": "4cd610bed039e1ad11206f87e0b88d9c3448138b"
+    "sha": "39fd93c524b189435e6a9bbadcc1778069cd594b"
   },
   "3": {
     "translation": "Maori",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Rewitika",
     "url": "https://api.getbible.net/v2/maori/3.json",
-    "sha": "6fda57383486c0a37f79810a4fa15d0be957e585"
+    "sha": "12f95afd268f9ad40e1616dfabc4eb53a4cc8b98"
   },
   "4": {
     "translation": "Maori",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Tauanga",
     "url": "https://api.getbible.net/v2/maori/4.json",
-    "sha": "339db8ea6379444be8700a1a27468ce47b8d5be4"
+    "sha": "1a64b55ee2cfd813095eb3616efaf798c527d4de"
   },
   "5": {
     "translation": "Maori",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Ture",
     "url": "https://api.getbible.net/v2/maori/5.json",
-    "sha": "07f1545c2f1c6c9f33dcee305c68c26889a36338"
+    "sha": "2a5c741cabdb6f7cb792d5cabab49af89e5db491"
   },
   "6": {
     "translation": "Maori",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Hohua",
     "url": "https://api.getbible.net/v2/maori/6.json",
-    "sha": "f5d88f9e08b3caaaa43e2e6b7adaf16419e64e52"
+    "sha": "79e16c5fbd45aac1541fca1dcec9efeecf979a91"
   },
   "7": {
     "translation": "Maori",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 7,
-    "name": "Judges",
+    "name": "Kaiwhakawa",
     "url": "https://api.getbible.net/v2/maori/7.json",
-    "sha": "df66947a324e5a11d8cb5a941c86745cf47e63d1"
+    "sha": "aa7ed1f262070563b4ba9f6dc4aef0cba6079975"
   },
   "8": {
     "translation": "Maori",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Ruti",
     "url": "https://api.getbible.net/v2/maori/8.json",
-    "sha": "16d0dcc73d9815257af98b298448ead5f3a25ec6"
+    "sha": "13d74fe03fa897f7756f92ef8048c1be20f06368"
   },
   "9": {
     "translation": "Maori",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "1 Hāmueru",
     "url": "https://api.getbible.net/v2/maori/9.json",
-    "sha": "27875aebd9617d09015917ba9882dfef4066995a"
+    "sha": "6d34128bbbe45d68db89b16b022514844da2a5f4"
   },
   "10": {
     "translation": "Maori",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "2 Hāmueru",
     "url": "https://api.getbible.net/v2/maori/10.json",
-    "sha": "4133465146c97f24b112655162fbf13b0a642193"
+    "sha": "7f8907f9de66a2b008ae1328e30d4f137bc6a249"
   },
   "11": {
     "translation": "Maori",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Kingi",
     "url": "https://api.getbible.net/v2/maori/11.json",
-    "sha": "be6fd074fc8c73a68864aad237c2afc76df00829"
+    "sha": "6bc2ac9e7d9bac932ab297e99ccc9a0913e2e136"
   },
   "12": {
     "translation": "Maori",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Kingi",
     "url": "https://api.getbible.net/v2/maori/12.json",
-    "sha": "40ff07e54c486a0037ddc5e77987ff76ea85c7f3"
+    "sha": "f3b81a68a5ce84dfb15da48cc72919eed0e66f72"
   },
   "13": {
     "translation": "Maori",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Koriniti",
     "url": "https://api.getbible.net/v2/maori/13.json",
-    "sha": "7f1645e4d85eb39ec957a52e60e5e352e20e4c9b"
+    "sha": "ffc06cb0a28325cd37c7ef41471deccc3217b4a7"
   },
   "14": {
     "translation": "Maori",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Koriniti",
     "url": "https://api.getbible.net/v2/maori/14.json",
-    "sha": "3138b6d76a0641d8f116e198b71205be3694c4a2"
+    "sha": "387a68d032a4dac5157a1f76aa6ae0f6c526e553"
   },
   "15": {
     "translation": "Maori",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Ezara",
     "url": "https://api.getbible.net/v2/maori/15.json",
-    "sha": "f8429ef7a4cb266d5c4805861645e443a6d22ff4"
+    "sha": "52e3822823ac15475587ea9a495f1cecbf458e5b"
   },
   "16": {
     "translation": "Maori",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemiha",
     "url": "https://api.getbible.net/v2/maori/16.json",
-    "sha": "b10334774759e710459cb1deb2878b5374ca116c"
+    "sha": "02bddc2b41e896155d43ae46e2c11972283f0383"
   },
   "17": {
     "translation": "Maori",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ehetere",
     "url": "https://api.getbible.net/v2/maori/17.json",
-    "sha": "ee9c216c9d5e93316d805badb0ac92275e9f806f"
+    "sha": "52a1a25cdd2c18513b824eb713e3d03ffd64428e"
   },
   "18": {
     "translation": "Maori",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 18,
-    "name": "Job",
+    "name": "Iopa",
     "url": "https://api.getbible.net/v2/maori/18.json",
-    "sha": "1d3b41de4919b5aee4b55b83c907279ac281c8fe"
+    "sha": "b02a10822b033134193b8880be859a13f3dfa764"
   },
   "19": {
     "translation": "Maori",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Himene",
     "url": "https://api.getbible.net/v2/maori/19.json",
-    "sha": "0581982a684844de27223cd02838f28e436bd2e9"
+    "sha": "9b497f4761a9bd4593aaee600f6a33ec9fc92506"
   },
   "20": {
     "translation": "Maori",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Whakataukī",
     "url": "https://api.getbible.net/v2/maori/20.json",
-    "sha": "5ad1704b60d333b691f142b29f7269582971077c"
+    "sha": "243d30e12703393ff97363d45ca94c9f819c11a7"
   },
   "21": {
     "translation": "Maori",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Kaiwhakaako",
     "url": "https://api.getbible.net/v2/maori/21.json",
-    "sha": "404377b030651587ca376095bef75d6f45b2c00a"
+    "sha": "5f5120b91c6d42aaf83f2988c4632dc7c59cec61"
   },
   "22": {
     "translation": "Maori",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Waiata",
     "url": "https://api.getbible.net/v2/maori/22.json",
-    "sha": "1032eacb502d1c474e2c0b1c5a65bc2dad7cb80c"
+    "sha": "87d433d1caf34913c283ffeebea71de871dfec9e"
   },
   "23": {
     "translation": "Maori",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Ihaia",
     "url": "https://api.getbible.net/v2/maori/23.json",
-    "sha": "bc55b50ae399aeb8b7eb5dee711aee3590426d3d"
+    "sha": "71ee9fdc8621986f7da627d3dc15dcdf41e428b2"
   },
   "24": {
     "translation": "Maori",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Heremaia",
     "url": "https://api.getbible.net/v2/maori/24.json",
-    "sha": "27b4a89391ee1198a91fc87cfc467880ff7e5c9b"
+    "sha": "a59093fe6abd6b8b3ca04cd2349ec42500b4904b"
   },
   "25": {
     "translation": "Maori",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Kanohi Tangi",
     "url": "https://api.getbible.net/v2/maori/25.json",
-    "sha": "60ccfe399319e77ae7f8f19bf7db39c6bc1196cd"
+    "sha": "37522a57da33dc94290f2dc3ed5da1a8b64c6429"
   },
   "26": {
     "translation": "Maori",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ehikiera",
     "url": "https://api.getbible.net/v2/maori/26.json",
-    "sha": "cb56ae18d91bbd9b2cdc312a5e4cf05d39b1f9ee"
+    "sha": "751a97cf48cdacaffb302e982bdc3bbd247eac70"
   },
   "27": {
     "translation": "Maori",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Danihēra",
     "url": "https://api.getbible.net/v2/maori/27.json",
-    "sha": "35991e808a9f9dafa14bba12bbd0c5c2c310a5e8"
+    "sha": "e47af9a5666b95c06fcd36ba2ece04a74ebd227d"
   },
   "28": {
     "translation": "Maori",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Hōhea",
     "url": "https://api.getbible.net/v2/maori/28.json",
-    "sha": "1303c920581777daf720fcd37dc80110b2bf2c7b"
+    "sha": "8c510774f9c8246aa98595aa79a8916dc8e267e4"
   },
   "29": {
     "translation": "Maori",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 29,
-    "name": "Joel",
+    "name": "Iōēri",
     "url": "https://api.getbible.net/v2/maori/29.json",
-    "sha": "ce0e3c3cb91b66edde76755036f298c5d64489a3"
+    "sha": "1f2689f9cadcf178b5942622efcec1208a3410f8"
   },
   "30": {
     "translation": "Maori",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 30,
-    "name": "Amos",
+    "name": "Amōhi",
     "url": "https://api.getbible.net/v2/maori/30.json",
-    "sha": "ea58013f710995d390852a2d839218f6be86d7ce"
+    "sha": "0761a7995bf4bc54957ebd3a65a618d7909b6526"
   },
   "31": {
     "translation": "Maori",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Opātia",
     "url": "https://api.getbible.net/v2/maori/31.json",
-    "sha": "303c3525ab6530d6940d2806bc4c5b5030c80141"
+    "sha": "c842acefbffc8198a8f881afbcd727bc7260e9cc"
   },
   "32": {
     "translation": "Maori",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Iōna",
     "url": "https://api.getbible.net/v2/maori/32.json",
-    "sha": "3b05ea4d399081a9afb6a0c0a355b5546bac7567"
+    "sha": "7cbba0ffe5bbab7f43e8f751100dfdbc6a089430"
   },
   "33": {
     "translation": "Maori",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 33,
-    "name": "Micah",
+    "name": "Mīkaia",
     "url": "https://api.getbible.net/v2/maori/33.json",
-    "sha": "d0aad531a83c85099ba9150d43b038e80c4acdc1"
+    "sha": "434d1e915870e47d14d48b6584b34987fce966d9"
   },
   "34": {
     "translation": "Maori",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Nahumu",
     "url": "https://api.getbible.net/v2/maori/34.json",
-    "sha": "7cbdc4351317d255becba955310a3dec1e417c43"
+    "sha": "9a0b6ea8923f3779a5d697fe509a826347a2d2ec"
   },
   "35": {
     "translation": "Maori",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Hapakuku",
     "url": "https://api.getbible.net/v2/maori/35.json",
-    "sha": "8eb0c9ef43f73113f8b9c6d1757eb09e245fddc6"
+    "sha": "75dba155d359b5353bacff9193535c659befc11a"
   },
   "36": {
     "translation": "Maori",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Horopīa",
     "url": "https://api.getbible.net/v2/maori/36.json",
-    "sha": "abb42cb6e2c4126ecd1a8fc477de5781f5b67931"
+    "sha": "2e28539ca148634e620df40437007700e9259baa"
   },
   "37": {
     "translation": "Maori",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Hakai",
     "url": "https://api.getbible.net/v2/maori/37.json",
-    "sha": "e2e9b273cfb25aa3ca75509b09ac76f9ba32768d"
+    "sha": "77dc1dae5d6ce4c98d06d6d2b1d222c7204c1e0f"
   },
   "38": {
     "translation": "Maori",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Hakaharīa",
     "url": "https://api.getbible.net/v2/maori/38.json",
-    "sha": "57483af89a529540521b5372d9198683603ff967"
+    "sha": "52cbd2add9b8992bc47e3e3d99d27f3ac91f725a"
   },
   "39": {
     "translation": "Maori",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Merakai",
     "url": "https://api.getbible.net/v2/maori/39.json",
-    "sha": "37dfb44e1ffa6a75e33381dee262c7f3d51ac8b7"
+    "sha": "739458bbeb26d9ca0ffb22341bc322ac807e97f4"
   },
   "40": {
     "translation": "Maori",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matēu",
     "url": "https://api.getbible.net/v2/maori/40.json",
-    "sha": "8439eec3a925d8fab40dac9f57b54d3c58e514b6"
+    "sha": "cb744930fcdef6b96f0f069c73b29b20de4f2e55"
   },
   "41": {
     "translation": "Maori",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 41,
-    "name": "Mark",
+    "name": "Māka",
     "url": "https://api.getbible.net/v2/maori/41.json",
-    "sha": "c849a6a8356bf6bb12441801f5c0b19b1a02f349"
+    "sha": "0bd3342433ae42d3570bd595ca3a60bf108ca879"
   },
   "42": {
     "translation": "Maori",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 42,
-    "name": "Luke",
+    "name": "Ruka",
     "url": "https://api.getbible.net/v2/maori/42.json",
-    "sha": "cd9d0383aa727369a4061b3d81c023eaddae5f84"
+    "sha": "986909ea9468764055e54809fa82aa5474ef11d7"
   },
   "43": {
     "translation": "Maori",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 43,
-    "name": "John",
+    "name": "Hōani",
     "url": "https://api.getbible.net/v2/maori/43.json",
-    "sha": "a8e664e79b7929f68756e719ca3ab477a5307f28"
+    "sha": "45dd041fbb814bf1c301c2fef2da6c53e5b9915d"
   },
   "44": {
     "translation": "Maori",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 44,
-    "name": "Acts",
+    "name": "Ngā Mahi",
     "url": "https://api.getbible.net/v2/maori/44.json",
-    "sha": "975d58e2a01fa7e65163d654ce48dce7eea684d8"
+    "sha": "61b24a0e050e3b0f6a4d3daa58a225797ebbe24a"
   },
   "45": {
     "translation": "Maori",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 45,
-    "name": "Romans",
+    "name": "Rōmana",
     "url": "https://api.getbible.net/v2/maori/45.json",
-    "sha": "e5023490a26fb3c13dcb3f3f7039369f8ef0e041"
+    "sha": "e53799273b1d2f02311dccc7dc374e44d64cb6a3"
   },
   "46": {
     "translation": "Maori",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Koriniti",
     "url": "https://api.getbible.net/v2/maori/46.json",
-    "sha": "2ad8ac618301c17894779fb5bd23a03e434916ee"
+    "sha": "794997dbba16b3c87bf3435d5f3ce6ac820e34af"
   },
   "47": {
     "translation": "Maori",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Koriniti",
     "url": "https://api.getbible.net/v2/maori/47.json",
-    "sha": "a008fd32526834f55d8537528633e967ff635040"
+    "sha": "a2d7f8393c2e06f1ecff78934bdde9c87e901609"
   },
   "48": {
     "translation": "Maori",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Karaiti",
     "url": "https://api.getbible.net/v2/maori/48.json",
-    "sha": "933cb3f81df78d3dc90aa51e3f9862252125ae1b"
+    "sha": "478c1d8b874c23b9ccd5abbf50daa2ebeeab63df"
   },
   "49": {
     "translation": "Maori",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Epeha",
     "url": "https://api.getbible.net/v2/maori/49.json",
-    "sha": "e603de867256c9d6646322892c4138e65ccdd91e"
+    "sha": "6e5cb2b8463f6de722f2561f7a9af74bcce99dc5"
   },
   "50": {
     "translation": "Maori",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Whiringa-ā-nuku",
     "url": "https://api.getbible.net/v2/maori/50.json",
-    "sha": "dd83b4390c8fd8c151b4144adc0057aa56056a15"
+    "sha": "5c487ad317d2f721956eae72ea842621ff42cde4"
   },
   "51": {
     "translation": "Maori",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Karōhia",
     "url": "https://api.getbible.net/v2/maori/51.json",
-    "sha": "24ef9ac585ab66fef499ec428f6afca022362f09"
+    "sha": "e49cfced27372639d9ccc8f2425808b151fa68ac"
   },
   "52": {
     "translation": "Maori",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Teratera",
     "url": "https://api.getbible.net/v2/maori/52.json",
-    "sha": "6bee62551dce64d3fd14045c4e4eb58276c03983"
+    "sha": "76ff12b93f0c19630efbf8da55cb8742bf853264"
   },
   "53": {
     "translation": "Maori",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Teratera",
     "url": "https://api.getbible.net/v2/maori/53.json",
-    "sha": "1c33c6c3185a2ad38f28ef6a7301fec0bcd793f6"
+    "sha": "2fb98e63e060df106b597e0564722c7af96adb99"
   },
   "54": {
     "translation": "Maori",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timotī",
     "url": "https://api.getbible.net/v2/maori/54.json",
-    "sha": "9fa947b16e0fc7e4a5ed89e2312ef82f93cfe68b"
+    "sha": "eca91f8c90be92bb9dfdd3a9ee0be739d8e43130"
   },
   "55": {
     "translation": "Maori",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timotī",
     "url": "https://api.getbible.net/v2/maori/55.json",
-    "sha": "40668746bf4abd8554dec4d3218defe2c0e46b0d"
+    "sha": "d9882be771faa91487558b156e18c4e219739765"
   },
   "56": {
     "translation": "Maori",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tītahi",
     "url": "https://api.getbible.net/v2/maori/56.json",
-    "sha": "de7cda45b6151bd8bbdf6247179d5bd5d01a4b38"
+    "sha": "a3c39e78d02bc7ab889116a62b0b077cb5414ddf"
   },
   "57": {
     "translation": "Maori",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Phīremōna",
     "url": "https://api.getbible.net/v2/maori/57.json",
-    "sha": "710ecea1857b6745989856dc5c9b1d06ff9e4b7f"
+    "sha": "6eba88699a31b8c027116e67b90fc3d84c5c965d"
   },
   "58": {
     "translation": "Maori",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hīperu",
     "url": "https://api.getbible.net/v2/maori/58.json",
-    "sha": "832cca1bee8d64716e50687a5077f0cce1aa71f5"
+    "sha": "ab23414e0d85ac915c92495b8c819f92d5aba086"
   },
   "59": {
     "translation": "Maori",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 59,
-    "name": "James",
+    "name": "Hāme",
     "url": "https://api.getbible.net/v2/maori/59.json",
-    "sha": "daaf607aca0dd476dd66b319718e8cd11349cb60"
+    "sha": "b61b79a119394f41dba55e8e5de09dbedc132246"
   },
   "60": {
     "translation": "Maori",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Pētera",
     "url": "https://api.getbible.net/v2/maori/60.json",
-    "sha": "7d841ea306539642d7d2cc739acb37c2b4bf7534"
+    "sha": "5439f813eaa0503878cc4eff941d544c3dfbab0d"
   },
   "61": {
     "translation": "Maori",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Pētera",
     "url": "https://api.getbible.net/v2/maori/61.json",
-    "sha": "e8db609ba81599978a72bd51870ad424039201a0"
+    "sha": "b2045dbbd39b0e9e9320cacac5c24975da991e32"
   },
   "62": {
     "translation": "Maori",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Hōani",
     "url": "https://api.getbible.net/v2/maori/62.json",
-    "sha": "445396f2adcf938f84dc76bb77c098a1ef6c94eb"
+    "sha": "da7cb39077016f942bc6ee231a67d09bb9275983"
   },
   "63": {
     "translation": "Maori",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Hōani",
     "url": "https://api.getbible.net/v2/maori/63.json",
-    "sha": "6b282af277653c4b99b3b72bd73e6d9d7885fbca"
+    "sha": "58bc789652ca5511917fc3f68e32ae060b81a266"
   },
   "64": {
     "translation": "Maori",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Hōani",
     "url": "https://api.getbible.net/v2/maori/64.json",
-    "sha": "364eca0e5f7ab6d3b8c47d8ba5beb5c37de2b728"
+    "sha": "ef7b4d0e84beacf406c6af76134ddfb4dce5a36b"
   },
   "65": {
     "translation": "Maori",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 65,
-    "name": "Jude",
+    "name": "Hura",
     "url": "https://api.getbible.net/v2/maori/65.json",
-    "sha": "6ac7e627f0db8fe7482b73aad6682172464e0ef4"
+    "sha": "d1f4a5507b680fab4f5a257927b147b1702f6534"
   },
   "66": {
     "translation": "Maori",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Whakakitenga",
     "url": "https://api.getbible.net/v2/maori/66.json",
-    "sha": "a6fe2ff92dd6cc9a4797a10ce36d6bc5ec89efbd"
+    "sha": "0001ff70de4b2a7ebff0d3c1f2ea37f210e53fa9"
   }
 }

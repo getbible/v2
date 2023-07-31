@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "彼得前書 1",
     "url": "https://api.getbible.net/v2/cnt/60/1.json",
-    "sha": "c44c13939d0ba53e4cdd5738a750cf76ae421c93"
+    "sha": "1c4bb7253ad117d346acb1d97b12a795f3b07708"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "彼得前書 2",
     "url": "https://api.getbible.net/v2/cnt/60/2.json",
-    "sha": "4224db7e2cd5530a699145594a0d32ac4593433c"
+    "sha": "331d1fbcfa0436381147940a3c0aa1a508129193"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "彼得前書 3",
     "url": "https://api.getbible.net/v2/cnt/60/3.json",
-    "sha": "28f1fe2aef44b594f4ce742c211aade712e745b9"
+    "sha": "6689b81a904f2b62c8962be98f352552cf0900b2"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "彼得前書 4",
     "url": "https://api.getbible.net/v2/cnt/60/4.json",
-    "sha": "13eca5b4a7d24c0a5a29c203b4c491b64610ee92"
+    "sha": "79ba78a4050cd59c186488d4535b726f86acc82f"
   },
   "5": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "彼得前書 5",
     "url": "https://api.getbible.net/v2/cnt/60/5.json",
-    "sha": "33755c58bdaf27d113824b490b8143bf0b3bc902"
+    "sha": "e0b2e710ea3aa59c589ddd1ddcbae33009bdbc76"
   }
 }

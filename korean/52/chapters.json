@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "데살로니가전서",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "데살로니가전서 1",
     "url": "https://api.getbible.net/v2/korean/52/1.json",
-    "sha": "cfccea8398940aebbc10af536a0a1a61ebd92b66"
+    "sha": "600df2eff59c6563c766cb0fb2e358639c100d21"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "데살로니가전서",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "데살로니가전서 2",
     "url": "https://api.getbible.net/v2/korean/52/2.json",
-    "sha": "3f4095a9ca8221fdad249026af842bcd74fa40c7"
+    "sha": "ba6ef8127d1a8bce33a475f49ef41ae91f1bec37"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "데살로니가전서",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "데살로니가전서 3",
     "url": "https://api.getbible.net/v2/korean/52/3.json",
-    "sha": "850295b8b841d6f8554a943f0026d91238197a08"
+    "sha": "bd2a248935e49a346fd5e7e49be3da74ea43ea45"
   },
   "4": {
     "translation": "Korean",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "데살로니가전서",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "데살로니가전서 4",
     "url": "https://api.getbible.net/v2/korean/52/4.json",
-    "sha": "4cc321210a212fc07a9a44d97fa8d2766977b9f8"
+    "sha": "3c201d15040c72ef274b27935cdeb700524deeb7"
   },
   "5": {
     "translation": "Korean",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "데살로니가전서",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "데살로니가전서 5",
     "url": "https://api.getbible.net/v2/korean/52/5.json",
-    "sha": "a92c79078e6f17a80d53a87a7f3b5f1fda0da711"
+    "sha": "12c48af2f71237179b49e6740175a7979e930d02"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Tiago",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Tiago 1",
     "url": "https://api.getbible.net/v2/almeida/59/1.json",
-    "sha": "2cb88d9b741908b37bb0135f2fb1087136d9753f"
+    "sha": "a03fc3cc2671908e52061291be9f2f7e3ca90a39"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Tiago",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Tiago 2",
     "url": "https://api.getbible.net/v2/almeida/59/2.json",
-    "sha": "b65bc5de696ea562588ab5877984e722c289c787"
+    "sha": "d0f74d17fa99278a1982eeb34ad95e10d274af0d"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Tiago",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Tiago 3",
     "url": "https://api.getbible.net/v2/almeida/59/3.json",
-    "sha": "e0d557433cbbc1aa08251005640a8a0ec8f1c6b5"
+    "sha": "09b5134ea7c3bcbeb5f119129b768b3b3b3e72b8"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Tiago",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Tiago 4",
     "url": "https://api.getbible.net/v2/almeida/59/4.json",
-    "sha": "84f5581b85a916301349e2f18320a58bbaabe452"
+    "sha": "70033b2a7c9a484c8b4831ef946b9124f54e2c40"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Tiago",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Tiago 5",
     "url": "https://api.getbible.net/v2/almeida/59/5.json",
-    "sha": "e24b43d8dd6abd2e4fc09bf4f425627a4244c2bf"
+    "sha": "f17015bc30b0a78952991d95f7f4545965c5baa8"
   }
 }

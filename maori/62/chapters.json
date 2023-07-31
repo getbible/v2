@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Hōani",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Hōani 1",
     "url": "https://api.getbible.net/v2/maori/62/1.json",
-    "sha": "42b686221ec342c74bb0e627a2b9480fe9799345"
+    "sha": "e6086c3f0fd65080b3ba1f2840dbb1761801def6"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Hōani",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Hōani 2",
     "url": "https://api.getbible.net/v2/maori/62/2.json",
-    "sha": "330c4dd6a8b240112471ecd9195beb561b547178"
+    "sha": "8db6d739e08fd531c585af3832e77b5ea4d71723"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Hōani",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Hōani 3",
     "url": "https://api.getbible.net/v2/maori/62/3.json",
-    "sha": "2a5513e8b25df0b5a48bb77593a98e7cfb0329f2"
+    "sha": "c458be61126ae519b3c4a4cdec6d0cd59ddb546c"
   },
   "4": {
     "translation": "Maori",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Hōani",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Hōani 4",
     "url": "https://api.getbible.net/v2/maori/62/4.json",
-    "sha": "e650527e55e48437d058bcde9868271049dafac2"
+    "sha": "64fd5c779f15a9d6ace4a4dfa4b942fd6bf09323"
   },
   "5": {
     "translation": "Maori",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Hōani",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Hōani 5",
     "url": "https://api.getbible.net/v2/maori/62/5.json",
-    "sha": "8fffee9d32d404751c0789245b23965e2b940cf6"
+    "sha": "15f55d62fb5a4e583c3d0630f5deaf47f8c8837c"
   }
 }

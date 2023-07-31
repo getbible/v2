@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "Ensimmäinen Pietarin kirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/60/1.json",
-    "sha": "d1a70fc1188d6d03c4f8efac72c9b77705202e29"
+    "sha": "bfd04c3a526a1b1ec17fe409c0db527feba2916e"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "Ensimmäinen Pietarin kirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/60/2.json",
-    "sha": "ff24a34c8a1b77de860f299d6947c612484d0cca"
+    "sha": "582380983ae7cd24c2fd1da5edfffc85d1c5cfc1"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "Ensimmäinen Pietarin kirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/60/3.json",
-    "sha": "64b37c730f56f169da440c2eddc68c5fdbb5287c"
+    "sha": "fbe3fcab236701fc48253764935e914289bd87c7"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "Ensimmäinen Pietarin kirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/60/4.json",
-    "sha": "9d542753d9712709692d4ba452ffd9265d02818a"
+    "sha": "f4fce5121e52af82ae488fcc7ae1953c4febb05f"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "Ensimmäinen Pietarin kirje 5",
     "url": "https://api.getbible.net/v2/finnish1776/60/5.json",
-    "sha": "5d42dd90cdd21947389648458abe043221108f8e"
+    "sha": "ca0f48084646bb9560dfa7a08d49698e847dc879"
   }
 }

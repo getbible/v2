@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Ⲡⲉⲧⲣⲟⲥ 1",
     "url": "https://api.getbible.net/v2/coptic/60/1.json",
-    "sha": "9030b1a0d16e338dfb81195f7d1311cea7de7643"
+    "sha": "99c62d6b037a7e8af642d2c1aef919b0e8b70ac6"
   },
   "2": {
     "translation": "New Testament",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Ⲡⲉⲧⲣⲟⲥ 2",
     "url": "https://api.getbible.net/v2/coptic/60/2.json",
-    "sha": "bed23fa00ebde57c20593fc1a612990d113e7f9a"
+    "sha": "af33e37f16b7a9dc9db163f3a8152fd13f539f0f"
   },
   "3": {
     "translation": "New Testament",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Ⲡⲉⲧⲣⲟⲥ 3",
     "url": "https://api.getbible.net/v2/coptic/60/3.json",
-    "sha": "1d263ea449a76455503b9364c0832729ea945bae"
+    "sha": "707eca0d3dbe5eb77a7b61458c0e89091c0c7579"
   },
   "4": {
     "translation": "New Testament",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Ⲡⲉⲧⲣⲟⲥ 4",
     "url": "https://api.getbible.net/v2/coptic/60/4.json",
-    "sha": "60c4622804c9e2c781bd05a0b49466ae5a110f2b"
+    "sha": "fa616515eef0fb92d9ca07200f99e84eedf906e7"
   },
   "5": {
     "translation": "New Testament",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Ⲡⲉⲧⲣⲟⲥ 5",
     "url": "https://api.getbible.net/v2/coptic/60/5.json",
-    "sha": "996a449c3e66327c94893818eb3c9d5142e6264e"
+    "sha": "e5d2b62f75da2181c8a0eb7284d8d0589d4524e4"
   }
 }

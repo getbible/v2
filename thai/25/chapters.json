@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "เพลงคร่ำครวญ",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "เพลงคร่ำครวญ 1",
     "url": "https://api.getbible.net/v2/thai/25/1.json",
-    "sha": "b31a010d1f24933b6df164df74c27436366918b5"
+    "sha": "a75dd9df130839e32a617bb3b2ebb766ba25cc7c"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "เพลงคร่ำครวญ",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "เพลงคร่ำครวญ 2",
     "url": "https://api.getbible.net/v2/thai/25/2.json",
-    "sha": "7eb32556cc12839609eb33676e301a3e61aaba36"
+    "sha": "b837aa14258fa79b80efa0b24d0e5171aa32eb5f"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "เพลงคร่ำครวญ",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "เพลงคร่ำครวญ 3",
     "url": "https://api.getbible.net/v2/thai/25/3.json",
-    "sha": "cf39e93f96e95eb1cfa7e97138c2a336cc2d41b5"
+    "sha": "4d64bc1ec8e493ab401d26c6a6c674d66a26129f"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "เพลงคร่ำครวญ",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "เพลงคร่ำครวญ 4",
     "url": "https://api.getbible.net/v2/thai/25/4.json",
-    "sha": "6e62ba9fa71a767b327a3ccd3a87a457afd25f9d"
+    "sha": "a2966d514bb5cb5dbe68748985bb08cf3c69ba14"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "เพลงคร่ำครวญ",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "เพลงคร่ำครวญ 5",
     "url": "https://api.getbible.net/v2/thai/25/5.json",
-    "sha": "71a0eb79209ed52ff716738edd42c6c786dc0876"
+    "sha": "39a2f67605d526e4732d924117611bd746905ca2"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efézusiakhoz írt levél",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efézusiakhoz írt levél 1",
     "url": "https://api.getbible.net/v2/karoli/49/1.json",
-    "sha": "a74f3afac2a5c7a1c8ab6513a1bd82f483e9f73d"
+    "sha": "7cbe52d6d80d49f406964a1f3cfda63073b84ac6"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efézusiakhoz írt levél",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efézusiakhoz írt levél 2",
     "url": "https://api.getbible.net/v2/karoli/49/2.json",
-    "sha": "d452f033e1fb1db0b4851876e8bb9adebeee5916"
+    "sha": "302dbac9648d19697806df637602031ee0b23fe4"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efézusiakhoz írt levél",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efézusiakhoz írt levél 3",
     "url": "https://api.getbible.net/v2/karoli/49/3.json",
-    "sha": "44af1656a00806ccda0a8785815da70a850075b1"
+    "sha": "338f0316234202ba29b51f9c0cbcd15dad4a9d00"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efézusiakhoz írt levél",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efézusiakhoz írt levél 4",
     "url": "https://api.getbible.net/v2/karoli/49/4.json",
-    "sha": "12b5a875a1c333b44b519f16fe0388e488477fd8"
+    "sha": "0bdf698ad92997c76f3ec991170852d4240ca203"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efézusiakhoz írt levél",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efézusiakhoz írt levél 5",
     "url": "https://api.getbible.net/v2/karoli/49/5.json",
-    "sha": "572c7379c2843e2cee76915f275d1c13e345d2d2"
+    "sha": "ff53ac545667e2e3cd9adeeaf7b052ddf337a346"
   },
   "6": {
     "translation": "Hungarian Karoli",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efézusiakhoz írt levél",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efézusiakhoz írt levél 6",
     "url": "https://api.getbible.net/v2/karoli/49/6.json",
-    "sha": "bcbd85f5c7440d3569169220321f47e588e7089c"
+    "sha": "9298874926afd53b027383bfc26643054787a879"
   }
 }

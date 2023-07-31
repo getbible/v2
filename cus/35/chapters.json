@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "哈巴谷书 1",
     "url": "https://api.getbible.net/v2/cus/35/1.json",
-    "sha": "7d78afcee4bb651ba2909eb2d274321ed379a237"
+    "sha": "03a8ced339ce66e6e301a45062c1474b6feb3f9f"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "哈巴谷书 2",
     "url": "https://api.getbible.net/v2/cus/35/2.json",
-    "sha": "dcc12d332c00c0a06b683d2ab710e51c52a23199"
+    "sha": "c4e85e7baffb85c235cc5aaf8d1fe523ee3c3ee5"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "哈巴谷书 3",
     "url": "https://api.getbible.net/v2/cus/35/3.json",
-    "sha": "3df0cacb5bef8b50a81bd2ce4b122259f3295283"
+    "sha": "9e10ebacbca116bef8f3687512cbf5dba2830df8"
   }
 }

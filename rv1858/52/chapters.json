@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonicenses",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Tesalonicenses 1",
     "url": "https://api.getbible.net/v2/rv1858/52/1.json",
-    "sha": "6c9440cedb31ec814bd66ee9c43d6b9c3c499315"
+    "sha": "67dba8abfd21532b93cad3c5f2dd39bbf9874a13"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonicenses",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Tesalonicenses 2",
     "url": "https://api.getbible.net/v2/rv1858/52/2.json",
-    "sha": "554f2b031d4eaaba2be14711427c04d3bcaffb5d"
+    "sha": "01d754ce6404930ec94625a2756eb4acec84d9b4"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonicenses",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Tesalonicenses 3",
     "url": "https://api.getbible.net/v2/rv1858/52/3.json",
-    "sha": "6cd675695ef3f980bae81e8f7f553a8dc6335828"
+    "sha": "6043f1061d02ba35ae3108e1fe3220d234064d79"
   },
   "4": {
     "translation": "Reina Valera NT (1858)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonicenses",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Tesalonicenses 4",
     "url": "https://api.getbible.net/v2/rv1858/52/4.json",
-    "sha": "f96833b8743b090eabc8fcfec5fd9a7b1340b324"
+    "sha": "fb2207ca3a2f431526c3ee9afbc51682631016e4"
   },
   "5": {
     "translation": "Reina Valera NT (1858)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonicenses",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Tesalonicenses 5",
     "url": "https://api.getbible.net/v2/rv1858/52/5.json",
-    "sha": "7d9aa9fd64c7d1f087b94520d900dd3492b56534"
+    "sha": "da2fff6b9a5973ec3b6ed6490870ea9d61eab09d"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 1,
-    "name": "Hebrews 1",
+    "name": "Hebrealaiskirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/58/1.json",
-    "sha": "94faa10233a5cdc6b9a04cf303fdda552b0e0b3d"
+    "sha": "1c11bd745b5f1c22551e2b08207182ea6f21a59f"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 2,
-    "name": "Hebrews 2",
+    "name": "Hebrealaiskirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/58/2.json",
-    "sha": "a2e1d00a714d02c23f6ba83811138dcae46a637c"
+    "sha": "9e8fc1dddb807ff936c330677621ba6c21a2a7b6"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 3,
-    "name": "Hebrews 3",
+    "name": "Hebrealaiskirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/58/3.json",
-    "sha": "2d32df79f708d168e328e0e2cad785a613a0d195"
+    "sha": "dc66df3fe6e04518c55912fb2ce484d484b57eaf"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 4,
-    "name": "Hebrews 4",
+    "name": "Hebrealaiskirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/58/4.json",
-    "sha": "9418e8e5ce2366cc1facece3dd5daad583b5cb92"
+    "sha": "2787383fafa56982249dd8c42aa464fb331677df"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 5,
-    "name": "Hebrews 5",
+    "name": "Hebrealaiskirje 5",
     "url": "https://api.getbible.net/v2/finnish1776/58/5.json",
-    "sha": "064abfd61998d4d0a4ccfe486d4f75198db31a75"
+    "sha": "a20f7b81e0f3868c6c5941ece124c875d8243f36"
   },
   "6": {
     "translation": "Finnish Bible (1776)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 6,
-    "name": "Hebrews 6",
+    "name": "Hebrealaiskirje 6",
     "url": "https://api.getbible.net/v2/finnish1776/58/6.json",
-    "sha": "a027a33c32c8fbda00a309ab5d5ff42ddaef0c3b"
+    "sha": "c464b9f31e8ec5f1b1499a6951b97911643cf561"
   },
   "7": {
     "translation": "Finnish Bible (1776)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 7,
-    "name": "Hebrews 7",
+    "name": "Hebrealaiskirje 7",
     "url": "https://api.getbible.net/v2/finnish1776/58/7.json",
-    "sha": "8ea897beec3cbbca64cdd6d780e16c28472ef8aa"
+    "sha": "5eb4ebdce1092393c3901bcd1105bb1022484d7f"
   },
   "8": {
     "translation": "Finnish Bible (1776)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 8,
-    "name": "Hebrews 8",
+    "name": "Hebrealaiskirje 8",
     "url": "https://api.getbible.net/v2/finnish1776/58/8.json",
-    "sha": "0044454f415cf352575ad83a399de495a192aa37"
+    "sha": "a83360c27976ed4c41a4369ee3879d39f3127694"
   },
   "9": {
     "translation": "Finnish Bible (1776)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 9,
-    "name": "Hebrews 9",
+    "name": "Hebrealaiskirje 9",
     "url": "https://api.getbible.net/v2/finnish1776/58/9.json",
-    "sha": "7f7e16b03595239bd3d54ed02029f7fe61365c6d"
+    "sha": "a5386753137994d46e1e04a02fb8be17059e319d"
   },
   "10": {
     "translation": "Finnish Bible (1776)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 10,
-    "name": "Hebrews 10",
+    "name": "Hebrealaiskirje 10",
     "url": "https://api.getbible.net/v2/finnish1776/58/10.json",
-    "sha": "14450776b50dcbcf28bf37bccf2462932183d8c7"
+    "sha": "84f494012893d2a82d3ec862661db1773c8529d2"
   },
   "11": {
     "translation": "Finnish Bible (1776)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 11,
-    "name": "Hebrews 11",
+    "name": "Hebrealaiskirje 11",
     "url": "https://api.getbible.net/v2/finnish1776/58/11.json",
-    "sha": "133e837b0d74d7b2c17f940a5674407f244a9a82"
+    "sha": "089692fbda89f557814c5ac90ec907d075ed82dd"
   },
   "12": {
     "translation": "Finnish Bible (1776)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 12,
-    "name": "Hebrews 12",
+    "name": "Hebrealaiskirje 12",
     "url": "https://api.getbible.net/v2/finnish1776/58/12.json",
-    "sha": "2f931ebfa25ac315153679b26de6872878d262b3"
+    "sha": "51308d5380eafa430f9ca11379c8a096c3b6b09b"
   },
   "13": {
     "translation": "Finnish Bible (1776)",
@@ -175,10 +175,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 58,
-    "book_name": "Hebrews",
+    "book_name": "Hebrealaiskirje",
     "chapter": 13,
-    "name": "Hebrews 13",
+    "name": "Hebrealaiskirje 13",
     "url": "https://api.getbible.net/v2/finnish1776/58/13.json",
-    "sha": "b34ea08b51bb5b6f1dde61bd27197fd57c883afc"
+    "sha": "69c04b501c19899939ba07ed9d50fa08a1c5e22c"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentationes",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Lamentationes 1",
     "url": "https://api.getbible.net/v2/vulgate/25/1.json",
-    "sha": "ae2770f868c292cf89dd58c3010f83131fba4ced"
+    "sha": "5cb0ff711d5373722696176147bb715a86df90a6"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentationes",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Lamentationes 2",
     "url": "https://api.getbible.net/v2/vulgate/25/2.json",
-    "sha": "186d018ee8bb9bbd3ac133d47dd5f7927bdc476b"
+    "sha": "aab738adb2a56e109ca3a235e855ae0be6321a1e"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentationes",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Lamentationes 3",
     "url": "https://api.getbible.net/v2/vulgate/25/3.json",
-    "sha": "cd2d24d22fc4f2ebd69833f02fa400322530ea02"
+    "sha": "030470c1d920fdec85a545e083ee0210383e2213"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentationes",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Lamentationes 4",
     "url": "https://api.getbible.net/v2/vulgate/25/4.json",
-    "sha": "4cf6a262356b881fbfc68a431c04b40142466b46"
+    "sha": "692419c8f96f4a7d53f3929d88cec2543f1cd0b7"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentationes",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Lamentationes 5",
     "url": "https://api.getbible.net/v2/vulgate/25/5.json",
-    "sha": "0bd845404c2e987001641f6bddb683394feeb9b2"
+    "sha": "d8304bada9af49bf5b0d9d55cd0ace3c95b986e6"
   }
 }

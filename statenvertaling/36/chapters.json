@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Zefanja",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Zefanja 1",
     "url": "https://api.getbible.net/v2/statenvertaling/36/1.json",
-    "sha": "512fed6080352276fc9ecabaa0eba9d60e10116a"
+    "sha": "5218579960583a17cb465f9e1acee2efe25e05ca"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Zefanja",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Zefanja 2",
     "url": "https://api.getbible.net/v2/statenvertaling/36/2.json",
-    "sha": "ea1c54f0c23b61911b18b2eebf75157f5f4709fa"
+    "sha": "009ca9adf15e13af756cb763f63c7598ce9eabbf"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Zefanja",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Zefanja 3",
     "url": "https://api.getbible.net/v2/statenvertaling/36/3.json",
-    "sha": "2ba1df9d0f27e89e79ccae49c1776fe11ebe198e"
+    "sha": "5985eca80c621055a74068b3d94b9b60abb672d2"
   }
 }

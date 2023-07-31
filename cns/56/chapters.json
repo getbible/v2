@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "提多书 1",
     "url": "https://api.getbible.net/v2/cns/56/1.json",
-    "sha": "7dd38e76338c8b72e28779ea9d7b4d873159b1fb"
+    "sha": "e2f187c280e225c819e5820bc47bac714715ce2b"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "提多书 2",
     "url": "https://api.getbible.net/v2/cns/56/2.json",
-    "sha": "79e67ab6ccde3361088c32ed4994b2a8040c7ed9"
+    "sha": "e9c9dc05f36b46295f66d36d641dc077f7d9ff6b"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "提多书 3",
     "url": "https://api.getbible.net/v2/cns/56/3.json",
-    "sha": "737bc180c80d2fc6e6a32f52e9ea0e7efd8bdd23"
+    "sha": "d5ad13c396553e49f4b5ff81cdb723bae157058c"
   }
 }

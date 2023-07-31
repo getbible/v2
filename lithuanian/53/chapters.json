@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonikiečiams",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Tesalonikiečiams 1",
     "url": "https://api.getbible.net/v2/lithuanian/53/1.json",
-    "sha": "a202ffd5fd4eff57c96b6a1469d88fe77cd146c5"
+    "sha": "d5bd41a66b0f205cb51a89889429c8136e9268c7"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonikiečiams",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Tesalonikiečiams 2",
     "url": "https://api.getbible.net/v2/lithuanian/53/2.json",
-    "sha": "c4c940cf4d30269689b28dfe1f2c9e8cb2018239"
+    "sha": "f3b04b8477cc3c423fc2bbf61052a4ff3f2fb375"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonikiečiams",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Tesalonikiečiams 3",
     "url": "https://api.getbible.net/v2/lithuanian/53/3.json",
-    "sha": "edf868b7aa141b9e85e81745404c1bdcfbee97dd"
+    "sha": "424535e842967f61a70bdd11ed84a3026ad2404a"
   }
 }

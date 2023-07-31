@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 ทิโมธี",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 ทิโมธี 1",
     "url": "https://api.getbible.net/v2/thai/55/1.json",
-    "sha": "ca234ad72e62a62eee8870e97f9a0294c63ec017"
+    "sha": "e04f7505c915191bc6a084d9548f74807c305269"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 ทิโมธี",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 ทิโมธี 2",
     "url": "https://api.getbible.net/v2/thai/55/2.json",
-    "sha": "f47273b01271b209ef76c90e4bdb8b6376bdcc51"
+    "sha": "e0a68f59aade3bf23cf52b370e2dcc28b1a10c15"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 ทิโมธี",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 ทิโมธี 3",
     "url": "https://api.getbible.net/v2/thai/55/3.json",
-    "sha": "3689181ce39a846289a2cc554a5b757e80ca7be9"
+    "sha": "4a08b7211f84d6e28892d95d981d05abdacd46be"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 ทิโมธี",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 ทิโมธี 4",
     "url": "https://api.getbible.net/v2/thai/55/4.json",
-    "sha": "d111ca8ea1c87d1b75648d0db8a4d6d95ac8df7e"
+    "sha": "2090449ee7d8c03783cb7f05d4f87454adee3ebd"
   }
 }

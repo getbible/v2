@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Colosenses 1",
     "url": "https://api.getbible.net/v2/sse/51/1.json",
-    "sha": "f07a55bfa3da81774f977ff96b77a00f0f1466c8"
+    "sha": "01970c18f6289212e01efbb54be96005b36f4259"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Colosenses 2",
     "url": "https://api.getbible.net/v2/sse/51/2.json",
-    "sha": "752b8894c3c4b183cf4f81fe503092c9ae0f79f4"
+    "sha": "596a9d2b3822a500ad3cdc1f291e823ba1be57fc"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Colosenses 3",
     "url": "https://api.getbible.net/v2/sse/51/3.json",
-    "sha": "fda9c1b3d439a9ffb0e758b841b5bcadb0c75f09"
+    "sha": "b41141d2261ddd1eac41e86442318f1edc6e4268"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Colosenses 4",
     "url": "https://api.getbible.net/v2/sse/51/4.json",
-    "sha": "534eb1ffb7068c32c061e4fe2507e1fdb84ad87c"
+    "sha": "767b21248b1b9f6e7f963b17a1db187d20919bce"
   }
 }

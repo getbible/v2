@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Michée 1",
     "url": "https://api.getbible.net/v2/darby/33/1.json",
-    "sha": "4029d99725a09ffb2f57e882aad3f9a0bc9b62d1"
+    "sha": "0d6303f141b411401b84c3e33b8ea5be4ea7e17f"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Michée 2",
     "url": "https://api.getbible.net/v2/darby/33/2.json",
-    "sha": "e87582de53157abdd53e671289a42b86f402feae"
+    "sha": "982a61aa44779b13641bb1c201b6955a1b254cef"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Michée 3",
     "url": "https://api.getbible.net/v2/darby/33/3.json",
-    "sha": "0af44451cd62421492f33258cb8f61c7bef463c7"
+    "sha": "191a8bf67bac57340a9e809474cbebcb3f7500cd"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Michée 4",
     "url": "https://api.getbible.net/v2/darby/33/4.json",
-    "sha": "db96f47d3002eae07835e6c9eccf9d6d3090ea79"
+    "sha": "d4c6dd231a8a924dd610218a097821d38e479284"
   },
   "5": {
     "translation": "Darby",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Michée 5",
     "url": "https://api.getbible.net/v2/darby/33/5.json",
-    "sha": "2a521d9c4539cdcd2a560602cf903bd92b98a1c4"
+    "sha": "93c343de7d2a21694208ec94c48d49e55728484a"
   },
   "6": {
     "translation": "Darby",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Michée 6",
     "url": "https://api.getbible.net/v2/darby/33/6.json",
-    "sha": "9733291bec8f207eb209296a4e45cdea34a69d12"
+    "sha": "ef29cb765c70a463786024b718c8952611075456"
   },
   "7": {
     "translation": "Darby",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Michée 7",
     "url": "https://api.getbible.net/v2/darby/33/7.json",
-    "sha": "8bec58a504236735c0f525e35cf2b160b2a5a769"
+    "sha": "bfb82577795bccac133a4901746f7dc15f0e2a26"
   }
 }

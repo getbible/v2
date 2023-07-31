@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "נַחוּם",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "נַחוּם 1",
     "url": "https://api.getbible.net/v2/modernhebrew/34/1.json",
-    "sha": "41681691c878e73c9d8c51f5a8b1aaca3539f01a"
+    "sha": "994c84771f570a7e81be71d7074e11574a01a1d1"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "נַחוּם",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "נַחוּם 2",
     "url": "https://api.getbible.net/v2/modernhebrew/34/2.json",
-    "sha": "82cf74ddd99c00d3adee82ea5c7c7b4958172773"
+    "sha": "bf59cc251900d0f937a15511523ef3b8fe7fd690"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,10 +35,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "נַחוּם",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "נַחוּם 3",
     "url": "https://api.getbible.net/v2/modernhebrew/34/3.json",
-    "sha": "35d9ba43d1442c2c80b11e10ca2b01b4f626c10e"
+    "sha": "4c41bcec2f32b78bb9708de50091ed42c53737f0"
   }
 }

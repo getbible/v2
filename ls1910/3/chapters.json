@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 1,
-    "name": "Leviticus 1",
+    "name": "Lévitique 1",
     "url": "https://api.getbible.net/v2/ls1910/3/1.json",
-    "sha": "ea2f89809e57ee0f2143395f9d96a35662bc79ba"
+    "sha": "2a58a9a4c4093e0f9f19c9d13a7e42ad6e344fc3"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 2,
-    "name": "Leviticus 2",
+    "name": "Lévitique 2",
     "url": "https://api.getbible.net/v2/ls1910/3/2.json",
-    "sha": "6e0b43b6126e85e9c0342b3c8ae42a013042a2b6"
+    "sha": "fe4cfb4f9db78071faf71b7fb3d48b3db684224d"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 3,
-    "name": "Leviticus 3",
+    "name": "Lévitique 3",
     "url": "https://api.getbible.net/v2/ls1910/3/3.json",
-    "sha": "a640e6e92c0e5f7c880f0c21ceb06f7f85577533"
+    "sha": "5db37a1d0c679c9ac23a877a7108649cffb261bb"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 4,
-    "name": "Leviticus 4",
+    "name": "Lévitique 4",
     "url": "https://api.getbible.net/v2/ls1910/3/4.json",
-    "sha": "6eef7b1d746c34557fde0e4ac640882a311bfc9a"
+    "sha": "7199455003fc38f61ca706969dc0613f736cfd90"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 5,
-    "name": "Leviticus 5",
+    "name": "Lévitique 5",
     "url": "https://api.getbible.net/v2/ls1910/3/5.json",
-    "sha": "ba95bb819d2256e87ed8f05e56cb5ad9881504f7"
+    "sha": "185f7a0b0729c13cae73f3806cd22afab92453fc"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 6,
-    "name": "Leviticus 6",
+    "name": "Lévitique 6",
     "url": "https://api.getbible.net/v2/ls1910/3/6.json",
-    "sha": "17d01559e78fb6e268d0b20643c9473c6447f293"
+    "sha": "68d51b74bc4598204a8beba8d360a7ff55958e83"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 7,
-    "name": "Leviticus 7",
+    "name": "Lévitique 7",
     "url": "https://api.getbible.net/v2/ls1910/3/7.json",
-    "sha": "089115f1ea6e9c6d019de851470170ade6a4fb0e"
+    "sha": "4824191c4a5fe30f07866e782feeb13e65bfe97b"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 8,
-    "name": "Leviticus 8",
+    "name": "Lévitique 8",
     "url": "https://api.getbible.net/v2/ls1910/3/8.json",
-    "sha": "e9f6ce3db327a3c51e25af4d11f54fb2c05a966f"
+    "sha": "d31fed15b066adffc3c030b7548ea83a2ac371de"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 9,
-    "name": "Leviticus 9",
+    "name": "Lévitique 9",
     "url": "https://api.getbible.net/v2/ls1910/3/9.json",
-    "sha": "37999ba0be2ff37577f024ee1bb70cf40d056d38"
+    "sha": "a199995cea9cdd74dcb4bf678b011d35bcbf1ed7"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 10,
-    "name": "Leviticus 10",
+    "name": "Lévitique 10",
     "url": "https://api.getbible.net/v2/ls1910/3/10.json",
-    "sha": "c931e78fa5f1c4bfe08299f574bd2f8e2ce4b375"
+    "sha": "aaae7bc045133fb0f6e5d6279cb065840b11ebe3"
   },
   "11": {
     "translation": "Louis Segond (1910)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 11,
-    "name": "Leviticus 11",
+    "name": "Lévitique 11",
     "url": "https://api.getbible.net/v2/ls1910/3/11.json",
-    "sha": "fa7aa4b632a0714caa9f82c1dd6449a653409ef4"
+    "sha": "e5639ef66fa674d1ba92d93e7ebeaf3cfd0f993f"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 12,
-    "name": "Leviticus 12",
+    "name": "Lévitique 12",
     "url": "https://api.getbible.net/v2/ls1910/3/12.json",
-    "sha": "4b933f157f443b7366cc832ba2405aabc2473757"
+    "sha": "e7ed9f8bbfbd22d73d57d1548b54ff3ff18c4b22"
   },
   "13": {
     "translation": "Louis Segond (1910)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 13,
-    "name": "Leviticus 13",
+    "name": "Lévitique 13",
     "url": "https://api.getbible.net/v2/ls1910/3/13.json",
-    "sha": "a4998e09256e0b25c2910faa15e09430ea68c218"
+    "sha": "2c59dc6ada4eaaebfa8143e4091956f377b8a7fe"
   },
   "14": {
     "translation": "Louis Segond (1910)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 14,
-    "name": "Leviticus 14",
+    "name": "Lévitique 14",
     "url": "https://api.getbible.net/v2/ls1910/3/14.json",
-    "sha": "67ee6ac7fb9114925a01ca705bb26518060c6118"
+    "sha": "c452c595c152bf2df2e745df17d6ce433b61429b"
   },
   "15": {
     "translation": "Louis Segond (1910)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 15,
-    "name": "Leviticus 15",
+    "name": "Lévitique 15",
     "url": "https://api.getbible.net/v2/ls1910/3/15.json",
-    "sha": "31a61357dde4c5f9a584d9526df843ef584680b3"
+    "sha": "52df6233e7185c06d282093ce3c0ec793e9bd5b7"
   },
   "16": {
     "translation": "Louis Segond (1910)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 16,
-    "name": "Leviticus 16",
+    "name": "Lévitique 16",
     "url": "https://api.getbible.net/v2/ls1910/3/16.json",
-    "sha": "00141ca8cae163c60be64434c562909c8af7689b"
+    "sha": "386b99c9705cf948167bb478f58486306bebfddb"
   },
   "17": {
     "translation": "Louis Segond (1910)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 17,
-    "name": "Leviticus 17",
+    "name": "Lévitique 17",
     "url": "https://api.getbible.net/v2/ls1910/3/17.json",
-    "sha": "3d8ad10096f2832ff4ab0f6ec78aa08c9e207bc6"
+    "sha": "76a2b9d13eff4bc642655c29d797f13f17c14916"
   },
   "18": {
     "translation": "Louis Segond (1910)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 18,
-    "name": "Leviticus 18",
+    "name": "Lévitique 18",
     "url": "https://api.getbible.net/v2/ls1910/3/18.json",
-    "sha": "42465d0bdc1a454e420a6b8169bcdff57712f542"
+    "sha": "18dad1f8103b9cb64513ba3b93a635cd86395a9e"
   },
   "19": {
     "translation": "Louis Segond (1910)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 19,
-    "name": "Leviticus 19",
+    "name": "Lévitique 19",
     "url": "https://api.getbible.net/v2/ls1910/3/19.json",
-    "sha": "b6327746f4692430a3d8d3e82607b3ef27fddc4f"
+    "sha": "d63887eae30df3447033333d9f6f9ecdff854976"
   },
   "20": {
     "translation": "Louis Segond (1910)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 20,
-    "name": "Leviticus 20",
+    "name": "Lévitique 20",
     "url": "https://api.getbible.net/v2/ls1910/3/20.json",
-    "sha": "9c1503239afb0686b75d2ceeb825e439c41fd825"
+    "sha": "c6d726b59b5bf460a37ebc07a99da44e14de0f05"
   },
   "21": {
     "translation": "Louis Segond (1910)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 21,
-    "name": "Leviticus 21",
+    "name": "Lévitique 21",
     "url": "https://api.getbible.net/v2/ls1910/3/21.json",
-    "sha": "f1e3ce55dc9780d78f97850e00fe569b1311ce3e"
+    "sha": "7a8c9d24758a0718974731b2616d6a870a804d19"
   },
   "22": {
     "translation": "Louis Segond (1910)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 22,
-    "name": "Leviticus 22",
+    "name": "Lévitique 22",
     "url": "https://api.getbible.net/v2/ls1910/3/22.json",
-    "sha": "d30281111678be7b8c0d8415b20adc80c791e171"
+    "sha": "800265aa49c90efef30d0ddb9d226646f43819da"
   },
   "23": {
     "translation": "Louis Segond (1910)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 23,
-    "name": "Leviticus 23",
+    "name": "Lévitique 23",
     "url": "https://api.getbible.net/v2/ls1910/3/23.json",
-    "sha": "8812d79bac0757183bdb9974995b32a8b8d7a4b8"
+    "sha": "0051404fff02f7e0c32e2e44eb8a0fa65d9ba752"
   },
   "24": {
     "translation": "Louis Segond (1910)",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 24,
-    "name": "Leviticus 24",
+    "name": "Lévitique 24",
     "url": "https://api.getbible.net/v2/ls1910/3/24.json",
-    "sha": "ead56a824884e77ef2d8d620c3c545adcdc14fd0"
+    "sha": "39582e6262d44d0cda2fc2c84a604bda3ef9fb1e"
   },
   "25": {
     "translation": "Louis Segond (1910)",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 25,
-    "name": "Leviticus 25",
+    "name": "Lévitique 25",
     "url": "https://api.getbible.net/v2/ls1910/3/25.json",
-    "sha": "e1328a5d14bbe128bdd9845bef2e999933a4f7fa"
+    "sha": "3c8ad63d78517aa4b6f835bd46ef1cb375d634b7"
   },
   "26": {
     "translation": "Louis Segond (1910)",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 26,
-    "name": "Leviticus 26",
+    "name": "Lévitique 26",
     "url": "https://api.getbible.net/v2/ls1910/3/26.json",
-    "sha": "14d30b29edc30f2a180a146333f5b3fa665f0088"
+    "sha": "8507442754709897a5fbc10e217913a106b3be62"
   },
   "27": {
     "translation": "Louis Segond (1910)",
@@ -371,10 +371,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Lévitique",
     "chapter": 27,
-    "name": "Leviticus 27",
+    "name": "Lévitique 27",
     "url": "https://api.getbible.net/v2/ls1910/3/27.json",
-    "sha": "6008a6c36b7c8e48532a7fc9673a8592034a9c3a"
+    "sha": "7576cf2eb023044a6d03ea3c523442dd3bd7dd48"
   }
 }

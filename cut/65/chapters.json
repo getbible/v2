@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 65,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "猶大書 1",
     "url": "https://api.getbible.net/v2/cut/65/1.json",
-    "sha": "0db57f2fe34124af2d2fa6dc2049961bd1121d26"
+    "sha": "df56fe6c85e699894f3a51baacfe661cb1d91d51"
   }
 }

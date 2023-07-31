@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "Προς Τιμόθεον Β' 1",
     "url": "https://api.getbible.net/v2/tischendorf/55/1.json",
-    "sha": "3a11df7655cb47b7cc079f8b6427b7214c7e0e27"
+    "sha": "30085f372e6297481359506fed28c404fc017e6a"
   },
   "2": {
     "translation": "NT Tischendorf 8th Ed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "Προς Τιμόθεον Β' 2",
     "url": "https://api.getbible.net/v2/tischendorf/55/2.json",
-    "sha": "1b50dcea2740d5e0707106d7b164b72a4c1a6b27"
+    "sha": "6aee6ca29b889e9aa1b2910871186b5888e6e084"
   },
   "3": {
     "translation": "NT Tischendorf 8th Ed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "Προς Τιμόθεον Β' 3",
     "url": "https://api.getbible.net/v2/tischendorf/55/3.json",
-    "sha": "a004f2649e5542a6be58677d72042d0c773f55b7"
+    "sha": "60851b2f501b815bd78881be8ee937de0f21cba8"
   },
   "4": {
     "translation": "NT Tischendorf 8th Ed",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Προς Τιμόθεον Β'",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "Προς Τιμόθεον Β' 4",
     "url": "https://api.getbible.net/v2/tischendorf/55/4.json",
-    "sha": "c330d499183721348b36531645692dc12c2bf3da"
+    "sha": "ab822c99d2b3b515bf508ea2b1766153dc5c7258"
   }
 }

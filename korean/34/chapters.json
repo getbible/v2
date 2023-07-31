@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "나훔",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "나훔 1",
     "url": "https://api.getbible.net/v2/korean/34/1.json",
-    "sha": "1b3555e346a54c3948322979099754fc59080988"
+    "sha": "da570308105df89c38f5680bd5680c1ad9c269b4"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "나훔",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "나훔 2",
     "url": "https://api.getbible.net/v2/korean/34/2.json",
-    "sha": "0ccf93289fb2ae6901f2542d0f93973e555576e0"
+    "sha": "88e00e998d0e8a62b8b3ae5892053b217567daeb"
   },
   "3": {
     "translation": "Korean",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "나훔",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "나훔 3",
     "url": "https://api.getbible.net/v2/korean/34/3.json",
-    "sha": "3a96bc30afc05d3df427d9307914a4bbeff28608"
+    "sha": "08ea48774029d1f0d0b1abf91a7680d660fa1a01"
   }
 }

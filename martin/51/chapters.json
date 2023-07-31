@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Colossiens 1",
     "url": "https://api.getbible.net/v2/martin/51/1.json",
-    "sha": "05391c06870e0ef7ceed3b300fea36d65bd14ae4"
+    "sha": "a5f852ac4a0151e21fea61e2fc48c80be2bb177f"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Colossiens 2",
     "url": "https://api.getbible.net/v2/martin/51/2.json",
-    "sha": "b9ca6101c45055858f804157f466b845eb12475f"
+    "sha": "978527ea25bdf9f5fc630ea71360a9f9fe1a7d1c"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Colossiens 3",
     "url": "https://api.getbible.net/v2/martin/51/3.json",
-    "sha": "c2f1bb859b2818da78b4c261c102301a693c5ee7"
+    "sha": "6976bf4951860d29d065092ba0ee03bc94e2d8fe"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Colossiens 4",
     "url": "https://api.getbible.net/v2/martin/51/4.json",
-    "sha": "7f42aa2f60c27e730fbd08304d60e6c1f927cd4c"
+    "sha": "70cbf34a22bdb5c6530c73b561a05d4d8936ce95"
   }
 }

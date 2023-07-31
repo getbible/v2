@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "يوئيل",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "يوئيل 1",
     "url": "https://api.getbible.net/v2/arabicsv/29/1.json",
-    "sha": "2b90e6d60f872bbf05a9d3cbe8dec2ba9149da55"
+    "sha": "f56707a7679bf9d89295c1bb4b0875be637d09f6"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "يوئيل",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "يوئيل 2",
     "url": "https://api.getbible.net/v2/arabicsv/29/2.json",
-    "sha": "8ed1f82ee3539977ff636686eb563006edc8a8fb"
+    "sha": "ea36f10ef6e929c8b7447f9a4e1b40f032cf18c4"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,10 +35,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "يوئيل",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "يوئيل 3",
     "url": "https://api.getbible.net/v2/arabicsv/29/3.json",
-    "sha": "36eaa41c03e2d427a2c2cdb0178e0237a627f798"
+    "sha": "19dfd573ba9e2c62cf271abb1478fcf3511ae5cb"
   }
 }

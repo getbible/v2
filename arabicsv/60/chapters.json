@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 بطرس",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 بطرس 1",
     "url": "https://api.getbible.net/v2/arabicsv/60/1.json",
-    "sha": "e41d93e0f705750878269707e0736fb68273f6fa"
+    "sha": "045ef95315155842855c2b5f6365edaf04ffac7e"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 بطرس",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 بطرس 2",
     "url": "https://api.getbible.net/v2/arabicsv/60/2.json",
-    "sha": "ce3e4662f7b09a3175322888f72a34ed0b7de9f9"
+    "sha": "1c9f85bdeef78cc5a69b548de5a802096f972a16"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 بطرس",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 بطرس 3",
     "url": "https://api.getbible.net/v2/arabicsv/60/3.json",
-    "sha": "18e663fcf156557e5e2d8866a9fa9c0a24a85164"
+    "sha": "519b777e519b990234562973cbc25a5a284a1304"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 بطرس",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 بطرس 4",
     "url": "https://api.getbible.net/v2/arabicsv/60/4.json",
-    "sha": "8b71a14bde1d15b3b12eb1522a8b2d0bf131f516"
+    "sha": "c1f116ccf46609a8d43ae609824d618c556cb2ee"
   },
   "5": {
     "translation": "Smith and Van Dyke",
@@ -63,10 +63,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 بطرس",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 بطرس 5",
     "url": "https://api.getbible.net/v2/arabicsv/60/5.json",
-    "sha": "a44c27de3c7798ac11207849c783c80b4779ec82"
+    "sha": "01efa50922d5603b7651c81301de2941a67373ad"
   }
 }

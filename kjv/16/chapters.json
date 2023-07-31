@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Nehemiah 1",
     "url": "https://api.getbible.net/v2/kjv/16/1.json",
-    "sha": "2cdbfbe4325e6b7436b6db1f579c36b845286e80"
+    "sha": "56927d65c15db020d67693340e7192002f018b38"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Nehemiah 2",
     "url": "https://api.getbible.net/v2/kjv/16/2.json",
-    "sha": "0bdb5a1197e55f2da3773e4ca60c6f3f9a30db0d"
+    "sha": "d89bbce485b7c4af3751003175becef4435058df"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Nehemiah 3",
     "url": "https://api.getbible.net/v2/kjv/16/3.json",
-    "sha": "9f1b7fb230ed5e41fa52e347e27cf54103e8208e"
+    "sha": "38c326a56788d713c39dd11a5e7e74ff1c886b95"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Nehemiah 4",
     "url": "https://api.getbible.net/v2/kjv/16/4.json",
-    "sha": "dd2b9d4f6c481d86c63ae6c769aa1edd19ab909c"
+    "sha": "aef6eb513a20a1e2207ac806375d0b75ba3b4154"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Nehemiah 5",
     "url": "https://api.getbible.net/v2/kjv/16/5.json",
-    "sha": "164fe60c14932a7dd56a7cdc8101b5ca974f9370"
+    "sha": "8240a85ae1415a1b2eeaf7812345bd739a00a754"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Nehemiah 6",
     "url": "https://api.getbible.net/v2/kjv/16/6.json",
-    "sha": "196ecfbeaf57e94f3fed752d9b83db911becc49c"
+    "sha": "ee249dee4379741deca719878ded11e004c2f9a4"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Nehemiah 7",
     "url": "https://api.getbible.net/v2/kjv/16/7.json",
-    "sha": "e39c560281e59ac3bc612aac8aa3492a1ecc9e3f"
+    "sha": "a480d0959132c72e9ecb24f9c45a89bc711e757e"
   },
   "8": {
     "translation": "King James Version",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Nehemiah 8",
     "url": "https://api.getbible.net/v2/kjv/16/8.json",
-    "sha": "b1ec400435f2e75bd224f90dd83baa2b73e9a146"
+    "sha": "c22501a3c99945df923b95d921fa01cdbec23562"
   },
   "9": {
     "translation": "King James Version",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Nehemiah 9",
     "url": "https://api.getbible.net/v2/kjv/16/9.json",
-    "sha": "ba24e55ddf1512d03deec6916cb653eb75712254"
+    "sha": "6994a8786491c490ffb5f2122c9b8d9370ff0f6d"
   },
   "10": {
     "translation": "King James Version",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Nehemiah 10",
     "url": "https://api.getbible.net/v2/kjv/16/10.json",
-    "sha": "6af7e0f5d974e4ae795e579426f34b0feb3420f7"
+    "sha": "9f27dc192e321fcc405d6fadb89fe126d8a1689c"
   },
   "11": {
     "translation": "King James Version",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Nehemiah 11",
     "url": "https://api.getbible.net/v2/kjv/16/11.json",
-    "sha": "5672f01b88c3a1910398ba49abdd883c5551fe3c"
+    "sha": "cc395c15af14b108da91371b7650a9bcfa98c028"
   },
   "12": {
     "translation": "King James Version",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Nehemiah 12",
     "url": "https://api.getbible.net/v2/kjv/16/12.json",
-    "sha": "dde6d8889a544313f134c93dff4c4bde1b10ad5d"
+    "sha": "b5ceb8cb7d7c92628844c631702585db32e1f94a"
   },
   "13": {
     "translation": "King James Version",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Nehemiah 13",
     "url": "https://api.getbible.net/v2/kjv/16/13.json",
-    "sha": "1dffb85379bb4c0b1dc55ce65a3651f4ceac2831"
+    "sha": "358cbdc26bdcf5646778feb66378a45c1fc49b81"
   }
 }

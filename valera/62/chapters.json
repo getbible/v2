@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Juan",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Juan 1",
     "url": "https://api.getbible.net/v2/valera/62/1.json",
-    "sha": "a46b131ad6610a508fc42fb5c18bac7c5b8b28d3"
+    "sha": "a202dade6cb8b110d6509ae78d586e5780ea6890"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Juan",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Juan 2",
     "url": "https://api.getbible.net/v2/valera/62/2.json",
-    "sha": "8f74bb97326dbe2487e43c03bf9c63c7d389cef6"
+    "sha": "e8181f546865905995ea7433910342d0c05861c8"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Juan",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Juan 3",
     "url": "https://api.getbible.net/v2/valera/62/3.json",
-    "sha": "755f6677e6b08ead4a5d26c919a50331d11f2108"
+    "sha": "ca5c553e0fe7fbab801c72a31b033942d91b2811"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Juan",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Juan 4",
     "url": "https://api.getbible.net/v2/valera/62/4.json",
-    "sha": "de01aa810e580843f53b3658894f68da01cb3621"
+    "sha": "78d49e057177ce20b626d14c58be997feae9bb0c"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Juan",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Juan 5",
     "url": "https://api.getbible.net/v2/valera/62/5.json",
-    "sha": "980889dcb18b5196e2b2c221d62ef54f17752657"
+    "sha": "78a28abca995e7caf89c4da6e32375b27e6850f9"
   }
 }

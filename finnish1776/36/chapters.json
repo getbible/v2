@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjan kirja",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sefanjan kirja 1",
     "url": "https://api.getbible.net/v2/finnish1776/36/1.json",
-    "sha": "a0e7b98a1d69c4061d05ba8b078fa0afa564a1ae"
+    "sha": "45d87cfb7fbe8f39eaf010fd21516deef0e5b935"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjan kirja",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sefanjan kirja 2",
     "url": "https://api.getbible.net/v2/finnish1776/36/2.json",
-    "sha": "ac5e544f018e5cc362756dc50cdc62b6b585f94b"
+    "sha": "c774fbebafa22f646553a43e8ee2d9d140e6abe1"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjan kirja",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sefanjan kirja 3",
     "url": "https://api.getbible.net/v2/finnish1776/36/3.json",
-    "sha": "e27b7a65ca57f67aee582b212afbfe40eb50150d"
+    "sha": "b88bf4a70ff3f7aae322047a1069c9efa7c2d054"
   }
 }

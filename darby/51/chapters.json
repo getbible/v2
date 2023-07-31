@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Colossiens 1",
     "url": "https://api.getbible.net/v2/darby/51/1.json",
-    "sha": "1e7435271b0edfae0209b5ae83baf9175859c865"
+    "sha": "93ec66a115ac7320c410fdbd5746a5401123ec80"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Colossiens 2",
     "url": "https://api.getbible.net/v2/darby/51/2.json",
-    "sha": "6ff8246d2c89c234ae9e7486762d58e00d822054"
+    "sha": "b1689c485983fe4e9cd2d52cc690f941fd4e7f01"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Colossiens 3",
     "url": "https://api.getbible.net/v2/darby/51/3.json",
-    "sha": "e490ea0c1744e541e5d38162c703ccdcada433e8"
+    "sha": "c5738feedb5e4cde7c350a9a559b999e6294c09a"
   },
   "4": {
     "translation": "Darby",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossiens",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Colossiens 4",
     "url": "https://api.getbible.net/v2/darby/51/4.json",
-    "sha": "d60280df3372ccddc76d0c171442a4752bbaf5cc"
+    "sha": "6ac8432392198d0a2b19c50d6a79e3229c3ca84b"
   }
 }

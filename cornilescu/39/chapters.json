@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Maleahi",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Maleahi 1",
     "url": "https://api.getbible.net/v2/cornilescu/39/1.json",
-    "sha": "fc52709c4f94ee5b50a103dae862cbb2f0c4439a"
+    "sha": "95f915ce4b65e592f1c9d612b3457a0829ababbb"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Maleahi",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Maleahi 2",
     "url": "https://api.getbible.net/v2/cornilescu/39/2.json",
-    "sha": "e7eca5ffb724e76e43520814128836e8092dfe5f"
+    "sha": "e2210173ec5c1afaab69a8d58753a0745b179ab2"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Maleahi",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Maleahi 3",
     "url": "https://api.getbible.net/v2/cornilescu/39/3.json",
-    "sha": "2e7c1d63d86c1a08a5a35db3430047af09b76202"
+    "sha": "57c4a720bf727427dc0a8ee3e269207c2fa4c903"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Maleahi",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Maleahi 4",
     "url": "https://api.getbible.net/v2/cornilescu/39/4.json",
-    "sha": "b07f4b3f8c2a223ed92ed4a5b840df2d9671148b"
+    "sha": "f97de1a00eb4f04117fd06eedfa6f3f31032a39c"
   }
 }

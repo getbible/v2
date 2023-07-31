@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Merakai",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Merakai 1",
     "url": "https://api.getbible.net/v2/maori/39/1.json",
-    "sha": "9f9378d556f1f345120387422f2c11d96f2409db"
+    "sha": "0911e248cc0654590ff4d33ef6ac2ed9005641ba"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Merakai",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Merakai 2",
     "url": "https://api.getbible.net/v2/maori/39/2.json",
-    "sha": "d2d0a4d1ae8024fce42a491df3d7700897f94e75"
+    "sha": "e41de48bb90b987e4123e2fb7de1146a384d6ccc"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Merakai",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Merakai 3",
     "url": "https://api.getbible.net/v2/maori/39/3.json",
-    "sha": "157f2172eed44145aff7ea020ef5472de8a8051f"
+    "sha": "ce8e60b335428c613ff4829d62e4755248d28e8e"
   },
   "4": {
     "translation": "Maori",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Merakai",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Merakai 4",
     "url": "https://api.getbible.net/v2/maori/39/4.json",
-    "sha": "697cfc8e0954f7c2134befdd1dbe365e6e1bb978"
+    "sha": "0ad18779a7ea4af448f52a795829711e955acf3d"
   }
 }

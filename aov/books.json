@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Eksodus",
     "url": "https://api.getbible.net/v2/aov/2.json",
-    "sha": "272dbd56cc9885e3b2a566f00b2cf27db8e40dbc"
+    "sha": "b80b849938bf2b26005f4b13b5f60c614ec40393"
   },
   "3": {
     "translation": "Ou Vertaling",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Mattheüs",
+    "name": "Matteus",
     "url": "https://api.getbible.net/v2/aov/40.json",
-    "sha": "a71f9766dced2357702be82e3577b3b22cd13ab4"
+    "sha": "ddaf6b08d882c752ef36f375fdf08a177e050fae"
   },
   "41": {
     "translation": "Ou Vertaling",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Korinthiërs",
+    "name": "1 Korintiërs",
     "url": "https://api.getbible.net/v2/aov/46.json",
-    "sha": "0c8515c98ff0ae86ee02d0e92c21794fd2acc39d"
+    "sha": "2858639aee2ffd247c70869f71ba792eeedc7e1b"
   },
   "47": {
     "translation": "Ou Vertaling",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Korinthiërs",
+    "name": "2 Korintiërs",
     "url": "https://api.getbible.net/v2/aov/47.json",
-    "sha": "fc709908f813368ae4a5caac40dec4480c43c79d"
+    "sha": "15655d6a39a446c4950d7416e6644e0a33fca8c3"
   },
   "48": {
     "translation": "Ou Vertaling",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonicense",
+    "name": "1 Tessalonisense",
     "url": "https://api.getbible.net/v2/aov/52.json",
-    "sha": "838ec7d360e925b09210224551b5eee57c3d8a32"
+    "sha": "09d49d87775a07e08ae19fbdb32f39b5d48dad50"
   },
   "53": {
     "translation": "Ou Vertaling",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonicense",
+    "name": "2 Tessalonisense",
     "url": "https://api.getbible.net/v2/aov/53.json",
-    "sha": "fa42cf315d93f7c0605bc594560e58cf7936a84e"
+    "sha": "5ee5332bf4b4bc44fb93d1e756e9ea2296de06c1"
   },
   "54": {
     "translation": "Ou Vertaling",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timotheüs",
+    "name": "1 Timoteus",
     "url": "https://api.getbible.net/v2/aov/54.json",
-    "sha": "ed146f9e9e046e34a96fb9726981055073b86629"
+    "sha": "2781cae955662e7d203083ebabe7e226f1d69c2b"
   },
   "55": {
     "translation": "Ou Vertaling",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timotheüs",
+    "name": "2 Timoteus",
     "url": "https://api.getbible.net/v2/aov/55.json",
-    "sha": "c9d6cc2eddcd8a0debd8c3fd5551f3868a65e489"
+    "sha": "0d92ec19a5a4fada19367bedb308a225443a3660"
   },
   "56": {
     "translation": "Ou Vertaling",

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas bok",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jonas bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/32/1.json",
-    "sha": "48bd1d16381f61c9e1f9391780597dd5cf6b4a64"
+    "sha": "9311e7fafa2be0b8b5c88f0187cd0a4a0d18b0ec"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas bok",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jonas bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/32/2.json",
-    "sha": "6fbb356dd4415f8d88da1d766e3ab4c7c5eb693f"
+    "sha": "a3e340eeb8d2e98aab09e7d8616cd21c5b023a69"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas bok",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jonas bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/32/3.json",
-    "sha": "4d10320c24b4fd64ecd76abaa58784929c84865c"
+    "sha": "c04fe88171a0de094f45f2b3fdabc2aae15a8d6f"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas bok",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jonas bok 4",
     "url": "https://api.getbible.net/v2/bibelselskap/32/4.json",
-    "sha": "7ebdb65d63aa0d9fb3fbb4585119192402b41dd8"
+    "sha": "ae74f1ff14c30874966d909b4759b3320a52c701"
   }
 }

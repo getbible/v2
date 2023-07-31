@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Phi-rơ",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Phi-rơ 1",
     "url": "https://api.getbible.net/v2/vietnamese/60/1.json",
-    "sha": "1b5263828fcef46ddb7a6fa8b624df259473504c"
+    "sha": "a6ed659ffa8af30693d3e7df78c2ec5e24ed44db"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Phi-rơ",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Phi-rơ 2",
     "url": "https://api.getbible.net/v2/vietnamese/60/2.json",
-    "sha": "8973eb63af8945c6eb061009541958675fb82200"
+    "sha": "a57afa94df17687ffeb38bf856a6faa9e0ebcf51"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Phi-rơ",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Phi-rơ 3",
     "url": "https://api.getbible.net/v2/vietnamese/60/3.json",
-    "sha": "e59eae6ed45ec571523fe931aecf7af782410d7d"
+    "sha": "6e18da1d0dc7fa305c81a4d55b28f2309f13db8e"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Phi-rơ",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Phi-rơ 4",
     "url": "https://api.getbible.net/v2/vietnamese/60/4.json",
-    "sha": "cd9dd4fd55d5bba691e4e870720366c0dc4d63c4"
+    "sha": "cbc76fdcdfd5137bbbea29c123e4a05c12442be8"
   },
   "5": {
     "translation": "Vietnamese (1934)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Phi-rơ",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Phi-rơ 5",
     "url": "https://api.getbible.net/v2/vietnamese/60/5.json",
-    "sha": "8fb6217e7e73ee0acd692693480bdc838822f637"
+    "sha": "db1e830bdf949c40a47a946f1f62227fe696f5cb"
   }
 }

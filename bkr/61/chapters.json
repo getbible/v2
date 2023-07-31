@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petr",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Petr 1",
     "url": "https://api.getbible.net/v2/bkr/61/1.json",
-    "sha": "8228328e6b18922c3a2a8943f8c695eeb6d7f2b8"
+    "sha": "e34e8b0e75cbf7010a68c589d3d8888a6eaf6f26"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petr",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Petr 2",
     "url": "https://api.getbible.net/v2/bkr/61/2.json",
-    "sha": "2d7fc8fb888121ed99598a3d0b88a6e8add85581"
+    "sha": "5ad93a360ea2dc7c06bcaf7b1a5407c786aba16b"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petr",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Petr 3",
     "url": "https://api.getbible.net/v2/bkr/61/3.json",
-    "sha": "7004c7f43335ab7e9345a37d5b152ad6f1a3e367"
+    "sha": "e9a26c4e85e0615b18e1e42bfa934b892cba2dcd"
   }
 }

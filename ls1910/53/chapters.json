@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessaloniciens",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Thessaloniciens 1",
     "url": "https://api.getbible.net/v2/ls1910/53/1.json",
-    "sha": "fb4fe451f5f2d23fab0cb8c30c3b0910e4d3ffee"
+    "sha": "f4567a0f668d3ea97e139bc2d11abccae75e8a34"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessaloniciens",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Thessaloniciens 2",
     "url": "https://api.getbible.net/v2/ls1910/53/2.json",
-    "sha": "ecc1a0f3dbe0e2f11f4e84e2543fd9430ecdfeb6"
+    "sha": "f0e083798823f687d0a4987dfd71ad5f333fc6bb"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessaloniciens",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Thessaloniciens 3",
     "url": "https://api.getbible.net/v2/ls1910/53/3.json",
-    "sha": "0230b3580b7a1c3b1ab57b3d67723056e55fbf24"
+    "sha": "b5c996ffa6c06e683fe10f5ae66d4b11d544479a"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruutin kirja",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Ruutin kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/8/1.json",
-    "sha": "ddf5d0dc697ecf54c0f18d139af2bfebe6d5e5eb"
+    "sha": "5853cc29106dc2771e72e9af15e5feec2df2bcef"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruutin kirja",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Ruutin kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/8/2.json",
-    "sha": "7f899260c9872556c5f9140c7c293887c6782cf3"
+    "sha": "b547a23d21d33a8f14a5a038caee541e2d36ace0"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruutin kirja",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Ruutin kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/8/3.json",
-    "sha": "db2e3a9d8bb500f459416b3e8192777d1df385fa"
+    "sha": "a376ec16aa483b5444428a0002c507cc54bf855c"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruutin kirja",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Ruutin kirja 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/8/4.json",
-    "sha": "69f32dd087d89aa78d75590e251a8557e9c04edd"
+    "sha": "8cd88e029c3cf4c6c28eda2a06f213865e2b87c2"
   }
 }

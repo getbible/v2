@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Éphésiens 1",
     "url": "https://api.getbible.net/v2/ls1910/49/1.json",
-    "sha": "55c91cc3759e27d51c4c3a47ff9e8022bf2ab7cd"
+    "sha": "870cc8b1672db9744ce6d92957f4c5bb741344bc"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Éphésiens 2",
     "url": "https://api.getbible.net/v2/ls1910/49/2.json",
-    "sha": "7be2201471cdacc693a30c91c8d708bdfebe38e5"
+    "sha": "8648685b96560fc7fb27b018ddc5e4c4a9cce68d"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Éphésiens 3",
     "url": "https://api.getbible.net/v2/ls1910/49/3.json",
-    "sha": "0c98054a5d1a15788f8af448572c79970531e898"
+    "sha": "d681fc93619baa2eb81c864268dcc5b02961b8e6"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Éphésiens 4",
     "url": "https://api.getbible.net/v2/ls1910/49/4.json",
-    "sha": "ae6cdc50bb11856705b79dda7666013448d84200"
+    "sha": "619443ae4f51d386e43dbb2625f3e629b1480555"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Éphésiens 5",
     "url": "https://api.getbible.net/v2/ls1910/49/5.json",
-    "sha": "e01275aeeee40c596d274ae7f4986c79e6a896b8"
+    "sha": "5686cd7db42bbc241ca133c7e0516d3603d0e8a3"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Éphésiens 6",
     "url": "https://api.getbible.net/v2/ls1910/49/6.json",
-    "sha": "e2628160ec0fba4fb94d935ffaff255d70347c2f"
+    "sha": "8cf4c516824d196d0c6cc65b4d8eb6a9d01ceca2"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hageo",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Hageo 1",
     "url": "https://api.getbible.net/v2/valera/37/1.json",
-    "sha": "2bfcd2e699da013d0f6365525fbe760972372cfc"
+    "sha": "078bb60ece50ccd06086346c2df7049f1bc15beb"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hageo",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Hageo 2",
     "url": "https://api.getbible.net/v2/valera/37/2.json",
-    "sha": "71f008e9d3a88c493ee0c4359f30f7b39f93235c"
+    "sha": "ad81f4a7b41e65d3bded1a3a0f08a6baacb87c3a"
   }
 }

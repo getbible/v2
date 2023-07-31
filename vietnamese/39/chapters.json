@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Ma-la-chi",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Ma-la-chi 1",
     "url": "https://api.getbible.net/v2/vietnamese/39/1.json",
-    "sha": "ef219fd3c4bdf4d0cbcb1c406c352b9fadddd28f"
+    "sha": "ef7e4b3ee664ccf3273be42e67bd9280d6471891"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Ma-la-chi",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Ma-la-chi 2",
     "url": "https://api.getbible.net/v2/vietnamese/39/2.json",
-    "sha": "27b5201c66aefe099120dfa4bfbb389f11fe802c"
+    "sha": "8cdd8558cca4f46f6610d243144a936ec4ed9641"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Ma-la-chi",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Ma-la-chi 3",
     "url": "https://api.getbible.net/v2/vietnamese/39/3.json",
-    "sha": "e01dd5130c1123b3d7e522e82cae0d24287a8fd8"
+    "sha": "fc63af684e82bfaeff8c81db5045be6f61dc2fd7"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Ma-la-chi",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Ma-la-chi 4",
     "url": "https://api.getbible.net/v2/vietnamese/39/4.json",
-    "sha": "3efee8d64e6a02f0083b14f1d59ff2a50199c23e"
+    "sha": "c777c527d719c34d498b984bf2385a9aa93b62df"
   }
 }

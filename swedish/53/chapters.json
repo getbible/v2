@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Andra Thessalonikerbrevet",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "Andra Thessalonikerbrevet 1",
     "url": "https://api.getbible.net/v2/swedish/53/1.json",
-    "sha": "6577b5cc8041864a92ceb0c3c3f0cccc8b6b6741"
+    "sha": "9961ab0ca52f2e7bd8a99fa004a1214c3a9a3876"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Andra Thessalonikerbrevet",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "Andra Thessalonikerbrevet 2",
     "url": "https://api.getbible.net/v2/swedish/53/2.json",
-    "sha": "5062a2347f277d39a46c79cdf616ffc5131c2b67"
+    "sha": "008856451c0f9bf7af9b781a4038c0639427e7e4"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Andra Thessalonikerbrevet",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "Andra Thessalonikerbrevet 3",
     "url": "https://api.getbible.net/v2/swedish/53/3.json",
-    "sha": "8df6522a927562265079f7d47334eb35df794a50"
+    "sha": "17d0b1da522931fa081a83b3a8a322aaa3472903"
   }
 }

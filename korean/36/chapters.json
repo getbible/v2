@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "스바냐",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "스바냐 1",
     "url": "https://api.getbible.net/v2/korean/36/1.json",
-    "sha": "bd74d8b90781dfbe137482ed01d0fb79c4c19a0d"
+    "sha": "36c3c3c3624961a0e62835886d72e282aaf53dc1"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "스바냐",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "스바냐 2",
     "url": "https://api.getbible.net/v2/korean/36/2.json",
-    "sha": "0a4e2e3cec0aa4b81ab2b4bf57ec391cd4d544dc"
+    "sha": "117d230c1066a6265a10e0a5f525aa1c0001e2d8"
   },
   "3": {
     "translation": "Korean",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "스바냐",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "스바냐 3",
     "url": "https://api.getbible.net/v2/korean/36/3.json",
-    "sha": "d305562f49670e9d4aa7a98b63a53593f5fd3a9b"
+    "sha": "45517a9f20cf4ef6112fcef65eeab42b30926dd3"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timothée 1",
     "url": "https://api.getbible.net/v2/martin/54/1.json",
-    "sha": "3963470035799e774f10b23691ce95b3236c17e3"
+    "sha": "478d57beae3af0d1b0509c6f7c6dbd69687e47c0"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timothée 2",
     "url": "https://api.getbible.net/v2/martin/54/2.json",
-    "sha": "056380fda9fc4c6e75a735b63bea63486255bf1f"
+    "sha": "6c831b6ed3f8a371cce4053bb0c81344e67de7b8"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timothée 3",
     "url": "https://api.getbible.net/v2/martin/54/3.json",
-    "sha": "8e21990cd5dee01c9048607f476d19b37a909e2e"
+    "sha": "b248caab44dafb3b72e0fdd3f148f00c95be6587"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timothée 4",
     "url": "https://api.getbible.net/v2/martin/54/4.json",
-    "sha": "8c54967ebb693119d796527412a1ce1f529cfc6a"
+    "sha": "02b2f7c5e578b829ef177fbc8abfcc4329c0cef9"
   },
   "5": {
     "translation": "Martin (1744)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timothée 5",
     "url": "https://api.getbible.net/v2/martin/54/5.json",
-    "sha": "be6f71bcdefc28ffd1c54917ad90176521dcd6e1"
+    "sha": "a6a9f881fbb0220c8ea1bfe1ef924756bc0bf6b6"
   },
   "6": {
     "translation": "Martin (1744)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timothée",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timothée 6",
     "url": "https://api.getbible.net/v2/martin/54/6.json",
-    "sha": "33a570a581ef5c211243d374d8f38c3f707e9441"
+    "sha": "25f070919c2acc64f129a6621bcc96381ee33af0"
   }
 }

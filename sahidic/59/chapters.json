@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 1",
     "url": "https://api.getbible.net/v2/sahidic/59/1.json",
-    "sha": "c94fc598f5ee088b0426a4633249dddda8d9d6bc"
+    "sha": "13a941aa0fbb038b5d4df93521caed5a59f9c6de"
   },
   "2": {
     "translation": "Sahidic NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 2",
     "url": "https://api.getbible.net/v2/sahidic/59/2.json",
-    "sha": "3f84dd9a9a14f197cebd705a9ee8fe1d0007f78a"
+    "sha": "bb0a07134bf84f3d1b3dddfd1809863e1b4e49e4"
   },
   "3": {
     "translation": "Sahidic NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 3",
     "url": "https://api.getbible.net/v2/sahidic/59/3.json",
-    "sha": "e907db3cd3b3031aa3215d25f5e03ae1e72fd2ca"
+    "sha": "ca0bbe1d54d63320b8df31b2efc3c993c4445e9e"
   },
   "4": {
     "translation": "Sahidic NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 4",
     "url": "https://api.getbible.net/v2/sahidic/59/4.json",
-    "sha": "a16129b90a02c8e22a0411c71ef02fecc84cb36c"
+    "sha": "c5039d486ad3d1508046b7b3bedca20af15d9184"
   },
   "5": {
     "translation": "Sahidic NT",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 5",
     "url": "https://api.getbible.net/v2/sahidic/59/5.json",
-    "sha": "da43548de11d952d10cf972ac098d86aac3ea201"
+    "sha": "77d98a3f35aa0f253e14395a951f7268b785eee3"
   }
 }

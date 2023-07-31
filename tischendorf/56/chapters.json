@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Προς Τίτον",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Προς Τίτον 1",
     "url": "https://api.getbible.net/v2/tischendorf/56/1.json",
-    "sha": "a4ec2945f78c5368b285ebaffe984f6495bdffbe"
+    "sha": "84669d3ebf5929d8720bf18b8411a8beab28db1f"
   },
   "2": {
     "translation": "NT Tischendorf 8th Ed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Προς Τίτον",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Προς Τίτον 2",
     "url": "https://api.getbible.net/v2/tischendorf/56/2.json",
-    "sha": "0c509b18d0b08d406c7822fba5bdacfd6ce65128"
+    "sha": "d26910ba6b2dba158cca64bd3cee490701a6ce12"
   },
   "3": {
     "translation": "NT Tischendorf 8th Ed",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Προς Τίτον",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Προς Τίτον 3",
     "url": "https://api.getbible.net/v2/tischendorf/56/3.json",
-    "sha": "f50c03b9b82de79b30e6b46d9a8ea5264142084a"
+    "sha": "b5ce73e2f5cafd300c16fc546fdce10237e4e796"
   }
 }

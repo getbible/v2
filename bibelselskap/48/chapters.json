@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Paulus' brev til galaterne",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Paulus' brev til galaterne 1",
     "url": "https://api.getbible.net/v2/bibelselskap/48/1.json",
-    "sha": "579354d5e20173313ac68b3a6ddbdf4259f2f8d8"
+    "sha": "d455d85532341b5194d4368ec06fe2d13f8691f2"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Paulus' brev til galaterne",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Paulus' brev til galaterne 2",
     "url": "https://api.getbible.net/v2/bibelselskap/48/2.json",
-    "sha": "549355e97bf97ff3c6a50773bf3f7634f80d6475"
+    "sha": "ed8dd041e4018c9d8c9cfe5bf52226f3606221dd"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Paulus' brev til galaterne",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Paulus' brev til galaterne 3",
     "url": "https://api.getbible.net/v2/bibelselskap/48/3.json",
-    "sha": "b85a2c5043925876d96dae691005167bdd13c5d0"
+    "sha": "4f0efefe317ac83c04f59402ce2319ce97eacda4"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Paulus' brev til galaterne",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Paulus' brev til galaterne 4",
     "url": "https://api.getbible.net/v2/bibelselskap/48/4.json",
-    "sha": "afa7effd8c3fbe771806e3312776b7889c8cbe06"
+    "sha": "fb11b3d2a26b61d4737d38c4fb276c84afdaa11a"
   },
   "5": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Paulus' brev til galaterne",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Paulus' brev til galaterne 5",
     "url": "https://api.getbible.net/v2/bibelselskap/48/5.json",
-    "sha": "635611518462443c61ecabe1410593911e119f19"
+    "sha": "7c1dd729eb59e2aad72616a0777d8d47af439143"
   },
   "6": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Paulus' brev til galaterne",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Paulus' brev til galaterne 6",
     "url": "https://api.getbible.net/v2/bibelselskap/48/6.json",
-    "sha": "e9749f272087d0b6c1b48cedbcc60f4d1460583e"
+    "sha": "ce86b39628c9c1c758ea832284c68023d3289ac7"
   }
 }

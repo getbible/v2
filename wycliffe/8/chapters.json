@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Ruth 1",
     "url": "https://api.getbible.net/v2/wycliffe/8/1.json",
-    "sha": "2a44168b68fe910b71a70ea95bc2dafcf79351b4"
+    "sha": "4f7264ee96b44ea0aeff0f1657695b2791553b5f"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Ruth 2",
     "url": "https://api.getbible.net/v2/wycliffe/8/2.json",
-    "sha": "10e56eac32c368509722fa44bde63a6bd3cde12f"
+    "sha": "8988c8582d08ca2d1d8c890a47c852d60e14a863"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "Ruth 3",
     "url": "https://api.getbible.net/v2/wycliffe/8/3.json",
-    "sha": "9d68feec4f0b6ec762cb02e2deca9c865b32a271"
+    "sha": "5aecd91df247dc3d4534f0ea8ea940b5f9bf4949"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Ruth 4",
     "url": "https://api.getbible.net/v2/wycliffe/8/4.json",
-    "sha": "d53d2d6a0f1ccb5f70828ddc4dcfcc5ced5199cc"
+    "sha": "9d72ddd6ea3775ec48201162d72e518ecbb35486"
   }
 }

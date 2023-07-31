@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Klagesangene 1",
     "url": "https://api.getbible.net/v2/bibelselskap/25/1.json",
-    "sha": "8fdb67303d8a9e46de7c9c2d4579c29400c24e68"
+    "sha": "e18f8ac01fbe6f92046bd405f1d40c9b9b7d84be"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Klagesangene 2",
     "url": "https://api.getbible.net/v2/bibelselskap/25/2.json",
-    "sha": "7cadf554e1eaafecbe69a791ce0a2eb501ff44dc"
+    "sha": "94b5eb849a5c55aab9f30943340ddb61973d52f5"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Klagesangene 3",
     "url": "https://api.getbible.net/v2/bibelselskap/25/3.json",
-    "sha": "19745d018247ec8152d93a549362070326413be7"
+    "sha": "cbcf548df7aeaa197d17df8ea6944cf60c6df968"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Klagesangene 4",
     "url": "https://api.getbible.net/v2/bibelselskap/25/4.json",
-    "sha": "b09346dcefe9570d0a5ddb5d2c5669761a716be2"
+    "sha": "8295376a32455c3f3fb6bebd7d52f3ffdc2505a2"
   },
   "5": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Klagesangene 5",
     "url": "https://api.getbible.net/v2/bibelselskap/25/5.json",
-    "sha": "0a17de1750982c52b5a660ee47034fbb79fe4332"
+    "sha": "8d6acc7b6b88087b453d6ee6cd49ddc2ae96aa71"
   }
 }

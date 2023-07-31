@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 1,
-    "name": "John 1",
+    "name": "Jan 1",
     "url": "https://api.getbible.net/v2/cep/43/1.json",
-    "sha": "06349f6c4777823d33131fb5a4565c0c418840ed"
+    "sha": "fa32c142d8d224ab4b057944ace779236d81c6d3"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 2,
-    "name": "John 2",
+    "name": "Jan 2",
     "url": "https://api.getbible.net/v2/cep/43/2.json",
-    "sha": "408f02e970dc8ed223baca459d2673e29349929c"
+    "sha": "dcaa1ed618df3b597e080b3ea24058393e697b75"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 3,
-    "name": "John 3",
+    "name": "Jan 3",
     "url": "https://api.getbible.net/v2/cep/43/3.json",
-    "sha": "8a30b7cbe028f94d54f21984a9e0d2d022829fe5"
+    "sha": "424433f8fa4df6293e74337efbb7cfd50d702b06"
   },
   "4": {
     "translation": "Czech CEP",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 4,
-    "name": "John 4",
+    "name": "Jan 4",
     "url": "https://api.getbible.net/v2/cep/43/4.json",
-    "sha": "7fda46add45ec65abccf6889b2283d1c33eaeb0b"
+    "sha": "908dbd09aa78f70dce7e99894397b182b29807c1"
   },
   "5": {
     "translation": "Czech CEP",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 5,
-    "name": "John 5",
+    "name": "Jan 5",
     "url": "https://api.getbible.net/v2/cep/43/5.json",
-    "sha": "4fbd9f0685ebb3ca02988010ce08e5634b611b75"
+    "sha": "04cd448dd45baf02ca7a0b5e645397818e0abe01"
   },
   "6": {
     "translation": "Czech CEP",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 6,
-    "name": "John 6",
+    "name": "Jan 6",
     "url": "https://api.getbible.net/v2/cep/43/6.json",
-    "sha": "5a01687979d700d3dc83851daeec4ea7c062c0fa"
+    "sha": "8518e663d84f5caaeee12240bc54277526dfeb71"
   },
   "7": {
     "translation": "Czech CEP",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 7,
-    "name": "John 7",
+    "name": "Jan 7",
     "url": "https://api.getbible.net/v2/cep/43/7.json",
-    "sha": "d041ec3b83368732d176eb12402282b7ef96a4b8"
+    "sha": "8c3aa71b95de26087930eb54c345ac4abc7840a4"
   },
   "8": {
     "translation": "Czech CEP",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 8,
-    "name": "John 8",
+    "name": "Jan 8",
     "url": "https://api.getbible.net/v2/cep/43/8.json",
-    "sha": "ebbe3ccf767b1341ee3adea6ff0633c00f65cef5"
+    "sha": "08f3905825f90c221cf3aee2751a554522c5f092"
   },
   "9": {
     "translation": "Czech CEP",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 9,
-    "name": "John 9",
+    "name": "Jan 9",
     "url": "https://api.getbible.net/v2/cep/43/9.json",
-    "sha": "1ae0d1cc1434ab75a75ba83b2e24158244b9e740"
+    "sha": "99f83b6550e8b4a19fb48449ec656f0481f681a8"
   },
   "10": {
     "translation": "Czech CEP",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 10,
-    "name": "John 10",
+    "name": "Jan 10",
     "url": "https://api.getbible.net/v2/cep/43/10.json",
-    "sha": "c0731f79d813576324faffdbdb1e25e0053dc17e"
+    "sha": "5e88c7959f66e73cf03650107023249b8d3de6bb"
   },
   "11": {
     "translation": "Czech CEP",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 11,
-    "name": "John 11",
+    "name": "Jan 11",
     "url": "https://api.getbible.net/v2/cep/43/11.json",
-    "sha": "bcdb7d0687e0f2d289317a6cf6ae5f92597fac6e"
+    "sha": "a3092fd01e382ad03ed7474036bd3b9c80e046b9"
   },
   "12": {
     "translation": "Czech CEP",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 12,
-    "name": "John 12",
+    "name": "Jan 12",
     "url": "https://api.getbible.net/v2/cep/43/12.json",
-    "sha": "525616e7f760235a98a1175a9d2c2de25af3d9e8"
+    "sha": "d2bac1e47c9618699345461cb4979571cb185e47"
   },
   "13": {
     "translation": "Czech CEP",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 13,
-    "name": "John 13",
+    "name": "Jan 13",
     "url": "https://api.getbible.net/v2/cep/43/13.json",
-    "sha": "5c236a02eb9d86751c80e5dc92f15a19de3232a0"
+    "sha": "88646f204558f3acbc296f0d0d20af78b1e7fe4e"
   },
   "14": {
     "translation": "Czech CEP",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 14,
-    "name": "John 14",
+    "name": "Jan 14",
     "url": "https://api.getbible.net/v2/cep/43/14.json",
-    "sha": "a9e0a80ebfea6eff11619b19dbc387ab57d82f6a"
+    "sha": "259f3c14ad39707aae21bcbf911ea23322f8199c"
   },
   "15": {
     "translation": "Czech CEP",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 15,
-    "name": "John 15",
+    "name": "Jan 15",
     "url": "https://api.getbible.net/v2/cep/43/15.json",
-    "sha": "ca3eb8e776b95a0974fc05a713342413e28b7ada"
+    "sha": "0878b3132ff279950dc86b05b2c24dd9b2440e22"
   },
   "16": {
     "translation": "Czech CEP",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 16,
-    "name": "John 16",
+    "name": "Jan 16",
     "url": "https://api.getbible.net/v2/cep/43/16.json",
-    "sha": "de0fb9a800617ecbd0ab80c28ff5a2099f3fc657"
+    "sha": "bec1863ad0b25c7939268337e061167050e2087c"
   },
   "17": {
     "translation": "Czech CEP",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 17,
-    "name": "John 17",
+    "name": "Jan 17",
     "url": "https://api.getbible.net/v2/cep/43/17.json",
-    "sha": "65715d8fa7cb932f8237d1d742071700edbaf387"
+    "sha": "6953ba2fd9b86f65eade5d8534afaec04c6c86d8"
   },
   "18": {
     "translation": "Czech CEP",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 18,
-    "name": "John 18",
+    "name": "Jan 18",
     "url": "https://api.getbible.net/v2/cep/43/18.json",
-    "sha": "bdf9eda3ea334a09005cf8bcb0dbd15de70acd07"
+    "sha": "c5117e9858f0a18dc40e75cb245e580a83f59cea"
   },
   "19": {
     "translation": "Czech CEP",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 19,
-    "name": "John 19",
+    "name": "Jan 19",
     "url": "https://api.getbible.net/v2/cep/43/19.json",
-    "sha": "1c5b1840d0c80520c0bdd1104e25cd7083f27a66"
+    "sha": "bc06981c739be505c0b1fa41a3b1ce87da0fca02"
   },
   "20": {
     "translation": "Czech CEP",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 20,
-    "name": "John 20",
+    "name": "Jan 20",
     "url": "https://api.getbible.net/v2/cep/43/20.json",
-    "sha": "03e5198ad4e9a40eeda173bbbc3e37d30f035dd8"
+    "sha": "29f0664145a8c42e604e3c65a57b022c9e765684"
   },
   "21": {
     "translation": "Czech CEP",
@@ -287,10 +287,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jan",
     "chapter": 21,
-    "name": "John 21",
+    "name": "Jan 21",
     "url": "https://api.getbible.net/v2/cep/43/21.json",
-    "sha": "5775330c9a82b99f69ec9cc9d6f82e1230f68f8c"
+    "sha": "ed3da0392b877203560ede89e6f2ada33a1e1bce"
   }
 }

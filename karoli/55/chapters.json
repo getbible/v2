@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteushoz írt levél",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timóteushoz írt levél 1",
     "url": "https://api.getbible.net/v2/karoli/55/1.json",
-    "sha": "eb239ea9e060cc28b27f17ad6fd573d99d06cfad"
+    "sha": "49828ee90772360f4565bd2d85ee2d0324d5d0ec"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteushoz írt levél",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timóteushoz írt levél 2",
     "url": "https://api.getbible.net/v2/karoli/55/2.json",
-    "sha": "4f563aadf8922cbd59ad620c376d968542fc04a4"
+    "sha": "8feb65fb9c440e582fb3e6b4cabec8b69f77ab54"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteushoz írt levél",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timóteushoz írt levél 3",
     "url": "https://api.getbible.net/v2/karoli/55/3.json",
-    "sha": "027e9eeea671919c26833f52f6cd6f6c2430a75d"
+    "sha": "b2a1c676a09ac5b823c5ad3839cfd5b27c7ea029"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteushoz írt levél",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timóteushoz írt levél 4",
     "url": "https://api.getbible.net/v2/karoli/55/4.json",
-    "sha": "3c6795024967f8f63c9b44c3ba420451743547e3"
+    "sha": "2fe66caf6854d3f66009172a722623367a0476ed"
   }
 }

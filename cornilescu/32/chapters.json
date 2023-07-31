@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iona",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Iona 1",
     "url": "https://api.getbible.net/v2/cornilescu/32/1.json",
-    "sha": "e555b3969a5488366f5f389dd95350dedd11665f"
+    "sha": "7af2678767abfa907df7043e5b97195e663e4c8a"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iona",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Iona 2",
     "url": "https://api.getbible.net/v2/cornilescu/32/2.json",
-    "sha": "01f57c6147605e531d14ddea8b826fd00a735c6f"
+    "sha": "883f8b114e3be15a7d4bbe071a2e7f789cf1ee35"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iona",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Iona 3",
     "url": "https://api.getbible.net/v2/cornilescu/32/3.json",
-    "sha": "7bdcd20f1e7e39afa25453c19718a34cebd688b1"
+    "sha": "dae6f1de80e69f6759571172b04f0594ab88a405"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iona",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Iona 4",
     "url": "https://api.getbible.net/v2/cornilescu/32/4.json",
-    "sha": "2fb60c696c48280376b1a89bd3b59326098c7c1f"
+    "sha": "a8a86c80a054198515eba8494602a83ad2e0273c"
   }
 }

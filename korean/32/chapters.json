@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "요나",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "요나 1",
     "url": "https://api.getbible.net/v2/korean/32/1.json",
-    "sha": "5e4fc72bc1782f1d86d5b29d1acdf279f329f12a"
+    "sha": "f820e8cbb67f40e3a3084ebf9bebb6af25639a00"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "요나",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "요나 2",
     "url": "https://api.getbible.net/v2/korean/32/2.json",
-    "sha": "e05aef1b48944bf1b6dbb85f66701846e191c2f8"
+    "sha": "21cf016a6d206280c2aae25f7072a75dc716bdbd"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "요나",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "요나 3",
     "url": "https://api.getbible.net/v2/korean/32/3.json",
-    "sha": "e481a421d6317b770f6c06daeb3e0e42da9cf344"
+    "sha": "ca33e5f3433e2ba650d86644573f9c241fb51459"
   },
   "4": {
     "translation": "Korean",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "요나",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "요나 4",
     "url": "https://api.getbible.net/v2/korean/32/4.json",
-    "sha": "514aa20c95170fedceb0fa26a91c1e74739be63a"
+    "sha": "3313f845a37ae699914bd873f739aa374d0c18e2"
   }
 }

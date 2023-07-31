@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jona 1",
     "url": "https://api.getbible.net/v2/swedish/32/1.json",
-    "sha": "38741911a102a88ba0d842c57fd1160b575616ea"
+    "sha": "c4483d4f2663454686edfa7ad5c194c4a250abea"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jona 2",
     "url": "https://api.getbible.net/v2/swedish/32/2.json",
-    "sha": "f9310ecd98709a2f1da02a79516f0cf59aaaf609"
+    "sha": "cb2775230b1bea694a116a3e2be171c80210c448"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jona 3",
     "url": "https://api.getbible.net/v2/swedish/32/3.json",
-    "sha": "006b47c975aabe562b3333e083aadea5dbc02503"
+    "sha": "24f8e9db62496f01db96cc03a1c799caf6fb2efe"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jona",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jona 4",
     "url": "https://api.getbible.net/v2/swedish/32/4.json",
-    "sha": "29a75f76f8bc7be28367339d0bf103dc2ff49e00"
+    "sha": "48698dfd3cd0fd29c305e4d5080726aa8b6c7f0d"
   }
 }

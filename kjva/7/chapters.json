@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Judges 1",
     "url": "https://api.getbible.net/v2/kjva/7/1.json",
-    "sha": "b0d711bf4ab3c84341a26d235c5e3253f29f8804"
+    "sha": "a9a1240e182025664036e401d9da2d4f0f057edc"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Judges 2",
     "url": "https://api.getbible.net/v2/kjva/7/2.json",
-    "sha": "3871a21aeb4285dc5512bfa6c36f34b941316888"
+    "sha": "5b60398414067c196deca1ff71655c00e416f713"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Judges 3",
     "url": "https://api.getbible.net/v2/kjva/7/3.json",
-    "sha": "113bbee19e2412f9b1cf21efaffd058baf34d6b4"
+    "sha": "1ffe32ad683860b747a933a0199a60e5f70f402b"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "Judges 4",
     "url": "https://api.getbible.net/v2/kjva/7/4.json",
-    "sha": "9b686c026bc3a64e3cf17b38d8523c432ca107bd"
+    "sha": "3a1eb46a05bc24ab76f26d8b516213aa97bb2638"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "Judges 5",
     "url": "https://api.getbible.net/v2/kjva/7/5.json",
-    "sha": "ad09179a26170d0eb3ef66a06a694fd015696560"
+    "sha": "4e87c9e2c05ad4d465f9fc5d799c4239eb112fa2"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,10 +81,10 @@
     "chapter": 6,
     "name": "Judges 6",
     "url": "https://api.getbible.net/v2/kjva/7/6.json",
-    "sha": "3024c240b481c0fe5a86cd2426f5903949292d70"
+    "sha": "d1beb0efa91e4c64c453e24f86cb9022fad557e3"
   },
   "7": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -95,10 +95,10 @@
     "chapter": 7,
     "name": "Judges 7",
     "url": "https://api.getbible.net/v2/kjva/7/7.json",
-    "sha": "c32efebb1da2d39567ec8d1a15e2b9e78b82bdca"
+    "sha": "005f72f85f7a1e27a6701323b4a72ab11911e471"
   },
   "8": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -109,10 +109,10 @@
     "chapter": 8,
     "name": "Judges 8",
     "url": "https://api.getbible.net/v2/kjva/7/8.json",
-    "sha": "a889949e1df637481d2c4be46720da48819055d4"
+    "sha": "8229a0000e992c1a0ddb061dd22a44792470b770"
   },
   "9": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -123,10 +123,10 @@
     "chapter": 9,
     "name": "Judges 9",
     "url": "https://api.getbible.net/v2/kjva/7/9.json",
-    "sha": "bb751cc73a96b82df28fa268db6bc872b959789f"
+    "sha": "80d34f783984de84dc4bdda0e4e6303e0148f448"
   },
   "10": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -137,10 +137,10 @@
     "chapter": 10,
     "name": "Judges 10",
     "url": "https://api.getbible.net/v2/kjva/7/10.json",
-    "sha": "9d37ba286dc953f86fe322308b0e52619cc1d12c"
+    "sha": "5310f9923cc52b0ca3ff8fd3ec166d18774cb353"
   },
   "11": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -151,10 +151,10 @@
     "chapter": 11,
     "name": "Judges 11",
     "url": "https://api.getbible.net/v2/kjva/7/11.json",
-    "sha": "bb059809575f11977d1cb023489202e090f1ed72"
+    "sha": "aa1d718383ebfade7a4161e76dd5840330326a3d"
   },
   "12": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -165,10 +165,10 @@
     "chapter": 12,
     "name": "Judges 12",
     "url": "https://api.getbible.net/v2/kjva/7/12.json",
-    "sha": "77dbde46a6323c1529dc9553dba41abda191f200"
+    "sha": "13edb207eec7cd8714395577c11de447baf13a23"
   },
   "13": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -179,10 +179,10 @@
     "chapter": 13,
     "name": "Judges 13",
     "url": "https://api.getbible.net/v2/kjva/7/13.json",
-    "sha": "c5140ea755ee1023bb2f083add6a36373f69d42c"
+    "sha": "08fd8de8223e3bcb248b4e309044cbb1a54245bc"
   },
   "14": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -193,10 +193,10 @@
     "chapter": 14,
     "name": "Judges 14",
     "url": "https://api.getbible.net/v2/kjva/7/14.json",
-    "sha": "37f3635c477eab8bf81d07170b49c4f201c8ad88"
+    "sha": "3b0b2d9f30962a2ee2f87e42d737001825cbbc25"
   },
   "15": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -207,10 +207,10 @@
     "chapter": 15,
     "name": "Judges 15",
     "url": "https://api.getbible.net/v2/kjva/7/15.json",
-    "sha": "011b3a455e68b99deb5093d655ba587452b226d3"
+    "sha": "47e85c621b0f58f23f25ad27aedb8c6a73aaf592"
   },
   "16": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -221,10 +221,10 @@
     "chapter": 16,
     "name": "Judges 16",
     "url": "https://api.getbible.net/v2/kjva/7/16.json",
-    "sha": "90c73806a871e4b334cdf5830edfd79b2c6d6405"
+    "sha": "5f18c577b0b9684dae7ecf4ada61888cc4aa7895"
   },
   "17": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -235,10 +235,10 @@
     "chapter": 17,
     "name": "Judges 17",
     "url": "https://api.getbible.net/v2/kjva/7/17.json",
-    "sha": "f2da28c8d0ba8a3dc1ee373c3e63d65d3505aa80"
+    "sha": "03e42bb636a782594b7314456a70e6ada8774a5f"
   },
   "18": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -249,10 +249,10 @@
     "chapter": 18,
     "name": "Judges 18",
     "url": "https://api.getbible.net/v2/kjva/7/18.json",
-    "sha": "d578071643aff47992dd2f26254b4382b0d1f4c7"
+    "sha": "ae068ae4907984508794cc8b15c4b6fedafcd198"
   },
   "19": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -263,10 +263,10 @@
     "chapter": 19,
     "name": "Judges 19",
     "url": "https://api.getbible.net/v2/kjva/7/19.json",
-    "sha": "6bf220ca27133bcc20be3c959e6e16e9f208527b"
+    "sha": "95d388b919e598fb24712124bd1aa90b6e63983b"
   },
   "20": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -277,10 +277,10 @@
     "chapter": 20,
     "name": "Judges 20",
     "url": "https://api.getbible.net/v2/kjva/7/20.json",
-    "sha": "43457c6d28ae84a367878a3c2d1ed63996e030bf"
+    "sha": "4607a6126218c7568d08854a7c744f59e3d9406b"
   },
   "21": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -291,6 +291,6 @@
     "chapter": 21,
     "name": "Judges 21",
     "url": "https://api.getbible.net/v2/kjva/7/21.json",
-    "sha": "5e57b2e82b4d49d29a6fde15a62933c734396e7b"
+    "sha": "43c6ed686865a5f0c6b9d22b131a10311d272c82"
   }
 }

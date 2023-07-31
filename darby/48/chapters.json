@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galates",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galates 1",
     "url": "https://api.getbible.net/v2/darby/48/1.json",
-    "sha": "cd80118fe44495aa32b969e64215855e664d07c3"
+    "sha": "aa607804a5bfb61601288851ab0dcdf608e60ba8"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galates",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galates 2",
     "url": "https://api.getbible.net/v2/darby/48/2.json",
-    "sha": "871ff792f4d33bb111ffe8d9fab920caab8046dc"
+    "sha": "d80d9cdd156f884aa1a5d5efaa9e12c49dd4c778"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galates",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galates 3",
     "url": "https://api.getbible.net/v2/darby/48/3.json",
-    "sha": "f8fb1c438b9dc58fff805195f1b3570ba1604f67"
+    "sha": "ee70f1a3533482dade209942e67e6ca9db9f89e7"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galates",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galates 4",
     "url": "https://api.getbible.net/v2/darby/48/4.json",
-    "sha": "54b9fd034a452a3b30a185be0473f20de9345a1e"
+    "sha": "7e078b150e8ad1de554693416133fa73fc9cef5a"
   },
   "5": {
     "translation": "Darby",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galates",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galates 5",
     "url": "https://api.getbible.net/v2/darby/48/5.json",
-    "sha": "67bd8bf5f17562b5b440cb03c185d9d6a546add5"
+    "sha": "cd03f84e980c1538f4a37ebfe341313ee5faadff"
   },
   "6": {
     "translation": "Darby",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galates",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galates 6",
     "url": "https://api.getbible.net/v2/darby/48/6.json",
-    "sha": "de1f01154e07c03f85b250d28219d567beb6b332"
+    "sha": "1f3ced9d699cdb12aa7898c6304d73a64c3544a4"
   }
 }

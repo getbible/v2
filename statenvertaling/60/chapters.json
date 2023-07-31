@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrus",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Petrus 1",
     "url": "https://api.getbible.net/v2/statenvertaling/60/1.json",
-    "sha": "826bc0c60cee4360823c7fb4386e522e6c49ea3b"
+    "sha": "1d2d86d240631f36c8d0976a9f9b8804fc7904ce"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrus",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Petrus 2",
     "url": "https://api.getbible.net/v2/statenvertaling/60/2.json",
-    "sha": "9795ff6fc4b08c0c8628fc84017286613e769b35"
+    "sha": "bf0ab4034aceae4b8d5df7848a6747bf5eda74eb"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrus",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Petrus 3",
     "url": "https://api.getbible.net/v2/statenvertaling/60/3.json",
-    "sha": "b19ab5e3c8dbda05b63e69350bd5343fce5b477d"
+    "sha": "2b80a64b80161a4ef86143fd802fa5f1982b8873"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrus",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Petrus 4",
     "url": "https://api.getbible.net/v2/statenvertaling/60/4.json",
-    "sha": "c358880da6d38e7f22d32766f2d91a9a1056db36"
+    "sha": "571c393a352fc70ade56dc328f1a15ba860f063e"
   },
   "5": {
     "translation": "Dutch Staten Vertaling",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petrus",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Petrus 5",
     "url": "https://api.getbible.net/v2/statenvertaling/60/5.json",
-    "sha": "13eb95b425b268552c05667786ae69da40eec6d7"
+    "sha": "f7844a6552c35425ec3803e16c69ab7ad9ece2ea"
   }
 }

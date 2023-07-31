@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Philippiens 1",
     "url": "https://api.getbible.net/v2/martin/50/1.json",
-    "sha": "77021c07bda728a9f893ec99383bb451e6e3e338"
+    "sha": "4e0fe5f4c06fb47ec2a5fa7fa0ba42d6ac280ec0"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Philippiens 2",
     "url": "https://api.getbible.net/v2/martin/50/2.json",
-    "sha": "d9fa68add0817d24385832eeb7cf6f61d832c194"
+    "sha": "438195cd07fd0272138a892746aaf63efafcf0eb"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Philippiens 3",
     "url": "https://api.getbible.net/v2/martin/50/3.json",
-    "sha": "8fb00bf67bf728cf731b6f2fb00022b2abc498ac"
+    "sha": "1dd2aff76aa0ceb21ad46d73dddff0c8f227bc51"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Philippiens",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Philippiens 4",
     "url": "https://api.getbible.net/v2/martin/50/4.json",
-    "sha": "b56508f76f90cdedf2239e804225761d222f1dc8"
+    "sha": "ac764f1b94be69a6ce17473725f88b32e499e734"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonjáš",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sofonjáš 1",
     "url": "https://api.getbible.net/v2/bkr/36/1.json",
-    "sha": "7f05604e4db11af1bb7414fdcfe670b0b5a79748"
+    "sha": "db000cb8bc90baeca68e69d3a53c10271dc91780"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonjáš",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sofonjáš 2",
     "url": "https://api.getbible.net/v2/bkr/36/2.json",
-    "sha": "d327c3bd365648fa758c7a9eea2f47c947b75bbf"
+    "sha": "6c9555945fb8c3142716f7e23c9025b93c82c19e"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonjáš",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sofonjáš 3",
     "url": "https://api.getbible.net/v2/bkr/36/3.json",
-    "sha": "f2220cc1d62172ff242dba87012ecf436e2a3901"
+    "sha": "d39cc3236708aeccab7268b01876ae4e5c5c3c68"
   }
 }

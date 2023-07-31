@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 31,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "俄巴底亞書 1",
     "url": "https://api.getbible.net/v2/cut/31/1.json",
-    "sha": "14675bca6dbb95e393a3c4d3ea15e436ab507d62"
+    "sha": "a135b94a73cd50a346d8feab0e39aa9674d3ebc6"
   }
 }

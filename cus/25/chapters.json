@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "耶利米哀歌 1",
     "url": "https://api.getbible.net/v2/cus/25/1.json",
-    "sha": "5aa7a2c17fca56eb139f99213a8b346f34641b62"
+    "sha": "a7da0b071073910f04e5f636f2bdd07abde8565b"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "耶利米哀歌 2",
     "url": "https://api.getbible.net/v2/cus/25/2.json",
-    "sha": "24c3fac4654ab4defd3e835d7e9c9ba9bbfbf1f1"
+    "sha": "b4995980b2a0a324eb2234d8d13524bb9aebeb65"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "耶利米哀歌 3",
     "url": "https://api.getbible.net/v2/cus/25/3.json",
-    "sha": "eb203e18715cb0562814a5b5abcb36815c528593"
+    "sha": "1fb86d0d3aae07ffa51103372c077ad2feee291f"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "耶利米哀歌 4",
     "url": "https://api.getbible.net/v2/cus/25/4.json",
-    "sha": "93152db83225fb0702d11b8caada15204d13b40f"
+    "sha": "145ea0984ed92ec4486436fb33998fc989583cb6"
   },
   "5": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "耶利米哀歌 5",
     "url": "https://api.getbible.net/v2/cus/25/5.json",
-    "sha": "770c5a76832d643a900ead307a5b4a1994818ab6"
+    "sha": "f0d070c353f0d598f39ae42337dd62e17bb953e3"
   }
 }

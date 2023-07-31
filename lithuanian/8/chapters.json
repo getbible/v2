@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rūta",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Rūta 1",
     "url": "https://api.getbible.net/v2/lithuanian/8/1.json",
-    "sha": "6efdf05005d54133e016bc76f3ec091b41ed6559"
+    "sha": "f14e8297c5f1d19420570b1268839d228e7e980d"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rūta",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Rūta 2",
     "url": "https://api.getbible.net/v2/lithuanian/8/2.json",
-    "sha": "8d24f55902ea3862120a22285207cd1393cd61ed"
+    "sha": "f0bdc17b30adb72eef0e7aa1c70523a1c82d8f8a"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rūta",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Rūta 3",
     "url": "https://api.getbible.net/v2/lithuanian/8/3.json",
-    "sha": "1aed03e3503583f225abead48b99fbe35973b043"
+    "sha": "697522d06b7b0cecbc18e9c84ecd91040f734343"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rūta",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Rūta 4",
     "url": "https://api.getbible.net/v2/lithuanian/8/4.json",
-    "sha": "c3633a6ae68277028e6890ea852fd815c2818d13"
+    "sha": "6c5cf056e7e8261261e540b313f9cef73189ebd3"
   }
 }

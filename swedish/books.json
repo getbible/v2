@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Första Moseboken",
     "url": "https://api.getbible.net/v2/swedish/1.json",
-    "sha": "e20312cd55a0442529966c226ce66bceaf4037d2"
+    "sha": "4669d78dd201e653fef17de0381ccac928e024fa"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Andra Moseboken",
     "url": "https://api.getbible.net/v2/swedish/2.json",
-    "sha": "6ba934fc8c22bb4349db691e0f516daa48568d09"
+    "sha": "69c41b7a5bbf149ab23377aad26aed2b6f7f4e1b"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Tredje Moseboken",
     "url": "https://api.getbible.net/v2/swedish/3.json",
-    "sha": "4d5c829284204f97457e71ee10b38a5edd342e8b"
+    "sha": "6bcfc7497a1b5d129b1b12f34f56896cf9dc4e83"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Fjärde Moseboken",
     "url": "https://api.getbible.net/v2/swedish/4.json",
-    "sha": "0cd82eef612edd2364e3cc2c7093bc7b8c2c2ff3"
+    "sha": "ba14849665fc20c401b84a9c5d3a0974c7135c65"
   },
   "5": {
     "translation": "Swedish (1917)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Femte Moseboken",
     "url": "https://api.getbible.net/v2/swedish/5.json",
-    "sha": "f1679bf72de8d41d2099e92119e574c97b0d69ff"
+    "sha": "f4c03b7b8c6c8b1a87e6f0f4e3e8e6982165d48e"
   },
   "6": {
     "translation": "Swedish (1917)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Josua",
     "url": "https://api.getbible.net/v2/swedish/6.json",
-    "sha": "34c415f712d04511a0cbbd109539a0fe5097ce07"
+    "sha": "2c29f9091494881f939a16064e990eeb393e26d6"
   },
   "7": {
     "translation": "Swedish (1917)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Domarboken",
     "url": "https://api.getbible.net/v2/swedish/7.json",
-    "sha": "f262cd25e7d34efb4c081c7118b79c93026848db"
+    "sha": "563460ef8cb70401788c6b0f200a4af1edcae641"
   },
   "8": {
     "translation": "Swedish (1917)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rut",
     "url": "https://api.getbible.net/v2/swedish/8.json",
-    "sha": "a227660a545502a8c621b3603b05eeb87f609c62"
+    "sha": "7dffb0e602602909f1fd93b47766e2b980f8d451"
   },
   "9": {
     "translation": "Swedish (1917)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "Första Samuelsboken",
     "url": "https://api.getbible.net/v2/swedish/9.json",
-    "sha": "2be5a3c9205980ed58cacebe50e4c32656a79876"
+    "sha": "8fdbcbdc49004837bb0a94cf87747847d2084115"
   },
   "10": {
     "translation": "Swedish (1917)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "Andra Samuelsboken",
     "url": "https://api.getbible.net/v2/swedish/10.json",
-    "sha": "ee7bee0f05595705bb7bbe7055152eeaeb1489d8"
+    "sha": "0e45af28560a8ac5ed383edad9036d5612560bce"
   },
   "11": {
     "translation": "Swedish (1917)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "Första Kungaboken",
     "url": "https://api.getbible.net/v2/swedish/11.json",
-    "sha": "618e4bdd2c635151d23b84dc084b6da48e333006"
+    "sha": "db01e154a28d0b9d255c55e0b14ad7a6b9fddc06"
   },
   "12": {
     "translation": "Swedish (1917)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "Andra Kungaboken",
     "url": "https://api.getbible.net/v2/swedish/12.json",
-    "sha": "0fa244991fb0721ab8d331fbac97cdac285cda35"
+    "sha": "b30b00e62876041b09b39610fb37d295951b6bab"
   },
   "13": {
     "translation": "Swedish (1917)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "Första Krönikeboken",
     "url": "https://api.getbible.net/v2/swedish/13.json",
-    "sha": "2a825435ca671fd2d482790de6c33abfa12fb59b"
+    "sha": "f21695d1ed974df90ccb6d1ab92d9fc538562c45"
   },
   "14": {
     "translation": "Swedish (1917)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "Andra Krönikeboken",
     "url": "https://api.getbible.net/v2/swedish/14.json",
-    "sha": "d2ab64428a76050f766f47c8baaecf2e2116f0c2"
+    "sha": "a538cabd889c556d0da2c430bca43de639d41050"
   },
   "15": {
     "translation": "Swedish (1917)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Esra",
     "url": "https://api.getbible.net/v2/swedish/15.json",
-    "sha": "000043fa5dd66bd756d208ff02ff9d3767c6fef6"
+    "sha": "94cde0253235bc19f87206653615fc02a9e0c983"
   },
   "16": {
     "translation": "Swedish (1917)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemja",
     "url": "https://api.getbible.net/v2/swedish/16.json",
-    "sha": "a9db09e3f5c581ade5b0ecb4c125955e72f17f67"
+    "sha": "4e1408b3b8f08f08b08cfdd35767348d72d0dabd"
   },
   "17": {
     "translation": "Swedish (1917)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/swedish/17.json",
-    "sha": "f558fc4d0763263174f113ecf0ec8bb267afacc5"
+    "sha": "a17025ee9ce51e565219f189668e4c70fb5db376"
   },
   "18": {
     "translation": "Swedish (1917)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Psalmer",
     "url": "https://api.getbible.net/v2/swedish/19.json",
-    "sha": "23325b8f7ea8e59182c02654ae6631d8a3b6d5b1"
+    "sha": "f242e408d3bfda2a7f43c8e1d5bf804f1bd4e8bd"
   },
   "20": {
     "translation": "Swedish (1917)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Ordspråksboken",
     "url": "https://api.getbible.net/v2/swedish/20.json",
-    "sha": "59cdc5a19b43d85c6a988477c72b06061a588b19"
+    "sha": "83a0930b35e6906c5a12412860833fc2aa1e159a"
   },
   "21": {
     "translation": "Swedish (1917)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Predikaren",
     "url": "https://api.getbible.net/v2/swedish/21.json",
-    "sha": "a103d8014ae04177f8dc6d0b892ffaaba645930a"
+    "sha": "45e6b538f96d448112c5e34e166e4e97c901d7c4"
   },
   "22": {
     "translation": "Swedish (1917)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Höga visan",
     "url": "https://api.getbible.net/v2/swedish/22.json",
-    "sha": "a60e4700d3cae3871f779de2e8feb186b008326c"
+    "sha": "94b2c6a3499d52111d8891fe17468d5f0b133268"
   },
   "23": {
     "translation": "Swedish (1917)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Jesaja",
     "url": "https://api.getbible.net/v2/swedish/23.json",
-    "sha": "19c43b54b0b23e351095e1a9fe41406b05725a21"
+    "sha": "53c6e1344ac155a7b3db00f7a12ab33be5d02fef"
   },
   "24": {
     "translation": "Swedish (1917)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremia",
     "url": "https://api.getbible.net/v2/swedish/24.json",
-    "sha": "57e52e012d2d89bcdcf187009d9df5a4838973e1"
+    "sha": "306271d681d50d6f8929ad8d75fa118a57498892"
   },
   "25": {
     "translation": "Swedish (1917)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Klagovisorna",
     "url": "https://api.getbible.net/v2/swedish/25.json",
-    "sha": "fed667203715f3fd95ab98ffc366c9ed356f41a3"
+    "sha": "8a41711cd12d3b11acaf9b5bd71be2e8150a400a"
   },
   "26": {
     "translation": "Swedish (1917)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Hesekiel",
     "url": "https://api.getbible.net/v2/swedish/26.json",
-    "sha": "00c7fb0b814196299b849701cd193c2161859475"
+    "sha": "ac93874802bdfb1155c0acfff22cbb766e0c43fe"
   },
   "27": {
     "translation": "Swedish (1917)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadja",
     "url": "https://api.getbible.net/v2/swedish/31.json",
-    "sha": "716ee10c5f24d6f427076e6e29aa1eca8ae24f01"
+    "sha": "6c08f08ed222dd111f9b0b360c8efe59d76d0591"
   },
   "32": {
     "translation": "Swedish (1917)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jona",
     "url": "https://api.getbible.net/v2/swedish/32.json",
-    "sha": "c559e912bd9d2e781cb3da3fd2fcf7a6cfdde702"
+    "sha": "8745a0b1160f60b2fda451505756107c5db8621f"
   },
   "33": {
     "translation": "Swedish (1917)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Mika",
     "url": "https://api.getbible.net/v2/swedish/33.json",
-    "sha": "2205b1258e885bbff520f2352fc04e25964aa6d2"
+    "sha": "7f1f7cf3597ded3ba8cfc473dbb1da4287e35a9c"
   },
   "34": {
     "translation": "Swedish (1917)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habackuk",
     "url": "https://api.getbible.net/v2/swedish/35.json",
-    "sha": "b5b6a715cd669bf6b4b133d0d3c4f6d573a92b0f"
+    "sha": "120e99f9a477e5c2a46db0352e1dfe5d74d51096"
   },
   "36": {
     "translation": "Swedish (1917)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sefanja",
     "url": "https://api.getbible.net/v2/swedish/36.json",
-    "sha": "78157620597165e2b4ff0b17986b76c31f57e912"
+    "sha": "097b81f9827ff4871641753efbed2d0069ceb281"
   },
   "37": {
     "translation": "Swedish (1917)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Sakarja",
     "url": "https://api.getbible.net/v2/swedish/38.json",
-    "sha": "57adcbaf459b599df41f2937acc144f0e99ad911"
+    "sha": "56853e298cc80c6cf94ba39693c70b2ae52b5ece"
   },
   "39": {
     "translation": "Swedish (1917)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malaki",
     "url": "https://api.getbible.net/v2/swedish/39.json",
-    "sha": "76964e3e1e088448b418fa3ef4ba716905b64fa8"
+    "sha": "0214f3024ee25c8bfc0a568d805994e0699ffb1c"
   },
   "69": {
     "translation": "Swedish (1917)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 70,
-    "name": "Judith",
+    "name": "Judit",
     "url": "https://api.getbible.net/v2/swedish/70.json",
-    "sha": "a44c046af46ba7a87c11c48c9f176d21189b410a"
+    "sha": "37409802365fc9b58c8360fec23be4cce2f3ec8a"
   },
   "71": {
     "translation": "Swedish (1917)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 71,
-    "name": "Esther (Greek)",
+    "name": "Tillskott till Ester",
     "url": "https://api.getbible.net/v2/swedish/71.json",
-    "sha": "4b7787cda8a3e7e92e4fecc59c0efcf1dcf93aab"
+    "sha": "6b75210c693541940c24867a71d770e3075c1844"
   },
   "73": {
     "translation": "Swedish (1917)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 73,
-    "name": "Wisdom",
+    "name": "Visheten",
     "url": "https://api.getbible.net/v2/swedish/73.json",
-    "sha": "aa4710c50cc529e7a669cf516dde6bcac1e3a430"
+    "sha": "e483957cede3ebff4f63483165ad05a910360a80"
   },
   "74": {
     "translation": "Swedish (1917)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 74,
-    "name": "Sirach",
+    "name": "Jesus Syraks visdom",
     "url": "https://api.getbible.net/v2/swedish/74.json",
-    "sha": "390362864de732c13d16dab98432b5b2589d3ed5"
+    "sha": "85f3320f1867d8e4a596d308fa3ff134ed318b41"
   },
   "75": {
     "translation": "Swedish (1917)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 75,
-    "name": "Baruch",
+    "name": "Baruk",
     "url": "https://api.getbible.net/v2/swedish/75.json",
-    "sha": "e85f1e154d4632c79ebd14f3c44ca74554e3d00a"
+    "sha": "9975af7567b1ebf8b4ee34225b6deb654c1f4edc"
   },
   "76": {
     "translation": "Swedish (1917)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 76,
-    "name": "Prayer of Azariah",
+    "name": "Azarjas bön",
     "url": "https://api.getbible.net/v2/swedish/76.json",
-    "sha": "855160d63fbe969451cc14b9ab0902b8778c1034"
+    "sha": "fd1693cdc595e86538a72c4e6cad8d05d54bf392"
   },
   "77": {
     "translation": "Swedish (1917)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 78,
-    "name": "Bel and the Dragon",
+    "name": "Bel och draken",
     "url": "https://api.getbible.net/v2/swedish/78.json",
-    "sha": "cf1e04115b00c78b2fe39aec99b9325679410f67"
+    "sha": "1ba124d1f86cbf856d198e42d58a757d5dd0a2ef"
   },
   "80": {
     "translation": "Swedish (1917)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 80,
-    "name": "1 Maccabees",
+    "name": "Första Makkabéerboken",
     "url": "https://api.getbible.net/v2/swedish/80.json",
-    "sha": "61ff44a8bca1f804cbd049f508987b40f9f8d75c"
+    "sha": "5abe2347fe88c9febcfe5d39432cdbba687cf588"
   },
   "81": {
     "translation": "Swedish (1917)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 81,
-    "name": "2 Maccabees",
+    "name": "Andra Makkabéerboken",
     "url": "https://api.getbible.net/v2/swedish/81.json",
-    "sha": "c85c13f18282fb1f438721c17736770d5a963595"
+    "sha": "5affff277f584a7ad1f922cbacf93cd0255be7da"
   },
   "79": {
     "translation": "Swedish (1917)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 79,
-    "name": "Prayer of Manasses",
+    "name": "Manasses bön",
     "url": "https://api.getbible.net/v2/swedish/79.json",
-    "sha": "32cef354144f82569e76cf1336559eb9e24b30e0"
+    "sha": "49a7788127e302fb4ca85c7dc76a03b7370b77a8"
   },
   "40": {
     "translation": "Swedish (1917)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matteus",
     "url": "https://api.getbible.net/v2/swedish/40.json",
-    "sha": "bef3da71231d1b3c4a3cc17ef7b095e37a431d10"
+    "sha": "c06dccf34abca6c498b4f9b053b39a7b17ce6baf"
   },
   "41": {
     "translation": "Swedish (1917)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Markus",
     "url": "https://api.getbible.net/v2/swedish/41.json",
-    "sha": "27ade076a95021de151825859ab618087096e4a0"
+    "sha": "71ab872657e0c6ce354e12ad39fd1fc1b3b0475d"
   },
   "42": {
     "translation": "Swedish (1917)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lukas",
     "url": "https://api.getbible.net/v2/swedish/42.json",
-    "sha": "4e9f60e0cd948488357cad295ebbea4e5546386d"
+    "sha": "5a5c85de9ba8bbc0b62b1777342bec10a581a0c2"
   },
   "43": {
     "translation": "Swedish (1917)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Johannes",
     "url": "https://api.getbible.net/v2/swedish/43.json",
-    "sha": "be1e03c46cb62d625c3ad3e1358ec041b7a7374d"
+    "sha": "2568f07772435c7a024667413aa502ad2d17cb24"
   },
   "44": {
     "translation": "Swedish (1917)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Apostlagärningarna",
     "url": "https://api.getbible.net/v2/swedish/44.json",
-    "sha": "72ac3faca830681bd63ca9d961d930fb14bb98f9"
+    "sha": "6b09164b3ae4a89fb93e1158487b1bc028750d60"
   },
   "45": {
     "translation": "Swedish (1917)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romarbrevet",
     "url": "https://api.getbible.net/v2/swedish/45.json",
-    "sha": "83cbfb2af6408b308a895d24f3f520047d5c2ed8"
+    "sha": "4e7ec9b840aed9532fa4ec50b1e17a86a027c241"
   },
   "46": {
     "translation": "Swedish (1917)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "Första Korinthierbrevet",
     "url": "https://api.getbible.net/v2/swedish/46.json",
-    "sha": "ccc9cc56a27511ea8ee97d0396d33de1a4d1ae19"
+    "sha": "e05f47de674cc8c980fb50e5a325c31d08516481"
   },
   "47": {
     "translation": "Swedish (1917)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "Andra Korinthierbrevet",
     "url": "https://api.getbible.net/v2/swedish/47.json",
-    "sha": "f89c5b75ab3c6a9c0f20eec03cc26d01c41e4276"
+    "sha": "b052b8cfb72ce9ed1eb60f4f159412b1d24b3747"
   },
   "48": {
     "translation": "Swedish (1917)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galaterbrevet",
     "url": "https://api.getbible.net/v2/swedish/48.json",
-    "sha": "58e8b46dbd21b6b03be5f7ed99362b8036f8f083"
+    "sha": "217e5c471a110b4aa18642213c7a84207ac9efe3"
   },
   "49": {
     "translation": "Swedish (1917)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efesierbrevet",
     "url": "https://api.getbible.net/v2/swedish/49.json",
-    "sha": "d10b1b89e9ea367556a1f9b123cb9fd191e2fb46"
+    "sha": "a1852dbe8683e6be24611a9edddc45428c1adbd8"
   },
   "50": {
     "translation": "Swedish (1917)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipperbrevet",
     "url": "https://api.getbible.net/v2/swedish/50.json",
-    "sha": "30a0b891f21c0dbaf3fc2f2cf29ae5edde3c1dda"
+    "sha": "07858882aa73a783a572c3b78e80a0ed2bc09d9e"
   },
   "51": {
     "translation": "Swedish (1917)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Kolosserbrevet",
     "url": "https://api.getbible.net/v2/swedish/51.json",
-    "sha": "ccd587c2a9ca2e76ffa9117ab2194dab9beeb533"
+    "sha": "1d896f67234b436ea8f716b14f8c424cb3c8926a"
   },
   "52": {
     "translation": "Swedish (1917)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "Första Thessalonikerbrevet",
     "url": "https://api.getbible.net/v2/swedish/52.json",
-    "sha": "358b0d8b63736fd900f6f90f6a10e323880b6c78"
+    "sha": "247f6445989c84b31f7a8d0a3d972b6c4cd28adb"
   },
   "53": {
     "translation": "Swedish (1917)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "Andra Thessalonikerbrevet",
     "url": "https://api.getbible.net/v2/swedish/53.json",
-    "sha": "ba4e570b5f1001a1bd721a623455e48f99f6295a"
+    "sha": "2b0ebb6487d19025d21d4d83f616a8ac67808ada"
   },
   "54": {
     "translation": "Swedish (1917)",
@@ -787,9 +787,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "Första Timoteosbrevet",
     "url": "https://api.getbible.net/v2/swedish/54.json",
-    "sha": "5c88af49ffbb21c510f36ccdf4ba28576224f577"
+    "sha": "a34cb8cfd0303452eace1067e5f044f372a2b084"
   },
   "55": {
     "translation": "Swedish (1917)",
@@ -799,9 +799,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "Andra Timoteosbrevet",
     "url": "https://api.getbible.net/v2/swedish/55.json",
-    "sha": "b6a5871b2c6c269c8d29d29ba42793b865ec7e15"
+    "sha": "df917a44db8bfaf9dd35c00a8acb24995dd1895a"
   },
   "56": {
     "translation": "Swedish (1917)",
@@ -811,9 +811,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Titusbrevet",
     "url": "https://api.getbible.net/v2/swedish/56.json",
-    "sha": "64ccca78b7e9bd872e9ab5b8c4001a342c5b2276"
+    "sha": "5f18066cb0c5b627938412566d2af63d53dbc56d"
   },
   "57": {
     "translation": "Swedish (1917)",
@@ -823,9 +823,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemonbrevet",
     "url": "https://api.getbible.net/v2/swedish/57.json",
-    "sha": "9c0ffee58bfc5d0a8271faa2d4e416b948d626ca"
+    "sha": "8a9ddb1ad70c601e117c36a0086f6c0ce7e7530e"
   },
   "58": {
     "translation": "Swedish (1917)",
@@ -835,9 +835,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebreerbrevet",
     "url": "https://api.getbible.net/v2/swedish/58.json",
-    "sha": "1c96205ac703d9b528b7389d4a30617247479d7b"
+    "sha": "1670e1d91d1fcd08771916574cc96ea368fe15cd"
   },
   "59": {
     "translation": "Swedish (1917)",
@@ -847,9 +847,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jakobsbrevet",
     "url": "https://api.getbible.net/v2/swedish/59.json",
-    "sha": "85bca47615ca95bf3934e732e5f3bac2cb7442f2"
+    "sha": "b83809eaf6adb43ae66589e89a5997596a1a4828"
   },
   "60": {
     "translation": "Swedish (1917)",
@@ -859,9 +859,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "Första Petrusbrevet",
     "url": "https://api.getbible.net/v2/swedish/60.json",
-    "sha": "2321217799374e8b31d0e5578ce44cd97cd36f50"
+    "sha": "95f967a5c5b490d6f2f5d8d8d38c147e0987f9cc"
   },
   "61": {
     "translation": "Swedish (1917)",
@@ -871,9 +871,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "Andra Petrusbrevet",
     "url": "https://api.getbible.net/v2/swedish/61.json",
-    "sha": "502d17cf52b0ccacd56904591324c870ddedf34a"
+    "sha": "229b62563b8ec40d01f5460f9658837eb6540283"
   },
   "62": {
     "translation": "Swedish (1917)",
@@ -883,9 +883,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "Första Johannesbrevet",
     "url": "https://api.getbible.net/v2/swedish/62.json",
-    "sha": "b9d8812d53dcb95fca27c629ae10952e5bce5d8c"
+    "sha": "53c079d2d27cb9111413402edfd28fedc76e3b2d"
   },
   "63": {
     "translation": "Swedish (1917)",
@@ -895,9 +895,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "Andra Johannesbrevet",
     "url": "https://api.getbible.net/v2/swedish/63.json",
-    "sha": "8c7857ea87223f0390e60b58e7087e945ccf7fe7"
+    "sha": "6e19ebd17aa53a95cc723a19ec81130f4b2d165a"
   },
   "64": {
     "translation": "Swedish (1917)",
@@ -907,9 +907,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "Tredje Johannesbrevet",
     "url": "https://api.getbible.net/v2/swedish/64.json",
-    "sha": "b3188616924afec1cd18d07ef11af4278e568936"
+    "sha": "94511d7c8d607fdb635840b0db68f96511f0d84c"
   },
   "65": {
     "translation": "Swedish (1917)",
@@ -919,9 +919,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judasbrevet",
     "url": "https://api.getbible.net/v2/swedish/65.json",
-    "sha": "60f4857ed41dad5732d12aced90c0dc598d85b6d"
+    "sha": "9c04f7947ba3f2fa19d709aa0834cb01fd9e49e1"
   },
   "66": {
     "translation": "Swedish (1917)",
@@ -931,8 +931,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Uppenbarelseboken",
     "url": "https://api.getbible.net/v2/swedish/66.json",
-    "sha": "7cf7ca8dc04b630b191e18c1e6cbcaa09409ad8d"
+    "sha": "4404ecbb5ce457366e5d11025a0715eb717c7b60"
   }
 }

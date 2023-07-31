@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheüs",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timotheüs 1",
     "url": "https://api.getbible.net/v2/statenvertaling/55/1.json",
-    "sha": "e043944e2323533be9566a1c4e92b52658d36072"
+    "sha": "5d2dbfa252a32c7828aa7abbe8cce1b09da91ed2"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheüs",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timotheüs 2",
     "url": "https://api.getbible.net/v2/statenvertaling/55/2.json",
-    "sha": "866c962defbc52b6a2d3c3907a5df371e9be3e97"
+    "sha": "ed14643ac5345709069640ea5ad52268b4b63c30"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheüs",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timotheüs 3",
     "url": "https://api.getbible.net/v2/statenvertaling/55/3.json",
-    "sha": "609ffadcc298b791baf852154885555c19edce3a"
+    "sha": "1b22c223574f09bf63642727e2982dbde0941534"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheüs",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timotheüs 4",
     "url": "https://api.getbible.net/v2/statenvertaling/55/4.json",
-    "sha": "d1c01c632a21d4edee92dd62994e08cd1d4bdc69"
+    "sha": "66df7555f8fadb2a2ac5a821ed21963f58cf354d"
   }
 }

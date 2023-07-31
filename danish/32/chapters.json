@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas' Bog",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jonas' Bog 1",
     "url": "https://api.getbible.net/v2/danish/32/1.json",
-    "sha": "db57e61418578da5bb77a1a95f4d05874cdb281a"
+    "sha": "58e947698b514ed5c83c5ab0cf5222044b95b89c"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas' Bog",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jonas' Bog 2",
     "url": "https://api.getbible.net/v2/danish/32/2.json",
-    "sha": "8f93d277f563be924eb3525ab9da669fb4c531f4"
+    "sha": "8b7a42f6cf111cbc634c051dea56ecb9849c361f"
   },
   "3": {
     "translation": "Danish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas' Bog",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jonas' Bog 3",
     "url": "https://api.getbible.net/v2/danish/32/3.json",
-    "sha": "2f8461bd912273881a21b67b88a4789ee29debc9"
+    "sha": "2243ef4484ebbfdb3f897bbcac652f946cfa56dc"
   },
   "4": {
     "translation": "Danish",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonas' Bog",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jonas' Bog 4",
     "url": "https://api.getbible.net/v2/danish/32/4.json",
-    "sha": "bb7a5cf40e7623525b10739cae1e22026b98fa1a"
+    "sha": "65f85fa4c3d4aa563b6dc601268b6eb7d3b876ea"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Malachi 1",
     "url": "https://api.getbible.net/v2/kjv/39/1.json",
-    "sha": "609cd3b6f4117775b3e64075e35f5544167c0d89"
+    "sha": "e79f3e65b72eecfed3fe32d61ddf7e8b31edbbe8"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Malachi 2",
     "url": "https://api.getbible.net/v2/kjv/39/2.json",
-    "sha": "233136cb980852ce127d00e5e895309792f83386"
+    "sha": "5e2a3682b333d82273bb43f06a76c41ecc6007a3"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Malachi 3",
     "url": "https://api.getbible.net/v2/kjv/39/3.json",
-    "sha": "e87154ad53a759149de39bde0078d1b610afca47"
+    "sha": "55b1fb3490a97148c8f7f9c7514cd338f64284fa"
   },
   "4": {
     "translation": "King James Version",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Malachi 4",
     "url": "https://api.getbible.net/v2/kjv/39/4.json",
-    "sha": "45d0dce401cded17ab571cf6313f425962f3ca7f"
+    "sha": "751e6b85e07e6ece8b5d53a4043a4dd71f163480"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "加拉太書 1",
     "url": "https://api.getbible.net/v2/cnt/48/1.json",
-    "sha": "f76a45224c84a5e6889df36fd5da5f17b7f114e8"
+    "sha": "13cf1e3504312a223d03cbc18cf876bc798059fa"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "加拉太書 2",
     "url": "https://api.getbible.net/v2/cnt/48/2.json",
-    "sha": "b2e42ba0a0b0419d4b21c67fe1c4ea7e93e10083"
+    "sha": "42576eeca2a3222bc377ca5ecbc156a5324766b9"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "加拉太書 3",
     "url": "https://api.getbible.net/v2/cnt/48/3.json",
-    "sha": "4820c7a3f444e5d993e4de3c2790c9e6c8fb823d"
+    "sha": "2d81a640d49105ece2ef3ffaad76de0304db8984"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "加拉太書 4",
     "url": "https://api.getbible.net/v2/cnt/48/4.json",
-    "sha": "acbbcb240aad57f7085f48e81b71278f17848dba"
+    "sha": "4459ecb6b252151215ce6d419055d1b524db27a7"
   },
   "5": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "加拉太書 5",
     "url": "https://api.getbible.net/v2/cnt/48/5.json",
-    "sha": "46a8fe931a0978e798f1f4aae735fe9bc2f5ff57"
+    "sha": "7544468224b884655d0ba3c58246343c81f92364"
   },
   "6": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "加拉太書 6",
     "url": "https://api.getbible.net/v2/cnt/48/6.json",
-    "sha": "4a432f9c4ff7294963c976df5cf97e4f6c76629a"
+    "sha": "0402fb8a6abd324c97ca9a40ba2b5de74fbdf0e9"
   }
 }

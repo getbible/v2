@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotei",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timotei 1",
     "url": "https://api.getbible.net/v2/cornilescu/54/1.json",
-    "sha": "a97af582f9c0f5e0006065b89a03a40a0b100a06"
+    "sha": "f62732da41570dd07da4542ecb7114f58794f021"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotei",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timotei 2",
     "url": "https://api.getbible.net/v2/cornilescu/54/2.json",
-    "sha": "ed5d88611d4a331241625494ce74dba77e864284"
+    "sha": "5e9b826469cc432102e5c4de9ac5cb1310958dd9"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotei",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timotei 3",
     "url": "https://api.getbible.net/v2/cornilescu/54/3.json",
-    "sha": "4f30ceecd1b6856ef457546d94c5e143d53586bf"
+    "sha": "8f12d080121af2fad64fa8f08df43c9d0532d3c7"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotei",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timotei 4",
     "url": "https://api.getbible.net/v2/cornilescu/54/4.json",
-    "sha": "f3df59d7237f152b3e303c4c8f8b9057a2b63bdc"
+    "sha": "34945f611d8b2f8cfd2400d461e7cab921c3df4e"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotei",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timotei 5",
     "url": "https://api.getbible.net/v2/cornilescu/54/5.json",
-    "sha": "c160539f2f3deaa694e5227191fcab0c52fe37e2"
+    "sha": "9be6e10c7be34bab2efa8ab791d02bac395e7d0d"
   },
   "6": {
     "translation": "Cornilescu",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timotei",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timotei 6",
     "url": "https://api.getbible.net/v2/cornilescu/54/6.json",
-    "sha": "022e1548b7f3ced26fdc56ce3c0f14c5e856e6e9"
+    "sha": "cf0a23a4c4e024df944864cc11791b56ab820a48"
   }
 }

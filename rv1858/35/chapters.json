@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/rv1858/35/1.json",
-    "sha": "535c2f745e3f29c9a8a713fff046c61f8c31cbed"
+    "sha": "4150b65af165ba1169e13f59644b17beeddb417d"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/rv1858/35/2.json",
-    "sha": "34764515af6d717756e6e79c1856af6e85cc674e"
+    "sha": "75849bf0a1f805fb5ba3563c59783c119b983fc6"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/rv1858/35/3.json",
-    "sha": "805eaf8fca9750f7b38bb1f19bc47e42465caab5"
+    "sha": "619e64d0a43fab8d9f10f23d5f36e3e2e7b6fd8e"
   }
 }

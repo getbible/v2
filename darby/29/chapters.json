@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joël 1",
     "url": "https://api.getbible.net/v2/darby/29/1.json",
-    "sha": "e3b05b19dc7a3f02d2ecb81ada97b29b56cc03ea"
+    "sha": "a1e897af5bcfacb34733110c8cb00e6ab6a448da"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joël 2",
     "url": "https://api.getbible.net/v2/darby/29/2.json",
-    "sha": "c99fda7497bbe04bd29bfb854f9656e239ec0bb5"
+    "sha": "dbded1b8f4d9a70f92908d60b4b9f3d21af47c9d"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joël 3",
     "url": "https://api.getbible.net/v2/darby/29/3.json",
-    "sha": "56f8f57ba158a95906924c13abf17e98a14c43c9"
+    "sha": "e5d27d5fa9c416350516b1dcdbb71448f42264c2"
   },
   "4": {
     "translation": "Darby",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 4,
-    "name": "Joel 4",
+    "name": "Joël 4",
     "url": "https://api.getbible.net/v2/darby/29/4.json",
-    "sha": "264e589dd299be3f1f39998a11553d4b0c076b40"
+    "sha": "47305b75e78d4e1d55ebadfabc3ca50e00a7e8ca"
   }
 }

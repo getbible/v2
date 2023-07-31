@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggaeus",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Aggaeus 1",
     "url": "https://api.getbible.net/v2/vulgate/37/1.json",
-    "sha": "0d8489cfa128b1fc7ac21a45d106cadb4317639c"
+    "sha": "5e64da6f6ec530673137cca41f191d97c8182b03"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggaeus",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Aggaeus 2",
     "url": "https://api.getbible.net/v2/vulgate/37/2.json",
-    "sha": "ba837cc1f4c9dffd131464c76872e0972fd982f3"
+    "sha": "970abd421456b2a2ed9f3cadb23d6ab1f207ba40"
   }
 }

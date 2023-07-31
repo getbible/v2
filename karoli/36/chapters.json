@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Szofoniás könyve",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Szofoniás könyve 1",
     "url": "https://api.getbible.net/v2/karoli/36/1.json",
-    "sha": "b504c2f42c583b8df2f3c547f3e1777a735560ff"
+    "sha": "d0337cf4408840e5b9730ff8461457d4618a0b30"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Szofoniás könyve",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Szofoniás könyve 2",
     "url": "https://api.getbible.net/v2/karoli/36/2.json",
-    "sha": "47cafaa43f635ab034914282cd3badcc9c39b04b"
+    "sha": "efcc810a9fe74fff5fcdf488bcc6edf73a960ac5"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Szofoniás könyve",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Szofoniás könyve 3",
     "url": "https://api.getbible.net/v2/karoli/36/3.json",
-    "sha": "1a5f17824d8fce50c50ca8ef02e78b12f6763238"
+    "sha": "11d2302e12c82e9b2b342c6231a584536ab1cf04"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joelin kirja",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joelin kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/29/1.json",
-    "sha": "ce1ce8bf98b23dbf22151ae11f67e90e03cc5346"
+    "sha": "5e08a5c4c8984efb318c77268b27ca8b096ce8d0"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joelin kirja",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joelin kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/29/2.json",
-    "sha": "c159e4a7a84c9fdc9d65fee120bc46f7f55d8808"
+    "sha": "7aa58234049f50477181858619c89d1c7bb4dc5f"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joelin kirja",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joelin kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/29/3.json",
-    "sha": "5709879b1cf0f165e2fe893ad9c2c8da6b8d8341"
+    "sha": "b695869278ad6461dce0c94ca3295d28dc4ce948"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joelin kirja",
     "chapter": 4,
-    "name": "Joel 4",
+    "name": "Joelin kirja 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/29/4.json",
-    "sha": "340e19234f7b092d9049313aa44d29e08247296d"
+    "sha": "57e1ccc0fb578f3ca9823bc79f9dbcdb6a1519ca"
   }
 }

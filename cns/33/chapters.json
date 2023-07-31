@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "弥迦书 1",
     "url": "https://api.getbible.net/v2/cns/33/1.json",
-    "sha": "584f7000fd17698891778a2a12cff2918b90b317"
+    "sha": "1f586216e155193e1b911cee94adabd9e9810a8c"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "弥迦书 2",
     "url": "https://api.getbible.net/v2/cns/33/2.json",
-    "sha": "433d9c0a87da593128695490f9959fa66a4598fc"
+    "sha": "ea33e09ab5db976eb2761d62657eba96887667bf"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "弥迦书 3",
     "url": "https://api.getbible.net/v2/cns/33/3.json",
-    "sha": "fae178d9a44913133a22e08c2f74a8add6266073"
+    "sha": "fb9724b1e196e953b2e5bf6f5ed436d26d050c7b"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "弥迦书 4",
     "url": "https://api.getbible.net/v2/cns/33/4.json",
-    "sha": "c45725d1bbb1ed344424ea40ed68c72f5a6ddd32"
+    "sha": "ba8a33aac82ff2c40d171dca1a42cbfae7ef77f4"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "弥迦书 5",
     "url": "https://api.getbible.net/v2/cns/33/5.json",
-    "sha": "59cb9040e1c45ab82191bb69f6b63a33bead4afc"
+    "sha": "ccacbee33058a3df09f446cf190049aaed030db8"
   },
   "6": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -81,13 +81,13 @@
     "chapter": 6,
     "name": "弥迦书 6",
     "url": "https://api.getbible.net/v2/cns/33/6.json",
-    "sha": "ca6a121248b18044dc67a4e198ca8ba0d6ecc505"
+    "sha": "919f05479e0f1606d84966f407b787dcfa286071"
   },
   "7": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "弥迦书 7",
     "url": "https://api.getbible.net/v2/cns/33/7.json",
-    "sha": "1ef84a7d8ddc43d5461c1c2ebb1e92b00cf437c2"
+    "sha": "ab42a1f7d011bc6ec983da312325c297eaeb02e4"
   }
 }

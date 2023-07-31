@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteovi",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteovi 1",
     "url": "https://api.getbible.net/v2/cep/55/1.json",
-    "sha": "bae87290ca35fbe1928a0199ba4b0334667b084a"
+    "sha": "1d6d1435db7fb4d05cb957c819006733dc478319"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteovi",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteovi 2",
     "url": "https://api.getbible.net/v2/cep/55/2.json",
-    "sha": "803850f483fafc45e79fe91da780e93148f7d21e"
+    "sha": "70a6aa9adb35e245b77f08b29cb3cc1856810758"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteovi",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteovi 3",
     "url": "https://api.getbible.net/v2/cep/55/3.json",
-    "sha": "09c6e1dde92c10f2f927ffbe2bc77c26eaafd02e"
+    "sha": "582a1c9fd280b228b93350c8d3d7e8b6299a8db6"
   },
   "4": {
     "translation": "Czech CEP",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteovi",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteovi 4",
     "url": "https://api.getbible.net/v2/cep/55/4.json",
-    "sha": "b5a3c45b203430e31f605f845602c0463b7a1464"
+    "sha": "f40bd794c12ee2b9ee331e026e8e30ac348f20d1"
   }
 }

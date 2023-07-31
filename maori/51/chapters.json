@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Karōhia",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Karōhia 1",
     "url": "https://api.getbible.net/v2/maori/51/1.json",
-    "sha": "37bb7e4810e62800393d08ae158a885c07521f74"
+    "sha": "72e187cf1edcd99ac4ec7611ce1a7fe05336892c"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Karōhia",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Karōhia 2",
     "url": "https://api.getbible.net/v2/maori/51/2.json",
-    "sha": "4343d148c917b76cb7fbd80e5781b53058b9b07e"
+    "sha": "fca655d0fd4605e7e8801158977bddfa6c90cfc0"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Karōhia",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Karōhia 3",
     "url": "https://api.getbible.net/v2/maori/51/3.json",
-    "sha": "7b6a6bfe505f150056813a1ce59caac5aab81ada"
+    "sha": "54252452bf89dc50c7386874f62b1c89c3cf86fd"
   },
   "4": {
     "translation": "Maori",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Karōhia",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Karōhia 4",
     "url": "https://api.getbible.net/v2/maori/51/4.json",
-    "sha": "8157f0b2f9edb3b6c749ebed126c83aec1447170"
+    "sha": "2618a19516b70c4881c33d54bf45b123e9ff2bb1"
   }
 }

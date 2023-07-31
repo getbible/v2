@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonáš",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jonáš 1",
     "url": "https://api.getbible.net/v2/bkr/32/1.json",
-    "sha": "63415f9a68e5a9cf1c71be564169f16bab559a09"
+    "sha": "aa97a6a5a66bdca909b40cfe7c4371707bfff797"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonáš",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jonáš 2",
     "url": "https://api.getbible.net/v2/bkr/32/2.json",
-    "sha": "2137ac15eb8a4a3ed09985a74096fd30078229d8"
+    "sha": "b48464f069c0d9720bb0c13a840efc58cd63369c"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonáš",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jonáš 3",
     "url": "https://api.getbible.net/v2/bkr/32/3.json",
-    "sha": "c9fb2f5acc2279fcfe5476ab8077a73635dc3182"
+    "sha": "34a82cb6172ef21363290411396d246440336787"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonáš",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jonáš 4",
     "url": "https://api.getbible.net/v2/bkr/32/4.json",
-    "sha": "d0aa8ab7439ea995cd04f58a5f53697666689e1d"
+    "sha": "4b2a9a4a62724b01849dd75efc7276a3fbb490c5"
   }
 }

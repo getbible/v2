@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "提摩太后书 1",
     "url": "https://api.getbible.net/v2/cus/55/1.json",
-    "sha": "46269e30b60a39f56db2af28a7c4c6a69b102c78"
+    "sha": "6e056038086cfdbdeb4b2bcba7fd51a466a575a4"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "提摩太后书 2",
     "url": "https://api.getbible.net/v2/cus/55/2.json",
-    "sha": "8b31ad433721408fae5771f6b8ba736145355ed9"
+    "sha": "b58eb96f19797377511b31a78063a58a3cd403f6"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "提摩太后书 3",
     "url": "https://api.getbible.net/v2/cus/55/3.json",
-    "sha": "6cd1ae93d1f4724949f1534489ff0e232c4fba68"
+    "sha": "ed6741d759ecb01b9374495c997875937596765a"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "提摩太后书 4",
     "url": "https://api.getbible.net/v2/cus/55/4.json",
-    "sha": "1305a6c69f0dc7d0b0ec94a6d4de4b393e9a25db"
+    "sha": "7ce20aede4b407807ff88aa559a5c8bcf2a27ca4"
   }
 }

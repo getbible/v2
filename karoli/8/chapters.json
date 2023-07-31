@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruth könyve",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Ruth könyve 1",
     "url": "https://api.getbible.net/v2/karoli/8/1.json",
-    "sha": "618119eb9b00ec4c9f283c0c4afbfbaad69fc00a"
+    "sha": "739c3edf0a0cdb9bf9b44afb3b7efd7b954fbecd"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruth könyve",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Ruth könyve 2",
     "url": "https://api.getbible.net/v2/karoli/8/2.json",
-    "sha": "a8bc8b1a9686654e116068f5a2bd408dcfd23618"
+    "sha": "c9428649ebb96ada1fdaeaa41db83f87c829e0ba"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruth könyve",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Ruth könyve 3",
     "url": "https://api.getbible.net/v2/karoli/8/3.json",
-    "sha": "298bd4c0c5ac1d3fa6b43f813f406c4f6936a287"
+    "sha": "8b890fa4f067605e984bbce651987eede7525c10"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruth könyve",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Ruth könyve 4",
     "url": "https://api.getbible.net/v2/karoli/8/4.json",
-    "sha": "53d139d4ab935bc9b0a8f916d2f745eaf85c2448"
+    "sha": "a8ea21cc76f96700f0e57e11aaeb63a4cecd3f83"
   }
 }

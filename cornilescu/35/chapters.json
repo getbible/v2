@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/cornilescu/35/1.json",
-    "sha": "b75107088bbed586a3b3ee57ef50eaff94b687fe"
+    "sha": "d0b251f3139f6623c789a2c40765c6c4d308fac0"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/cornilescu/35/2.json",
-    "sha": "adf3ccb656f4dc7880daa42a65baf388d3641c81"
+    "sha": "fa4911da877f79d0de349682de244f5b548b8bb2"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/cornilescu/35/3.json",
-    "sha": "325b453901fc795256afa704d18cff70fa770b22"
+    "sha": "297892c6729c5b691f46fff6d41d146a0bf77985"
   }
 }

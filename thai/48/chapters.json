@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "กาลาเทีย",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "กาลาเทีย 1",
     "url": "https://api.getbible.net/v2/thai/48/1.json",
-    "sha": "66462c85542adf8f18ecf9d16384bff96d2c9c6a"
+    "sha": "7006e67e9b7f6cc208ee0b52c8e845bc87d9ec54"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "กาลาเทีย",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "กาลาเทีย 2",
     "url": "https://api.getbible.net/v2/thai/48/2.json",
-    "sha": "315e7c89b52500b1dfa2b0474dd12f4c50dcf21e"
+    "sha": "27459a36e73b6a78c53955b419c0a7e139f6f4ce"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "กาลาเทีย",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "กาลาเทีย 3",
     "url": "https://api.getbible.net/v2/thai/48/3.json",
-    "sha": "860debf01a4d4f64555852e7c1a41fc80e6e2c7d"
+    "sha": "f3d54c47c0b509e52bce4b130ee06b834bb3a213"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "กาลาเทีย",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "กาลาเทีย 4",
     "url": "https://api.getbible.net/v2/thai/48/4.json",
-    "sha": "b62fe9136d1ac3999ca150d0afee9ec831d497bb"
+    "sha": "eef02a94ba27687577fbc34b27ad272ea4d81a3c"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "กาลาเทีย",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "กาลาเทีย 5",
     "url": "https://api.getbible.net/v2/thai/48/5.json",
-    "sha": "287e040c689f8bd1a7be1159b9bc64f0f073da7b"
+    "sha": "baf55fe56140c7b1b0e2498d5746ea3d5acab747"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "กาลาเทีย",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "กาลาเทีย 6",
     "url": "https://api.getbible.net/v2/thai/48/6.json",
-    "sha": "fc0356f626e0a84aeb7d02fabb2a6d1c3f3cfbc9"
+    "sha": "00c88abd55be09310b15183945f74a9f31ddba86"
   }
 }

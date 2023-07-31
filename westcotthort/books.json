@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Κατά Ματθαίον",
     "url": "https://api.getbible.net/v2/westcotthort/40.json",
-    "sha": "e48ed9a758b13438738897060a6287f3fddce769"
+    "sha": "458b4abe0c92c09be8dcb8d11f2e3d1da9bef722"
   },
   "41": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Κατά Μάρκον",
     "url": "https://api.getbible.net/v2/westcotthort/41.json",
-    "sha": "540278d44d273b0ee6598674fe015dd895c20919"
+    "sha": "8f4b1020e013585ef0a77f495e90d12b0cd0a6eb"
   },
   "42": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Κατά Λουκάν",
     "url": "https://api.getbible.net/v2/westcotthort/42.json",
-    "sha": "9637645647acdc9c906d2e1d022b26cd962c815a"
+    "sha": "211dc5a0495a0ba90f1476bbfa23141e441a7a2e"
   },
   "43": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Κατά Ιωάννην",
     "url": "https://api.getbible.net/v2/westcotthort/43.json",
-    "sha": "e154eedcf884b4be7011434cae11691f7b325526"
+    "sha": "c6d500e3021c72a366d3f1718be695aeed33f124"
   },
   "44": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Πράξεις",
     "url": "https://api.getbible.net/v2/westcotthort/44.json",
-    "sha": "7b62675daf62aa7c9d30cf7b560dd4840d54fc24"
+    "sha": "d7f185e0e44062cd907a54ef4b0d5de5b713338a"
   },
   "45": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Προς Ρωμαίους",
     "url": "https://api.getbible.net/v2/westcotthort/45.json",
-    "sha": "eb072225531831cbb84b7b172ab9d68470ba5ca7"
+    "sha": "d42332e913b7139f6271867b1819e41ee53381b0"
   },
   "46": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "Προς Κορινθίους Α'",
     "url": "https://api.getbible.net/v2/westcotthort/46.json",
-    "sha": "6929324fb83312264e93327b5df9d59e45a28c8f"
+    "sha": "361c14e1591c63504a5e329cdbbca17a4cf947a3"
   },
   "47": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "Προς Κορινθίους Β'",
     "url": "https://api.getbible.net/v2/westcotthort/47.json",
-    "sha": "faec1ccc6c93077a66fc54efa7dcb2bd2c61879c"
+    "sha": "39aa67ff97af3e9917b637376b9d2f9875547b03"
   },
   "48": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Προς Γαλάτας",
     "url": "https://api.getbible.net/v2/westcotthort/48.json",
-    "sha": "c0c403ee9d01ce151cdcf1a6703b3d837789afdc"
+    "sha": "0ec2f2810eb4b147de4b0b19a22bb25d7285079f"
   },
   "49": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Προς Εφεσίους",
     "url": "https://api.getbible.net/v2/westcotthort/49.json",
-    "sha": "57b30900f0fb7b064c9acb64323ca86c5ff20785"
+    "sha": "b4ff78e9caee39613140e1c5fd516cb3fbe67ca7"
   },
   "50": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Προς Φιλιππησίους",
     "url": "https://api.getbible.net/v2/westcotthort/50.json",
-    "sha": "8cdf8dfb68c4110670e1f59d678c2c78e09f6b59"
+    "sha": "72addf2dd7744e5d9b3cf8d3970c9f51b601a9a6"
   },
   "51": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Προς Κολοσσαείς",
     "url": "https://api.getbible.net/v2/westcotthort/51.json",
-    "sha": "5ac60cb5653ca11015c8b4adecc62d0826aaf072"
+    "sha": "93fcffce03f3fb7ac6124018a3344ec25ed28adf"
   },
   "52": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "Προς Θεσσαλονικείς Α'",
     "url": "https://api.getbible.net/v2/westcotthort/52.json",
-    "sha": "13b00504a8f35bbcbb29f76bea07010d327d3cba"
+    "sha": "6f5c880c719c4f746ca01cbbd638de0bd55854cc"
   },
   "53": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "Προς Θεσσαλονικείς Β'",
     "url": "https://api.getbible.net/v2/westcotthort/53.json",
-    "sha": "8df5920fe9b1e2ce3ca32db909ac5bb0810c6a11"
+    "sha": "db2c5b0467b0f6c00c1a9ae47f0cdb533e1f2bf2"
   },
   "54": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "Προς Τιμόθεον Α'",
     "url": "https://api.getbible.net/v2/westcotthort/54.json",
-    "sha": "6f4104f7cf4a8e2045048f5db2bce9148adec5d2"
+    "sha": "e598ea1e7c02c754ea8d9d55664b76b2c4b92270"
   },
   "55": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "Προς Τιμόθεον Β'",
     "url": "https://api.getbible.net/v2/westcotthort/55.json",
-    "sha": "328a39b50bb62da0cf940dcc6e1e135ed7dcaaca"
+    "sha": "363b8fe6d21e8b88eabe3352c8af0e9a17f7d020"
   },
   "56": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Προς Τίτον",
     "url": "https://api.getbible.net/v2/westcotthort/56.json",
-    "sha": "2b53678f61a472cec55cbd3011159f6e505021bc"
+    "sha": "db417b8ddedfbd56f78d8d3f7992f8b9ebfe6424"
   },
   "57": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Προς Φιλήμονα",
     "url": "https://api.getbible.net/v2/westcotthort/57.json",
-    "sha": "54b2764ea730ffaa6a5dee4ecc2cd85185da5c7f"
+    "sha": "76ebaf637a3f4777da5ca63fd4b23ecb10188038"
   },
   "58": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Προς Εβραίους",
     "url": "https://api.getbible.net/v2/westcotthort/58.json",
-    "sha": "49f09c94d3f84472206401dfe8556f56aa7a03b7"
+    "sha": "41a7a7bfa49f8898bae0c8064f4025b46417ef77"
   },
   "59": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Ιάκωβος",
     "url": "https://api.getbible.net/v2/westcotthort/59.json",
-    "sha": "ea20d408d991479cc8fd3b174e6af8c190ca100a"
+    "sha": "0ec220b559217e63529a1bda7bf048823926a9ae"
   },
   "60": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "Πέτρου Α'",
     "url": "https://api.getbible.net/v2/westcotthort/60.json",
-    "sha": "dcbf625f5bff185001620d5275ae6b8797d6e53c"
+    "sha": "1e6d3c3bdf8961a497b9bda516e6570a5ca40dac"
   },
   "61": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "Πέτρου Β'",
     "url": "https://api.getbible.net/v2/westcotthort/61.json",
-    "sha": "d5e370f30d81f4c298d42a2d90120b828e236f7a"
+    "sha": "23261a2f498d62b17156a2186c22e5b95edec28c"
   },
   "62": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "Ιωάννου Α'",
     "url": "https://api.getbible.net/v2/westcotthort/62.json",
-    "sha": "9b6e7d9f0f6d17058203a654fd315e27f0d815c9"
+    "sha": "f8fb5df1ac3f79ed82a2dddb1b1c37088f5f9c53"
   },
   "63": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "Ιωάννου Β'",
     "url": "https://api.getbible.net/v2/westcotthort/63.json",
-    "sha": "e85ac5df8f787174a6792b0bdc31f50ba3c18655"
+    "sha": "0f8943ca7e62210805c3a4a55bd78157179fe356"
   },
   "64": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "Ιωάννου Γ'",
     "url": "https://api.getbible.net/v2/westcotthort/64.json",
-    "sha": "763ea22d5f843950cf15b7e50254284fb71e448f"
+    "sha": "9729f233f4db8c2fdaa3737e4fdefd608f280627"
   },
   "65": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Ιούδας",
     "url": "https://api.getbible.net/v2/westcotthort/65.json",
-    "sha": "f0d1d06174654327d71e107636052ef7e8a82d37"
+    "sha": "6307b03b664a385f680942a89b27799f3148bede"
   },
   "66": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -319,8 +319,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Αποκάλυψις",
     "url": "https://api.getbible.net/v2/westcotthort/66.json",
-    "sha": "28be72e789d5e548cb9d3d0b7b35f0aeaf90ff2b"
+    "sha": "0ff07ad799cef870d4bb977eeb29fa2ab13f39c9"
   }
 }

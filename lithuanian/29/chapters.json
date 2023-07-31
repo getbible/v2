@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joelis",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joelis 1",
     "url": "https://api.getbible.net/v2/lithuanian/29/1.json",
-    "sha": "085bc448a65b53b6a163a04900c2c515165c265a"
+    "sha": "5c2ab3acf1905bf2985f51c5d60a97414cf070c8"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joelis",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joelis 2",
     "url": "https://api.getbible.net/v2/lithuanian/29/2.json",
-    "sha": "388b61861ec642dd3c27a73b5c2686499ff819e2"
+    "sha": "fc27bdbbd50bc4251fd8ab3f9024811fba1ef14b"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joelis",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joelis 3",
     "url": "https://api.getbible.net/v2/lithuanian/29/3.json",
-    "sha": "54e27cc5fa7655ad0982a22c2fd08da2ffcf539e"
+    "sha": "00ec61fb835d958314b690e3d83b26faabec9449"
   }
 }

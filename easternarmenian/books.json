@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Գենեսիս",
     "url": "https://api.getbible.net/v2/easternarmenian/1.json",
-    "sha": "85380b80717e00be59b76f0fc6c15d8f6664840c"
+    "sha": "fc8772691a860de603e0176f74f2047e9d0e6718"
   },
   "2": {
     "translation": "Eastern (Genesis Exodus Gospels)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Ելք",
     "url": "https://api.getbible.net/v2/easternarmenian/2.json",
-    "sha": "42d6c30f85a75f4b24447f5faeba00b6731d4653"
+    "sha": "1651630876b032dfea8acd65a8478d253cd580ae"
   },
   "40": {
     "translation": "Eastern (Genesis Exodus Gospels)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Մատթեայիս",
     "url": "https://api.getbible.net/v2/easternarmenian/40.json",
-    "sha": "eb4e4de1c07a6d77b3ee4ce0ba01275788dbfb34"
+    "sha": "2929997f809f6626a9db1e284954a180f5e0525c"
   },
   "41": {
     "translation": "Eastern (Genesis Exodus Gospels)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Մարկոս",
     "url": "https://api.getbible.net/v2/easternarmenian/41.json",
-    "sha": "7ba72db3a00ca4d19ad26d6d336653487b8ce335"
+    "sha": "17847371a77d965c3a8ba6299c268a3291a5047e"
   },
   "42": {
     "translation": "Eastern (Genesis Exodus Gospels)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Ղուկաս",
     "url": "https://api.getbible.net/v2/easternarmenian/42.json",
-    "sha": "200092d68d06b41f5daca9ae01e85925d5f8876d"
+    "sha": "89b20b1645cad25351072e7e23021aa03e2d246a"
   },
   "43": {
     "translation": "Eastern (Genesis Exodus Gospels)",
@@ -67,8 +67,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Յովհաննէս",
     "url": "https://api.getbible.net/v2/easternarmenian/43.json",
-    "sha": "ec7b2f6572d4c098bd5d8e2246a902d2117e26a4"
+    "sha": "012e4103bcc82e305cce822587676f1c87890af2"
   }
 }

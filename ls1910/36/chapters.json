@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sophonie 1",
     "url": "https://api.getbible.net/v2/ls1910/36/1.json",
-    "sha": "691ee639327b85c803d3892d3d1eb44287db4732"
+    "sha": "4e384e2b706ca79b6fa64ae0b470769cdd279cff"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sophonie 2",
     "url": "https://api.getbible.net/v2/ls1910/36/2.json",
-    "sha": "4518ff214da6eed97ce753dd2539c126eac57ba1"
+    "sha": "9dca1af71603c85aaa2af3fcac999ee03c3dcb7a"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sophonie 3",
     "url": "https://api.getbible.net/v2/ls1910/36/3.json",
-    "sha": "b877e8ba9121a9c8f47482829dbbb6640d21dac0"
+    "sha": "e85736c8100d88effbe867cadc44dea794b0a2c5"
   }
 }

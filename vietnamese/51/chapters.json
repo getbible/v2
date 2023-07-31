@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Cô-lô-se",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Cô-lô-se 1",
     "url": "https://api.getbible.net/v2/vietnamese/51/1.json",
-    "sha": "5404c0692269489bbfe6cb91ceffa92925560cca"
+    "sha": "3d58fcb359f0a7dfff31ee9ba68c6ae76b8abe38"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Cô-lô-se",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Cô-lô-se 2",
     "url": "https://api.getbible.net/v2/vietnamese/51/2.json",
-    "sha": "d451349c754c0686120c5d2906346208a65e6534"
+    "sha": "41f49e97fb845b15697145343a78abe98143739e"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Cô-lô-se",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Cô-lô-se 3",
     "url": "https://api.getbible.net/v2/vietnamese/51/3.json",
-    "sha": "a8a65b5df605c5026954ef7a67e2b001f039c47d"
+    "sha": "68277e6de0db4e4e1e64ea10e09733b94f931c55"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Cô-lô-se",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Cô-lô-se 4",
     "url": "https://api.getbible.net/v2/vietnamese/51/4.json",
-    "sha": "2369221a8bc05520e88ad39c5bfa178cf0413e04"
+    "sha": "69025a28b754f5a7d5ada917b55508d918b611ef"
   }
 }

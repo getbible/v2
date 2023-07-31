@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Pradžia",
     "url": "https://api.getbible.net/v2/lithuanian/1.json",
-    "sha": "bfc8979999ba8c65a478b1e283229f8d74556606"
+    "sha": "52dee5d1cc30cd1c7842216b270084d553e96411"
   },
   "2": {
     "translation": "Lithuanian",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Išėjimas",
     "url": "https://api.getbible.net/v2/lithuanian/2.json",
-    "sha": "2009e7a9ce23a0548f138e55222c43f8059db360"
+    "sha": "8203d1e3f31570da7c8540e7f21855ef1f85033f"
   },
   "3": {
     "translation": "Lithuanian",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levitas",
     "url": "https://api.getbible.net/v2/lithuanian/3.json",
-    "sha": "cec7e9aab773c45feb40791888551a0b0fdc7a15"
+    "sha": "5749387cad32dbf3d7567d0c74b0d99942b47ec7"
   },
   "4": {
     "translation": "Lithuanian",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Skaičiai",
     "url": "https://api.getbible.net/v2/lithuanian/4.json",
-    "sha": "d7fb52e811b3dbfdac049fa026d447fb566e1bb3"
+    "sha": "cdf9f8707e0de9f95243db9dfdfe0312822fe2a3"
   },
   "5": {
     "translation": "Lithuanian",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Pakartotinė Įstatymo",
     "url": "https://api.getbible.net/v2/lithuanian/5.json",
-    "sha": "b43ad073480aeb3c1879fb4d92a1d115c070f6c2"
+    "sha": "592b8964e352fa52e049f234132befc4c7880314"
   },
   "6": {
     "translation": "Lithuanian",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Jozuė",
     "url": "https://api.getbible.net/v2/lithuanian/6.json",
-    "sha": "eb163cdb26869e6ac277aa5e4e05108b2d69dda6"
+    "sha": "094f0a17a7ac8436f3d3deb9bd3cfa62ab6f26b5"
   },
   "7": {
     "translation": "Lithuanian",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Teisėjai",
     "url": "https://api.getbible.net/v2/lithuanian/7.json",
-    "sha": "eebeddfd0bbb782fd9dfc3b27079aa179b80d391"
+    "sha": "19887650817a411c1fc60d05b6bdd1f84ab8d984"
   },
   "8": {
     "translation": "Lithuanian",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rūta",
     "url": "https://api.getbible.net/v2/lithuanian/8.json",
-    "sha": "176138b496100dc4c6a1f575697f2d28f7c8244f"
+    "sha": "eb4c10563a32a8cef7f02d39ac5b071226b8c398"
   },
   "9": {
     "translation": "Lithuanian",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "1 Samuelis",
     "url": "https://api.getbible.net/v2/lithuanian/9.json",
-    "sha": "54b1af239cb6117949d6ace78fff94d086e6c05f"
+    "sha": "4429091537a20a38c787083221d208d234c3d5d7"
   },
   "10": {
     "translation": "Lithuanian",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "2 Samuelis",
     "url": "https://api.getbible.net/v2/lithuanian/10.json",
-    "sha": "12322bf0ee21651befcd411cc623930f74afbbe9"
+    "sha": "8ed8b1124d96981034929f1049641be8c1ffcc29"
   },
   "11": {
     "translation": "Lithuanian",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Karaliai",
     "url": "https://api.getbible.net/v2/lithuanian/11.json",
-    "sha": "733e2d6b44f367da4b8a7f7c0b48a37bdccb6b6f"
+    "sha": "1c815fae7cfdea11373b5deb1c2c2c1cbb0d3cbd"
   },
   "12": {
     "translation": "Lithuanian",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Karaliai",
     "url": "https://api.getbible.net/v2/lithuanian/12.json",
-    "sha": "5fcf15ff74b6760772b7e0e3c4404fd2fb64e20b"
+    "sha": "900d7e99c04cf9869d85a7d4d7c2a6cef71da4cf"
   },
   "13": {
     "translation": "Lithuanian",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Kronikos",
     "url": "https://api.getbible.net/v2/lithuanian/13.json",
-    "sha": "705b9f5253bb0687895c01f409672e5adf76ce47"
+    "sha": "083a940429643e75a2ab65ab22675704365551fe"
   },
   "14": {
     "translation": "Lithuanian",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Kronikos",
     "url": "https://api.getbible.net/v2/lithuanian/14.json",
-    "sha": "e23d36941639c118e64aead327e199d7898269cd"
+    "sha": "0551aa2afd41d3192d81513068ce791b49ecc9ac"
   },
   "15": {
     "translation": "Lithuanian",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Ezdras",
     "url": "https://api.getbible.net/v2/lithuanian/15.json",
-    "sha": "ec4663aeb388808ac1bfbafbdb45e73dce30c467"
+    "sha": "cc8a25e0d557196c026f2d3b30c12246249798c0"
   },
   "16": {
     "translation": "Lithuanian",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemijas",
     "url": "https://api.getbible.net/v2/lithuanian/16.json",
-    "sha": "e2042cfd9ee87f51da3f50f2b468c8b954bd1875"
+    "sha": "f0d54d8a13a5939f53700a604e751093380e3c40"
   },
   "17": {
     "translation": "Lithuanian",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/lithuanian/17.json",
-    "sha": "1743a546a0490fdc4e32969649f0fdabeb7553aa"
+    "sha": "52fa421e6c8e7b5ee37ca811e848168ae1f943dc"
   },
   "18": {
     "translation": "Lithuanian",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Jobas",
     "url": "https://api.getbible.net/v2/lithuanian/18.json",
-    "sha": "8037fd023d95b02e3bba67d5ea2746ad2bbf4610"
+    "sha": "a6ea0c3efa2acf318868a64a6039a984c04419ce"
   },
   "19": {
     "translation": "Lithuanian",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Psalmynas",
     "url": "https://api.getbible.net/v2/lithuanian/19.json",
-    "sha": "4248714ddc409d83a05c09678a3049f26aa2a960"
+    "sha": "bda8263f18804039d0af8f08be93af8b834d8844"
   },
   "20": {
     "translation": "Lithuanian",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Patarlės",
     "url": "https://api.getbible.net/v2/lithuanian/20.json",
-    "sha": "6bcacee9ae5a3eeba5926f45db413a5c3ba8bd6c"
+    "sha": "29ec36aec7b4e6725cb8979ef3b0f315cbacea84"
   },
   "21": {
     "translation": "Lithuanian",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Ekleziastas",
     "url": "https://api.getbible.net/v2/lithuanian/21.json",
-    "sha": "83a085282f91c31dc1a66b33aba5bff1a1f0feed"
+    "sha": "dc5506126a1e25d01d9fb28322c8db4ebb83aa2d"
   },
   "22": {
     "translation": "Lithuanian",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Giesmių giesmė",
     "url": "https://api.getbible.net/v2/lithuanian/22.json",
-    "sha": "b6c5bd53e47e2afcacb3ea486b6e17437bc177a6"
+    "sha": "65255416de8f1c4c407f6b8847b4f86c24550f5b"
   },
   "23": {
     "translation": "Lithuanian",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Izaijas",
     "url": "https://api.getbible.net/v2/lithuanian/23.json",
-    "sha": "2906d3aeb8ba2b187dae33f02f03aa3d7c82b600"
+    "sha": "fbaa0d0a790e0be66d3a1a6acdaa5d5aef9ee2c4"
   },
   "24": {
     "translation": "Lithuanian",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremijas",
     "url": "https://api.getbible.net/v2/lithuanian/24.json",
-    "sha": "8ca1681ccc17210954d511bbe823b968c36126c3"
+    "sha": "6fc79c4e918324767a88968e7d3e24e4f34f8ca7"
   },
   "25": {
     "translation": "Lithuanian",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Raudos",
     "url": "https://api.getbible.net/v2/lithuanian/25.json",
-    "sha": "c735b182fd680da3da83b091802a70fae30e97ec"
+    "sha": "e5ccaedcb7adbe83f1f6f968d6282b1fddb4ed06"
   },
   "26": {
     "translation": "Lithuanian",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezechielis",
     "url": "https://api.getbible.net/v2/lithuanian/26.json",
-    "sha": "25812c46f51716cc9ea36dd7c0e2f9a79f57eb01"
+    "sha": "974a80dfaf8384aaa6436ea6405c63f4091076b2"
   },
   "27": {
     "translation": "Lithuanian",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Danielius",
     "url": "https://api.getbible.net/v2/lithuanian/27.json",
-    "sha": "88a1dcad49842f5fb36a1a5d9e00f1bfe7844360"
+    "sha": "ad5ef51c93f0e5eaa42c46b82d89eca18204f62b"
   },
   "28": {
     "translation": "Lithuanian",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Ozejas",
     "url": "https://api.getbible.net/v2/lithuanian/28.json",
-    "sha": "c78d8f73184bef7138c89e79f3f03688c8643590"
+    "sha": "39599a99ffd4f3f711bc524e96df2216b2c62d0c"
   },
   "29": {
     "translation": "Lithuanian",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Joelis",
     "url": "https://api.getbible.net/v2/lithuanian/29.json",
-    "sha": "718a68b2aa29c9bb61495d2bff0d9401f422f788"
+    "sha": "f8b2a0ee41acfa66da0fd38ca340ca9db2796191"
   },
   "30": {
     "translation": "Lithuanian",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Amosas",
     "url": "https://api.getbible.net/v2/lithuanian/30.json",
-    "sha": "37a9038ab58df9012f741a54991005f850fd9f2e"
+    "sha": "af3636736a9d851679b3dc9e2ab3814cbaccc6f4"
   },
   "31": {
     "translation": "Lithuanian",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Abdijas",
     "url": "https://api.getbible.net/v2/lithuanian/31.json",
-    "sha": "aaedfa7bff86adea1655f2eb16364e5d628dbba6"
+    "sha": "26589c63057e30d5787fd2b1cd3fe7da0ee189d5"
   },
   "32": {
     "translation": "Lithuanian",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jonas",
     "url": "https://api.getbible.net/v2/lithuanian/32.json",
-    "sha": "3544ba8300b52703922cc713d69b624e620fb658"
+    "sha": "e7fb0672506530653590cbd6f525f35835235edf"
   },
   "33": {
     "translation": "Lithuanian",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Michėjas",
     "url": "https://api.getbible.net/v2/lithuanian/33.json",
-    "sha": "a57cbc152c01c945d9c56110728f90b7cedd3848"
+    "sha": "a1ed0c8cac4636c18912fd0b630b9940b2b79179"
   },
   "34": {
     "translation": "Lithuanian",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Nahumas",
     "url": "https://api.getbible.net/v2/lithuanian/34.json",
-    "sha": "027a0860fc6823a66c072d61062d1223e6b6e812"
+    "sha": "5caef9ed5163dc2e810f1b7191c1918caa39cbb7"
   },
   "35": {
     "translation": "Lithuanian",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habakukas",
     "url": "https://api.getbible.net/v2/lithuanian/35.json",
-    "sha": "8ef0a7fd11c41b3e72b501803a6c5865f2dd1402"
+    "sha": "e4c294bbdb9f28cc5c73eef88c460a0616c038cc"
   },
   "36": {
     "translation": "Lithuanian",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sofonijas",
     "url": "https://api.getbible.net/v2/lithuanian/36.json",
-    "sha": "47ba05b0eb59225dec6f0759266d0928dc15d7de"
+    "sha": "2c90664c033b30461ca136e85d3cad765e9684e4"
   },
   "37": {
     "translation": "Lithuanian",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Agėjas",
     "url": "https://api.getbible.net/v2/lithuanian/37.json",
-    "sha": "22ff6a682e845d9e9ef3f452029f19fd9aaa580f"
+    "sha": "918a989af7a6d1b2d5802f0187a7802b47d0d983"
   },
   "38": {
     "translation": "Lithuanian",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacharijas",
     "url": "https://api.getbible.net/v2/lithuanian/38.json",
-    "sha": "b2d8e6b0a4dfc8f791fbd771c8bd39c46e2635a7"
+    "sha": "700082166487813ab8d075fdfb2e6cf121ef9351"
   },
   "39": {
     "translation": "Lithuanian",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malachijas",
     "url": "https://api.getbible.net/v2/lithuanian/39.json",
-    "sha": "70b6da7aefa9296a8c0517d31fb3a40ab48024e6"
+    "sha": "f48e9d2a40e2a220d6eacbaf2c20698412c3b988"
   },
   "40": {
     "translation": "Lithuanian",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matai",
     "url": "https://api.getbible.net/v2/lithuanian/40.json",
-    "sha": "b3ddb24053d2ade63c9d7c51d26880f1e6f6decc"
+    "sha": "eb6e6f706f954037bb2516932f97d02af3b57343"
   },
   "41": {
     "translation": "Lithuanian",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Markas",
     "url": "https://api.getbible.net/v2/lithuanian/41.json",
-    "sha": "a7775c2c3d1480581595829cbe57c8476021b414"
+    "sha": "47495065885afd24f49f09e33860f447d111173e"
   },
   "42": {
     "translation": "Lithuanian",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lukas",
     "url": "https://api.getbible.net/v2/lithuanian/42.json",
-    "sha": "40a62a30781edc9f25a7188a32f05dc3df05ea74"
+    "sha": "5139738ff47a9cce3719f6f4a9f9272eba7d23be"
   },
   "43": {
     "translation": "Lithuanian",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Jonas",
     "url": "https://api.getbible.net/v2/lithuanian/43.json",
-    "sha": "2c78c975d2c29bf1c070156fb0c18d3c93bf41d9"
+    "sha": "0dc1a437cad0d402932c50bbc0d0ff1a166265f7"
   },
   "44": {
     "translation": "Lithuanian",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Apaštalų darbai",
     "url": "https://api.getbible.net/v2/lithuanian/44.json",
-    "sha": "83c1e7de99cd1b61c5a4faf5db3a690161a7f299"
+    "sha": "cc2e39d1a8db871bf6fc7e021dd1bd192f1109cb"
   },
   "45": {
     "translation": "Lithuanian",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romiečiams",
     "url": "https://api.getbible.net/v2/lithuanian/45.json",
-    "sha": "af74e4edc6540a7fe39a62131139a8adf011ef12"
+    "sha": "5a9751b471b47e776e1bd09b9390d315bf724302"
   },
   "46": {
     "translation": "Lithuanian",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korintiečiams",
     "url": "https://api.getbible.net/v2/lithuanian/46.json",
-    "sha": "b2edb8a160bd1fee376e0297999fd041c23b554d"
+    "sha": "410abc816c074b0527c6d207360200d743cb1997"
   },
   "47": {
     "translation": "Lithuanian",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korintiečiams",
     "url": "https://api.getbible.net/v2/lithuanian/47.json",
-    "sha": "03904d1161b799177d8d775a83e32b9327e05d7c"
+    "sha": "ecdbbcb0089f691be0807da58259f38d3c0e3792"
   },
   "48": {
     "translation": "Lithuanian",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galatams",
     "url": "https://api.getbible.net/v2/lithuanian/48.json",
-    "sha": "e8ac6861f0942267eea906a913035656e5db23b8"
+    "sha": "5ff0a8d930d34955138ee7349b0df68cd85ef939"
   },
   "49": {
     "translation": "Lithuanian",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efeziečiams",
     "url": "https://api.getbible.net/v2/lithuanian/49.json",
-    "sha": "964c215cd623f865fc2fc7982c7dfe70eb7ceea2"
+    "sha": "a181cf06e1561b3e4a113e86a354736f936aac53"
   },
   "50": {
     "translation": "Lithuanian",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipiečiams",
     "url": "https://api.getbible.net/v2/lithuanian/50.json",
-    "sha": "316ff11be3791887f514ca159cf6a7197384f430"
+    "sha": "f05cf3f8d66c250586d7e7447cb9c03b1ba6f637"
   },
   "51": {
     "translation": "Lithuanian",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Kolosiečiams",
     "url": "https://api.getbible.net/v2/lithuanian/51.json",
-    "sha": "2e9e1d41f81877a94f52b4830b7e6d4d1e964c87"
+    "sha": "04e5b41fb66007668746f0185e620fc13002483b"
   },
   "52": {
     "translation": "Lithuanian",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tesalonikiečiams",
     "url": "https://api.getbible.net/v2/lithuanian/52.json",
-    "sha": "1d6d4f303163b034e96f4e8c35feb36d72969250"
+    "sha": "c22e497db2b2846b2eef0bf7e52142ea0a3b795c"
   },
   "53": {
     "translation": "Lithuanian",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tesalonikiečiams",
     "url": "https://api.getbible.net/v2/lithuanian/53.json",
-    "sha": "9e715e630334f0c58399d5d068b788dd4d7e3076"
+    "sha": "c33df9fdb32b128da4950c50f412002f2a80e930"
   },
   "54": {
     "translation": "Lithuanian",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timotiejui",
     "url": "https://api.getbible.net/v2/lithuanian/54.json",
-    "sha": "10d21190083d70d2e3f69a12b6ec1ffae573781b"
+    "sha": "228cdd08af3dfa24e38dbba2028d83c3dec2f746"
   },
   "55": {
     "translation": "Lithuanian",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timotiejui",
     "url": "https://api.getbible.net/v2/lithuanian/55.json",
-    "sha": "b089affb5cd6e0b1558db25f2515c0561f27875d"
+    "sha": "818136fc56afaa4198697b29ace63260d9b3785e"
   },
   "56": {
     "translation": "Lithuanian",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Titui",
     "url": "https://api.getbible.net/v2/lithuanian/56.json",
-    "sha": "30c4011f731c22cc445ccdd3584a93d4201dac3b"
+    "sha": "02636e80a4ac8b2b664cb81479be658942aaa02b"
   },
   "57": {
     "translation": "Lithuanian",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemonui",
     "url": "https://api.getbible.net/v2/lithuanian/57.json",
-    "sha": "5a27888aec2b4e50037d1a56f9b53d0e6391647e"
+    "sha": "39cebd62c93bdf16a9a43b4f0f8f2556a55ff3df"
   },
   "58": {
     "translation": "Lithuanian",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Žydams",
     "url": "https://api.getbible.net/v2/lithuanian/58.json",
-    "sha": "b8985d7fca24ba8b47ea9db14c7e7d874cc22d09"
+    "sha": "ef7e378d0c0e1853db017dda7f465d60a84a136a"
   },
   "59": {
     "translation": "Lithuanian",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jokūbas",
     "url": "https://api.getbible.net/v2/lithuanian/59.json",
-    "sha": "2637c5bafca9c0e6415e983ac8a36771f15906e0"
+    "sha": "1fd9e84b579e08430f1569b0fcff96c590a70b23"
   },
   "60": {
     "translation": "Lithuanian",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Petras",
     "url": "https://api.getbible.net/v2/lithuanian/60.json",
-    "sha": "4fa84c3c446fcfd524b93ff33f472a1699a6835c"
+    "sha": "341feae4379b393852368e95ee53e011bb3eb738"
   },
   "61": {
     "translation": "Lithuanian",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Petras",
     "url": "https://api.getbible.net/v2/lithuanian/61.json",
-    "sha": "191d3d5531e6c24e5366104f8204a35e7407459b"
+    "sha": "bfcc9a180945b16a58108cae17b292c2df63bc3e"
   },
   "62": {
     "translation": "Lithuanian",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Jonas",
     "url": "https://api.getbible.net/v2/lithuanian/62.json",
-    "sha": "375edcaab7275fa4b8cf16797393ced206e6089d"
+    "sha": "014fbb48c2f1e773a7d58aa20405f31f4a4c4a9a"
   },
   "63": {
     "translation": "Lithuanian",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Jonas",
     "url": "https://api.getbible.net/v2/lithuanian/63.json",
-    "sha": "df6eef30e1356da49c5dd8d26acda734b12f0129"
+    "sha": "dca8d6fa5ddbf19a9cbadfea07c311ed523b14cd"
   },
   "64": {
     "translation": "Lithuanian",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Jonas",
     "url": "https://api.getbible.net/v2/lithuanian/64.json",
-    "sha": "63402306daa9ca6ea2401f31400895a1d488692c"
+    "sha": "501546fb3d240deac64f0cfac6e307edccb5da80"
   },
   "65": {
     "translation": "Lithuanian",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judai",
     "url": "https://api.getbible.net/v2/lithuanian/65.json",
-    "sha": "2a22406aeaad1f3bc6b8475cb0d46b01f59c8d88"
+    "sha": "0e8c421bed965e73ac05ccabfb04b074f8481c44"
   },
   "66": {
     "translation": "Lithuanian",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Apreiškimas",
     "url": "https://api.getbible.net/v2/lithuanian/66.json",
-    "sha": "04ef1cfc125fa03e487b936f0b1d8ae116acc5df"
+    "sha": "a59fb4af468e85f82c9d1febf023cd4e7fbc4094"
   }
 }

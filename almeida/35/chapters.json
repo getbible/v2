@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuque",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuque 1",
     "url": "https://api.getbible.net/v2/almeida/35/1.json",
-    "sha": "e84547938789bdd90cf55796b598d57deb194044"
+    "sha": "ccda77518191b53d3dd549b68476ce1f37631b4b"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuque",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuque 2",
     "url": "https://api.getbible.net/v2/almeida/35/2.json",
-    "sha": "90f79e6e7f4b172a56892ca417d21f63e6787aca"
+    "sha": "9ebc8e6ec437cec615bb7ec72e6b785eedb561e3"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuque",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuque 3",
     "url": "https://api.getbible.net/v2/almeida/35/3.json",
-    "sha": "47b3b108788c9fd56480a35fc865454507f90672"
+    "sha": "cad7a5839e0dac4e1efd5851fa815b186fbfa974"
   }
 }

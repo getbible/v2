@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efezským",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efezským 1",
     "url": "https://api.getbible.net/v2/bkr/49/1.json",
-    "sha": "a7330f7ef2160381ee1034c01e677db9c8b58103"
+    "sha": "cb3dbd5dd67ba887cc27f4b271163e3b65200e68"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efezským",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efezským 2",
     "url": "https://api.getbible.net/v2/bkr/49/2.json",
-    "sha": "dc7c09947c22e8d1f0006c126358b12c24c0bafa"
+    "sha": "46a880fbcad612196c9ba631342ea62e0a144bf2"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efezským",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efezským 3",
     "url": "https://api.getbible.net/v2/bkr/49/3.json",
-    "sha": "b8527a291f3535584e454dce58478391ef80706c"
+    "sha": "1c1b8f2f24706608c2360603620d85bf64e50984"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efezským",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efezským 4",
     "url": "https://api.getbible.net/v2/bkr/49/4.json",
-    "sha": "242dc85df21a2d5a397c89bf09633c1cf09e1077"
+    "sha": "0a22a89f257bfcbf9c8ec7986967d1953034be9f"
   },
   "5": {
     "translation": "Czech BKR",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efezským",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efezským 5",
     "url": "https://api.getbible.net/v2/bkr/49/5.json",
-    "sha": "c8aa5b62df0e861445474f9b419fbff207e51044"
+    "sha": "fa791e02b78e15d23b6c60f1a2282c69c2d80d09"
   },
   "6": {
     "translation": "Czech BKR",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efezským",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efezským 6",
     "url": "https://api.getbible.net/v2/bkr/49/6.json",
-    "sha": "38e69750c1563eba7743470004b6bc4aba646235"
+    "sha": "57546ee7419f15d2e6b672eb9d139f7ee7361c39"
   }
 }

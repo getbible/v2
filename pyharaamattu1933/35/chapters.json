@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habakukin kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/35/1.json",
-    "sha": "3454b45bac9dcc5079a387250c6981298bd243d1"
+    "sha": "26a425b5f5259c34173d2758684a630cfa19c740"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habakukin kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/35/2.json",
-    "sha": "4636ae1439c0742476e0b633aba0d3ce57ec1f7f"
+    "sha": "18f5bf541074dc4bbd9be3cab465bd733f608398"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habakukin kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/35/3.json",
-    "sha": "463ca632adf1629956bac349c7f68e8de318b94b"
+    "sha": "8c889bd2bb145101bb729d2b31b1db2d19d564b9"
   }
 }

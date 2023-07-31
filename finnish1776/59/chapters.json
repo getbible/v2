@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jaakobin kirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/59/1.json",
-    "sha": "e496a03762ff74f496d9c16cc42632f34081a90b"
+    "sha": "535db41a9fcd572629470b1a28f2c4c2eae96cba"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jaakobin kirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/59/2.json",
-    "sha": "a90278b752fff3d8f61db754fc532873903e6a27"
+    "sha": "59e7671e4f810d8beb03583cc9399fa836210073"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jaakobin kirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/59/3.json",
-    "sha": "1f98ccd20ada7c06cbcb4bbb12be1f24b3d48255"
+    "sha": "f77410f4018c18e1845242bd5a8883fcf4bcd5d7"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jaakobin kirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/59/4.json",
-    "sha": "294a1489faa6afdc56387fb4ad14e7dc91457c12"
+    "sha": "f00f24a02e3869b0c7d3465f2ff9b6aefe73669a"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jaakobin kirje 5",
     "url": "https://api.getbible.net/v2/finnish1776/59/5.json",
-    "sha": "32329fc9d79428ba81af32689c75f5ebad28feda"
+    "sha": "ec58d246982f7ed4d22a808cdf238853d59f74bc"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 1,
-    "name": "Numbers 1",
+    "name": "Numeri 1",
     "url": "https://api.getbible.net/v2/cep/4/1.json",
-    "sha": "c865a69633ac51841675ac82db0a493140f77986"
+    "sha": "bbed68574c9f4be989f587c40e510d500c171888"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 2,
-    "name": "Numbers 2",
+    "name": "Numeri 2",
     "url": "https://api.getbible.net/v2/cep/4/2.json",
-    "sha": "5843fbc403be4f1c511b7a8511dca7a971dc4882"
+    "sha": "7441c78bd5ad84da913cd0f31a33c5fc3d5094fc"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 3,
-    "name": "Numbers 3",
+    "name": "Numeri 3",
     "url": "https://api.getbible.net/v2/cep/4/3.json",
-    "sha": "3f843f8cae6072516143afd0a052b5bdc147cc00"
+    "sha": "aa41e622a6f737cac8a926974bf857a623d26885"
   },
   "4": {
     "translation": "Czech CEP",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 4,
-    "name": "Numbers 4",
+    "name": "Numeri 4",
     "url": "https://api.getbible.net/v2/cep/4/4.json",
-    "sha": "937117f4364b6d27059cb9552678044da8fa7189"
+    "sha": "4da6329ea3386f63482ca5ba4f1b98a2f3487ef4"
   },
   "5": {
     "translation": "Czech CEP",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 5,
-    "name": "Numbers 5",
+    "name": "Numeri 5",
     "url": "https://api.getbible.net/v2/cep/4/5.json",
-    "sha": "4eb57d327f322a68f3f06aca91a0e1f545c90794"
+    "sha": "54fb311ebb7a9d225467e4c94f74640babd65fbc"
   },
   "6": {
     "translation": "Czech CEP",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 6,
-    "name": "Numbers 6",
+    "name": "Numeri 6",
     "url": "https://api.getbible.net/v2/cep/4/6.json",
-    "sha": "5d054cdf59113afa843fed3806f88206cbcb08fc"
+    "sha": "eb9e9745f00c597b0ce0ceaf29f065f6709b0ac3"
   },
   "7": {
     "translation": "Czech CEP",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 7,
-    "name": "Numbers 7",
+    "name": "Numeri 7",
     "url": "https://api.getbible.net/v2/cep/4/7.json",
-    "sha": "a3aefcabb777b6f8378ebdf544de37aa25f6f061"
+    "sha": "910fc27dc51975122f3fa9fdab88d87da626d772"
   },
   "8": {
     "translation": "Czech CEP",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 8,
-    "name": "Numbers 8",
+    "name": "Numeri 8",
     "url": "https://api.getbible.net/v2/cep/4/8.json",
-    "sha": "48513a64a0e7944d84d7463b42f673735eee12b9"
+    "sha": "041df17247af3fd9f680cff605abab74c980f71d"
   },
   "9": {
     "translation": "Czech CEP",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 9,
-    "name": "Numbers 9",
+    "name": "Numeri 9",
     "url": "https://api.getbible.net/v2/cep/4/9.json",
-    "sha": "9f91a5c6aa4f100bcd65056f61c83f7bb6612152"
+    "sha": "20d83c7a3fae9665445c042ae8e997ba748ce715"
   },
   "10": {
     "translation": "Czech CEP",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 10,
-    "name": "Numbers 10",
+    "name": "Numeri 10",
     "url": "https://api.getbible.net/v2/cep/4/10.json",
-    "sha": "a9332ff93f12ff492dd7bb8b04ec9d7d73003aea"
+    "sha": "151a29cdbada67ca00613d8cc30aa057c56a0ed5"
   },
   "11": {
     "translation": "Czech CEP",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 11,
-    "name": "Numbers 11",
+    "name": "Numeri 11",
     "url": "https://api.getbible.net/v2/cep/4/11.json",
-    "sha": "74ca49c4c948674955643bcb27845de23e5fbbdd"
+    "sha": "37a5d4854f2e879bf928012a048d2a9980d1b0ee"
   },
   "12": {
     "translation": "Czech CEP",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 12,
-    "name": "Numbers 12",
+    "name": "Numeri 12",
     "url": "https://api.getbible.net/v2/cep/4/12.json",
-    "sha": "0135229f2990b2a2adeed63653ae04190ff5f40a"
+    "sha": "4f2e72e8102999038efd7c2b0e98113b5a54b344"
   },
   "13": {
     "translation": "Czech CEP",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 13,
-    "name": "Numbers 13",
+    "name": "Numeri 13",
     "url": "https://api.getbible.net/v2/cep/4/13.json",
-    "sha": "a9097f9d0ef0233d665684ed3f53ae164f5f0011"
+    "sha": "0a2fbe3be583b0cf5d458d64805b1fe50b8178b0"
   },
   "14": {
     "translation": "Czech CEP",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 14,
-    "name": "Numbers 14",
+    "name": "Numeri 14",
     "url": "https://api.getbible.net/v2/cep/4/14.json",
-    "sha": "d3207adf7c14e89c8adab623cb7b05d560cd3c75"
+    "sha": "557d86b688b6cc7eee20f9b0d233937e3aada093"
   },
   "15": {
     "translation": "Czech CEP",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 15,
-    "name": "Numbers 15",
+    "name": "Numeri 15",
     "url": "https://api.getbible.net/v2/cep/4/15.json",
-    "sha": "2f910806caa3ce9cdcd8aff91de06b56c7cceb69"
+    "sha": "a4c715323759db9913d18b4730b5284cfa490996"
   },
   "16": {
     "translation": "Czech CEP",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 16,
-    "name": "Numbers 16",
+    "name": "Numeri 16",
     "url": "https://api.getbible.net/v2/cep/4/16.json",
-    "sha": "7554bd9821ad940ff53c0e7dba643ec702307105"
+    "sha": "8c90930947345463a8259dae6b0866f938c4a8f5"
   },
   "17": {
     "translation": "Czech CEP",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 17,
-    "name": "Numbers 17",
+    "name": "Numeri 17",
     "url": "https://api.getbible.net/v2/cep/4/17.json",
-    "sha": "81477312f15513c12168a023c671ed40c22d1fb7"
+    "sha": "1750a4ec1bcf746a21023b000dfece492e068f1a"
   },
   "18": {
     "translation": "Czech CEP",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 18,
-    "name": "Numbers 18",
+    "name": "Numeri 18",
     "url": "https://api.getbible.net/v2/cep/4/18.json",
-    "sha": "2053e77be26fb1f24269871bb462fcf7cc933fe0"
+    "sha": "acd4f1bfc7ee31ddd98743fe7b372f1bff1c689b"
   },
   "19": {
     "translation": "Czech CEP",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 19,
-    "name": "Numbers 19",
+    "name": "Numeri 19",
     "url": "https://api.getbible.net/v2/cep/4/19.json",
-    "sha": "4485b823ef814be24b1c1d3be687451e7fd2006e"
+    "sha": "c1110c06dd5a48f5859ccba1bb7a427948df7143"
   },
   "20": {
     "translation": "Czech CEP",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 20,
-    "name": "Numbers 20",
+    "name": "Numeri 20",
     "url": "https://api.getbible.net/v2/cep/4/20.json",
-    "sha": "742bd1ea4b189ef3381664cdb551953c59d77f54"
+    "sha": "76ec3f844978ddc59f4c57ca090517c415e8bffc"
   },
   "21": {
     "translation": "Czech CEP",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 21,
-    "name": "Numbers 21",
+    "name": "Numeri 21",
     "url": "https://api.getbible.net/v2/cep/4/21.json",
-    "sha": "a5ee45313c08ae07b3637add884a9100a0e7f048"
+    "sha": "86045c1412b9f3120b85f910c5ab3d8906d236c9"
   },
   "22": {
     "translation": "Czech CEP",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 22,
-    "name": "Numbers 22",
+    "name": "Numeri 22",
     "url": "https://api.getbible.net/v2/cep/4/22.json",
-    "sha": "4041e80ddf67e786df64c66d9c157edd7b37c1de"
+    "sha": "ac916808c22ca7f43fe89f9c159f42fc0c481cd9"
   },
   "23": {
     "translation": "Czech CEP",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 23,
-    "name": "Numbers 23",
+    "name": "Numeri 23",
     "url": "https://api.getbible.net/v2/cep/4/23.json",
-    "sha": "72e9fc316430fdd090b5b829a203556d6753b83b"
+    "sha": "1f55029dfc6e7d9bdcb848f0b687368333937fee"
   },
   "24": {
     "translation": "Czech CEP",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 24,
-    "name": "Numbers 24",
+    "name": "Numeri 24",
     "url": "https://api.getbible.net/v2/cep/4/24.json",
-    "sha": "cf455097f59396c2298ff265e60c36af01b1d944"
+    "sha": "f80074721c30b3d6c599868249701a90f233c154"
   },
   "25": {
     "translation": "Czech CEP",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 25,
-    "name": "Numbers 25",
+    "name": "Numeri 25",
     "url": "https://api.getbible.net/v2/cep/4/25.json",
-    "sha": "4eda3eb66445242c3b8f8789ad239e6e997d5cbf"
+    "sha": "e9e18f2df8e21c0916efd96155dc0e64894d72eb"
   },
   "26": {
     "translation": "Czech CEP",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 26,
-    "name": "Numbers 26",
+    "name": "Numeri 26",
     "url": "https://api.getbible.net/v2/cep/4/26.json",
-    "sha": "4564bf2e47960524eeb4582987ae4dfda46c4960"
+    "sha": "e7f0f49b0fa35c42b013e5662ee4b03c46b1de1b"
   },
   "27": {
     "translation": "Czech CEP",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 27,
-    "name": "Numbers 27",
+    "name": "Numeri 27",
     "url": "https://api.getbible.net/v2/cep/4/27.json",
-    "sha": "26764bc0dd5f6c3c8ca12889deb607a3f1ef26c0"
+    "sha": "ee7c82ab966c164812121d20d72e0483197c75bc"
   },
   "28": {
     "translation": "Czech CEP",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 28,
-    "name": "Numbers 28",
+    "name": "Numeri 28",
     "url": "https://api.getbible.net/v2/cep/4/28.json",
-    "sha": "a73f6e15029ebd21a1b2d99b98e9fef3bac8c426"
+    "sha": "1b8cb75bc91cef7b4a9e730e285f8f0aa5b60dc7"
   },
   "29": {
     "translation": "Czech CEP",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 29,
-    "name": "Numbers 29",
+    "name": "Numeri 29",
     "url": "https://api.getbible.net/v2/cep/4/29.json",
-    "sha": "4cb228a19119af8da86a91d287014d7061d79950"
+    "sha": "e6c3604a1e75d0d89223bb4b37d846286f49c991"
   },
   "30": {
     "translation": "Czech CEP",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 30,
-    "name": "Numbers 30",
+    "name": "Numeri 30",
     "url": "https://api.getbible.net/v2/cep/4/30.json",
-    "sha": "a437c13b35cec1e255facdb19728aabf621b9689"
+    "sha": "e5fa2085862815b24e8e21224045f3f485227ee0"
   },
   "31": {
     "translation": "Czech CEP",
@@ -427,11 +427,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 31,
-    "name": "Numbers 31",
+    "name": "Numeri 31",
     "url": "https://api.getbible.net/v2/cep/4/31.json",
-    "sha": "605c3bac2dfaf4a85f83b99ba2cc67f855cd82a5"
+    "sha": "19dce21a5dcbc69b9432f5b92c4050e735de0984"
   },
   "32": {
     "translation": "Czech CEP",
@@ -441,11 +441,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 32,
-    "name": "Numbers 32",
+    "name": "Numeri 32",
     "url": "https://api.getbible.net/v2/cep/4/32.json",
-    "sha": "dee0fa7be8831929e3606ea0c8f78b724e87a10e"
+    "sha": "3f88ad90cf984a8442ccbfe1ba6a54c700256074"
   },
   "33": {
     "translation": "Czech CEP",
@@ -455,11 +455,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 33,
-    "name": "Numbers 33",
+    "name": "Numeri 33",
     "url": "https://api.getbible.net/v2/cep/4/33.json",
-    "sha": "402cf8419d2a048a111652fc8c571563ba2f5f37"
+    "sha": "27274845be94691b36ef7e32c31ec5893617d896"
   },
   "34": {
     "translation": "Czech CEP",
@@ -469,11 +469,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 34,
-    "name": "Numbers 34",
+    "name": "Numeri 34",
     "url": "https://api.getbible.net/v2/cep/4/34.json",
-    "sha": "6027d2395eee78b930502884a3fd0fc3cdb25d2f"
+    "sha": "07ab840fb329b52c45dd1aa6923c4e81b1678813"
   },
   "35": {
     "translation": "Czech CEP",
@@ -483,11 +483,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 35,
-    "name": "Numbers 35",
+    "name": "Numeri 35",
     "url": "https://api.getbible.net/v2/cep/4/35.json",
-    "sha": "98fe8072dfb62052e1212a0870acaedf0d47238d"
+    "sha": "213b5c22464bfd5d0a636face41fe1cd26f8bf95"
   },
   "36": {
     "translation": "Czech CEP",
@@ -497,10 +497,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Numeri",
     "chapter": 36,
-    "name": "Numbers 36",
+    "name": "Numeri 36",
     "url": "https://api.getbible.net/v2/cep/4/36.json",
-    "sha": "b9ae1d24e2365174b8e0e3e68b7d41886605efa2"
+    "sha": "2ee72d9b4a0d10f65641b263704d6681a4272dca"
   }
 }

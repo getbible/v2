@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "彼得后书 1",
     "url": "https://api.getbible.net/v2/cus/61/1.json",
-    "sha": "50502e91f0ccbf93d55bbeb46f1fe6ec512faee3"
+    "sha": "a65c75df7102c5e463b68daedf18628d39e029a5"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "彼得后书 2",
     "url": "https://api.getbible.net/v2/cus/61/2.json",
-    "sha": "0ba159115df2bdcce62a7860c49ad9b5179a679d"
+    "sha": "bfb52f232d946fbbeea65abec7b8add5e598a5bc"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "彼得后书 3",
     "url": "https://api.getbible.net/v2/cus/61/3.json",
-    "sha": "46a1af4a534e5e3cd3e7577f91a508515a304a1e"
+    "sha": "fde9b8786a3c6d8d744a8df6afe5bab6988ea76e"
   }
 }

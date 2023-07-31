@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Տիմոթէոսին",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Տիմոթէոսին 1",
     "url": "https://api.getbible.net/v2/westernarmenian/55/1.json",
-    "sha": "5c8830d801ec0b3ea2cb012931dfda87532efb84"
+    "sha": "a22ac48a86ed30188261377bd76ba3d8ab74e543"
   },
   "2": {
     "translation": "Western NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Տիմոթէոսին",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Տիմոթէոսին 2",
     "url": "https://api.getbible.net/v2/westernarmenian/55/2.json",
-    "sha": "6ac901c229760dce7434b2287f5a304cc1ec7970"
+    "sha": "831a6ceb9ad75ce38ea48182aa9601589b2e6d2e"
   },
   "3": {
     "translation": "Western NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Տիմոթէոսին",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Տիմոթէոսին 3",
     "url": "https://api.getbible.net/v2/westernarmenian/55/3.json",
-    "sha": "54b5519719ce250f9fbeaff08c306706c007fa37"
+    "sha": "57b8de0aa96a684d40f70508f99a59c8e055536f"
   },
   "4": {
     "translation": "Western NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Տիմոթէոսին",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Տիմոթէոսին 4",
     "url": "https://api.getbible.net/v2/westernarmenian/55/4.json",
-    "sha": "8f1c93cce3281ccf7fdc8bd418ae32f9045303b0"
+    "sha": "0b16ea6ccbd23fb57751e9668533826ed137e37a"
   }
 }

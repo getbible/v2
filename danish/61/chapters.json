@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petersbrev",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Petersbrev 1",
     "url": "https://api.getbible.net/v2/danish/61/1.json",
-    "sha": "f81350deb360686cb112d2fb9690c431e4edab57"
+    "sha": "cc404f2fc257f505e77b9d34c8b87339d7447e49"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petersbrev",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Petersbrev 2",
     "url": "https://api.getbible.net/v2/danish/61/2.json",
-    "sha": "76dc76478b2427980780e6dd083a24a85b53eaaa"
+    "sha": "228686bb5eadd434ef5119825fa7c54d596f73fb"
   },
   "3": {
     "translation": "Danish",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petersbrev",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Petersbrev 3",
     "url": "https://api.getbible.net/v2/danish/61/3.json",
-    "sha": "93e0cdaf7f91f5a59046532a2c168fa3cf1e7fb9"
+    "sha": "362ab96be38e2182fd17129a8aaaac4d4f481910"
   }
 }

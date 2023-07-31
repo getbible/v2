@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonías",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sofonías 1",
     "url": "https://api.getbible.net/v2/rv1858/36/1.json",
-    "sha": "1a9a0a6af2f5679f79295a5a6270d62a468bdc57"
+    "sha": "7f6aeafd9f9f2da4afe7002990a1f53ed0de119c"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonías",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sofonías 2",
     "url": "https://api.getbible.net/v2/rv1858/36/2.json",
-    "sha": "07a5d8ce85b75bba598ac402c22ac4981e4d66fd"
+    "sha": "6dc3fe5c98ad7c2011533a6966afdb7e4e2c86da"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonías",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sofonías 3",
     "url": "https://api.getbible.net/v2/rv1858/36/3.json",
-    "sha": "8ac6479482d8e5580c182bb1653bd0e3d088b94f"
+    "sha": "3e8251743ef1aa6e0917cc3f3f353c5cb335f7e2"
   }
 }

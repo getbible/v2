@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efesolaiskirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/49/1.json",
-    "sha": "edfda68795e1b7c6adac8e97250a38ac1441e49f"
+    "sha": "c6602c9298da15f6e79bf2ffa97b65e6dedc676a"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efesolaiskirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/49/2.json",
-    "sha": "2beb38ca6698a519187d5dd382caffe2d0b887ef"
+    "sha": "00bffef3e51dfb7e4315c00440808336961f929c"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efesolaiskirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/49/3.json",
-    "sha": "c22888c570d7bd13d52bc5a95f9bee0bf3208efd"
+    "sha": "f5f8e92f1b18b81b85793c8cae2f47f2833676e5"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efesolaiskirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/49/4.json",
-    "sha": "c92cadbdb8280c3fe8972317f4454d6baf4775d0"
+    "sha": "3a0ddcfa844fd824c0890df5897cac154242b988"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efesolaiskirje 5",
     "url": "https://api.getbible.net/v2/finnish1776/49/5.json",
-    "sha": "9f1654b79ecd424e3dd354d9652f2b2a2266ce79"
+    "sha": "85200117c046be67a79c24ff8b6fac5c87166002"
   },
   "6": {
     "translation": "Finnish Bible (1776)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efesolaiskirje 6",
     "url": "https://api.getbible.net/v2/finnish1776/49/6.json",
-    "sha": "320b6173b414f4f873f87db094a355bd31d27b39"
+    "sha": "f27bd8a9ff69aafe3839c64487cbd0be3fcc72de"
   }
 }

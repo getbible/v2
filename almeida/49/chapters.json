@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efésios",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efésios 1",
     "url": "https://api.getbible.net/v2/almeida/49/1.json",
-    "sha": "7f98949ffccad637bf10a363b4299938915efdcf"
+    "sha": "459b69ffcbde4efddb1c864d1b7f9676238af239"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efésios",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efésios 2",
     "url": "https://api.getbible.net/v2/almeida/49/2.json",
-    "sha": "fb4d5a28ce62a5e351457078d21cc25db4bfae05"
+    "sha": "1b6bfd929c5a029559cda25bbebd5dcf46ddc7b7"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efésios",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efésios 3",
     "url": "https://api.getbible.net/v2/almeida/49/3.json",
-    "sha": "ad507dcd012b4777e67657af1fdda8397ae447b4"
+    "sha": "6b105123b91c8306ee6a2f8a7603c9de90c93dac"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efésios",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efésios 4",
     "url": "https://api.getbible.net/v2/almeida/49/4.json",
-    "sha": "344d32ef06af7809cee3e16271620620773e942f"
+    "sha": "1f0e5819dacdf9241c86adec3a881f181bae86cb"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efésios",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efésios 5",
     "url": "https://api.getbible.net/v2/almeida/49/5.json",
-    "sha": "843738c7265c1199fd84d5729fc36071d1c5b79d"
+    "sha": "3be17ff66fc7e490e2c6b5d2ca8e09aa24957438"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efésios",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efésios 6",
     "url": "https://api.getbible.net/v2/almeida/49/6.json",
-    "sha": "f11cbe0c26f650bdca18dddb7bf7443a0cd1276d"
+    "sha": "7adbafdf8ca6f84aa507537566ad02bf557720bf"
   }
 }

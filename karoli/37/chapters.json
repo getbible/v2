@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggeus könyve",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Aggeus könyve 1",
     "url": "https://api.getbible.net/v2/karoli/37/1.json",
-    "sha": "b28880abe65fae69ff70ca8d211a79501ebd39a6"
+    "sha": "83c47b3d9c6ad1d5695f8de06e9e73859ebb0cb9"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggeus könyve",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Aggeus könyve 2",
     "url": "https://api.getbible.net/v2/karoli/37/2.json",
-    "sha": "c566b9c76ac18f2a75cbffbdcebc35e4afe38308"
+    "sha": "b6ab47c5ecd13805da55d413d3780104d29a7713"
   }
 }

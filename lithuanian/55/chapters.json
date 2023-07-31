@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotiejui",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timotiejui 1",
     "url": "https://api.getbible.net/v2/lithuanian/55/1.json",
-    "sha": "9f3eda6457032bbbf5a49af61cc25f88ef0f6120"
+    "sha": "23888a12e00a9e55685a94b09c57ac6d1c354da4"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotiejui",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timotiejui 2",
     "url": "https://api.getbible.net/v2/lithuanian/55/2.json",
-    "sha": "88951310a1e7ea216362a8d52ca316bad8c918db"
+    "sha": "3d99d22175a86a5857a16fe66f4715c5c50af937"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotiejui",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timotiejui 3",
     "url": "https://api.getbible.net/v2/lithuanian/55/3.json",
-    "sha": "839aab9c3cfd13526c161aefcd74054925989c96"
+    "sha": "d9d3dcaf7a4a336cbd303e6c89668792da3f92d9"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotiejui",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timotiejui 4",
     "url": "https://api.getbible.net/v2/lithuanian/55/4.json",
-    "sha": "27717fe0249f0e6b391e3fc1b5e4fde248a0acb8"
+    "sha": "a63b40241c3fa57f74bd78bde33965097fc1e3ae"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 تسالونيكي",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 تسالونيكي 1",
     "url": "https://api.getbible.net/v2/arabicsv/53/1.json",
-    "sha": "c19905f0f16bc9244ce4d6ea69457458646e362f"
+    "sha": "a760fa9175dce5788bd8b91f1fdfe4351b0412ab"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 تسالونيكي",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 تسالونيكي 2",
     "url": "https://api.getbible.net/v2/arabicsv/53/2.json",
-    "sha": "98864ecc261169f07a3bc48a5b210b12aeacb0a9"
+    "sha": "7447704d1a704561c6fb5f558589af995e876a70"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,10 +35,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 تسالونيكي",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 تسالونيكي 3",
     "url": "https://api.getbible.net/v2/arabicsv/53/3.json",
-    "sha": "018497fd7af4b1333fea193ddc6893f03f1a1142"
+    "sha": "48c671ff48cf8e10e5209bc5bcbc31bd7e5c0ff7"
   }
 }

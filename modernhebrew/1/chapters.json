@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 1,
-    "name": "Genesis 1",
+    "name": "בְּרֵאשִׁית 1",
     "url": "https://api.getbible.net/v2/modernhebrew/1/1.json",
-    "sha": "e5620b2351f8e962228bcaaf5f496f9a4d1963aa"
+    "sha": "59405386cdfe209bc8e8ed7db8f93cb617bbd5ca"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 2,
-    "name": "Genesis 2",
+    "name": "בְּרֵאשִׁית 2",
     "url": "https://api.getbible.net/v2/modernhebrew/1/2.json",
-    "sha": "991f4acb4ca7d72df6c275b85405a253785a7cd8"
+    "sha": "86495ef7d8cdd249d9800daea06ecf8331d47d85"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 3,
-    "name": "Genesis 3",
+    "name": "בְּרֵאשִׁית 3",
     "url": "https://api.getbible.net/v2/modernhebrew/1/3.json",
-    "sha": "c7a6abf85a5bfd9498f0ad65fb8259ab7bbd701a"
+    "sha": "f1748c9c3887e3c01c787406d7ead3a4c281a4dc"
   },
   "4": {
     "translation": "Hebrew Modern",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 4,
-    "name": "Genesis 4",
+    "name": "בְּרֵאשִׁית 4",
     "url": "https://api.getbible.net/v2/modernhebrew/1/4.json",
-    "sha": "eea86931b6ef126f7f06a6ee7189e1554151f02c"
+    "sha": "3747bef00ac258ee2e0a8ea1abbcfbafa7616e90"
   },
   "5": {
     "translation": "Hebrew Modern",
@@ -63,11 +63,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 5,
-    "name": "Genesis 5",
+    "name": "בְּרֵאשִׁית 5",
     "url": "https://api.getbible.net/v2/modernhebrew/1/5.json",
-    "sha": "a40c5b961c574e36017e971e3656fe3256c0aa01"
+    "sha": "aa1baba908ee01d69046c368eecbc78d4ed75bcd"
   },
   "6": {
     "translation": "Hebrew Modern",
@@ -77,11 +77,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 6,
-    "name": "Genesis 6",
+    "name": "בְּרֵאשִׁית 6",
     "url": "https://api.getbible.net/v2/modernhebrew/1/6.json",
-    "sha": "06c1558661cb6fdff529fa7a66354076c608ae9e"
+    "sha": "f47526feb9bc3169bf03a8a10324fd33b7e13121"
   },
   "7": {
     "translation": "Hebrew Modern",
@@ -91,11 +91,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 7,
-    "name": "Genesis 7",
+    "name": "בְּרֵאשִׁית 7",
     "url": "https://api.getbible.net/v2/modernhebrew/1/7.json",
-    "sha": "064e8357a846be5bb32aa6560dcb99663b296db3"
+    "sha": "a11bfcd34c34d747596747aeebc798777042e4d1"
   },
   "8": {
     "translation": "Hebrew Modern",
@@ -105,11 +105,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 8,
-    "name": "Genesis 8",
+    "name": "בְּרֵאשִׁית 8",
     "url": "https://api.getbible.net/v2/modernhebrew/1/8.json",
-    "sha": "163554fd63f8410f32e625d5e26a7b860242c26f"
+    "sha": "758d77a1f5a159fcd8ae978476aff18f04d04a51"
   },
   "9": {
     "translation": "Hebrew Modern",
@@ -119,11 +119,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 9,
-    "name": "Genesis 9",
+    "name": "בְּרֵאשִׁית 9",
     "url": "https://api.getbible.net/v2/modernhebrew/1/9.json",
-    "sha": "5fb2a4f2dd31fbb708e0ba5a21a478add78efffd"
+    "sha": "ca747d8d38306bcf849cebb452bfd72a94d162b2"
   },
   "10": {
     "translation": "Hebrew Modern",
@@ -133,11 +133,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 10,
-    "name": "Genesis 10",
+    "name": "בְּרֵאשִׁית 10",
     "url": "https://api.getbible.net/v2/modernhebrew/1/10.json",
-    "sha": "5f13389744917531e1ac59507f7b7ba7439b1294"
+    "sha": "ad76fe249fcdf5d9a3a43e384f80e8cc468a7320"
   },
   "11": {
     "translation": "Hebrew Modern",
@@ -147,11 +147,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 11,
-    "name": "Genesis 11",
+    "name": "בְּרֵאשִׁית 11",
     "url": "https://api.getbible.net/v2/modernhebrew/1/11.json",
-    "sha": "852ad3a666668f4a065ba259d872a595a147ae5a"
+    "sha": "bbe0f4a57f616e96d01c76ed81a6a9085aaf898f"
   },
   "12": {
     "translation": "Hebrew Modern",
@@ -161,11 +161,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 12,
-    "name": "Genesis 12",
+    "name": "בְּרֵאשִׁית 12",
     "url": "https://api.getbible.net/v2/modernhebrew/1/12.json",
-    "sha": "98ce574eac2f04b1f36420b57d31377487974d28"
+    "sha": "2d7d7823306a939820ab17ded0a77d5a1b3f5509"
   },
   "13": {
     "translation": "Hebrew Modern",
@@ -175,11 +175,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 13,
-    "name": "Genesis 13",
+    "name": "בְּרֵאשִׁית 13",
     "url": "https://api.getbible.net/v2/modernhebrew/1/13.json",
-    "sha": "a48bcdad69533aab6f1b2dc2d781be9f6bd5e81b"
+    "sha": "0099b0d295900ea7bc645032cf2f6e2a27528d96"
   },
   "14": {
     "translation": "Hebrew Modern",
@@ -189,11 +189,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 14,
-    "name": "Genesis 14",
+    "name": "בְּרֵאשִׁית 14",
     "url": "https://api.getbible.net/v2/modernhebrew/1/14.json",
-    "sha": "1439daacb33145f487eac02a95c71d7f4564897e"
+    "sha": "f916233e84b5634040ece544274c47ba5572af92"
   },
   "15": {
     "translation": "Hebrew Modern",
@@ -203,11 +203,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 15,
-    "name": "Genesis 15",
+    "name": "בְּרֵאשִׁית 15",
     "url": "https://api.getbible.net/v2/modernhebrew/1/15.json",
-    "sha": "2f76ef2813d62d83bf6ab28171b0759073263ca7"
+    "sha": "642ef9ee2f89eebb19bb9061652b9cf575827039"
   },
   "16": {
     "translation": "Hebrew Modern",
@@ -217,11 +217,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 16,
-    "name": "Genesis 16",
+    "name": "בְּרֵאשִׁית 16",
     "url": "https://api.getbible.net/v2/modernhebrew/1/16.json",
-    "sha": "806d68fcc86037531d2596a853ffdbf70dbc1d18"
+    "sha": "d28329b2811f293b6ba411d45bdf89bb49eb418e"
   },
   "17": {
     "translation": "Hebrew Modern",
@@ -231,11 +231,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 17,
-    "name": "Genesis 17",
+    "name": "בְּרֵאשִׁית 17",
     "url": "https://api.getbible.net/v2/modernhebrew/1/17.json",
-    "sha": "57ec2584a679dbbb0fe7711ab4243bb9608434bd"
+    "sha": "219998496b1a7821b7c3dfbfeb2083c4d56ae635"
   },
   "18": {
     "translation": "Hebrew Modern",
@@ -245,11 +245,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 18,
-    "name": "Genesis 18",
+    "name": "בְּרֵאשִׁית 18",
     "url": "https://api.getbible.net/v2/modernhebrew/1/18.json",
-    "sha": "c0e9a092b892be955d3633d09bd6427b6840b1ea"
+    "sha": "cd790094d784ae48db8b5063e3c3a03422d3f241"
   },
   "19": {
     "translation": "Hebrew Modern",
@@ -259,11 +259,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 19,
-    "name": "Genesis 19",
+    "name": "בְּרֵאשִׁית 19",
     "url": "https://api.getbible.net/v2/modernhebrew/1/19.json",
-    "sha": "7053c8b4f3424019495cf31f6cb2a470496c2902"
+    "sha": "3b469900c00d42f2b1b85c6a906de9301799c170"
   },
   "20": {
     "translation": "Hebrew Modern",
@@ -273,11 +273,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 20,
-    "name": "Genesis 20",
+    "name": "בְּרֵאשִׁית 20",
     "url": "https://api.getbible.net/v2/modernhebrew/1/20.json",
-    "sha": "65065a26a514e63fd67a8a1d78adce137eb7c55a"
+    "sha": "0e0b27dd79a25f951cd5320e55de37698af8b956"
   },
   "21": {
     "translation": "Hebrew Modern",
@@ -287,11 +287,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 21,
-    "name": "Genesis 21",
+    "name": "בְּרֵאשִׁית 21",
     "url": "https://api.getbible.net/v2/modernhebrew/1/21.json",
-    "sha": "f7c82eb4873a190234a6617bdc1da1af367fe4ad"
+    "sha": "1c86fef8a4edc1feabdc58b3a4601ee692269e62"
   },
   "22": {
     "translation": "Hebrew Modern",
@@ -301,11 +301,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 22,
-    "name": "Genesis 22",
+    "name": "בְּרֵאשִׁית 22",
     "url": "https://api.getbible.net/v2/modernhebrew/1/22.json",
-    "sha": "96941d230fb027e42877307974f2f0bd8a96a679"
+    "sha": "88b7ab478d2bd41684657ec8ba33cbda4ef43b53"
   },
   "23": {
     "translation": "Hebrew Modern",
@@ -315,11 +315,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 23,
-    "name": "Genesis 23",
+    "name": "בְּרֵאשִׁית 23",
     "url": "https://api.getbible.net/v2/modernhebrew/1/23.json",
-    "sha": "e2d64697d4e86c51cf6b834cb88ddbbb10e2c26f"
+    "sha": "147d7b6d83217e6e153d64df0b62a9494de8cb27"
   },
   "24": {
     "translation": "Hebrew Modern",
@@ -329,11 +329,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 24,
-    "name": "Genesis 24",
+    "name": "בְּרֵאשִׁית 24",
     "url": "https://api.getbible.net/v2/modernhebrew/1/24.json",
-    "sha": "5d66b6d18565e57f62f501c919b64818bf9994be"
+    "sha": "723e0e5a98d963333b5d0abe42ebdb3b9449e856"
   },
   "25": {
     "translation": "Hebrew Modern",
@@ -343,11 +343,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 25,
-    "name": "Genesis 25",
+    "name": "בְּרֵאשִׁית 25",
     "url": "https://api.getbible.net/v2/modernhebrew/1/25.json",
-    "sha": "e0393ff4a57f59e3ee5468b34e8cb52c8fa3b25e"
+    "sha": "8c1a5f4c6a629cba64634e7abee4ca0ea96d3ad6"
   },
   "26": {
     "translation": "Hebrew Modern",
@@ -357,11 +357,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 26,
-    "name": "Genesis 26",
+    "name": "בְּרֵאשִׁית 26",
     "url": "https://api.getbible.net/v2/modernhebrew/1/26.json",
-    "sha": "9dfc7df67d1a814b4ba52b32ca2140656c540661"
+    "sha": "53f00d2dc84f9aceab3fe2484aa7973c6581cf79"
   },
   "27": {
     "translation": "Hebrew Modern",
@@ -371,11 +371,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 27,
-    "name": "Genesis 27",
+    "name": "בְּרֵאשִׁית 27",
     "url": "https://api.getbible.net/v2/modernhebrew/1/27.json",
-    "sha": "c7adfbe477690677a2c8390e31aca1d09f2ccc20"
+    "sha": "c88d320fc06925f70e132c8ccc458897f50f31cb"
   },
   "28": {
     "translation": "Hebrew Modern",
@@ -385,11 +385,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 28,
-    "name": "Genesis 28",
+    "name": "בְּרֵאשִׁית 28",
     "url": "https://api.getbible.net/v2/modernhebrew/1/28.json",
-    "sha": "5efa5a21f41809bff6560f448abf7a0f8718e9f2"
+    "sha": "e36ce5d4541bf626a0fb80fed2dcc45f7776c17b"
   },
   "29": {
     "translation": "Hebrew Modern",
@@ -399,11 +399,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 29,
-    "name": "Genesis 29",
+    "name": "בְּרֵאשִׁית 29",
     "url": "https://api.getbible.net/v2/modernhebrew/1/29.json",
-    "sha": "93c0f24f91bc0a664aede3565b10a488a4310bfa"
+    "sha": "f544e8c8dcced78c2622be212624da3b21247c83"
   },
   "30": {
     "translation": "Hebrew Modern",
@@ -413,11 +413,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 30,
-    "name": "Genesis 30",
+    "name": "בְּרֵאשִׁית 30",
     "url": "https://api.getbible.net/v2/modernhebrew/1/30.json",
-    "sha": "c88785bb97b706283f5b4bb5aed0e688972bf383"
+    "sha": "ef65302c0d9de14e6c2a476e7e85f6d0a6efbb55"
   },
   "31": {
     "translation": "Hebrew Modern",
@@ -427,11 +427,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 31,
-    "name": "Genesis 31",
+    "name": "בְּרֵאשִׁית 31",
     "url": "https://api.getbible.net/v2/modernhebrew/1/31.json",
-    "sha": "99015a3567bb765961c47a63207778f03ddf938a"
+    "sha": "51e36a6b22350a89fbf7b6095dae1f249f0755a3"
   },
   "32": {
     "translation": "Hebrew Modern",
@@ -441,11 +441,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 32,
-    "name": "Genesis 32",
+    "name": "בְּרֵאשִׁית 32",
     "url": "https://api.getbible.net/v2/modernhebrew/1/32.json",
-    "sha": "0cc4b6fea4b00723c03dc2b3a110263b783cd4a8"
+    "sha": "c818cff9b6b77ba5b45676b5d19dc8f2485361a0"
   },
   "33": {
     "translation": "Hebrew Modern",
@@ -455,11 +455,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 33,
-    "name": "Genesis 33",
+    "name": "בְּרֵאשִׁית 33",
     "url": "https://api.getbible.net/v2/modernhebrew/1/33.json",
-    "sha": "442fcf649de9882479aededdd1660f7a796c9182"
+    "sha": "82d86b1317f3c42b65efbfc08725700eb775822b"
   },
   "34": {
     "translation": "Hebrew Modern",
@@ -469,11 +469,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 34,
-    "name": "Genesis 34",
+    "name": "בְּרֵאשִׁית 34",
     "url": "https://api.getbible.net/v2/modernhebrew/1/34.json",
-    "sha": "20604e35f4dfc2111a40191e599df2879b6fd0d1"
+    "sha": "2b98958ed0ab099a39f3c1949ef1fc08dab10237"
   },
   "35": {
     "translation": "Hebrew Modern",
@@ -483,11 +483,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 35,
-    "name": "Genesis 35",
+    "name": "בְּרֵאשִׁית 35",
     "url": "https://api.getbible.net/v2/modernhebrew/1/35.json",
-    "sha": "1e8667d18ab4b0e6e5f849a208d4f86dff9cfff2"
+    "sha": "97d3c298e6866f48503404357dc48f9d18954af6"
   },
   "36": {
     "translation": "Hebrew Modern",
@@ -497,11 +497,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 36,
-    "name": "Genesis 36",
+    "name": "בְּרֵאשִׁית 36",
     "url": "https://api.getbible.net/v2/modernhebrew/1/36.json",
-    "sha": "cd19e9cf8a80200d250af10669c60f1e7f7463ea"
+    "sha": "78db7d6297edc516a84def873cbe02527a137c6f"
   },
   "37": {
     "translation": "Hebrew Modern",
@@ -511,11 +511,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 37,
-    "name": "Genesis 37",
+    "name": "בְּרֵאשִׁית 37",
     "url": "https://api.getbible.net/v2/modernhebrew/1/37.json",
-    "sha": "c9d05960d015239ac44a24b9b06f4268c217de1a"
+    "sha": "9401be625da5f92bc355f9288c753833c25c86f1"
   },
   "38": {
     "translation": "Hebrew Modern",
@@ -525,11 +525,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 38,
-    "name": "Genesis 38",
+    "name": "בְּרֵאשִׁית 38",
     "url": "https://api.getbible.net/v2/modernhebrew/1/38.json",
-    "sha": "6c2814b8c52bef82d594f0bd098fc23525604906"
+    "sha": "a3127d624a9034617144b231ce74c17197aa0b1c"
   },
   "39": {
     "translation": "Hebrew Modern",
@@ -539,11 +539,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 39,
-    "name": "Genesis 39",
+    "name": "בְּרֵאשִׁית 39",
     "url": "https://api.getbible.net/v2/modernhebrew/1/39.json",
-    "sha": "27a21c49dd46da2a7a41e3d17e81cde3578f70d6"
+    "sha": "4bfdcf0e3a83a6d66419154c0a9457476d9ffcc8"
   },
   "40": {
     "translation": "Hebrew Modern",
@@ -553,11 +553,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 40,
-    "name": "Genesis 40",
+    "name": "בְּרֵאשִׁית 40",
     "url": "https://api.getbible.net/v2/modernhebrew/1/40.json",
-    "sha": "4041131936230af740393932f90b926a2401b3f2"
+    "sha": "d878feed58d9fffd142f73390b7fe8ec80f477d8"
   },
   "41": {
     "translation": "Hebrew Modern",
@@ -567,11 +567,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 41,
-    "name": "Genesis 41",
+    "name": "בְּרֵאשִׁית 41",
     "url": "https://api.getbible.net/v2/modernhebrew/1/41.json",
-    "sha": "778274d87541ee53ec807a444b5f1ee66ac7c6c2"
+    "sha": "4d7754e43cd6eb16d74532bc1cb15896fa452950"
   },
   "42": {
     "translation": "Hebrew Modern",
@@ -581,11 +581,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 42,
-    "name": "Genesis 42",
+    "name": "בְּרֵאשִׁית 42",
     "url": "https://api.getbible.net/v2/modernhebrew/1/42.json",
-    "sha": "6484f321bad9b431423321caab4b5a053fcd6bd0"
+    "sha": "d784cf429a1256435d8e6ee542a505318b04d409"
   },
   "43": {
     "translation": "Hebrew Modern",
@@ -595,11 +595,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 43,
-    "name": "Genesis 43",
+    "name": "בְּרֵאשִׁית 43",
     "url": "https://api.getbible.net/v2/modernhebrew/1/43.json",
-    "sha": "dadff3982743655d1369066ebb7cb0eef17bd3e1"
+    "sha": "569f51b6c5cbe11661699f53da274d91eace61fc"
   },
   "44": {
     "translation": "Hebrew Modern",
@@ -609,11 +609,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 44,
-    "name": "Genesis 44",
+    "name": "בְּרֵאשִׁית 44",
     "url": "https://api.getbible.net/v2/modernhebrew/1/44.json",
-    "sha": "985c2b43720394cc2d315dc08dba8743597be5b6"
+    "sha": "7ce3d52f461f3ee46f43efbe59eb047fd9d939b8"
   },
   "45": {
     "translation": "Hebrew Modern",
@@ -623,11 +623,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 45,
-    "name": "Genesis 45",
+    "name": "בְּרֵאשִׁית 45",
     "url": "https://api.getbible.net/v2/modernhebrew/1/45.json",
-    "sha": "63a816932cde2dcc69fec006c3e3fffc948a0810"
+    "sha": "0028417e242d6f3674fb988dc2a17bcad9379448"
   },
   "46": {
     "translation": "Hebrew Modern",
@@ -637,11 +637,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 46,
-    "name": "Genesis 46",
+    "name": "בְּרֵאשִׁית 46",
     "url": "https://api.getbible.net/v2/modernhebrew/1/46.json",
-    "sha": "3d35d420e462ce447a1c7cc478981a91783fda55"
+    "sha": "6746848a7db28da8a9fa940fb5442de32e9a6b2f"
   },
   "47": {
     "translation": "Hebrew Modern",
@@ -651,11 +651,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 47,
-    "name": "Genesis 47",
+    "name": "בְּרֵאשִׁית 47",
     "url": "https://api.getbible.net/v2/modernhebrew/1/47.json",
-    "sha": "f17763f2aa4dccd2a1534909ea0aec8222a303a6"
+    "sha": "0e7aa22ad8c800d827a80981e011c9882a45404f"
   },
   "48": {
     "translation": "Hebrew Modern",
@@ -665,11 +665,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 48,
-    "name": "Genesis 48",
+    "name": "בְּרֵאשִׁית 48",
     "url": "https://api.getbible.net/v2/modernhebrew/1/48.json",
-    "sha": "215ddbde069a9d7bac09bd8c1f6cc051399e74e2"
+    "sha": "acc34fdfb65b1eec12f07e423058ba4a90760f1d"
   },
   "49": {
     "translation": "Hebrew Modern",
@@ -679,11 +679,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 49,
-    "name": "Genesis 49",
+    "name": "בְּרֵאשִׁית 49",
     "url": "https://api.getbible.net/v2/modernhebrew/1/49.json",
-    "sha": "5d91161c9b50dafd7293da3df292bcdbd4ec0948"
+    "sha": "94064668e7f935626515be24d0b015f1da90a965"
   },
   "50": {
     "translation": "Hebrew Modern",
@@ -693,10 +693,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "בְּרֵאשִׁית",
     "chapter": 50,
-    "name": "Genesis 50",
+    "name": "בְּרֵאשִׁית 50",
     "url": "https://api.getbible.net/v2/modernhebrew/1/50.json",
-    "sha": "047564bbd85a0c4801f280cccbffdd72d9a40e11"
+    "sha": "612aa067053f3fd9dff218b2127a9744369405a0"
   }
 }

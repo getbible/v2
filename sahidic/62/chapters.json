@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ⲓⲱⲁⲛⲛⲏⲥ",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Ⲓⲱⲁⲛⲛⲏⲥ 1",
     "url": "https://api.getbible.net/v2/sahidic/62/1.json",
-    "sha": "3213e4b5a3760e571141fe99428e22018fd794e2"
+    "sha": "e753d453e7ac708909dae9c1e3d1a7365e8f2d63"
   },
   "2": {
     "translation": "Sahidic NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ⲓⲱⲁⲛⲛⲏⲥ",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Ⲓⲱⲁⲛⲛⲏⲥ 2",
     "url": "https://api.getbible.net/v2/sahidic/62/2.json",
-    "sha": "9cc5a580aad9925eb4c351c9b0d64bacb2a965d2"
+    "sha": "2b67a8937d39bf4c1a75ad37ece7587ea4ff6e40"
   },
   "3": {
     "translation": "Sahidic NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ⲓⲱⲁⲛⲛⲏⲥ",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Ⲓⲱⲁⲛⲛⲏⲥ 3",
     "url": "https://api.getbible.net/v2/sahidic/62/3.json",
-    "sha": "f259033c4cd1295cb99b2417f41b292456dcf0be"
+    "sha": "9d4577b6379c35806e245eaae861f21245c06279"
   },
   "4": {
     "translation": "Sahidic NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ⲓⲱⲁⲛⲛⲏⲥ",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Ⲓⲱⲁⲛⲛⲏⲥ 4",
     "url": "https://api.getbible.net/v2/sahidic/62/4.json",
-    "sha": "16a71d645787e913baa954a0db9746959967987d"
+    "sha": "91d6edf6e1e0ff8cc81f8aadbb0bcb6bac73ea10"
   },
   "5": {
     "translation": "Sahidic NT",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ⲓⲱⲁⲛⲛⲏⲥ",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Ⲓⲱⲁⲛⲛⲏⲥ 5",
     "url": "https://api.getbible.net/v2/sahidic/62/5.json",
-    "sha": "1732fc86311ebd6693e427433316eaf2ff3d3136"
+    "sha": "0e8a07fd8e46f4c1ffa3e73508bc5dd40f16a9dd"
   }
 }

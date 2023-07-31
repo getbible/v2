@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 1,
-    "name": "Esther 1",
+    "name": "Ester 1",
     "url": "https://api.getbible.net/v2/turkish/17/1.json",
-    "sha": "7d8559ee4a308774a0bd93092f2e780fafe4c544"
+    "sha": "75eba5b52a5f02a837b03441cdcf135d9c07d422"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 2,
-    "name": "Esther 2",
+    "name": "Ester 2",
     "url": "https://api.getbible.net/v2/turkish/17/2.json",
-    "sha": "4ba50dfc1d225f2dd0baf08e47582ce0f56962df"
+    "sha": "c22afd3640c756fc6747faa103f0d4763aeb4ae3"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 3,
-    "name": "Esther 3",
+    "name": "Ester 3",
     "url": "https://api.getbible.net/v2/turkish/17/3.json",
-    "sha": "e05d55bd5fc4acfb5e93bc6b7075815e7ea149c1"
+    "sha": "d58e15d0bda11cd2574fecb0591e22cd97f56d40"
   },
   "4": {
     "translation": "Turkish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 4,
-    "name": "Esther 4",
+    "name": "Ester 4",
     "url": "https://api.getbible.net/v2/turkish/17/4.json",
-    "sha": "1c8af96af47d17dafdbd350fb31508898281d9ca"
+    "sha": "ebbdc0d576e36d8fa714379cf1cacd90c239bb61"
   },
   "5": {
     "translation": "Turkish",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 5,
-    "name": "Esther 5",
+    "name": "Ester 5",
     "url": "https://api.getbible.net/v2/turkish/17/5.json",
-    "sha": "d6c45eb6d067ed668a5044f6c8e2ba47f2fc8eca"
+    "sha": "a55895158cdec4d75597472773a4c103aed79b67"
   },
   "6": {
     "translation": "Turkish",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 6,
-    "name": "Esther 6",
+    "name": "Ester 6",
     "url": "https://api.getbible.net/v2/turkish/17/6.json",
-    "sha": "7239a4216197cfd69b4d0c07e596823c41789a33"
+    "sha": "49d823eb880ce4c665dbddd76929a25d515ca31e"
   },
   "7": {
     "translation": "Turkish",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 7,
-    "name": "Esther 7",
+    "name": "Ester 7",
     "url": "https://api.getbible.net/v2/turkish/17/7.json",
-    "sha": "c14207c00d21809bdbeadd30c29587676cb58414"
+    "sha": "d9a87ef8e341f06e39043d16dab9d985a7aae614"
   },
   "8": {
     "translation": "Turkish",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 8,
-    "name": "Esther 8",
+    "name": "Ester 8",
     "url": "https://api.getbible.net/v2/turkish/17/8.json",
-    "sha": "129dac54c8bc86ac64e375e447bb2b6f96d76941"
+    "sha": "617fcff0f06324e24a058865c4f977e3d655e705"
   },
   "9": {
     "translation": "Turkish",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 9,
-    "name": "Esther 9",
+    "name": "Ester 9",
     "url": "https://api.getbible.net/v2/turkish/17/9.json",
-    "sha": "c390e82fc8902c068130db44bfc3b20e182b8c86"
+    "sha": "c5aadf0f20eb0516a028f5ee3e5156231aa942e1"
   },
   "10": {
     "translation": "Turkish",
@@ -133,10 +133,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 17,
-    "book_name": "Esther",
+    "book_name": "Ester",
     "chapter": 10,
-    "name": "Esther 10",
+    "name": "Ester 10",
     "url": "https://api.getbible.net/v2/turkish/17/10.json",
-    "sha": "178645c4b76472694a0dc86f29efea003447dd88"
+    "sha": "70817ed4b57a6d7f6539efd3e7bbbd2bf06db7fc"
   }
 }

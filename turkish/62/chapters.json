@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yuhanna",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Yuhanna 1",
     "url": "https://api.getbible.net/v2/turkish/62/1.json",
-    "sha": "55a27c43a28a0d0093a550738c34aaeb4ecf9385"
+    "sha": "a1cce8d53498b103cbb9e1dc3ea6385b8abef88d"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yuhanna",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Yuhanna 2",
     "url": "https://api.getbible.net/v2/turkish/62/2.json",
-    "sha": "1c9dc8319ccf6e68fd2e4f980b2c67d61654d187"
+    "sha": "f667ee852a4fc70cde4f650a857fc492755d949f"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yuhanna",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Yuhanna 3",
     "url": "https://api.getbible.net/v2/turkish/62/3.json",
-    "sha": "5511c05da2641c308e79d8b6b888abfafb2d207e"
+    "sha": "0ecc7b19a8bb4f5335d78275cb1060f44640f194"
   },
   "4": {
     "translation": "Turkish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yuhanna",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Yuhanna 4",
     "url": "https://api.getbible.net/v2/turkish/62/4.json",
-    "sha": "49229eaf0d446e75e25efc44effcf448a8f14a30"
+    "sha": "629c533e3dcfb2db09db5e3b8d66d19384d8a6ac"
   },
   "5": {
     "translation": "Turkish",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Yuhanna",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Yuhanna 5",
     "url": "https://api.getbible.net/v2/turkish/62/5.json",
-    "sha": "857d4d23095a4a4ad374c9fdfe6283d55e67c066"
+    "sha": "8466986d0dbddff61a41a3c1e5cfdd689500c0a4"
   }
 }

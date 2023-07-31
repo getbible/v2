@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hagai",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Hagai 1",
     "url": "https://api.getbible.net/v2/croatia/37/1.json",
-    "sha": "b10b149acc957bda21ce4c9a7cf5325d779b3448"
+    "sha": "e6106ce3963c3eea01cf345564cd3f9731e3b26d"
   },
   "2": {
     "translation": "Croatian",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hagai",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Hagai 2",
     "url": "https://api.getbible.net/v2/croatia/37/2.json",
-    "sha": "68a569acdafc1f4789c04864727d733fd993b142"
+    "sha": "2f2002f6508d52861041fcea1bd3e461efd6139d"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Πέτρου Β'",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "Πέτρου Β' 1",
     "url": "https://api.getbible.net/v2/westcotthort/61/1.json",
-    "sha": "321b8f7a210a70815d62d543cc88d170c0d0d16f"
+    "sha": "8ac5799f21a16adc1f617bf435d735639b22f862"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Πέτρου Β'",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "Πέτρου Β' 2",
     "url": "https://api.getbible.net/v2/westcotthort/61/2.json",
-    "sha": "002211e40b6e9672e57c3bd52a2e49bc8ef4fe80"
+    "sha": "82de89df59f5bcedc6aad6527508daacc8fd513f"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "Πέτρου Β'",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "Πέτρου Β' 3",
     "url": "https://api.getbible.net/v2/westcotthort/61/3.json",
-    "sha": "16f9b85a25fbd4d8a3b6e9c3c9713290d93c0ddd"
+    "sha": "8be891738397a29670cf1714bc06c178d0b67259"
   }
 }

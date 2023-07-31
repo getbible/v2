@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Галатам 1",
     "url": "https://api.getbible.net/v2/zhuromsky/48/1.json",
-    "sha": "a9e7d707fe0f58ea60b76fb32bcc47b0c535469d"
+    "sha": "4d15919fbd8a40aa1f08ee7af6bc9d73eaa7992f"
   },
   "2": {
     "translation": "Victor Zhuromsky NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Галатам 2",
     "url": "https://api.getbible.net/v2/zhuromsky/48/2.json",
-    "sha": "cdb1a5264f2c40e06ca5bb305781a69a6fdb92e2"
+    "sha": "b661d3928dc6b57f403e0caa41c5423382305751"
   },
   "3": {
     "translation": "Victor Zhuromsky NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Галатам 3",
     "url": "https://api.getbible.net/v2/zhuromsky/48/3.json",
-    "sha": "56e9637ed8f4d04d7097b1f65480599a544a2b5f"
+    "sha": "81c83382e1c228eccfbc964d1ea99f48be2e704c"
   },
   "4": {
     "translation": "Victor Zhuromsky NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Галатам 4",
     "url": "https://api.getbible.net/v2/zhuromsky/48/4.json",
-    "sha": "ba9f817663a75be3ed59f752001806a17164741c"
+    "sha": "81f47dd2ebff00ebce7e467f08909d447a31efac"
   },
   "5": {
     "translation": "Victor Zhuromsky NT",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Галатам 5",
     "url": "https://api.getbible.net/v2/zhuromsky/48/5.json",
-    "sha": "2d64bde6d8ba43852aeb0de57712bca65a7a3808"
+    "sha": "896ef1d096960035e3a1bb896721793f6af7feb3"
   },
   "6": {
     "translation": "Victor Zhuromsky NT",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Галатам",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Галатам 6",
     "url": "https://api.getbible.net/v2/zhuromsky/48/6.json",
-    "sha": "0941f3658f2f4aaff7277b5f1bbda6d4fd299624"
+    "sha": "ff942cddd504f9811074fbf0bf0c9e4832a1c434"
   }
 }

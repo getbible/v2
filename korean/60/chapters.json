@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "베드로전서",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "베드로전서 1",
     "url": "https://api.getbible.net/v2/korean/60/1.json",
-    "sha": "1c674407bb4e0f185dc054bc90c2c7dbc06e562f"
+    "sha": "82e8b453a7057a0afb32be4e244a80b2ac8317b3"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "베드로전서",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "베드로전서 2",
     "url": "https://api.getbible.net/v2/korean/60/2.json",
-    "sha": "7a687dd6dd87060803750a170c807487f2dc6c6d"
+    "sha": "21f2b527d5c023882d862da679d7629aaa3bb820"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "베드로전서",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "베드로전서 3",
     "url": "https://api.getbible.net/v2/korean/60/3.json",
-    "sha": "83c99f2cf4dbb2382de459449f88aab3971f8cfc"
+    "sha": "7e0161aaea72e7b318ef2f67511bcc883ccf7c40"
   },
   "4": {
     "translation": "Korean",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "베드로전서",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "베드로전서 4",
     "url": "https://api.getbible.net/v2/korean/60/4.json",
-    "sha": "14cf2b2eb8d9e7c099d3485dc28c072d7eec32ae"
+    "sha": "d9ee3bb428f3ebef6d27c9bea4701a40264c1e96"
   },
   "5": {
     "translation": "Korean",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "베드로전서",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "베드로전서 5",
     "url": "https://api.getbible.net/v2/korean/60/5.json",
-    "sha": "f647be2688a70bf67553539dfb22a8ada8e7f1d3"
+    "sha": "b451c7bf19fcc760376d161c0e28100548a13d50"
   }
 }

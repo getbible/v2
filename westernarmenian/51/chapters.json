@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Կողոսացիներին",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Կողոսացիներին 1",
     "url": "https://api.getbible.net/v2/westernarmenian/51/1.json",
-    "sha": "e2621545b93dcb921e2f2ce76fe9a8c36b2c891e"
+    "sha": "3877cd4660f468b946ec3d858adc3d5e03573ffc"
   },
   "2": {
     "translation": "Western NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Կողոսացիներին",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Կողոսացիներին 2",
     "url": "https://api.getbible.net/v2/westernarmenian/51/2.json",
-    "sha": "002f2881207c49b2781255b78452b8c3fff15feb"
+    "sha": "441e80a88f42180df87917d0cc6d4b265c4497eb"
   },
   "3": {
     "translation": "Western NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Կողոսացիներին",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Կողոսացիներին 3",
     "url": "https://api.getbible.net/v2/westernarmenian/51/3.json",
-    "sha": "6f941110709061b05c48f483c4db91d0f9f57ac3"
+    "sha": "6e3770f435be02d58ee9479f735454dcc3cbb4d4"
   },
   "4": {
     "translation": "Western NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Կողոսացիներին",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Կողոսացիներին 4",
     "url": "https://api.getbible.net/v2/westernarmenian/51/4.json",
-    "sha": "1dc1500376f1163cfb6ee501c67e2938225d4cab"
+    "sha": "f6bfe98cf06ccc27128664c14bc944193bb78bd6"
   }
 }

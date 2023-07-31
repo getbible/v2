@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 1,
-    "name": "Genesis 1",
+    "name": "Genèse 1",
     "url": "https://api.getbible.net/v2/darby/1/1.json",
-    "sha": "aa17b4a14a8d2ea6a462431192c6f013abbc90ac"
+    "sha": "d25f52205dc11b5ce8668d12d297814eb2319a26"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 2,
-    "name": "Genesis 2",
+    "name": "Genèse 2",
     "url": "https://api.getbible.net/v2/darby/1/2.json",
-    "sha": "ecb44d4cab7b0b328e8dbba34aa26ae86758ca1b"
+    "sha": "4ef32bd0f168448f39cb99bd91c88c200a74e80e"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 3,
-    "name": "Genesis 3",
+    "name": "Genèse 3",
     "url": "https://api.getbible.net/v2/darby/1/3.json",
-    "sha": "9e91a312f44220a1e43f3f3c247b17a7d4297078"
+    "sha": "ecafcc080c77e06f4abac6054cf8603666cd0365"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 4,
-    "name": "Genesis 4",
+    "name": "Genèse 4",
     "url": "https://api.getbible.net/v2/darby/1/4.json",
-    "sha": "939235694881dc832b9a9e7ac4b30e1d9b233cf4"
+    "sha": "e20482b6f0b7b77fe783338308cda5bbe2ef7b0e"
   },
   "5": {
     "translation": "Darby",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 5,
-    "name": "Genesis 5",
+    "name": "Genèse 5",
     "url": "https://api.getbible.net/v2/darby/1/5.json",
-    "sha": "3ddce9b7cbd62b6138c0a81808333cf6e7fb8f39"
+    "sha": "a1c36ab5a748611079088b48821aa2673be57b6b"
   },
   "6": {
     "translation": "Darby",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 6,
-    "name": "Genesis 6",
+    "name": "Genèse 6",
     "url": "https://api.getbible.net/v2/darby/1/6.json",
-    "sha": "1de5eacd1c802deee86d15d522519c2d3c64d679"
+    "sha": "49db761c84118dad8a055fa93ae1cb97bbc73a02"
   },
   "7": {
     "translation": "Darby",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 7,
-    "name": "Genesis 7",
+    "name": "Genèse 7",
     "url": "https://api.getbible.net/v2/darby/1/7.json",
-    "sha": "b7b7cd53983f413cf9c1c83b50773794092f4834"
+    "sha": "4f3828002aa89075d984fa61635ea73cf6a6fb8f"
   },
   "8": {
     "translation": "Darby",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 8,
-    "name": "Genesis 8",
+    "name": "Genèse 8",
     "url": "https://api.getbible.net/v2/darby/1/8.json",
-    "sha": "e6bb314778cedacf4f1f5f63ce9f7a6b9bac150a"
+    "sha": "017a1757c8ec12d8286b6352b803999ef046c678"
   },
   "9": {
     "translation": "Darby",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 9,
-    "name": "Genesis 9",
+    "name": "Genèse 9",
     "url": "https://api.getbible.net/v2/darby/1/9.json",
-    "sha": "f4efaedfdf5400335dc4583507df0e61ca5b490b"
+    "sha": "b8dd9cbe8a2656f415ddb201dff98accf1e49ef9"
   },
   "10": {
     "translation": "Darby",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 10,
-    "name": "Genesis 10",
+    "name": "Genèse 10",
     "url": "https://api.getbible.net/v2/darby/1/10.json",
-    "sha": "d273e741b1f19e6c6abd14b0e447b0e19603bc30"
+    "sha": "be1b4380abf627e346bd3c40a988535671f0b9ca"
   },
   "11": {
     "translation": "Darby",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 11,
-    "name": "Genesis 11",
+    "name": "Genèse 11",
     "url": "https://api.getbible.net/v2/darby/1/11.json",
-    "sha": "f244abe20536aad72f7b0a55812e0d9d2771badc"
+    "sha": "bf46dc77ff6d376a661ca6d2ede43ca0dd85a403"
   },
   "12": {
     "translation": "Darby",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 12,
-    "name": "Genesis 12",
+    "name": "Genèse 12",
     "url": "https://api.getbible.net/v2/darby/1/12.json",
-    "sha": "d083ee696f3bd127de2bf0562ce2d8bc17f86b7a"
+    "sha": "ccf90ab943b489ff819b56f915fdadcae7b404f2"
   },
   "13": {
     "translation": "Darby",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 13,
-    "name": "Genesis 13",
+    "name": "Genèse 13",
     "url": "https://api.getbible.net/v2/darby/1/13.json",
-    "sha": "ad8259e4ed0a4cff62094e318b83258a079d4b40"
+    "sha": "1933f729970feae488f61ed4d786f31c5b570adc"
   },
   "14": {
     "translation": "Darby",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 14,
-    "name": "Genesis 14",
+    "name": "Genèse 14",
     "url": "https://api.getbible.net/v2/darby/1/14.json",
-    "sha": "27b603c7514494d6bf02a7e36cdd38d73e1ce98c"
+    "sha": "00d85ce62a075a3b9982d640eaf55ea8bb76e6ea"
   },
   "15": {
     "translation": "Darby",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 15,
-    "name": "Genesis 15",
+    "name": "Genèse 15",
     "url": "https://api.getbible.net/v2/darby/1/15.json",
-    "sha": "1d40d0ba0ebe3b64ab12d80eb7530fde4e04f3b0"
+    "sha": "76f4e179f1b3924f1af871b69ea31b17ca81e5be"
   },
   "16": {
     "translation": "Darby",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 16,
-    "name": "Genesis 16",
+    "name": "Genèse 16",
     "url": "https://api.getbible.net/v2/darby/1/16.json",
-    "sha": "bf022469b2631802e5754120797fde43a03b2367"
+    "sha": "7336b583e879cbe16084bf3a6302b9d14b6a8a10"
   },
   "17": {
     "translation": "Darby",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 17,
-    "name": "Genesis 17",
+    "name": "Genèse 17",
     "url": "https://api.getbible.net/v2/darby/1/17.json",
-    "sha": "50361f54711837ea8ef7fae540f4353aab2a8c82"
+    "sha": "cab98f02a0aeb75263e0d9493cf39602725c7433"
   },
   "18": {
     "translation": "Darby",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 18,
-    "name": "Genesis 18",
+    "name": "Genèse 18",
     "url": "https://api.getbible.net/v2/darby/1/18.json",
-    "sha": "1f51b4490552341cee715fbb408772568c13bf5d"
+    "sha": "423c536a60087ab905e1f543d571023b463d1321"
   },
   "19": {
     "translation": "Darby",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 19,
-    "name": "Genesis 19",
+    "name": "Genèse 19",
     "url": "https://api.getbible.net/v2/darby/1/19.json",
-    "sha": "9ea703e112417e7a71f3a6991e9353fd61d03619"
+    "sha": "baae612b732fddb8ecea52e8c4b760f5b0cbee39"
   },
   "20": {
     "translation": "Darby",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 20,
-    "name": "Genesis 20",
+    "name": "Genèse 20",
     "url": "https://api.getbible.net/v2/darby/1/20.json",
-    "sha": "734f8f6588b47a760f4ef241d7f93d7ceb907281"
+    "sha": "2019106f7adbd194de80d78fe9a0a1c4d353bfab"
   },
   "21": {
     "translation": "Darby",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 21,
-    "name": "Genesis 21",
+    "name": "Genèse 21",
     "url": "https://api.getbible.net/v2/darby/1/21.json",
-    "sha": "a4179f25b1bc21bd1134ed361e3bfed90475109d"
+    "sha": "e05f3478802015fff0cb20b253f2dec7d6c0dca9"
   },
   "22": {
     "translation": "Darby",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 22,
-    "name": "Genesis 22",
+    "name": "Genèse 22",
     "url": "https://api.getbible.net/v2/darby/1/22.json",
-    "sha": "83302d6a61a371e72cb23533576b17e42f98f898"
+    "sha": "235f4a2476a8ba33c1362c2cac35186abd0f8145"
   },
   "23": {
     "translation": "Darby",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 23,
-    "name": "Genesis 23",
+    "name": "Genèse 23",
     "url": "https://api.getbible.net/v2/darby/1/23.json",
-    "sha": "47d071b14700a702812af8db568b82255e3cc86a"
+    "sha": "79a836090dd637a86f72c930acd40ffa5a301d44"
   },
   "24": {
     "translation": "Darby",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 24,
-    "name": "Genesis 24",
+    "name": "Genèse 24",
     "url": "https://api.getbible.net/v2/darby/1/24.json",
-    "sha": "3e5c7022d295caaea7e5ba3149a581c5d74fff63"
+    "sha": "f6b4e37a0993b7d89868fba89d38ffbeb82c317d"
   },
   "25": {
     "translation": "Darby",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 25,
-    "name": "Genesis 25",
+    "name": "Genèse 25",
     "url": "https://api.getbible.net/v2/darby/1/25.json",
-    "sha": "e18b0fecb88f201fa6ce0f36e4f0d04063aebf82"
+    "sha": "fe00f4c01f1b78c47cc8cf40c907021385f4c3cb"
   },
   "26": {
     "translation": "Darby",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 26,
-    "name": "Genesis 26",
+    "name": "Genèse 26",
     "url": "https://api.getbible.net/v2/darby/1/26.json",
-    "sha": "2210a0f4bb95f4021436425abf06f632623739e2"
+    "sha": "4419809470b56f0d411b5b0b5588fce6a05f174e"
   },
   "27": {
     "translation": "Darby",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 27,
-    "name": "Genesis 27",
+    "name": "Genèse 27",
     "url": "https://api.getbible.net/v2/darby/1/27.json",
-    "sha": "f642decd81c3bd5f455810a66ad0db39d8cb0076"
+    "sha": "d7f8817f863fa311b0052a21a39477c9eeb7fac4"
   },
   "28": {
     "translation": "Darby",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 28,
-    "name": "Genesis 28",
+    "name": "Genèse 28",
     "url": "https://api.getbible.net/v2/darby/1/28.json",
-    "sha": "c8e6be30d0ef4d8bb3e2eed3bf602f12892abb07"
+    "sha": "da3bd3adc009eec2db03695f7a0c7826ddce5bb8"
   },
   "29": {
     "translation": "Darby",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 29,
-    "name": "Genesis 29",
+    "name": "Genèse 29",
     "url": "https://api.getbible.net/v2/darby/1/29.json",
-    "sha": "81b59e5d49f3090d681bf3f1f1a13824807ec93a"
+    "sha": "db2334b7c54a858216acd1b05bc020ea2a48fa17"
   },
   "30": {
     "translation": "Darby",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 30,
-    "name": "Genesis 30",
+    "name": "Genèse 30",
     "url": "https://api.getbible.net/v2/darby/1/30.json",
-    "sha": "ff47dc8ece20b285e793096314031c459a802992"
+    "sha": "84061f8735109c5d71c8f8c51397570fd15d9d2f"
   },
   "31": {
     "translation": "Darby",
@@ -427,11 +427,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 31,
-    "name": "Genesis 31",
+    "name": "Genèse 31",
     "url": "https://api.getbible.net/v2/darby/1/31.json",
-    "sha": "38ca3a121d40a5307dd4fcf32a7148122fe517d0"
+    "sha": "bdb351da8279c2f719440135a12d67a0955101f9"
   },
   "32": {
     "translation": "Darby",
@@ -441,11 +441,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 32,
-    "name": "Genesis 32",
+    "name": "Genèse 32",
     "url": "https://api.getbible.net/v2/darby/1/32.json",
-    "sha": "efa1b6e0a7e3feaad971beb4a6509f35c7b59c5b"
+    "sha": "248afea7c1bca34109685673c48e1747a7297509"
   },
   "33": {
     "translation": "Darby",
@@ -455,11 +455,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 33,
-    "name": "Genesis 33",
+    "name": "Genèse 33",
     "url": "https://api.getbible.net/v2/darby/1/33.json",
-    "sha": "56f091d436924eeb392c950274eebb7b57435843"
+    "sha": "3170de0a9807785fa96ca9c5e55e9b62d3e5c861"
   },
   "34": {
     "translation": "Darby",
@@ -469,11 +469,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 34,
-    "name": "Genesis 34",
+    "name": "Genèse 34",
     "url": "https://api.getbible.net/v2/darby/1/34.json",
-    "sha": "784ff1694fb0aebc05da19d246cd4adcb381d898"
+    "sha": "99e66f8794b56e0f65dbc099d3c9e030b22e3504"
   },
   "35": {
     "translation": "Darby",
@@ -483,11 +483,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 35,
-    "name": "Genesis 35",
+    "name": "Genèse 35",
     "url": "https://api.getbible.net/v2/darby/1/35.json",
-    "sha": "bef5fe1b6b14aa85407a90286afd6f071c1b641a"
+    "sha": "258a9d0a7a95d7658ce7d5812b6831d9abc28655"
   },
   "36": {
     "translation": "Darby",
@@ -497,11 +497,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 36,
-    "name": "Genesis 36",
+    "name": "Genèse 36",
     "url": "https://api.getbible.net/v2/darby/1/36.json",
-    "sha": "13144711da7985f252f8d50ef6641875c42358f0"
+    "sha": "65eb3478392291c16c9f9a50f57a3c0b341e6003"
   },
   "37": {
     "translation": "Darby",
@@ -511,11 +511,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 37,
-    "name": "Genesis 37",
+    "name": "Genèse 37",
     "url": "https://api.getbible.net/v2/darby/1/37.json",
-    "sha": "c1a650e61a8aaf65fb9be44b89f025244a47423b"
+    "sha": "b7c376a64d86a2413f1e616cecd186e15e7d6211"
   },
   "38": {
     "translation": "Darby",
@@ -525,11 +525,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 38,
-    "name": "Genesis 38",
+    "name": "Genèse 38",
     "url": "https://api.getbible.net/v2/darby/1/38.json",
-    "sha": "d4e96f45c722a4614f25af8f59a130a6bec9daf5"
+    "sha": "4ec67048823d2fa4d1ad9939f4d56a97ce1a774f"
   },
   "39": {
     "translation": "Darby",
@@ -539,11 +539,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 39,
-    "name": "Genesis 39",
+    "name": "Genèse 39",
     "url": "https://api.getbible.net/v2/darby/1/39.json",
-    "sha": "3023b218fb7a866ac27f11fc49397cd61a681ddd"
+    "sha": "c68596d7b55f9a74a1533b220fdcff7787603321"
   },
   "40": {
     "translation": "Darby",
@@ -553,11 +553,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 40,
-    "name": "Genesis 40",
+    "name": "Genèse 40",
     "url": "https://api.getbible.net/v2/darby/1/40.json",
-    "sha": "c30c5027a8238a4b32319b0203fd88a719c7f9a4"
+    "sha": "73b1f7b37d97b148fbef4c8346d93181c2328069"
   },
   "41": {
     "translation": "Darby",
@@ -567,11 +567,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 41,
-    "name": "Genesis 41",
+    "name": "Genèse 41",
     "url": "https://api.getbible.net/v2/darby/1/41.json",
-    "sha": "f6de61786895462173d9d71ee66e06aa08b05e68"
+    "sha": "d53fd376c3e0cbbfebb79f9a250373525ae7afc7"
   },
   "42": {
     "translation": "Darby",
@@ -581,11 +581,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 42,
-    "name": "Genesis 42",
+    "name": "Genèse 42",
     "url": "https://api.getbible.net/v2/darby/1/42.json",
-    "sha": "2feffa77f5f65b3fef96c0ec21f5301427021fc7"
+    "sha": "6ddf364a650a5ca5bd6b301240f71c544c5a6d98"
   },
   "43": {
     "translation": "Darby",
@@ -595,11 +595,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 43,
-    "name": "Genesis 43",
+    "name": "Genèse 43",
     "url": "https://api.getbible.net/v2/darby/1/43.json",
-    "sha": "eebccb3e972c6b64676951089a0a20f9b325038e"
+    "sha": "b65cec42e89a12e18a85340df2c4c092f89df520"
   },
   "44": {
     "translation": "Darby",
@@ -609,11 +609,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 44,
-    "name": "Genesis 44",
+    "name": "Genèse 44",
     "url": "https://api.getbible.net/v2/darby/1/44.json",
-    "sha": "8b1912bebfcd2401417b803dce85f3b1359bbe74"
+    "sha": "de435cfe0bb5b828591d72b183defb0e18f0234c"
   },
   "45": {
     "translation": "Darby",
@@ -623,11 +623,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 45,
-    "name": "Genesis 45",
+    "name": "Genèse 45",
     "url": "https://api.getbible.net/v2/darby/1/45.json",
-    "sha": "a2d3b6500e32b592130a5b3f3641429bf8fb26f2"
+    "sha": "558b53b7eaf1797e5194ee7a3907267367cd814e"
   },
   "46": {
     "translation": "Darby",
@@ -637,11 +637,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 46,
-    "name": "Genesis 46",
+    "name": "Genèse 46",
     "url": "https://api.getbible.net/v2/darby/1/46.json",
-    "sha": "ad15bd2bbe94a3842aa6d41ff91cfba66ac2eb27"
+    "sha": "fb3141a73ec4052ee2d7563ac2207b0d806769b2"
   },
   "47": {
     "translation": "Darby",
@@ -651,11 +651,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 47,
-    "name": "Genesis 47",
+    "name": "Genèse 47",
     "url": "https://api.getbible.net/v2/darby/1/47.json",
-    "sha": "08b4e77710f28833b37e57678ab9806e640b742c"
+    "sha": "b2a5778a6d115abe2b5278372fbd67ee320a7fc2"
   },
   "48": {
     "translation": "Darby",
@@ -665,11 +665,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 48,
-    "name": "Genesis 48",
+    "name": "Genèse 48",
     "url": "https://api.getbible.net/v2/darby/1/48.json",
-    "sha": "6f7e0646249973d6680335c0468d07dbd467f95c"
+    "sha": "6bed838189d5c05766bb17f2d9edcaa0c2eda7ea"
   },
   "49": {
     "translation": "Darby",
@@ -679,11 +679,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 49,
-    "name": "Genesis 49",
+    "name": "Genèse 49",
     "url": "https://api.getbible.net/v2/darby/1/49.json",
-    "sha": "719e492d14f356536f7733572dd11b94b119fc8b"
+    "sha": "6efab37854cce0d1b20980609ed738d1d1c35609"
   },
   "50": {
     "translation": "Darby",
@@ -693,10 +693,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Genèse",
     "chapter": 50,
-    "name": "Genesis 50",
+    "name": "Genèse 50",
     "url": "https://api.getbible.net/v2/darby/1/50.json",
-    "sha": "711fb3a4954959e428269c730f1dca104fbccb44"
+    "sha": "099aaf0894a978c41d255f359caf8448a30b3265"
   }
 }

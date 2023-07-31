@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Genesis 1",
     "url": "https://api.getbible.net/v2/kjv/1/1.json",
-    "sha": "832b1603d3a0a18389bb5ff55dc3a531e921fe9d"
+    "sha": "52d9b9107942d24b9c77d9fd017d72b2a8f5ce2b"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Genesis 2",
     "url": "https://api.getbible.net/v2/kjv/1/2.json",
-    "sha": "7b65ed138469af03423b72a14fb1eb243bc9e284"
+    "sha": "d05806cc6fb5e5c59992beca15e25c3347168d26"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Genesis 3",
     "url": "https://api.getbible.net/v2/kjv/1/3.json",
-    "sha": "1f423dda98cb3b5e29300313a93cb43761083a11"
+    "sha": "42fe1e4080a7b4b531bc510796e1b67945b0bd20"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Genesis 4",
     "url": "https://api.getbible.net/v2/kjv/1/4.json",
-    "sha": "e6729604546a57fde06c6473ea1797657653db3c"
+    "sha": "122392d75c170458b4ea82759f1678f8ed93c7cf"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Genesis 5",
     "url": "https://api.getbible.net/v2/kjv/1/5.json",
-    "sha": "7224885c3876094bb032afbdaf0656f99c8beb36"
+    "sha": "11cebc6e9162ee54f9f6b7716823a551370cb13e"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Genesis 6",
     "url": "https://api.getbible.net/v2/kjv/1/6.json",
-    "sha": "7660cebd56c48329e03d33b0b2c88f839dd57eae"
+    "sha": "9c1ad240da5c9165b80d7218c0089ecb99051917"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Genesis 7",
     "url": "https://api.getbible.net/v2/kjv/1/7.json",
-    "sha": "86424a8c088d4caeba05c05dd8284284efe85c8d"
+    "sha": "9ac63d9e38cba7ee34fa27758af4330aeb1c01c3"
   },
   "8": {
     "translation": "King James Version",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Genesis 8",
     "url": "https://api.getbible.net/v2/kjv/1/8.json",
-    "sha": "bf6cb9f377f680c73528bf925b85a7094c92ee7e"
+    "sha": "0129d23824cdd8a9169bc3e9c70f731f5b6522d6"
   },
   "9": {
     "translation": "King James Version",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Genesis 9",
     "url": "https://api.getbible.net/v2/kjv/1/9.json",
-    "sha": "004410be6e3b9137466081762eb1a7af6d8159da"
+    "sha": "82368e865893a0db999db104a1f93fd15ddb170c"
   },
   "10": {
     "translation": "King James Version",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Genesis 10",
     "url": "https://api.getbible.net/v2/kjv/1/10.json",
-    "sha": "1e3bb498d03a7d9f49996403e66f88981b8e177a"
+    "sha": "d4bdf6b8cacf808a1a1beb2f593877c52c0f2756"
   },
   "11": {
     "translation": "King James Version",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Genesis 11",
     "url": "https://api.getbible.net/v2/kjv/1/11.json",
-    "sha": "1127585199384a70771a92459828aa5ef7f1bca1"
+    "sha": "488bfd985875a7853b091ddb8fcc1597d639741a"
   },
   "12": {
     "translation": "King James Version",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Genesis 12",
     "url": "https://api.getbible.net/v2/kjv/1/12.json",
-    "sha": "c4354ea7d99303d1ee526ff9a36cbbf6abb078c1"
+    "sha": "71b5c5807797f4313fdb7d8f894c64488308511d"
   },
   "13": {
     "translation": "King James Version",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Genesis 13",
     "url": "https://api.getbible.net/v2/kjv/1/13.json",
-    "sha": "6e69748caf3f5317a595747b2c3b8760d8c62876"
+    "sha": "70a7625301103c9eb9aa10dd8b98f67b9100626a"
   },
   "14": {
     "translation": "King James Version",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Genesis 14",
     "url": "https://api.getbible.net/v2/kjv/1/14.json",
-    "sha": "88a99f7e1dd63b0c2f07e067aeea40ee443b725c"
+    "sha": "ad0f57ecb379a215e129591df1670cf643a93f10"
   },
   "15": {
     "translation": "King James Version",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Genesis 15",
     "url": "https://api.getbible.net/v2/kjv/1/15.json",
-    "sha": "30e3520d904543cfa98d307ae769c017b1aa9c8f"
+    "sha": "be8d384217fc30b6a09204341edf18ba903a6c75"
   },
   "16": {
     "translation": "King James Version",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "Genesis 16",
     "url": "https://api.getbible.net/v2/kjv/1/16.json",
-    "sha": "cf255b3c98161defe0f9c7d091652ead83949ee3"
+    "sha": "f72596d01d24b50d1a64ae8610d86b7b0dac56ad"
   },
   "17": {
     "translation": "King James Version",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Genesis 17",
     "url": "https://api.getbible.net/v2/kjv/1/17.json",
-    "sha": "e1c7d0866678be82fed993562b8d4bbf1ff54362"
+    "sha": "b1fa94bea9bdfda682ac2cdcffae8529bc412264"
   },
   "18": {
     "translation": "King James Version",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Genesis 18",
     "url": "https://api.getbible.net/v2/kjv/1/18.json",
-    "sha": "d0f5120db0e7ff524f5191e8d678343565ce0132"
+    "sha": "d1b6cb34c03da39157e618cb72977e1b31d97b7a"
   },
   "19": {
     "translation": "King James Version",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Genesis 19",
     "url": "https://api.getbible.net/v2/kjv/1/19.json",
-    "sha": "2acd6fad2b6b43ba5a90be3512265fff5112b6f8"
+    "sha": "d52e19a2e15439e64dc9decd22a491fcf6787178"
   },
   "20": {
     "translation": "King James Version",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "Genesis 20",
     "url": "https://api.getbible.net/v2/kjv/1/20.json",
-    "sha": "876be0fa509bc18f532aa10b23d556d0465bae37"
+    "sha": "cec6c22e97851c7536c9e0af579215af155857e1"
   },
   "21": {
     "translation": "King James Version",
@@ -291,7 +291,7 @@
     "chapter": 21,
     "name": "Genesis 21",
     "url": "https://api.getbible.net/v2/kjv/1/21.json",
-    "sha": "e6dbd7063f7aab2492f457623e007fe6b0933396"
+    "sha": "7073e13b74437db9d23ff1dbe91e8953381c97c2"
   },
   "22": {
     "translation": "King James Version",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "Genesis 22",
     "url": "https://api.getbible.net/v2/kjv/1/22.json",
-    "sha": "0ee1678de24f258cac6eb630bfcfb5bfb539a3e3"
+    "sha": "a9c4e6ef0369be1ceed7172dc4e6159b2b6da252"
   },
   "23": {
     "translation": "King James Version",
@@ -319,7 +319,7 @@
     "chapter": 23,
     "name": "Genesis 23",
     "url": "https://api.getbible.net/v2/kjv/1/23.json",
-    "sha": "4ca77835c4d939c0f6078cd59b5398247b738f08"
+    "sha": "12adcb3156fc1b0e951efb5e5c5c7d678ed4ebd7"
   },
   "24": {
     "translation": "King James Version",
@@ -333,7 +333,7 @@
     "chapter": 24,
     "name": "Genesis 24",
     "url": "https://api.getbible.net/v2/kjv/1/24.json",
-    "sha": "ffc720932c0c520a79bc1f60ca6cc3ed8ee64770"
+    "sha": "ea94a7351e0c14dc04abe16bfbf8b539553084f8"
   },
   "25": {
     "translation": "King James Version",
@@ -347,7 +347,7 @@
     "chapter": 25,
     "name": "Genesis 25",
     "url": "https://api.getbible.net/v2/kjv/1/25.json",
-    "sha": "d95efc44e21926c83a07b57d905c8a0ef1691b67"
+    "sha": "de12721a88039b79106efd52114f6830f1b5e6c8"
   },
   "26": {
     "translation": "King James Version",
@@ -361,7 +361,7 @@
     "chapter": 26,
     "name": "Genesis 26",
     "url": "https://api.getbible.net/v2/kjv/1/26.json",
-    "sha": "02e826e207f299bdea51d16698b3b62b6b480d95"
+    "sha": "2067cbe46878d7c2069d9472f2b88aa954b47af9"
   },
   "27": {
     "translation": "King James Version",
@@ -375,7 +375,7 @@
     "chapter": 27,
     "name": "Genesis 27",
     "url": "https://api.getbible.net/v2/kjv/1/27.json",
-    "sha": "f81db2cf1d9165e77612d1ba78d7505947aed3ec"
+    "sha": "5d772d3eca8cf0adce0e1ef103c1c13aab1986c6"
   },
   "28": {
     "translation": "King James Version",
@@ -389,7 +389,7 @@
     "chapter": 28,
     "name": "Genesis 28",
     "url": "https://api.getbible.net/v2/kjv/1/28.json",
-    "sha": "cd366cff7c2a99c5a5c5dca46b69aedf45b4bd27"
+    "sha": "06ee11de925bdf34f862954cb54ba65e9140a995"
   },
   "29": {
     "translation": "King James Version",
@@ -403,7 +403,7 @@
     "chapter": 29,
     "name": "Genesis 29",
     "url": "https://api.getbible.net/v2/kjv/1/29.json",
-    "sha": "dcf59b7e5f27d3c7376cbeb1ced4c2b20af28474"
+    "sha": "2348519b97223a48949d2a632b3476764acfbea1"
   },
   "30": {
     "translation": "King James Version",
@@ -417,7 +417,7 @@
     "chapter": 30,
     "name": "Genesis 30",
     "url": "https://api.getbible.net/v2/kjv/1/30.json",
-    "sha": "f25501e6d7f5810030e0ef7cff6c7572f190476d"
+    "sha": "10521e6fa0f3921dcaaaa23c2d98f42cf9d832ea"
   },
   "31": {
     "translation": "King James Version",
@@ -431,7 +431,7 @@
     "chapter": 31,
     "name": "Genesis 31",
     "url": "https://api.getbible.net/v2/kjv/1/31.json",
-    "sha": "16f0e66c936bdef1270c8c515d7828ebddd8e0ec"
+    "sha": "fa8a240feab62ace6fa39aca6ae28be8c9363e27"
   },
   "32": {
     "translation": "King James Version",
@@ -445,7 +445,7 @@
     "chapter": 32,
     "name": "Genesis 32",
     "url": "https://api.getbible.net/v2/kjv/1/32.json",
-    "sha": "443aef636204203004eb7adb75a73e2486b601b9"
+    "sha": "7455493299c991a89ff943a0972b0b901cc08ead"
   },
   "33": {
     "translation": "King James Version",
@@ -459,7 +459,7 @@
     "chapter": 33,
     "name": "Genesis 33",
     "url": "https://api.getbible.net/v2/kjv/1/33.json",
-    "sha": "5e0d447e223c70242d7006507f87250903770599"
+    "sha": "5d3245ff336a39aae334319131c5646c23449ad6"
   },
   "34": {
     "translation": "King James Version",
@@ -473,7 +473,7 @@
     "chapter": 34,
     "name": "Genesis 34",
     "url": "https://api.getbible.net/v2/kjv/1/34.json",
-    "sha": "38caa5a97fa612617cc093f7c5a75195a5579231"
+    "sha": "98a63a576b61733106a8660ce32bf9938cdb9283"
   },
   "35": {
     "translation": "King James Version",
@@ -487,7 +487,7 @@
     "chapter": 35,
     "name": "Genesis 35",
     "url": "https://api.getbible.net/v2/kjv/1/35.json",
-    "sha": "1ef0fe763018d35120551c330865e6ae99ea4821"
+    "sha": "ad6ef5dbc2617073f381663b855fa143eb787654"
   },
   "36": {
     "translation": "King James Version",
@@ -501,7 +501,7 @@
     "chapter": 36,
     "name": "Genesis 36",
     "url": "https://api.getbible.net/v2/kjv/1/36.json",
-    "sha": "8ceb34967c93ea11d4ad82a451649d85102934e9"
+    "sha": "4c5ef10ab42b095babdfb914f9408cdc8ad9fea7"
   },
   "37": {
     "translation": "King James Version",
@@ -515,7 +515,7 @@
     "chapter": 37,
     "name": "Genesis 37",
     "url": "https://api.getbible.net/v2/kjv/1/37.json",
-    "sha": "fa936df09b9c33e6bad11059d9c81eef86d65bc9"
+    "sha": "7ecaa6056f5fde0a0c5906f359f4611f34f65a4e"
   },
   "38": {
     "translation": "King James Version",
@@ -529,7 +529,7 @@
     "chapter": 38,
     "name": "Genesis 38",
     "url": "https://api.getbible.net/v2/kjv/1/38.json",
-    "sha": "19c5fa6519714a571969d75c0f4565b3b5b00235"
+    "sha": "ceac9ceb79007813e9ebf765f1e1857788086b0e"
   },
   "39": {
     "translation": "King James Version",
@@ -543,7 +543,7 @@
     "chapter": 39,
     "name": "Genesis 39",
     "url": "https://api.getbible.net/v2/kjv/1/39.json",
-    "sha": "bbf282d1f45e76beeeab2d72003a892cdb52e14a"
+    "sha": "82d44221e69686799cb7c606284b885a499f670a"
   },
   "40": {
     "translation": "King James Version",
@@ -557,7 +557,7 @@
     "chapter": 40,
     "name": "Genesis 40",
     "url": "https://api.getbible.net/v2/kjv/1/40.json",
-    "sha": "cbfc064cf64e1ddab1bbc0addd7a4c8428ae2b74"
+    "sha": "9056949f499baaccfd38b0b789ab73df669828d7"
   },
   "41": {
     "translation": "King James Version",
@@ -571,7 +571,7 @@
     "chapter": 41,
     "name": "Genesis 41",
     "url": "https://api.getbible.net/v2/kjv/1/41.json",
-    "sha": "79cce80998cd65737fd7cbcbf337e549d83ee4ef"
+    "sha": "22f9a3fdcefce816746283d4788c09209eacb7da"
   },
   "42": {
     "translation": "King James Version",
@@ -585,7 +585,7 @@
     "chapter": 42,
     "name": "Genesis 42",
     "url": "https://api.getbible.net/v2/kjv/1/42.json",
-    "sha": "7e07928f717c77802d94bac9248dcd09b9c25536"
+    "sha": "bd1de734cbed2b0ee089062394b08afcd23df564"
   },
   "43": {
     "translation": "King James Version",
@@ -599,7 +599,7 @@
     "chapter": 43,
     "name": "Genesis 43",
     "url": "https://api.getbible.net/v2/kjv/1/43.json",
-    "sha": "bdce8cbfe996509c28e2d2761e67dd4c4d02fbf4"
+    "sha": "85c218f8c78350287f58d0533c403e7282d3b57d"
   },
   "44": {
     "translation": "King James Version",
@@ -613,7 +613,7 @@
     "chapter": 44,
     "name": "Genesis 44",
     "url": "https://api.getbible.net/v2/kjv/1/44.json",
-    "sha": "dd7855af58364a8610cfc70f58a087e6c0409289"
+    "sha": "97e69a427d965038d703f5bc6e74fd2c09a312ca"
   },
   "45": {
     "translation": "King James Version",
@@ -627,7 +627,7 @@
     "chapter": 45,
     "name": "Genesis 45",
     "url": "https://api.getbible.net/v2/kjv/1/45.json",
-    "sha": "8213b1e8fb2b73a45ace32674f0e65ec1133a47d"
+    "sha": "92b668b2eea2ad46e69ba512ae8b5b59e8531793"
   },
   "46": {
     "translation": "King James Version",
@@ -641,7 +641,7 @@
     "chapter": 46,
     "name": "Genesis 46",
     "url": "https://api.getbible.net/v2/kjv/1/46.json",
-    "sha": "128b44b891d68beef19fb854f52b4bc38aa412a2"
+    "sha": "7d40d4b583c5149469a0f8e1ccc1adf4dad612cd"
   },
   "47": {
     "translation": "King James Version",
@@ -655,7 +655,7 @@
     "chapter": 47,
     "name": "Genesis 47",
     "url": "https://api.getbible.net/v2/kjv/1/47.json",
-    "sha": "244969af5c7c7e2d7b0ecee180961086d4a1ccb3"
+    "sha": "4aa2d2d377bf40ef43c494f78c95ca897584784e"
   },
   "48": {
     "translation": "King James Version",
@@ -669,7 +669,7 @@
     "chapter": 48,
     "name": "Genesis 48",
     "url": "https://api.getbible.net/v2/kjv/1/48.json",
-    "sha": "c274f92b75ec7e6e88de02458f301ff6636557b5"
+    "sha": "a465a010e87b1f9f2167f7bba877e18018546397"
   },
   "49": {
     "translation": "King James Version",
@@ -683,7 +683,7 @@
     "chapter": 49,
     "name": "Genesis 49",
     "url": "https://api.getbible.net/v2/kjv/1/49.json",
-    "sha": "372a4bfded70eb79defd414c4e2ee3a2e53493c3"
+    "sha": "e233c0f22376d546e8d8c46c04a782a2485e1a5f"
   },
   "50": {
     "translation": "King James Version",
@@ -697,6 +697,6 @@
     "chapter": 50,
     "name": "Genesis 50",
     "url": "https://api.getbible.net/v2/kjv/1/50.json",
-    "sha": "24c21798ff5b3a6b2426a7d8af756cfeb078c0ea"
+    "sha": "926864ef8d5f9506982f44be0ee5e1db813ed406"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteo 1",
     "url": "https://api.getbible.net/v2/valera/55/1.json",
-    "sha": "1df0aa280df8aa383d7a0050703a31c9b32ef42c"
+    "sha": "c37c96bdda9c0c6cfa991fb5eb17b0f2d898040a"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteo 2",
     "url": "https://api.getbible.net/v2/valera/55/2.json",
-    "sha": "7754d9b2cc18da3535bfce3856ff85bed7485580"
+    "sha": "3bcbeca2469c49b566af09cff8e4b492e90b401c"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteo 3",
     "url": "https://api.getbible.net/v2/valera/55/3.json",
-    "sha": "cb517e3d3a75dd33ed030c5b9f7c84a6fb83b163"
+    "sha": "26b22384686797474ae135f1af54874ec22521a0"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteo 4",
     "url": "https://api.getbible.net/v2/valera/55/4.json",
-    "sha": "fb368645e0a1ea0c120546f200ae963195822a2d"
+    "sha": "bce58b7182d98b484bca3f3f4e91e61f079d152e"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Pláč Jeremjášův",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Pláč Jeremjášův 1",
     "url": "https://api.getbible.net/v2/bkr/25/1.json",
-    "sha": "34fae053f39e9decbd981b5de5ad17d74f3a5ab9"
+    "sha": "3d9cbf84fbb000209cae890cbbbb1a83f592db60"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Pláč Jeremjášův",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Pláč Jeremjášův 2",
     "url": "https://api.getbible.net/v2/bkr/25/2.json",
-    "sha": "d53ed354102c114cf9d51bbb0bdf1e4de9cf8097"
+    "sha": "67a93d6f87c72441f325c6b1c63c0b96a3e077f6"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Pláč Jeremjášův",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Pláč Jeremjášův 3",
     "url": "https://api.getbible.net/v2/bkr/25/3.json",
-    "sha": "6056e1e081df4ef0be8974b6680f9ef34a31e773"
+    "sha": "7d752c3289ff7093b371d2fce56dca87476ac926"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Pláč Jeremjášův",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Pláč Jeremjášův 4",
     "url": "https://api.getbible.net/v2/bkr/25/4.json",
-    "sha": "0f7c928a9fcc4373bb992889df5a379bd7d78f8c"
+    "sha": "a6a57d2ee1a0f912eaf8abd21ddbbafa9c1cc9a5"
   },
   "5": {
     "translation": "Czech BKR",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Pláč Jeremjášův",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Pláč Jeremjášův 5",
     "url": "https://api.getbible.net/v2/bkr/25/5.json",
-    "sha": "01d6613ab79ca389f64fd657fc05cc62e8772c78"
+    "sha": "f7cee54001f027a40843d0fc956b54a7d245b4eb"
   }
 }

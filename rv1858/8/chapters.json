@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Rut 1",
     "url": "https://api.getbible.net/v2/rv1858/8/1.json",
-    "sha": "0673ad36667eb0aa08ba9ab9b77d13480af23622"
+    "sha": "74aec9a653738361ff3ceaf01cb14ce54a0b54c4"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Rut 2",
     "url": "https://api.getbible.net/v2/rv1858/8/2.json",
-    "sha": "3bcbeef8c8866f8fc019b2ce8f590b228ee646c8"
+    "sha": "db886c0506218b6182d8dd1cc23e273b366ef900"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Rut 3",
     "url": "https://api.getbible.net/v2/rv1858/8/3.json",
-    "sha": "91e31056e7a057226c85ada2587373f8966f9878"
+    "sha": "59743b55b05fcc631ddcf62bdd7786dbb7ed9626"
   },
   "4": {
     "translation": "Reina Valera NT (1858)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Rut 4",
     "url": "https://api.getbible.net/v2/rv1858/8/4.json",
-    "sha": "5a2c676d69d16cee0332129f2b98f98bf63deb63"
+    "sha": "8c9a3983bb9dfbc839a85b0aadab52388a186153"
   }
 }

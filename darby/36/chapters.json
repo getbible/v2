@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sophonie 1",
     "url": "https://api.getbible.net/v2/darby/36/1.json",
-    "sha": "c3e19569b91b9acd2ceefab25f1139dff8f29918"
+    "sha": "7cfff2e9489872321f48726eae7fcf2d77aa01ab"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sophonie 2",
     "url": "https://api.getbible.net/v2/darby/36/2.json",
-    "sha": "8146b00b61dac6c0d5d5c4b138f3cf9c60190adf"
+    "sha": "512f6ade89f15cafd58c40742af9af71a9bf6852"
   },
   "3": {
     "translation": "Darby",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sophonie 3",
     "url": "https://api.getbible.net/v2/darby/36/3.json",
-    "sha": "d670f11890d629aff684de3ead6bd42affad6650"
+    "sha": "7fbefe12ac7f26cccf4f3ecd19fade8447414179"
   }
 }

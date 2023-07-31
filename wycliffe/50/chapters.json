@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Philippians 1",
     "url": "https://api.getbible.net/v2/wycliffe/50/1.json",
-    "sha": "98eab1402a694ea467d46561b4bdf95683ffec26"
+    "sha": "2742ecf1c90de23013cb0c54982b232ef201054b"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Philippians 2",
     "url": "https://api.getbible.net/v2/wycliffe/50/2.json",
-    "sha": "ca8f74889e26532847fafcf40764c8927221983b"
+    "sha": "31288bb2909090ba063b454aee0c26cbf20e3e47"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "Philippians 3",
     "url": "https://api.getbible.net/v2/wycliffe/50/3.json",
-    "sha": "7548cb211020f5db62174c542b04b3ddcbeb14b7"
+    "sha": "12d2f2038e6ced2661312c32692e6442a579fecd"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Philippians 4",
     "url": "https://api.getbible.net/v2/wycliffe/50/4.json",
-    "sha": "527307952cf83d8a9e13a6f2507a28217c739f2d"
+    "sha": "1a036124528c53ae22c7f444bb40dc76e945019d"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "ရုသ်",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "ရုသ် 1",
     "url": "https://api.getbible.net/v2/judson/8/1.json",
-    "sha": "c2f9725d20af39435a6afe52d70a56f10ac5b4dd"
+    "sha": "f299ac10ef5eb262e62ab6c80e9f1c916b554614"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "ရုသ်",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "ရုသ် 2",
     "url": "https://api.getbible.net/v2/judson/8/2.json",
-    "sha": "3c44d019cf6b896d875e82f09fe32c4b4b10d05a"
+    "sha": "26b809e9de92af8ff432f11d819cef3e8f3b6da8"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "ရုသ်",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "ရုသ် 3",
     "url": "https://api.getbible.net/v2/judson/8/3.json",
-    "sha": "b588f3d7da1f5cebabf5f8d684531fc7c6087a06"
+    "sha": "4939dc1b05e2950f9e88d0914b19bc6a074dedd3"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "ရုသ်",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "ရုသ် 4",
     "url": "https://api.getbible.net/v2/judson/8/4.json",
-    "sha": "b07001aacc736e7290f1885663e34cdb67c59e92"
+    "sha": "7f44ec98c29c7a090d24fdc2f134707688fa9054"
   }
 }

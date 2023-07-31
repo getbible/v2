@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ฟิลิปปี",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "ฟิลิปปี 1",
     "url": "https://api.getbible.net/v2/thai/50/1.json",
-    "sha": "a6df5afd8946338a2a4961e24f4d8bc41553324b"
+    "sha": "486270333d1d54b8d5758a68fec5941ec0c2e5d1"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ฟิลิปปี",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "ฟิลิปปี 2",
     "url": "https://api.getbible.net/v2/thai/50/2.json",
-    "sha": "879cc189d026b1dd6fdd3a2d8e1d86edd7545602"
+    "sha": "6afb844fda56dfe302a9b3fe7015686301715e22"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ฟิลิปปี",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "ฟิลิปปี 3",
     "url": "https://api.getbible.net/v2/thai/50/3.json",
-    "sha": "069f85fdee86be9540f2dd7da05524a3632f2189"
+    "sha": "414dde2b85796622dacedcaffa29eabff607254a"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "ฟิลิปปี",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "ฟิลิปปี 4",
     "url": "https://api.getbible.net/v2/thai/50/4.json",
-    "sha": "1c31535bbf10d8426729814cc9b100a1b0e7d733"
+    "sha": "38b9426e6047cf64fc13c9df01989513ca9d2b70"
   }
 }

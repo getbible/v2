@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteo 1",
     "url": "https://api.getbible.net/v2/esperanto/55/1.json",
-    "sha": "533c9ace7cfd331259ae627f87f1bdcf3bcbebc3"
+    "sha": "0d7693709dd01b80cf2beb304b55cfed47bf2a1b"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteo 2",
     "url": "https://api.getbible.net/v2/esperanto/55/2.json",
-    "sha": "5d2611f7b36031be7d24840408815357844f2ad4"
+    "sha": "67a0a2d4af8bca4b78a5715430517cf461830c21"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteo 3",
     "url": "https://api.getbible.net/v2/esperanto/55/3.json",
-    "sha": "3d338ddb913b42c92a1924add9de6efacc58e6ee"
+    "sha": "e8ea1ad888513941f88b46735bcb6187133834d4"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteo 4",
     "url": "https://api.getbible.net/v2/esperanto/55/4.json",
-    "sha": "d91c9de29b4c92d52d6051b6d9fc8f3631256108"
+    "sha": "e8e50947bacaf05457a6717a33d3008f6a12cf11"
   }
 }

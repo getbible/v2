@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "玛拉基书 1",
     "url": "https://api.getbible.net/v2/cns/39/1.json",
-    "sha": "889574939033a8f2d39844a77c99aaa40f5d6b27"
+    "sha": "7c4b64e3d23c36eea5aad1084a93110b9261785e"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "玛拉基书 2",
     "url": "https://api.getbible.net/v2/cns/39/2.json",
-    "sha": "3d5beef8222bede7c6bc77d744e03df92b596886"
+    "sha": "a264186d9055050a32b0b59b44358d2918baf755"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "玛拉基书 3",
     "url": "https://api.getbible.net/v2/cns/39/3.json",
-    "sha": "3aa94f59cf0b0db2a06bd65f7aafc0c628491432"
+    "sha": "332e6004996b695599bc35b47ead0a834624d88b"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "玛拉基书 4",
     "url": "https://api.getbible.net/v2/cns/39/4.json",
-    "sha": "da3cb41ee504c24189422d48d0222a907daa6424"
+    "sha": "1e17117f6a8142a8d1d36ccbf1ba71f2232937fa"
   }
 }

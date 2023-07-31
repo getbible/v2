@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michėjas",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Michėjas 1",
     "url": "https://api.getbible.net/v2/lithuanian/33/1.json",
-    "sha": "41f917f798f2a56155e4760e5d61e6f73cf78d4b"
+    "sha": "b633ae324fd1fa10d6a3f0fa5b3990d8ff218c66"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michėjas",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Michėjas 2",
     "url": "https://api.getbible.net/v2/lithuanian/33/2.json",
-    "sha": "cb9e378d657ee257920898deb14ef6634a941c0a"
+    "sha": "a04ed33e7cfac1e09237dddcdad402cc3057408d"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michėjas",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Michėjas 3",
     "url": "https://api.getbible.net/v2/lithuanian/33/3.json",
-    "sha": "e90da065e1a7f57b755ff83c15c20eeeecf8a385"
+    "sha": "6dfe6ddbe2d2510646e34b164139b501def5c0d2"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michėjas",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Michėjas 4",
     "url": "https://api.getbible.net/v2/lithuanian/33/4.json",
-    "sha": "078eddd8830d3066140515e315e626cb9cabc850"
+    "sha": "26a1b4946d2c2c8b4a8b5e2803c77bfcbb3c3a85"
   },
   "5": {
     "translation": "Lithuanian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michėjas",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Michėjas 5",
     "url": "https://api.getbible.net/v2/lithuanian/33/5.json",
-    "sha": "2d9fad5f0d5f9f1f0dcf0e95e658c72df7e57904"
+    "sha": "bf94ffd48c0dd102586109115aef247dc2869620"
   },
   "6": {
     "translation": "Lithuanian",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michėjas",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Michėjas 6",
     "url": "https://api.getbible.net/v2/lithuanian/33/6.json",
-    "sha": "90f6785599ee11d04b92606f855cec61323fd4b6"
+    "sha": "023b35003aeed633f96fa54ec9a991c135cf6955"
   },
   "7": {
     "translation": "Lithuanian",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michėjas",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Michėjas 7",
     "url": "https://api.getbible.net/v2/lithuanian/33/7.json",
-    "sha": "3f5b9c73ef189ca6fa3b523d2e71b56b8346d72c"
+    "sha": "b1984f33f6814e6289592cbe65cfd23b6308fce1"
   }
 }

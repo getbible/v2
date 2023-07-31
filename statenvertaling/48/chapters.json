@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaten",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galaten 1",
     "url": "https://api.getbible.net/v2/statenvertaling/48/1.json",
-    "sha": "9537a3de04907b9ab6b9828dde33672c37c6591b"
+    "sha": "b3cfa98e46d146a0805c59086af240172ae64554"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaten",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galaten 2",
     "url": "https://api.getbible.net/v2/statenvertaling/48/2.json",
-    "sha": "acfb03e110b2b61cc5968d7cf11910114c3bca10"
+    "sha": "eab3825480dc0fb44f9d6731c9eae3cf91b17601"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaten",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galaten 3",
     "url": "https://api.getbible.net/v2/statenvertaling/48/3.json",
-    "sha": "946b121a9d8f862142d880aec6466852aa4c66ce"
+    "sha": "b228998b13949269f200856318971fa3cc63f088"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaten",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galaten 4",
     "url": "https://api.getbible.net/v2/statenvertaling/48/4.json",
-    "sha": "2bbba263feddc1ba4ca594745ff83e64e81de88b"
+    "sha": "a5e2d32415d97b6da01a77fdf1d84766dd396a04"
   },
   "5": {
     "translation": "Dutch Staten Vertaling",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaten",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galaten 5",
     "url": "https://api.getbible.net/v2/statenvertaling/48/5.json",
-    "sha": "026fdf9592d0e82c527d5a46f140459b6f772a34"
+    "sha": "c836f66b8f761f29b2d69adc9a6c11c8f298c6b0"
   },
   "6": {
     "translation": "Dutch Staten Vertaling",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaten",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galaten 6",
     "url": "https://api.getbible.net/v2/statenvertaling/48/6.json",
-    "sha": "668d0c6412cf8c3c572b1b6f2162b1b6d3ab7673"
+    "sha": "72433f9a0225b5c887932264b5cb535085318757"
   }
 }

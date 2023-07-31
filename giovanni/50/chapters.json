@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippesi",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filippesi 1",
     "url": "https://api.getbible.net/v2/giovanni/50/1.json",
-    "sha": "f93db487e1c94be364dd17a598de9deeeaa9bef1"
+    "sha": "e86f27aa7806f3c1b98d446b6a2d727bee629432"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippesi",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filippesi 2",
     "url": "https://api.getbible.net/v2/giovanni/50/2.json",
-    "sha": "3443fbc8b13464276aebfff60eac866c6f084b33"
+    "sha": "f490c055364a0463f3aaf5dbde15093aa87fcd3e"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippesi",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filippesi 3",
     "url": "https://api.getbible.net/v2/giovanni/50/3.json",
-    "sha": "f3bf4e550f40efdf5ddf073ac71361f6386a209f"
+    "sha": "89856d8b4503a50379257f62e747975372d74b19"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippesi",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filippesi 4",
     "url": "https://api.getbible.net/v2/giovanni/50/4.json",
-    "sha": "7f2779fc93053cc9eac5399a7034db32d83e114d"
+    "sha": "77149d4d09abf8a1e216db2a7b657f0ae868e23d"
   }
 }

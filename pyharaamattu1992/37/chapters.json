@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggain kirja",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Haggain kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/37/1.json",
-    "sha": "4668c03250492963ea6a3f247842a2bd78373006"
+    "sha": "57dcefe66fcbabc679a61cc319f1b3b3923eecc9"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggain kirja",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Haggain kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/37/2.json",
-    "sha": "c8b9bbb2e7e9a17fbefd4ea874538f66ce55e748"
+    "sha": "4d94ee1d6cb2eb44e6fe7c42d7457d0b8995fb7e"
   }
 }

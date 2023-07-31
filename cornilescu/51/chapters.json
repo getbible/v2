@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Coloseni",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Coloseni 1",
     "url": "https://api.getbible.net/v2/cornilescu/51/1.json",
-    "sha": "a699c109e9d753bd161b15f66512bf1c3b32ad4b"
+    "sha": "cfc375af8bf725d3d45c1063a1c41b9ebee53687"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Coloseni",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Coloseni 2",
     "url": "https://api.getbible.net/v2/cornilescu/51/2.json",
-    "sha": "7c49f116e12372037abb26ed06a32438284b68dc"
+    "sha": "ec3cc538ee01b3d841accab3de2faf902c650374"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Coloseni",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Coloseni 3",
     "url": "https://api.getbible.net/v2/cornilescu/51/3.json",
-    "sha": "8db056625459af893641c76ab77ad1bbb8d26d60"
+    "sha": "2ac57083878f0357e3a5831437f1c78dd18daada"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Coloseni",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Coloseni 4",
     "url": "https://api.getbible.net/v2/cornilescu/51/4.json",
-    "sha": "56cf7be99251e03948d1d10eacffdad579bd1644"
+    "sha": "f4aef0cc757426c96c15b7cb40b84c86b2b87171"
   }
 }

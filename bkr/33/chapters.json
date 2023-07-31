@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micheáš",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Micheáš 1",
     "url": "https://api.getbible.net/v2/bkr/33/1.json",
-    "sha": "f9005b8909712740488185b853855aeefb3373fe"
+    "sha": "d1e14ac63e875ae694b87ee76632317c1c2318a1"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micheáš",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Micheáš 2",
     "url": "https://api.getbible.net/v2/bkr/33/2.json",
-    "sha": "d13afe151333a04c1a097ff329bb6734e23241a6"
+    "sha": "6139544e6784bbcd0a70d6327d009306234b0190"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micheáš",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Micheáš 3",
     "url": "https://api.getbible.net/v2/bkr/33/3.json",
-    "sha": "3326a879276affe919d43d3cc9bb036ab0f33f12"
+    "sha": "9292c43a7327638c41f500478e497591b89a33fa"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micheáš",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Micheáš 4",
     "url": "https://api.getbible.net/v2/bkr/33/4.json",
-    "sha": "3248b6bf9d9b7d0bfede4afa85591b559a3f71c2"
+    "sha": "b9db0c9dc4b4897d74defd4d2e71fca0dd9849a4"
   },
   "5": {
     "translation": "Czech BKR",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micheáš",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Micheáš 5",
     "url": "https://api.getbible.net/v2/bkr/33/5.json",
-    "sha": "1740bb0b57e457ce22fa06a96676d72aabdaa9f0"
+    "sha": "39a536e83d509326c5282d3ec5e9295304cfd0da"
   },
   "6": {
     "translation": "Czech BKR",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micheáš",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Micheáš 6",
     "url": "https://api.getbible.net/v2/bkr/33/6.json",
-    "sha": "97382ea28491d4ad59c201cf880560e95a54aa39"
+    "sha": "d75aca6e9a9225e5567c684ac3668b7f62ebed29"
   },
   "7": {
     "translation": "Czech BKR",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micheáš",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Micheáš 7",
     "url": "https://api.getbible.net/v2/bkr/33/7.json",
-    "sha": "4b2a117619b5d6d3b78b5f445b6a93c02901457a"
+    "sha": "1ff67be9db30a2c1d8988e55b4670563d5a1c729"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sophonie 1",
     "url": "https://api.getbible.net/v2/martin/36/1.json",
-    "sha": "5dc2cafeda2783a8618775d5be656a3c77443037"
+    "sha": "67f6aa5f53246925edb6d50bd045580a9abe7761"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sophonie 2",
     "url": "https://api.getbible.net/v2/martin/36/2.json",
-    "sha": "53f483f01c44c70a72cdc091cc9c2fa9c99fc9cc"
+    "sha": "2a7f76b393a33f96325c782901e1682db6c08933"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonie",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sophonie 3",
     "url": "https://api.getbible.net/v2/martin/36/3.json",
-    "sha": "eb69d8598bd8a450ed75c5f1a23599fa24341e94"
+    "sha": "7dbaad6aafacbb0e3df1eb6cf9ae1fc565a9445e"
   }
 }

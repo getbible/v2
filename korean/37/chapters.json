@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "학개",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "학개 1",
     "url": "https://api.getbible.net/v2/korean/37/1.json",
-    "sha": "a5d8eb723bf251ddc0cc208d82a9563ce3095bc9"
+    "sha": "7215259bf8f6fb9f30dcdabb37511a0b31fda8a2"
   },
   "2": {
     "translation": "Korean",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "학개",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "학개 2",
     "url": "https://api.getbible.net/v2/korean/37/2.json",
-    "sha": "e7db6799627ecca2329491c0bc88a736a98bcb5d"
+    "sha": "ab8cca71453576f2ac88faa7482f44fc3247ee09"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1-е Иоанну 1",
     "url": "https://api.getbible.net/v2/synodal/62/1.json",
-    "sha": "29d28cc138a0e24061da88edf0d24249fc6d3412"
+    "sha": "6295ff6df3edca8c2af10033c89a71e3c4367e7e"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1-е Иоанну 2",
     "url": "https://api.getbible.net/v2/synodal/62/2.json",
-    "sha": "0b440f079e596ef9eea69c8fbacea0ec78c42695"
+    "sha": "0050666a0b6fe74186e75f64fa39c75649e8eef5"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1-е Иоанну 3",
     "url": "https://api.getbible.net/v2/synodal/62/3.json",
-    "sha": "5073ea4fcd207312df1f93f9a61d6fce22d6d172"
+    "sha": "9f720a8b991e117546e465d6d1700bfc98e9f115"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1-е Иоанну 4",
     "url": "https://api.getbible.net/v2/synodal/62/4.json",
-    "sha": "7540995e969928c7394344d5d40723fab02d1500"
+    "sha": "4f5b65f7ea4c49d69fba5bf6af7afcf13b7a3384"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1-е Иоанну 5",
     "url": "https://api.getbible.net/v2/synodal/62/5.json",
-    "sha": "fdd5ebaf1f09112e6781d0715f3a4b170091039d"
+    "sha": "cf7a9a804ea32ff3af529e6f2a65614023a8f21d"
   }
 }

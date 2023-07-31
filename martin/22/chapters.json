@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Cantique des Cantiques 1",
     "url": "https://api.getbible.net/v2/martin/22/1.json",
-    "sha": "c410b9d70b2bcb11abc3b9bfd5c7e985fec0ab3f"
+    "sha": "85a9953d1854d9eff0e4e4c37144e203f515d3ae"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Cantique des Cantiques 2",
     "url": "https://api.getbible.net/v2/martin/22/2.json",
-    "sha": "2ce06f1436dc125e73dae2a8a3f37f8fccad5eeb"
+    "sha": "03640342e7c0fc006626fc2c90e46ef970e795d0"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Cantique des Cantiques 3",
     "url": "https://api.getbible.net/v2/martin/22/3.json",
-    "sha": "3c57f9658c9ad432c3a7eb88b165f87ac67fd2c4"
+    "sha": "ee8b159ffedbcebe1e4d86b05742b55614a4a14a"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Cantique des Cantiques 4",
     "url": "https://api.getbible.net/v2/martin/22/4.json",
-    "sha": "b9b4ffc85861e1d802e4870430a35a4085c306df"
+    "sha": "d668c2e882f650456cf5882970a9713ae3bb18a4"
   },
   "5": {
     "translation": "Martin (1744)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Cantique des Cantiques 5",
     "url": "https://api.getbible.net/v2/martin/22/5.json",
-    "sha": "57cc6e32add53ae3de41c96ec725dffaf5b14a35"
+    "sha": "6fac38d99203127e39a648dd7b4f7950153ef3d1"
   },
   "6": {
     "translation": "Martin (1744)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Cantique des Cantiques 6",
     "url": "https://api.getbible.net/v2/martin/22/6.json",
-    "sha": "3e677b42312616d19e9a9fbd946eae11a2e82ff0"
+    "sha": "a669a7f5307180e5991ccdd7f52ad50d6801c4b8"
   },
   "7": {
     "translation": "Martin (1744)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Cantique des Cantiques 7",
     "url": "https://api.getbible.net/v2/martin/22/7.json",
-    "sha": "58f3b0f6b994ecb95f4c6d53614b8e25babe7707"
+    "sha": "14f50bc3580d68d222c6dc23b984747bb1cc7e8f"
   },
   "8": {
     "translation": "Martin (1744)",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantique des Cantiques",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Cantique des Cantiques 8",
     "url": "https://api.getbible.net/v2/martin/22/8.json",
-    "sha": "83c2be440ddc02ce7362e9f4995887fa01adb991"
+    "sha": "cc11b22bc847d342b64c8c41aba4e7c8c18b8cb6"
   }
 }

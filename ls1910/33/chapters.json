@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Michée 1",
     "url": "https://api.getbible.net/v2/ls1910/33/1.json",
-    "sha": "3d193e2c286ab6b8cfa56b9da0ca5f55e62a5591"
+    "sha": "1c8c23f89976f9e8842536f5a9d9341227e36080"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Michée 2",
     "url": "https://api.getbible.net/v2/ls1910/33/2.json",
-    "sha": "8fc034f87ab8c07270448b388809359da4c2d089"
+    "sha": "27060d3feb5d2e6d5e209e6bf613f77537b79cf4"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Michée 3",
     "url": "https://api.getbible.net/v2/ls1910/33/3.json",
-    "sha": "46446d76c58f8c45f996519c2458de5399e1bab3"
+    "sha": "9d7a8ea487923d561c9b428e1d07ef09394abb08"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Michée 4",
     "url": "https://api.getbible.net/v2/ls1910/33/4.json",
-    "sha": "a5e54e725c0205d4d1e836de40a673d03aea0aba"
+    "sha": "de52945f5609147e5840ed2cd358a63f43b3ae5f"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Michée 5",
     "url": "https://api.getbible.net/v2/ls1910/33/5.json",
-    "sha": "35533fe08b2fa0d3cfb8603f2a067838dc093142"
+    "sha": "632bf8382cb5603e559cfe353bbf57796b620da2"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Michée 6",
     "url": "https://api.getbible.net/v2/ls1910/33/6.json",
-    "sha": "2b5384c16d8dc9d876cebff46dee22b33ea9e17d"
+    "sha": "804025aaab0ddbb5c7618b349e8243f9477120b5"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michée",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Michée 7",
     "url": "https://api.getbible.net/v2/ls1910/33/7.json",
-    "sha": "03391f51b98a1a5e83302f64dfa92dd36614f853"
+    "sha": "5d9825eeeca1e88072a35723e587c529f670947e"
   }
 }

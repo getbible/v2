@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 65,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "犹大书 1",
     "url": "https://api.getbible.net/v2/cns/65/1.json",
-    "sha": "b861dbb2e096f6d3d5e9b769bfbd498483aea604"
+    "sha": "b523af1649ef0e61653607aa747a82627a7f518b"
   }
 }

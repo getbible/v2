@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatalaiskirje",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galatalaiskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/48/1.json",
-    "sha": "0e9c25eeb54d99c1f0b4ee838d2fdaaee2f33b70"
+    "sha": "db5eda92b6afd255c17a8a114d28dfd2955ed52f"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatalaiskirje",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galatalaiskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/48/2.json",
-    "sha": "8ee1915ee18f64a73ae12299afa59fecd270e080"
+    "sha": "11829a30e82c989811e1fa1bca31b5fe556da2da"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatalaiskirje",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galatalaiskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/48/3.json",
-    "sha": "1d5be787ad408dda37a6b453d267bc6e7f0d09da"
+    "sha": "5ee2370ba2e6a77e349fdb5b3c4aaeb30cc5f6f5"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatalaiskirje",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galatalaiskirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/48/4.json",
-    "sha": "b726ea844c42535a76afc31daf469177ef852dc5"
+    "sha": "df33dfd116d87c71fe5a0a4212d14e04ead077fd"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatalaiskirje",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galatalaiskirje 5",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/48/5.json",
-    "sha": "b6a37828d8f3aeef52ce2c88412e0642b45c052d"
+    "sha": "7e6a819a9f7b08618ef25b928443ba960cf8446b"
   },
   "6": {
     "translation": "Pyha Raamattu (1992)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatalaiskirje",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galatalaiskirje 6",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/48/6.json",
-    "sha": "eb4d7780c148d03a81f86cef359cc949d1e92b9e"
+    "sha": "5670c2d87675cafafd7407b35c3121ba32b9ddd0"
   }
 }

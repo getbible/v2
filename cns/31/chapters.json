@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 31,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "俄巴底亚书 1",
     "url": "https://api.getbible.net/v2/cns/31/1.json",
-    "sha": "bc7d3da6b78f7522ec728207746766a411a1408a"
+    "sha": "20770fef9dd1ce5402a7f8021b501e31b4a84e71"
   }
 }

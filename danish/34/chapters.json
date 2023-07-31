@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahums Bog",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Nahums Bog 1",
     "url": "https://api.getbible.net/v2/danish/34/1.json",
-    "sha": "f491f7b42319c0003ca634dbd1bac64e0898143b"
+    "sha": "65525c6d1269c48ed284d2ea6673a01147c7612a"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahums Bog",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Nahums Bog 2",
     "url": "https://api.getbible.net/v2/danish/34/2.json",
-    "sha": "45ab7443bf6938e8e4b17f826f8581c0e283293f"
+    "sha": "94a1fa6cee9ad0f5c83664af91ebb8cb4ee33128"
   },
   "3": {
     "translation": "Danish",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahums Bog",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Nahums Bog 3",
     "url": "https://api.getbible.net/v2/danish/34/3.json",
-    "sha": "94b16a9e60c04d3e1f047b970577c436e1f335db"
+    "sha": "357786d7ca35b34f0c484d15d8a2fc1193e0c528"
   }
 }

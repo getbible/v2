@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Mga Panaghoy",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Mga Panaghoy 1",
     "url": "https://api.getbible.net/v2/tagalog/25/1.json",
-    "sha": "f12911fe0ca035eee31aadfec77e0cdd98e72274"
+    "sha": "f947ff3512a93755274fffe3fb1777d277768fad"
   },
   "2": {
     "translation": "Ang Dating Biblia (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Mga Panaghoy",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Mga Panaghoy 2",
     "url": "https://api.getbible.net/v2/tagalog/25/2.json",
-    "sha": "8195f185edc527c5ad31dededc84546d5760a996"
+    "sha": "b8d63b2911f156aa11fd994c62c0244b0c0794fb"
   },
   "3": {
     "translation": "Ang Dating Biblia (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Mga Panaghoy",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Mga Panaghoy 3",
     "url": "https://api.getbible.net/v2/tagalog/25/3.json",
-    "sha": "62bc9d74397ee208642d718d901b2476a747d7d4"
+    "sha": "ef718fa2e520f2d594f56a0250b5ff91fc4f0aba"
   },
   "4": {
     "translation": "Ang Dating Biblia (1905)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Mga Panaghoy",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Mga Panaghoy 4",
     "url": "https://api.getbible.net/v2/tagalog/25/4.json",
-    "sha": "ad27ab0532aeb34e262b400c2b42b3ed84762ae6"
+    "sha": "5407d77243e2d69ec0d5754dddeb379d926de851"
   },
   "5": {
     "translation": "Ang Dating Biblia (1905)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Mga Panaghoy",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Mga Panaghoy 5",
     "url": "https://api.getbible.net/v2/tagalog/25/5.json",
-    "sha": "959e01f08378a1835bdeb4902ea96a6c3b1afac4"
+    "sha": "4f4af47345ce888be52e0d7daf7ac559fb175554"
   }
 }

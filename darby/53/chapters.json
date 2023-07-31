@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessaloniciens",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Thessaloniciens 1",
     "url": "https://api.getbible.net/v2/darby/53/1.json",
-    "sha": "0935be78347301c713070902a4977f248f34d1c8"
+    "sha": "eabc848de3ee4abfe0e40f276de0d129e345b18f"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessaloniciens",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Thessaloniciens 2",
     "url": "https://api.getbible.net/v2/darby/53/2.json",
-    "sha": "b38a5b8677c2ff580cda073e33b0b7796e3422d7"
+    "sha": "290b3af7f5f687c0a4c4a86bfaa2df733d20a424"
   },
   "3": {
     "translation": "Darby",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Thessaloniciens",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Thessaloniciens 3",
     "url": "https://api.getbible.net/v2/darby/53/3.json",
-    "sha": "6385778f055210800b19230cbc4ec2e45dba630a"
+    "sha": "3462a59ef61ceb3eadc39b3e9d05c377fc86943e"
   }
 }

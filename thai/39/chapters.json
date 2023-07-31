@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "มาลาคี",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "มาลาคี 1",
     "url": "https://api.getbible.net/v2/thai/39/1.json",
-    "sha": "d3925aaa521e83ddc5b081fc68103068b60bad97"
+    "sha": "553487f6637ca3ddf0dc0cdd41e7a3aa42a83b66"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "มาลาคี",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "มาลาคี 2",
     "url": "https://api.getbible.net/v2/thai/39/2.json",
-    "sha": "1080f945bd40bd42dcfa6500d4049672e1194e63"
+    "sha": "279395d0810782ad7c832757c14cab95c5c3bfae"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "มาลาคี",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "มาลาคี 3",
     "url": "https://api.getbible.net/v2/thai/39/3.json",
-    "sha": "f7da2c01e61169ce4a6b3c13c89a23be580f3559"
+    "sha": "3e4db4d978c80de54cad5f7722e1d45263ff1b7a"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "มาลาคี",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "มาลาคี 4",
     "url": "https://api.getbible.net/v2/thai/39/4.json",
-    "sha": "f1236c566099790e06533aa3cfc6f3920c4e2f0b"
+    "sha": "8f3300bd81c9d81930170e4feb08ef3873382bf1"
   }
 }

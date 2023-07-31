@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ 1",
     "url": "https://api.getbible.net/v2/coptic/50/1.json",
-    "sha": "797e011db8ea4be4c39e0b62ae94fa3bc60aa31a"
+    "sha": "ef5b313a1a734792b585881072a96d94fe48c3a6"
   },
   "2": {
     "translation": "New Testament",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ 2",
     "url": "https://api.getbible.net/v2/coptic/50/2.json",
-    "sha": "24c089879d072944d67b48eab7f870fb30b56230"
+    "sha": "f3f7aa36c04fd2d001b79ecc9c0f2f0b872c8a60"
   },
   "3": {
     "translation": "New Testament",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ 3",
     "url": "https://api.getbible.net/v2/coptic/50/3.json",
-    "sha": "61fca5c3c796bc383b1234b1889dcad9e055b43e"
+    "sha": "c15a24109c6e579149176f38c54279f61cdff7a4"
   },
   "4": {
     "translation": "New Testament",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Ⲡⲏⲗⲓⲡⲡⲓⲟⲥ 4",
     "url": "https://api.getbible.net/v2/coptic/50/4.json",
-    "sha": "09ab95d4a9cafa0ac410367ea21e0b4e6dd07277"
+    "sha": "457a3f5e53da28a462777f115d82a8627a8475be"
   }
 }

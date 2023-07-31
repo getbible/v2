@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "約珥書 1",
     "url": "https://api.getbible.net/v2/cut/29/1.json",
-    "sha": "03b7ad710f3073ed959107266a7ed0455bed5952"
+    "sha": "454e58aa993e835bd131c002227280ca9537367b"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "約珥書 2",
     "url": "https://api.getbible.net/v2/cut/29/2.json",
-    "sha": "bd9e8903dbf8f4530b52b2509254861576ffb6c7"
+    "sha": "e653581844b961cc310292ae30ae8c5a4da9e671"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "約珥書 3",
     "url": "https://api.getbible.net/v2/cut/29/3.json",
-    "sha": "d55b7f5de8080e7c2a0996cc67f68502e17be947"
+    "sha": "9b258d4004a1325bb4fec404c3d61db97f43e9df"
   }
 }

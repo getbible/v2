@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaťanům",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galaťanům 1",
     "url": "https://api.getbible.net/v2/cep/48/1.json",
-    "sha": "b6795019001aa9b9248bfd2c8b33287acd26b0f7"
+    "sha": "3ad63abd4aac84a333a9ac128031deebef7f61ad"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaťanům",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galaťanům 2",
     "url": "https://api.getbible.net/v2/cep/48/2.json",
-    "sha": "aafbd7e862008f119d3742fac7c640523020dcb0"
+    "sha": "e99d240a6e387ba4d4f3bae8f81c3142c9a7daa1"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaťanům",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galaťanům 3",
     "url": "https://api.getbible.net/v2/cep/48/3.json",
-    "sha": "56c955be6a6b672f74ba53016fb7c41a9f3060e6"
+    "sha": "783db854ec8340a8c479bcfc07e987b0d46a1e09"
   },
   "4": {
     "translation": "Czech CEP",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaťanům",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galaťanům 4",
     "url": "https://api.getbible.net/v2/cep/48/4.json",
-    "sha": "1151b514c638ff9ad48720abfec4d7ac3c8828a1"
+    "sha": "b7c23d93a31ad0e31f05c5bfad8baf9c199070de"
   },
   "5": {
     "translation": "Czech CEP",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaťanům",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galaťanům 5",
     "url": "https://api.getbible.net/v2/cep/48/5.json",
-    "sha": "e9e03befbc138b652e07694cd9607fd0d8b38ca9"
+    "sha": "00adb1e5a5e88255c6ef28ee7523586a245a4f94"
   },
   "6": {
     "translation": "Czech CEP",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaťanům",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galaťanům 6",
     "url": "https://api.getbible.net/v2/cep/48/6.json",
-    "sha": "1f194c85229c9f92f917b22f4d9713833071d8c3"
+    "sha": "7c4467b4d10936bc320320bbab926fcb5bf992cd"
   }
 }

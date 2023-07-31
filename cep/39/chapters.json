@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachiáš",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malachiáš 1",
     "url": "https://api.getbible.net/v2/cep/39/1.json",
-    "sha": "1e4d20f722715330bdfa3790fb1a292f9f614da7"
+    "sha": "1780d7ab81f1dadd377bd00be009315896059ceb"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachiáš",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malachiáš 2",
     "url": "https://api.getbible.net/v2/cep/39/2.json",
-    "sha": "d30ee544f2eeaa8464bf8aa05fbdc8396a4cae9b"
+    "sha": "65dd7e708f5aacd245a6ad443c4b2e282ccfeb0d"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachiáš",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malachiáš 3",
     "url": "https://api.getbible.net/v2/cep/39/3.json",
-    "sha": "64b31b1614f7c0b7cd93fd621a99484a45bcfb99"
+    "sha": "1d83cda28b89443201ca6a0d20d0e15372bb48b8"
   }
 }

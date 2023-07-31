@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "那鸿书 1",
     "url": "https://api.getbible.net/v2/cns/34/1.json",
-    "sha": "b80d6c364850fcc51419b3503afa3f398d452f36"
+    "sha": "c76ce96e2b687b2461d4977f0c21263983cb22df"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "那鸿书 2",
     "url": "https://api.getbible.net/v2/cns/34/2.json",
-    "sha": "7e2d3a6d8d381c319b3431ebe0342dab06206b4b"
+    "sha": "9784b130f75a96d3820eb6a8a487efbe06ae371e"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "那鸿书 3",
     "url": "https://api.getbible.net/v2/cns/34/3.json",
-    "sha": "b367113798ccfe309aa93326c4f9d8ebcbc2346e"
+    "sha": "706237bba401babfc22987b7a8ecf4d0754ad8e3"
   }
 }

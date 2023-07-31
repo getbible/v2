@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Joonan kirja 1",
     "url": "https://api.getbible.net/v2/finnish1776/32/1.json",
-    "sha": "adb4b367dc5d4cdb0c26c534ccb3fc3c20f6f086"
+    "sha": "2b2b3dfaf174d32dfccd285004c26b54e176dd51"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Joonan kirja 2",
     "url": "https://api.getbible.net/v2/finnish1776/32/2.json",
-    "sha": "261767755256a17dd5a647d58f4547bb7e3da01c"
+    "sha": "848e49335b111317d340a0b8f1a01231b83932b0"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Joonan kirja 3",
     "url": "https://api.getbible.net/v2/finnish1776/32/3.json",
-    "sha": "09d3c91b3b473df85b3f919cb0387171a8f1f640"
+    "sha": "c102a1427b48f229dc27282764f00ff16558912c"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Joonan kirja",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Joonan kirja 4",
     "url": "https://api.getbible.net/v2/finnish1776/32/4.json",
-    "sha": "19aa13cb49d135051e0e8d15c668b8961c15cada"
+    "sha": "c3d0966354e4c731c5d2a89513b3d32b8d4ca299"
   }
 }

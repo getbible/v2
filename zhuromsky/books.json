@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Матфей",
     "url": "https://api.getbible.net/v2/zhuromsky/40.json",
-    "sha": "95c3da07ec13f2c8ae605f8c95875327537315ed"
+    "sha": "02da7264bf49984da721dcdcd5f102baf3aa172b"
   },
   "41": {
     "translation": "Victor Zhuromsky NT",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Марк",
     "url": "https://api.getbible.net/v2/zhuromsky/41.json",
-    "sha": "7babe5a1ef5db102921a1d93c796812fa45d4808"
+    "sha": "16833d0d374c4a0a50c5da02e43b4f304a9d391a"
   },
   "42": {
     "translation": "Victor Zhuromsky NT",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Лука",
     "url": "https://api.getbible.net/v2/zhuromsky/42.json",
-    "sha": "4eea451d8688e73a72275629073c72493a3ccc1c"
+    "sha": "ec925511bb13d190f9957f2d6b6d0b2009e30c9f"
   },
   "43": {
     "translation": "Victor Zhuromsky NT",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Иоанн",
     "url": "https://api.getbible.net/v2/zhuromsky/43.json",
-    "sha": "abdcde4bfadd0001b4b338e89dfeb449c095ee75"
+    "sha": "89dfd13fc476954d41c3335aacb81f3679f6c278"
   },
   "44": {
     "translation": "Victor Zhuromsky NT",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Деяния",
     "url": "https://api.getbible.net/v2/zhuromsky/44.json",
-    "sha": "33324ae1c07d4a4865a10867ce42c9dea51a0314"
+    "sha": "847c5838de9c184ee571a227ab33475b8cc7c86b"
   },
   "45": {
     "translation": "Victor Zhuromsky NT",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Римлянам",
     "url": "https://api.getbible.net/v2/zhuromsky/45.json",
-    "sha": "558ad931f7c63a93915625eb6efd8e90cad35c03"
+    "sha": "adfa7e7dbcfa2e2dc18ebbf690a4cdcd377630f9"
   },
   "46": {
     "translation": "Victor Zhuromsky NT",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1-е Коринфянам",
     "url": "https://api.getbible.net/v2/zhuromsky/46.json",
-    "sha": "f387597949fcc03d43dae852c9d8d9e707d55e7f"
+    "sha": "e632ebda47009d1f9a58fed924d513ab979bc542"
   },
   "47": {
     "translation": "Victor Zhuromsky NT",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2-е Коринфянам",
     "url": "https://api.getbible.net/v2/zhuromsky/47.json",
-    "sha": "4c012a7007ecfcba83ae3e05c9f39514c68f3451"
+    "sha": "fa11bd3899309dbb77cc41adc4f766cf7a1bbd31"
   },
   "48": {
     "translation": "Victor Zhuromsky NT",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Галатам",
     "url": "https://api.getbible.net/v2/zhuromsky/48.json",
-    "sha": "baf8d7ec433703cc819e8b8c30c2b5fb6a9a145a"
+    "sha": "47535a57abe4e44e89eeebcd20c0c43b6e9f36b6"
   },
   "49": {
     "translation": "Victor Zhuromsky NT",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Ефесянам",
     "url": "https://api.getbible.net/v2/zhuromsky/49.json",
-    "sha": "4d464e0e1137b0507fbe56eed6f66245967e9851"
+    "sha": "64a0d48a0b6f804af31307e81973bef2c8dcf855"
   },
   "50": {
     "translation": "Victor Zhuromsky NT",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Филиппийцам",
     "url": "https://api.getbible.net/v2/zhuromsky/50.json",
-    "sha": "b57ec3b3ef212d2e58ffeacc9e3aa6aee0cdf57e"
+    "sha": "223b458d3dae6f3d6ba051c5461ca728d38e4966"
   },
   "51": {
     "translation": "Victor Zhuromsky NT",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Колоссянам",
     "url": "https://api.getbible.net/v2/zhuromsky/51.json",
-    "sha": "ee0bc3c4ce97d4ddbe40e2709354d3e5de36c2a8"
+    "sha": "4c0ee82cadb86badf3390ae507f68b74debd4832"
   },
   "52": {
     "translation": "Victor Zhuromsky NT",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1-е Фессалоникийцам",
     "url": "https://api.getbible.net/v2/zhuromsky/52.json",
-    "sha": "bb77703acbff25efe9ceaebe40e60e32e982d730"
+    "sha": "d4d069fc3039495bca2ef3214215b72a1b5c77aa"
   },
   "53": {
     "translation": "Victor Zhuromsky NT",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2-е Фессалоникийцам",
     "url": "https://api.getbible.net/v2/zhuromsky/53.json",
-    "sha": "d0614ddf3e055a0d1361297e3a81dcfe8790ffb1"
+    "sha": "7431eb09dbd3bbfe9bbe42f0c535437cfb524e89"
   },
   "54": {
     "translation": "Victor Zhuromsky NT",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1-е Тимофею",
     "url": "https://api.getbible.net/v2/zhuromsky/54.json",
-    "sha": "a12da70854f8644040cbf4e2d26784550f70ddb4"
+    "sha": "9fa3202d3c406dca6cd5714007791d9e440f4315"
   },
   "55": {
     "translation": "Victor Zhuromsky NT",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2-е Тимофею",
     "url": "https://api.getbible.net/v2/zhuromsky/55.json",
-    "sha": "e4130672f43b20f65e1cc891c2ef1e95c9be15e5"
+    "sha": "c60e52169f5a673c43bfacc37cb451edfe677bcc"
   },
   "56": {
     "translation": "Victor Zhuromsky NT",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Титу",
     "url": "https://api.getbible.net/v2/zhuromsky/56.json",
-    "sha": "f4cc890413bf24c481e64595650312c80c2c12af"
+    "sha": "cd9452057f98fad393edf5f28674a583585671c7"
   },
   "57": {
     "translation": "Victor Zhuromsky NT",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Филимону",
     "url": "https://api.getbible.net/v2/zhuromsky/57.json",
-    "sha": "25934c1d34a3d004c9084b67fb490e60663d1699"
+    "sha": "1505ce50d4010e420d8907a50fa2118a62ad3bfe"
   },
   "58": {
     "translation": "Victor Zhuromsky NT",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Евреям",
     "url": "https://api.getbible.net/v2/zhuromsky/58.json",
-    "sha": "515aabd38f951484ee94c8a1e9ce925ace8a0521"
+    "sha": "2f1baa20967abe031e94c68aa5d6429206601efe"
   },
   "59": {
     "translation": "Victor Zhuromsky NT",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Иакову",
     "url": "https://api.getbible.net/v2/zhuromsky/59.json",
-    "sha": "ae444de02b9c279190f81ca92f88b2498d9e3a1d"
+    "sha": "d66343b825bd3a5ead66dad7c81bb92d0361fc82"
   },
   "60": {
     "translation": "Victor Zhuromsky NT",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1-е Петру",
     "url": "https://api.getbible.net/v2/zhuromsky/60.json",
-    "sha": "3a3dd186c7b9255aba6c9ebe922fc5e02ebd556d"
+    "sha": "f3bccb4e506b00579108100a0c838fa759acee62"
   },
   "61": {
     "translation": "Victor Zhuromsky NT",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2-е Петру",
     "url": "https://api.getbible.net/v2/zhuromsky/61.json",
-    "sha": "cf41e8bf265da1aa130a7d7cd541dbfc4fb55eca"
+    "sha": "75c29c1d23068a18eb92ab9336110cbdb25b81be"
   },
   "62": {
     "translation": "Victor Zhuromsky NT",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1-е Иоанну",
     "url": "https://api.getbible.net/v2/zhuromsky/62.json",
-    "sha": "36d5de46eac5adea3277837f938582bf2ad11e60"
+    "sha": "1386036eb0f81c9c2f506e1a774c2a3d001122b6"
   },
   "63": {
     "translation": "Victor Zhuromsky NT",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2-е Иоанну",
     "url": "https://api.getbible.net/v2/zhuromsky/63.json",
-    "sha": "01c17bba306f6d5b935f5b834f000467790a1489"
+    "sha": "cdfc046a237b41d984a00f6667e91d304168e78d"
   },
   "64": {
     "translation": "Victor Zhuromsky NT",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3-е Иоанну",
     "url": "https://api.getbible.net/v2/zhuromsky/64.json",
-    "sha": "42ecc278c3bd8f30cc4ec332d2b1c084834f2a46"
+    "sha": "c5636bd7915b8580b4ffc68446f197629b66332c"
   },
   "65": {
     "translation": "Victor Zhuromsky NT",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Иуде",
     "url": "https://api.getbible.net/v2/zhuromsky/65.json",
-    "sha": "ec20e214f2221a88145b0156b5ffaa71031027ef"
+    "sha": "a65765bc1502dc38b896dd3239ab24f73dc1d868"
   },
   "66": {
     "translation": "Victor Zhuromsky NT",
@@ -319,8 +319,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Откровение",
     "url": "https://api.getbible.net/v2/zhuromsky/66.json",
-    "sha": "34da9e5a683818269601036c30187c0b61b50bf8"
+    "sha": "964d44da80bc11de4780454847a165b03e877b74"
   }
 }

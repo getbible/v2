@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "Ensimmäinen Johanneksen kirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/62/1.json",
-    "sha": "5bb91e9a40b1aa632602bfec4f1272247b023ccd"
+    "sha": "dd81951a4c6ecd16c8f5cf2e6305357c69f6c17f"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "Ensimmäinen Johanneksen kirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/62/2.json",
-    "sha": "484af56f9f76b3f5df8ec68f69abd31315700be1"
+    "sha": "089d071f5729f905db3a15e46784e9fe7a2bed07"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "Ensimmäinen Johanneksen kirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/62/3.json",
-    "sha": "9b22a1fe980c7061ebe0aa562fe7d2aeb7023be5"
+    "sha": "fdf02bcb344ea5e36c155a21badcb64c25c1f138"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "Ensimmäinen Johanneksen kirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/62/4.json",
-    "sha": "04190e3ebac43602bf69e59303aa021a32f4a70e"
+    "sha": "43fc5bf507baf0d56c1b085aa0db7e74fc26bf3e"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ensimmäinen Johanneksen kirje",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "Ensimmäinen Johanneksen kirje 5",
     "url": "https://api.getbible.net/v2/finnish1776/62/5.json",
-    "sha": "27c96f22f032a6d2a4c3712a826223209c3760e4"
+    "sha": "6e7c3e0a664811d3da39229a239f6fe19a5c339c"
   }
 }

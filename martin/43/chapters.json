@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 1,
-    "name": "John 1",
+    "name": "Jean 1",
     "url": "https://api.getbible.net/v2/martin/43/1.json",
-    "sha": "15dc870546a7b974c4f177715cf8be00b89dca11"
+    "sha": "8a8abc37e99577aaedf34e09a3e9bcb197398052"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 2,
-    "name": "John 2",
+    "name": "Jean 2",
     "url": "https://api.getbible.net/v2/martin/43/2.json",
-    "sha": "a94fe4e5910a38507985373ae3cb146242b98b9f"
+    "sha": "3aa460b8ecf599c734f52047c3a5a27c5d6e79b2"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 3,
-    "name": "John 3",
+    "name": "Jean 3",
     "url": "https://api.getbible.net/v2/martin/43/3.json",
-    "sha": "1a34ca10314a46afd64839c74b8f67ae9e9d2cc8"
+    "sha": "f5458ee0c7abf3c6a709679bac22d0339233b009"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 4,
-    "name": "John 4",
+    "name": "Jean 4",
     "url": "https://api.getbible.net/v2/martin/43/4.json",
-    "sha": "6608b5978d27d2908b1cdcce67dace1574fb4573"
+    "sha": "9a472474f90a0adb7971f7084f937b9070bf3478"
   },
   "5": {
     "translation": "Martin (1744)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 5,
-    "name": "John 5",
+    "name": "Jean 5",
     "url": "https://api.getbible.net/v2/martin/43/5.json",
-    "sha": "93b5c9e406567ca1d5630302104ceca5ee01d30e"
+    "sha": "9ab2a4c34be7376ade5db290c8ee87f2ad1cdceb"
   },
   "6": {
     "translation": "Martin (1744)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 6,
-    "name": "John 6",
+    "name": "Jean 6",
     "url": "https://api.getbible.net/v2/martin/43/6.json",
-    "sha": "3e737d9257f17067eab9a9587b5e315ab94380e0"
+    "sha": "8cdae2ff2c49b4177ead3b624295af9970f88072"
   },
   "7": {
     "translation": "Martin (1744)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 7,
-    "name": "John 7",
+    "name": "Jean 7",
     "url": "https://api.getbible.net/v2/martin/43/7.json",
-    "sha": "eb46459ea72807818dd4cf09fb917b9d04f4a824"
+    "sha": "6ae62709a52ed7986c1d30a4948e81fd998f227b"
   },
   "8": {
     "translation": "Martin (1744)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 8,
-    "name": "John 8",
+    "name": "Jean 8",
     "url": "https://api.getbible.net/v2/martin/43/8.json",
-    "sha": "615f13df795e0b27519bd1cda4a624d4ce7508cb"
+    "sha": "21cf9290a86e0ad269f6829683fc8313b0b65aff"
   },
   "9": {
     "translation": "Martin (1744)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 9,
-    "name": "John 9",
+    "name": "Jean 9",
     "url": "https://api.getbible.net/v2/martin/43/9.json",
-    "sha": "5c46af331225f2734e6bf5bdca62e240af52f742"
+    "sha": "76328e08964dc699ffffc9a4f07adcce82e5f795"
   },
   "10": {
     "translation": "Martin (1744)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 10,
-    "name": "John 10",
+    "name": "Jean 10",
     "url": "https://api.getbible.net/v2/martin/43/10.json",
-    "sha": "acc64596b1d0fdd5d66144dc46b20183cb058ee5"
+    "sha": "c3bb23ea5da8197d52caea723574c80750822323"
   },
   "11": {
     "translation": "Martin (1744)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 11,
-    "name": "John 11",
+    "name": "Jean 11",
     "url": "https://api.getbible.net/v2/martin/43/11.json",
-    "sha": "e3d88dbf55ca4760ba14b3765f313ceb68e2b868"
+    "sha": "711f07fe927c0b6537b56e5a2bf9ef963c39416b"
   },
   "12": {
     "translation": "Martin (1744)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 12,
-    "name": "John 12",
+    "name": "Jean 12",
     "url": "https://api.getbible.net/v2/martin/43/12.json",
-    "sha": "4745e47b3db532365fd44f54a0c0d704d8ca42d2"
+    "sha": "dbf622beae8ed096ad702c21ba1aa1b5f551346e"
   },
   "13": {
     "translation": "Martin (1744)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 13,
-    "name": "John 13",
+    "name": "Jean 13",
     "url": "https://api.getbible.net/v2/martin/43/13.json",
-    "sha": "b97748d999a692ef13bab66cc61b6431307fb2c4"
+    "sha": "1511b7bf8b0df3e41243469fee9244337b964bd2"
   },
   "14": {
     "translation": "Martin (1744)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 14,
-    "name": "John 14",
+    "name": "Jean 14",
     "url": "https://api.getbible.net/v2/martin/43/14.json",
-    "sha": "452616feba064120c065526fb0d4ec01bf116fbf"
+    "sha": "1dbfc75c0ba3aebd958f1497724964335771bc39"
   },
   "15": {
     "translation": "Martin (1744)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 15,
-    "name": "John 15",
+    "name": "Jean 15",
     "url": "https://api.getbible.net/v2/martin/43/15.json",
-    "sha": "8cb63894001189ceab6e977de87dcb71743de498"
+    "sha": "01a5c0459088bf9b421c53f25300816009d620e0"
   },
   "16": {
     "translation": "Martin (1744)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 16,
-    "name": "John 16",
+    "name": "Jean 16",
     "url": "https://api.getbible.net/v2/martin/43/16.json",
-    "sha": "6ece718f10a1ed16087495a4c1d28ec87aad523d"
+    "sha": "c7a15e49a39578f0150e3ec65d216ecef09cb0b4"
   },
   "17": {
     "translation": "Martin (1744)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 17,
-    "name": "John 17",
+    "name": "Jean 17",
     "url": "https://api.getbible.net/v2/martin/43/17.json",
-    "sha": "8254fcf4beaa6e827c6cadd04fd65cc4cc8598ae"
+    "sha": "df9eb70eaf15edc26edaeee9889a65a05eecff2f"
   },
   "18": {
     "translation": "Martin (1744)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 18,
-    "name": "John 18",
+    "name": "Jean 18",
     "url": "https://api.getbible.net/v2/martin/43/18.json",
-    "sha": "7002315e407355af9606ae93b9ed5db253620789"
+    "sha": "1f422cf77c815b942981072abd20e139fcdc7159"
   },
   "19": {
     "translation": "Martin (1744)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 19,
-    "name": "John 19",
+    "name": "Jean 19",
     "url": "https://api.getbible.net/v2/martin/43/19.json",
-    "sha": "0480f2245f74c5378181db78256d4f83f0cb0ca3"
+    "sha": "9158a34bc73edc81ea5ee75d49b42192e6b01c06"
   },
   "20": {
     "translation": "Martin (1744)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 20,
-    "name": "John 20",
+    "name": "Jean 20",
     "url": "https://api.getbible.net/v2/martin/43/20.json",
-    "sha": "44cfe1b4513d65c324150f2e11915d54a0b9ed66"
+    "sha": "af7b9182bbf9a18167a59f7b1fedc8b83b1b2081"
   },
   "21": {
     "translation": "Martin (1744)",
@@ -287,10 +287,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 43,
-    "book_name": "John",
+    "book_name": "Jean",
     "chapter": 21,
-    "name": "John 21",
+    "name": "Jean 21",
     "url": "https://api.getbible.net/v2/martin/43/21.json",
-    "sha": "a67a9aca34110a9517047039c76ce85610d12ef1"
+    "sha": "90d8292aca37fddc6361d3977b7c8156d252ce97"
   }
 }

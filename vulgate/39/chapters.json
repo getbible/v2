@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachias",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malachias 1",
     "url": "https://api.getbible.net/v2/vulgate/39/1.json",
-    "sha": "547e79a24f75763a14ed1caa9258a65a2eec149b"
+    "sha": "2e2fa79628b77320e0e29315db15e06968bc8d98"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachias",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malachias 2",
     "url": "https://api.getbible.net/v2/vulgate/39/2.json",
-    "sha": "8b29bcaefda6fd959e840cb7b40f1e554e1cb667"
+    "sha": "55bb54cf71a2edb0e59bc0c8c905893474c12852"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachias",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malachias 3",
     "url": "https://api.getbible.net/v2/vulgate/39/3.json",
-    "sha": "e4ee4bd3f4b497ed05ce0021bc2f3bf353ed49b6"
+    "sha": "4913070ab4dc6df5e5ec86b0844957efc93c2f25"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachias",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malachias 4",
     "url": "https://api.getbible.net/v2/vulgate/39/4.json",
-    "sha": "92f0b8ee081c4b16f6676dae57d73f950925f25f"
+    "sha": "be85142ab063e23619742ba6e40ace40b35db4b3"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 1",
     "url": "https://api.getbible.net/v2/sahidic/53/1.json",
-    "sha": "68485b5d2b97132cec2a927d5b8a56ece580f86c"
+    "sha": "be539b94528dfb0f398c228fcd9492ac7060ac1e"
   },
   "2": {
     "translation": "Sahidic NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 2",
     "url": "https://api.getbible.net/v2/sahidic/53/2.json",
-    "sha": "18e29567bb1778dec071a943a7227b86bb475534"
+    "sha": "82a0d7fa3213440cfda02d3c6ffbc0a75e97f475"
   },
   "3": {
     "translation": "Sahidic NT",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Ⲑⲉⲥⲥⲁⲗⲟⲛⲓⲕⲏⲥ 3",
     "url": "https://api.getbible.net/v2/sahidic/53/3.json",
-    "sha": "234ee57f9afbee98d734bc8947aa61ced0c1051b"
+    "sha": "53e0cf2959a404455fa3289145b603946d91cbec"
   }
 }

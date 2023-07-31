@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pierre",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Pierre 1",
     "url": "https://api.getbible.net/v2/ls1910/60/1.json",
-    "sha": "dec2e5ab9d1a6ade3be31343689280404709de33"
+    "sha": "795cf2831873c403f135c8db803596480e2f926c"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pierre",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Pierre 2",
     "url": "https://api.getbible.net/v2/ls1910/60/2.json",
-    "sha": "a400fff1165a8eb109821ba39694c1e5736ec21c"
+    "sha": "9734809233b89083b94a57bea7f9f73c0090e9d7"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pierre",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Pierre 3",
     "url": "https://api.getbible.net/v2/ls1910/60/3.json",
-    "sha": "dfd8ef66035a5060907773200e01ea485a4a7a08"
+    "sha": "675d96098b3e5ea92f7970fed0033237ebb9a2df"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pierre",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Pierre 4",
     "url": "https://api.getbible.net/v2/ls1910/60/4.json",
-    "sha": "8e2f20f070795c45123153b7d2cc43d299b08374"
+    "sha": "9185d722bb886dbe84961810ec171d6a3c80675e"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Pierre",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Pierre 5",
     "url": "https://api.getbible.net/v2/ls1910/60/5.json",
-    "sha": "1adb3dc0acd53cc7dd8bd5c38f4c3437bb4c6e34"
+    "sha": "37d96c176baecfc989de72c2c0d1e8e514bc9a62"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petras",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Petras 1",
     "url": "https://api.getbible.net/v2/lithuanian/61/1.json",
-    "sha": "3c547aca5513b5e968909f7c5ad7b81cc0dd22d2"
+    "sha": "5dca64db7ca502c59408d7c6304c7bf6a23b8105"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petras",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Petras 2",
     "url": "https://api.getbible.net/v2/lithuanian/61/2.json",
-    "sha": "13bd56583f08502418b6448bfa3998bc8d6524a1"
+    "sha": "0886acf4b7455b1f2e652885c5e421869f3353e7"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Petras",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Petras 3",
     "url": "https://api.getbible.net/v2/lithuanian/61/3.json",
-    "sha": "0d5dcdfb266846c10271ed37434a53ef1d8306b3"
+    "sha": "44c654dd6f6792b8040506787b9584fa1d8865c3"
   }
 }

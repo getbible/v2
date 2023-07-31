@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 يوحنا",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 يوحنا 1",
     "url": "https://api.getbible.net/v2/arabicsv/62/1.json",
-    "sha": "e9c99bbd2739ad9b9e699ac4678f02f0567bf261"
+    "sha": "79935feb5df77203a7764c0a141dbb178d5f4991"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 يوحنا",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 يوحنا 2",
     "url": "https://api.getbible.net/v2/arabicsv/62/2.json",
-    "sha": "39fb824879a0035ca3dca7d150e025d8c75e7383"
+    "sha": "633c537b0130c1f0dfa389e734a582009664b50c"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 يوحنا",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 يوحنا 3",
     "url": "https://api.getbible.net/v2/arabicsv/62/3.json",
-    "sha": "73fa0f7286fa08346176ac0571348b1604de36fc"
+    "sha": "94596ece0577c6d9b299338b8d00d2bffaa14ffa"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 يوحنا",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 يوحنا 4",
     "url": "https://api.getbible.net/v2/arabicsv/62/4.json",
-    "sha": "191f975ff8e7e2a74652f892b568bcc26fe44bcd"
+    "sha": "c8dbca5886a672fd25f6731cc21238602b14fccc"
   },
   "5": {
     "translation": "Smith and Van Dyke",
@@ -63,10 +63,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 يوحنا",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 يوحنا 5",
     "url": "https://api.getbible.net/v2/arabicsv/62/5.json",
-    "sha": "d8761cecbab53e9b0164777aef49a915fda17bd8"
+    "sha": "688b2d617e271deb4baf9d5a365cc4c1a50a7fd1"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Colossians 1",
     "url": "https://api.getbible.net/v2/wycliffe/51/1.json",
-    "sha": "bfd4bd2526d76b5bf5fa146d9152c2f4e04bb419"
+    "sha": "bbf4793b0c6959d2126dee3d90061f0249cf5d42"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Colossians 2",
     "url": "https://api.getbible.net/v2/wycliffe/51/2.json",
-    "sha": "924197ea1c382bb5a5bb541fc68ff77435f19161"
+    "sha": "cbdf3f3a34e1fb94501c3e20a35d7422eb4f95e6"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "Colossians 3",
     "url": "https://api.getbible.net/v2/wycliffe/51/3.json",
-    "sha": "c802c833baee351e1334a7dbc317e96e6317454d"
+    "sha": "135ac7bf13c4c5c0de242e290be74498acfd895c"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Colossians 4",
     "url": "https://api.getbible.net/v2/wycliffe/51/4.json",
-    "sha": "9b290fa0e8a3c36414b3a9d521e9630366a18711"
+    "sha": "8aa12dfea7b2e7e3698e2ca7380f2c229a938304"
   }
 }

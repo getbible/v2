@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesorrei",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efesorrei 1",
     "url": "https://api.getbible.net/v2/basque/49/1.json",
-    "sha": "767111620b21cb64b1f2b7bc5da20b947f260975"
+    "sha": "ddf4f829946dc0e908ff67c260d31c22789d3abd"
   },
   "2": {
     "translation": "(Navarro Labourdin) NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesorrei",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efesorrei 2",
     "url": "https://api.getbible.net/v2/basque/49/2.json",
-    "sha": "d1e90d20ce7a3fbd5a6b365e3d08573ff14599ad"
+    "sha": "f30dac6ff75128c9e18ceec038d5e298e78be808"
   },
   "3": {
     "translation": "(Navarro Labourdin) NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesorrei",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efesorrei 3",
     "url": "https://api.getbible.net/v2/basque/49/3.json",
-    "sha": "3ec09ccfbb93c814a7fc90af60a705d9af1b438e"
+    "sha": "4d81cebafba65f63bb3bff22de27bab438d94469"
   },
   "4": {
     "translation": "(Navarro Labourdin) NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesorrei",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efesorrei 4",
     "url": "https://api.getbible.net/v2/basque/49/4.json",
-    "sha": "d9340f34895b7fb54e047f8d73fba3590619df5a"
+    "sha": "158126ea5451e6741bd5ab346c3e60b5e4ccf008"
   },
   "5": {
     "translation": "(Navarro Labourdin) NT",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesorrei",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efesorrei 5",
     "url": "https://api.getbible.net/v2/basque/49/5.json",
-    "sha": "3a725f11faffbebb024119abb6d1e1f44303b7bc"
+    "sha": "2ecc0870a92d8b8bab4418de350e54c7536f6d16"
   },
   "6": {
     "translation": "(Navarro Labourdin) NT",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesorrei",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efesorrei 6",
     "url": "https://api.getbible.net/v2/basque/49/6.json",
-    "sha": "f8addef86e4e8e43e6e2e432674ba2c063bdfd70"
+    "sha": "e170be04e381ea0f96abd666016de5189d34d3d4"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Филиппийцам 1",
     "url": "https://api.getbible.net/v2/zhuromsky/50/1.json",
-    "sha": "874cb59bb8674b7f12fc1c8cfc0098168f06f226"
+    "sha": "2532d100fcf0f1d10ff9db5467a9d3f6fa837479"
   },
   "2": {
     "translation": "Victor Zhuromsky NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Филиппийцам 2",
     "url": "https://api.getbible.net/v2/zhuromsky/50/2.json",
-    "sha": "7f9494c834778c72b2ac89d1a3bd56d4660e5428"
+    "sha": "c56abd9bb42e9aa441a5562fc162a7eef2b373f7"
   },
   "3": {
     "translation": "Victor Zhuromsky NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Филиппийцам 3",
     "url": "https://api.getbible.net/v2/zhuromsky/50/3.json",
-    "sha": "83245c00fcbe90ae23a489bf9911b1169bf863af"
+    "sha": "6658ae2f725a456b56279e88268c1a3d1d606c7e"
   },
   "4": {
     "translation": "Victor Zhuromsky NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Филиппийцам 4",
     "url": "https://api.getbible.net/v2/zhuromsky/50/4.json",
-    "sha": "3210df4a0c6f0f20ac1317304857693b8e794208"
+    "sha": "3f5e691c26fd08fbe1a82583f1e5448cf712989b"
   }
 }

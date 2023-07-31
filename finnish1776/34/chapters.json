@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumin kirja",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Nahumin kirja 1",
     "url": "https://api.getbible.net/v2/finnish1776/34/1.json",
-    "sha": "6abbc5c925e9fed54294e15653fa5ad93daea099"
+    "sha": "ee4243064e81c98126b9a49a09decc9ff81b68a9"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumin kirja",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Nahumin kirja 2",
     "url": "https://api.getbible.net/v2/finnish1776/34/2.json",
-    "sha": "5fa3430d56ac2326cd2862706f593038ac2e1e6d"
+    "sha": "1fded5688906cafaa973eb5a2c04d6cd2c47eadc"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumin kirja",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Nahumin kirja 3",
     "url": "https://api.getbible.net/v2/finnish1776/34/3.json",
-    "sha": "8642d13dee1ddd48f05dcb79f0f8f8af4e00126a"
+    "sha": "2a5937c29798be34f4726af7959da072a4750734"
   }
 }

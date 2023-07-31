@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Προς Εφεσίους 1",
     "url": "https://api.getbible.net/v2/moderngreek/49/1.json",
-    "sha": "d2cde994990da555b0fedbd1cd4928da1da1678f"
+    "sha": "3c3c3c062df9e6ce5a6c7436a33cfa5a28175e80"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Προς Εφεσίους 2",
     "url": "https://api.getbible.net/v2/moderngreek/49/2.json",
-    "sha": "c83aaa6136e03deca7d3f4b31dc713e22d88cfd2"
+    "sha": "02040bdfbd49a3c0e774808e530bfd0afc49f3e3"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Προς Εφεσίους 3",
     "url": "https://api.getbible.net/v2/moderngreek/49/3.json",
-    "sha": "8b2f6eaf2029e5ac6fb36828c78ad7d8f100ae3b"
+    "sha": "fb9b8f3932399cfe21e7928008163607b8d5b60e"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Προς Εφεσίους 4",
     "url": "https://api.getbible.net/v2/moderngreek/49/4.json",
-    "sha": "9c686a524b235c4f34287bcca51dc4203af2a1fc"
+    "sha": "771305793614ebfa4b79cf1a3acaffaaaac39b08"
   },
   "5": {
     "translation": "Greek Modern",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Προς Εφεσίους 5",
     "url": "https://api.getbible.net/v2/moderngreek/49/5.json",
-    "sha": "18ad7a825cae19362a9b0c0be828fa58f0b5efda"
+    "sha": "5b9b31d0589c9c846f7a376bb29ca9b0955c49ab"
   },
   "6": {
     "translation": "Greek Modern",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Προς Εφεσίους 6",
     "url": "https://api.getbible.net/v2/moderngreek/49/6.json",
-    "sha": "e0ebfb9dba417fbad88209281f58ed07b9c45c50"
+    "sha": "51811ee20952cbed2be9971b041722a15eb2700a"
   }
 }

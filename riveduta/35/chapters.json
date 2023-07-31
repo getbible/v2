@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Abacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Abacuc 1",
     "url": "https://api.getbible.net/v2/riveduta/35/1.json",
-    "sha": "7265fcf3f26ff5a1a10a3cbf94168b09f47dff50"
+    "sha": "c0282513c574d8b82a71a512d3530f2cbefecd99"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Abacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Abacuc 2",
     "url": "https://api.getbible.net/v2/riveduta/35/2.json",
-    "sha": "fd92b34eef6d15e1883d3410ac9e2a8980eafda9"
+    "sha": "645ca92e959750a4c99505d8a10c1251554e1b20"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Abacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Abacuc 3",
     "url": "https://api.getbible.net/v2/riveduta/35/3.json",
-    "sha": "5f1220754cc4086d829d43795c2fa18018bd1e35"
+    "sha": "e0f98181035b74b0afc0799123aa6d1518e1ef10"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "صفنيا",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "صفنيا 1",
     "url": "https://api.getbible.net/v2/arabicsv/36/1.json",
-    "sha": "048b2ed7f9ba8e1283fe03148f1506e3a6be681e"
+    "sha": "9e1d3d65107262f4eadce2395ff9803a0e778789"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "صفنيا",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "صفنيا 2",
     "url": "https://api.getbible.net/v2/arabicsv/36/2.json",
-    "sha": "0becec909bc3d4328490f1866706e31dd4a6de96"
+    "sha": "07f0b408419b96908cd22b9081b952d7115c0427"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,10 +35,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "صفنيا",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "صفنيا 3",
     "url": "https://api.getbible.net/v2/arabicsv/36/3.json",
-    "sha": "cad5ba4a10ffe2fcf3b9e2119db8d70a75e53de6"
+    "sha": "236f378e78561b90662c63ec77041992cef571b9"
   }
 }

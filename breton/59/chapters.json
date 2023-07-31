@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakob",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakob 1",
     "url": "https://api.getbible.net/v2/breton/59/1.json",
-    "sha": "7a2b90cd664f90b8a128a84bd3f6625aa85124b6"
+    "sha": "1debd5fd981e4a5589bc7762d978b72f7d12e5c9"
   },
   "2": {
     "translation": "Gospels",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakob",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakob 2",
     "url": "https://api.getbible.net/v2/breton/59/2.json",
-    "sha": "48093ec12d4e96bd80535e4c21d689dce19a5a85"
+    "sha": "e5f7b1c705e212812d3854ce8851f5a6f630be1a"
   },
   "3": {
     "translation": "Gospels",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakob",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakob 3",
     "url": "https://api.getbible.net/v2/breton/59/3.json",
-    "sha": "ad195dd0a3a2ecada6021ad2ad693ec7408f5af1"
+    "sha": "58d2dede71fb40b84a1129c299870e8bb97cc4ee"
   },
   "4": {
     "translation": "Gospels",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakob",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakob 4",
     "url": "https://api.getbible.net/v2/breton/59/4.json",
-    "sha": "016324ed4955cb0acb70fbf2ba7ad2142263918d"
+    "sha": "e19187335e12beb3b02b38fd664a0ce13ce69dc0"
   },
   "5": {
     "translation": "Gospels",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakob",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakob 5",
     "url": "https://api.getbible.net/v2/breton/59/5.json",
-    "sha": "0d69461788522cd5ec7f9e106fcdf8f067d491da"
+    "sha": "23894897ce56641fa189515344bbdebc3b969e38"
   }
 }

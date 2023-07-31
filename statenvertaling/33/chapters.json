@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micha",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Micha 1",
     "url": "https://api.getbible.net/v2/statenvertaling/33/1.json",
-    "sha": "681ce9d89e05283b7a86cb292b3b46039e0a4006"
+    "sha": "005c83808bf17c782f24bac18dd8592344d0a7fa"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micha",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Micha 2",
     "url": "https://api.getbible.net/v2/statenvertaling/33/2.json",
-    "sha": "e05dc6750573d4b6214106fcfbe52dd275da49b0"
+    "sha": "650aad9fff1b468e8bad199b80bbea54048555a8"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micha",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Micha 3",
     "url": "https://api.getbible.net/v2/statenvertaling/33/3.json",
-    "sha": "0d9eb380c028b522a6fa270c02c46838edb3d7f1"
+    "sha": "558dd661c7053179158f2278958cafb5e6fe895b"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micha",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Micha 4",
     "url": "https://api.getbible.net/v2/statenvertaling/33/4.json",
-    "sha": "2f5c9f7371b67752acb1508a1c2cd8b56791e223"
+    "sha": "a4e62d74b48ace6d317c8252daa15d02bda98358"
   },
   "5": {
     "translation": "Dutch Staten Vertaling",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micha",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Micha 5",
     "url": "https://api.getbible.net/v2/statenvertaling/33/5.json",
-    "sha": "82637ebfe97a8d76e55b3bb01894f400f277ea9d"
+    "sha": "6d82c0c088c7feaf60cef70431c4e8c3e1073f9b"
   },
   "6": {
     "translation": "Dutch Staten Vertaling",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micha",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Micha 6",
     "url": "https://api.getbible.net/v2/statenvertaling/33/6.json",
-    "sha": "ca226860b5c652d03a049c6b1ccd16a0e63c42db"
+    "sha": "e4eb77bdbe0231bdc57410aa65f2661705197ba0"
   },
   "7": {
     "translation": "Dutch Staten Vertaling",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Micha",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Micha 7",
     "url": "https://api.getbible.net/v2/statenvertaling/33/7.json",
-    "sha": "6f7e3bcb502e116f1bf2ed3746186b2026a3bccf"
+    "sha": "08ea813bd151e728bc5f00edb0a2990f8ac222d5"
   }
 }

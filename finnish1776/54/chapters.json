@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Ensimmäinen Timoteuskirje",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "Ensimmäinen Timoteuskirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/54/1.json",
-    "sha": "bff9605310b3ca2638dcbaffbae39692b203b12d"
+    "sha": "e7f7ab9394ac149272134f86aa1be12a7333e61f"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Ensimmäinen Timoteuskirje",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "Ensimmäinen Timoteuskirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/54/2.json",
-    "sha": "921e609291a8cf66f976a2bb58f7fb62e871f5b5"
+    "sha": "c0a4d7498498c88d1cb95fea97f5e1b6ab1d4ce4"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Ensimmäinen Timoteuskirje",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "Ensimmäinen Timoteuskirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/54/3.json",
-    "sha": "818afc39ef4c6c5a5cb5792d097c97b8bc540f4d"
+    "sha": "c8b546dcb9131aa798c57f7d21b85b7da52a0afb"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Ensimmäinen Timoteuskirje",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "Ensimmäinen Timoteuskirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/54/4.json",
-    "sha": "430d8abb5a0f0f279ef6eed85b3c79befc7a453c"
+    "sha": "f1c250e593a467dd4066fc9c3d4cc20294dd8f6c"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Ensimmäinen Timoteuskirje",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "Ensimmäinen Timoteuskirje 5",
     "url": "https://api.getbible.net/v2/finnish1776/54/5.json",
-    "sha": "cb94d000d646362d6af1da89dc31ad085f34c108"
+    "sha": "9af61fb7ad42631d2a6f871168ec143f6acfd21b"
   },
   "6": {
     "translation": "Finnish Bible (1776)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Ensimmäinen Timoteuskirje",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "Ensimmäinen Timoteuskirje 6",
     "url": "https://api.getbible.net/v2/finnish1776/54/6.json",
-    "sha": "d73b78729f2667e51e646dd9f13eb13c9115e5ed"
+    "sha": "25b82187795da8bc75ddcf86ce02078cd235174d"
   }
 }

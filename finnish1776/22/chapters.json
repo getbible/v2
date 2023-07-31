@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Laulujen laulu 1",
     "url": "https://api.getbible.net/v2/finnish1776/22/1.json",
-    "sha": "8342825f8cbb30024cb04b480c38cff248123901"
+    "sha": "3085ad95e4c95722e241e01b6d34641c79310d44"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Laulujen laulu 2",
     "url": "https://api.getbible.net/v2/finnish1776/22/2.json",
-    "sha": "50296a955f9263f4f2b0962bb365875cd8c29dcb"
+    "sha": "a77e94058e4322189cfb03c151e423b646d389d2"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Laulujen laulu 3",
     "url": "https://api.getbible.net/v2/finnish1776/22/3.json",
-    "sha": "8eda995cd17f2fa7ab463578c783571de31a9d84"
+    "sha": "8486ec9daea1ae117f9eb3aea399615e9e405102"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Laulujen laulu 4",
     "url": "https://api.getbible.net/v2/finnish1776/22/4.json",
-    "sha": "1fd3a13b3f79e743fafb51285c8036759b3d8760"
+    "sha": "ea1e06c33d37c79036454fbbb61b6b2b6e408108"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Laulujen laulu 5",
     "url": "https://api.getbible.net/v2/finnish1776/22/5.json",
-    "sha": "35aa2b70ca45f467b5ac52672d7b18c6b52709ea"
+    "sha": "76545f623dc6036c9b76685095a9f9cae410885d"
   },
   "6": {
     "translation": "Finnish Bible (1776)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Laulujen laulu 6",
     "url": "https://api.getbible.net/v2/finnish1776/22/6.json",
-    "sha": "b478aaf7ac2e71107a0f25110918f8b932d6bd93"
+    "sha": "964252dcc08719348fe319a20cef3b730c29ace4"
   },
   "7": {
     "translation": "Finnish Bible (1776)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Laulujen laulu 7",
     "url": "https://api.getbible.net/v2/finnish1776/22/7.json",
-    "sha": "4b64454e541bfe99573d3af831d3fa83234b21e6"
+    "sha": "2291737e010ee427e42043517d103a76f20e6b2a"
   },
   "8": {
     "translation": "Finnish Bible (1776)",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Laulujen laulu",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Laulujen laulu 8",
     "url": "https://api.getbible.net/v2/finnish1776/22/8.json",
-    "sha": "83b8ccc974b22729770bd90f6a927aee67162101"
+    "sha": "cffc999f8569f03f0c553690e105878298d3259f"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Wakolosai",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Wakolosai 1",
     "url": "https://api.getbible.net/v2/swahili/51/1.json",
-    "sha": "105908d07862c801d0fe2088d7b6db561a075ebe"
+    "sha": "78f18bf9a69c8dee39d88f963d2af4013464bf9c"
   },
   "2": {
     "translation": "Swahili",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Wakolosai",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Wakolosai 2",
     "url": "https://api.getbible.net/v2/swahili/51/2.json",
-    "sha": "b52eb91a33f85da180a01012c6dcd66f0bfad1d4"
+    "sha": "505411ba9d0029fb0dda17fd4576888aeee23400"
   },
   "3": {
     "translation": "Swahili",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Wakolosai",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Wakolosai 3",
     "url": "https://api.getbible.net/v2/swahili/51/3.json",
-    "sha": "7df51eea4ee61fefc4a74880a89d777434b0959b"
+    "sha": "ab42eff335824d86dfc491511524d4d5fea7bf01"
   },
   "4": {
     "translation": "Swahili",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Wakolosai",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Wakolosai 4",
     "url": "https://api.getbible.net/v2/swahili/51/4.json",
-    "sha": "588091017f972122c8abcb7f6b51e85529314c93"
+    "sha": "a57287dc31b052f7e5263c69e573a03ec6c623c9"
   }
 }

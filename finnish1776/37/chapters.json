@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggain kirja",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Haggain kirja 1",
     "url": "https://api.getbible.net/v2/finnish1776/37/1.json",
-    "sha": "e308790044b5b47a244561cd40e368204ea40a98"
+    "sha": "b2375287c6568747650f93f519562c1ef256000b"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggain kirja",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Haggain kirja 2",
     "url": "https://api.getbible.net/v2/finnish1776/37/2.json",
-    "sha": "f1d627010725746d275986f7b5e2503513eafa72"
+    "sha": "79f50598e955d14e7e52b9802fab33d1df1f461e"
   }
 }

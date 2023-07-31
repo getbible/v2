@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 1,
-    "name": "2 Samuel 1",
+    "name": "2-я Царств 1",
     "url": "https://api.getbible.net/v2/synodal/10/1.json",
-    "sha": "915d4bd8f5492ddf214a2b269d5eebc6d7499ad8"
+    "sha": "8dd4d28af9b535e2a1973f788179641976a9dfca"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 2,
-    "name": "2 Samuel 2",
+    "name": "2-я Царств 2",
     "url": "https://api.getbible.net/v2/synodal/10/2.json",
-    "sha": "99c92415f794d1d197f36ac5f29f47017b16612b"
+    "sha": "5f4185665cd7d0c955272301634e1fa5631d5608"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 3,
-    "name": "2 Samuel 3",
+    "name": "2-я Царств 3",
     "url": "https://api.getbible.net/v2/synodal/10/3.json",
-    "sha": "e6fbe771fcfb37fcb5b9359863f3e1164aefe60b"
+    "sha": "fff927be5b7a6c2d7394280bfaa7388eb13fbe32"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 4,
-    "name": "2 Samuel 4",
+    "name": "2-я Царств 4",
     "url": "https://api.getbible.net/v2/synodal/10/4.json",
-    "sha": "0db2688d8af5e951a8a3349a0bee9237783072af"
+    "sha": "9d98f108b996c4dc6d314f0594d34ae23e98c13e"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 5,
-    "name": "2 Samuel 5",
+    "name": "2-я Царств 5",
     "url": "https://api.getbible.net/v2/synodal/10/5.json",
-    "sha": "b7f02b7196020e7774dbbd3126c1a979211b573c"
+    "sha": "64c7fdcfbb24ec15c5e1af4e78dba1c252cedfce"
   },
   "6": {
     "translation": "Synodal Translation (1876)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 6,
-    "name": "2 Samuel 6",
+    "name": "2-я Царств 6",
     "url": "https://api.getbible.net/v2/synodal/10/6.json",
-    "sha": "c9ea40fbf794acfe3250eaa5ef9f3f2b3276beb4"
+    "sha": "27d0a54f34d6303e33ce7dfadaae965f4bfb978c"
   },
   "7": {
     "translation": "Synodal Translation (1876)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 7,
-    "name": "2 Samuel 7",
+    "name": "2-я Царств 7",
     "url": "https://api.getbible.net/v2/synodal/10/7.json",
-    "sha": "2e9568b9ae13e9d14675a256fa4f46945daaef2f"
+    "sha": "35ae2e229b181b125a1c9959c8df26e81ebf5309"
   },
   "8": {
     "translation": "Synodal Translation (1876)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 8,
-    "name": "2 Samuel 8",
+    "name": "2-я Царств 8",
     "url": "https://api.getbible.net/v2/synodal/10/8.json",
-    "sha": "d81e1b03fc05191e2236769a8285264eff0d1de5"
+    "sha": "3bdb61953bb5065a84a303e300c9b29d40f0af88"
   },
   "9": {
     "translation": "Synodal Translation (1876)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 9,
-    "name": "2 Samuel 9",
+    "name": "2-я Царств 9",
     "url": "https://api.getbible.net/v2/synodal/10/9.json",
-    "sha": "b9320a0a6be02d8fd2d50161a55f1d3b73973b03"
+    "sha": "8ef1597b5692bfe57ecbe3aa9fd4fb8f78a55292"
   },
   "10": {
     "translation": "Synodal Translation (1876)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 10,
-    "name": "2 Samuel 10",
+    "name": "2-я Царств 10",
     "url": "https://api.getbible.net/v2/synodal/10/10.json",
-    "sha": "b41a3ac629ecb2ec0a7c090c6039ae2912e16fc8"
+    "sha": "60af3b69640eb1540f40f7ac658c3c8a9e4f3aee"
   },
   "11": {
     "translation": "Synodal Translation (1876)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 11,
-    "name": "2 Samuel 11",
+    "name": "2-я Царств 11",
     "url": "https://api.getbible.net/v2/synodal/10/11.json",
-    "sha": "a82638eae5d0d12479e7d042bf6f153e9bfa3d78"
+    "sha": "f2686c33608cab1b6a1f80406f7cab7a872691f0"
   },
   "12": {
     "translation": "Synodal Translation (1876)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 12,
-    "name": "2 Samuel 12",
+    "name": "2-я Царств 12",
     "url": "https://api.getbible.net/v2/synodal/10/12.json",
-    "sha": "9ac6509d5442c71a37e4528da553e3067df6c31b"
+    "sha": "e034e1f40a3358721c657e076c1dd8b8aad8e07d"
   },
   "13": {
     "translation": "Synodal Translation (1876)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 13,
-    "name": "2 Samuel 13",
+    "name": "2-я Царств 13",
     "url": "https://api.getbible.net/v2/synodal/10/13.json",
-    "sha": "f5af1486c57e7393ae30870d7a5ae5d2b46696b2"
+    "sha": "5e4c88c45a6867a6b91759b803da87ef6a16236e"
   },
   "14": {
     "translation": "Synodal Translation (1876)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 14,
-    "name": "2 Samuel 14",
+    "name": "2-я Царств 14",
     "url": "https://api.getbible.net/v2/synodal/10/14.json",
-    "sha": "ea957d2d115e9829d8179081af857b38237391da"
+    "sha": "5a08c03003ac23c75d86150a6bcfce2b473b2043"
   },
   "15": {
     "translation": "Synodal Translation (1876)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 15,
-    "name": "2 Samuel 15",
+    "name": "2-я Царств 15",
     "url": "https://api.getbible.net/v2/synodal/10/15.json",
-    "sha": "352cb1f3a53ef0e191691de74efc44e6c5e452f3"
+    "sha": "aab4e2c5775cdf7ea7a7e030c5d681ab0d05b1cc"
   },
   "16": {
     "translation": "Synodal Translation (1876)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 16,
-    "name": "2 Samuel 16",
+    "name": "2-я Царств 16",
     "url": "https://api.getbible.net/v2/synodal/10/16.json",
-    "sha": "21efcaf1690587b9f770373b66d247b22d0999e0"
+    "sha": "a41fdd78f8dfc4899f0dc8f9c7b6dce3b6e33199"
   },
   "17": {
     "translation": "Synodal Translation (1876)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 17,
-    "name": "2 Samuel 17",
+    "name": "2-я Царств 17",
     "url": "https://api.getbible.net/v2/synodal/10/17.json",
-    "sha": "5710306aa57aa3c42f7d48b4692ce21e8b483423"
+    "sha": "535c5f3d404c447822428e36e3f66ead04e32153"
   },
   "18": {
     "translation": "Synodal Translation (1876)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 18,
-    "name": "2 Samuel 18",
+    "name": "2-я Царств 18",
     "url": "https://api.getbible.net/v2/synodal/10/18.json",
-    "sha": "14e5a66c1549c971c38a19b1f49efde78f5ca013"
+    "sha": "31eb8685927c9fced70d758c0f916dda76dbdb64"
   },
   "19": {
     "translation": "Synodal Translation (1876)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 19,
-    "name": "2 Samuel 19",
+    "name": "2-я Царств 19",
     "url": "https://api.getbible.net/v2/synodal/10/19.json",
-    "sha": "1dda617f7a1309727281239c4d0a41ef81728553"
+    "sha": "58a65116c52014ba7347c5f31d5f439b2eb9f7cd"
   },
   "20": {
     "translation": "Synodal Translation (1876)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 20,
-    "name": "2 Samuel 20",
+    "name": "2-я Царств 20",
     "url": "https://api.getbible.net/v2/synodal/10/20.json",
-    "sha": "79e44fc4fa6ec7be804f2f1c3238934e7af8d840"
+    "sha": "7f2f01a0c5c30f93cbde10c041b5261abe3c6efe"
   },
   "21": {
     "translation": "Synodal Translation (1876)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 21,
-    "name": "2 Samuel 21",
+    "name": "2-я Царств 21",
     "url": "https://api.getbible.net/v2/synodal/10/21.json",
-    "sha": "a808f53fdfce6db950d3b250c061e4e2f439380f"
+    "sha": "5f71de532cd144ac5ac9dcbc6f35a6bdfb2fedd9"
   },
   "22": {
     "translation": "Synodal Translation (1876)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 22,
-    "name": "2 Samuel 22",
+    "name": "2-я Царств 22",
     "url": "https://api.getbible.net/v2/synodal/10/22.json",
-    "sha": "aa5563cf61de508b084a52898c963856f3a811a0"
+    "sha": "b0c16f08572d45b3f952b9a31ede830eecb0d50a"
   },
   "23": {
     "translation": "Synodal Translation (1876)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 23,
-    "name": "2 Samuel 23",
+    "name": "2-я Царств 23",
     "url": "https://api.getbible.net/v2/synodal/10/23.json",
-    "sha": "f4a2ebe74c06dd93be510ed248bcbebf04d719e3"
+    "sha": "b08cc06544cc8e5843fd78a7da255b0a734987ac"
   },
   "24": {
     "translation": "Synodal Translation (1876)",
@@ -329,10 +329,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 10,
-    "book_name": "2 Samuel",
+    "book_name": "2-я Царств",
     "chapter": 24,
-    "name": "2 Samuel 24",
+    "name": "2-я Царств 24",
     "url": "https://api.getbible.net/v2/synodal/10/24.json",
-    "sha": "85adcf332199a2bff7ea8292377a916360c1e14f"
+    "sha": "788a0666ec1ecb896a613933e31b34547007039a"
   }
 }

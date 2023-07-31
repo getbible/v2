@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ağıtlar",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Ağıtlar 1",
     "url": "https://api.getbible.net/v2/turkish/25/1.json",
-    "sha": "0181665c7ef2630a57dad22746adab34a7480f95"
+    "sha": "e67f97315c5a8a7c564df02744478f43ad1c725b"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ağıtlar",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Ağıtlar 2",
     "url": "https://api.getbible.net/v2/turkish/25/2.json",
-    "sha": "ae717755a28fc66ac44cbc9fa239bc217024f689"
+    "sha": "423206ef810eaf4cff8c2ca8223409e34f08af8b"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ağıtlar",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Ağıtlar 3",
     "url": "https://api.getbible.net/v2/turkish/25/3.json",
-    "sha": "a2433a747ae5b1a711d34a62ade0b5b939fbc113"
+    "sha": "f6c6702ccaab81390faaeb7fba9beabe073cd20b"
   },
   "4": {
     "translation": "Turkish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ağıtlar",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Ağıtlar 4",
     "url": "https://api.getbible.net/v2/turkish/25/4.json",
-    "sha": "548a5e95ed02725ac8c03267f420fde0f1463364"
+    "sha": "00a97fa41337ccd57eb40bf471ec42ddad2a7125"
   },
   "5": {
     "translation": "Turkish",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Ağıtlar",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Ağıtlar 5",
     "url": "https://api.getbible.net/v2/turkish/25/5.json",
-    "sha": "158eb0041b703709224b65444a765733ca4d5a41"
+    "sha": "a1ccb9bc8e0c121b4cb5d7f429d48518a452aa2a"
   }
 }

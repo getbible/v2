@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miquéias",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Miquéias 1",
     "url": "https://api.getbible.net/v2/almeida/33/1.json",
-    "sha": "53f845dfd142b65b4a0e659211492e45c1565183"
+    "sha": "20d5c31fa1e63829b6f27f813a0ea4c8b4ad3e48"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miquéias",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Miquéias 2",
     "url": "https://api.getbible.net/v2/almeida/33/2.json",
-    "sha": "9b3b626a71e116646257fde4843527b0ae37942f"
+    "sha": "9583312fb6f6818ced399cad75c13e76185afb44"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miquéias",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Miquéias 3",
     "url": "https://api.getbible.net/v2/almeida/33/3.json",
-    "sha": "6ae009fdd65bbb2c964c3c54727559bfc5e8933e"
+    "sha": "ba65959674e83c9ec336620e6ee90607020b0f5e"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miquéias",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Miquéias 4",
     "url": "https://api.getbible.net/v2/almeida/33/4.json",
-    "sha": "c965eb85ebced89f4fe6ecab79ad53815585faed"
+    "sha": "75886f8c47b65b0b201ed6068d00955fda838fef"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miquéias",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Miquéias 5",
     "url": "https://api.getbible.net/v2/almeida/33/5.json",
-    "sha": "fa235dd6db89ee71cf7f6f6d88eb078f4142cf58"
+    "sha": "094e3410d229f1616868b32254694c8d25e5590c"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miquéias",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Miquéias 6",
     "url": "https://api.getbible.net/v2/almeida/33/6.json",
-    "sha": "504d80498573faad86e8ffdfeb782ffcf4c4c497"
+    "sha": "10d959745e67b0496eacf4efafaea9bff8e324f1"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miquéias",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Miquéias 7",
     "url": "https://api.getbible.net/v2/almeida/33/7.json",
-    "sha": "a8d6a5781f4bd82b5a88ae33e5eac9680b2f2d13"
+    "sha": "c3a4bfb208df928d7c33c0d713372b8797eb46e6"
   }
 }

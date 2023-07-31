@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 1",
     "url": "https://api.getbible.net/v2/sahidic/55/1.json",
-    "sha": "4baf5276796663cb56d65b5b17d368eaa1b63c07"
+    "sha": "4ade6bcf430c559609974ef598a7fc6955e3ed62"
   },
   "2": {
     "translation": "Sahidic NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 2",
     "url": "https://api.getbible.net/v2/sahidic/55/2.json",
-    "sha": "e295c395c1a871d1ee333dab9881892ed54c62cc"
+    "sha": "b01bdf1802cc5beb2493a5a20b8c82c311386c05"
   },
   "3": {
     "translation": "Sahidic NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 3",
     "url": "https://api.getbible.net/v2/sahidic/55/3.json",
-    "sha": "b118e2502a112a9f66571f8245fab74eb2603ffa"
+    "sha": "8591fe44ba26b4b4e505e19bad3df01282a8dcc4"
   },
   "4": {
     "translation": "Sahidic NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Ⲧⲓⲙⲟⲑⲉⲟⲥ 4",
     "url": "https://api.getbible.net/v2/sahidic/55/4.json",
-    "sha": "a84f422321f126b00c379eec3b3f8424c634c73b"
+    "sha": "55402d5e7d153379c57a91076c857463e2597482"
   }
 }

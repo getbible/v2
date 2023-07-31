@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Joel 1",
     "url": "https://api.getbible.net/v2/kjva/29/1.json",
-    "sha": "49dccd302b7cc53b55aedc2dcb512fab1b3ec986"
+    "sha": "157cc731a91e4ff4aac1bfd8466d8cade34ae5ac"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Joel 2",
     "url": "https://api.getbible.net/v2/kjva/29/2.json",
-    "sha": "ec8a2c36aed260d3079dce547bbf999a52c2765a"
+    "sha": "4b87b89629145865b32d049d1c47f30a9245268a"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Joel 3",
     "url": "https://api.getbible.net/v2/kjva/29/3.json",
-    "sha": "51264aa2e4a8e5380cb758a6390f5dbd1b9303b1"
+    "sha": "baccc008b9aa9959aa86a85791d1bffd1704def0"
   }
 }

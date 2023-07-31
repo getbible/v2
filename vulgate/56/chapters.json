@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Ad Titum",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Ad Titum 1",
     "url": "https://api.getbible.net/v2/vulgate/56/1.json",
-    "sha": "7104037366ba3a287c6cbd0208fdca50185092b5"
+    "sha": "7baadcb3b563770d6e3dfc6cfe62289f90398c1c"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Ad Titum",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Ad Titum 2",
     "url": "https://api.getbible.net/v2/vulgate/56/2.json",
-    "sha": "69b2397eecc7056cc6e5e008bae06ac036e38ecf"
+    "sha": "8445ca5cf153b291a2b71bc6d62347ef88da0002"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Ad Titum",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Ad Titum 3",
     "url": "https://api.getbible.net/v2/vulgate/56/3.json",
-    "sha": "9a215ea7d62554390b9785ecebac6ca2a77a32c7"
+    "sha": "ad2dd967d8f664c4b8a73b743121ea01594d49f1"
   }
 }

@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Galatians 1",
     "url": "https://api.getbible.net/v2/kjva/48/1.json",
-    "sha": "65f1c88c205ab0c9b8a0ced272db8aaac835c78e"
+    "sha": "2cba019e6c5a288496e6a1018dab8ad23722c217"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Galatians 2",
     "url": "https://api.getbible.net/v2/kjva/48/2.json",
-    "sha": "04a9bc8e6f4fa6c8984502f7b5f83eb1d1503d0e"
+    "sha": "946d13325e865cdb64b251f31f11673c87d2b0c8"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Galatians 3",
     "url": "https://api.getbible.net/v2/kjva/48/3.json",
-    "sha": "35c4ced99670c0fea904c15e8c0a371823f53cfc"
+    "sha": "e4a4c1a7c7a3dbc3bdc6f7ca402a194ca606bc82"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "Galatians 4",
     "url": "https://api.getbible.net/v2/kjva/48/4.json",
-    "sha": "28259b0b13a9753d3ce9f83c761368ab67a22ec8"
+    "sha": "d6632d60dcdba808439ddd4728d4013f175975ec"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "Galatians 5",
     "url": "https://api.getbible.net/v2/kjva/48/5.json",
-    "sha": "c2c5e7fe478d177a9d0ef328a7f7492ff5837281"
+    "sha": "73d36b2846a033e121f11f6f4a4f97bbfa648fc6"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galatians 6",
     "url": "https://api.getbible.net/v2/kjva/48/6.json",
-    "sha": "a9b2532cd5e6a25184e8337d241adad3231ab931"
+    "sha": "3c86499b114f767069894699cbec4ac87496c079"
   }
 }

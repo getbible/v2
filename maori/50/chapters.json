@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Whiringa-ā-nuku",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Whiringa-ā-nuku 1",
     "url": "https://api.getbible.net/v2/maori/50/1.json",
-    "sha": "be25ae23b2487b87f1810c02ab70b2d922688f36"
+    "sha": "bb92720edc28545952636cd2879b4c1ec4d1f685"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Whiringa-ā-nuku",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Whiringa-ā-nuku 2",
     "url": "https://api.getbible.net/v2/maori/50/2.json",
-    "sha": "ea5e18337798ce86e6a734de21c7f6b9e110810d"
+    "sha": "6057bbbc3af1b38fbbf630bafdaa7bf03a492f32"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Whiringa-ā-nuku",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Whiringa-ā-nuku 3",
     "url": "https://api.getbible.net/v2/maori/50/3.json",
-    "sha": "304d5ed0b38dc31b5f212d8d2eba893e05dff6d9"
+    "sha": "1c758b57cc9bf91535f6b1ca31833d08880b3945"
   },
   "4": {
     "translation": "Maori",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Whiringa-ā-nuku",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Whiringa-ā-nuku 4",
     "url": "https://api.getbible.net/v2/maori/50/4.json",
-    "sha": "9d31680b3c78ac14e40874065f8b1b3d1f3fea52"
+    "sha": "4ef4ea180d41fffb273270266ed3412cd30f634a"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jacques 1",
     "url": "https://api.getbible.net/v2/martin/59/1.json",
-    "sha": "ada3d5719942a4e9285a4058630cab6a4a0b5ae9"
+    "sha": "36d7d59103473532bebd8d5287388070f782f4fd"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jacques 2",
     "url": "https://api.getbible.net/v2/martin/59/2.json",
-    "sha": "2796d5cf9331be87eb916a897d367a6a10572584"
+    "sha": "cf11aa99358917e3bf47f7f17cf049f38bf51317"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jacques 3",
     "url": "https://api.getbible.net/v2/martin/59/3.json",
-    "sha": "b215c67dccd375cfb9e47fa4dd6ccc03cbda37d3"
+    "sha": "2b48daf2ab2ca81fa2ecf0b714677f28200845e9"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jacques 4",
     "url": "https://api.getbible.net/v2/martin/59/4.json",
-    "sha": "ee04d4984c19316078dd343cc9ece59816bc3f50"
+    "sha": "c8bf5c8c7aeb692cda4db26f297bcfebf889d432"
   },
   "5": {
     "translation": "Martin (1744)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jacques",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jacques 5",
     "url": "https://api.getbible.net/v2/martin/59/5.json",
-    "sha": "9ef8b4d837ae324cff94272563eff12e2d6264c4"
+    "sha": "d6f7e98fa66aaaf5cbaffeb3a64b0a21c2954de8"
   }
 }

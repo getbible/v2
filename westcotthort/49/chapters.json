@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Προς Εφεσίους 1",
     "url": "https://api.getbible.net/v2/westcotthort/49/1.json",
-    "sha": "7ea2be790130744be103d7747cc958fa0b0346c0"
+    "sha": "57fee1f9d5e8b0026e722ceffd00310c0df00b40"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Προς Εφεσίους 2",
     "url": "https://api.getbible.net/v2/westcotthort/49/2.json",
-    "sha": "b9e3a72da36f2fca0cab1f464c26984be406e8e3"
+    "sha": "d9866de69e4f886f7d8a8b610f17df4e57a82299"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Προς Εφεσίους 3",
     "url": "https://api.getbible.net/v2/westcotthort/49/3.json",
-    "sha": "8be8061eddfff50dc16b0be3c49a2e5aa1f74423"
+    "sha": "aff8d224b14f989e0a9ccb566d5e7e06093d873d"
   },
   "4": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Προς Εφεσίους 4",
     "url": "https://api.getbible.net/v2/westcotthort/49/4.json",
-    "sha": "6077c5ac589475fcd6d4a937720d33e98d71c03d"
+    "sha": "507534092b6ce453c00cf18b7a869e04dbf2e947"
   },
   "5": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Προς Εφεσίους 5",
     "url": "https://api.getbible.net/v2/westcotthort/49/5.json",
-    "sha": "8bf655d15cdc8ebfa6eeb8b203887cf5b3d24df7"
+    "sha": "fdc09a21c03b79df44a226a5182d1f00a6d8302f"
   },
   "6": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Προς Εφεσίους",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Προς Εφεσίους 6",
     "url": "https://api.getbible.net/v2/westcotthort/49/6.json",
-    "sha": "8b37c637369edcc8ebda24982af2dd67c4c72d48"
+    "sha": "4af9d148bac7fec104856e572f99c869d6adeb37"
   }
 }

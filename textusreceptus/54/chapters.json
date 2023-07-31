@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "Προς Τιμόθεον Α' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/54/1.json",
-    "sha": "f8e6e2198816f3021430cd53a9bcf19d025bd64c"
+    "sha": "96205e33ed0df70ff3c6f9499861f5ae567ee931"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "Προς Τιμόθεον Α' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/54/2.json",
-    "sha": "a97093dbfc7773fef1ca17268402f23748629e35"
+    "sha": "9fd693456c7ce65abcdb131d7ad9817b33056763"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "Προς Τιμόθεον Α' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/54/3.json",
-    "sha": "375074f349f016e54894f3685f039f8e0d429ab8"
+    "sha": "ef3dfe4818e13ef8e406037c1fc235b42c3c59d6"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "Προς Τιμόθεον Α' 4",
     "url": "https://api.getbible.net/v2/textusreceptus/54/4.json",
-    "sha": "9aacf34e9cf9beb7d610f070e892eec5f2970178"
+    "sha": "ef3ddc2ff6a0b89a1c0d391dbc52f3fdd6c9ab94"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "Προς Τιμόθεον Α' 5",
     "url": "https://api.getbible.net/v2/textusreceptus/54/5.json",
-    "sha": "cbb755bd3352818191c3f7b3d209d937682c15d7"
+    "sha": "03929e2078ff92bf1371c312e375f5d65b599fa4"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "Προς Τιμόθεον Α' 6",
     "url": "https://api.getbible.net/v2/textusreceptus/54/6.json",
-    "sha": "6547aa9c0bbf08733ba100c7f172a9657ecc6fdb"
+    "sha": "85342bf131176922df1cb9f07c3fa25c4d1cffe5"
   }
 }

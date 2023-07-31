@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Malachi 1",
     "url": "https://api.getbible.net/v2/wycliffe/39/1.json",
-    "sha": "36ad4a2c968775978ea9b06dc986082efdf87dc8"
+    "sha": "e8c1ed35a0348d7fb4f4d5a86a5722340fb411a6"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Malachi 2",
     "url": "https://api.getbible.net/v2/wycliffe/39/2.json",
-    "sha": "e5b14e3ae7c6471e981fed55371f3f8c7b930ec3"
+    "sha": "bf2017c34ebe923684b124aa215ad50453b4f0d9"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "Malachi 3",
     "url": "https://api.getbible.net/v2/wycliffe/39/3.json",
-    "sha": "0f5a2ff6832d6f93edfb937e45f687bfbbf32040"
+    "sha": "cf48faa04e48e06155f58ee9e6bd0e40b58a44e8"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Malachi 4",
     "url": "https://api.getbible.net/v2/wycliffe/39/4.json",
-    "sha": "f7c1b9ec095e5b8c9d6391d9b0fbe0ed99cd90df"
+    "sha": "41843a78a70056b5af8e4ea2f1c2f85f91610170"
   }
 }

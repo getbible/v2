@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Ţefania",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Ţefania 1",
     "url": "https://api.getbible.net/v2/cornilescu/36/1.json",
-    "sha": "ba8b0e340255ce18ba11b5e07918839c6a919ece"
+    "sha": "918bc981f993aa024b1828f63a8ed459197a83da"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Ţefania",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Ţefania 2",
     "url": "https://api.getbible.net/v2/cornilescu/36/2.json",
-    "sha": "d56c347198432da01b0ff4d8ec2e6c61c7e9025c"
+    "sha": "10dafcddda60a10831822b6a505630aefe2a8671"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Ţefania",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Ţefania 3",
     "url": "https://api.getbible.net/v2/cornilescu/36/3.json",
-    "sha": "2ecbc5abb855f8a6ea3e7590ae5708e45119d06e"
+    "sha": "e46ce427be7f6f57d715705f7ead76da6d75ef90"
   }
 }

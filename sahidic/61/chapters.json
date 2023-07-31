@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Ⲡⲉⲧⲣⲟⲥ 1",
     "url": "https://api.getbible.net/v2/sahidic/61/1.json",
-    "sha": "f135cf6595bfede337dad4330cf0a805e532ef19"
+    "sha": "fb102b08255b6f1c44f1fa411524e0f06ac3803c"
   },
   "2": {
     "translation": "Sahidic NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Ⲡⲉⲧⲣⲟⲥ 2",
     "url": "https://api.getbible.net/v2/sahidic/61/2.json",
-    "sha": "1ace851eefe5f9000b0707f1f350902ded167a39"
+    "sha": "9cd1bf5dfa0cb4329643efb4b569e7f795877e28"
   },
   "3": {
     "translation": "Sahidic NT",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Ⲡⲉⲧⲣⲟⲥ 3",
     "url": "https://api.getbible.net/v2/sahidic/61/3.json",
-    "sha": "259b7928b4b1a859bd235422a6e1e62f978a8724"
+    "sha": "58ad402416b4cbe275ab6d764c39cc23c490451b"
   }
 }

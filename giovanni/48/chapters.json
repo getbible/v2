@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galati 1",
     "url": "https://api.getbible.net/v2/giovanni/48/1.json",
-    "sha": "8c09f6c292a45c519d709704ac2a1a3746c992bf"
+    "sha": "510e59a5e7d8572d7d43eb740eb3dac6fa8c8ed5"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galati 2",
     "url": "https://api.getbible.net/v2/giovanni/48/2.json",
-    "sha": "62fe3ae6cac2ab1c4c0ebc807f51af4edbd34c8d"
+    "sha": "847a62aeb82e29aec2b2df03126bab32f05f96cd"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galati 3",
     "url": "https://api.getbible.net/v2/giovanni/48/3.json",
-    "sha": "01e72fe8ef3c5a0e2238c4b142e122d9757000e4"
+    "sha": "c9c447b37e520b60621b8cb638ed03d7cec1e493"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galati 4",
     "url": "https://api.getbible.net/v2/giovanni/48/4.json",
-    "sha": "32f5b8454a6763025eb7ff094c931c4e58b805a2"
+    "sha": "8163df1c2b9bd797e10b75f1b710064766976c5a"
   },
   "5": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galati 5",
     "url": "https://api.getbible.net/v2/giovanni/48/5.json",
-    "sha": "c1eb1fc30eeb8dd45d356fa7a5d47b99734eaf39"
+    "sha": "3f322fdeb5a01c4b6182315a6fc7436eda662f8d"
   },
   "6": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galati 6",
     "url": "https://api.getbible.net/v2/giovanni/48/6.json",
-    "sha": "8031cce6b724ff3a664d0e41708789c7ac39b8b0"
+    "sha": "d4b307bc3a2170a6b5b9f573659eff8836c0b0f4"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "Ιωάννου Α' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/62/1.json",
-    "sha": "85ab75c8c4f4127391873ff7e3591df451dc6138"
+    "sha": "b3d8a0b40567ffd8fde52affacf7e8bdf350104a"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "Ιωάννου Α' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/62/2.json",
-    "sha": "c46e1ac5b390b9e5661d2b9ed229a32e281a97b8"
+    "sha": "9cf6215a607ad3de57bf74e6ff1ac1046b33ba33"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "Ιωάννου Α' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/62/3.json",
-    "sha": "af98932940f1884c40a8911e86e9ceda719b6301"
+    "sha": "9bc3bfa72442ed4a9aa993e27df399480f59e35d"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "Ιωάννου Α' 4",
     "url": "https://api.getbible.net/v2/textusreceptus/62/4.json",
-    "sha": "53df6ab8a0e50ed651579d4b789b8854f292f404"
+    "sha": "f24bd49fe96afe97cf1b36a7ba33152f7071625d"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "Ιωάννου Α'",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "Ιωάννου Α' 5",
     "url": "https://api.getbible.net/v2/textusreceptus/62/5.json",
-    "sha": "0401372d881fd376398eac496c4f00963aaa03f2"
+    "sha": "c4b691947703e526be6a9f7c81e8ab038ae602a3"
   }
 }

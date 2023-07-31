@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 82,
-    "book_name": "III Maccabees",
+    "book_name": "3-я Маккавеев",
     "chapter": 1,
-    "name": "III Maccabees 1",
+    "name": "3-я Маккавеев 1",
     "url": "https://api.getbible.net/v2/synodal/82/1.json",
-    "sha": "b977c6f4319a331dd6512b80dfe741ad570064cb"
+    "sha": "c2a307bd009621d45abe5e6b0cf1471fbd4eaf09"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 82,
-    "book_name": "III Maccabees",
+    "book_name": "3-я Маккавеев",
     "chapter": 2,
-    "name": "III Maccabees 2",
+    "name": "3-я Маккавеев 2",
     "url": "https://api.getbible.net/v2/synodal/82/2.json",
-    "sha": "1c7b29cf23f26de3767844772534a4535d097da6"
+    "sha": "5ff2a051817ccbea53dde7e382d3bf6924636145"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 82,
-    "book_name": "III Maccabees",
+    "book_name": "3-я Маккавеев",
     "chapter": 3,
-    "name": "III Maccabees 3",
+    "name": "3-я Маккавеев 3",
     "url": "https://api.getbible.net/v2/synodal/82/3.json",
-    "sha": "0e1f4beb5999f8e7eb88f56819cec0121ff711d5"
+    "sha": "36ca908af4308455153f623ba918fa1b7a9aa9c8"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 82,
-    "book_name": "III Maccabees",
+    "book_name": "3-я Маккавеев",
     "chapter": 4,
-    "name": "III Maccabees 4",
+    "name": "3-я Маккавеев 4",
     "url": "https://api.getbible.net/v2/synodal/82/4.json",
-    "sha": "e969705fcbc207febd3acdcc1113b2651e5e52c2"
+    "sha": "bafd084b94b297f3a74bddabebcc290bce16f583"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 82,
-    "book_name": "III Maccabees",
+    "book_name": "3-я Маккавеев",
     "chapter": 5,
-    "name": "III Maccabees 5",
+    "name": "3-я Маккавеев 5",
     "url": "https://api.getbible.net/v2/synodal/82/5.json",
-    "sha": "c179737eb135b8ba7cfbe52de0137124a091b10d"
+    "sha": "d54009345efa536fee87b7423164a5c937ca9511"
   },
   "6": {
     "translation": "Synodal Translation (1876)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 82,
-    "book_name": "III Maccabees",
+    "book_name": "3-я Маккавеев",
     "chapter": 6,
-    "name": "III Maccabees 6",
+    "name": "3-я Маккавеев 6",
     "url": "https://api.getbible.net/v2/synodal/82/6.json",
-    "sha": "bfdf6977dd028fdf44ca22f382274816cde7640b"
+    "sha": "23449dee2c5f0b722388ac4f6ec6b79300a59800"
   },
   "7": {
     "translation": "Synodal Translation (1876)",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 82,
-    "book_name": "III Maccabees",
+    "book_name": "3-я Маккавеев",
     "chapter": 7,
-    "name": "III Maccabees 7",
+    "name": "3-я Маккавеев 7",
     "url": "https://api.getbible.net/v2/synodal/82/7.json",
-    "sha": "7a17e6b402fb498f33aebcbe5f637008c07e27e3"
+    "sha": "23c790d145297367cba7bfa1c1bac4372df1a07a"
   }
 }

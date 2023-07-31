@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "โยนาห์",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "โยนาห์ 1",
     "url": "https://api.getbible.net/v2/thai/32/1.json",
-    "sha": "b4ab977d6181c664c7a2e5a0355143f16f06294a"
+    "sha": "02c32a926f793708eb5164c29fa1f7146d6de2b0"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "โยนาห์",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "โยนาห์ 2",
     "url": "https://api.getbible.net/v2/thai/32/2.json",
-    "sha": "cdc9b0e11ea225bdd97d01375cfa1c54a3e99f87"
+    "sha": "778a9ce6769e981652dcc19d8ccd0d5663fc52b7"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "โยนาห์",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "โยนาห์ 3",
     "url": "https://api.getbible.net/v2/thai/32/3.json",
-    "sha": "33d0e0829d866232fd7409b1c4448d3c71c45fa7"
+    "sha": "4edcb0a54c7fc7dce166872fdacdf08763889759"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "โยนาห์",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "โยนาห์ 4",
     "url": "https://api.getbible.net/v2/thai/32/4.json",
-    "sha": "4fc6343064d2cd845931c041e6f8fb3a6e2c0351"
+    "sha": "67c37eb457a566f74471fed696267d6b9d2f6acc"
   }
 }

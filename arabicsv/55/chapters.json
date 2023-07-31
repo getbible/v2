@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 تيموثاوس",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 تيموثاوس 1",
     "url": "https://api.getbible.net/v2/arabicsv/55/1.json",
-    "sha": "702de71a147212cab3f9df5ac2ae34d550ed5546"
+    "sha": "ef0c232661214da0b053838ecf262c7b523dc844"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 تيموثاوس",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 تيموثاوس 2",
     "url": "https://api.getbible.net/v2/arabicsv/55/2.json",
-    "sha": "efcd6b957c8d94326ce1287bb034bb5ce2851a3c"
+    "sha": "798c38c8dda9119dda1dfd12e97e8f6d00750cd6"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 تيموثاوس",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 تيموثاوس 3",
     "url": "https://api.getbible.net/v2/arabicsv/55/3.json",
-    "sha": "6583fa1b70da0d894686bc23618681b976daca86"
+    "sha": "e5d8f379bd9204196419e4e08594a0faa7ef56e5"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,10 +49,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 تيموثاوس",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 تيموثاوس 4",
     "url": "https://api.getbible.net/v2/arabicsv/55/4.json",
-    "sha": "8bf2727d9e021139bf832999ce39851df49d4130"
+    "sha": "75357fa19ffccb309b8b9c1b75d859f0368ca006"
   }
 }

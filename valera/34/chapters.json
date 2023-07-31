@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahúm",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Nahúm 1",
     "url": "https://api.getbible.net/v2/valera/34/1.json",
-    "sha": "d4c0a33d00fae0e1520334c500f12299051b24de"
+    "sha": "21b08840059c9bdac4c243959d999c58e3bb1c47"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahúm",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Nahúm 2",
     "url": "https://api.getbible.net/v2/valera/34/2.json",
-    "sha": "b7dafc509ab26a9bfb383fcc8c062ae0b2ae5351"
+    "sha": "8f7bb9f3e64a54c9515e1aac1b2de67c1ac3e339"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahúm",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Nahúm 3",
     "url": "https://api.getbible.net/v2/valera/34/3.json",
-    "sha": "8f58024478ac2b04c9abdae881cb3e81c4eb9a9a"
+    "sha": "d42b410b1a3cfffe875d94a0976b8e735ed7165f"
   }
 }

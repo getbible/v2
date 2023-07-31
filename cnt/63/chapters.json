@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 63,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "約翰二書 1",
     "url": "https://api.getbible.net/v2/cnt/63/1.json",
-    "sha": "aeca863b4fa72a964f2f272f5ebbcfcff733ee70"
+    "sha": "8d62948ed556ead6614755271ac74e91ad868981"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Énekek éneke 1",
     "url": "https://api.getbible.net/v2/karoli/22/1.json",
-    "sha": "ecd097888e7047ea205aac1960eb4f6aae8dae86"
+    "sha": "faea22d062c8ae8caed8bd42077e22acb2f16197"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Énekek éneke 2",
     "url": "https://api.getbible.net/v2/karoli/22/2.json",
-    "sha": "176f7ced36753884e1cbdc9a4a1e879fe0b04765"
+    "sha": "3f9d71ea22b83ec623fa3fb2a2c14ed0e5da7d47"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Énekek éneke 3",
     "url": "https://api.getbible.net/v2/karoli/22/3.json",
-    "sha": "f6944e4f5b0e39fec77a81367d6a53ac0cb0a8e9"
+    "sha": "7ec585df3876e9518567a223263e250e75bcfcb9"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Énekek éneke 4",
     "url": "https://api.getbible.net/v2/karoli/22/4.json",
-    "sha": "8a889e97d35cafd9790689532b6affdfcf6757ca"
+    "sha": "f056106cab918f5b26f3bf0996a664fe5915c6d1"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Énekek éneke 5",
     "url": "https://api.getbible.net/v2/karoli/22/5.json",
-    "sha": "60131da82f0e618e0ecb201547630723000a37bd"
+    "sha": "298545d148db4b4795cb9c0d02115373be385cc6"
   },
   "6": {
     "translation": "Hungarian Karoli",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Énekek éneke 6",
     "url": "https://api.getbible.net/v2/karoli/22/6.json",
-    "sha": "b0dbe7cda44bd90de9243b3414eacc050cce853a"
+    "sha": "31f5b0a91b8290b8c686cdf0a6cdee5ebf1af5c5"
   },
   "7": {
     "translation": "Hungarian Karoli",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Énekek éneke 7",
     "url": "https://api.getbible.net/v2/karoli/22/7.json",
-    "sha": "11b6c964783ea03f225bb8f8244b197a3b6a0d5a"
+    "sha": "5f95ff4bf9cf00eb432cc21e980db3ef4b55a0b1"
   },
   "8": {
     "translation": "Hungarian Karoli",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Énekek éneke",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Énekek éneke 8",
     "url": "https://api.getbible.net/v2/karoli/22/8.json",
-    "sha": "9a351e8b5467aeb97bfc8650970a44d670dbd965"
+    "sha": "d3889972d88eafd8a3134c03df05582090e37012"
   }
 }

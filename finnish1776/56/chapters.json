@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tiituksen kirje",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tiituksen kirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/56/1.json",
-    "sha": "693c942a4863d1f6e7746654d28d5f67c0627c76"
+    "sha": "ec2bd45e7286653a354784762994ca27ecca56de"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tiituksen kirje",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tiituksen kirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/56/2.json",
-    "sha": "384cb4f83be7392c585a8f04d960c5169c5edee8"
+    "sha": "115a0173601f7be9e2da4256e4393b5f1bfa7cd3"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tiituksen kirje",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tiituksen kirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/56/3.json",
-    "sha": "1e6c6975b1ba3b1765d5df0943fb51aed1ff7510"
+    "sha": "851e5fdd1afe93a19ac6c9cdb3e1eca440fc1884"
   }
 }

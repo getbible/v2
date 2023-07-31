@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "ملاخي",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "ملاخي 1",
     "url": "https://api.getbible.net/v2/arabicsv/39/1.json",
-    "sha": "cad042b4018d1f6a369ca0a8e8203f2a8c126862"
+    "sha": "231c9581c8e6cd09a8cf6879edf6c8a0b70599c3"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "ملاخي",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "ملاخي 2",
     "url": "https://api.getbible.net/v2/arabicsv/39/2.json",
-    "sha": "9dc9aa52a44b65c40ee2599347b9fd5759756a8f"
+    "sha": "3463beb56616bd285c36c9e92164ee99e476c71e"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "ملاخي",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "ملاخي 3",
     "url": "https://api.getbible.net/v2/arabicsv/39/3.json",
-    "sha": "60aad51fed32c2da0facd6edbd436a0833c663ff"
+    "sha": "32b3eaec819d4f203f964840c17a6aa9f20c30f7"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,10 +49,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "ملاخي",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "ملاخي 4",
     "url": "https://api.getbible.net/v2/arabicsv/39/4.json",
-    "sha": "9e8dbe48b5123ade85bbb5bd6717d295d062093c"
+    "sha": "8b28d99df4201d0579d7bec7f892d2f57a5e2971"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Titovi",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Titovi 1",
     "url": "https://api.getbible.net/v2/bkr/56/1.json",
-    "sha": "7207c594b7b506c32336a5832e5bfe96766e63fa"
+    "sha": "4214e16bd3fd2b77857ebc33502662d5d94f880f"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Titovi",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Titovi 2",
     "url": "https://api.getbible.net/v2/bkr/56/2.json",
-    "sha": "574a7da45d8d252328fb60a27ea4597c2d92bfc0"
+    "sha": "fe765dec47e9caab43db596a103b52424040ac8a"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Titovi",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Titovi 3",
     "url": "https://api.getbible.net/v2/bkr/56/3.json",
-    "sha": "862833ccf29c0cb6675b73fb57b9c2aaf99c1466"
+    "sha": "9bfcafeb3645bd10b324d639671dfa2718bc600a"
   }
 }

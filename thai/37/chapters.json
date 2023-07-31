@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "ฮักกัย",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "ฮักกัย 1",
     "url": "https://api.getbible.net/v2/thai/37/1.json",
-    "sha": "bb7e2f636540d507f445b6ce3d9e67c4ff367779"
+    "sha": "3032c43b2f14dbdeb5eb6a714029e8f101423134"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "ฮักกัย",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "ฮักกัย 2",
     "url": "https://api.getbible.net/v2/thai/37/2.json",
-    "sha": "188a139ecf46903f3cdea86cd0fe42260abeecd2"
+    "sha": "af5c26f78ccd8023a5909aa7a17a21e08ea4a6dd"
   }
 }

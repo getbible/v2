@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "Πέτρου Α' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/60/1.json",
-    "sha": "7dba0a148c4a711d1d298b3c0c6cbb48786b2d26"
+    "sha": "607332687b3ef67715a72cf90a927d80c2fdc175"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "Πέτρου Α' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/60/2.json",
-    "sha": "37623d69cff8a563fb0bee86cb34da3cc9b23d4e"
+    "sha": "77becb050d3e54734452f137ea9f1aab1bb225e2"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "Πέτρου Α' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/60/3.json",
-    "sha": "cc96f5a322c90a5089cb596275f2aa86e0df0f6e"
+    "sha": "7cc5c7cb974927c1dbdc4f2550b6fd8b02c13ebd"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "Πέτρου Α' 4",
     "url": "https://api.getbible.net/v2/textusreceptus/60/4.json",
-    "sha": "2424c8149a248ef472f200296c3cd2db1ef6474a"
+    "sha": "be2d77f4e52e63ea4e95a9b7b71a9f6b53273423"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "Πέτρου Α' 5",
     "url": "https://api.getbible.net/v2/textusreceptus/60/5.json",
-    "sha": "c71ab192beaf9b2f5e6534e6fbc46502eb1bf19f"
+    "sha": "562ad416f00ad28f8498912770a4b9cc1754ab4b"
   }
 }

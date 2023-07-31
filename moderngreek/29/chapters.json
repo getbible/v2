@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ιωήλ",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Ιωήλ 1",
     "url": "https://api.getbible.net/v2/moderngreek/29/1.json",
-    "sha": "4f2b4c9e573fd0399a82bbec3621877a9ce7f6a6"
+    "sha": "a2bdb1cf27f9e0176f883c34f6b7c9905113972a"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ιωήλ",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Ιωήλ 2",
     "url": "https://api.getbible.net/v2/moderngreek/29/2.json",
-    "sha": "2cf230aee0d08471944f0acede9438e9af38ee9e"
+    "sha": "dac14d61f7c543d212ffc7ff5b9e7384810432b2"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ιωήλ",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Ιωήλ 3",
     "url": "https://api.getbible.net/v2/moderngreek/29/3.json",
-    "sha": "d9536c2360f8824c77b3ac9be24cd93d582fa068"
+    "sha": "32a4bf5d7832c4f5f0def41aac7cd67e9851b884"
   }
 }

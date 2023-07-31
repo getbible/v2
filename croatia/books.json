@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Postanak",
     "url": "https://api.getbible.net/v2/croatia/1.json",
-    "sha": "159ce7c9fac2593690becfb881ed04bba93c9142"
+    "sha": "9453812fd2cde268d58fae526f1545ac07b6027a"
   },
   "2": {
     "translation": "Croatian",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Izlazak",
     "url": "https://api.getbible.net/v2/croatia/2.json",
-    "sha": "d3e3a9c203aa32d67cd81f127e843de5a1a3cd01"
+    "sha": "fcdd6a3980a39c2815cb2d2a441bc55f303a7091"
   },
   "3": {
     "translation": "Croatian",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levitski zakonik",
     "url": "https://api.getbible.net/v2/croatia/3.json",
-    "sha": "119eac84063b5bd79c0daab48bc60bf4c985fa1e"
+    "sha": "fd10aa4406f0305f152bf8b7c90de983618bb627"
   },
   "4": {
     "translation": "Croatian",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Brojevi",
     "url": "https://api.getbible.net/v2/croatia/4.json",
-    "sha": "39d973862c131ade057ad0b1f9af107ab37a0399"
+    "sha": "2bc850c72a50a54b9f03881e46faa70ef6e93bd1"
   },
   "5": {
     "translation": "Croatian",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Ponovljeni zakon",
     "url": "https://api.getbible.net/v2/croatia/5.json",
-    "sha": "54bd7c9e517a8338505b83d58d9e33d47d652e5c"
+    "sha": "e093b3fbbdf9193f113413d55bad262d9a0a38e9"
   },
   "6": {
     "translation": "Croatian",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Jošua",
     "url": "https://api.getbible.net/v2/croatia/6.json",
-    "sha": "b79d7fe87c89e3673a0d12c6930527436bc14048"
+    "sha": "aa6d237bf07e276a3fb6c40b97ebb13316cd2e61"
   },
   "7": {
     "translation": "Croatian",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Suci",
     "url": "https://api.getbible.net/v2/croatia/7.json",
-    "sha": "95f998fd9fcca39a8922e4d929aa5d12f6b95497"
+    "sha": "b5691d712a8df10da8708ccabba5d22b5e0ba7a4"
   },
   "8": {
     "translation": "Croatian",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Ruta",
     "url": "https://api.getbible.net/v2/croatia/8.json",
-    "sha": "7803028234d3414341b286484a268f3579f76301"
+    "sha": "91cb48993d59c525f164673d22d67802a1bcbf58"
   },
   "9": {
     "translation": "Croatian",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Kraljevi",
     "url": "https://api.getbible.net/v2/croatia/11.json",
-    "sha": "fd0b6626cf7753c35ff859e0542a76ae81618a57"
+    "sha": "b7b3970201f8c253495c2954b8b3dcdd3f66fd98"
   },
   "12": {
     "translation": "Croatian",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Kraljevi",
     "url": "https://api.getbible.net/v2/croatia/12.json",
-    "sha": "63fdfc555fd192c1843e0562039057fa97aac8c4"
+    "sha": "8c74e4639b1d64cf6abcd306d613990110b1753f"
   },
   "13": {
     "translation": "Croatian",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Ljetopisi",
     "url": "https://api.getbible.net/v2/croatia/13.json",
-    "sha": "01d0e2ba5d04fa2496505f202427337d0a3b4ae1"
+    "sha": "58473c88a00d647e93fdac53693b65f563d97237"
   },
   "14": {
     "translation": "Croatian",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Ljetopisi",
     "url": "https://api.getbible.net/v2/croatia/14.json",
-    "sha": "5537a5f67036dbcc7e538a0b433a205a158be7f4"
+    "sha": "40c48aab1dfdcc4f5d5fec81f75732c97ebcdf5e"
   },
   "15": {
     "translation": "Croatian",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemija",
     "url": "https://api.getbible.net/v2/croatia/16.json",
-    "sha": "2c06ec801d7830e34b3079245679e9aca28752cd"
+    "sha": "63f1351ca2a15192a5c5d158b10d48d64c6df951"
   },
   "17": {
     "translation": "Croatian",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Estera",
     "url": "https://api.getbible.net/v2/croatia/17.json",
-    "sha": "27f9547d64ef4118cf29d0e775f691f2091192b0"
+    "sha": "ae9c1b57128e34560485d97ca6f802af98083a06"
   },
   "18": {
     "translation": "Croatian",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Psalmi",
     "url": "https://api.getbible.net/v2/croatia/19.json",
-    "sha": "044e9dc1deb4d0074bc758cc63b1b022249ab5f0"
+    "sha": "99ea7102ee2d40358315920d9682e39b3c5b09fc"
   },
   "20": {
     "translation": "Croatian",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Mudre izreke",
     "url": "https://api.getbible.net/v2/croatia/20.json",
-    "sha": "c553a908481fef875bc20da5a07b94c6308afffa"
+    "sha": "2c426248503bb23abccce53e6f2de0208fdb9cbe"
   },
   "21": {
     "translation": "Croatian",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Propovjednik",
     "url": "https://api.getbible.net/v2/croatia/21.json",
-    "sha": "ee1e656242243614220b8e19f4422a4ff71787ac"
+    "sha": "bce1da3ef57e65f1fb5bf2386ef0395dd656ea21"
   },
   "22": {
     "translation": "Croatian",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Pjesma nad pjesmama",
     "url": "https://api.getbible.net/v2/croatia/22.json",
-    "sha": "df3ccaa199ec6ae19bfd73627c1e14b5a3cdb8e9"
+    "sha": "08d1f40b34ba6269edf4e7860affd560e83a4d01"
   },
   "23": {
     "translation": "Croatian",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Izaija",
     "url": "https://api.getbible.net/v2/croatia/23.json",
-    "sha": "73bbb715f2123cda51d2b01761cb0bbc6aa49ff8"
+    "sha": "6cc83155633ba0673451ae1bd1af4ebe7d1d6982"
   },
   "24": {
     "translation": "Croatian",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremija",
     "url": "https://api.getbible.net/v2/croatia/24.json",
-    "sha": "1b01f7edcac7534d45b78254fe691b21acb3cd17"
+    "sha": "88117c3e28028707c5ee8ef3dc009f6b925250a1"
   },
   "25": {
     "translation": "Croatian",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Tužaljke",
     "url": "https://api.getbible.net/v2/croatia/25.json",
-    "sha": "c425a82f67e76202c4b9413cb65f8bc44a18c646"
+    "sha": "6779818d4f5a77f381c72731b15f138250423ff2"
   },
   "26": {
     "translation": "Croatian",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Hošea",
     "url": "https://api.getbible.net/v2/croatia/28.json",
-    "sha": "ad518259b743951835f7733aeabeedd4607ea852"
+    "sha": "0f5926076f93d71c51a07aa8b2c236b01b54bad6"
   },
   "29": {
     "translation": "Croatian",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadija",
     "url": "https://api.getbible.net/v2/croatia/31.json",
-    "sha": "7c4a081b0b8eacbd0c246c98b7cd9b36524c91cd"
+    "sha": "96c541a8380dc9e75b1b892194b97bcf1895c430"
   },
   "32": {
     "translation": "Croatian",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jona",
     "url": "https://api.getbible.net/v2/croatia/32.json",
-    "sha": "94ac6ea2c42a775695dc475ae2931f43ad201a55"
+    "sha": "bc35f0c955a1e092b394ddcb7c62a4f2dc0eb653"
   },
   "33": {
     "translation": "Croatian",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Mihej",
     "url": "https://api.getbible.net/v2/croatia/33.json",
-    "sha": "95c81a22a072d03195267e61d70bbe68babd34c3"
+    "sha": "e0283f46c1e09165ed0ac168a72a47961c7b4af2"
   },
   "34": {
     "translation": "Croatian",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habakuk",
     "url": "https://api.getbible.net/v2/croatia/35.json",
-    "sha": "3f76f835ea3f730cb207db0b321cd2e0a4edf6a9"
+    "sha": "69faabde3bb74d53e964c591bbe2694833ea4f33"
   },
   "36": {
     "translation": "Croatian",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sefanija",
     "url": "https://api.getbible.net/v2/croatia/36.json",
-    "sha": "41c253631bd31f19843fb21ba175b7ab88f89b39"
+    "sha": "07531ab8373b6a2daca56ffe03d199f6aa2b361a"
   },
   "37": {
     "translation": "Croatian",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Hagai",
     "url": "https://api.getbible.net/v2/croatia/37.json",
-    "sha": "28b08b233895b60596478f7ccca5fdde56d59dd1"
+    "sha": "8e84310cf04b4aa1e1fe4010ec7691801bd0f902"
   },
   "38": {
     "translation": "Croatian",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zaharija",
     "url": "https://api.getbible.net/v2/croatia/38.json",
-    "sha": "30f34cfd82c21a45701d907984f3dc8135a64d2b"
+    "sha": "f378e2a09409cd65f4ff2a0eb21dcdd8ba62bf80"
   },
   "39": {
     "translation": "Croatian",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malahija",
     "url": "https://api.getbible.net/v2/croatia/39.json",
-    "sha": "1fc2c80401eddcb6b2124145889230e70f09d614"
+    "sha": "f0868779eac66a944bd95e3d8281646a9d62cfa4"
   },
   "40": {
     "translation": "Croatian",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matej",
     "url": "https://api.getbible.net/v2/croatia/40.json",
-    "sha": "2288f432cea69ed9e756971938f9ab39375e3750"
+    "sha": "cecfbb38c8050814982cef6564166d6897cbab8a"
   },
   "41": {
     "translation": "Croatian",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marko",
     "url": "https://api.getbible.net/v2/croatia/41.json",
-    "sha": "f5ee5880f2f65eb3fb6fc63e8e858ff46ed5f116"
+    "sha": "c70808f21eae72dd8d53568825dd3b13bc2cf358"
   },
   "42": {
     "translation": "Croatian",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Luka",
     "url": "https://api.getbible.net/v2/croatia/42.json",
-    "sha": "368e9b3534d3b02149ade178de4a821baa425077"
+    "sha": "a01fb116575e2c805d219b708e7739020125f643"
   },
   "43": {
     "translation": "Croatian",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Ivan",
     "url": "https://api.getbible.net/v2/croatia/43.json",
-    "sha": "1a816444549346609cec40673ce4f3d6c24ca8e8"
+    "sha": "ce83e4afdc9afaaab83a0aa6ac0f79aa681ba533"
   },
   "44": {
     "translation": "Croatian",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Djela apostolska",
     "url": "https://api.getbible.net/v2/croatia/44.json",
-    "sha": "bb2b1e39aa908290f5b65a577aecc79f994c3789"
+    "sha": "c5c6dc096a469c8cf9a29567399747631365c342"
   },
   "45": {
     "translation": "Croatian",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Rimljanima",
     "url": "https://api.getbible.net/v2/croatia/45.json",
-    "sha": "599218c33703e9d11da620fcb67e83e0346878f8"
+    "sha": "8008964958e71fa23877567f976cdb7fde25e4a3"
   },
   "46": {
     "translation": "Croatian",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korinćanima",
     "url": "https://api.getbible.net/v2/croatia/46.json",
-    "sha": "4c0cf460f4e763fce608a239ed9845d076cd43ba"
+    "sha": "77a6487d7c31e22cb2e81de7dad84ae14ee5a4f1"
   },
   "47": {
     "translation": "Croatian",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korinćanima",
     "url": "https://api.getbible.net/v2/croatia/47.json",
-    "sha": "43c0763621c188da429f577ec1d504eb616c46d1"
+    "sha": "f99ef4dd211e5477c32dd9713201022d3a0caf25"
   },
   "48": {
     "translation": "Croatian",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galaćanima",
     "url": "https://api.getbible.net/v2/croatia/48.json",
-    "sha": "92528dd22d230095980f33d99495deac9ce441af"
+    "sha": "d877afd35fce730a2f8a9b255c1ffb60213d6ee9"
   },
   "49": {
     "translation": "Croatian",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efežanima",
     "url": "https://api.getbible.net/v2/croatia/49.json",
-    "sha": "4d6106b7d0467543dee7445b0f00b94a1fe9274a"
+    "sha": "c10fbd23fab772e959dc6acaa6f3d94d742df377"
   },
   "50": {
     "translation": "Croatian",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipljanima",
     "url": "https://api.getbible.net/v2/croatia/50.json",
-    "sha": "ce18d8872c4466b9f87eb3ca08b99156465697c8"
+    "sha": "a02157823ee0927c7b8ee40ab4a6b971d5d8e676"
   },
   "51": {
     "translation": "Croatian",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Kološanima",
     "url": "https://api.getbible.net/v2/croatia/51.json",
-    "sha": "c3720e011d8a34ac13f8573687a3b2a04f14a4e4"
+    "sha": "466deb16cf4b6b484f71255083d9ccb7855f83f2"
   },
   "52": {
     "translation": "Croatian",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Solunjanima",
     "url": "https://api.getbible.net/v2/croatia/52.json",
-    "sha": "8c1cc3924a3f75105164ce17faa87158f17413cc"
+    "sha": "2e4b4ad4f606c6302e7f2118a018636bedf003fc"
   },
   "53": {
     "translation": "Croatian",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Solunjanima",
     "url": "https://api.getbible.net/v2/croatia/53.json",
-    "sha": "f08c0107ae4ceceb5a9d10da5b15f34f16287138"
+    "sha": "917c03a23495f13236d7a364a1fedd34a4328f50"
   },
   "54": {
     "translation": "Croatian",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteju",
     "url": "https://api.getbible.net/v2/croatia/54.json",
-    "sha": "10ab610135568aa865588650e26339efecdf201e"
+    "sha": "62304f51b9f61d2c544177a6ab60a101a6e580dc"
   },
   "55": {
     "translation": "Croatian",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteju",
     "url": "https://api.getbible.net/v2/croatia/55.json",
-    "sha": "eb58b4a2b530ef5704f280632ca9ef5d4e6344a3"
+    "sha": "f5ecbbe9c7b9cb8e59b336fa15edd55ab2abefa0"
   },
   "56": {
     "translation": "Croatian",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Titu",
     "url": "https://api.getbible.net/v2/croatia/56.json",
-    "sha": "e705b2d4304a037a6839d3437a762e1f570d1f25"
+    "sha": "8cd73e026dfadec353e1a069aeedecaf4ef1754c"
   },
   "57": {
     "translation": "Croatian",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemonu",
     "url": "https://api.getbible.net/v2/croatia/57.json",
-    "sha": "b883fa2c0960709d583ba519e87b32c3a0f1885d"
+    "sha": "ce60ec8b0fb148d7d02fa79adcd1cc0b6046469a"
   },
   "58": {
     "translation": "Croatian",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebrejima",
     "url": "https://api.getbible.net/v2/croatia/58.json",
-    "sha": "1cd69107f8c047a8e8f88c1b5988c80b13438ec5"
+    "sha": "3e8aee42244b7739dae0baf94f09e382fca219d1"
   },
   "59": {
     "translation": "Croatian",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jakova",
     "url": "https://api.getbible.net/v2/croatia/59.json",
-    "sha": "b186b800c089e0b306e1b7300e79f768f618b8ac"
+    "sha": "0560f8bc4d99c7352d117575578f79ad2ca3d424"
   },
   "60": {
     "translation": "Croatian",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Petrova",
     "url": "https://api.getbible.net/v2/croatia/60.json",
-    "sha": "0dfe525af1dd7b2bb1f2540b0a08536986cca0fa"
+    "sha": "35064bbb79f4f3615149203537e8437a648d9d5e"
   },
   "61": {
     "translation": "Croatian",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Petrova",
     "url": "https://api.getbible.net/v2/croatia/61.json",
-    "sha": "748d42d39d88a56c52f00282605afba587b562b3"
+    "sha": "118ddd9af47fa1fef5c4c97bd15fbdcaae36fa3e"
   },
   "62": {
     "translation": "Croatian",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Ivanova",
     "url": "https://api.getbible.net/v2/croatia/62.json",
-    "sha": "8617c0f6e4fbd2153697ebb6cbc4a6c3eb85c443"
+    "sha": "5d2c143a81be5234f2c6cbe6a3237c028701086e"
   },
   "63": {
     "translation": "Croatian",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Ivanova",
     "url": "https://api.getbible.net/v2/croatia/63.json",
-    "sha": "efb44370c9d53a2b54c8069e90bc22d791119480"
+    "sha": "46544352483b455ad95177702fdb416818560161"
   },
   "64": {
     "translation": "Croatian",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Ivanova",
     "url": "https://api.getbible.net/v2/croatia/64.json",
-    "sha": "d9ab334b05ce24c5340f1ef1975f1aac5015bcfd"
+    "sha": "56dc88b148479e971c4901aaa0f033850d5f5d22"
   },
   "65": {
     "translation": "Croatian",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Juda",
     "url": "https://api.getbible.net/v2/croatia/65.json",
-    "sha": "85f26db080862c352f02d4ac279b4c3fa20366c8"
+    "sha": "ad42ceefa0edbbdc70b32353c8018216d56a9658"
   },
   "66": {
     "translation": "Croatian",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Otkrivenje",
     "url": "https://api.getbible.net/v2/croatia/66.json",
-    "sha": "68df5db079e218c0f2623bcfcff853b122611c73"
+    "sha": "2fd10ea63ae8a8f288cda4364016e5b7b48d1fb5"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Zechariah 1",
     "url": "https://api.getbible.net/v2/kjv/38/1.json",
-    "sha": "951c42d19b7e4db78de7c91090669380c89ec3ab"
+    "sha": "a6e18a2ed847d26b50c3ab6fe7a290282474aea8"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Zechariah 2",
     "url": "https://api.getbible.net/v2/kjv/38/2.json",
-    "sha": "70b8f24ff0273b622be6d44dad273328d6703a8c"
+    "sha": "0b570a53a864c9fb4233899470a58cbc5306070c"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Zechariah 3",
     "url": "https://api.getbible.net/v2/kjv/38/3.json",
-    "sha": "d28983f15f25b7ee9a69153d33f56debef7c7954"
+    "sha": "22c490d0f901fbd6ad8874fb41b447664f0857bb"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Zechariah 4",
     "url": "https://api.getbible.net/v2/kjv/38/4.json",
-    "sha": "5b3f4cd366ba9bda9b6f3b4ea565ac23f747fc12"
+    "sha": "6db3fa1945e915a3d510529090fa68dbdb20918a"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Zechariah 5",
     "url": "https://api.getbible.net/v2/kjv/38/5.json",
-    "sha": "2eb39c7f12c92a8eaf2da0c4143be24e2af80819"
+    "sha": "3b392a82660b71cb9d487a216d7fc43e521e03aa"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Zechariah 6",
     "url": "https://api.getbible.net/v2/kjv/38/6.json",
-    "sha": "ec4bd9140531da32bf27049d8298796ed390a1f5"
+    "sha": "d06ca59d5bf8a0e8af3440973a7ea1239280ee67"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Zechariah 7",
     "url": "https://api.getbible.net/v2/kjv/38/7.json",
-    "sha": "7481a1d9ee84787f8c652936b87ed600c9a24d8e"
+    "sha": "a63f4521b1b5f68048e06390015b3c8329f34003"
   },
   "8": {
     "translation": "King James Version",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Zechariah 8",
     "url": "https://api.getbible.net/v2/kjv/38/8.json",
-    "sha": "9175e1ccfc1578d7df8f5ff31f2cc6e1827b3ff6"
+    "sha": "958124e53b0f28b1a4bcedf62fa79207f4d562b3"
   },
   "9": {
     "translation": "King James Version",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Zechariah 9",
     "url": "https://api.getbible.net/v2/kjv/38/9.json",
-    "sha": "12774eda78e766565dc0ce7cac6a4674f5577bc0"
+    "sha": "44d7451d839dd5c3594d3cdc1e904bd0fb5f0ef2"
   },
   "10": {
     "translation": "King James Version",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Zechariah 10",
     "url": "https://api.getbible.net/v2/kjv/38/10.json",
-    "sha": "8aac8bf910038a8a5f842be2e9dee3401bb879ef"
+    "sha": "4d9990ef79f0fe3f1a71a868b3cc5cdff60641c0"
   },
   "11": {
     "translation": "King James Version",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Zechariah 11",
     "url": "https://api.getbible.net/v2/kjv/38/11.json",
-    "sha": "efaab1f15c36b93c8f4ec87e17a4b25372fe2692"
+    "sha": "5a084077e7478ac0824f50967c157b3e6dabc8e2"
   },
   "12": {
     "translation": "King James Version",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Zechariah 12",
     "url": "https://api.getbible.net/v2/kjv/38/12.json",
-    "sha": "aa108c802c0918f5ece151f6e07274f05a13f5d8"
+    "sha": "f1bedbe7761da2517c4850d8e5a2cd6515fdcaf6"
   },
   "13": {
     "translation": "King James Version",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Zechariah 13",
     "url": "https://api.getbible.net/v2/kjv/38/13.json",
-    "sha": "8351c4f232eec10f36ce43c8e49a6bc4aa7c8791"
+    "sha": "78c247983a8dda60df87f2bd320b3a118f99888d"
   },
   "14": {
     "translation": "King James Version",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Zechariah 14",
     "url": "https://api.getbible.net/v2/kjv/38/14.json",
-    "sha": "3052118f25397ba6c500072c634262ba289f45ab"
+    "sha": "710ffad7729ce0dd191a736ccf47c891a11df45c"
   }
 }

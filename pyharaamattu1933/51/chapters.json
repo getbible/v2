@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Kolossalaiskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/51/1.json",
-    "sha": "c8e24e6b44dc283a02bc1ae2032c20010fc8c93d"
+    "sha": "733c8732ef8cca115ce684ade3044e3484fc5e5e"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Kolossalaiskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/51/2.json",
-    "sha": "f9084ba2cf573b70613dc2a022a5345b7ae0ed72"
+    "sha": "2cee98c574e9b05acb20204ad80a8e3a387e9d49"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Kolossalaiskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/51/3.json",
-    "sha": "d9df6dbcf5545262fcfca40212e58c6a9338328d"
+    "sha": "48b762084394ca5269021f10fdcc6c4e69b0aa5a"
   },
   "4": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Kolossalaiskirje",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Kolossalaiskirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/51/4.json",
-    "sha": "a5fb3e4adb46b1666f7474cb2c14d0f0ca0657db"
+    "sha": "5572040efa7a0dae35619e486cbf29c4027bda93"
   }
 }

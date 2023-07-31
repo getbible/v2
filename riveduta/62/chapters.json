@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Giovanni",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Giovanni 1",
     "url": "https://api.getbible.net/v2/riveduta/62/1.json",
-    "sha": "f4b8d07a1b09e6ae3bd967db6ea356d1d51f51db"
+    "sha": "95b8952075844d12de6a3449fc8d44b804f5506b"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Giovanni",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Giovanni 2",
     "url": "https://api.getbible.net/v2/riveduta/62/2.json",
-    "sha": "8bac8c8a6adb4db9da518e83640b1b5cdda07eb3"
+    "sha": "4cbc0309e6504b33c2c9f0ad8fc801ddbd9e346f"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Giovanni",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Giovanni 3",
     "url": "https://api.getbible.net/v2/riveduta/62/3.json",
-    "sha": "fa0b57688d48f64691ab8ba7a4c585e791a8b2b1"
+    "sha": "c66410076ba3792125c26e6c45fc879778d256e7"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Giovanni",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Giovanni 4",
     "url": "https://api.getbible.net/v2/riveduta/62/4.json",
-    "sha": "6f7c808587343c108fdd7a25002ccc768b7ac446"
+    "sha": "53fdac3298462f9c2053925ec77b6133e113fc0e"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Giovanni",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Giovanni 5",
     "url": "https://api.getbible.net/v2/riveduta/62/5.json",
-    "sha": "43418bc7a776c12cc9dc0ff87ed1bd90f759d8d6"
+    "sha": "4bf2977c60f2db3f6c16e93fc498176dae681031"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiečiams",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filipiečiams 1",
     "url": "https://api.getbible.net/v2/lithuanian/50/1.json",
-    "sha": "89ef1efee2252a28a6932032f8884a115f9f2043"
+    "sha": "0d623ecdb3eb6944d7eaab90544a70edfc026eb0"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiečiams",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filipiečiams 2",
     "url": "https://api.getbible.net/v2/lithuanian/50/2.json",
-    "sha": "2614529db91f53c3703f1c7ccc382ff9480f0657"
+    "sha": "19c9671a57c572d89d80597ab9dcb2b8969da444"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiečiams",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filipiečiams 3",
     "url": "https://api.getbible.net/v2/lithuanian/50/3.json",
-    "sha": "f509bb44e0d259f12adc8743260233905705287f"
+    "sha": "648b61a134426dbd57f568219ba0ab578029ae0f"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiečiams",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filipiečiams 4",
     "url": "https://api.getbible.net/v2/lithuanian/50/4.json",
-    "sha": "4951a51d82bc5fadb90680afb3d8216a8cde2b8c"
+    "sha": "9ecf7a7d5015996e89a1cdff2e4b9185f4808ace"
   }
 }

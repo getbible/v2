@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 79,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Prayer of Manasses 1",
     "url": "https://api.getbible.net/v2/wycliffe/79/1.json",
-    "sha": "98cfa692b397329aedf5cd9620837ebd290eb040"
+    "sha": "e58b0ff2f47001d518fda0d20ba3bb972aceccee"
   }
 }

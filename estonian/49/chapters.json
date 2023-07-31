@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeslastele",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efeslastele 1",
     "url": "https://api.getbible.net/v2/estonian/49/1.json",
-    "sha": "22bef80b593be27c8ec263d4632e5589f6638fd4"
+    "sha": "df3a7d2b5efa3a5da54b6ab469fdf446a2d488ad"
   },
   "2": {
     "translation": "Estonian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeslastele",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efeslastele 2",
     "url": "https://api.getbible.net/v2/estonian/49/2.json",
-    "sha": "4b0b0f48e0a9ade621a5db532ca29505e6c9f2ae"
+    "sha": "5d7574948e6d4a0b1557999462fa3dfc4d107217"
   },
   "3": {
     "translation": "Estonian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeslastele",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efeslastele 3",
     "url": "https://api.getbible.net/v2/estonian/49/3.json",
-    "sha": "bb0e3929a53262a01dd15c17515303a65ad80b5e"
+    "sha": "cccba9e3c956b094380b2aeb261d6cb605f587ae"
   },
   "4": {
     "translation": "Estonian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeslastele",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efeslastele 4",
     "url": "https://api.getbible.net/v2/estonian/49/4.json",
-    "sha": "28716e5c03c1b5e7a63bcdf6e3e4a52fec465c88"
+    "sha": "3b09ff527f853d27484c97fe157ce6bafb5f708b"
   },
   "5": {
     "translation": "Estonian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeslastele",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efeslastele 5",
     "url": "https://api.getbible.net/v2/estonian/49/5.json",
-    "sha": "4ddfe81ebcb152ce94c369befff33af2a1e541a2"
+    "sha": "4689645db371ceef901db6352f077cc3a82c4c72"
   },
   "6": {
     "translation": "Estonian",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeslastele",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efeslastele 6",
     "url": "https://api.getbible.net/v2/estonian/49/6.json",
-    "sha": "542c065779d5a8d3af892fc26cf82fd863f1e97d"
+    "sha": "3ba72b0fe423429c77353dc4b47f43d6a3f9170e"
   }
 }

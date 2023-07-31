@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "瑪拉基書 1",
     "url": "https://api.getbible.net/v2/cut/39/1.json",
-    "sha": "7868d5b077c2fd6e57d3b624c3b4216d477f5a97"
+    "sha": "6afb67250cbc70c10f2bed0f86cff03bce9ba167"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "瑪拉基書 2",
     "url": "https://api.getbible.net/v2/cut/39/2.json",
-    "sha": "fdf09378687ae4b85c2e91864363392f5ebc9f4e"
+    "sha": "fd75ffca41d60d5ae46f8e033eb8c009066c7e3f"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "瑪拉基書 3",
     "url": "https://api.getbible.net/v2/cut/39/3.json",
-    "sha": "844c2a3dec5f59dc8b7386143a18ef8aeecdfb07"
+    "sha": "6ea77a2ff28d2e712c6ad644b028921181b78f93"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "瑪拉基書 4",
     "url": "https://api.getbible.net/v2/cut/39/4.json",
-    "sha": "92a3ef6a4d0dfbc6d6996b97e4759a1bca9ef02c"
+    "sha": "cf748dd3e61d439232a54fd34b33d6ec780b9a77"
   }
 }

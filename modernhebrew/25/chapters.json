@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "אֵיכָה",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "אֵיכָה 1",
     "url": "https://api.getbible.net/v2/modernhebrew/25/1.json",
-    "sha": "dee7ee4945919554c886ff614593873232182091"
+    "sha": "2adb5d437ddaf7c6b2b153fb99bac2ebff1f769d"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "אֵיכָה",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "אֵיכָה 2",
     "url": "https://api.getbible.net/v2/modernhebrew/25/2.json",
-    "sha": "c11b2741c9caa4f68f404067eda16ff9ba667c1b"
+    "sha": "894d7e79fc5956bcaf52ba2ef6d1da333e6c2cf5"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "אֵיכָה",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "אֵיכָה 3",
     "url": "https://api.getbible.net/v2/modernhebrew/25/3.json",
-    "sha": "00c0dcbb99d85e12c12401b1951417f0f3a91ba5"
+    "sha": "e676267e52f10bef6b2099918eccdffc19c228bb"
   },
   "4": {
     "translation": "Hebrew Modern",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "אֵיכָה",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "אֵיכָה 4",
     "url": "https://api.getbible.net/v2/modernhebrew/25/4.json",
-    "sha": "548bc489e765ba236fae1cee958cc07fbdd35f29"
+    "sha": "2a97a76dae9f684831f7c92d43cf3e27724b49e0"
   },
   "5": {
     "translation": "Hebrew Modern",
@@ -63,10 +63,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "אֵיכָה",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "אֵיכָה 5",
     "url": "https://api.getbible.net/v2/modernhebrew/25/5.json",
-    "sha": "ff0d50d5a860b0a30f6d2ffff877498e53ef4829"
+    "sha": "73c325e87fb0475bf3ded8836faccdf4df4fbac6"
   }
 }

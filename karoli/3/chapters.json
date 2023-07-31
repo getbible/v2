@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 1,
-    "name": "Leviticus 1",
+    "name": "Leviták könyve 1",
     "url": "https://api.getbible.net/v2/karoli/3/1.json",
-    "sha": "7ec743a15b4b1cee2fe22b2f8af5fe1fb69a9d59"
+    "sha": "c65d92d36f83e627130813ce6d97286cc50c52b3"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 2,
-    "name": "Leviticus 2",
+    "name": "Leviták könyve 2",
     "url": "https://api.getbible.net/v2/karoli/3/2.json",
-    "sha": "1f722e0c43191c4989a7cbcdc64a2a7a00d27940"
+    "sha": "3c2f4c3d714160296ca78a7f022681dbb703e881"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 3,
-    "name": "Leviticus 3",
+    "name": "Leviták könyve 3",
     "url": "https://api.getbible.net/v2/karoli/3/3.json",
-    "sha": "9d3043fa72309cd2ad6e5b1f48c6ef3b5a7c5571"
+    "sha": "6aaab1cf951789ffb87124714e14d25351aee697"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 4,
-    "name": "Leviticus 4",
+    "name": "Leviták könyve 4",
     "url": "https://api.getbible.net/v2/karoli/3/4.json",
-    "sha": "4a1b38621103644d3c56ceef82abff93dc87a5a4"
+    "sha": "4928f02539ea3fe3bd6975366559332c765c7332"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 5,
-    "name": "Leviticus 5",
+    "name": "Leviták könyve 5",
     "url": "https://api.getbible.net/v2/karoli/3/5.json",
-    "sha": "23891043ca59f2ca3e0d7cbac47606dc805b791c"
+    "sha": "4e9aaf6b122b7a0647a2b06cc6e1db269bf99e8a"
   },
   "6": {
     "translation": "Hungarian Karoli",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 6,
-    "name": "Leviticus 6",
+    "name": "Leviták könyve 6",
     "url": "https://api.getbible.net/v2/karoli/3/6.json",
-    "sha": "6abe5824d03b632eb73872feb79fa5745ac5cac6"
+    "sha": "0ec4c1b4eb1f6c20815ed753b67c1392bcde1f2d"
   },
   "7": {
     "translation": "Hungarian Karoli",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 7,
-    "name": "Leviticus 7",
+    "name": "Leviták könyve 7",
     "url": "https://api.getbible.net/v2/karoli/3/7.json",
-    "sha": "1c04ccffdc2ffb64d3b3640b01d06975a796f2f8"
+    "sha": "3c7efb181e495a034166f212d7c6398916117306"
   },
   "8": {
     "translation": "Hungarian Karoli",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 8,
-    "name": "Leviticus 8",
+    "name": "Leviták könyve 8",
     "url": "https://api.getbible.net/v2/karoli/3/8.json",
-    "sha": "a59c8e88aa2db03da7a9126ab3dd9cf828050330"
+    "sha": "c6ef9896361dda035f2dcbad3611f3963d767c43"
   },
   "9": {
     "translation": "Hungarian Karoli",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 9,
-    "name": "Leviticus 9",
+    "name": "Leviták könyve 9",
     "url": "https://api.getbible.net/v2/karoli/3/9.json",
-    "sha": "a6610bed5f886dcce6b69b444a85386332883e0f"
+    "sha": "42feb05bad8cfbf5b92e4ea07336f39b37e162b4"
   },
   "10": {
     "translation": "Hungarian Karoli",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 10,
-    "name": "Leviticus 10",
+    "name": "Leviták könyve 10",
     "url": "https://api.getbible.net/v2/karoli/3/10.json",
-    "sha": "4e3d2615fdb81a7a77f86490dc90e116936ebf27"
+    "sha": "4a4f566344b7e29625a678f641f67647bc9ae736"
   },
   "11": {
     "translation": "Hungarian Karoli",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 11,
-    "name": "Leviticus 11",
+    "name": "Leviták könyve 11",
     "url": "https://api.getbible.net/v2/karoli/3/11.json",
-    "sha": "e400cefeea9d6b12aa62c3b27a0f12579ec010d0"
+    "sha": "fa0485ce63d5a0d7e7d01467a12a1733d0a2367f"
   },
   "12": {
     "translation": "Hungarian Karoli",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 12,
-    "name": "Leviticus 12",
+    "name": "Leviták könyve 12",
     "url": "https://api.getbible.net/v2/karoli/3/12.json",
-    "sha": "ff0e64224da497755be0d5ca375ad485253c9c5e"
+    "sha": "f8c2f09bbe741e4cba0aec57c4f9ce5ab114dc17"
   },
   "13": {
     "translation": "Hungarian Karoli",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 13,
-    "name": "Leviticus 13",
+    "name": "Leviták könyve 13",
     "url": "https://api.getbible.net/v2/karoli/3/13.json",
-    "sha": "5c6cf9210aed1acb1bc62e2f2dd4d28d45ff5d2f"
+    "sha": "d769345c84b366b8af4c14cf18d2dd22b21bd757"
   },
   "14": {
     "translation": "Hungarian Karoli",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 14,
-    "name": "Leviticus 14",
+    "name": "Leviták könyve 14",
     "url": "https://api.getbible.net/v2/karoli/3/14.json",
-    "sha": "a307ed7e0daf519b877130bf6409c13672d74cc1"
+    "sha": "0e1e7ba6e1f8de2690e6b0f6b6224a4afaba4503"
   },
   "15": {
     "translation": "Hungarian Karoli",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 15,
-    "name": "Leviticus 15",
+    "name": "Leviták könyve 15",
     "url": "https://api.getbible.net/v2/karoli/3/15.json",
-    "sha": "5a683ee85483272238a32c8b1e0dbf28da6ed08c"
+    "sha": "5f03cef4aaf127290a8e0579ea77780f01183a68"
   },
   "16": {
     "translation": "Hungarian Karoli",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 16,
-    "name": "Leviticus 16",
+    "name": "Leviták könyve 16",
     "url": "https://api.getbible.net/v2/karoli/3/16.json",
-    "sha": "f0e84a90759ffb52821f26f88011bb0758039fd9"
+    "sha": "8115c3f92660e9429ed50a7d4d010b870a8c60c6"
   },
   "17": {
     "translation": "Hungarian Karoli",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 17,
-    "name": "Leviticus 17",
+    "name": "Leviták könyve 17",
     "url": "https://api.getbible.net/v2/karoli/3/17.json",
-    "sha": "78c078d4feb5c561ba5e15c99ffa61927f3c33ca"
+    "sha": "3f939136210265690ab26983794258e09167eb39"
   },
   "18": {
     "translation": "Hungarian Karoli",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 18,
-    "name": "Leviticus 18",
+    "name": "Leviták könyve 18",
     "url": "https://api.getbible.net/v2/karoli/3/18.json",
-    "sha": "9e00f4aff20fd8d82a0aa89c959947ea2d13cf3a"
+    "sha": "00333dac4203ce9c99f26b73ccf9d0cb7e9f2ce5"
   },
   "19": {
     "translation": "Hungarian Karoli",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 19,
-    "name": "Leviticus 19",
+    "name": "Leviták könyve 19",
     "url": "https://api.getbible.net/v2/karoli/3/19.json",
-    "sha": "725974e0d2e7b3c04ea7725fc9169538580eb7cd"
+    "sha": "a6666d44274d4a76dc8c6c1279aa07f9aa29156f"
   },
   "20": {
     "translation": "Hungarian Karoli",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 20,
-    "name": "Leviticus 20",
+    "name": "Leviták könyve 20",
     "url": "https://api.getbible.net/v2/karoli/3/20.json",
-    "sha": "585b20a0186f3e13a3503b591fc83640bcd41fa5"
+    "sha": "c3879c24cbae9988e9561f369c5ec82281d1d3eb"
   },
   "21": {
     "translation": "Hungarian Karoli",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 21,
-    "name": "Leviticus 21",
+    "name": "Leviták könyve 21",
     "url": "https://api.getbible.net/v2/karoli/3/21.json",
-    "sha": "80ec6a602e1148ac22ce51d65e9b68fc54f416c4"
+    "sha": "b92e2c55b459b1eb9b712d886fee6395b9a4591e"
   },
   "22": {
     "translation": "Hungarian Karoli",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 22,
-    "name": "Leviticus 22",
+    "name": "Leviták könyve 22",
     "url": "https://api.getbible.net/v2/karoli/3/22.json",
-    "sha": "37165bcae442ac882b42d1c9254a4fb58599352b"
+    "sha": "afe998f640f107e2a46eca14a427fe96fa4c8853"
   },
   "23": {
     "translation": "Hungarian Karoli",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 23,
-    "name": "Leviticus 23",
+    "name": "Leviták könyve 23",
     "url": "https://api.getbible.net/v2/karoli/3/23.json",
-    "sha": "ddf79641b3cc507a55e2addcff9028dd32a0eae4"
+    "sha": "80b9a9ea212e9994a14aad19b7fb1ad7d781788c"
   },
   "24": {
     "translation": "Hungarian Karoli",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 24,
-    "name": "Leviticus 24",
+    "name": "Leviták könyve 24",
     "url": "https://api.getbible.net/v2/karoli/3/24.json",
-    "sha": "226617d496b77d39830c70bb9c9254a85467031b"
+    "sha": "e6d911ae3ced6dc2612a47f56f6fe0b5a0339914"
   },
   "25": {
     "translation": "Hungarian Karoli",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 25,
-    "name": "Leviticus 25",
+    "name": "Leviták könyve 25",
     "url": "https://api.getbible.net/v2/karoli/3/25.json",
-    "sha": "d62dcaede312c88c4bdab3d22ec00d1552d2c9a1"
+    "sha": "25549e4a9f165a2605fee3a666752d2a6a016e91"
   },
   "26": {
     "translation": "Hungarian Karoli",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 26,
-    "name": "Leviticus 26",
+    "name": "Leviták könyve 26",
     "url": "https://api.getbible.net/v2/karoli/3/26.json",
-    "sha": "e0955c497bebd37772879140dcca785d3835011d"
+    "sha": "8fdc55ccf4080235a62a2b9ac231289747b20dab"
   },
   "27": {
     "translation": "Hungarian Karoli",
@@ -371,10 +371,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "Leviticus",
+    "book_name": "Leviták könyve",
     "chapter": 27,
-    "name": "Leviticus 27",
+    "name": "Leviták könyve 27",
     "url": "https://api.getbible.net/v2/karoli/3/27.json",
-    "sha": "daeb78d8572b6777e17b9ec2b1f3141d842130ec"
+    "sha": "89fab83ff227dd5a686c51b986bcad53e48c8e93"
   }
 }

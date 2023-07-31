@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggais bok",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Haggais bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/37/1.json",
-    "sha": "a0a5736ae625d52986524df067d86d9fd707d3b1"
+    "sha": "612be3a8b862a05675bd9d746d74467a1df28222"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggais bok",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Haggais bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/37/2.json",
-    "sha": "900fde6bf25863eeb03caca8bc50896635679d0d"
+    "sha": "0c2b9aa6a19a991f3376090c585a853c74351b80"
   }
 }

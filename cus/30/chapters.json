@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "阿摩司书 1",
     "url": "https://api.getbible.net/v2/cus/30/1.json",
-    "sha": "8e2fbe7c3afde40f7b7752099203cc9e0603e8df"
+    "sha": "e275c26e147aa641dc4aa441795901e8b838d09d"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "阿摩司书 2",
     "url": "https://api.getbible.net/v2/cus/30/2.json",
-    "sha": "0437212be00dad42332904c116194cca7fe7165f"
+    "sha": "e7bab251bb16edcab72f22630e5a9140133d6b1e"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "阿摩司书 3",
     "url": "https://api.getbible.net/v2/cus/30/3.json",
-    "sha": "b6318bb68a7e4a09cdd02ee282ea40dee6425c13"
+    "sha": "2fea9fda37de0e2d2d46f00a71dfecca3e2e120e"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "阿摩司书 4",
     "url": "https://api.getbible.net/v2/cus/30/4.json",
-    "sha": "20b41c1520251f64e6fbab217fc80e5f7b20ca27"
+    "sha": "e32bb36919e47b51b7747b54041852d606225387"
   },
   "5": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "阿摩司书 5",
     "url": "https://api.getbible.net/v2/cus/30/5.json",
-    "sha": "93c440288e3faa41d5c1ba106b64029e8fc63d23"
+    "sha": "6261ba1498921ab2083232f36cbcd36a11356ab7"
   },
   "6": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -81,13 +81,13 @@
     "chapter": 6,
     "name": "阿摩司书 6",
     "url": "https://api.getbible.net/v2/cus/30/6.json",
-    "sha": "9ab7d69dbbb9ebe9fecc59aab4e17b0efb34f83f"
+    "sha": "84a63ca4a9029967026016bf101d54607c2f6e72"
   },
   "7": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -95,13 +95,13 @@
     "chapter": 7,
     "name": "阿摩司书 7",
     "url": "https://api.getbible.net/v2/cus/30/7.json",
-    "sha": "b8f32fc418f46b6d1a9f631e41dd12d3c6579676"
+    "sha": "0273ffa139de811835d7929b359d157fd9a675fc"
   },
   "8": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -109,13 +109,13 @@
     "chapter": 8,
     "name": "阿摩司书 8",
     "url": "https://api.getbible.net/v2/cus/30/8.json",
-    "sha": "224c4b8427157d9ccb9f16a14cd6f809f7c7c202"
+    "sha": "7be2a3e0b771b09cbbe3d8787dd5c9382052dc3a"
   },
   "9": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "阿摩司书 9",
     "url": "https://api.getbible.net/v2/cus/30/9.json",
-    "sha": "056b16b4deee7de712defb00a149e97dbcea6f67"
+    "sha": "7c95de5396572da23434d3fcd27c02c90cacda90"
   }
 }

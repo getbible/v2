@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 1,
-    "name": "2 Kings 1",
+    "name": "2 กษัตริย์ 1",
     "url": "https://api.getbible.net/v2/thai/12/1.json",
-    "sha": "d104e2d3a1fa28960edd0daba23d4386eeaae46f"
+    "sha": "f7b63c5ecb8ae1af69f321158647a7a3fdeea42f"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 2,
-    "name": "2 Kings 2",
+    "name": "2 กษัตริย์ 2",
     "url": "https://api.getbible.net/v2/thai/12/2.json",
-    "sha": "b38e8f5e80a4dd7dae9737bce6e45344b1b04363"
+    "sha": "3904b25721337847c96026a87227cf96d076cb73"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 3,
-    "name": "2 Kings 3",
+    "name": "2 กษัตริย์ 3",
     "url": "https://api.getbible.net/v2/thai/12/3.json",
-    "sha": "b6beacac07f1300d1d8e44dad9575e5acfb2c9c0"
+    "sha": "9b3191419438d86ae533b90d7f2033503c327236"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 4,
-    "name": "2 Kings 4",
+    "name": "2 กษัตริย์ 4",
     "url": "https://api.getbible.net/v2/thai/12/4.json",
-    "sha": "01b263a81b56a9abfe5787d434928d5068a65506"
+    "sha": "62b08f3ba3ab2d969cd5e30586f2ac153c73417f"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 5,
-    "name": "2 Kings 5",
+    "name": "2 กษัตริย์ 5",
     "url": "https://api.getbible.net/v2/thai/12/5.json",
-    "sha": "2c822c3ab6d9151d49d3283921d69c72d595ea7f"
+    "sha": "eb67680312db1b8e73fab985ec9456764a1dd49f"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 6,
-    "name": "2 Kings 6",
+    "name": "2 กษัตริย์ 6",
     "url": "https://api.getbible.net/v2/thai/12/6.json",
-    "sha": "b4befa11dbb2c7079dddec3ed23151e51b7632e3"
+    "sha": "36a9955ef6359dc50479d2d95491e73a0cff146b"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 7,
-    "name": "2 Kings 7",
+    "name": "2 กษัตริย์ 7",
     "url": "https://api.getbible.net/v2/thai/12/7.json",
-    "sha": "04162382f967f5b2cb7082cafe329deef2bdd43c"
+    "sha": "677142e6135fd398b857ea3baa565d883394d640"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 8,
-    "name": "2 Kings 8",
+    "name": "2 กษัตริย์ 8",
     "url": "https://api.getbible.net/v2/thai/12/8.json",
-    "sha": "f3ee79b53bc11f8a8ac537c30b377224e95325d5"
+    "sha": "e08af15bbc52f671d38244c4013e530e65d7dd9b"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 9,
-    "name": "2 Kings 9",
+    "name": "2 กษัตริย์ 9",
     "url": "https://api.getbible.net/v2/thai/12/9.json",
-    "sha": "3383090ef599b9921311ec4804090f8949878063"
+    "sha": "a29d8f9a4b7b051dbcb142636698debb410a1fbc"
   },
   "10": {
     "translation": "Thai from kjv",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 10,
-    "name": "2 Kings 10",
+    "name": "2 กษัตริย์ 10",
     "url": "https://api.getbible.net/v2/thai/12/10.json",
-    "sha": "a13dbad8bedc4518131e599b5636af6db5832276"
+    "sha": "826a10c7e24a02a6f0f05d5f6447857b02b95a8a"
   },
   "11": {
     "translation": "Thai from kjv",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 11,
-    "name": "2 Kings 11",
+    "name": "2 กษัตริย์ 11",
     "url": "https://api.getbible.net/v2/thai/12/11.json",
-    "sha": "aff4fb2b33dcd66a5e326b9a4823f8558460da5f"
+    "sha": "73222ee4b4444439c0de6af8175397bb0be5dc5b"
   },
   "12": {
     "translation": "Thai from kjv",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 12,
-    "name": "2 Kings 12",
+    "name": "2 กษัตริย์ 12",
     "url": "https://api.getbible.net/v2/thai/12/12.json",
-    "sha": "ddce2880a5b9664345840b12b23489768c200ba7"
+    "sha": "4c10e1a412d2c5657c5a75446314ed4c2c5d6cb1"
   },
   "13": {
     "translation": "Thai from kjv",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 13,
-    "name": "2 Kings 13",
+    "name": "2 กษัตริย์ 13",
     "url": "https://api.getbible.net/v2/thai/12/13.json",
-    "sha": "b1706a4bf0548d84c6e36c020cf4de353187a481"
+    "sha": "dd0a854a6319a094290b7b3dc9efa7529c970574"
   },
   "14": {
     "translation": "Thai from kjv",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 14,
-    "name": "2 Kings 14",
+    "name": "2 กษัตริย์ 14",
     "url": "https://api.getbible.net/v2/thai/12/14.json",
-    "sha": "3450bda5a8e3cfe87c8cc4d9245aea2c9da89b15"
+    "sha": "84994b28cbbd005e5f4358623958ad2721c281ef"
   },
   "15": {
     "translation": "Thai from kjv",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 15,
-    "name": "2 Kings 15",
+    "name": "2 กษัตริย์ 15",
     "url": "https://api.getbible.net/v2/thai/12/15.json",
-    "sha": "c10b7747635d8c6badd07c7464f4366cdee1ccfb"
+    "sha": "ea520f0495cad80bddc139aef84f59691c987f1e"
   },
   "16": {
     "translation": "Thai from kjv",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 16,
-    "name": "2 Kings 16",
+    "name": "2 กษัตริย์ 16",
     "url": "https://api.getbible.net/v2/thai/12/16.json",
-    "sha": "11372accb83e7bbfc4e343ef9f100e81a99688cc"
+    "sha": "145059a6a2c8b0451b994d6664962da37fab99eb"
   },
   "17": {
     "translation": "Thai from kjv",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 17,
-    "name": "2 Kings 17",
+    "name": "2 กษัตริย์ 17",
     "url": "https://api.getbible.net/v2/thai/12/17.json",
-    "sha": "feae3a6c836fe15d44f9426eaa7320bbd2635608"
+    "sha": "bfe4796337ded16a4956d8c917a28a2785c0e112"
   },
   "18": {
     "translation": "Thai from kjv",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 18,
-    "name": "2 Kings 18",
+    "name": "2 กษัตริย์ 18",
     "url": "https://api.getbible.net/v2/thai/12/18.json",
-    "sha": "9c40f453a00e98a295bcdf2147395aeb4e225cfd"
+    "sha": "751597d2993439d40a24ded1e8e5cdbba1445e9b"
   },
   "19": {
     "translation": "Thai from kjv",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 19,
-    "name": "2 Kings 19",
+    "name": "2 กษัตริย์ 19",
     "url": "https://api.getbible.net/v2/thai/12/19.json",
-    "sha": "016ec82e53815128f3e1aa5c5a86e3d557b1f4ed"
+    "sha": "e8a48325d9c992de8d8ae5ef6ac41e0ff09add11"
   },
   "20": {
     "translation": "Thai from kjv",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 20,
-    "name": "2 Kings 20",
+    "name": "2 กษัตริย์ 20",
     "url": "https://api.getbible.net/v2/thai/12/20.json",
-    "sha": "5aa3ba4289d16c76ddf4418f4a4014f9b5e65c0a"
+    "sha": "4294cfb857b298dc62364be247586d5c612182f7"
   },
   "21": {
     "translation": "Thai from kjv",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 21,
-    "name": "2 Kings 21",
+    "name": "2 กษัตริย์ 21",
     "url": "https://api.getbible.net/v2/thai/12/21.json",
-    "sha": "487d644795014ae62d935f620c6bcae204abdd9f"
+    "sha": "ac0d5a3a4381d8891f9d5b97adbac178fe0422d8"
   },
   "22": {
     "translation": "Thai from kjv",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 22,
-    "name": "2 Kings 22",
+    "name": "2 กษัตริย์ 22",
     "url": "https://api.getbible.net/v2/thai/12/22.json",
-    "sha": "6377c1f05df4860df75a618ffc425317d7d995e2"
+    "sha": "c8f601ad4680584e1872e5aea13b3ba2add04a3b"
   },
   "23": {
     "translation": "Thai from kjv",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 23,
-    "name": "2 Kings 23",
+    "name": "2 กษัตริย์ 23",
     "url": "https://api.getbible.net/v2/thai/12/23.json",
-    "sha": "53c8e048601209bbc09286f366c4247be80d504f"
+    "sha": "5cd132d909c896a1394e0126676cc96024f4e649"
   },
   "24": {
     "translation": "Thai from kjv",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 24,
-    "name": "2 Kings 24",
+    "name": "2 กษัตริย์ 24",
     "url": "https://api.getbible.net/v2/thai/12/24.json",
-    "sha": "80d78c559d05ecd6f337d8f8fb4c46c1df592771"
+    "sha": "e96a42888fa81c6cf5fdbb2155a4caabcc85676a"
   },
   "25": {
     "translation": "Thai from kjv",
@@ -343,10 +343,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2 Kings",
+    "book_name": "2 กษัตริย์",
     "chapter": 25,
-    "name": "2 Kings 25",
+    "name": "2 กษัตริย์ 25",
     "url": "https://api.getbible.net/v2/thai/12/25.json",
-    "sha": "a7d21b1f7495e675e2b78583c83239a8d38ca048"
+    "sha": "1548aa9f3dd316a02138bebba1876e076feab5ca"
   }
 }

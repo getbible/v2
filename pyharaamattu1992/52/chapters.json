@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "Ensimmäinen tessalonikalaiskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/52/1.json",
-    "sha": "b9fa9a518e6217bdf44c715f6a0d06c9c6221083"
+    "sha": "6eb3be0175e538666e3de16ca41cdc7e639599ec"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "Ensimmäinen tessalonikalaiskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/52/2.json",
-    "sha": "9b971325e32e0a14bc3cc63431a36c6b6b8145d7"
+    "sha": "3ac3929772d235697ac81e209e4dcf9854007f08"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "Ensimmäinen tessalonikalaiskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/52/3.json",
-    "sha": "11d50d5c08b9211b9ed5da64dd34fd9f86d8592f"
+    "sha": "52f94675ded39ac11991089b99b1056920c8981f"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "Ensimmäinen tessalonikalaiskirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/52/4.json",
-    "sha": "5d8959a23b232479ce15b48bce4810ceca462d63"
+    "sha": "6750150ac728bd8e0c5991e65497a2e827410e32"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "Ensimmäinen tessalonikalaiskirje 5",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/52/5.json",
-    "sha": "6a8fe6e51df6654273b9a534017c9697e0f8b125"
+    "sha": "b90c52eb49d7188c5508422ab3b6e6d9e556f94c"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "ทิตัส",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "ทิตัส 1",
     "url": "https://api.getbible.net/v2/thai/56/1.json",
-    "sha": "a66bba99b28388becd5bee10514e78c72eb95417"
+    "sha": "130104d6409aa6f8b9061fc446dc089f868696ec"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "ทิตัส",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "ทิตัส 2",
     "url": "https://api.getbible.net/v2/thai/56/2.json",
-    "sha": "3abf7ee1a770f08c78ef7f4f1c280ae12e747225"
+    "sha": "50468a0b627011a84d84b857327accb4170bd8ca"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "ทิตัส",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "ทิตัส 3",
     "url": "https://api.getbible.net/v2/thai/56/3.json",
-    "sha": "cac4a68a1474f116984caa6cda0b3d40338c79af"
+    "sha": "8846252e31808e1c58996d314b20bfe511389508"
   }
 }

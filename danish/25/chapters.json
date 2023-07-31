@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Klagesangene 1",
     "url": "https://api.getbible.net/v2/danish/25/1.json",
-    "sha": "df6d6b370d982362d1e8037dd64ee2443279f82b"
+    "sha": "cc7e67dd61d667ceec954bf00e45a5b6fddd4802"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Klagesangene 2",
     "url": "https://api.getbible.net/v2/danish/25/2.json",
-    "sha": "973b7cbf7b362d4293b9fd3769e9b0f278533a7c"
+    "sha": "ad0c5480f9868a9bce395a9af122fd8c71baca47"
   },
   "3": {
     "translation": "Danish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Klagesangene 3",
     "url": "https://api.getbible.net/v2/danish/25/3.json",
-    "sha": "f278578c259d1475cd179a02aeef1aa7e4260364"
+    "sha": "8d994e94fbd14ba84a69d37486b3a6845d67b21a"
   },
   "4": {
     "translation": "Danish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Klagesangene 4",
     "url": "https://api.getbible.net/v2/danish/25/4.json",
-    "sha": "5023c487ead5412e19c42e3c41e12c7864a46ff1"
+    "sha": "389994c630dcafcf1e86744803495e21ea566894"
   },
   "5": {
     "translation": "Danish",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagesangene",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Klagesangene 5",
     "url": "https://api.getbible.net/v2/danish/25/5.json",
-    "sha": "81f113127345fb38d7dfd09ee4b8f9994d0a458b"
+    "sha": "b4265d7c2787bafda42fb36b239b1c3404a613ac"
   }
 }

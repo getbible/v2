@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakuk könyve",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habakuk könyve 1",
     "url": "https://api.getbible.net/v2/karoli/35/1.json",
-    "sha": "902a1ea85c712bcc7176f28ddff0cac765a6b6b3"
+    "sha": "51e80c7b15fcbe585292833950c2afb23f177dd6"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakuk könyve",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habakuk könyve 2",
     "url": "https://api.getbible.net/v2/karoli/35/2.json",
-    "sha": "d2e525081fb63e069729b3f9b3472885c7de6bf4"
+    "sha": "f3345caa59f67d96c92f9f663ee7c035f8f7e5e5"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakuk könyve",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habakuk könyve 3",
     "url": "https://api.getbible.net/v2/karoli/35/3.json",
-    "sha": "2a59e967e03da5891df43f3eb41dd851d19deeaf"
+    "sha": "82eeace102ec17975d767b8dd8abe95f504149c7"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "雅各书 1",
     "url": "https://api.getbible.net/v2/cus/59/1.json",
-    "sha": "a6aec4ec9d1326e0532cf99beae6bd8d5a822134"
+    "sha": "66a450ffcc91fff4e1f0088c172fae9bfcef09ce"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "雅各书 2",
     "url": "https://api.getbible.net/v2/cus/59/2.json",
-    "sha": "87ba4b0bdcf8eec287bd4f9fd7cd084df5b04acd"
+    "sha": "16c1b927827288a8d7a3c25988c0936cd802cb09"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "雅各书 3",
     "url": "https://api.getbible.net/v2/cus/59/3.json",
-    "sha": "4f7a3d34486307fd6c43bfe5c3262925e474d303"
+    "sha": "1125f79d4958ccd3c71eb2bd63901dd77828285a"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "雅各书 4",
     "url": "https://api.getbible.net/v2/cus/59/4.json",
-    "sha": "3ec62d936381b02b9e43916961e109051d50f4a4"
+    "sha": "a9b63c5339c0642c2cb79c91125425f5241c0980"
   },
   "5": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "雅各书 5",
     "url": "https://api.getbible.net/v2/cus/59/5.json",
-    "sha": "f0b786be75ce5674fbc58635aeceec68c2700785"
+    "sha": "c6019e1c151c49386217e7963dc3c1e14d7e0e7a"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Gioele",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Gioele 1",
     "url": "https://api.getbible.net/v2/riveduta/29/1.json",
-    "sha": "c5efbd53b186940767dff4eb595db9963f88a97d"
+    "sha": "3ea3fa246820e2cce4cc3e06c0c1fc79ff1fe548"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Gioele",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Gioele 2",
     "url": "https://api.getbible.net/v2/riveduta/29/2.json",
-    "sha": "51895378b9f6f206f70402e41ae09a40a5a6aded"
+    "sha": "4b467bf6a1d3daef5aa7ebb6e9258d66e97d9d95"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Gioele",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Gioele 3",
     "url": "https://api.getbible.net/v2/riveduta/29/3.json",
-    "sha": "276b8ad87fb28ec60468d1b7071e11ebea4b82fe"
+    "sha": "8cd06dd04eb283fa67a826a74cb63119357a1449"
   }
 }

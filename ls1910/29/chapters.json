@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joël 1",
     "url": "https://api.getbible.net/v2/ls1910/29/1.json",
-    "sha": "80c8a8b97df9815bca9ca03cbe797559f932dc19"
+    "sha": "190c5b1761d79b215b6ef1726ebceab4db6aa35d"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joël 2",
     "url": "https://api.getbible.net/v2/ls1910/29/2.json",
-    "sha": "b476d5aafe120bd3fc36f25a3f245535bc6cd7f4"
+    "sha": "fe2df672dd377bcf108fc143bdafe4f59303a447"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joël 3",
     "url": "https://api.getbible.net/v2/ls1910/29/3.json",
-    "sha": "240462db53b157300500ed63a9fef5579476226e"
+    "sha": "e93665d5d42e98582faa757990f7945278ab85b6"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "1 John 1",
     "url": "https://api.getbible.net/v2/wycliffe/62/1.json",
-    "sha": "b65724ebce78d2650b044a7d6a1add8c15636050"
+    "sha": "cb401b19aa507cdb3812ee1c6ced5467f77f10b4"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "1 John 2",
     "url": "https://api.getbible.net/v2/wycliffe/62/2.json",
-    "sha": "cc28969039b6833e3991a2d885cf35b1566df387"
+    "sha": "bdbc7b2d0a8ddb6557b0c67d13368bcd3aaaa042"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "1 John 3",
     "url": "https://api.getbible.net/v2/wycliffe/62/3.json",
-    "sha": "bfbb308958330e9be04d4a02e8600191ff37caf6"
+    "sha": "c650eedf921f4332e66a231a4574c85608c28bf5"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "1 John 4",
     "url": "https://api.getbible.net/v2/wycliffe/62/4.json",
-    "sha": "a1c35ce2045e3c2f0ebee8e9a74c2ae7e2975018"
+    "sha": "87e31459e8b9917b906ac6afb41790a88c7b0cdc"
   },
   "5": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 John 5",
     "url": "https://api.getbible.net/v2/wycliffe/62/5.json",
-    "sha": "8d85d9b5c37fdbb5486d8342bf278c3f6af1ae97"
+    "sha": "577bbcf2a43bc00d9fc639aa10bc30ba56f1891c"
   }
 }

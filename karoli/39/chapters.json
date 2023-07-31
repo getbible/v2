@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakiás könyve",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malakiás könyve 1",
     "url": "https://api.getbible.net/v2/karoli/39/1.json",
-    "sha": "5262ff810dcf6d7b3764354c197bab18435cd55a"
+    "sha": "e5060c4e7f38ee291fd080fe432fec7de9bc8063"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakiás könyve",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malakiás könyve 2",
     "url": "https://api.getbible.net/v2/karoli/39/2.json",
-    "sha": "b67dcf3912a5d6fba9e96c9d5f367db47a2950b2"
+    "sha": "13e16bbd97b956d21dff869bc5178bf059d81084"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakiás könyve",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malakiás könyve 3",
     "url": "https://api.getbible.net/v2/karoli/39/3.json",
-    "sha": "7165111e6d07c8ed314e119d65b1251a17f02653"
+    "sha": "b626c4e20ac4bac48d269d2f4c10c4e0f5e0f734"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakiás könyve",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malakiás könyve 4",
     "url": "https://api.getbible.net/v2/karoli/39/4.json",
-    "sha": "f0e9064b0417150d9a79e4a49c3d3ffd55a35b61"
+    "sha": "04aabe89af7fee1c45df7d684b575ca81c3ea35c"
   }
 }

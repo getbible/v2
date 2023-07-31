@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jaakobin kirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/59/1.json",
-    "sha": "66397534fd41622ea821d69e3829a359a8ddda42"
+    "sha": "2e7edfd76e58e6bfb0ba44d0b2c699c178b1e832"
   },
   "2": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jaakobin kirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/59/2.json",
-    "sha": "8b6ac8909687852843f223644e7caa854b308ff6"
+    "sha": "056e8936219969d3f4ae1a4c639369ce2ee8e017"
   },
   "3": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jaakobin kirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/59/3.json",
-    "sha": "fead7ac17eaff5e58de559f8d193a44a2b697d0c"
+    "sha": "8ac0f78394e6585ac493d38701395ea0b207fe91"
   },
   "4": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jaakobin kirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/59/4.json",
-    "sha": "e1b19b3d0df030ad8da8cbce242d1ebaf12cc1e1"
+    "sha": "194162f3cef374df55ae0cd6368c8b0552adca80"
   },
   "5": {
     "translation": "Pyha Raamattu (1933 1938)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobin kirje",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jaakobin kirje 5",
     "url": "https://api.getbible.net/v2/pyharaamattu1933/59/5.json",
-    "sha": "b9646fa0b7b54f0c6a4907114712b07225a83dd8"
+    "sha": "67663fc0250d1686db9714e6b615dced62064159"
   }
 }

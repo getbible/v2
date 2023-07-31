@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "Πέτρου Α' 1",
     "url": "https://api.getbible.net/v2/moderngreek/60/1.json",
-    "sha": "dd005e0a0520022d26beb13a185e8aaccc7c1804"
+    "sha": "293c34f1c7502224cd10017ebca7dca58bc11486"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "Πέτρου Α' 2",
     "url": "https://api.getbible.net/v2/moderngreek/60/2.json",
-    "sha": "1af135e0066be9668e293b4c2dfd9c6d65d5310e"
+    "sha": "64bee2ddca36933f6d2c8e0f44e7cb3bb0746e45"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "Πέτρου Α' 3",
     "url": "https://api.getbible.net/v2/moderngreek/60/3.json",
-    "sha": "0e7676cdd5192df6ee9a60f5649781706d248ec6"
+    "sha": "b6ca9583e950f1a193d9103ebe30abc6b09ffe0f"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "Πέτρου Α' 4",
     "url": "https://api.getbible.net/v2/moderngreek/60/4.json",
-    "sha": "14c5c8fcf5ee56353e85468384b64ffa75e51d6c"
+    "sha": "d82a2aeac4a592fbe9167d9986d40b26ee50e1bd"
   },
   "5": {
     "translation": "Greek Modern",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "Πέτρου Α' 5",
     "url": "https://api.getbible.net/v2/moderngreek/60/5.json",
-    "sha": "0a66c9ffe1decf2e0807702f200e11de7387fbff"
+    "sha": "c7c74b9189b5f2cb930a400024d8ccdebfd259f7"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Thessalonians 1",
     "url": "https://api.getbible.net/v2/kjv/52/1.json",
-    "sha": "1cca6784a15ce1b0b672016d8e1dd69bd6f554d2"
+    "sha": "6dcc89a5d9984b79857bfc88ebf309f15eb31d13"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://api.getbible.net/v2/kjv/52/2.json",
-    "sha": "938e12804513f003d740f659607d18cbf249da8f"
+    "sha": "8d47d6f138e85791e04e040400a188022aa0bc87"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Thessalonians 3",
     "url": "https://api.getbible.net/v2/kjv/52/3.json",
-    "sha": "786c8b05658490e4e93e06354376c597eee7419e"
+    "sha": "c962d5979587fa487a7d5230bd0903689d577d16"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Thessalonians 4",
     "url": "https://api.getbible.net/v2/kjv/52/4.json",
-    "sha": "a1be96af8f05f0110cd5f28e93bab81f6bb31992"
+    "sha": "6ddfb34f7b5f8dda4742d6de1ab53ba7c83e027f"
   },
   "5": {
     "translation": "King James Version",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Thessalonians 5",
     "url": "https://api.getbible.net/v2/kjv/52/5.json",
-    "sha": "5f9a057765478a0d617ea07d9ee4672b28fa0ad2"
+    "sha": "ac62e49ce3aaebeffe2a28a696021e0f98be006a"
   }
 }

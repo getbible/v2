@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Տեսաղոնիկացիներին",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Տեսաղոնիկացիներին 1",
     "url": "https://api.getbible.net/v2/westernarmenian/53/1.json",
-    "sha": "53d26456a2332ef76a5843b433ac75d910052cdc"
+    "sha": "e4438ee624980ad16cb0a856aa82ccfbdc345843"
   },
   "2": {
     "translation": "Western NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Տեսաղոնիկացիներին",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Տեսաղոնիկացիներին 2",
     "url": "https://api.getbible.net/v2/westernarmenian/53/2.json",
-    "sha": "bc5a1b0d7e49f86d5f3054c00a708531421e183e"
+    "sha": "02b956a93bd29d99554025f8d85c1adc0eb72d03"
   },
   "3": {
     "translation": "Western NT",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Տեսաղոնիկացիներին",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Տեսաղոնիկացիներին 3",
     "url": "https://api.getbible.net/v2/westernarmenian/53/3.json",
-    "sha": "b1ba9f5221fa0d5e7a2c3f2cc48dfa29e9bb2457"
+    "sha": "1edca08a52d30e7d6c0e1ba39edda63690bf9358"
   }
 }

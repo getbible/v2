@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "ဟက်ဂိုင်",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "ဟက်ဂိုင် 1",
     "url": "https://api.getbible.net/v2/judson/37/1.json",
-    "sha": "3d81f3794dc52b2337536f3d4f72de3bc2000a03"
+    "sha": "4943c63f564eb068191dd1609c0fad67b55dad91"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "ဟက်ဂိုင်",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "ဟက်ဂိုင် 2",
     "url": "https://api.getbible.net/v2/judson/37/2.json",
-    "sha": "f8c49e68eebdb17228c72580663baed9d8e6a308"
+    "sha": "a15e162397fa9478d45a40d9b2c701f856e2bb07"
   }
 }

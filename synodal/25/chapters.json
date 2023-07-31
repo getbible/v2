@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Плач Иеремии",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Плач Иеремии 1",
     "url": "https://api.getbible.net/v2/synodal/25/1.json",
-    "sha": "6b3c0a54ee69d278f799d4ff09c0dda92557c0a7"
+    "sha": "8c70a4ef6fda27e6db87907b6cf164b4200f8c87"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Плач Иеремии",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Плач Иеремии 2",
     "url": "https://api.getbible.net/v2/synodal/25/2.json",
-    "sha": "f3b9db44bbd111b62a596022029d04d512891049"
+    "sha": "9f59ebb26add44efc01706f016947045041c9ca5"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Плач Иеремии",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Плач Иеремии 3",
     "url": "https://api.getbible.net/v2/synodal/25/3.json",
-    "sha": "69d41d8ca112a5014749ec4fc84be799bfa0c0d4"
+    "sha": "fd380f3ab402bfb6d443b06c6ad390ababe3de7d"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Плач Иеремии",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Плач Иеремии 4",
     "url": "https://api.getbible.net/v2/synodal/25/4.json",
-    "sha": "ca8c645f83a4d6d5a957d0709c9cf4118edeee87"
+    "sha": "790e82cb132f11af0656e9e3fbac38b8bc034d02"
   },
   "5": {
     "translation": "Synodal Translation (1876)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Плач Иеремии",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Плач Иеремии 5",
     "url": "https://api.getbible.net/v2/synodal/25/5.json",
-    "sha": "1fb855430ff78e1d3234d9ac6689791ba0b95219"
+    "sha": "846033994de377e13082fb2ea8143b46305dccb1"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Giacomo",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Giacomo 1",
     "url": "https://api.getbible.net/v2/riveduta/59/1.json",
-    "sha": "a1dac6f339b207f0cc11d99d1ca7ce88269eb25e"
+    "sha": "b32f2bb8fee6f77cac63e9bd1ff1e516da0c9d4f"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Giacomo",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Giacomo 2",
     "url": "https://api.getbible.net/v2/riveduta/59/2.json",
-    "sha": "1075c95a0d641b1ddcacb240c9c1be553896076c"
+    "sha": "8d004f3c7548ce2531d74231bc53ed0eecff2d04"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Giacomo",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Giacomo 3",
     "url": "https://api.getbible.net/v2/riveduta/59/3.json",
-    "sha": "8a95c9fdb98052e2c0d3e37c4292c330044e8f0c"
+    "sha": "966e891f4aa776c0a62745c875d73cb9030296d9"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Giacomo",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Giacomo 4",
     "url": "https://api.getbible.net/v2/riveduta/59/4.json",
-    "sha": "16bc5d0cff8b6ab4d6c7b8332395e2c51e8ba692"
+    "sha": "3ffde36d283393d07c9d9d4f39566cd8fac606b6"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Giacomo",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Giacomo 5",
     "url": "https://api.getbible.net/v2/riveduta/59/5.json",
-    "sha": "225304319f92be0cfad00e6d682b5898797d33ac"
+    "sha": "cc225f957329679054f491dafa9f8a285eeaed99"
   }
 }

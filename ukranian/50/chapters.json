@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филип'янам",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Филип'янам 1",
     "url": "https://api.getbible.net/v2/ukranian/50/1.json",
-    "sha": "65fa6ea7c9642162925855cf1e903c9409b7de79"
+    "sha": "a8dda49c357e57ed74b84ba451314522ecc4c2c1"
   },
   "2": {
     "translation": "NT (P Kulish 1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филип'янам",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Филип'янам 2",
     "url": "https://api.getbible.net/v2/ukranian/50/2.json",
-    "sha": "f6ce4c677119980d90622a3e1f58afce9f47dc88"
+    "sha": "226154860d5f9b84fca8dbdfcd7c2601070fb76c"
   },
   "3": {
     "translation": "NT (P Kulish 1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филип'янам",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Филип'янам 3",
     "url": "https://api.getbible.net/v2/ukranian/50/3.json",
-    "sha": "43da9d033502c3e7831a3de420d126993537a71c"
+    "sha": "20fd96b3dac09b954cb9aa939be8520d225bf42b"
   },
   "4": {
     "translation": "NT (P Kulish 1871)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филип'янам",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Филип'янам 4",
     "url": "https://api.getbible.net/v2/ukranian/50/4.json",
-    "sha": "9b0b2afeed43ecaf81a195e2d3c3f4f5c0391142"
+    "sha": "a5b2263f95e9b950c6e01bc0b98d44407a3967c1"
   }
 }

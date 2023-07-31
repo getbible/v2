@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "帖撒羅尼迦後書 1",
     "url": "https://api.getbible.net/v2/cnt/53/1.json",
-    "sha": "84b3f10a6b35605e6a5afdde34750544d12e1b69"
+    "sha": "2383673beeb937803028db934ce0a3597f2cae20"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "帖撒羅尼迦後書 2",
     "url": "https://api.getbible.net/v2/cnt/53/2.json",
-    "sha": "e5857c064f63eda663be4f3a622ed75a62e758c1"
+    "sha": "dcd1b2b9b37ec71c6db561c204e7bea6dcd25146"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "帖撒羅尼迦後書 3",
     "url": "https://api.getbible.net/v2/cnt/53/3.json",
-    "sha": "5300a2d1cd72eaebbe88cd80ea4453585580b294"
+    "sha": "c043c4e3edeaa3e12d48d0a1186630e6c6271337"
   }
 }

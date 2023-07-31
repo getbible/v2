@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "提摩太后书 1",
     "url": "https://api.getbible.net/v2/cns/55/1.json",
-    "sha": "f7f7a16a0dabd3d17ba4576ce576940d8927b255"
+    "sha": "3eb241643f7d850fee83e328dacd523b135080b7"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "提摩太后书 2",
     "url": "https://api.getbible.net/v2/cns/55/2.json",
-    "sha": "b510dd9dd9b1c7c8110129ea6ccc43aae321481f"
+    "sha": "9aa3c9a7e14e389f39c14e56905e4dc0e06a2b0c"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "提摩太后书 3",
     "url": "https://api.getbible.net/v2/cns/55/3.json",
-    "sha": "822693df2ac27bfc2626336b03940448231a79ff"
+    "sha": "bd9ce642d6fb93d19bf8dd4781042436175ff2c1"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "提摩太后书 4",
     "url": "https://api.getbible.net/v2/cns/55/4.json",
-    "sha": "fbc24a2eee0a9b8ae5c74afac55539e4834a7333"
+    "sha": "3ed2c7463a23697a35b51b70ca98749a6ab16204"
   }
 }

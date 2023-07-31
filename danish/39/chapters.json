@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakias' Bog",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malakias' Bog 1",
     "url": "https://api.getbible.net/v2/danish/39/1.json",
-    "sha": "170972379a81935706113e65b444d2937b21f1c3"
+    "sha": "9508b021b558ae747a6a468014b2f059b1749a9f"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakias' Bog",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malakias' Bog 2",
     "url": "https://api.getbible.net/v2/danish/39/2.json",
-    "sha": "ec77a86445277c87b98482699e1c5c26379cafb6"
+    "sha": "b2128d904246755643bda3938499906a82bfb331"
   },
   "3": {
     "translation": "Danish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakias' Bog",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malakias' Bog 3",
     "url": "https://api.getbible.net/v2/danish/39/3.json",
-    "sha": "54a7a09f40e31e89a761448d2313bfbc7bbbb677"
+    "sha": "4abd56d690173ea2a57b07d2049f4a7666c77edd"
   },
   "4": {
     "translation": "Danish",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakias' Bog",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malakias' Bog 4",
     "url": "https://api.getbible.net/v2/danish/39/4.json",
-    "sha": "47aefdea8585097dc0a540ff4a38d93591e8170c"
+    "sha": "341634884354c78a2c431696180dd10c80682408"
   }
 }

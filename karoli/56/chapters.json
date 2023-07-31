@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tituszhoz írt levél",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tituszhoz írt levél 1",
     "url": "https://api.getbible.net/v2/karoli/56/1.json",
-    "sha": "74157a364f892e3b07ef39260bce4afaf01106f4"
+    "sha": "d43ec1e7211fcad1b419762d87f8bf8f771f52b9"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tituszhoz írt levél",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tituszhoz írt levél 2",
     "url": "https://api.getbible.net/v2/karoli/56/2.json",
-    "sha": "4b10b7d426a96259e7fc865cee1fb6658dd816c9"
+    "sha": "ce13ac9395a8044047d885e34b871296ab402b7a"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tituszhoz írt levél",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tituszhoz írt levél 3",
     "url": "https://api.getbible.net/v2/karoli/56/3.json",
-    "sha": "f1fd4df5766055f4590ce1d32cb818ca70935616"
+    "sha": "e4c7711f0f8429a9d29813c1a974ada9e9ca0823"
   }
 }

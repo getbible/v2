@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakian kirja",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malakian kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/39/1.json",
-    "sha": "bbcef1bdd22799b39aa69196966dca49fbeb4b6e"
+    "sha": "756a90d8f32e4befc4d0a7473ff75e0e72d57852"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakian kirja",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malakian kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/39/2.json",
-    "sha": "44bbb8062e6f65b455e996cddb63d382516f1ac0"
+    "sha": "4d0b760a04dd663027f3d3a18f3f55ea813269c6"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakian kirja",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malakian kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/39/3.json",
-    "sha": "3b958eef653755109d0e4aeee7b51ef14a6c005f"
+    "sha": "ef337f89100a202abc64ff098cab415b570989f2"
   }
 }

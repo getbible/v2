@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Yunus",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Yunus 1",
     "url": "https://api.getbible.net/v2/turkish/32/1.json",
-    "sha": "f9c687a1a37541d82b191a5d946e16b4f20c8c09"
+    "sha": "a524bab8584293712eb569c342c161ca6e7f2a19"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Yunus",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Yunus 2",
     "url": "https://api.getbible.net/v2/turkish/32/2.json",
-    "sha": "f1b70fd1eed93f528d318470ebbc4cd1c19951c3"
+    "sha": "9a6bc6e0ae7ccfa036c5edb9b43c4bd5d1330714"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Yunus",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Yunus 3",
     "url": "https://api.getbible.net/v2/turkish/32/3.json",
-    "sha": "54ea9f8404ce9a73b00fa3049408ecd5053eea73"
+    "sha": "b72605ce1f88ddb0e6a67610bd072feec36eb976"
   },
   "4": {
     "translation": "Turkish",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Yunus",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Yunus 4",
     "url": "https://api.getbible.net/v2/turkish/32/4.json",
-    "sha": "0f1a103560d07d257f8bc6d565708f474c890fb4"
+    "sha": "832c84ff6859d5b8a3dafbb0ac71abc038c32aad"
   }
 }

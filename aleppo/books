@@ -1,41 +1,41 @@
 #	language	translation	abbreviation	direction	name	filename	sha
-1		Aleppo Codex	aleppo	LTR	Genesis	1	6693ca164d0b3d14a108dae5b6c4d27f7b9839ea
-2		Aleppo Codex	aleppo	LTR	Exodus	2	5313aa9e3b4be5db163ec705bb58e57a5c8e6ae6
-3		Aleppo Codex	aleppo	LTR	Leviticus	3	721dbd77a0c4111564fa0924538c685759296e5b
-4		Aleppo Codex	aleppo	LTR	Numbers	4	26e4afcf2fdee717904443037070a0340edf9b63
-5		Aleppo Codex	aleppo	LTR	Deuteronomy	5	1a366d93d15559a7a6d7775c87f03f7e37af9ea2
-6		Aleppo Codex	aleppo	LTR	Joshua	6	3864fc6535860e93641fdc43d5cbc6449225d774
-7		Aleppo Codex	aleppo	LTR	Judges	7	16bf7181cbd2c5a3f74b186b002ccaaf8d151f78
-9		Aleppo Codex	aleppo	LTR	1 Samuel	9	c400375d2a7fa8795b09d80556ac1e11069c5a14
-10		Aleppo Codex	aleppo	LTR	2 Samuel	10	f7db6d6f0f6c401645c77b32da72c12fa1254589
-11		Aleppo Codex	aleppo	LTR	1 Kings	11	b069b6d0a4aa485e36b7a903a60d15d359e11689
-12		Aleppo Codex	aleppo	LTR	2 Kings	12	4b66039ffe61362e4026c471116ebc278258080f
-23		Aleppo Codex	aleppo	LTR	Isaiah	23	5dcf408adb80f8b01647406739f09d908ef3d397
-24		Aleppo Codex	aleppo	LTR	Jeremiah	24	8349f0eb1359cc507f0df91ad74c9a083e801993
-26		Aleppo Codex	aleppo	LTR	Ezekiel	26	998d209958812ccf0a9ebb9a9e5f34da56185a72
-28		Aleppo Codex	aleppo	LTR	Hosea	28	e6dadb754203a2ef720922cf21f043fd774dea43
-29		Aleppo Codex	aleppo	LTR	Joel	29	7dc70a03db6305a755b9d8cc05b28c769a86c19e
-30		Aleppo Codex	aleppo	LTR	Amos	30	50a4ea1c8705ab08a27a1c14a34c4271443b319f
-31		Aleppo Codex	aleppo	LTR	Obadiah	31	a288f6601de43561063a8f9c235f48b0f06f9ba3
-32		Aleppo Codex	aleppo	LTR	Jonah	32	c810eb91d1881d80809397c8e220cd202969f6a4
-33		Aleppo Codex	aleppo	LTR	Micah	33	5d3a08be48c6e365e878bc5aa0b1ba65e168fada
-34		Aleppo Codex	aleppo	LTR	Nahum	34	daff796c3bec5297e9904aec878d6b6686396f45
-35		Aleppo Codex	aleppo	LTR	Habakkuk	35	7ecf6f0dcc48f79e198287f881b37b9650009d98
-36		Aleppo Codex	aleppo	LTR	Zephaniah	36	6accf3ed14214a158cd6430c35d3dae66ee22f61
-37		Aleppo Codex	aleppo	LTR	Haggai	37	6c8c07baf9ca9e1988d12a7377aa219026f83df0
-38		Aleppo Codex	aleppo	LTR	Zechariah	38	aa4c7e867702683b1b2fb8eed2451b60942f99f8
-39		Aleppo Codex	aleppo	LTR	Malachi	39	96cabce895e803252fb6cecc544404108273a166
-19		Aleppo Codex	aleppo	LTR	Psalms	19	83007091b4f49f366b1dc712229a426be0011245
-18		Aleppo Codex	aleppo	LTR	Job	18	cefbadd2adb2a43a4e8d902d0f7776a07d9e2c91
-20		Aleppo Codex	aleppo	LTR	Proverbs	20	20c56559ce9155420e839845cd08c55e0076a18f
-8		Aleppo Codex	aleppo	LTR	Ruth	8	5f8325880f56acd9f8e4997a9ba3ca5a3067613b
-22		Aleppo Codex	aleppo	LTR	Song of Songs	22	4492abf6ee1a4efdb40fa2f66384732211bc0f54
-21		Aleppo Codex	aleppo	LTR	Ecclesiastes	21	5c0d7ea6d90a3c9745e594df07bb2ab0df8b7ada
-25		Aleppo Codex	aleppo	LTR	Lamentations	25	667519912de8d657e55a2cd3f5569b827037acf6
-17		Aleppo Codex	aleppo	LTR	Esther	17	b0488ef1cb328549b5a343df18f581d9c3ec5eeb
-27		Aleppo Codex	aleppo	LTR	Daniel	27	ac02ea4d46314328e5717fbe21c5a5f4c2fbda88
-15		Aleppo Codex	aleppo	LTR	Ezra	15	78f1c9b1f97fa0d33826e7b201177c36f23704ed
-16		Aleppo Codex	aleppo	LTR	Nehemiah	16	b30be7b19de1925a439f44360e1672a946258719
-13		Aleppo Codex	aleppo	LTR	1 Chronicles	13	3f47eab11955ef2bb2206c82496c2e44541fc702
-14		Aleppo Codex	aleppo	LTR	2 Chronicles	14	c9c203c70cbd4e31960189a725a8048e188634e8
+1	Hebrew	Aleppo Codex	aleppo	RTL	בְּרֵאשִׁית	1	7df03eb6984734ae6c15d87883a098190692df8b
+2	Hebrew	Aleppo Codex	aleppo	RTL	שְׁמוֹת	2	b7e2189e935e520943c2e19c5158b1613b9f8f24
+3	Hebrew	Aleppo Codex	aleppo	RTL	וַיִּקְרָא	3	34903b415318aa9764290914f10027b8576062e0
+4	Hebrew	Aleppo Codex	aleppo	RTL	בְּמִדְבַּר	4	96d0c5ae62abe0d894e6dd8f899130152e42e02b
+5	Hebrew	Aleppo Codex	aleppo	RTL	דְּבָרִים	5	24a98635d6cd4dab660c9f4457c49455c38cfa7e
+6	Hebrew	Aleppo Codex	aleppo	RTL	יְהוֹשֻעַ	6	94c4563bacb3f41bf4c0944372fe45138151a386
+7	Hebrew	Aleppo Codex	aleppo	RTL	שֹׁפְטִים	7	eabe31a571dad5e31d856fdee04ebf404ff4536e
+9	Hebrew	Aleppo Codex	aleppo	RTL	שְׁמוּאֵל א	9	e4932e369c5857ed05935afd28920756fc78835c
+10	Hebrew	Aleppo Codex	aleppo	RTL	שְׁמוּאֵל ב	10	ad62d64eb6d959f70d6636ecfd16582568e457c2
+11	Hebrew	Aleppo Codex	aleppo	RTL	מְלָכִים א	11	6f3ea01f139d1224803c4f445df3394295324fd9
+12	Hebrew	Aleppo Codex	aleppo	RTL	מְלָכִים ב	12	08764f0903b58e3a6d2db47c3e9ee18b60b58033
+23	Hebrew	Aleppo Codex	aleppo	RTL	יְשַׁעְיָהוּ	23	5933f92c9619c6833ae6cc7133ca182e5b622a33
+24	Hebrew	Aleppo Codex	aleppo	RTL	יִרְמְיָהוּ	24	b48915e898af817686ee4730c89cb44ddbfdbc70
+26	Hebrew	Aleppo Codex	aleppo	RTL	יְחֶזְקֵאל	26	12f53b898194bc0771980f81a5336e8404877bf1
+28	Hebrew	Aleppo Codex	aleppo	RTL	הוֹשֵׁעַ	28	a2c771e944e272114b0324d8224755aa02095727
+29	Hebrew	Aleppo Codex	aleppo	RTL	יוֹאֵל	29	b9d3510d9a934732f0bb47b19b5b27370a2951c0
+30	Hebrew	Aleppo Codex	aleppo	RTL	עָמוֹס	30	98335353abaec17c91eea066f292320223c0c9d3
+31	Hebrew	Aleppo Codex	aleppo	RTL	עֹבַדְיָה	31	fbf9f97278422f167a3a3babff4db5dd83fe98d7
+32	Hebrew	Aleppo Codex	aleppo	RTL	יוֹנָה	32	c60d19c2473c1c0b4364959d8dce2479d3e33b04
+33	Hebrew	Aleppo Codex	aleppo	RTL	מִיכָה	33	32d30230fdecb66c6e3aab9bd7c7fb8fa728090b
+34	Hebrew	Aleppo Codex	aleppo	RTL	נַחוּם	34	99ba908a9034ac96182ecb4d433cd8a1afe56973
+35	Hebrew	Aleppo Codex	aleppo	RTL	חֲבַקּוּק	35	e7f9ddcdcb105b46d6fcbb8b083040957fb9bdeb
+36	Hebrew	Aleppo Codex	aleppo	RTL	צְפַנְיָה	36	cf9690fd9cc2f103410d14f9dc99991a47ad0537
+37	Hebrew	Aleppo Codex	aleppo	RTL	חַגַּי	37	6931d4faa1046a11b27fa620cc2f9e8aac4d8c7d
+38	Hebrew	Aleppo Codex	aleppo	RTL	זְכַרְיָה	38	7b2421d2e66e2a356b80d78fd6cd78ef0d89fdbb
+39	Hebrew	Aleppo Codex	aleppo	RTL	מַלְאָכִי	39	c4b5bd5800079f2a534c5225aaeb0c1f670f6727
+19	Hebrew	Aleppo Codex	aleppo	RTL	תְּהִלִּים	19	ab6220c3bfec304986dfdaf70958f15cfd8afcea
+18	Hebrew	Aleppo Codex	aleppo	RTL	אִיּוֹב	18	e0337ce7ffb4e9d7bec921b4fb97dc9235c5751f
+20	Hebrew	Aleppo Codex	aleppo	RTL	מִשְׁלֵי	20	9bb846250d25dc6427090d8e4bb45d8fd5f46008
+8	Hebrew	Aleppo Codex	aleppo	RTL	רוּת	8	1a142891ea0514bab0329caa83784f32da0fc4cb
+22	Hebrew	Aleppo Codex	aleppo	RTL	שִׁיר הַשִּׁירִים	22	186fe12fe7e743f2f89902c14c026c134261de7f
+21	Hebrew	Aleppo Codex	aleppo	RTL	קֹהֶלֶת	21	917b311790b0da5c12d5bb05239589689dc88f4d
+25	Hebrew	Aleppo Codex	aleppo	RTL	אֵיכָה	25	ab91f1e04575b21f29aaa0a0af438e3f83523d92
+17	Hebrew	Aleppo Codex	aleppo	RTL	אֶסְתֵּר	17	72e8b3f87eb78b9ffbe8ac97574117e3a3bec6fa
+27	Hebrew	Aleppo Codex	aleppo	RTL	דָּנִיֵּאל	27	ff4762da9cce3e47f146079e09c0176a0eb40548
+15	Hebrew	Aleppo Codex	aleppo	RTL	עֵזְרָא	15	fd9c652bda9c429b62a55021159960af8b1902dc
+16	Hebrew	Aleppo Codex	aleppo	RTL	נְחֶמְיָה	16	8aeb783210cec5fe0f585e728b478e3c30f4770f
+13	Hebrew	Aleppo Codex	aleppo	RTL	דִּבְרֵי הַיָּמִים א	13	c50b96113525f62e738341bca29a5fa26577ffdf
+14	Hebrew	Aleppo Codex	aleppo	RTL	דִּבְרֵי הַיָּמִים ב	14	9d9b69199565c8cb5044dd8c4f096c459e089d7a
 

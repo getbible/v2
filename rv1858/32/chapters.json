@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jonás 1",
     "url": "https://api.getbible.net/v2/rv1858/32/1.json",
-    "sha": "6eb0596b1530f024f5a73cf9e8e953412d13af16"
+    "sha": "f7bf4dd087150b9fefe9f31a5039f56acc4d19e8"
   },
   "2": {
     "translation": "Reina Valera NT (1858)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jonás 2",
     "url": "https://api.getbible.net/v2/rv1858/32/2.json",
-    "sha": "e46e68426623b12ae09cd456875849d216fab303"
+    "sha": "2020cb90ea591935f2ad055104209de371f6c654"
   },
   "3": {
     "translation": "Reina Valera NT (1858)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jonás 3",
     "url": "https://api.getbible.net/v2/rv1858/32/3.json",
-    "sha": "294381dc3b3e73f00851147841f0e7b07cf3e70e"
+    "sha": "9269e3ebdf5c7ea661bf32c2dd6fe462a0203af0"
   },
   "4": {
     "translation": "Reina Valera NT (1858)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jonás 4",
     "url": "https://api.getbible.net/v2/rv1858/32/4.json",
-    "sha": "3716080241600fd077f40b71265aeac40b99c1e2"
+    "sha": "95dafbe1add8279b6f9e2eb710bf0bf57bff309d"
   }
 }

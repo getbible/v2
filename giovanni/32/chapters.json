@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Giona",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Giona 1",
     "url": "https://api.getbible.net/v2/giovanni/32/1.json",
-    "sha": "4c0633de07f5e585ef1f28b14a5940982934c655"
+    "sha": "6f64a59fd0e646f530c1dac500a27596bc9c04c0"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Giona",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Giona 2",
     "url": "https://api.getbible.net/v2/giovanni/32/2.json",
-    "sha": "8edc95ee444ab29b0f6a72d2c74b039afdccec5f"
+    "sha": "ee479138624f34f97023eceaa32f599121824b1a"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Giona",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Giona 3",
     "url": "https://api.getbible.net/v2/giovanni/32/3.json",
-    "sha": "334f0fa5df7ffb0ee0de4ef8e15ef4f80ae11d0a"
+    "sha": "111f42e3cd1edf13c19885fac4291eb38f8e96da"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Giona",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Giona 4",
     "url": "https://api.getbible.net/v2/giovanni/32/4.json",
-    "sha": "0cc9944526170e71ba60d980922a9af68a8283f4"
+    "sha": "74652d05e7dd497e9221070549fd061c3a94de36"
   }
 }

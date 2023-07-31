@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 1,
-    "name": "Genesis 1",
+    "name": "Geneza 1",
     "url": "https://api.getbible.net/v2/cornilescu/1/1.json",
-    "sha": "6167e56fc6d7e01ba8175462b493d4063b6e6f44"
+    "sha": "5c043f4dd7605cfa0e61914911619b65791e652c"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 2,
-    "name": "Genesis 2",
+    "name": "Geneza 2",
     "url": "https://api.getbible.net/v2/cornilescu/1/2.json",
-    "sha": "154aa4df0dfb708ecb7d11d5646421ab51c5af34"
+    "sha": "77ec9876f39d9a128858554e29208300789e2153"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 3,
-    "name": "Genesis 3",
+    "name": "Geneza 3",
     "url": "https://api.getbible.net/v2/cornilescu/1/3.json",
-    "sha": "f50addbc890c081b0d4b23f792081458158d3d7c"
+    "sha": "7f2b970a7ad294963de12641faa4622bc5e7a101"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 4,
-    "name": "Genesis 4",
+    "name": "Geneza 4",
     "url": "https://api.getbible.net/v2/cornilescu/1/4.json",
-    "sha": "8ee16cb2c181b42638973bb35cf824ecdfa13921"
+    "sha": "cedead0507196a307a733bbc15b6d6bb1c3e460d"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 5,
-    "name": "Genesis 5",
+    "name": "Geneza 5",
     "url": "https://api.getbible.net/v2/cornilescu/1/5.json",
-    "sha": "a484dbdac91d4a457b10d56f7bb9c740ee94814b"
+    "sha": "27a9fe6c22efc99b97e06b0b5196a074d98c4f44"
   },
   "6": {
     "translation": "Cornilescu",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 6,
-    "name": "Genesis 6",
+    "name": "Geneza 6",
     "url": "https://api.getbible.net/v2/cornilescu/1/6.json",
-    "sha": "41fe369e3575e512d7ac6b48b3d1029ad2238b8f"
+    "sha": "22cf1ceacea8717409d9d4786a9e607205f7c242"
   },
   "7": {
     "translation": "Cornilescu",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 7,
-    "name": "Genesis 7",
+    "name": "Geneza 7",
     "url": "https://api.getbible.net/v2/cornilescu/1/7.json",
-    "sha": "2ff261eb606e835e20f19f4cb577ffb310e1f979"
+    "sha": "004fe74c85920025d9d2964a997443b68b62123b"
   },
   "8": {
     "translation": "Cornilescu",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 8,
-    "name": "Genesis 8",
+    "name": "Geneza 8",
     "url": "https://api.getbible.net/v2/cornilescu/1/8.json",
-    "sha": "5a6c443368d63c1d242355cf9a80de169488899b"
+    "sha": "40a22491f02f401cb61c7a47c5326643a36b541a"
   },
   "9": {
     "translation": "Cornilescu",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 9,
-    "name": "Genesis 9",
+    "name": "Geneza 9",
     "url": "https://api.getbible.net/v2/cornilescu/1/9.json",
-    "sha": "0a76cd879cd707e6eef9b55d23ae1f60217d1cdd"
+    "sha": "373729592c6b1bae4180a90dbbb1e7f6bdc4b87b"
   },
   "10": {
     "translation": "Cornilescu",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 10,
-    "name": "Genesis 10",
+    "name": "Geneza 10",
     "url": "https://api.getbible.net/v2/cornilescu/1/10.json",
-    "sha": "c1188076725e847ec7903dfa1d722ede26dde4d9"
+    "sha": "f11feeba1667075aa0f82e1ee2b250600d136f2c"
   },
   "11": {
     "translation": "Cornilescu",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 11,
-    "name": "Genesis 11",
+    "name": "Geneza 11",
     "url": "https://api.getbible.net/v2/cornilescu/1/11.json",
-    "sha": "ef5fd2d5044be3ce66b1ea5df60d6ff1c1029b3d"
+    "sha": "6dc155d7c09b62edd2a64afdc9ec4550433a4976"
   },
   "12": {
     "translation": "Cornilescu",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 12,
-    "name": "Genesis 12",
+    "name": "Geneza 12",
     "url": "https://api.getbible.net/v2/cornilescu/1/12.json",
-    "sha": "c79aa0c4cececf15b7270fb4b5029515d48a43cb"
+    "sha": "6eeaa1e3aff438294e72c01a0d298d86be51e1ae"
   },
   "13": {
     "translation": "Cornilescu",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 13,
-    "name": "Genesis 13",
+    "name": "Geneza 13",
     "url": "https://api.getbible.net/v2/cornilescu/1/13.json",
-    "sha": "b5786181f858118ab8ded0f0a4a70dd85b7a221d"
+    "sha": "2f2dd162683817ba20c71e65c79aaa95c78d8e7e"
   },
   "14": {
     "translation": "Cornilescu",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 14,
-    "name": "Genesis 14",
+    "name": "Geneza 14",
     "url": "https://api.getbible.net/v2/cornilescu/1/14.json",
-    "sha": "85f4b46472745ceb07e2714e72e25245cb66695e"
+    "sha": "539408529004084f88ef45ec1a939f408b154472"
   },
   "15": {
     "translation": "Cornilescu",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 15,
-    "name": "Genesis 15",
+    "name": "Geneza 15",
     "url": "https://api.getbible.net/v2/cornilescu/1/15.json",
-    "sha": "b97f2d5e521f6c77815da95ebc66aaf259f9f75c"
+    "sha": "a09d856cab7612f58fcb13218f95ea99f14b95dd"
   },
   "16": {
     "translation": "Cornilescu",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 16,
-    "name": "Genesis 16",
+    "name": "Geneza 16",
     "url": "https://api.getbible.net/v2/cornilescu/1/16.json",
-    "sha": "052163611933fbfb5e3f63aecfb07d5b31ae92f4"
+    "sha": "e67ef3d6a739f43c91e5f242a5773d9972de0999"
   },
   "17": {
     "translation": "Cornilescu",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 17,
-    "name": "Genesis 17",
+    "name": "Geneza 17",
     "url": "https://api.getbible.net/v2/cornilescu/1/17.json",
-    "sha": "3a915e0b7f305cddfdd2121181e0afb1d54590f4"
+    "sha": "2328a81b667dace8b4b3e86266cf3017fd735323"
   },
   "18": {
     "translation": "Cornilescu",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 18,
-    "name": "Genesis 18",
+    "name": "Geneza 18",
     "url": "https://api.getbible.net/v2/cornilescu/1/18.json",
-    "sha": "d23641073c96a8d95a532a85989314b0988c4ee2"
+    "sha": "769ea4da84493c7b71856d087cb44fba5465f835"
   },
   "19": {
     "translation": "Cornilescu",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 19,
-    "name": "Genesis 19",
+    "name": "Geneza 19",
     "url": "https://api.getbible.net/v2/cornilescu/1/19.json",
-    "sha": "6ae042c8a52d82dfc0891fff49afb16800bc6db7"
+    "sha": "1e3d06ab1eebfa1e96a95bed9e879c69988b28b3"
   },
   "20": {
     "translation": "Cornilescu",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 20,
-    "name": "Genesis 20",
+    "name": "Geneza 20",
     "url": "https://api.getbible.net/v2/cornilescu/1/20.json",
-    "sha": "59fb1dbaf79ea02390be72418fa46443d878da83"
+    "sha": "5b6d2f475c066a183350b8f8805aa51da53d8367"
   },
   "21": {
     "translation": "Cornilescu",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 21,
-    "name": "Genesis 21",
+    "name": "Geneza 21",
     "url": "https://api.getbible.net/v2/cornilescu/1/21.json",
-    "sha": "480c2a0f93a10d8212cc47203b848f0c243a4ac8"
+    "sha": "4f7de08bb5730798d1a2d0be1cb7cb2bfd69956c"
   },
   "22": {
     "translation": "Cornilescu",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 22,
-    "name": "Genesis 22",
+    "name": "Geneza 22",
     "url": "https://api.getbible.net/v2/cornilescu/1/22.json",
-    "sha": "a8e74fc079ebe7ab8c90a2b908122dfed1838fc0"
+    "sha": "eadd0f6b162d76b57e877096b93c8d2b8a5ef3fa"
   },
   "23": {
     "translation": "Cornilescu",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 23,
-    "name": "Genesis 23",
+    "name": "Geneza 23",
     "url": "https://api.getbible.net/v2/cornilescu/1/23.json",
-    "sha": "77848a4a49b62dbffe3174cb2e921da2ef61c9a8"
+    "sha": "9b5b21aa7239c55b3b498b812f1f4653c99fc823"
   },
   "24": {
     "translation": "Cornilescu",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 24,
-    "name": "Genesis 24",
+    "name": "Geneza 24",
     "url": "https://api.getbible.net/v2/cornilescu/1/24.json",
-    "sha": "40c3ddbe13554fe0690d5926de86bec1bef1e9a9"
+    "sha": "ec3f4dacf13827931524233a19947b6e258f323b"
   },
   "25": {
     "translation": "Cornilescu",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 25,
-    "name": "Genesis 25",
+    "name": "Geneza 25",
     "url": "https://api.getbible.net/v2/cornilescu/1/25.json",
-    "sha": "34b23c7c348ae174c553d0a16864ea5edd900a43"
+    "sha": "1abff4d1aff60aee29a959e440f91a31e8692e6b"
   },
   "26": {
     "translation": "Cornilescu",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 26,
-    "name": "Genesis 26",
+    "name": "Geneza 26",
     "url": "https://api.getbible.net/v2/cornilescu/1/26.json",
-    "sha": "afad772f0cfb3cae2a739b17e10ba5a908001c47"
+    "sha": "f12d8064f49c5859e0e4e2708c2e8fd1eb3ca89d"
   },
   "27": {
     "translation": "Cornilescu",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 27,
-    "name": "Genesis 27",
+    "name": "Geneza 27",
     "url": "https://api.getbible.net/v2/cornilescu/1/27.json",
-    "sha": "8f2c4e9bfcc6c85deae50eca85e830e082ed2175"
+    "sha": "006bf8ad9fa7edaa03692d91291404503a949b9d"
   },
   "28": {
     "translation": "Cornilescu",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 28,
-    "name": "Genesis 28",
+    "name": "Geneza 28",
     "url": "https://api.getbible.net/v2/cornilescu/1/28.json",
-    "sha": "7bf39e8758fb39825d4111a24db25f9e3f616d03"
+    "sha": "2d2168208b6a0956af96b24414c4a92611532330"
   },
   "29": {
     "translation": "Cornilescu",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 29,
-    "name": "Genesis 29",
+    "name": "Geneza 29",
     "url": "https://api.getbible.net/v2/cornilescu/1/29.json",
-    "sha": "8ea846614c3cbb3f9177508e09f51344825f90cb"
+    "sha": "00f3c96dba8deee4b3c688716c3170ce5224c80c"
   },
   "30": {
     "translation": "Cornilescu",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 30,
-    "name": "Genesis 30",
+    "name": "Geneza 30",
     "url": "https://api.getbible.net/v2/cornilescu/1/30.json",
-    "sha": "c30b065338673644d57ddb1f19362f343afa8e60"
+    "sha": "29777b370f2b9fb07b7531adbe72284c0a298147"
   },
   "31": {
     "translation": "Cornilescu",
@@ -427,11 +427,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 31,
-    "name": "Genesis 31",
+    "name": "Geneza 31",
     "url": "https://api.getbible.net/v2/cornilescu/1/31.json",
-    "sha": "cb02fa0207adff52b35e4b3db7a815f006b0c049"
+    "sha": "9c512c03ae6f203012bee2f05291fb7eb26eb2ad"
   },
   "32": {
     "translation": "Cornilescu",
@@ -441,11 +441,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 32,
-    "name": "Genesis 32",
+    "name": "Geneza 32",
     "url": "https://api.getbible.net/v2/cornilescu/1/32.json",
-    "sha": "4a45823969487e1f43ba6f4a7f9f302f6e71f05d"
+    "sha": "e3ee3195ccd100d2ec76404776adc3f8408fab19"
   },
   "33": {
     "translation": "Cornilescu",
@@ -455,11 +455,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 33,
-    "name": "Genesis 33",
+    "name": "Geneza 33",
     "url": "https://api.getbible.net/v2/cornilescu/1/33.json",
-    "sha": "b0c7a80e3940131ecbd032bbcafe83cc73625f4b"
+    "sha": "5b6a9734a23551b5289913992a0c6132cae83a08"
   },
   "34": {
     "translation": "Cornilescu",
@@ -469,11 +469,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 34,
-    "name": "Genesis 34",
+    "name": "Geneza 34",
     "url": "https://api.getbible.net/v2/cornilescu/1/34.json",
-    "sha": "4e3cb569a67ebd0cf4d318e52246ca2e5e77fd86"
+    "sha": "2a12b32dae9526aea9add4c3c3195a0b94c0850f"
   },
   "35": {
     "translation": "Cornilescu",
@@ -483,11 +483,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 35,
-    "name": "Genesis 35",
+    "name": "Geneza 35",
     "url": "https://api.getbible.net/v2/cornilescu/1/35.json",
-    "sha": "a13e83f36af74cd76a9e6accc545b8908a6b686d"
+    "sha": "2936097e0c7bf222f97421d2e834b29f439fbac3"
   },
   "36": {
     "translation": "Cornilescu",
@@ -497,11 +497,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 36,
-    "name": "Genesis 36",
+    "name": "Geneza 36",
     "url": "https://api.getbible.net/v2/cornilescu/1/36.json",
-    "sha": "6a67c87e220bd93477e3b3db1c568c813f182858"
+    "sha": "952476112174752fe7956e45a215488e623cb4f2"
   },
   "37": {
     "translation": "Cornilescu",
@@ -511,11 +511,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 37,
-    "name": "Genesis 37",
+    "name": "Geneza 37",
     "url": "https://api.getbible.net/v2/cornilescu/1/37.json",
-    "sha": "bfcf772b962a53947250c79b1e36c1288d428a70"
+    "sha": "40c316fb9d84203335f0de8915446f12d6ce7b58"
   },
   "38": {
     "translation": "Cornilescu",
@@ -525,11 +525,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 38,
-    "name": "Genesis 38",
+    "name": "Geneza 38",
     "url": "https://api.getbible.net/v2/cornilescu/1/38.json",
-    "sha": "9dc29d88bf3f773a38ea26007d1499bcfc715008"
+    "sha": "f234b3d91fa69b37e343d2d0f4615cf92a44a476"
   },
   "39": {
     "translation": "Cornilescu",
@@ -539,11 +539,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 39,
-    "name": "Genesis 39",
+    "name": "Geneza 39",
     "url": "https://api.getbible.net/v2/cornilescu/1/39.json",
-    "sha": "31ab8db1ab4c8f68ffaf84962b8beff21db8693a"
+    "sha": "3c7096d6814114a7dd208fa8adf53042e5f8af4d"
   },
   "40": {
     "translation": "Cornilescu",
@@ -553,11 +553,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 40,
-    "name": "Genesis 40",
+    "name": "Geneza 40",
     "url": "https://api.getbible.net/v2/cornilescu/1/40.json",
-    "sha": "c9169729b061c09c70caa3799a4e5e13e21cafb3"
+    "sha": "2600087764fb097ef8048e027dec04374587304c"
   },
   "41": {
     "translation": "Cornilescu",
@@ -567,11 +567,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 41,
-    "name": "Genesis 41",
+    "name": "Geneza 41",
     "url": "https://api.getbible.net/v2/cornilescu/1/41.json",
-    "sha": "6d05d83924e997babee21f192f34d84dccc34683"
+    "sha": "b4abde75f00d016ed0189d24f7d3ba5d8f53ba4b"
   },
   "42": {
     "translation": "Cornilescu",
@@ -581,11 +581,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 42,
-    "name": "Genesis 42",
+    "name": "Geneza 42",
     "url": "https://api.getbible.net/v2/cornilescu/1/42.json",
-    "sha": "e623489bc7444821451346f4f97654f05c0ab17d"
+    "sha": "4edb74061ed92426f4250dc07c48b3d9786e8893"
   },
   "43": {
     "translation": "Cornilescu",
@@ -595,11 +595,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 43,
-    "name": "Genesis 43",
+    "name": "Geneza 43",
     "url": "https://api.getbible.net/v2/cornilescu/1/43.json",
-    "sha": "e123782786378a6b6f2488eb373997bf56af3fbe"
+    "sha": "4b0d3f8900f9563000ef00a5ea47c3fc3887530f"
   },
   "44": {
     "translation": "Cornilescu",
@@ -609,11 +609,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 44,
-    "name": "Genesis 44",
+    "name": "Geneza 44",
     "url": "https://api.getbible.net/v2/cornilescu/1/44.json",
-    "sha": "840d153649a8595b1a2e9b7e78a6f778d89d8e91"
+    "sha": "fe0dbbfe9aa61826888a8893d4bc5364a205e3e5"
   },
   "45": {
     "translation": "Cornilescu",
@@ -623,11 +623,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 45,
-    "name": "Genesis 45",
+    "name": "Geneza 45",
     "url": "https://api.getbible.net/v2/cornilescu/1/45.json",
-    "sha": "c92eeee215786a6db5c062b68e501fb4765d6998"
+    "sha": "e607508dbac97d73572b8ca2276b43cd516193f1"
   },
   "46": {
     "translation": "Cornilescu",
@@ -637,11 +637,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 46,
-    "name": "Genesis 46",
+    "name": "Geneza 46",
     "url": "https://api.getbible.net/v2/cornilescu/1/46.json",
-    "sha": "957c2cb101ff2a8925d7b0f10d94e6d5c8a9a090"
+    "sha": "c973aa623b2c367fbac742a7ce60ecb120489e64"
   },
   "47": {
     "translation": "Cornilescu",
@@ -651,11 +651,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 47,
-    "name": "Genesis 47",
+    "name": "Geneza 47",
     "url": "https://api.getbible.net/v2/cornilescu/1/47.json",
-    "sha": "35e5ca124fbb7a109df45cd789be0a6d3cc97f06"
+    "sha": "4726e254a3a3914055cd7319afb45de6bc23579a"
   },
   "48": {
     "translation": "Cornilescu",
@@ -665,11 +665,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 48,
-    "name": "Genesis 48",
+    "name": "Geneza 48",
     "url": "https://api.getbible.net/v2/cornilescu/1/48.json",
-    "sha": "d164af1e72874a13666fb34eba4b9f846f48650c"
+    "sha": "34f9ef373b8881c3f68cdaedf814d28a694024bb"
   },
   "49": {
     "translation": "Cornilescu",
@@ -679,11 +679,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 49,
-    "name": "Genesis 49",
+    "name": "Geneza 49",
     "url": "https://api.getbible.net/v2/cornilescu/1/49.json",
-    "sha": "0acacac83ef215a4ef0951a56e6a0ebbd8720b86"
+    "sha": "4e39ba2b755ecff87f9953305064d74e9cc57562"
   },
   "50": {
     "translation": "Cornilescu",
@@ -693,10 +693,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "Genesis",
+    "book_name": "Geneza",
     "chapter": 50,
-    "name": "Genesis 50",
+    "name": "Geneza 50",
     "url": "https://api.getbible.net/v2/cornilescu/1/50.json",
-    "sha": "1f6fec7b008eae95c7829707220b9ef998156bf7"
+    "sha": "c6cb619ffc7e269f0368a10d5ed2c1707eedfa87"
   }
 }

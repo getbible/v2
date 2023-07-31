@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "Amós 1",
     "url": "https://api.getbible.net/v2/almeida/30/1.json",
-    "sha": "ac5ca31ec89d07ef7cb827b8d7217e5037089a47"
+    "sha": "04ea5317fb278d593094bc1f58fa3a9c35be26e2"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "Amós 2",
     "url": "https://api.getbible.net/v2/almeida/30/2.json",
-    "sha": "b1c6882836874648e784d99297221f77682ea47b"
+    "sha": "4e62cd5583b553d6cf63a5fc8a71b48d0aa1ee41"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "Amós 3",
     "url": "https://api.getbible.net/v2/almeida/30/3.json",
-    "sha": "c9dc81350c4c9d57dbc8691bcad0d8ba217150cb"
+    "sha": "dfda1717b3f706bf1be50c189a47f5733ccd1989"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "Amós 4",
     "url": "https://api.getbible.net/v2/almeida/30/4.json",
-    "sha": "d9f13d3abf4602441da6b7cc6bdef6fa5fdc0558"
+    "sha": "d86202a6e80e0910df878582d68bdb292ec94ed4"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "Amós 5",
     "url": "https://api.getbible.net/v2/almeida/30/5.json",
-    "sha": "1202adc8de851f7d6a82116f960fb7bc82ab8e01"
+    "sha": "a1ae4e4c7e6b4cf856df0074ff3462733b70d386"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "Amós 6",
     "url": "https://api.getbible.net/v2/almeida/30/6.json",
-    "sha": "6c3e0f2b684acfba09034a1b4c43f01062f0488c"
+    "sha": "cecf6176eb15e0e22be9971279b2e9d5234dc14a"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "Amós 7",
     "url": "https://api.getbible.net/v2/almeida/30/7.json",
-    "sha": "005f0592e4f24c25e83cb132c4092ba407329b03"
+    "sha": "ed5c3512fb84831fe29fedf95dca2439f8f7f901"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "Amós 8",
     "url": "https://api.getbible.net/v2/almeida/30/8.json",
-    "sha": "54f0f6947fcf93ebf14a4a9aae29638bf7439566"
+    "sha": "aa6fcff429b591db6e28ce070023e749d7e73be6"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -119,10 +119,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "Amós",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "Amós 9",
     "url": "https://api.getbible.net/v2/almeida/30/9.json",
-    "sha": "34a34bc33637420f43be3e92a647b13e2064e02a"
+    "sha": "c6e795bc0f08ac564f7aa7495315a2c65202c43a"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteosele",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteosele 1",
     "url": "https://api.getbible.net/v2/estonian/55/1.json",
-    "sha": "24f5fd68027b5fdc2910d559539acbcbedfe9284"
+    "sha": "a8ebcbe3b98c70f7f512c68ae1d7ab1382431cf9"
   },
   "2": {
     "translation": "Estonian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteosele",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteosele 2",
     "url": "https://api.getbible.net/v2/estonian/55/2.json",
-    "sha": "6740a844da4d1043917f2baa662ac7a1c89e7715"
+    "sha": "7f7410366ef39bae3ec7f0e5c5f70ad264ae94e6"
   },
   "3": {
     "translation": "Estonian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteosele",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteosele 3",
     "url": "https://api.getbible.net/v2/estonian/55/3.json",
-    "sha": "9f8d3cf2ef9aecf7589810926b47184032e2b2e7"
+    "sha": "48069971ea86308104163602795ff723ace34b15"
   },
   "4": {
     "translation": "Estonian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteosele",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteosele 4",
     "url": "https://api.getbible.net/v2/estonian/55/4.json",
-    "sha": "a5952a96343d8a098aece60768f26878b9770542"
+    "sha": "1bf7d0859aeeab288846fa9629ecf0c3e56c61d2"
   }
 }

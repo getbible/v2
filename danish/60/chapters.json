@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petersbrev",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Petersbrev 1",
     "url": "https://api.getbible.net/v2/danish/60/1.json",
-    "sha": "05bf1d82e21b8d0faae349206a304bf248878b70"
+    "sha": "f1228b8e678461a795b2fb93b7951747012f4b4d"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petersbrev",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Petersbrev 2",
     "url": "https://api.getbible.net/v2/danish/60/2.json",
-    "sha": "10212245605f641775b0372cbc035560ba48fdc8"
+    "sha": "aec0d0837a726707988c0b7b3062d382d2dd8513"
   },
   "3": {
     "translation": "Danish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petersbrev",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Petersbrev 3",
     "url": "https://api.getbible.net/v2/danish/60/3.json",
-    "sha": "675561934a3944d0c1c031ecb098598f76cf8a67"
+    "sha": "8bbc43070aec8761d62977203b07faacaa9160cc"
   },
   "4": {
     "translation": "Danish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petersbrev",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Petersbrev 4",
     "url": "https://api.getbible.net/v2/danish/60/4.json",
-    "sha": "abbfc2418ff520352d102a5a41f978ad95262489"
+    "sha": "f52486e95223acd324053eaceafe2e8f11e7792f"
   },
   "5": {
     "translation": "Danish",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petersbrev",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Petersbrev 5",
     "url": "https://api.getbible.net/v2/danish/60/5.json",
-    "sha": "4609e30c1ce4088487cec76ac14ec91529ee98c5"
+    "sha": "e5a92634451849a66d1ba263469777b7a00a4226"
   }
 }

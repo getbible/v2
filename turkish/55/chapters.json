@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteos’a",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteos’a 1",
     "url": "https://api.getbible.net/v2/turkish/55/1.json",
-    "sha": "7a3ede7927fef205fa25635ec8ef5b0e0b60a7ba"
+    "sha": "30dbabd6c910ecf561c8e06aa6d1d2361f139b34"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteos’a",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteos’a 2",
     "url": "https://api.getbible.net/v2/turkish/55/2.json",
-    "sha": "9bb0e05501283ba4e30f73aa0ed7b993fb8ae1c0"
+    "sha": "7fb0a71ee7ae9e1e962bc1da60aeedb308fab888"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteos’a",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteos’a 3",
     "url": "https://api.getbible.net/v2/turkish/55/3.json",
-    "sha": "f77ff6d53e89d59f040832bc9128d46b8cd135ea"
+    "sha": "58a9907cb1c8f23eda490139f6c2299caf0c44be"
   },
   "4": {
     "translation": "Turkish",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteos’a",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteos’a 4",
     "url": "https://api.getbible.net/v2/turkish/55/4.json",
-    "sha": "ac6dd293f4b66eba4f088e4ea2445fbd5aca6f91"
+    "sha": "a3a7e953eab688cb74d89f1ffd1a443db31655a9"
   }
 }

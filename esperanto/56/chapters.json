@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tito 1",
     "url": "https://api.getbible.net/v2/esperanto/56/1.json",
-    "sha": "234b0062fc969c4f32665b32d7638188d8115f23"
+    "sha": "6925e6634f7485437bfa81f87af09a8f114ffe16"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tito 2",
     "url": "https://api.getbible.net/v2/esperanto/56/2.json",
-    "sha": "30fca4bcc63dc9912d1e61261dce87affc1c3853"
+    "sha": "1c41a06dd4b590fc82b5e4e1aaca2746397966fd"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tito",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tito 3",
     "url": "https://api.getbible.net/v2/esperanto/56/3.json",
-    "sha": "c752493e9f9afb7f9164dd131110fd2efc0210f8"
+    "sha": "8a58bbb3c0cead4c211b4f9ab05ba1a748802035"
   }
 }

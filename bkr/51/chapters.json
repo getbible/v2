@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloským",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Koloským 1",
     "url": "https://api.getbible.net/v2/bkr/51/1.json",
-    "sha": "5e839f82d4e5c46be8260659324a64c7e5b9e5a0"
+    "sha": "313f697d69fcc694600bf0fc0b631539e69067e4"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloským",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Koloským 2",
     "url": "https://api.getbible.net/v2/bkr/51/2.json",
-    "sha": "612855f4f03e8e7c553c5a94f675ee8f6103684e"
+    "sha": "4252a8561da2d697cb77a3f957c4d2d7518ca037"
   },
   "3": {
     "translation": "Czech BKR",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloským",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Koloským 3",
     "url": "https://api.getbible.net/v2/bkr/51/3.json",
-    "sha": "f175a4892a8f452f842ca876ef5fff80ea313bfa"
+    "sha": "ae4d0f007b168e3d26f63a74692bdce3275c583b"
   },
   "4": {
     "translation": "Czech BKR",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Koloským",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Koloským 4",
     "url": "https://api.getbible.net/v2/bkr/51/4.json",
-    "sha": "49f61637f576dbefad3f230baaa4d244cf1e9cd1"
+    "sha": "163c9ed2dd6439bdac0da71e43b99cfa18bafde5"
   }
 }

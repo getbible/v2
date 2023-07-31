@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Raudos",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Raudos 1",
     "url": "https://api.getbible.net/v2/lithuanian/25/1.json",
-    "sha": "ae3c156c65f1dc7732c52dca48c2e5e63678fe3f"
+    "sha": "09a1056e04874a1ab58ed6a602849addb9097ca5"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Raudos",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Raudos 2",
     "url": "https://api.getbible.net/v2/lithuanian/25/2.json",
-    "sha": "fa581f3d6b6af93e5ba3f29c26eaeba6c58b0fd0"
+    "sha": "c626dd67b35314020770a7baad070b5f261c342e"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Raudos",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Raudos 3",
     "url": "https://api.getbible.net/v2/lithuanian/25/3.json",
-    "sha": "690a37cf61e897d6bf12bd66604ec1b2ff9b36fc"
+    "sha": "997c0409c3511a8eef76a17a33d59fd0f6c082dc"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Raudos",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Raudos 4",
     "url": "https://api.getbible.net/v2/lithuanian/25/4.json",
-    "sha": "63f3789d4accb0d4fcf993bc36ef46f1f54d489f"
+    "sha": "35931499e12172ac11b5b6534760a9b75dbd4885"
   },
   "5": {
     "translation": "Lithuanian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Raudos",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Raudos 5",
     "url": "https://api.getbible.net/v2/lithuanian/25/5.json",
-    "sha": "9a6d069ba26e3cc394746e60d541ffad2967f069"
+    "sha": "a8bcef1f5f2ccf6fbd21ae03bfc56abeea5f84a3"
   }
 }

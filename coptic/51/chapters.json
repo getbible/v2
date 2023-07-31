@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ 1",
     "url": "https://api.getbible.net/v2/coptic/51/1.json",
-    "sha": "3e8c32f3c241572d6516cedc24cae7e738d0beef"
+    "sha": "70160a2c33e3f08044ff8dc62fdb859c7d5e0495"
   },
   "2": {
     "translation": "New Testament",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ 2",
     "url": "https://api.getbible.net/v2/coptic/51/2.json",
-    "sha": "104e6732cf956f4b194884ad76fa5bf387dca137"
+    "sha": "24851df0eeed68f1282cd624bf3541b0ed53b458"
   },
   "3": {
     "translation": "New Testament",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ 3",
     "url": "https://api.getbible.net/v2/coptic/51/3.json",
-    "sha": "806ab2f275863e235b7b46cba632f129e0efb708"
+    "sha": "db3bdb42f09d429de913344dfa703a2d85dc24c1"
   },
   "4": {
     "translation": "New Testament",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Ⲕⲟⲗⲟⲥⲥⲁⲓⲟⲥ 4",
     "url": "https://api.getbible.net/v2/coptic/51/4.json",
-    "sha": "be57cb95c9c2682aba304b02a93d43ec1e1dfc58"
+    "sha": "57e1d9f035b4ddc5ff7ce27534c36cee797ad3b5"
   }
 }

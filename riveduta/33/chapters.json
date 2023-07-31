@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michea",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Michea 1",
     "url": "https://api.getbible.net/v2/riveduta/33/1.json",
-    "sha": "766fe17e564c78db9b37f18296cae71d6fd5507f"
+    "sha": "203c9a5256f94d582075d32768b1cbff4df4a6a1"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michea",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Michea 2",
     "url": "https://api.getbible.net/v2/riveduta/33/2.json",
-    "sha": "bbe5bc0c8ced0a7e32992155a6645395ab4377a3"
+    "sha": "7274a7dc51c55a1d8ae8740ee6d9c5493bce4abc"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michea",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Michea 3",
     "url": "https://api.getbible.net/v2/riveduta/33/3.json",
-    "sha": "3664db2079e3ef9223cda381ab7200551dbdd3ef"
+    "sha": "1d7a048c73a1c1b6c9394529a7454c4ca2f1a9a2"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michea",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Michea 4",
     "url": "https://api.getbible.net/v2/riveduta/33/4.json",
-    "sha": "a5757b695f2aeb31b137aef1d4f6668831f05de1"
+    "sha": "6615d422266542afe0a47cda9cd90f8eab4be720"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michea",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Michea 5",
     "url": "https://api.getbible.net/v2/riveduta/33/5.json",
-    "sha": "c49e0d9074be511f2d7e5c7212a461daa04928b3"
+    "sha": "bff1aacb0fad77375d121ea5b7f1e76afdb0bfe1"
   },
   "6": {
     "translation": "Riveduta Bible (1927)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michea",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Michea 6",
     "url": "https://api.getbible.net/v2/riveduta/33/6.json",
-    "sha": "e27cdd5510141d5027d0b723305b9570b7521691"
+    "sha": "42e0c3908449129aa98eb21100c5cf0701b5442e"
   },
   "7": {
     "translation": "Riveduta Bible (1927)",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Michea",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Michea 7",
     "url": "https://api.getbible.net/v2/riveduta/33/7.json",
-    "sha": "2f092db3c414432a4fcac10c2386fa1cf5485295"
+    "sha": "41b21287b7c3cd741d72caaeefd89003152b58c2"
   }
 }

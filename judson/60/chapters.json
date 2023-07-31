@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 ပီတာ",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 ပီတာ 1",
     "url": "https://api.getbible.net/v2/judson/60/1.json",
-    "sha": "bee6c0f883526528c9c86e39195618a256ba2969"
+    "sha": "6f4f283ae848afc3289022f3f52654f8b163c32c"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 ပီတာ",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 ပီတာ 2",
     "url": "https://api.getbible.net/v2/judson/60/2.json",
-    "sha": "58155ceee97bba920668e6ca37e90827c773299f"
+    "sha": "0cd726ce73ce34c4248de3d5e796aed863d8e8c9"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 ပီတာ",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 ပီတာ 3",
     "url": "https://api.getbible.net/v2/judson/60/3.json",
-    "sha": "2649d93b7ca85af44a1e123d0f7f099c3dd5f1b2"
+    "sha": "abb68626c41054eedf768eb8529aafeb942cf972"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 ပီတာ",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 ပီတာ 4",
     "url": "https://api.getbible.net/v2/judson/60/4.json",
-    "sha": "0a4b83390fb8735dfdfa5fc9ff53ff731eb2446a"
+    "sha": "42c371f6013dc0a0106fd033f50314e16cf53cbf"
   },
   "5": {
     "translation": "Judson (1835)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 ပီတာ",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 ပီတာ 5",
     "url": "https://api.getbible.net/v2/judson/60/5.json",
-    "sha": "4ba01ce9f30d18f68b1f8c2d0b92e49649626304"
+    "sha": "8828e4f0eac9660dba43935971bf1c3fd6fda12d"
   }
 }

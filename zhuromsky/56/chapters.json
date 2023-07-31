@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Титу 1",
     "url": "https://api.getbible.net/v2/zhuromsky/56/1.json",
-    "sha": "0e782aa4e41d198df1b867390bdef9ea48ccc086"
+    "sha": "c3f03dbe4ee79aabeae54777f3151095bc4cc630"
   },
   "2": {
     "translation": "Victor Zhuromsky NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Титу 2",
     "url": "https://api.getbible.net/v2/zhuromsky/56/2.json",
-    "sha": "3df057eb693435f1aff9a167adc0b864aec572e8"
+    "sha": "4ac0a731dfc4f69fe23a57865960375b5bb74705"
   },
   "3": {
     "translation": "Victor Zhuromsky NT",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Титу 3",
     "url": "https://api.getbible.net/v2/zhuromsky/56/3.json",
-    "sha": "c30bc9895492e4c890074ae0f67e5522b0a7752a"
+    "sha": "a5243b94f75d71abbb22fb306c4d9a506a7b24e5"
   }
 }

@@ -3,28 +3,28 @@
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "חַגַּי",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "חַגַּי 1",
     "url": "https://api.getbible.net/v2/codex/37/1.json",
-    "sha": "db45c19dcbd7709f944b47352c140000d31d7681"
+    "sha": "dc46a26c3dc914ad4ef6650c061f940ca19ae37b"
   },
   "2": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "חַגַּי",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "חַגַּי 2",
     "url": "https://api.getbible.net/v2/codex/37/2.json",
-    "sha": "6cd6900d9c74770a6fbd088c58b302c6ff87fd4f"
+    "sha": "0da444fe9f5a96a6ff83e838afb9f539b32ec461"
   }
 }

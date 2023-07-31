@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Β'",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "Προς Θεσσαλονικείς Β' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/53/1.json",
-    "sha": "f100d00ae991a7c9d91720d38422a42d1f09ab63"
+    "sha": "63a549f1a459e907a357a55366bb3bd65f1d19ff"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Β'",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "Προς Θεσσαλονικείς Β' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/53/2.json",
-    "sha": "a1541d32c6f774d839972529f1efcd3ba54e1ace"
+    "sha": "4b079207fa627bc3fb6807a7dd78328c47c78c4e"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Β'",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "Προς Θεσσαλονικείς Β' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/53/3.json",
-    "sha": "804b294f73843594feee975cec936e75e199dcdd"
+    "sha": "b3630a3c3c4ba2db80f19fe3600d69c8b8bc6a7a"
   }
 }

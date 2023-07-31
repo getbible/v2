@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Colosenses 1",
     "url": "https://api.getbible.net/v2/valera/51/1.json",
-    "sha": "18d079857c820818fd75c38c0c0acc752454792d"
+    "sha": "d5c595c6d8f7200c0999155a98d3eba64e7045d8"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Colosenses 2",
     "url": "https://api.getbible.net/v2/valera/51/2.json",
-    "sha": "a1487f761038b575e22c0f0b15aa980468f37c43"
+    "sha": "c0533733dae346cf93a5a909013ad8e6f104e2ca"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Colosenses 3",
     "url": "https://api.getbible.net/v2/valera/51/3.json",
-    "sha": "32015ec7ae1f971c7c907dd69c7e207b592adcbb"
+    "sha": "90c37284cc57732304bb010eb720c258a455be3b"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colosenses",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Colosenses 4",
     "url": "https://api.getbible.net/v2/valera/51/4.json",
-    "sha": "5b06400e74164fc1b73947357f9595d0a9be3329"
+    "sha": "1043553fb49ab1da7e59b1f2c5f18ca7af3c243f"
   }
 }

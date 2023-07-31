@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Joel 1",
     "url": "https://api.getbible.net/v2/kjv/29/1.json",
-    "sha": "164628822ee692c8fe3d13d70140f250fc3e3fc7"
+    "sha": "682bba4c86b95fc150daf1ed0483f236293e3ae6"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Joel 2",
     "url": "https://api.getbible.net/v2/kjv/29/2.json",
-    "sha": "654afc2dc2c4bff39bef021f7379c83bb2b566e4"
+    "sha": "0a4a2b2a394f5907dc8153d27f9b661a2c7dd904"
   },
   "3": {
     "translation": "King James Version",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Joel 3",
     "url": "https://api.getbible.net/v2/kjv/29/3.json",
-    "sha": "c590215e010d5e320a3a4cbf355eab486e1e3582"
+    "sha": "6ff7deedb1427a80a1842616b3743d0177328d9a"
   }
 }

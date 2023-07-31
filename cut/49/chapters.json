@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "以弗所書 1",
     "url": "https://api.getbible.net/v2/cut/49/1.json",
-    "sha": "ba3d554695232d96f54caab9cfd8df267f2df652"
+    "sha": "5651bb36fcc5c2796e633f7e19bfecf3dc934fd8"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "以弗所書 2",
     "url": "https://api.getbible.net/v2/cut/49/2.json",
-    "sha": "4bd03e5cacf7db4c92e481583004f365f9432798"
+    "sha": "64627752a3e58d31d19edd970cfe3418e8c12b0b"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "以弗所書 3",
     "url": "https://api.getbible.net/v2/cut/49/3.json",
-    "sha": "672fc833e32a529a8cfe946037a6b7d37c9cc6c8"
+    "sha": "dbff722d00b0ba0668c283d7edd1fcc4d4a30731"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "以弗所書 4",
     "url": "https://api.getbible.net/v2/cut/49/4.json",
-    "sha": "87b623339193878e51d52b7157a2f0854648fbc8"
+    "sha": "483eb58bd023259dedaa167592213488ebcba243"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "以弗所書 5",
     "url": "https://api.getbible.net/v2/cut/49/5.json",
-    "sha": "ae196614fb8efece264ed4232a2cd148f9c4cba1"
+    "sha": "f80ee8c3c39f4558efd10b479ecf1e733df93378"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "以弗所書 6",
     "url": "https://api.getbible.net/v2/cut/49/6.json",
-    "sha": "5c4eefa5aa4bf5ed811af2b438e6701755a05c49"
+    "sha": "7f4c9048916a55c1ad4169d5153b333d609b6e0e"
   }
 }

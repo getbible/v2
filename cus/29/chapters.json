@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "约珥书 1",
     "url": "https://api.getbible.net/v2/cus/29/1.json",
-    "sha": "736b8b6a911d70d49325ad5edc305c2228f70251"
+    "sha": "f1740bc79257b139e53e81cf6aca17b17d654a59"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "约珥书 2",
     "url": "https://api.getbible.net/v2/cus/29/2.json",
-    "sha": "844db109d2057ed944c6ce97a209f78ff6f8c754"
+    "sha": "9b129296f8ea083a2479c19cc50a90ccaaa4cd27"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "约珥书 3",
     "url": "https://api.getbible.net/v2/cus/29/3.json",
-    "sha": "2d81e5b6715c5e10eb36081df581ffdc1b7c6748"
+    "sha": "01fe9b75cc9897ae69656b50f95d2bcec97e677f"
   }
 }

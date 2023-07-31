@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipanoj",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filipanoj 1",
     "url": "https://api.getbible.net/v2/esperanto/50/1.json",
-    "sha": "fe67e423cce8ceeb8f52e26aa8405157a39393af"
+    "sha": "dba7ddf56c7152734538690b5c3dfec323220502"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipanoj",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filipanoj 2",
     "url": "https://api.getbible.net/v2/esperanto/50/2.json",
-    "sha": "da8427476c80b549cb44d99817cdf05757b66d7b"
+    "sha": "eee2f0bc55795f46cef5ea54f5ac9b0c2f6c5906"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipanoj",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filipanoj 3",
     "url": "https://api.getbible.net/v2/esperanto/50/3.json",
-    "sha": "a5a3d915efcd85691b37c792de521ac342752244"
+    "sha": "e6db669f7599cf2137fad4709b817b36cb59a380"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipanoj",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filipanoj 4",
     "url": "https://api.getbible.net/v2/esperanto/50/4.json",
-    "sha": "e2d89509348d0e15e244b2e3570c680dd61efc27"
+    "sha": "d75f6ec2f6ed4a5cbddb99d0ffa7c5eadd86310d"
   }
 }

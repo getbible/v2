@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "腓立比书 1",
     "url": "https://api.getbible.net/v2/cus/50/1.json",
-    "sha": "09142b0052108fdab4c58c80aee0bb2578b3ab84"
+    "sha": "297949e7a3c7c0002caf16452a7553199f97d93d"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "腓立比书 2",
     "url": "https://api.getbible.net/v2/cus/50/2.json",
-    "sha": "b005c43150cf17b394f916aeb465a34eea66be09"
+    "sha": "3f69b92a5c5eeed9a899e36a50a5e0b209d1f1c0"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "腓立比书 3",
     "url": "https://api.getbible.net/v2/cus/50/3.json",
-    "sha": "477d2b3046ae9caed386566d9c91974d6b43788a"
+    "sha": "b6543244279c3d899ba7cfb4f434e63812fc1831"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "腓立比书 4",
     "url": "https://api.getbible.net/v2/cus/50/4.json",
-    "sha": "54051708f6d8000201ea4a213bcb189e97f37a17"
+    "sha": "9f102ad453f2c786a78ecd91e54ebf893666e88f"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "တီတပ်",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "တီတပ် 1",
     "url": "https://api.getbible.net/v2/judson/56/1.json",
-    "sha": "91b350994989797c7395d0ca072195820e92ae84"
+    "sha": "0868c25f3c838e0615d039d768b7d5412c5f0ea4"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "တီတပ်",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "တီတပ် 2",
     "url": "https://api.getbible.net/v2/judson/56/2.json",
-    "sha": "e1e94a1ee0f559d628a9ce97b003c48a7f2ee7d1"
+    "sha": "e376f6fa7668d90db3c691df3008cce43baa11ad"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "တီတပ်",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "တီတပ် 3",
     "url": "https://api.getbible.net/v2/judson/56/3.json",
-    "sha": "888bf7ce0d23a34b7d99b5047d389412bec99c0f"
+    "sha": "c37294e01daaf36fb3bb2307bcd9619501b4e68d"
   }
 }

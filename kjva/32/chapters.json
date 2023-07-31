@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Jonah 1",
     "url": "https://api.getbible.net/v2/kjva/32/1.json",
-    "sha": "4a6163ee725cff8a6bcab14ada3fd2b73d502730"
+    "sha": "b4ab1633021972f08a2dbba542d7684ab74b21b3"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Jonah 2",
     "url": "https://api.getbible.net/v2/kjva/32/2.json",
-    "sha": "4068f2056dd317c44d8cae465815a9d06be8f462"
+    "sha": "2e32207e57db3dc083101d96a280bc834e19f317"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Jonah 3",
     "url": "https://api.getbible.net/v2/kjva/32/3.json",
-    "sha": "24d0f87ce09bd05e03a0cd1e51bcc4200dada09d"
+    "sha": "9a81fb06ded5027e27fb2b434535aa1aacdd3673"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Jonah 4",
     "url": "https://api.getbible.net/v2/kjva/32/4.json",
-    "sha": "925d1da306ecfa46992e1842910ef6e036292843"
+    "sha": "5b83aa9141618c1e2d299df998a476b224824fff"
   }
 }

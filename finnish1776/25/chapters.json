@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Valitusvirret 1",
     "url": "https://api.getbible.net/v2/finnish1776/25/1.json",
-    "sha": "f3ec02348b993102e4424f520672f611a2a710d2"
+    "sha": "0302d2855d4115fc2c7ad2e8576f62d93689973d"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Valitusvirret 2",
     "url": "https://api.getbible.net/v2/finnish1776/25/2.json",
-    "sha": "2f0e60105811e5737ca08be4e449cb0cb445b403"
+    "sha": "ffd01b74967c900a8981a6c5b3e50a39ec35f0eb"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Valitusvirret 3",
     "url": "https://api.getbible.net/v2/finnish1776/25/3.json",
-    "sha": "6faa9082273ec622030e5af51eb567cd1f08f4cb"
+    "sha": "8d37047246ab63a04a2184d6370024cb5b6ab7a7"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Valitusvirret 4",
     "url": "https://api.getbible.net/v2/finnish1776/25/4.json",
-    "sha": "1505961010bbcc45c0101470b898a10312e39818"
+    "sha": "be89339058024d4b1872ef9949f9cf2b83bb085b"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Valitusvirret",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Valitusvirret 5",
     "url": "https://api.getbible.net/v2/finnish1776/25/5.json",
-    "sha": "5c28c248b668b42d17cadcd8127fc0f02c973269"
+    "sha": "ea3e5403784c79feede08c06b81f920727f6f52e"
   }
 }

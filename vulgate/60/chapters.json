@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "I Petri",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "I Petri 1",
     "url": "https://api.getbible.net/v2/vulgate/60/1.json",
-    "sha": "1440a1ce96e939921557d16aad8836d3a3d65f61"
+    "sha": "87750ffc8cfe0c72210648e7c3bd5b2ffda72377"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "I Petri",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "I Petri 2",
     "url": "https://api.getbible.net/v2/vulgate/60/2.json",
-    "sha": "2b246de3a31457ed3bfd9b03be03cb090d29accc"
+    "sha": "cfa5104dc49daa0a1d708965e4fd82bfb5fbfdc1"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "I Petri",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "I Petri 3",
     "url": "https://api.getbible.net/v2/vulgate/60/3.json",
-    "sha": "8486ecac32021d122e13886c6ff075ac49557d5c"
+    "sha": "d2b6b2f3afabcae4130d7b53c62d8663f6f41888"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "I Petri",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "I Petri 4",
     "url": "https://api.getbible.net/v2/vulgate/60/4.json",
-    "sha": "dc1a9dce224cd4d91fae842a6961db00991312bb"
+    "sha": "03f8a80761092112b16cd0de99a72c6f7bcdcd5d"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "I Petri",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "I Petri 5",
     "url": "https://api.getbible.net/v2/vulgate/60/5.json",
-    "sha": "714221afdb0460074a3a14b09409d569d69813e5"
+    "sha": "2fceb7a2ad375a44e7b138146ec1125828c7f331"
   }
 }

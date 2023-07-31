@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filippiläiskirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/50/1.json",
-    "sha": "59f9ca44da0357288694dbbf06a4156da283e47d"
+    "sha": "8f85af00365748d806b3d6b5d17123539fdd7247"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filippiläiskirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/50/2.json",
-    "sha": "4a63fa18f5d7c7a0768676ae5dff5e4c5afeee2d"
+    "sha": "b02efd240833f0689fb68162e7146341ed77e2b8"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filippiläiskirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/50/3.json",
-    "sha": "9b97cd7a6a727398840f377a125bb0af62eeb77f"
+    "sha": "7c50688db69ed95eaa798c82daa60debf99927af"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filippiläiskirje",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filippiläiskirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/50/4.json",
-    "sha": "485046397455807b597804b8d0c5a31ddc60ce56"
+    "sha": "5e702c00a1c4712d5c8c35e89cba1743bdfd9872"
   }
 }

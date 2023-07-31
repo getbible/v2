@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1-е Иоанну 1",
     "url": "https://api.getbible.net/v2/zhuromsky/62/1.json",
-    "sha": "ab9f367ceb027bcffd55f30d151b539a1aadc1b3"
+    "sha": "ad2f8574bc593b097756da0128d571980113e36c"
   },
   "2": {
     "translation": "Victor Zhuromsky NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1-е Иоанну 2",
     "url": "https://api.getbible.net/v2/zhuromsky/62/2.json",
-    "sha": "ebb9dd91454c993bbf8c08e86f3c0661478f0cdd"
+    "sha": "18122d961dd6620617fbfb96c61ae5b8629a2b92"
   },
   "3": {
     "translation": "Victor Zhuromsky NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1-е Иоанну 3",
     "url": "https://api.getbible.net/v2/zhuromsky/62/3.json",
-    "sha": "268ead76a2bf8cb7433f5a944a07f9939670a880"
+    "sha": "7db0698371ae905b858dfca54655eb091bc3ad74"
   },
   "4": {
     "translation": "Victor Zhuromsky NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1-е Иоанну 4",
     "url": "https://api.getbible.net/v2/zhuromsky/62/4.json",
-    "sha": "f6aa1eee85a474e465e73594f4ff440d2e7a7ef5"
+    "sha": "c49c4feef03e694c10b1e1342386d299664eb1de"
   },
   "5": {
     "translation": "Victor Zhuromsky NT",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1-е Иоанну",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1-е Иоанну 5",
     "url": "https://api.getbible.net/v2/zhuromsky/62/5.json",
-    "sha": "b03a53f03976bccc3a73dfc6e61d5fdb980069d5"
+    "sha": "5d4dd5fe76e4b601d76a17e57aabf2530b6fa87d"
   }
 }

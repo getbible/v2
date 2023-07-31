@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Προς Φιλιππησίους 1",
     "url": "https://api.getbible.net/v2/westcotthort/50/1.json",
-    "sha": "b50e58c6d92714915fd2d79545014f1ae53adb64"
+    "sha": "954cd4a72a0fc7ba4dd12bdb8cd8dff85777105c"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Προς Φιλιππησίους 2",
     "url": "https://api.getbible.net/v2/westcotthort/50/2.json",
-    "sha": "fa67e0ad3663da30aa4804b87dc8f58b5a3eb64d"
+    "sha": "02b1cfdf289016d5730bbf713c5e0e43d48e7f6d"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Προς Φιλιππησίους 3",
     "url": "https://api.getbible.net/v2/westcotthort/50/3.json",
-    "sha": "5e4836b52f93e23813aa8ff18901d1c6f3488223"
+    "sha": "dfae2f3928661d9c4d2c16957ce59fc787dd4a31"
   },
   "4": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Προς Φιλιππησίους 4",
     "url": "https://api.getbible.net/v2/westcotthort/50/4.json",
-    "sha": "82b0ce8f47eb9b1bc97f598e8634e293d2ebfeac"
+    "sha": "4606626fae139af23fadd41485934a460ee66d58"
   }
 }

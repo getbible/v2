@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaćanima",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galaćanima 1",
     "url": "https://api.getbible.net/v2/croatia/48/1.json",
-    "sha": "8f8e710a81090773026da922d02beaa1c362676a"
+    "sha": "c7b5b626e28d0a730bc911e0a590f8d4cf36a251"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaćanima",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galaćanima 2",
     "url": "https://api.getbible.net/v2/croatia/48/2.json",
-    "sha": "15ce1987fdd2b7f00f749ff508e0b5dc02d69ba9"
+    "sha": "e677aca5d625357135722643841a08cae6a500ef"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaćanima",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galaćanima 3",
     "url": "https://api.getbible.net/v2/croatia/48/3.json",
-    "sha": "389aaa6301bb1ab6eed6f589ddf73ea5936b89bb"
+    "sha": "6caf78a3bbd797be53a5bf9b38b7ab2ffaaed94e"
   },
   "4": {
     "translation": "Croatian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaćanima",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galaćanima 4",
     "url": "https://api.getbible.net/v2/croatia/48/4.json",
-    "sha": "0993bd80bbcc17193d4295d318fa5015d307c97c"
+    "sha": "6d5b860818482e2145b6ec043303eddd047c8b4e"
   },
   "5": {
     "translation": "Croatian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaćanima",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galaćanima 5",
     "url": "https://api.getbible.net/v2/croatia/48/5.json",
-    "sha": "2183bde7c900e128a2ca4fc7dd7b3eeaad137345"
+    "sha": "d2c2c339236c40231c558f416485da49a5eba7b9"
   },
   "6": {
     "translation": "Croatian",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galaćanima",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galaćanima 6",
     "url": "https://api.getbible.net/v2/croatia/48/6.json",
-    "sha": "3af2d291d7d90d525659ebf7adb4719731c4beab"
+    "sha": "6edeecbe33399261a66b69d6157bfd1212b6b443"
   }
 }

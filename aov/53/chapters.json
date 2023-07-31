@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonicense",
+    "book_name": "2 Tessalonisense",
     "chapter": 1,
-    "name": "2 Thessalonicense 1",
+    "name": "2 Tessalonisense 1",
     "url": "https://api.getbible.net/v2/aov/53/1.json",
-    "sha": "60a4d864191fe3970a9156b1b87492d55160bf65"
+    "sha": "c27161344b1bab16afbb4f00366a4a7ad3a005d5"
   },
   "2": {
     "translation": "Ou Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonicense",
+    "book_name": "2 Tessalonisense",
     "chapter": 2,
-    "name": "2 Thessalonicense 2",
+    "name": "2 Tessalonisense 2",
     "url": "https://api.getbible.net/v2/aov/53/2.json",
-    "sha": "1cbc252fe306c3c98e4117267f28b99c3cfd0d8d"
+    "sha": "d7471ed00da567d5f2e9d63e27e7fc91fb912393"
   },
   "3": {
     "translation": "Ou Vertaling",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonicense",
+    "book_name": "2 Tessalonisense",
     "chapter": 3,
-    "name": "2 Thessalonicense 3",
+    "name": "2 Tessalonisense 3",
     "url": "https://api.getbible.net/v2/aov/53/3.json",
-    "sha": "7d97338f0732249dfce6d3fd56b2cab06777df90"
+    "sha": "6398ceaba9d375a1c58e7cde2e79670bef336110"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tite",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tite 1",
     "url": "https://api.getbible.net/v2/darby/56/1.json",
-    "sha": "82a6215c35fab322e96d48939001d0785e1e19a0"
+    "sha": "da2f6d6e218d91d8ab31c9dc845dd25ecbadad2c"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tite",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tite 2",
     "url": "https://api.getbible.net/v2/darby/56/2.json",
-    "sha": "4a5cc98dfa4c2c47ef9e99579dff9b11a413fe27"
+    "sha": "5f61972cd0286740e74ab5b2d87dc8a672d13137"
   },
   "3": {
     "translation": "Darby",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tite",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tite 3",
     "url": "https://api.getbible.net/v2/darby/56/3.json",
-    "sha": "617c1a60adb7098c0aa785bcb7e83096dbecad11"
+    "sha": "497ec39cac3c416504c00fe167dfd516c1b9fd08"
   }
 }

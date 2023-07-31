@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efesolaiskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/49/1.json",
-    "sha": "f65f082bc0a52a3f51d44e4f4f6c5bd9f2f9b550"
+    "sha": "2dbd831e9aa0d9c4acd81a099f0e48967386a38a"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efesolaiskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/49/2.json",
-    "sha": "1a5ada7ab3d0c89049160fc34542a3581e084f3c"
+    "sha": "b5386ea7694d67c5d9e02d8ee70e41abcb7fd56e"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efesolaiskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/49/3.json",
-    "sha": "82cd9e877a537ceea4f64177d0e0ad5ba5714228"
+    "sha": "455ec86472f6493957d36dc0f97d6d5bd5d68134"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efesolaiskirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/49/4.json",
-    "sha": "47f12aaf9cd38a06e9a4d759630b91334ed4140a"
+    "sha": "20fdfbb3bf67c3f74034818afbe897a4753db10e"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efesolaiskirje 5",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/49/5.json",
-    "sha": "22d4aaea5dc44ff54f400fe0f8bbd8926626daf5"
+    "sha": "4f40d2ca2ec2ffa62b4c76372d378a3c82e90653"
   },
   "6": {
     "translation": "Pyha Raamattu (1992)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efesolaiskirje",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efesolaiskirje 6",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/49/6.json",
-    "sha": "ce5413ad3a31353595e7f4af015286654f18f51f"
+    "sha": "071f7d0a7043af15b14f94947613909d2545464b"
   }
 }

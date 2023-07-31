@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "彼得后书 1",
     "url": "https://api.getbible.net/v2/cns/61/1.json",
-    "sha": "dd999e9849c1c7ef0eb99d2f8cfa73bb35e8c200"
+    "sha": "355f3a56131e70e677eb8ed77c84560dcfa9e2d3"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "彼得后书 2",
     "url": "https://api.getbible.net/v2/cns/61/2.json",
-    "sha": "4c0fd7a7c7fb515cc1bf6daf82ff284cc31dfec6"
+    "sha": "0ad902b0be1fd366d59249229c232c12d9aec509"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "彼得后书 3",
     "url": "https://api.getbible.net/v2/cns/61/3.json",
-    "sha": "43ce3689306dfaf967763d5d1ae4a3c6b3791b75"
+    "sha": "66ab93f8e9f8cddf22164a575369559e36bcc83d"
   }
 }

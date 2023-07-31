@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobuse",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jaakobuse 1",
     "url": "https://api.getbible.net/v2/estonian/59/1.json",
-    "sha": "932b39c036b36abd19510f1a7ab27d4aa1a3821c"
+    "sha": "ac9296b494b018a6f89b06db62724905b418e301"
   },
   "2": {
     "translation": "Estonian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobuse",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jaakobuse 2",
     "url": "https://api.getbible.net/v2/estonian/59/2.json",
-    "sha": "f7e6f566339ff65e075845cf16aff067f721567b"
+    "sha": "e84efa30a3dd58cf94b3372e3020248313d343e8"
   },
   "3": {
     "translation": "Estonian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobuse",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jaakobuse 3",
     "url": "https://api.getbible.net/v2/estonian/59/3.json",
-    "sha": "9dfff25781cf8426faec93e76805d45e3e2e57bf"
+    "sha": "558f85c474d75302942c5c8893ca6bab218e1591"
   },
   "4": {
     "translation": "Estonian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobuse",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jaakobuse 4",
     "url": "https://api.getbible.net/v2/estonian/59/4.json",
-    "sha": "23842a215c2957bb05ae0cd6763c8c1a05fcdf0e"
+    "sha": "305dcb077f275813799ceb1e9dbe87b77199822c"
   },
   "5": {
     "translation": "Estonian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jaakobuse",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jaakobuse 5",
     "url": "https://api.getbible.net/v2/estonian/59/5.json",
-    "sha": "8e7f8e7d78c24a06995d63d034e19a55fdd7ef8f"
+    "sha": "c9cb9bf07a150bdb3b98000bb31aee2a2e48d13e"
   }
 }

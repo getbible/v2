@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Prayer of Manasses 1",
     "url": "https://api.getbible.net/v2/kjva/79/1.json",
-    "sha": "e9a4f746bceb903d3d2884c16b86c78e46b380a3"
+    "sha": "dc31cdd995264995e7c63e1281b5401885f8b0c9"
   }
 }

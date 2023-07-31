@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Cantares 1",
     "url": "https://api.getbible.net/v2/sse/22/1.json",
-    "sha": "dede8fa7381fd10545045cc59fda32fb019a978f"
+    "sha": "8d15ed59e4947a8ddbd57cd8b9a3809ff66647bd"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Cantares 2",
     "url": "https://api.getbible.net/v2/sse/22/2.json",
-    "sha": "344910a599ae2d859a3cd8c75307c0ab18f9eb56"
+    "sha": "e13da955171e1349297e6859be813d4d83c2fb39"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Cantares 3",
     "url": "https://api.getbible.net/v2/sse/22/3.json",
-    "sha": "66994ad5ea10b8eec7a74ac48e2e7ef3ee32602d"
+    "sha": "096c2e60a391282f4f02ff5cfcd34506a77dc0ce"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Cantares 4",
     "url": "https://api.getbible.net/v2/sse/22/4.json",
-    "sha": "4987e5592beef3a8ebb8d0f64f2e950ed84f8835"
+    "sha": "e47ee36d4e9789c1a9f346e0e24bee34cea474c9"
   },
   "5": {
     "translation": "Sagradas Escrituras (1569)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Cantares 5",
     "url": "https://api.getbible.net/v2/sse/22/5.json",
-    "sha": "6f9c8657d0e36e4384799727f99598b8d9ff70ee"
+    "sha": "93c3069404b79b4b0ee231bc472ce827228875a3"
   },
   "6": {
     "translation": "Sagradas Escrituras (1569)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Cantares 6",
     "url": "https://api.getbible.net/v2/sse/22/6.json",
-    "sha": "0e6b0ffd1e010da36c9f71671a17106119d63421"
+    "sha": "f3f3a18d8dccbe278146b533e9a88b5202fed99d"
   },
   "7": {
     "translation": "Sagradas Escrituras (1569)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Cantares 7",
     "url": "https://api.getbible.net/v2/sse/22/7.json",
-    "sha": "38d85c79833f392504998fbf1440932a04ef02e8"
+    "sha": "1aeead18133f4066058ace0740f2cb012ad2885b"
   },
   "8": {
     "translation": "Sagradas Escrituras (1569)",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Cantares",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Cantares 8",
     "url": "https://api.getbible.net/v2/sse/22/8.json",
-    "sha": "0ebc3fbce97505cf8d991ba2e055c3dce5dc5433"
+    "sha": "aaf7a8b3e271dd6cb292e30bb3077766dc7ee93a"
   }
 }

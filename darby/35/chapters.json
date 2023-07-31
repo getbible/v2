@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/darby/35/1.json",
-    "sha": "b4110afb473d82d44c94dfef566c92617a3694ec"
+    "sha": "58698a5ddab5a5e74b1791dacae71ecd13cb6f60"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/darby/35/2.json",
-    "sha": "dabc0df748ff3ae1ebe8eb7da37aa1d410460877"
+    "sha": "20caa2d15763e83093ebea74041d001de8e5b14d"
   },
   "3": {
     "translation": "Darby",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/darby/35/3.json",
-    "sha": "d1db3fc5f126c4dbc4fe75f5e774d213dad7a388"
+    "sha": "24e7133a95df018f2af0995b05268b53ef202792"
   }
 }

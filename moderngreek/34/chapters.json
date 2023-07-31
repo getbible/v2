@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Ναούμ",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Ναούμ 1",
     "url": "https://api.getbible.net/v2/moderngreek/34/1.json",
-    "sha": "11f7c92ab2b48021e05eb6d1a06598a54e166cc3"
+    "sha": "58f55d6b1266e43603ecb17f8ffe7d2677d01d19"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Ναούμ",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Ναούμ 2",
     "url": "https://api.getbible.net/v2/moderngreek/34/2.json",
-    "sha": "4724b2c88bd5c2e94051f1de0b167d86eeb68b48"
+    "sha": "8a30e87173e9f28716cd07c5384d90ee6a630456"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Ναούμ",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Ναούμ 3",
     "url": "https://api.getbible.net/v2/moderngreek/34/3.json",
-    "sha": "d4760cc9786825e93289508140449ee21b1bdcaa"
+    "sha": "52d08e6e9948e492b7b2da797cd9775df6e3b837"
   }
 }

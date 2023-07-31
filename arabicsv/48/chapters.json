@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "غلاطية",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "غلاطية 1",
     "url": "https://api.getbible.net/v2/arabicsv/48/1.json",
-    "sha": "4ad074393c30423f4dade9fe6c04cbb16cd89139"
+    "sha": "b1f9beda2d5254d74dd583cce5aaa4dec56d9af8"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "غلاطية",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "غلاطية 2",
     "url": "https://api.getbible.net/v2/arabicsv/48/2.json",
-    "sha": "ddfddeb142d41456947ca23141549bf601e57c0f"
+    "sha": "be5412e19c3de3f0ae3229a61435f5ebe08b40e0"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "غلاطية",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "غلاطية 3",
     "url": "https://api.getbible.net/v2/arabicsv/48/3.json",
-    "sha": "a9a9bb3169faec6161fb251825ea56c6a0c90491"
+    "sha": "8e3aa0356da7f90cef30a81dcdedff65b6ff8f61"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "غلاطية",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "غلاطية 4",
     "url": "https://api.getbible.net/v2/arabicsv/48/4.json",
-    "sha": "fe7447261a96c4383aa6b342a5dbdff9269e39b2"
+    "sha": "347238d08fe6cbecaa0784c7ffd0015dc48d6e70"
   },
   "5": {
     "translation": "Smith and Van Dyke",
@@ -63,11 +63,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "غلاطية",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "غلاطية 5",
     "url": "https://api.getbible.net/v2/arabicsv/48/5.json",
-    "sha": "e312e3b4a80d8d56c4575ecfafe26c31ee8e96fe"
+    "sha": "b7fb0e1c46db2fc51358a7090f2212e74d1f004a"
   },
   "6": {
     "translation": "Smith and Van Dyke",
@@ -77,10 +77,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "غلاطية",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "غلاطية 6",
     "url": "https://api.getbible.net/v2/arabicsv/48/6.json",
-    "sha": "08c0220e31b033e0d84ee161eb532a297464ea21"
+    "sha": "5e6d4aed48f52a0ac92353072401d26540feb218"
   }
 }

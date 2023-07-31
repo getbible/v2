@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "데살로니가후서",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "데살로니가후서 1",
     "url": "https://api.getbible.net/v2/korean/53/1.json",
-    "sha": "e3bb486ee98948adf01bef3da03c979101fe2041"
+    "sha": "97bad5763fd494707fee196353efdde3ead4ef94"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "데살로니가후서",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "데살로니가후서 2",
     "url": "https://api.getbible.net/v2/korean/53/2.json",
-    "sha": "79b59ae3833f020e83708a09cfff87e9c6282469"
+    "sha": "e0007bc9dece6ee70315c65ec22dbddbae970de8"
   },
   "3": {
     "translation": "Korean",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "데살로니가후서",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "데살로니가후서 3",
     "url": "https://api.getbible.net/v2/korean/53/3.json",
-    "sha": "fafb84d947aad92f0442b55cc0f59cd356659a45"
+    "sha": "7e5937607887528d297399c1a18480256456d4ad"
   }
 }

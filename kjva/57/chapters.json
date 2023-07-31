@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Philemon 1",
     "url": "https://api.getbible.net/v2/kjva/57/1.json",
-    "sha": "a2444317cb82d43b32c8a905d88ae57dd934a283"
+    "sha": "13ec9a52dc85d59f69055abca2db9180606dad2d"
   }
 }

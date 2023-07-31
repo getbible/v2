@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "約翰一書 1",
     "url": "https://api.getbible.net/v2/cnt/62/1.json",
-    "sha": "a90833ac54c52ea9516235b8601cc54778bba0cd"
+    "sha": "5938ab9bdb7a1c7f1895ddef1991e30c7736e427"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "約翰一書 2",
     "url": "https://api.getbible.net/v2/cnt/62/2.json",
-    "sha": "dbb854fba1020037190cf51745106f781545ad80"
+    "sha": "cc3bd98ec54d8e6a73f3c07e8f07270399d75745"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "約翰一書 3",
     "url": "https://api.getbible.net/v2/cnt/62/3.json",
-    "sha": "0cb9130b9fd390cd0c7d34ed12ac90be892641d2"
+    "sha": "63382923b7e2d8b4e775b40f91313dc4f6c265b6"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "約翰一書 4",
     "url": "https://api.getbible.net/v2/cnt/62/4.json",
-    "sha": "eab25482419f541b60063f420f3870ae0e094e02"
+    "sha": "f9ab58dfabad6cd51acb9f2a21e1f1fe4ae114bc"
   },
   "5": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "約翰一書 5",
     "url": "https://api.getbible.net/v2/cnt/62/5.json",
-    "sha": "f4c8053abca976c50b3ec7f7af4ba02f9be65b9a"
+    "sha": "37c674fe5583455e8eb33cfe163b2bcf4b49c98f"
   }
 }

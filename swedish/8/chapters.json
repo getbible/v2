@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Rut 1",
     "url": "https://api.getbible.net/v2/swedish/8/1.json",
-    "sha": "678305eff7adf5b88cadb97a7d644473bc89bd0e"
+    "sha": "99bffa7bae87783d092e72bcf54e802d3b0b1bd1"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Rut 2",
     "url": "https://api.getbible.net/v2/swedish/8/2.json",
-    "sha": "8a180fa2557a33b18523ee363775e806dddbe1e1"
+    "sha": "889f837b3a128e0021e5dcb61a4d1db161e82a99"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Rut 3",
     "url": "https://api.getbible.net/v2/swedish/8/3.json",
-    "sha": "da6a06844ad1a304da9e19fb629f9a8f0d1c5f18"
+    "sha": "1bbba6077ae6139ec2b8f72f88dabd0ea463693b"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Rut 4",
     "url": "https://api.getbible.net/v2/swedish/8/4.json",
-    "sha": "b039f8b485c20fd8324c374940ea66ba289d4b83"
+    "sha": "8e819f8e0eadcf7a73f68f4cefe70aed961a6354"
   }
 }

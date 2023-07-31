@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Малахия",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Малахия 1",
     "url": "https://api.getbible.net/v2/synodal/39/1.json",
-    "sha": "7a0058324eb090618fa1102df3f3add4ec8b2179"
+    "sha": "e866d835f27adc3a4683c2dfa219be92e947eaae"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Малахия",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Малахия 2",
     "url": "https://api.getbible.net/v2/synodal/39/2.json",
-    "sha": "c316bb5a19189f31990f3453ddc3f02e2d08c774"
+    "sha": "44735dc540d2e9a26f4cc79708c7154296c02d78"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Малахия",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Малахия 3",
     "url": "https://api.getbible.net/v2/synodal/39/3.json",
-    "sha": "dc6d6aa4c805f5ef053c3530825cc209f4e53830"
+    "sha": "9de1aafa07234935527a3292f4b5f8e63bc4febc"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Малахия",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Малахия 4",
     "url": "https://api.getbible.net/v2/synodal/39/4.json",
-    "sha": "59c519f343e079998bca01edde3c74db2655e560"
+    "sha": "36ab3b2c0bfacb378e32c212842e62b9e2852d86"
   }
 }

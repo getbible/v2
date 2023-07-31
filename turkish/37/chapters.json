@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hagay",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Hagay 1",
     "url": "https://api.getbible.net/v2/turkish/37/1.json",
-    "sha": "3a2ff7dec3f63d9093921e069f1afead1521bcc6"
+    "sha": "7c5ce5144fd039822bd7a76fcfdaa7ef20024bd6"
   },
   "2": {
     "translation": "Turkish",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hagay",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Hagay 2",
     "url": "https://api.getbible.net/v2/turkish/37/2.json",
-    "sha": "de001fbc1ed8f8aa6ff16847937766254ec4fe80"
+    "sha": "2a232a648743a24607785cc3f701519abc83e97d"
   }
 }

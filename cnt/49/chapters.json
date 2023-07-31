@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "以弗所書 1",
     "url": "https://api.getbible.net/v2/cnt/49/1.json",
-    "sha": "d8ecc890f40ff179b5ea846d74f42b7754be2196"
+    "sha": "106cdf935c23d8970a5edc03e0c1697c9b05526f"
   },
   "2": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "以弗所書 2",
     "url": "https://api.getbible.net/v2/cnt/49/2.json",
-    "sha": "725eb1e42bcd8ac3159ed03f1a4a4b40eeb66385"
+    "sha": "96c1ba866c12da028731eec8a16815388cbc2811"
   },
   "3": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "以弗所書 3",
     "url": "https://api.getbible.net/v2/cnt/49/3.json",
-    "sha": "01f317cd0abf12c5194a1a80bb4ed237d9c6fb76"
+    "sha": "0d4dcff51607bd14e0c5655c8fd5d96378228c60"
   },
   "4": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "以弗所書 4",
     "url": "https://api.getbible.net/v2/cnt/49/4.json",
-    "sha": "eb53cb65990a5c768a82d549aeb37970115d66a4"
+    "sha": "251f95a2ad840911183f19c5fafd4fd5969ad3a8"
   },
   "5": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "以弗所書 5",
     "url": "https://api.getbible.net/v2/cnt/49/5.json",
-    "sha": "7eeb75e2f7721f2a0d9d2a8b701e79c61ba02237"
+    "sha": "67eb7d71524413af6ad2604444a2d599b617bbe0"
   },
   "6": {
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "以弗所書 6",
     "url": "https://api.getbible.net/v2/cnt/49/6.json",
-    "sha": "d9b3f3f5eb2dbc477cce6289c35c6f678dd9ddd4"
+    "sha": "68c45f215be2f797c3fb58bb1cb604cb728f214d"
   }
 }

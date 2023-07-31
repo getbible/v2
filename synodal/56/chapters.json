@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Титу 1",
     "url": "https://api.getbible.net/v2/synodal/56/1.json",
-    "sha": "2ec5cbdf0a671fb449ab2d73481cd92d5a345153"
+    "sha": "254a7699724b85587cc9ba4f71f04a8a6e0abcf3"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Титу 2",
     "url": "https://api.getbible.net/v2/synodal/56/2.json",
-    "sha": "7da70fabc030c1426df0bed81f089085feb629a9"
+    "sha": "1fdfdd6818695d3d31da0b2548a0fce96e07a2e1"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Титу",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Титу 3",
     "url": "https://api.getbible.net/v2/synodal/56/3.json",
-    "sha": "809eac3774b0cae450c5d00e22dbd8da6540e5db"
+    "sha": "9b9259faefd3de228e3eb795b4f353548c95c261"
   }
 }

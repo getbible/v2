@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeseni",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Efeseni 1",
     "url": "https://api.getbible.net/v2/cornilescu/49/1.json",
-    "sha": "c74e5481a8bcdaceb35425c55dba22400857d703"
+    "sha": "a51bf9f5ac693012f92404802d50bffb2098fcd6"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeseni",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Efeseni 2",
     "url": "https://api.getbible.net/v2/cornilescu/49/2.json",
-    "sha": "94126274d2e559e50d25bcb983677c4dab3987e8"
+    "sha": "b669a065f2cd46ef93608b3ace03d85e3bc99089"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeseni",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Efeseni 3",
     "url": "https://api.getbible.net/v2/cornilescu/49/3.json",
-    "sha": "a4f83052f43ca1cc391079d99a28a047cd79e9f7"
+    "sha": "9bf8babb78bfae1c15d3dbedc16c7bd25946e929"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeseni",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Efeseni 4",
     "url": "https://api.getbible.net/v2/cornilescu/49/4.json",
-    "sha": "929d94d36bb091b0b26fb9bd35cca4a09d74ef35"
+    "sha": "66fa9a638a0b1a329a17e8873a4b7b263089799f"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeseni",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Efeseni 5",
     "url": "https://api.getbible.net/v2/cornilescu/49/5.json",
-    "sha": "09bd8e98e57abcae05f55dd72ffdeba5b8440dc5"
+    "sha": "0c99243e128849b25096183a10d1ceb512f796ae"
   },
   "6": {
     "translation": "Cornilescu",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Efeseni",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Efeseni 6",
     "url": "https://api.getbible.net/v2/cornilescu/49/6.json",
-    "sha": "fcbce4654bf4245c15895385109ab2be44c28662"
+    "sha": "c773d92c4f4714552c2323c46ee03707780ba2fe"
   }
 }

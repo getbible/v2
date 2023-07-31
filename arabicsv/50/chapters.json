@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "فيليبي",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "فيليبي 1",
     "url": "https://api.getbible.net/v2/arabicsv/50/1.json",
-    "sha": "930381c2184dae58ac8401b4807b0c90894f3606"
+    "sha": "be631530f5686a90f099e91ade45b6a7a8b262bf"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "فيليبي",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "فيليبي 2",
     "url": "https://api.getbible.net/v2/arabicsv/50/2.json",
-    "sha": "d5f1bec5b9cddbbd9c7b2111c71896c8c8cfad6a"
+    "sha": "c98af70285e847340ec55eb6fe1dc92ecb5befda"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "فيليبي",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "فيليبي 3",
     "url": "https://api.getbible.net/v2/arabicsv/50/3.json",
-    "sha": "8696fd9aa10c7b3de877e1ba0ba0aaa223510318"
+    "sha": "3770d79561dd532181a3bc8c200a31b4266a1906"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,10 +49,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "فيليبي",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "فيليبي 4",
     "url": "https://api.getbible.net/v2/arabicsv/50/4.json",
-    "sha": "cbff103259b4a899825dc55aa038db1b29c19d70"
+    "sha": "eb8bfea41b791ba791ccca4172a1979215052c34"
   }
 }

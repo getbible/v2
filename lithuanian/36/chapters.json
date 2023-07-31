@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonijas",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sofonijas 1",
     "url": "https://api.getbible.net/v2/lithuanian/36/1.json",
-    "sha": "d4652d8d0aff391939e329dce9eea58db394f415"
+    "sha": "c3933fd4455ba2d22fea8cfc6be89e78f1137681"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonijas",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sofonijas 2",
     "url": "https://api.getbible.net/v2/lithuanian/36/2.json",
-    "sha": "7e1643158daac2dcfffc2b92fa01f9f1742c54d6"
+    "sha": "7ccfc56c0431bf21b48f5946aa8011701c93ab60"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonijas",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sofonijas 3",
     "url": "https://api.getbible.net/v2/lithuanian/36/3.json",
-    "sha": "b638a70433f3883cc8d2493a98d1bdceba8486b0"
+    "sha": "90c5531b2c9912c03d05d494bd419debf13d0cd6"
   }
 }

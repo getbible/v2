@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 57,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "Philemon 1",
     "url": "https://api.getbible.net/v2/wycliffe/57/1.json",
-    "sha": "506090878a4b852496a1bd2cbe87a2c8a8b8ef73"
+    "sha": "0c8c3344a771decd2cc83d194495435d1fb12cb6"
   }
 }

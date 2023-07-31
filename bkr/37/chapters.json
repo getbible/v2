@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggeus",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Haggeus 1",
     "url": "https://api.getbible.net/v2/bkr/37/1.json",
-    "sha": "d31d88c7b55a12fc028afec3dbf0c866d5f811a1"
+    "sha": "dc0032f272de8b12e9ca68b8a1ac1c2e8be40890"
   },
   "2": {
     "translation": "Czech BKR",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggeus",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Haggeus 2",
     "url": "https://api.getbible.net/v2/bkr/37/2.json",
-    "sha": "6feea453fcd599ce565105f9c71b037fc231e5bc"
+    "sha": "99a299b81fdb53796f2ef0e6a83e39a4849c0231"
   }
 }

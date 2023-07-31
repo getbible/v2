@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "အစ္ကိုသီဟိုဠ်",
     "url": "https://api.getbible.net/v2/judson/1.json",
-    "sha": "7d42adac266d50246b44299219f7ca9a7a0472b1"
+    "sha": "afe9a45677b55813502f868d0b8d62b94ed076f8"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "ထွက်ထဲကွက်",
     "url": "https://api.getbible.net/v2/judson/2.json",
-    "sha": "fb964dae6f16723e610ed8203b0df910e0d52b9d"
+    "sha": "4690f8c2ba4f9e44325d36a0e3a495e76362821f"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "လီဗိုင်တီကပ်",
     "url": "https://api.getbible.net/v2/judson/3.json",
-    "sha": "9283cbc39f4906e20892327f8d07e4abc36187a2"
+    "sha": "63e2ec465c167054851454ba215e222916a133ae"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "အင်္ဂါအများ",
     "url": "https://api.getbible.net/v2/judson/4.json",
-    "sha": "50e80f2722e9c039bbe5dd0a9bff7f9aa0dacca6"
+    "sha": "b1155082ad56cf017585ac9facca9abab2af651f"
   },
   "5": {
     "translation": "Judson (1835)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "ဒုတိယစာပေ",
     "url": "https://api.getbible.net/v2/judson/5.json",
-    "sha": "86970430b244e7227072e274f76f1eef9f47d5ec"
+    "sha": "097cd788d805ef3c7d2b7deb50a8c32524407af3"
   },
   "6": {
     "translation": "Judson (1835)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "ဂျော့ရှ်ဗျာ",
     "url": "https://api.getbible.net/v2/judson/6.json",
-    "sha": "fbc17e54380dd6da0db11bb5dce760486f8a775e"
+    "sha": "d0ecdd2d2669a9988f732c1ea3a6354c5f30a8d0"
   },
   "7": {
     "translation": "Judson (1835)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "သားရှင်များ",
     "url": "https://api.getbible.net/v2/judson/7.json",
-    "sha": "e2054e265525a49d27254461e2e74cbed7afd3e2"
+    "sha": "91c38d44a97286f37e170773b5bb43dfa045a7c8"
   },
   "8": {
     "translation": "Judson (1835)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "ရုသ်",
     "url": "https://api.getbible.net/v2/judson/8.json",
-    "sha": "12dba91818abac0519945fa08580221da4aa162a"
+    "sha": "5e2bfbc3170c219d0e8a66b7ac189e9d7a79f29f"
   },
   "9": {
     "translation": "Judson (1835)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "ပထမဆိုက်မုရ်",
     "url": "https://api.getbible.net/v2/judson/9.json",
-    "sha": "402c3f5692788b75eca5e3a5d686becdadbe886a"
+    "sha": "536df52d3157494c85081e76aa0940406a14e25a"
   },
   "10": {
     "translation": "Judson (1835)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "ဒုတိယဆိုက်မုရ်",
     "url": "https://api.getbible.net/v2/judson/10.json",
-    "sha": "c64d337dd110a9e6592ae4ea1e91852040557617"
+    "sha": "7314df26edf293fb9993ecab465ff06a21e9f8fa"
   },
   "11": {
     "translation": "Judson (1835)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "ပထမမင်းကြီးစာအုပ်",
     "url": "https://api.getbible.net/v2/judson/11.json",
-    "sha": "bac6beb36614cfdd06b52edf4a0c018d43831bde"
+    "sha": "61ab2ca052c5669ea0d71c5689981e6c8fb48eb1"
   },
   "12": {
     "translation": "Judson (1835)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "ဒုတိယမင်းကြီးစာအုပ်",
     "url": "https://api.getbible.net/v2/judson/12.json",
-    "sha": "6ce9db353af90f01fc9688199a727bc68dc1b7c0"
+    "sha": "0d1252a58505cefcc16dda1f8763b383cb54ed8a"
   },
   "13": {
     "translation": "Judson (1835)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "ပထမကြိုးမီကလ်",
     "url": "https://api.getbible.net/v2/judson/13.json",
-    "sha": "1346530e17cb93d7f60753720ac7f82d905d7dea"
+    "sha": "73ae402744914d144735ccbe0a6f70328a284dba"
   },
   "14": {
     "translation": "Judson (1835)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "ဒုတိယကြိုးမီကလ်",
     "url": "https://api.getbible.net/v2/judson/14.json",
-    "sha": "ac57cec71a2aaa5d0da0161adfb9caa8389020a7"
+    "sha": "21e937df68393637c3e5589d446951d3f89dbe36"
   },
   "15": {
     "translation": "Judson (1835)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "အက်ဇရာ",
     "url": "https://api.getbible.net/v2/judson/15.json",
-    "sha": "3fa0b731b79c21bf11097dcfaa43001040eada56"
+    "sha": "9e18e8bbc5bdb5ab337b1c1469e5216eb4b173d7"
   },
   "16": {
     "translation": "Judson (1835)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "နီဟီးမီယာ",
     "url": "https://api.getbible.net/v2/judson/16.json",
-    "sha": "8db73931c523d33638ad6e5ed9af28c42fcd6677"
+    "sha": "5ff3e30de94068656f569bbeee06e7547b1765c4"
   },
   "17": {
     "translation": "Judson (1835)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "အက်စတာ",
     "url": "https://api.getbible.net/v2/judson/17.json",
-    "sha": "4324e0eb08fb50e609821933682263574ef532a2"
+    "sha": "fd9fdb241aab17b1eeb3e319fd3e3aad94daa852"
   },
   "18": {
     "translation": "Judson (1835)",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "ဂျုဘ်",
     "url": "https://api.getbible.net/v2/judson/18.json",
-    "sha": "9c5e64b8de3e9e72b213a15aae317d2eb5a26c2c"
+    "sha": "2155118251c1182ff4fb943777ca328292d84352"
   },
   "19": {
     "translation": "Judson (1835)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "ဆာမ်မုန်း",
     "url": "https://api.getbible.net/v2/judson/19.json",
-    "sha": "fa5ea561d9fc7404c21bc1a7e3493a66cf43496a"
+    "sha": "8c2a02c9de4d926b65474d9bc6b92310e3fdd1fc"
   },
   "20": {
     "translation": "Judson (1835)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "ကျွန်းတော်",
     "url": "https://api.getbible.net/v2/judson/20.json",
-    "sha": "75d4a7b85c52dec378bcbeac09f96947c62d2eca"
+    "sha": "f9c101a16ad383eb9e1084789e3fe75a2976958a"
   },
   "21": {
     "translation": "Judson (1835)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "ခရစ်သုယော",
     "url": "https://api.getbible.net/v2/judson/21.json",
-    "sha": "668ac083468182a0365643413c317d74d42e34b1"
+    "sha": "a9dbd3e3406bc650db6b98bccf1b8ece827cde2d"
   },
   "22": {
     "translation": "Judson (1835)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "စိုလိုမောင်",
     "url": "https://api.getbible.net/v2/judson/22.json",
-    "sha": "6f1a95628c570ab6a0456d8570a2b04550cf64c1"
+    "sha": "2b1445df475de8840b0d0b80094e1b59cd2b6ea2"
   },
   "23": {
     "translation": "Judson (1835)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "အိုင်းစိုယာ",
     "url": "https://api.getbible.net/v2/judson/23.json",
-    "sha": "78e8c9a1c2948c408db6bba7eba50b294c137b5b"
+    "sha": "7770554d5f4b6ef5564871f098b5c2210aed087e"
   },
   "24": {
     "translation": "Judson (1835)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "ဂျာရမိယာ",
     "url": "https://api.getbible.net/v2/judson/24.json",
-    "sha": "f6ab7abb2935c97abe3ab877d1d775b71c85cd46"
+    "sha": "7973b0402df8bcf7bc5858137fa97f9b56472a0e"
   },
   "25": {
     "translation": "Judson (1835)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "သွေးကျွန်းစာ",
     "url": "https://api.getbible.net/v2/judson/25.json",
-    "sha": "6cd46bf22efa338947df1837b7e224d0f2d507bd"
+    "sha": "abf1f20f6274b255ebdbf79ca9f104b42a2ef893"
   },
   "26": {
     "translation": "Judson (1835)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "အီဇီယယ်",
     "url": "https://api.getbible.net/v2/judson/26.json",
-    "sha": "9a69c8fcb8e3bd923c6a3219529ae7b34324938b"
+    "sha": "e5f0eaef983a704a7cc6b0a47d1b6baa833a02a2"
   },
   "27": {
     "translation": "Judson (1835)",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "ဒန်ယဲလ်",
     "url": "https://api.getbible.net/v2/judson/27.json",
-    "sha": "aba62975dac27e7b3e284b453e321d0c9e8df17c"
+    "sha": "53f19408db065d8d11e7fc611c34cee3c55461bd"
   },
   "28": {
     "translation": "Judson (1835)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "ဟိုစယာ",
     "url": "https://api.getbible.net/v2/judson/28.json",
-    "sha": "d2f277ba0aba673eee525e686ad9a5f9b94c7126"
+    "sha": "938e520048a6f01e5ba0ba7abb6d267ce4723c07"
   },
   "29": {
     "translation": "Judson (1835)",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "ဂျိုအဲလ်",
     "url": "https://api.getbible.net/v2/judson/29.json",
-    "sha": "8d4aff4b87665fddd4fe97bb95a79226d344180b"
+    "sha": "fcb43b73119030977e7e73ad448c8cd95b63d3b6"
   },
   "30": {
     "translation": "Judson (1835)",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "အာမိုစ်",
     "url": "https://api.getbible.net/v2/judson/30.json",
-    "sha": "c9ac438268a202e148c59c62f3c89eb6cfffca9b"
+    "sha": "5cc4d60fece6e89045540411733f603d3734a18f"
   },
   "31": {
     "translation": "Judson (1835)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "အိုဗာဒီယာ",
     "url": "https://api.getbible.net/v2/judson/31.json",
-    "sha": "7513ff871b7fecdbfeaf4c91014190140566f2cf"
+    "sha": "bf237516f46272ff048e1e94b0a5df0d73146f0c"
   },
   "32": {
     "translation": "Judson (1835)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "ဂျိုနာ",
     "url": "https://api.getbible.net/v2/judson/32.json",
-    "sha": "1167ad0ed0494f69b16c0f2ca9285d49405b9d45"
+    "sha": "ab2a4cbe30fcb600d3079ca424d3402e660fbf58"
   },
   "33": {
     "translation": "Judson (1835)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "မိုကာ",
     "url": "https://api.getbible.net/v2/judson/33.json",
-    "sha": "fce71f904fa66e6d694c75c362555cff29e38a8b"
+    "sha": "7674b26681044825054836b62d64d97b8e2448b0"
   },
   "34": {
     "translation": "Judson (1835)",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "နာဟုမ်",
     "url": "https://api.getbible.net/v2/judson/34.json",
-    "sha": "5e53bdc64d1b9ff00a21702500701730f98368b5"
+    "sha": "1da40a884d0a237b7fc3da0b5e6695668f9f9897"
   },
   "35": {
     "translation": "Judson (1835)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "ဟာဗကတ်",
     "url": "https://api.getbible.net/v2/judson/35.json",
-    "sha": "2d567c06884a68f86f65ff869d291579b5f6329f"
+    "sha": "581036dd054d6d84daad184f665d5d85aa9b3f2b"
   },
   "36": {
     "translation": "Judson (1835)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "ဇာဖနီယာ",
     "url": "https://api.getbible.net/v2/judson/36.json",
-    "sha": "1286cf71eb049c385ac62fa0add5e7536b22a1fd"
+    "sha": "d3aabbeaf79e0e465c90eb11199a4acdedb7bf44"
   },
   "37": {
     "translation": "Judson (1835)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "ဟက်ဂိုင်",
     "url": "https://api.getbible.net/v2/judson/37.json",
-    "sha": "8a7bfc2b09e134eb5653cee0b187e3b1b2e4af47"
+    "sha": "edc2e3d57143e4fb332031f5f2255b6fe642e9aa"
   },
   "38": {
     "translation": "Judson (1835)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "ဇာခရီယာ",
     "url": "https://api.getbible.net/v2/judson/38.json",
-    "sha": "ac1eb577c47ecb8e691376724c2da719a3108377"
+    "sha": "f5efd30e4028243745c4a1e78f52b09dc45b55f9"
   },
   "39": {
     "translation": "Judson (1835)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "မာလာခီ",
     "url": "https://api.getbible.net/v2/judson/39.json",
-    "sha": "6174c78b537be81e52ba0b4c0e8c869cb6905836"
+    "sha": "31e6a3debfa5094bbb6b1e7db57205637f8c4665"
   },
   "40": {
     "translation": "Judson (1835)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "မက်သွ်",
     "url": "https://api.getbible.net/v2/judson/40.json",
-    "sha": "c511d9baa0937d92e58e09b78b7aa64ef7dfc4cb"
+    "sha": "eb33a76e1b980bf9da317ba260e8e533155017b6"
   },
   "41": {
     "translation": "Judson (1835)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "မာက်",
     "url": "https://api.getbible.net/v2/judson/41.json",
-    "sha": "0e4174cc0727e69661774bc9d7785da757ffad64"
+    "sha": "aad78a9d08284a8f0812e2a51faca79dcfc8d3b3"
   },
   "42": {
     "translation": "Judson (1835)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "လူး",
     "url": "https://api.getbible.net/v2/judson/42.json",
-    "sha": "a11e2f7d199caf7dfbdb6d3690e6aac27f23ee9c"
+    "sha": "418d23481883e48b377a1dca05fc90f5f954547f"
   },
   "43": {
     "translation": "Judson (1835)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "ဂျွန်",
     "url": "https://api.getbible.net/v2/judson/43.json",
-    "sha": "32b93ba23f883f2f347c696de9c68b498166d58a"
+    "sha": "1a67daf9c969ae0db8bed744589397ff7cfffd4b"
   },
   "44": {
     "translation": "Judson (1835)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "အလှူ",
     "url": "https://api.getbible.net/v2/judson/44.json",
-    "sha": "97d6692dce88fd191b8ad21f3680d3736474cf91"
+    "sha": "35596077b65b6528ae0036307f8bcf283951ad1c"
   },
   "45": {
     "translation": "Judson (1835)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "ရိုမ်",
     "url": "https://api.getbible.net/v2/judson/45.json",
-    "sha": "616aff955451f730710b91bdfadf54ec805f2c5b"
+    "sha": "6cbd434d25bd307790893d2537272bf57a329ae4"
   },
   "46": {
     "translation": "Judson (1835)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 ကိုရိန္လီယံ",
     "url": "https://api.getbible.net/v2/judson/46.json",
-    "sha": "a6b3e7cd6b0acea94a3eeca781c71db7f3a1b758"
+    "sha": "50e5e317487f514cf9d6ab843447acc7736852e1"
   },
   "47": {
     "translation": "Judson (1835)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 ကိုရိန္လီယံ",
     "url": "https://api.getbible.net/v2/judson/47.json",
-    "sha": "d111c1cf87c69ac53629f444ae660bd7d9663080"
+    "sha": "e6dbc1caca5e31d1db0fc8394d0e439de09f78ee"
   },
   "48": {
     "translation": "Judson (1835)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "ဂါလာတီယာ",
     "url": "https://api.getbible.net/v2/judson/48.json",
-    "sha": "8bd76cb59700ba77004417ed8e13575cddee06ca"
+    "sha": "243a9525cfaaff352038614131649e5b83bf340f"
   },
   "49": {
     "translation": "Judson (1835)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "အီဖီစီယံ",
     "url": "https://api.getbible.net/v2/judson/49.json",
-    "sha": "265ee1792552db69fb5e4a9a76fc444cb442c323"
+    "sha": "d151ee12c50d9e9c4050adf086868af18fdd5401"
   },
   "50": {
     "translation": "Judson (1835)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "ဖီလီပီ",
     "url": "https://api.getbible.net/v2/judson/50.json",
-    "sha": "a2a2f675e4effe2953417422f06d58892d630e2b"
+    "sha": "280ab5adb1e89153e26b458b3dd5e538f4c06c52"
   },
   "51": {
     "translation": "Judson (1835)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "ကိုလိုစီ",
     "url": "https://api.getbible.net/v2/judson/51.json",
-    "sha": "ee236cd5796ceb36fb52faa4b1f3aa62cd0c3c07"
+    "sha": "d08b5b2eab6eba7a6ae4ed4fdbf4c71669188b86"
   },
   "52": {
     "translation": "Judson (1835)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 သက်စ်ဆိုလိုနီ",
     "url": "https://api.getbible.net/v2/judson/52.json",
-    "sha": "42292f558a46b51c8793b4a9e6eb99a2dbb7420b"
+    "sha": "b046bb94a777ff543b1e101bac45a86a3c326e01"
   },
   "53": {
     "translation": "Judson (1835)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 သက်စ်ဆိုလိုနီ",
     "url": "https://api.getbible.net/v2/judson/53.json",
-    "sha": "502ad97d78c5375685392a528b710e9761cf2536"
+    "sha": "7b4c3c61af89dde165cc64631fa750283b5d0f6f"
   },
   "54": {
     "translation": "Judson (1835)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 တီမိုသီ",
     "url": "https://api.getbible.net/v2/judson/54.json",
-    "sha": "a817d3489010e93dbee25ecec62c70baabd021f1"
+    "sha": "7ff24b738e686e56f3e959d3b95f0635197c0e01"
   },
   "55": {
     "translation": "Judson (1835)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 တီမိုသီ",
     "url": "https://api.getbible.net/v2/judson/55.json",
-    "sha": "ea7dacbdc168ef99b5882827a7371021e7d875f1"
+    "sha": "60ef8167717e64eb646ec90fa5b3353f70cac696"
   },
   "56": {
     "translation": "Judson (1835)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "တီတပ်",
     "url": "https://api.getbible.net/v2/judson/56.json",
-    "sha": "d255ab5c5857ad2f76523ed7c5353950488daf94"
+    "sha": "49c79986e561fae5ae580b2d0434379df31659d2"
   },
   "57": {
     "translation": "Judson (1835)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "ဖီလီမွန်",
     "url": "https://api.getbible.net/v2/judson/57.json",
-    "sha": "fa0a1924a3789959ea9a33280d627168d125b69c"
+    "sha": "ff410d7b64176dd753a221bd14552c4939d2b212"
   },
   "58": {
     "translation": "Judson (1835)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "ဟီဗရူ",
     "url": "https://api.getbible.net/v2/judson/58.json",
-    "sha": "8927d5989609b06e6cff6a0c820b28db0a740d1d"
+    "sha": "70e26c08412405603b05acc580a86bf028458040"
   },
   "59": {
     "translation": "Judson (1835)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "ဂျိမ်း",
     "url": "https://api.getbible.net/v2/judson/59.json",
-    "sha": "814807137d8f437f07d057b9ad3a1ac398e6770e"
+    "sha": "025b2378725b7b7fab67f6503a8d5279f5733f1f"
   },
   "60": {
     "translation": "Judson (1835)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 ပီတာ",
     "url": "https://api.getbible.net/v2/judson/60.json",
-    "sha": "4129e250f2832acee3cdee55da0c95a3cedb71c0"
+    "sha": "63f32267017fbd7f0ae6f61dae9a26514d60f17c"
   },
   "61": {
     "translation": "Judson (1835)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 ပီတာ",
     "url": "https://api.getbible.net/v2/judson/61.json",
-    "sha": "39375748b1ae9b316217d493f383bcac9bd54f78"
+    "sha": "c6bbbe9f2a1d9888ac08a90b4124677b16611392"
   },
   "62": {
     "translation": "Judson (1835)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 ဂျွန်",
     "url": "https://api.getbible.net/v2/judson/62.json",
-    "sha": "b83b6fe9e420c0165ad61897ad6ca68c9469d707"
+    "sha": "edb1a41a617c978790c0a45ffb9f6283baedf938"
   },
   "63": {
     "translation": "Judson (1835)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 ဂျွန်",
     "url": "https://api.getbible.net/v2/judson/63.json",
-    "sha": "168b903d0d710c147c28e3a256e76903c0eefd7b"
+    "sha": "f43cd3a7f2b9fad5a56c208978daf8c553b7eff8"
   },
   "64": {
     "translation": "Judson (1835)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 ဂျွန်",
     "url": "https://api.getbible.net/v2/judson/64.json",
-    "sha": "b15d23e7bd1be147633341ffff80cc8340b7e56d"
+    "sha": "634dd05432b3af4cd4dbbede1dfcd03341345d1d"
   },
   "65": {
     "translation": "Judson (1835)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "ဂျုဒီ",
     "url": "https://api.getbible.net/v2/judson/65.json",
-    "sha": "9225d86c0d272a4a767a5ebed757ea72f83c5f69"
+    "sha": "e8d1ad9e109aec40004bc67189ade9afb6bc524d"
   },
   "66": {
     "translation": "Judson (1835)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "ပေးကြီးကြယ်ကွင်း",
     "url": "https://api.getbible.net/v2/judson/66.json",
-    "sha": "b963652fc5b33fb272a8700654e5cad4624c20e2"
+    "sha": "1096c22490dedf6e016de78c6c5f8a454f01ed7e"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filiplastele",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filiplastele 1",
     "url": "https://api.getbible.net/v2/estonian/50/1.json",
-    "sha": "d0a48e95e0f5f8aa8d5f01933509338ab3d0d63d"
+    "sha": "b790887d211b224675efc87d4939fb27d6d9c823"
   },
   "2": {
     "translation": "Estonian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filiplastele",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filiplastele 2",
     "url": "https://api.getbible.net/v2/estonian/50/2.json",
-    "sha": "a9199b05a5b40dfb8ec13675aaf9462f8cf30d1a"
+    "sha": "fbb15d3efa6e133f5a335df08a51843ff4df3a90"
   },
   "3": {
     "translation": "Estonian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filiplastele",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filiplastele 3",
     "url": "https://api.getbible.net/v2/estonian/50/3.json",
-    "sha": "6ef66d749a36143b8530052e2a95722248697812"
+    "sha": "f9ba1b1004a42e16bd34b617d1aeb986a145d9a4"
   },
   "4": {
     "translation": "Estonian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filiplastele",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filiplastele 4",
     "url": "https://api.getbible.net/v2/estonian/50/4.json",
-    "sha": "3c9f3fb5768377fcc098e564e63ed2204bbd20f4"
+    "sha": "05197db82623bc125d762c69c2abeaeaca7eefa5"
   }
 }

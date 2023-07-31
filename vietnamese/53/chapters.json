@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tê-sa-lô-ni-ca",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Tê-sa-lô-ni-ca 1",
     "url": "https://api.getbible.net/v2/vietnamese/53/1.json",
-    "sha": "879ebd012969e9e91bba3695f01c82a5a72a2809"
+    "sha": "ddb9fafb00b759c385a0f0077da4949ea70e8ddc"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tê-sa-lô-ni-ca",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Tê-sa-lô-ni-ca 2",
     "url": "https://api.getbible.net/v2/vietnamese/53/2.json",
-    "sha": "055ed8bb01273dd8498cccc3406a805207262f1c"
+    "sha": "6ded94b45915668b9b6d7b438e023e20539514be"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tê-sa-lô-ni-ca",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Tê-sa-lô-ni-ca 3",
     "url": "https://api.getbible.net/v2/vietnamese/53/3.json",
-    "sha": "503b49119dfbee2371383ee427c681a48f63d492"
+    "sha": "11065e5eefa13301e566c2f12e1a533723531276"
   }
 }

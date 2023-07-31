@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakis bok",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malakis bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/39/1.json",
-    "sha": "b557c3c0d0844088135ebd0039603afc3fa35f09"
+    "sha": "a0a56ee2f37be0de547aa2c821a3f1b9d662c8b7"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakis bok",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malakis bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/39/2.json",
-    "sha": "06cb240063344cd2972da76fb53f6481f2995712"
+    "sha": "5f71c06688ccd56455b93952ee32a8d16421437a"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakis bok",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malakis bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/39/3.json",
-    "sha": "2290e1126610a6ac70b2fb8f4f7fe7b3167fb557"
+    "sha": "80c79f393f5e963784f22621af09db9030f1985e"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malakis bok",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malakis bok 4",
     "url": "https://api.getbible.net/v2/bibelselskap/39/4.json",
-    "sha": "94cc89a7a34ee5152ec3c3b7f58a52a574313fdf"
+    "sha": "0bb84267e78f5f440b39fd63be73576e3143c366"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "A-gê",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "A-gê 1",
     "url": "https://api.getbible.net/v2/vietnamese/37/1.json",
-    "sha": "8827eafd153abf290d0d963503e30b83ae027456"
+    "sha": "e424722675e373f5805fe9662c72aa5300d54ccd"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "A-gê",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "A-gê 2",
     "url": "https://api.getbible.net/v2/vietnamese/37/2.json",
-    "sha": "1b4ee28781ccccb531e7f721b747a8f4963db836"
+    "sha": "7b8ac5cef60c6ee2049e6415c7b210d3700a15d1"
   }
 }

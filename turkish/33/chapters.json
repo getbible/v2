@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mika",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Mika 1",
     "url": "https://api.getbible.net/v2/turkish/33/1.json",
-    "sha": "c0d8331188908e86dc152ab6254ee3df660fe053"
+    "sha": "e93c2e848165f6c7243b16f8f24c7be4f3485d75"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mika",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Mika 2",
     "url": "https://api.getbible.net/v2/turkish/33/2.json",
-    "sha": "71092a46c6dc52e3898d358bae4ce136fd754209"
+    "sha": "d8b0371da0bca000ddd877b98291da701b1d7e75"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mika",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Mika 3",
     "url": "https://api.getbible.net/v2/turkish/33/3.json",
-    "sha": "c859ff1320e7390727bd48e10ec87f644a3885f3"
+    "sha": "1b329b37cd51c9305a11fff68a45d98df8198154"
   },
   "4": {
     "translation": "Turkish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mika",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Mika 4",
     "url": "https://api.getbible.net/v2/turkish/33/4.json",
-    "sha": "a775d5cdee0700d2950bde439a3c8cd19475abfd"
+    "sha": "99e41fc59e2b8dbf81b98339aff22ecb16f20458"
   },
   "5": {
     "translation": "Turkish",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mika",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Mika 5",
     "url": "https://api.getbible.net/v2/turkish/33/5.json",
-    "sha": "586b962187eec5e6c3c6634261ee3ed5d4f7f7e2"
+    "sha": "e5c4113d9a38563f1f16c35af908edb6aa75226e"
   },
   "6": {
     "translation": "Turkish",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mika",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Mika 6",
     "url": "https://api.getbible.net/v2/turkish/33/6.json",
-    "sha": "1a4ab1382f4abd87a8c8886165a44fe0ecf15a99"
+    "sha": "1b4469bfae55b41fb23f20b2135f4a621cb20a79"
   },
   "7": {
     "translation": "Turkish",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mika",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Mika 7",
     "url": "https://api.getbible.net/v2/turkish/33/7.json",
-    "sha": "8d9444a69ce757ffba2d52e2015f2335ff8ad029"
+    "sha": "d3738848960b0b4045197567b8c90c0b00db29cf"
   }
 }

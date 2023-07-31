@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "디모데전서",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "디모데전서 1",
     "url": "https://api.getbible.net/v2/korean/54/1.json",
-    "sha": "39793e59151d5c9ff0c3d3cf5fcd35c27a6b0085"
+    "sha": "b9a3f00a4048a930435150e1f7a8c1dc62b99490"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "디모데전서",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "디모데전서 2",
     "url": "https://api.getbible.net/v2/korean/54/2.json",
-    "sha": "bdf5f159310b0574fed9aef77ddef23e44ba0f4b"
+    "sha": "b21b90bd4b867c26c726985fd69db84ebd33fab3"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "디모데전서",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "디모데전서 3",
     "url": "https://api.getbible.net/v2/korean/54/3.json",
-    "sha": "26c930bbf9fc9e1b9d1e1952c6250bcd264b5874"
+    "sha": "d860b8e4e9b33ed12bf7d03f0159dfefc99b6e11"
   },
   "4": {
     "translation": "Korean",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "디모데전서",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "디모데전서 4",
     "url": "https://api.getbible.net/v2/korean/54/4.json",
-    "sha": "39865e339d7db2b370b36189c88f57234d6cbcc7"
+    "sha": "f3c5d5a9d6d08a604a375bf7c7ef867f0fd273f9"
   },
   "5": {
     "translation": "Korean",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "디모데전서",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "디모데전서 5",
     "url": "https://api.getbible.net/v2/korean/54/5.json",
-    "sha": "de86036ada3d7f3130637cc50560cfe7d36e6e2d"
+    "sha": "c45463414412d410d8f88f10014117f3994bbdbf"
   },
   "6": {
     "translation": "Korean",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "디모데전서",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "디모데전서 6",
     "url": "https://api.getbible.net/v2/korean/54/6.json",
-    "sha": "6c2a00e539fc4563805a12cac36a3f58d6c6f36f"
+    "sha": "1e97b57aadaf08dd6d6871ad86cae37aa9c848ef"
   }
 }

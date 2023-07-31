@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 64,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "約翰三書 1",
     "url": "https://api.getbible.net/v2/cut/64/1.json",
-    "sha": "4d9b995101810be1133e7b910b52e224ab260cff"
+    "sha": "2933b5161c9139b02fc2ef3144e416af868d0bdf"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 31,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "俄巴底亚书 1",
     "url": "https://api.getbible.net/v2/cus/31/1.json",
-    "sha": "2c5d522101c22d573d6ed48849e1158685b984bd"
+    "sha": "8972436c39740bc483207e1e846cbe9bbbd0f7fe"
   }
 }

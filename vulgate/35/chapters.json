@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/vulgate/35/1.json",
-    "sha": "aa32192584b73a3795b5f5222e0022d6c45ddfc0"
+    "sha": "5b13937e1a042d730775830ea76271792c37546f"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/vulgate/35/2.json",
-    "sha": "b0c42543884f2ac3c9ff5aab7c978efb88e67ca8"
+    "sha": "bfe9d3bc56061880c6eaa5fa8646faf6ca2bf3c8"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/vulgate/35/3.json",
-    "sha": "4b040fa54437bddc9aacea3a9c8b897fcac54836"
+    "sha": "de68e2d82f1613c121b99a00e7592c3e47d84788"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "베드로후서",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "베드로후서 1",
     "url": "https://api.getbible.net/v2/korean/61/1.json",
-    "sha": "e463de3fc6c75ca4f7e7c83256a6a07b6eed4b44"
+    "sha": "bca0fe64fa013c672735b5394acb2daee81f50e9"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "베드로후서",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "베드로후서 2",
     "url": "https://api.getbible.net/v2/korean/61/2.json",
-    "sha": "28ec60d68c6ba6c0f0fe5e802d080a074f61ad1c"
+    "sha": "d2ea8fdaf3814a74541f86d67b3d259cfa666042"
   },
   "3": {
     "translation": "Korean",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "베드로후서",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "베드로후서 3",
     "url": "https://api.getbible.net/v2/korean/61/3.json",
-    "sha": "1f8ace357ebd202bfd1a37316198ee0557bc96a3"
+    "sha": "d6370b6f099ab423d5382e702fc7823e431737cf"
   }
 }

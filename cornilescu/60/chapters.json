@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petru",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Petru 1",
     "url": "https://api.getbible.net/v2/cornilescu/60/1.json",
-    "sha": "595f53cc8b61991a1f498aa2948d498e27cd7585"
+    "sha": "4bbfd76e3d105bfccda2794108a487706e94011f"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petru",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Petru 2",
     "url": "https://api.getbible.net/v2/cornilescu/60/2.json",
-    "sha": "2b1c9073763d321076eb21ab0be09d2dccd9e90b"
+    "sha": "78316a74a39a8a5838aa80c4158fd7616493f68e"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petru",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Petru 3",
     "url": "https://api.getbible.net/v2/cornilescu/60/3.json",
-    "sha": "0a6e521c07e88398ec0036212ebf6e4528d0366f"
+    "sha": "0f953f60850520800560b29f6d68e5a341c0767d"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petru",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Petru 4",
     "url": "https://api.getbible.net/v2/cornilescu/60/4.json",
-    "sha": "93cbcf33a840d3718ad189170bdb29877436c39e"
+    "sha": "0fb49038e3375e54c35b7734b144177996131b81"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petru",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Petru 5",
     "url": "https://api.getbible.net/v2/cornilescu/60/5.json",
-    "sha": "670e3ee6214553a8cc0c2ad243d1b814169135d7"
+    "sha": "a3e9b8b28c16090f3348542884caa726a7be3d7c"
   }
 }

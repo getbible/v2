@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Baruch 1",
     "url": "https://api.getbible.net/v2/kjva/75/1.json",
-    "sha": "9f09bb168d23a5112c48091ed5455c4711dd0599"
+    "sha": "35ca79d88e4fbd85fc0e75a8969979d86e8c9063"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Baruch 2",
     "url": "https://api.getbible.net/v2/kjva/75/2.json",
-    "sha": "d9bf570216b8f1dcf746db8bc148b37ce58f447c"
+    "sha": "cd4909ab4f2a2809adb280e3ca8eabd72a69ad24"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Baruch 3",
     "url": "https://api.getbible.net/v2/kjva/75/3.json",
-    "sha": "4f26df2d5f245008e029a268f29ef6532aed1645"
+    "sha": "a1c36f9ec998115667e4a56e550bef56a2ded7dc"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "Baruch 4",
     "url": "https://api.getbible.net/v2/kjva/75/4.json",
-    "sha": "7b30ca27adfd5daad90e32950edbd2aff8fe68b9"
+    "sha": "6805b5c74658df00c872c89ff2d6e927c2207f5d"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "Baruch 5",
     "url": "https://api.getbible.net/v2/kjva/75/5.json",
-    "sha": "ae63806bc061a02187f41efae2acd54f25ab017e"
+    "sha": "6cba96417c020d1af6350bb11856680ec2d45fe4"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Baruch 6",
     "url": "https://api.getbible.net/v2/kjva/75/6.json",
-    "sha": "5572dc8cb4a2c58358327afa271314669306bfe0"
+    "sha": "cf61bafbe334e92f93834cd7dcf34cafb81b045b"
   }
 }

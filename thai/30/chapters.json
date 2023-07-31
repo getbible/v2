@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 1,
-    "name": "Amos 1",
+    "name": "อาโมส 1",
     "url": "https://api.getbible.net/v2/thai/30/1.json",
-    "sha": "9a2a887107c14077633648865d81fcb63d5c2190"
+    "sha": "9d638acff75719d313ea6cf359da7bf34f6da952"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 2,
-    "name": "Amos 2",
+    "name": "อาโมส 2",
     "url": "https://api.getbible.net/v2/thai/30/2.json",
-    "sha": "19698a72eb5800eba31b719fcfec1790495aaa60"
+    "sha": "be5c92f0bf21982f6f39b11e3cda3ec54cb9a217"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 3,
-    "name": "Amos 3",
+    "name": "อาโมส 3",
     "url": "https://api.getbible.net/v2/thai/30/3.json",
-    "sha": "bf9290e75ebcd117d668f05aa055b7b956130bdb"
+    "sha": "5434a05241f0416653a2cd26b9fc74ad3c73cb10"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 4,
-    "name": "Amos 4",
+    "name": "อาโมส 4",
     "url": "https://api.getbible.net/v2/thai/30/4.json",
-    "sha": "8c4f549dfcb2bab35a00bc95d50fe17dbe917ee8"
+    "sha": "3a2c60f330b67c0c720e90fdfb034c9fe4bd6eb2"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 5,
-    "name": "Amos 5",
+    "name": "อาโมส 5",
     "url": "https://api.getbible.net/v2/thai/30/5.json",
-    "sha": "fa7c15fb303af7c8875893328f91b042d0165f5d"
+    "sha": "031521c2aaafc6389670d9e0d3a49912bde330aa"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 6,
-    "name": "Amos 6",
+    "name": "อาโมส 6",
     "url": "https://api.getbible.net/v2/thai/30/6.json",
-    "sha": "3254314054a0ab8ed60fc41a0b0709ff8f8b3d85"
+    "sha": "26f7b12120f590cd5f100f52330f258476ed5164"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 7,
-    "name": "Amos 7",
+    "name": "อาโมส 7",
     "url": "https://api.getbible.net/v2/thai/30/7.json",
-    "sha": "632b5a4f3f643db0bf42ef7ba27be725aa5d8312"
+    "sha": "acd3360208a69817c95d010c1fbf6cd707a82c7a"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 8,
-    "name": "Amos 8",
+    "name": "อาโมส 8",
     "url": "https://api.getbible.net/v2/thai/30/8.json",
-    "sha": "6948baeeb60e541932087afb35681e12543777dc"
+    "sha": "e1e279016f3d65fea8f8869e9cae57900bc4c592"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -119,10 +119,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
-    "book_name": "Amos",
+    "book_name": "อาโมส",
     "chapter": 9,
-    "name": "Amos 9",
+    "name": "อาโมส 9",
     "url": "https://api.getbible.net/v2/thai/30/9.json",
-    "sha": "2a85f1883fcf2e7c8e1b3adc24c652010b2ba3f8"
+    "sha": "1e3a39bdef85d72906453845ff60771cb04c33f7"
   }
 }

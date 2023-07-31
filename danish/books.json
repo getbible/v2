@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "1 Mosebog",
     "url": "https://api.getbible.net/v2/danish/1.json",
-    "sha": "f763ef1822bf49a6b16d14bcf9923dfc172e04dd"
+    "sha": "3ef539aa044df9849b4bf79022ab531a7b62a0e4"
   },
   "2": {
     "translation": "Danish",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "2 Mosebog",
     "url": "https://api.getbible.net/v2/danish/2.json",
-    "sha": "e44ff27144cf8f576eff36a3bcb73ddfe89ade6e"
+    "sha": "8e5ba4298224a36f27986d307c999c30d72b7f7f"
   },
   "3": {
     "translation": "Danish",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "3 Mosebog",
     "url": "https://api.getbible.net/v2/danish/3.json",
-    "sha": "7e7df40aa806b51a4278586590023a001ff927bf"
+    "sha": "d8e1613bec731009b8eb0a733775e16a883de825"
   },
   "4": {
     "translation": "Danish",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "4 Mosebog",
     "url": "https://api.getbible.net/v2/danish/4.json",
-    "sha": "e82a272aa0a481dc053de40c83f8484239ab58bf"
+    "sha": "62887f159c30203d522855e37d603bcdf3bd6067"
   },
   "5": {
     "translation": "Danish",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "5 Mosebog",
     "url": "https://api.getbible.net/v2/danish/5.json",
-    "sha": "a3dc003d1c981133534d874bfe787ae9c5d9fda2"
+    "sha": "1f004c7d00295ab465861c49a6c04e5d9f8577d2"
   },
   "6": {
     "translation": "Danish",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Josvabogen",
     "url": "https://api.getbible.net/v2/danish/6.json",
-    "sha": "2f6951d9fa38969b3f671e046e35f7c80268a225"
+    "sha": "6c03b19875749ee24864be54f483b6f56e1cf84d"
   },
   "7": {
     "translation": "Danish",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Dommerbogen",
     "url": "https://api.getbible.net/v2/danish/7.json",
-    "sha": "e5db476c007eb1a3f138c35b9002815fc7385c46"
+    "sha": "8daad0c30e17ac2ca0a164be566951d1f917a516"
   },
   "8": {
     "translation": "Danish",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Ruths Bog",
     "url": "https://api.getbible.net/v2/danish/8.json",
-    "sha": "d1a7241080e3e25d7db43bc4218641cbc1b51488"
+    "sha": "5638311d12624bacc0dd8428ff2ecdebcc5ce8e6"
   },
   "9": {
     "translation": "Danish",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "1 Samuelsbog",
     "url": "https://api.getbible.net/v2/danish/9.json",
-    "sha": "93a9602e3b43102838cc52eee1ee195eea5677b7"
+    "sha": "9eefd35fd0229b348e352ff7cf9f31eeed7796b7"
   },
   "10": {
     "translation": "Danish",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "2 Samuelsbog",
     "url": "https://api.getbible.net/v2/danish/10.json",
-    "sha": "9e7490b33c1b4651131835e998ecc123372c11b5"
+    "sha": "01af2a1a658fa673c38aebb276a0f479745547e6"
   },
   "11": {
     "translation": "Danish",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Kongebog",
     "url": "https://api.getbible.net/v2/danish/11.json",
-    "sha": "ee65e0c21fc29e17ca7a15f9c990288fb07acb46"
+    "sha": "4265a32691eb4a22f23218606bb259e162d909fb"
   },
   "12": {
     "translation": "Danish",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Kongebog",
     "url": "https://api.getbible.net/v2/danish/12.json",
-    "sha": "a340886d065f31d93f95e890a761114ad1ab2bce"
+    "sha": "592aa61eb5f91023263915de0e6b92222c95153a"
   },
   "13": {
     "translation": "Danish",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Krønikebog",
     "url": "https://api.getbible.net/v2/danish/13.json",
-    "sha": "dba949178c1eef1a9b5bf8e9c7b258b1ee16d56c"
+    "sha": "e227559b5584c72d92057f9a990b9c069cfd4e97"
   },
   "14": {
     "translation": "Danish",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Krønikebog",
     "url": "https://api.getbible.net/v2/danish/14.json",
-    "sha": "86f3802f15cde7044fce0441fc5497ea2df7fd0f"
+    "sha": "5467836397c4c5efadfff41631ea3b293d3eea88"
   },
   "15": {
     "translation": "Danish",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Ezras Bog",
     "url": "https://api.getbible.net/v2/danish/15.json",
-    "sha": "b2755951a91f29b092133159550c1198a5fee6aa"
+    "sha": "9c919ceb94dab8fd3fbe628c0934ccf6ec270a7d"
   },
   "16": {
     "translation": "Danish",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemias' Bog",
     "url": "https://api.getbible.net/v2/danish/16.json",
-    "sha": "7c17fae0a8a6f88ee26f56ab05ab99a520cfcd91"
+    "sha": "743adac8493e3252f93ceb78c39c04a88b55739e"
   },
   "17": {
     "translation": "Danish",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Esters Bog",
     "url": "https://api.getbible.net/v2/danish/17.json",
-    "sha": "e346efa5fbbed6fe5096b3051113df5bdbba72b2"
+    "sha": "fc3e05e81d7161970fb6eed2a04feb47a2a5bcf7"
   },
   "18": {
     "translation": "Danish",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Jobs Bog",
     "url": "https://api.getbible.net/v2/danish/18.json",
-    "sha": "d3524c947fa7997b9df7fa67639f4ea992d04e41"
+    "sha": "1ac07e428086dcdee7dac59b2a209ac11661ca0a"
   },
   "19": {
     "translation": "Danish",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Salmernes Bog",
     "url": "https://api.getbible.net/v2/danish/19.json",
-    "sha": "a823a330781557c037612b5a40f127e38d1f12a5"
+    "sha": "c6095ac7b17273c33020eacfe87d485a3e05254f"
   },
   "20": {
     "translation": "Danish",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Ordsprogenes Bog",
     "url": "https://api.getbible.net/v2/danish/20.json",
-    "sha": "4eae285ca041985ae3f403e2f9e9c769836f876d"
+    "sha": "58ba753f5f2e3532395c4eb0bfe72bf60b112650"
   },
   "21": {
     "translation": "Danish",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Prædikerens Bog",
     "url": "https://api.getbible.net/v2/danish/21.json",
-    "sha": "788d30865d8d5d9d45d9fd13c20488d2429db189"
+    "sha": "8eff037466f07a4e7ad0af135ff13249064a6876"
   },
   "22": {
     "translation": "Danish",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Højsangen",
     "url": "https://api.getbible.net/v2/danish/22.json",
-    "sha": "f0eab8573edff0be3fe304ff2c4323b685c94888"
+    "sha": "a1bfba6ac6cdb65336c1def613fca99e0298fa6b"
   },
   "23": {
     "translation": "Danish",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Esajas' Bog",
     "url": "https://api.getbible.net/v2/danish/23.json",
-    "sha": "10683d2b20cff4aba08e49128f6def2a4b110e19"
+    "sha": "1ab4149748f01dcda60647c64fd11dc8ba34157c"
   },
   "24": {
     "translation": "Danish",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremias' Bog",
     "url": "https://api.getbible.net/v2/danish/24.json",
-    "sha": "49957cae5c1c3c39109c65b8d60c9cc75f4ebbe0"
+    "sha": "bf8b33add8349d5f980cb638b0489d925948e327"
   },
   "25": {
     "translation": "Danish",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Klagesangene",
     "url": "https://api.getbible.net/v2/danish/25.json",
-    "sha": "7dd2fb5f91da25c8583671aa27381aa7ca251209"
+    "sha": "5044092932212cd787afaa6b6cc4cea8c1a97eb9"
   },
   "26": {
     "translation": "Danish",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezekiels Bog",
     "url": "https://api.getbible.net/v2/danish/26.json",
-    "sha": "d584d9e9a31d7a9b3b8dc4b7eb05ff88d9161bd4"
+    "sha": "78d4a0e5d6a3e4898c80f56b0ec1f60e6ea59a58"
   },
   "27": {
     "translation": "Danish",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Daniels Bog",
     "url": "https://api.getbible.net/v2/danish/27.json",
-    "sha": "02e87f1bd225b507b58248425ba63deb64df9982"
+    "sha": "4d543eb461e8332e10a0a1be65c1ad73f99b1639"
   },
   "28": {
     "translation": "Danish",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Hoseas' Bog",
     "url": "https://api.getbible.net/v2/danish/28.json",
-    "sha": "0e6e405dfa02b43bd31090fa28a668275f200282"
+    "sha": "d4cdb7bf7b4df9f1165ac32ddcde166753223b8e"
   },
   "29": {
     "translation": "Danish",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Joels Bog",
     "url": "https://api.getbible.net/v2/danish/29.json",
-    "sha": "004047a919a48ac3cccdabc6d8eb02232130cee2"
+    "sha": "3199556c357bcc6cf2453a776b7f84f0c5365559"
   },
   "30": {
     "translation": "Danish",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Amos' Bog",
     "url": "https://api.getbible.net/v2/danish/30.json",
-    "sha": "0562b2f4888626d620bc4f8b3c9724c76bd44f8e"
+    "sha": "89f24d0c0d24f68e23704ba0f980f373cc38dea8"
   },
   "31": {
     "translation": "Danish",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadias' Bog",
     "url": "https://api.getbible.net/v2/danish/31.json",
-    "sha": "aa6b3b920ed99bce3371f1d998169731c6d68e6d"
+    "sha": "80ff7f3e570ad43b901f92122d8e9df03954acd5"
   },
   "32": {
     "translation": "Danish",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jonas' Bog",
     "url": "https://api.getbible.net/v2/danish/32.json",
-    "sha": "bf9efe4dbf3ad1249652135f3bfab8ae8a13fcff"
+    "sha": "77fa583c86532c5c58e3d226d4cf024585520dc5"
   },
   "33": {
     "translation": "Danish",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Mikas Bog",
     "url": "https://api.getbible.net/v2/danish/33.json",
-    "sha": "04a292e69a3917432b139aabac0731738ed5a51f"
+    "sha": "4cdc4a144ca52a6b9aa068f85cab1b271816eefb"
   },
   "34": {
     "translation": "Danish",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Nahums Bog",
     "url": "https://api.getbible.net/v2/danish/34.json",
-    "sha": "48f3cf90f732725a392b64d5d0c71b03e3b72658"
+    "sha": "8a6c73a2199781f9c13fef7304da8da2d3080d5c"
   },
   "35": {
     "translation": "Danish",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habakkuks Bog",
     "url": "https://api.getbible.net/v2/danish/35.json",
-    "sha": "5b624e595a423f608086f96915a3bc8fe5c80f6c"
+    "sha": "e4633ab5a54bbce5d13f8259b71e373eb736242b"
   },
   "36": {
     "translation": "Danish",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Zefanias' Bog",
     "url": "https://api.getbible.net/v2/danish/36.json",
-    "sha": "159e95aa26de9afebbdff9e8bc2a0046e2ede5ab"
+    "sha": "a696f64aeaf60b7ca36d86fd4d028fec9a4a1da4"
   },
   "37": {
     "translation": "Danish",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Haggais Bog",
     "url": "https://api.getbible.net/v2/danish/37.json",
-    "sha": "a9a6db7230bf2ffb521a3d92c61300ecb93a9957"
+    "sha": "fc9bef816a8a1ab8ee252a2a19dabec29cf45dde"
   },
   "38": {
     "translation": "Danish",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zakarias' Bog",
     "url": "https://api.getbible.net/v2/danish/38.json",
-    "sha": "399570a872d3a019cfeceda7ce999421f9d552e3"
+    "sha": "c113be02c94b264fde219d48e8222b9525a3e06d"
   },
   "39": {
     "translation": "Danish",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malakias' Bog",
     "url": "https://api.getbible.net/v2/danish/39.json",
-    "sha": "3f26e5c414f72fa8f1b8bba552eade3663790bed"
+    "sha": "b8674b6896dcf1cf59582daef443d342e31e6ffd"
   },
   "40": {
     "translation": "Danish",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matthæusevangeliet",
     "url": "https://api.getbible.net/v2/danish/40.json",
-    "sha": "97d270218cfe11c43732f00ebb1d19f5704d469e"
+    "sha": "d64a3bb30c3e75f78eb60f2d4078c98bdf373e79"
   },
   "41": {
     "translation": "Danish",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Markusevangeliet",
     "url": "https://api.getbible.net/v2/danish/41.json",
-    "sha": "51f35595b0c489e5475cf1dc0b95ec69621d2325"
+    "sha": "1340d417ccbdaa83d3992e62c31274fb157fd59a"
   },
   "42": {
     "translation": "Danish",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lukasevangeliet",
     "url": "https://api.getbible.net/v2/danish/42.json",
-    "sha": "634eea981b113a1972b59b7cf319a572d771499b"
+    "sha": "bdd3501c89768d6bf93f1a51b186446e37fbfff4"
   },
   "43": {
     "translation": "Danish",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Johannesevangeliet",
     "url": "https://api.getbible.net/v2/danish/43.json",
-    "sha": "559ccc4e842351ffba2d9d69cde25cadac871ab7"
+    "sha": "f72f6626ebec6c839045ad1864aece91576b1ad6"
   },
   "44": {
     "translation": "Danish",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Apostlenes Gerninger",
     "url": "https://api.getbible.net/v2/danish/44.json",
-    "sha": "aedcad9f25906c671e1efe95c2146798ea099bd7"
+    "sha": "79e405ec69008e173ada1325a08e351260c88ea4"
   },
   "45": {
     "translation": "Danish",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romerbrevet",
     "url": "https://api.getbible.net/v2/danish/45.json",
-    "sha": "01803ebc03b26bb135f1db1c5517569b5f2d5179"
+    "sha": "b0086a6761f929d302216c5188aa624f8b2bdb19"
   },
   "46": {
     "translation": "Danish",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korintherbrev",
     "url": "https://api.getbible.net/v2/danish/46.json",
-    "sha": "7a10b5de3c1ba6ecb960f9376e8c520cbe9ddb98"
+    "sha": "2e135c982ada6eb2580b9fe3f0ae86ec789d4346"
   },
   "47": {
     "translation": "Danish",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korintherbrev",
     "url": "https://api.getbible.net/v2/danish/47.json",
-    "sha": "5ece878b72eccfc6209c992ac159fa88c0964539"
+    "sha": "2ecb5bde990dfebbac5962f6ca379c783d800caf"
   },
   "48": {
     "translation": "Danish",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galaterbrevet",
     "url": "https://api.getbible.net/v2/danish/48.json",
-    "sha": "b4ad65a59e899d1a2c1d6f37a9980ca8dac398d0"
+    "sha": "4539920526d9c48c3c2619b64efd17588bf24a84"
   },
   "49": {
     "translation": "Danish",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efeserbrevet",
     "url": "https://api.getbible.net/v2/danish/49.json",
-    "sha": "c2b0c0e20cfc1295b25bd428b3c9ea0856d79728"
+    "sha": "2e15623200a5cc83754c2fef1dd054c03af28bc1"
   },
   "50": {
     "translation": "Danish",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filipperbrevet",
     "url": "https://api.getbible.net/v2/danish/50.json",
-    "sha": "98a36d3e13e6ab8ec314ab96d4cbdd4b3770c721"
+    "sha": "01b090cf3cf5f8f1611c3ac4e3eebe0bea75ddc4"
   },
   "51": {
     "translation": "Danish",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Kolossenserbrevet",
     "url": "https://api.getbible.net/v2/danish/51.json",
-    "sha": "72d7618bf9bd250f336e124246d54f4780b10b9e"
+    "sha": "3915f230d7b6941a968a4af7f8f2b8ef043f2385"
   },
   "52": {
     "translation": "Danish",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Thessalonikerbrev",
     "url": "https://api.getbible.net/v2/danish/52.json",
-    "sha": "8b43270261af3bb591f3fe1ec4232158749a8d1c"
+    "sha": "459370158e3e244c8dfdd46a3edc933e656e8135"
   },
   "53": {
     "translation": "Danish",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Thessalonikerbrev",
     "url": "https://api.getbible.net/v2/danish/53.json",
-    "sha": "8dbe08ce06a792097fc0fe6299ef113f9567109b"
+    "sha": "506317055f1dbe2d335416f5b68de495fa995e73"
   },
   "54": {
     "translation": "Danish",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timotheusbrev",
     "url": "https://api.getbible.net/v2/danish/54.json",
-    "sha": "3dc0c6326f0e36454efdaf20436dc9d78caecb4b"
+    "sha": "33d52f6975e68e8020660453b50e86064e4a1083"
   },
   "55": {
     "translation": "Danish",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timotheusbrev",
     "url": "https://api.getbible.net/v2/danish/55.json",
-    "sha": "2754eb33d45c94897c0c3850c9c38de61bd859e5"
+    "sha": "9901552b6831f94359ab8d586ce349b4ce185114"
   },
   "56": {
     "translation": "Danish",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Titusbrevet",
     "url": "https://api.getbible.net/v2/danish/56.json",
-    "sha": "beb8b7b48b484a6f1c4348d9983ed5710e993178"
+    "sha": "bd83b837af2f111f02cbc40dda49a7cda7479b37"
   },
   "57": {
     "translation": "Danish",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemonbrevet",
     "url": "https://api.getbible.net/v2/danish/57.json",
-    "sha": "0988a86a0d58da301569ba714d20f4ae941ccace"
+    "sha": "43b162cc4d255c66cef955e1af7279b74cbabcd6"
   },
   "58": {
     "translation": "Danish",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebræerbrevet",
     "url": "https://api.getbible.net/v2/danish/58.json",
-    "sha": "327875d6a39694e97eff7ab299cc3c1bbbd0f8aa"
+    "sha": "4e33949f8947d8112293559ce2f9218321400f78"
   },
   "59": {
     "translation": "Danish",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jakobsbrevet",
     "url": "https://api.getbible.net/v2/danish/59.json",
-    "sha": "4a63fbd7870d1713072027dbf997a570cb44bfe2"
+    "sha": "c29c75ac9cdba60dcc11e5dd7aa3e722018619b8"
   },
   "60": {
     "translation": "Danish",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Petersbrev",
     "url": "https://api.getbible.net/v2/danish/60.json",
-    "sha": "b07ce46e7bc9904d3fd9141d4b5c60fcb123e60f"
+    "sha": "3a88029586a974302b151fcffde2032d5eca1172"
   },
   "61": {
     "translation": "Danish",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Petersbrev",
     "url": "https://api.getbible.net/v2/danish/61.json",
-    "sha": "b34273d9f85ffe18bea97057aef58906e49d2d4d"
+    "sha": "39e9c43fc7ea36c981daee4a81444f38e66c152f"
   },
   "62": {
     "translation": "Danish",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Johannesbrev",
     "url": "https://api.getbible.net/v2/danish/62.json",
-    "sha": "46523b84675a5b679a429a96ff98a303c30713c9"
+    "sha": "542b020924378eb2d84142ccfebc48cbd4ebcbd3"
   },
   "63": {
     "translation": "Danish",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Johannesbrev",
     "url": "https://api.getbible.net/v2/danish/63.json",
-    "sha": "3231851283b85b10bdc290c75b4c27b63ca40de5"
+    "sha": "facbe5bb5cb17b6652befbc345adfb0724aa4c77"
   },
   "64": {
     "translation": "Danish",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Johannesbrev",
     "url": "https://api.getbible.net/v2/danish/64.json",
-    "sha": "fec91b30117fd816a6f18e49dc1e0a3c77d39a9b"
+    "sha": "e6aba76ae5690ffe84ffc1812223467d3f40e720"
   },
   "65": {
     "translation": "Danish",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judasbrevet",
     "url": "https://api.getbible.net/v2/danish/65.json",
-    "sha": "3a81b7fcbfda9830988acb66d7d9dfe880edce4d"
+    "sha": "24051058b1925d8c7a0de3bf9782575bdaacf8f6"
   },
   "66": {
     "translation": "Danish",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Johannes' Åbenbaring",
     "url": "https://api.getbible.net/v2/danish/66.json",
-    "sha": "9c0077f7c0071e72c81e39e5309a73d8da900594"
+    "sha": "36f685af3c1c7678ccef30de653a593d3a1ea3ad"
   }
 }

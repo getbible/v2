@@ -3,42 +3,42 @@
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "נַחוּם",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "נַחוּם 1",
     "url": "https://api.getbible.net/v2/codex/34/1.json",
-    "sha": "343caedcc236a49c0cbb738eacee0e78848b3dad"
+    "sha": "c6c4a5d25cfb2ea9b8ab6824c3dc1f9b19d06e87"
   },
   "2": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "נַחוּם",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "נַחוּם 2",
     "url": "https://api.getbible.net/v2/codex/34/2.json",
-    "sha": "2be0d7dbc50011848292e18e817cf89f6368660c"
+    "sha": "99b8ac70378444c3d1a5c53b0ff1a413a57b7ae8"
   },
   "3": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "נַחוּם",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "נַחוּם 3",
     "url": "https://api.getbible.net/v2/codex/34/3.json",
-    "sha": "f45a9cbe50b0c4d831b92e7222b9db65cf06524d"
+    "sha": "9c66e5eb90da72223729a2f76ccf9558c59643a2"
   }
 }

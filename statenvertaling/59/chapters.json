@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobus",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakobus 1",
     "url": "https://api.getbible.net/v2/statenvertaling/59/1.json",
-    "sha": "e4c518e177fb8624e4ab2ca0d10e4098e72d83eb"
+    "sha": "bc55e7f9d89df7422d816b818ec992e3032f8f58"
   },
   "2": {
     "translation": "Dutch Staten Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobus",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakobus 2",
     "url": "https://api.getbible.net/v2/statenvertaling/59/2.json",
-    "sha": "61496302940b890b8ad95d8ea7833518657c1be6"
+    "sha": "73b85bf95944b6f23b1eee05c1268427bfedc14f"
   },
   "3": {
     "translation": "Dutch Staten Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobus",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakobus 3",
     "url": "https://api.getbible.net/v2/statenvertaling/59/3.json",
-    "sha": "8eadff95beda542da2bec0df1dd7fb4e753cc601"
+    "sha": "f62ac9a7bc517f79154e523cb30fcb2495897507"
   },
   "4": {
     "translation": "Dutch Staten Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobus",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakobus 4",
     "url": "https://api.getbible.net/v2/statenvertaling/59/4.json",
-    "sha": "8222cb6243fed1ccec6f7e3bd6858d75d7716bf5"
+    "sha": "b981a9423e24f17f11932b09b38190e87a4e2e96"
   },
   "5": {
     "translation": "Dutch Staten Vertaling",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobus",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakobus 5",
     "url": "https://api.getbible.net/v2/statenvertaling/59/5.json",
-    "sha": "c3524511d49cad3452d11c85375d0eb8b39c0a2f"
+    "sha": "c332c5bf1bbccae00af328bd1ec0e4e7d71a3ee8"
   }
 }

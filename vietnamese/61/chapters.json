@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Phi-rơ",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Phi-rơ 1",
     "url": "https://api.getbible.net/v2/vietnamese/61/1.json",
-    "sha": "00e421a63e1137f4f96fbcfd749e5274ae23a094"
+    "sha": "8eaa38570a42a1aba52999607f90ae4021c928c5"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Phi-rơ",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Phi-rơ 2",
     "url": "https://api.getbible.net/v2/vietnamese/61/2.json",
-    "sha": "3076fdbbf0247b7a178829b8378e080f4fde2cfb"
+    "sha": "c99027a53dff3e2a3dd2bf1dd1c9757474226190"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Phi-rơ",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Phi-rơ 3",
     "url": "https://api.getbible.net/v2/vietnamese/61/3.json",
-    "sha": "0d7235d66279ea1ed8b62c3a4eedbd4dba877679"
+    "sha": "5b52eb2efec4e45631d05f290cfae1b73fd7ff33"
   }
 }

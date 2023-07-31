@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Solunjanima",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Solunjanima 1",
     "url": "https://api.getbible.net/v2/croatia/53/1.json",
-    "sha": "36c852de3cfb37fb8f63a8814063e0a93579944d"
+    "sha": "7b5f2d8707740c0b5bdd80a89cd88fdf83b16185"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Solunjanima",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Solunjanima 2",
     "url": "https://api.getbible.net/v2/croatia/53/2.json",
-    "sha": "06567fb0b859f682eb7baa6c1f6d36e85e6b0227"
+    "sha": "c076b83cd25fac906740fbb9136a5e9fa6f3c5d9"
   },
   "3": {
     "translation": "Croatian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Solunjanima",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Solunjanima 3",
     "url": "https://api.getbible.net/v2/croatia/53/3.json",
-    "sha": "c67321e6856d9b3f0bffb20f97abbb47437cd18c"
+    "sha": "d5519a1c3b27b6886fb6964044dda76904386f28"
   }
 }

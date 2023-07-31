@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobsbrevet",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakobsbrevet 1",
     "url": "https://api.getbible.net/v2/danish/59/1.json",
-    "sha": "b07a853c97066e200c2302bc4cafdaace9023172"
+    "sha": "89fb3e082a71a3eb795d760fddfbbea4af7e5215"
   },
   "2": {
     "translation": "Danish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobsbrevet",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakobsbrevet 2",
     "url": "https://api.getbible.net/v2/danish/59/2.json",
-    "sha": "e56360a2e44dac96809c9a5dfd42221ddbf17777"
+    "sha": "78245a6632dedb2dcdf2463f75b1113a448b7aa1"
   },
   "3": {
     "translation": "Danish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobsbrevet",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakobsbrevet 3",
     "url": "https://api.getbible.net/v2/danish/59/3.json",
-    "sha": "b9433293bce182b428075f1a91b0bb79ce77bdcb"
+    "sha": "2e4b0ef583f686f45d99bf993d8d5d2aa05301fd"
   },
   "4": {
     "translation": "Danish",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobsbrevet",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakobsbrevet 4",
     "url": "https://api.getbible.net/v2/danish/59/4.json",
-    "sha": "c9e23ad14bffa40587a0e3e1d93681146c31af68"
+    "sha": "2a584e185bdf3f133ccc11d5352111d6cf600e75"
   },
   "5": {
     "translation": "Danish",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobsbrevet",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakobsbrevet 5",
     "url": "https://api.getbible.net/v2/danish/59/5.json",
-    "sha": "e963ca51cb61d431211800f82481550049aac80c"
+    "sha": "45436ddf08791979c7f6f7f696afac8ced62295c"
   }
 }

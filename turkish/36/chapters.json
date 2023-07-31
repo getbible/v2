@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanya",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sefanya 1",
     "url": "https://api.getbible.net/v2/turkish/36/1.json",
-    "sha": "428e7119488f35c38b351ead24e9e68d2d91e783"
+    "sha": "fb828e837591168c4b37e407a3afc296e6dbc97f"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanya",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sefanya 2",
     "url": "https://api.getbible.net/v2/turkish/36/2.json",
-    "sha": "5c55ca113d8f2ec0b0bbe958797bce443958be39"
+    "sha": "130bf42e6eaeadc197f6de2a4adfd6402462e352"
   },
   "3": {
     "translation": "Turkish",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanya",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sefanya 3",
     "url": "https://api.getbible.net/v2/turkish/36/3.json",
-    "sha": "95445e6f0ea5c8ffd72d47207260ad2974227eff"
+    "sha": "cd7385d5e7b00748c8a0fc95825ce745b9de1047"
   }
 }

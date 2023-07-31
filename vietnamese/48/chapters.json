@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Ga-la-ti",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Ga-la-ti 1",
     "url": "https://api.getbible.net/v2/vietnamese/48/1.json",
-    "sha": "24f7802de7860d50b3289325085c95ac74de4c87"
+    "sha": "8327ed71ef8df3fcb6c51499ab9c74314d8f25cb"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Ga-la-ti",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Ga-la-ti 2",
     "url": "https://api.getbible.net/v2/vietnamese/48/2.json",
-    "sha": "b8fdba455c66c8fc2632c50520df32f6fa62b810"
+    "sha": "45ccb05c59af197eb906c832ea12a50045c91e4e"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Ga-la-ti",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Ga-la-ti 3",
     "url": "https://api.getbible.net/v2/vietnamese/48/3.json",
-    "sha": "f3368c843d471cd95b010cbea14f9d4fc35f8798"
+    "sha": "10966cf08f0b7f254ee4c8b28a09f9d2c9b91c50"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Ga-la-ti",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Ga-la-ti 4",
     "url": "https://api.getbible.net/v2/vietnamese/48/4.json",
-    "sha": "9197f427bc854e2136a800859cb45a19886aee2c"
+    "sha": "aade776fb6fdfa29dcc82c8850ace57e422ead2c"
   },
   "5": {
     "translation": "Vietnamese (1934)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Ga-la-ti",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Ga-la-ti 5",
     "url": "https://api.getbible.net/v2/vietnamese/48/5.json",
-    "sha": "1adb193c110e5d10bbef7e0a471f0df9e84fabf3"
+    "sha": "641d2def1fecca6a3827dbff279b16fce37836dd"
   },
   "6": {
     "translation": "Vietnamese (1934)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Ga-la-ti",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Ga-la-ti 6",
     "url": "https://api.getbible.net/v2/vietnamese/48/6.json",
-    "sha": "a1cd9482c372dffd805161acc9809849db0e5952"
+    "sha": "d0f6e9a6c7312a32a490ce93258800adf423ade8"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "ناحوم",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "ناحوم 1",
     "url": "https://api.getbible.net/v2/arabicsv/34/1.json",
-    "sha": "754a654bb7e11707b341e86695b79ee6a1c06c24"
+    "sha": "127e6228a5a3be15dfa94f49cc7442d4316dd31d"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "ناحوم",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "ناحوم 2",
     "url": "https://api.getbible.net/v2/arabicsv/34/2.json",
-    "sha": "a25c92c8b800319ecc07bb2ee5e3c6411204a5ca"
+    "sha": "98c3160a5aa79374aea0592e9283e3cff285369e"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,10 +35,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "ناحوم",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "ناحوم 3",
     "url": "https://api.getbible.net/v2/arabicsv/34/3.json",
-    "sha": "b405773871742556863746d46a3ce871d968066e"
+    "sha": "262fd94f8f06b935e5d136c2e960bd97b4188bb7"
   }
 }

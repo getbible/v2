@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Naĥum",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Naĥum 1",
     "url": "https://api.getbible.net/v2/esperanto/34/1.json",
-    "sha": "2b8458b17f944d2453a604059adc7a4bfb427c59"
+    "sha": "c359bd4863e8d4cd4186bf508caaf2e7071b3ae9"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Naĥum",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Naĥum 2",
     "url": "https://api.getbible.net/v2/esperanto/34/2.json",
-    "sha": "caf49c7510ac0b763e02a91524a96703f31839f1"
+    "sha": "34aef1d7975b5ba617d99d027d58415405d319c1"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Naĥum",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Naĥum 3",
     "url": "https://api.getbible.net/v2/esperanto/34/3.json",
-    "sha": "32083e5a124e496180fe4a511be25ed08c433640"
+    "sha": "c44838666837518fd1907d55b600feaa271a2b3a"
   }
 }

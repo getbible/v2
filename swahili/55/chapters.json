@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheo",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timotheo 1",
     "url": "https://api.getbible.net/v2/swahili/55/1.json",
-    "sha": "de7e5c7d2f0b1b899e4cab6d2a96de93041d0a23"
+    "sha": "6f8a03d6531cdbed95b780203762503271e4d337"
   },
   "2": {
     "translation": "Swahili",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheo",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timotheo 2",
     "url": "https://api.getbible.net/v2/swahili/55/2.json",
-    "sha": "bca248c13486c2f76fa4da89841766188390e2c7"
+    "sha": "58bd947287300973d91abd681f95a9d3035b6ec9"
   },
   "3": {
     "translation": "Swahili",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheo",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timotheo 3",
     "url": "https://api.getbible.net/v2/swahili/55/3.json",
-    "sha": "195dcdf15c4c5f864350a24660eef638dcf8ec9c"
+    "sha": "dbf10e887a1c0e7c99f6d16e1484b075bdc8c72b"
   },
   "4": {
     "translation": "Swahili",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timotheo",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timotheo 4",
     "url": "https://api.getbible.net/v2/swahili/55/4.json",
-    "sha": "307245d907e719e89c94b81bc877f055e03ac16f"
+    "sha": "06e061e1230575fd2e1fc92b5b9ca583ffd8c7c2"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "Ensimmäinen Pietarin kirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/60/1.json",
-    "sha": "1595f05191e15bbd1dd0f47b6293d78459aa7ee4"
+    "sha": "bf441ab861258c4576c15e2fb557489065d84eec"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "Ensimmäinen Pietarin kirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/60/2.json",
-    "sha": "9c01682a3e20e57aa9393e0cb44649536d2eace4"
+    "sha": "b7ffdea3b352005b66df262ad69eeeb1aba5d261"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "Ensimmäinen Pietarin kirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/60/3.json",
-    "sha": "34d5245d853e6205d9ddb410a2f2a72071c71e3f"
+    "sha": "de302f4abc651407c3122fddb2687fa2baf526d3"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "Ensimmäinen Pietarin kirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/60/4.json",
-    "sha": "184474633fa1ae4e0acdc413a4e66485dfb2c6e6"
+    "sha": "dca0e269e3b75eb2311daf2352f6d2c4eaff4ad1"
   },
   "5": {
     "translation": "Pyha Raamattu (1992)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Ensimmäinen Pietarin kirje",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "Ensimmäinen Pietarin kirje 5",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/60/5.json",
-    "sha": "ab36a632f0d7f046fa980ac44732c44a03701243"
+    "sha": "f1c17d6e29fcd84f1f8cfc37567483e9fdb581c9"
   }
 }

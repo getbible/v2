@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "צְפַנְיָה 1",
     "url": "https://api.getbible.net/v2/modernhebrew/36/1.json",
-    "sha": "316364a18d661860b4942e3f9502c9bde33e244f"
+    "sha": "d98dbb167bc043136d6e1de74617745def07d637"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "צְפַנְיָה 2",
     "url": "https://api.getbible.net/v2/modernhebrew/36/2.json",
-    "sha": "35f3a08372401af9ae4d0f902d18510258340504"
+    "sha": "53dcc1564252b18d4da7b3e4a6af94ee22fa9739"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -35,10 +35,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "צְפַנְיָה 3",
     "url": "https://api.getbible.net/v2/modernhebrew/36/3.json",
-    "sha": "86f57032753aba7987b0c2a693b45c58864e2468"
+    "sha": "6be6bcb405f60c8c2244c49f8cb4b95f15273723"
   }
 }

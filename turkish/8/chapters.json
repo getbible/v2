@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Rut 1",
     "url": "https://api.getbible.net/v2/turkish/8/1.json",
-    "sha": "f55108e800cd45151286350c37b11c729dda010d"
+    "sha": "180de3093b461cdcefea0cf8855d6234669fb0d4"
   },
   "2": {
     "translation": "Turkish",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Rut 2",
     "url": "https://api.getbible.net/v2/turkish/8/2.json",
-    "sha": "b076c77de490b67e9207f3058a974c3db9a8eec4"
+    "sha": "6eee2f166a5d1e91f9352be496ce7406bd597daa"
   },
   "3": {
     "translation": "Turkish",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Rut 3",
     "url": "https://api.getbible.net/v2/turkish/8/3.json",
-    "sha": "baf4e4d00be80873e30ece9d283552a6a4512512"
+    "sha": "3be55bbfd8a08c5646ff976b92e0494e2e3e1140"
   },
   "4": {
     "translation": "Turkish",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Rut 4",
     "url": "https://api.getbible.net/v2/turkish/8/4.json",
-    "sha": "cc6364e35b7d400f97cda0f4a3520ab804ed6b20"
+    "sha": "44194444854681cbfe768d5424c9c47a9e60b02e"
   }
 }

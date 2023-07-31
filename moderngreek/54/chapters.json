@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "Προς Τιμόθεον Α' 1",
     "url": "https://api.getbible.net/v2/moderngreek/54/1.json",
-    "sha": "82e46bc8eb5d607bd72ecdc53f826177a9000a31"
+    "sha": "92e2ec94535591c7daf75ebb59335fed1d2fb389"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "Προς Τιμόθεον Α' 2",
     "url": "https://api.getbible.net/v2/moderngreek/54/2.json",
-    "sha": "3846d5c9d8eb22998740e6db451bcfeac10568a3"
+    "sha": "c5af0f33efb5fd0bd71ddac0d7ddf6a26e192a2a"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "Προς Τιμόθεον Α' 3",
     "url": "https://api.getbible.net/v2/moderngreek/54/3.json",
-    "sha": "84b67bcf773677ec66579a1ae644dfd033decd6c"
+    "sha": "cd395121401ddbe90ca25359155b9ff1e507a315"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "Προς Τιμόθεον Α' 4",
     "url": "https://api.getbible.net/v2/moderngreek/54/4.json",
-    "sha": "220bb388a6a52867b5adb9de92740520abfde830"
+    "sha": "82e2ed340c2bc1b74b45aa3f0d0139223646d0b1"
   },
   "5": {
     "translation": "Greek Modern",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "Προς Τιμόθεον Α' 5",
     "url": "https://api.getbible.net/v2/moderngreek/54/5.json",
-    "sha": "719d30c551f068ac7e16b8e5a16edf2969d8a18b"
+    "sha": "fda2fa86e2de9d2c0fdde94067982c378541ba40"
   },
   "6": {
     "translation": "Greek Modern",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "Προς Τιμόθεον Α'",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "Προς Τιμόθεον Α' 6",
     "url": "https://api.getbible.net/v2/moderngreek/54/6.json",
-    "sha": "c9d86df24e953a8119677b9a26fc54b2ffad63cd"
+    "sha": "417de70a71ac07725aa474b6bba731d184723066"
   }
 }

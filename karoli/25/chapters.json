@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Jeremiás siralmai",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Jeremiás siralmai 1",
     "url": "https://api.getbible.net/v2/karoli/25/1.json",
-    "sha": "ec85ab32125d625c1a81e821919f25dda523a8af"
+    "sha": "e143287a3ac77d53069889aa91552f550870bbbf"
   },
   "2": {
     "translation": "Hungarian Karoli",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Jeremiás siralmai",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Jeremiás siralmai 2",
     "url": "https://api.getbible.net/v2/karoli/25/2.json",
-    "sha": "e0165952c3a083966a7063e57e5bb5dad7e4bf9b"
+    "sha": "d531b1292c44c48a0a68e6658431e8b27f526081"
   },
   "3": {
     "translation": "Hungarian Karoli",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Jeremiás siralmai",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Jeremiás siralmai 3",
     "url": "https://api.getbible.net/v2/karoli/25/3.json",
-    "sha": "b371bdffb6173848c6ee33767e083960b681335d"
+    "sha": "1da75fc53b6e0df1cfa7a42f1f4acc7bcda10880"
   },
   "4": {
     "translation": "Hungarian Karoli",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Jeremiás siralmai",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Jeremiás siralmai 4",
     "url": "https://api.getbible.net/v2/karoli/25/4.json",
-    "sha": "de59859a5825d9f90449edf3e7edf4959a479dad"
+    "sha": "02d5204ce698824b6cef6c4aa32f343c5d64cce5"
   },
   "5": {
     "translation": "Hungarian Karoli",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Jeremiás siralmai",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Jeremiás siralmai 5",
     "url": "https://api.getbible.net/v2/karoli/25/5.json",
-    "sha": "5884281b7f2367ae75d955cb823b75c6906e3daa"
+    "sha": "fd4d0a31b6f9ad9dbbb5707d587f493d1784dd39"
   }
 }

@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Numeri",
     "url": "https://api.getbible.net/v2/vulgate/4.json",
-    "sha": "7021806e53000bc9b1fe197d39f35e4c047e1819"
+    "sha": "1bca775c141d3190178b975c3321302813ade957"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomium",
     "url": "https://api.getbible.net/v2/vulgate/5.json",
-    "sha": "053da35cc6de3e8cd2ec82c772cfd52f8b76be7a"
+    "sha": "eaceb42225b6ce73204a3445a19bf5fda96cdb5c"
   },
   "6": {
     "translation": "Vulgata Clementina",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Iosue",
     "url": "https://api.getbible.net/v2/vulgate/6.json",
-    "sha": "dd299e92702e29ac23ec2fa05f66edc95cd43af3"
+    "sha": "e20d52fa82ac12633c909455d84c2990282fcc27"
   },
   "7": {
     "translation": "Vulgata Clementina",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Iudicum",
     "url": "https://api.getbible.net/v2/vulgate/7.json",
-    "sha": "61c6e50b18909420017a0949b8969c68823490e9"
+    "sha": "7eca7a02e25ecf176c8620251b4a5a2ac34c7fb2"
   },
   "8": {
     "translation": "Vulgata Clementina",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "I Samuelis",
     "url": "https://api.getbible.net/v2/vulgate/9.json",
-    "sha": "45f15ec4c18220af7b6f9d5c030eed16b4755797"
+    "sha": "ecca68a1e30e0043dbe25d2d886367f218b04138"
   },
   "10": {
     "translation": "Vulgata Clementina",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "II Samuelis",
     "url": "https://api.getbible.net/v2/vulgate/10.json",
-    "sha": "fa5fa82503a511596a4e957571e6f25d2c6ba1aa"
+    "sha": "4a20f7ceb082812e3de987c315480aaba1001eaf"
   },
   "11": {
     "translation": "Vulgata Clementina",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "I Regum",
     "url": "https://api.getbible.net/v2/vulgate/11.json",
-    "sha": "4887358c6734855b6559ec686c2bda9f89cf7a9a"
+    "sha": "e5734c595e7a789bc3b28dc0f3bc09b54d53929b"
   },
   "12": {
     "translation": "Vulgata Clementina",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "II Regum",
     "url": "https://api.getbible.net/v2/vulgate/12.json",
-    "sha": "db8a1a0deedc688264f2e41d704d9e005ce4d7c4"
+    "sha": "c6b1429f9fe171190eebd3fe5c4e2297281262ec"
   },
   "13": {
     "translation": "Vulgata Clementina",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "I Paralipomenon",
     "url": "https://api.getbible.net/v2/vulgate/13.json",
-    "sha": "007a5c8c95f56a6741ca4140135db0b76bd602c3"
+    "sha": "4c9aec14d5cc526a1957acef9234e3e38728c16f"
   },
   "14": {
     "translation": "Vulgata Clementina",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "II Paralipomenon",
     "url": "https://api.getbible.net/v2/vulgate/14.json",
-    "sha": "d05f1b983b5f3e847a2b77ca99abac59ede6df7f"
+    "sha": "aee6d29212018a323793d60f909a69ade645fa46"
   },
   "15": {
     "translation": "Vulgata Clementina",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Esdras",
     "url": "https://api.getbible.net/v2/vulgate/15.json",
-    "sha": "c1455ff857577548b2c2ab59cac2555102314ddb"
+    "sha": "9640a2c1d80a21f0b3d3d7ef32f3c0e9ce5fd6a8"
   },
   "16": {
     "translation": "Vulgata Clementina",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemias",
     "url": "https://api.getbible.net/v2/vulgate/16.json",
-    "sha": "9bc9e20a5eed8a008cc9abd37fb7312ba0c54e25"
+    "sha": "3c7a5693b687e6aa8ad2f1b05062d497c73b171f"
   },
   "69": {
     "translation": "Vulgata Clementina",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 69,
-    "name": "Tobit",
+    "name": "Tobias",
     "url": "https://api.getbible.net/v2/vulgate/69.json",
-    "sha": "cb9c5203f44dfa2534e567d1770b222b3c61540d"
+    "sha": "f7de15dd5535562ad8726223ed69fa5fe77152c6"
   },
   "70": {
     "translation": "Vulgata Clementina",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 70,
-    "name": "Judith",
+    "name": "Iudith",
     "url": "https://api.getbible.net/v2/vulgate/70.json",
-    "sha": "0030ee10bc861ef654268d709d4b5b7701b071c0"
+    "sha": "a7fcb8af590cf89db453819078bc5dee154b971d"
   },
   "17": {
     "translation": "Vulgata Clementina",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Iob",
     "url": "https://api.getbible.net/v2/vulgate/18.json",
-    "sha": "395d79c3b352ed97118cd74b0f724b00af771268"
+    "sha": "14cd7e0b8923a7edd4f6d68c806eb0bd79d75e84"
   },
   "19": {
     "translation": "Vulgata Clementina",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Psalmi",
     "url": "https://api.getbible.net/v2/vulgate/19.json",
-    "sha": "88628c3f614bcfee47d793e129a20765bba99cd4"
+    "sha": "dc4f041e1768257c41125462533c87637a99642d"
   },
   "20": {
     "translation": "Vulgata Clementina",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Proverbia",
     "url": "https://api.getbible.net/v2/vulgate/20.json",
-    "sha": "8e3086217e0fdfc2529c5b5b3356587388e15aa3"
+    "sha": "c3c600c7944321d8d468b2a88554eb446923d880"
   },
   "21": {
     "translation": "Vulgata Clementina",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Canticum Canticorum",
     "url": "https://api.getbible.net/v2/vulgate/22.json",
-    "sha": "e91b6acd2f5a1d426741e6183f79f282cdbe2503"
+    "sha": "fba8b3ceb3155836d66cebfebc7514abff112129"
   },
   "73": {
     "translation": "Vulgata Clementina",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 73,
-    "name": "Wisdom",
+    "name": "Sapientia",
     "url": "https://api.getbible.net/v2/vulgate/73.json",
-    "sha": "285c9e271b097d5eff35e530f1d4a34770837b46"
+    "sha": "102fa0364fef54cbbd8fc62027be61cbe9b8b5a0"
   },
   "74": {
     "translation": "Vulgata Clementina",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 74,
-    "name": "Sirach",
+    "name": "Ecclesiasticus",
     "url": "https://api.getbible.net/v2/vulgate/74.json",
-    "sha": "8b2c90075c3f77c45bd350ea43a595203462cf9a"
+    "sha": "d5c64a87a2f82026ffbd8b0313bdce578c98df23"
   },
   "23": {
     "translation": "Vulgata Clementina",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Isaias",
     "url": "https://api.getbible.net/v2/vulgate/23.json",
-    "sha": "c5072b4c06159ca6783a4d971a43140ef5ec7c01"
+    "sha": "ae1aebf533f18349713c28d9d638680bc0d42945"
   },
   "24": {
     "translation": "Vulgata Clementina",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Ieremias",
     "url": "https://api.getbible.net/v2/vulgate/24.json",
-    "sha": "3b08cc861350bdafd4b76fcab27a0e00db1e4a8c"
+    "sha": "f278ccdfd9b82dd0add2ff597fc3efaf5942e000"
   },
   "25": {
     "translation": "Vulgata Clementina",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Lamentationes",
     "url": "https://api.getbible.net/v2/vulgate/25.json",
-    "sha": "48cf2153e7e0e7e8c066f0f908f1460a4f8b0ecf"
+    "sha": "fbec2363748424cee66fc539091828ae4efe4712"
   },
   "75": {
     "translation": "Vulgata Clementina",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezechiel",
     "url": "https://api.getbible.net/v2/vulgate/26.json",
-    "sha": "999f77c61979413dbf897fd26a071169b86fd9f6"
+    "sha": "e0e35d03d33c3eb2858313c656ec9ea61c8f8cf7"
   },
   "27": {
     "translation": "Vulgata Clementina",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Osee",
     "url": "https://api.getbible.net/v2/vulgate/28.json",
-    "sha": "cab6b989704dbcc7784be6d3634470acae186a26"
+    "sha": "879866d306c5e8df94306afc8febdebbae53c693"
   },
   "29": {
     "translation": "Vulgata Clementina",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Ioel",
     "url": "https://api.getbible.net/v2/vulgate/29.json",
-    "sha": "68ca7607511ec3b3137f6c38e0d6e5b28b8b8ab6"
+    "sha": "db6c7a7a28e68b87890bcfd54429d985f98afe5b"
   },
   "30": {
     "translation": "Vulgata Clementina",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Abdias",
     "url": "https://api.getbible.net/v2/vulgate/31.json",
-    "sha": "647d4c74e5cd40892b39286d2d4d68680aac883c"
+    "sha": "4229338aeadac489b4f00567142642ca583dd5e0"
   },
   "32": {
     "translation": "Vulgata Clementina",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Ionas",
     "url": "https://api.getbible.net/v2/vulgate/32.json",
-    "sha": "8686b7a7d040fe7be5f1dd5eedf46f64bc91c811"
+    "sha": "5bccad3ae6ac2d912b8fcaa75e5fc80e6370c3e8"
   },
   "33": {
     "translation": "Vulgata Clementina",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Michaeas",
     "url": "https://api.getbible.net/v2/vulgate/33.json",
-    "sha": "f51671887ba1241eee478dd9f33f1652548e7e92"
+    "sha": "12fabddb738c31568305fa08e20fc8912f9415ba"
   },
   "34": {
     "translation": "Vulgata Clementina",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habacuc",
     "url": "https://api.getbible.net/v2/vulgate/35.json",
-    "sha": "f41f2237c38951395d0e56107571f5984e6e473c"
+    "sha": "0ee0645f813222d2b998faf98ed4cb90c9671543"
   },
   "36": {
     "translation": "Vulgata Clementina",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sophonias",
     "url": "https://api.getbible.net/v2/vulgate/36.json",
-    "sha": "2546b3b2df052ff93bb9fd30fb5a60d48df0f4e8"
+    "sha": "1b471f626625fe704f4e8b26e33627cefc6df58c"
   },
   "37": {
     "translation": "Vulgata Clementina",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Aggaeus",
     "url": "https://api.getbible.net/v2/vulgate/37.json",
-    "sha": "7de0ffb2c5ac08d29e88a32713d1be504a44ec70"
+    "sha": "2645ae2a24559ead09e106f50e2b8d36713d73c1"
   },
   "38": {
     "translation": "Vulgata Clementina",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacharias",
     "url": "https://api.getbible.net/v2/vulgate/38.json",
-    "sha": "68c8159d29cd018ece8e0ce7173dac9b838dafb5"
+    "sha": "903f241c140126ecb871d59c4f62c5a5ef382665"
   },
   "39": {
     "translation": "Vulgata Clementina",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malachias",
     "url": "https://api.getbible.net/v2/vulgate/39.json",
-    "sha": "3318413a606097ca3e7ea109e4cfbfeb55c5bda6"
+    "sha": "ad5d47be58cf2672ec1486af6d92cd74f716801a"
   },
   "80": {
     "translation": "Vulgata Clementina",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 80,
-    "name": "1 Maccabees",
+    "name": "I Maccabaeorum",
     "url": "https://api.getbible.net/v2/vulgate/80.json",
-    "sha": "b9bf55414fcdab8c88f191be9069fb1a00c75213"
+    "sha": "da8b20fcbcc6ed04edb11d062041f213ee5f52db"
   },
   "81": {
     "translation": "Vulgata Clementina",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 81,
-    "name": "2 Maccabees",
+    "name": "II Maccabaeorum",
     "url": "https://api.getbible.net/v2/vulgate/81.json",
-    "sha": "2e8d39641022f91a845811602aaf8bcd9edfb03b"
+    "sha": "5f31f982fc9b766b96375eaaf7f47d096918b215"
   },
   "40": {
     "translation": "Vulgata Clementina",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matthaeus",
     "url": "https://api.getbible.net/v2/vulgate/40.json",
-    "sha": "47369a0ce8ee4476df36242f6d20f501606bd2d4"
+    "sha": "61a06b912ac2f7562065c61c5e0c85614dc0c880"
   },
   "41": {
     "translation": "Vulgata Clementina",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marcus",
     "url": "https://api.getbible.net/v2/vulgate/41.json",
-    "sha": "f6ed116c7b191de5861d99b8fc1141546bdbe3c5"
+    "sha": "33b210e85e22c377ee61df1d7ec9d0ac9d5118c2"
   },
   "42": {
     "translation": "Vulgata Clementina",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lucas",
     "url": "https://api.getbible.net/v2/vulgate/42.json",
-    "sha": "291711acba571ebd900dee46228ce05bb15e517d"
+    "sha": "e9161407b1038f2966ad9a2ebbc9c214e48451ab"
   },
   "43": {
     "translation": "Vulgata Clementina",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Ioannes",
     "url": "https://api.getbible.net/v2/vulgate/43.json",
-    "sha": "872656421f6d24c099d4e61ddb8426592e9d31fa"
+    "sha": "fe9cf59161e9e2fc00fb8b51875a5f26fdbf0ab3"
   },
   "44": {
     "translation": "Vulgata Clementina",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Actus Apostolorum",
     "url": "https://api.getbible.net/v2/vulgate/44.json",
-    "sha": "f25eca584ee22780f93a8413836ab02b3f2a70c6"
+    "sha": "7c9a2865f9c3ed7707c40a749f7bbd2554a12c31"
   },
   "45": {
     "translation": "Vulgata Clementina",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Ad Romanos",
     "url": "https://api.getbible.net/v2/vulgate/45.json",
-    "sha": "780ce35b9f18f0ae3ddfb8018f7b9bd59e5ffa85"
+    "sha": "bfef45ad2b3ef2897fb7ddd3d2b4b9ed9c40e92f"
   },
   "46": {
     "translation": "Vulgata Clementina",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "I Ad Corinthios",
     "url": "https://api.getbible.net/v2/vulgate/46.json",
-    "sha": "19d22a445bc24ecbd63759a643d649edf07fc033"
+    "sha": "96590a0fc8171e0480aad16b8f9295e3718688e1"
   },
   "47": {
     "translation": "Vulgata Clementina",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "II Ad Corinthios",
     "url": "https://api.getbible.net/v2/vulgate/47.json",
-    "sha": "6a97453177956c946648b619545384031d61c67f"
+    "sha": "7f982da023121b307fb37280473c7aa334549c38"
   },
   "48": {
     "translation": "Vulgata Clementina",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Ad Galatas",
     "url": "https://api.getbible.net/v2/vulgate/48.json",
-    "sha": "76bfe43f4d56409e5abd9610f49197395f98db31"
+    "sha": "f7d338185df1eacfaa6496b7eb1b8103f92f4960"
   },
   "49": {
     "translation": "Vulgata Clementina",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Ad Ephesios",
     "url": "https://api.getbible.net/v2/vulgate/49.json",
-    "sha": "37dc03905b5f195f5ae801651ce76b56780ad7e0"
+    "sha": "276f6cd28436aea1423d0195bac7c6ded21e3514"
   },
   "50": {
     "translation": "Vulgata Clementina",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Ad Philippenses",
     "url": "https://api.getbible.net/v2/vulgate/50.json",
-    "sha": "3342bb64bf5b8643f91af97f31748af5ad6b7270"
+    "sha": "3f28ec495dfd6d1166692398f6dd336ddd45ea4d"
   },
   "51": {
     "translation": "Vulgata Clementina",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Ad Colossenses",
     "url": "https://api.getbible.net/v2/vulgate/51.json",
-    "sha": "8cfda87802b2512f8af33a662ca3fa47ea709a81"
+    "sha": "97a51493987365e10ab3dab416cf099a7787a178"
   },
   "52": {
     "translation": "Vulgata Clementina",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "I Ad Thessalonicenses",
     "url": "https://api.getbible.net/v2/vulgate/52.json",
-    "sha": "950f553d5602444c94d97d8bdcf34e521576cd01"
+    "sha": "b4d56283629ad0bb56a7c7551cb37e18991e1c3e"
   },
   "53": {
     "translation": "Vulgata Clementina",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "II Ad Thessalonicenses",
     "url": "https://api.getbible.net/v2/vulgate/53.json",
-    "sha": "24589ea1b4a5bed27b09dbc4ac79efca1786b63d"
+    "sha": "84ecca35b7ca64f4603563fc888380454bbce674"
   },
   "54": {
     "translation": "Vulgata Clementina",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "I Ad Timotheum",
     "url": "https://api.getbible.net/v2/vulgate/54.json",
-    "sha": "11f11b15655d6bc46a17f7a553a4e8103e0a867b"
+    "sha": "dc505a5a2caf52f357d89307dcb1e6e588f1207c"
   },
   "55": {
     "translation": "Vulgata Clementina",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "II Ad Timotheum",
     "url": "https://api.getbible.net/v2/vulgate/55.json",
-    "sha": "fb35cfbcde87c5a5f549e6482b2fc1aff5d4d90b"
+    "sha": "4b09550b8c0af8c89c92242c2112486e6c22fec7"
   },
   "56": {
     "translation": "Vulgata Clementina",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Ad Titum",
     "url": "https://api.getbible.net/v2/vulgate/56.json",
-    "sha": "1bb569a1a2853a29bbf93424978aba292777b0f7"
+    "sha": "12579f1247356501aeb23864f8aa2512b7621433"
   },
   "57": {
     "translation": "Vulgata Clementina",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Ad Philemonem",
     "url": "https://api.getbible.net/v2/vulgate/57.json",
-    "sha": "fa07179ba5e7074476cac73828a501d460b455c3"
+    "sha": "3eab10dc857d1167a74c1788703006dec2e87d34"
   },
   "58": {
     "translation": "Vulgata Clementina",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Ad Hebraeos",
     "url": "https://api.getbible.net/v2/vulgate/58.json",
-    "sha": "8e00f266ef55400085d6f691657b3d37b13f6b32"
+    "sha": "004f401718e30f7c4b2dc70080856a9ef8a793b7"
   },
   "59": {
     "translation": "Vulgata Clementina",
@@ -787,9 +787,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Iacobus",
     "url": "https://api.getbible.net/v2/vulgate/59.json",
-    "sha": "3bbdb2b6b7fd67758589bf83a769642594a9dc99"
+    "sha": "a5af709898c3ed72babc04d3990ae56a9546a703"
   },
   "60": {
     "translation": "Vulgata Clementina",
@@ -799,9 +799,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "I Petri",
     "url": "https://api.getbible.net/v2/vulgate/60.json",
-    "sha": "3a8c236366ebcb3a73fe0fb63b5cf94d27a1ffd6"
+    "sha": "4b1058db37cc0553a150576b5472d3b36839d311"
   },
   "61": {
     "translation": "Vulgata Clementina",
@@ -811,9 +811,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "II Petri",
     "url": "https://api.getbible.net/v2/vulgate/61.json",
-    "sha": "aaa5cd9afb3aa8269ae3a1c2367b636662f33f28"
+    "sha": "9922398b18ca30edd5ec1969531c6c8e65c54993"
   },
   "62": {
     "translation": "Vulgata Clementina",
@@ -823,9 +823,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "I Ioannes",
     "url": "https://api.getbible.net/v2/vulgate/62.json",
-    "sha": "3b375bcda946067c10500312a786ca75d6781e9d"
+    "sha": "87d59c3e5f7f9958319a8dd3c5df7abcb8f59b54"
   },
   "63": {
     "translation": "Vulgata Clementina",
@@ -835,9 +835,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "II Ioannes",
     "url": "https://api.getbible.net/v2/vulgate/63.json",
-    "sha": "78c9f31d0964756546842c429ef38224f375c3df"
+    "sha": "33d02cd7ee2bf52fe492faa66ff85386630002b9"
   },
   "64": {
     "translation": "Vulgata Clementina",
@@ -847,9 +847,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "III Ioannes",
     "url": "https://api.getbible.net/v2/vulgate/64.json",
-    "sha": "e303635add35be8b7df3432710871e46fcead7b7"
+    "sha": "23328373724a73049bb16ec9a966231bf297547a"
   },
   "65": {
     "translation": "Vulgata Clementina",
@@ -859,9 +859,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Iudas",
     "url": "https://api.getbible.net/v2/vulgate/65.json",
-    "sha": "00ae6099ef11726394e4362363212f274c4b3ff3"
+    "sha": "ee4d0f3ef77c6bf3cb135cb52f949eb219bacfc3"
   },
   "66": {
     "translation": "Vulgata Clementina",
@@ -871,8 +871,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Apocalypsis",
     "url": "https://api.getbible.net/v2/vulgate/66.json",
-    "sha": "63b236e8dd9ab8a4eedb3ac309f356380b5304d1"
+    "sha": "30de8b155379e3fc1fc373ecca2bdc1b67b62f97"
   }
 }

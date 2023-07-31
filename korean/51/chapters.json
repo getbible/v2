@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "골로새서",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "골로새서 1",
     "url": "https://api.getbible.net/v2/korean/51/1.json",
-    "sha": "8f666db56f9c2c14205099c7632a959d3176374e"
+    "sha": "f73939bdcb19180eccdc69f7570ffc08ef0c37a6"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "골로새서",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "골로새서 2",
     "url": "https://api.getbible.net/v2/korean/51/2.json",
-    "sha": "c8720b9dfb46b69ebb3358b725b388a69c4055fb"
+    "sha": "9d73634cd9c01b18cf5d72e497ec0096b141a45e"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "골로새서",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "골로새서 3",
     "url": "https://api.getbible.net/v2/korean/51/3.json",
-    "sha": "47241b1c167ae8c992d3d2e3fffa75d4fb64b9e7"
+    "sha": "51b4f8696e2bb3edc518f931d7830161e990f3f8"
   },
   "4": {
     "translation": "Korean",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "골로새서",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "골로새서 4",
     "url": "https://api.getbible.net/v2/korean/51/4.json",
-    "sha": "f24d2e4c17e141d9f6b67daa13a7cc1cc997fb87"
+    "sha": "3ce39cbb5b0e96e3f388c79e02cbdba60f63e904"
   }
 }

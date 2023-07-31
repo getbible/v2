@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tessalonicesi",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Tessalonicesi 1",
     "url": "https://api.getbible.net/v2/giovanni/53/1.json",
-    "sha": "09cf6a3988b6d7ebaad00c5d5a4d22a411426ac8"
+    "sha": "fd14d5f392017349be68e4d59212dc4f8101f741"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tessalonicesi",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Tessalonicesi 2",
     "url": "https://api.getbible.net/v2/giovanni/53/2.json",
-    "sha": "ad00693c4feb163545ed8b669e5fa6a2c4d53476"
+    "sha": "ab512145f0298213931cb6d294b98978deffcec1"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tessalonicesi",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Tessalonicesi 3",
     "url": "https://api.getbible.net/v2/giovanni/53/3.json",
-    "sha": "65a0dedc856f4a90de0a67657d4743a2f1dea484"
+    "sha": "56217f1c06360bfa4e26a2d5f7811c88cea7a462"
   }
 }

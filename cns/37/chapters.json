@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "哈该书 1",
     "url": "https://api.getbible.net/v2/cns/37/1.json",
-    "sha": "03dba49c16914dadb0c12259b078c62d05851521"
+    "sha": "33c94b45293136a95d0edc9c2b9d709aeb0150f8"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "哈该书 2",
     "url": "https://api.getbible.net/v2/cns/37/2.json",
-    "sha": "1bb437936658e8ea117d1966038a8cc335519d1d"
+    "sha": "362c58251080bc0babd89cc7612c187376da8d4c"
   }
 }

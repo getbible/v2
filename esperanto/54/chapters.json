@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timoteo 1",
     "url": "https://api.getbible.net/v2/esperanto/54/1.json",
-    "sha": "e1474a2fc1420b6d027cff24994169fd68778454"
+    "sha": "37f5ba4f3ae087519f083e7aa5c3b1cfc3f202fd"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timoteo 2",
     "url": "https://api.getbible.net/v2/esperanto/54/2.json",
-    "sha": "07074665e2850c8ac0b099905f6fae550264547c"
+    "sha": "78c47f8dc2b8372a8241dc7e9cddedc0bd2e948c"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timoteo 3",
     "url": "https://api.getbible.net/v2/esperanto/54/3.json",
-    "sha": "5c4fe0ad715f777229a7bd9ecba92761a01c77ed"
+    "sha": "e4492b5136d4d4692c5dbead50228231b1209f02"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timoteo 4",
     "url": "https://api.getbible.net/v2/esperanto/54/4.json",
-    "sha": "d058f81c5e1fd332a0033d7148049d08396b7158"
+    "sha": "2d4b5ea60d22640a11c0989b3da4c4d857f96c53"
   },
   "5": {
     "translation": "Esperanto",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timoteo 5",
     "url": "https://api.getbible.net/v2/esperanto/54/5.json",
-    "sha": "54b6984b236421345377e75a2b1bcf37336eab3d"
+    "sha": "e67b9cf5ef1eb73defeb1b279240f2d9eadbd357"
   },
   "6": {
     "translation": "Esperanto",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timoteo 6",
     "url": "https://api.getbible.net/v2/esperanto/54/6.json",
-    "sha": "c6e998d33cdaa4eb4dd349342ca736834cfdcc41"
+    "sha": "f8d64a3e66ab7a1faad9061c3d2651050044c914"
   }
 }

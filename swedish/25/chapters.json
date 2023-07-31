@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagovisorna",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Klagovisorna 1",
     "url": "https://api.getbible.net/v2/swedish/25/1.json",
-    "sha": "ebda0599caa22094446a37b8e77fb4c369073f40"
+    "sha": "0d1abb41113cc5facaec2c5c00c02e6c524cb7a8"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagovisorna",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Klagovisorna 2",
     "url": "https://api.getbible.net/v2/swedish/25/2.json",
-    "sha": "d01e2b7ae030434d647bd82d274b1926d6cd51dd"
+    "sha": "c6a32a5a222afc17ed5c971cab967250fe53ede6"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagovisorna",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Klagovisorna 3",
     "url": "https://api.getbible.net/v2/swedish/25/3.json",
-    "sha": "f772b6729035cb7916114cfcd229f318bb0674a0"
+    "sha": "d049708e8cb3ea2fef3f0e8abb1f3650729220b4"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagovisorna",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Klagovisorna 4",
     "url": "https://api.getbible.net/v2/swedish/25/4.json",
-    "sha": "657648622342c6a397d7bc6019483f00a318c88e"
+    "sha": "cf355d1374a32bb9300bd5a9a32e8a083fa97775"
   },
   "5": {
     "translation": "Swedish (1917)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Klagovisorna",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Klagovisorna 5",
     "url": "https://api.getbible.net/v2/swedish/25/5.json",
-    "sha": "c4d67d3ee1bfa745b5901246d4f1ea4ed77fa218"
+    "sha": "a1917b37e06bd05d4a63c847f5e638aed638c6b8"
   }
 }

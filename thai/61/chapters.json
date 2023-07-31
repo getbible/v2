@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 เปโตร",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 เปโตร 1",
     "url": "https://api.getbible.net/v2/thai/61/1.json",
-    "sha": "2a02ff2ba277cca3cf7fa742a3075d384ab0ea3e"
+    "sha": "b853868bc521e7b2ffe68d50c543de8df98b7952"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 เปโตร",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 เปโตร 2",
     "url": "https://api.getbible.net/v2/thai/61/2.json",
-    "sha": "414d3d6608fa93bdf73d955cd354ca9f84ec672d"
+    "sha": "c82368566a903362dd915bc140c34ce9ae0bb12d"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 เปโตร",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 เปโตร 3",
     "url": "https://api.getbible.net/v2/thai/61/3.json",
-    "sha": "dffafb22910e96e7f63c0d257566df48f0ad9856"
+    "sha": "78ab85c4f798ad6af4bcbb0a299efaf4f85d68d5"
   }
 }

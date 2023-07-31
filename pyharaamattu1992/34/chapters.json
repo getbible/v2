@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumin kirja",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Nahumin kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/34/1.json",
-    "sha": "b0f3ad0dbad01b1849ed572604a961a972945436"
+    "sha": "e74846968528b4c9bdd6b51032537a4cef8d0529"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumin kirja",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Nahumin kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/34/2.json",
-    "sha": "e75fc919e8e34835d74efb3de9e43aaef4e5f892"
+    "sha": "62089a77882235709c703199a0d3254df27f547a"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumin kirja",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Nahumin kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/34/3.json",
-    "sha": "3080767ac735ac67fbca5af917206c85506b4f7c"
+    "sha": "a72f90033fdf6218312124bb79ff2eec7feb7bfb"
   }
 }

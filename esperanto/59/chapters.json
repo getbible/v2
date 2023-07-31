@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobo",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakobo 1",
     "url": "https://api.getbible.net/v2/esperanto/59/1.json",
-    "sha": "5770197b45d86fc58ae036e9897eb1ee3b63f234"
+    "sha": "a5113b1a86c26cb6216977bbc535768fb5b638fc"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobo",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakobo 2",
     "url": "https://api.getbible.net/v2/esperanto/59/2.json",
-    "sha": "847d55a1f15d0e63e53488b1cc544bdc0b4bc8e9"
+    "sha": "05c5b500189142f09a17f07d642cbe616ca28c4c"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobo",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakobo 3",
     "url": "https://api.getbible.net/v2/esperanto/59/3.json",
-    "sha": "1fd4ae703f78a0022eb4d40644c21eca2d21a4f9"
+    "sha": "c442490b4b5499c1fca55dca37068154faf94bf4"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobo",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakobo 4",
     "url": "https://api.getbible.net/v2/esperanto/59/4.json",
-    "sha": "5a0a2bb75b805891acea77ffdcf3470553bb493d"
+    "sha": "328950f8827e9a145c190f420645cd1244120907"
   },
   "5": {
     "translation": "Esperanto",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakobo",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakobo 5",
     "url": "https://api.getbible.net/v2/esperanto/59/5.json",
-    "sha": "caec37997520cbc57b8e54b6eeea7aaadecd6c1d"
+    "sha": "1fe8d0e2f27999fbda9bccc210e33d179943ed78"
   }
 }

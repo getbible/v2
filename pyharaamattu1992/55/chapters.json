@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Toinen Timoteuskirje",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "Toinen Timoteuskirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/55/1.json",
-    "sha": "dc02d3194872a0ac445d527a2111c4e096f57956"
+    "sha": "d4958ff62fe459304b07d26a0c89e6fb6e72ace4"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Toinen Timoteuskirje",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "Toinen Timoteuskirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/55/2.json",
-    "sha": "842f7cf4e818e8083bd9dd09f5bd02221df57d70"
+    "sha": "cc9fb8fc25b71203d86077c3d6cd1729bf26d47a"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Toinen Timoteuskirje",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "Toinen Timoteuskirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/55/3.json",
-    "sha": "9f9e4717d50c7b882dd39d9f499e8e0f8257fa02"
+    "sha": "3cb5211cc20b80e747b9a15e20d8e7dd674e359a"
   },
   "4": {
     "translation": "Pyha Raamattu (1992)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "Toinen Timoteuskirje",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "Toinen Timoteuskirje 4",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/55/4.json",
-    "sha": "e5d194f784925d247e9f8eac82ab41c2657f7320"
+    "sha": "3025583346be6a3a82daefd65e4e13bbcf864a51"
   }
 }

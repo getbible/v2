@@ -3,7 +3,7 @@
     "translation": "NCV Traditional",
     "abbreviation": "cnt",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 65,
@@ -11,6 +11,6 @@
     "chapter": 1,
     "name": "猶大書 1",
     "url": "https://api.getbible.net/v2/cnt/65/1.json",
-    "sha": "3fbb051fdee78cf3634f003107e3f08c03a06e78"
+    "sha": "b8e24a21c633696ef797462d8f9dfe31a5ddbe27"
   }
 }

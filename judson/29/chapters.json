@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "ဂျိုအဲလ်",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "ဂျိုအဲလ် 1",
     "url": "https://api.getbible.net/v2/judson/29/1.json",
-    "sha": "8bbaab68002620f3d37f2c989c292e4b30bd6929"
+    "sha": "99e549b734007ef877268d000e2f133df9bd4090"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "ဂျိုအဲလ်",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "ဂျိုအဲလ် 2",
     "url": "https://api.getbible.net/v2/judson/29/2.json",
-    "sha": "f6d25ebd20c6ede3241c7a33572a5f266cfe84ca"
+    "sha": "2452cb425cbcf95db05787f381c485ae36dc80b9"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "ဂျိုအဲလ်",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "ဂျိုအဲလ် 3",
     "url": "https://api.getbible.net/v2/judson/29/3.json",
-    "sha": "a9256dd54816cab5defe2497ed0f47cae088e1d6"
+    "sha": "614e490b95464117336f062107e038253a5bbcf9"
   }
 }

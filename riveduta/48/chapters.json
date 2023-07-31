@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galati 1",
     "url": "https://api.getbible.net/v2/riveduta/48/1.json",
-    "sha": "3adf5a56b3615e1f6500354a98b054723314acab"
+    "sha": "6383b30f20ac4f0d9ceadb7be8c9053e2e13466f"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galati 2",
     "url": "https://api.getbible.net/v2/riveduta/48/2.json",
-    "sha": "65075870d504c71abe66e34ef0ffa38e9fb04218"
+    "sha": "3ac8306707c4feb8fbbaa8dd8d967e5f7dd04aba"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galati 3",
     "url": "https://api.getbible.net/v2/riveduta/48/3.json",
-    "sha": "4e4b6a01b9bea8a15dfab1dd9448e4bdb63d6146"
+    "sha": "4816d46ea66a5784c0b3437259ef0b5048a09cdb"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galati 4",
     "url": "https://api.getbible.net/v2/riveduta/48/4.json",
-    "sha": "168f424bf52e3a2f50921629395dbf3e6f9dd941"
+    "sha": "56ac0c09b41a3f367e3c49696d6a8f79fe70a334"
   },
   "5": {
     "translation": "Riveduta Bible (1927)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galati 5",
     "url": "https://api.getbible.net/v2/riveduta/48/5.json",
-    "sha": "691b4f70b34fca559b577e82eeeddfb4854f4e3d"
+    "sha": "567da04230ed901f257ac600e4b53d9f356a0bda"
   },
   "6": {
     "translation": "Riveduta Bible (1927)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galati",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galati 6",
     "url": "https://api.getbible.net/v2/riveduta/48/6.json",
-    "sha": "ae8a0a8c8c78292352007236eeae93724d2b41b6"
+    "sha": "ffe165fdc74b1a8c02e6ee6b4a1e1c1def7614b6"
   }
 }

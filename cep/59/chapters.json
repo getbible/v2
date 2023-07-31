@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakub 1",
     "url": "https://api.getbible.net/v2/cep/59/1.json",
-    "sha": "d9ab17184c5da0ccd062767bcfc28b9460854b1c"
+    "sha": "1d3b8647b0a6ce62bc3e709df086cbe349569d27"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakub 2",
     "url": "https://api.getbible.net/v2/cep/59/2.json",
-    "sha": "ed8d509934e85cac5bd62ca30f2c10116087bea4"
+    "sha": "ee5e5733b2db572a03f7c2a9d34b61823168640f"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakub 3",
     "url": "https://api.getbible.net/v2/cep/59/3.json",
-    "sha": "3c009cdf2534c468ad0affbe6250a38b7250bbe0"
+    "sha": "8d89e46cb214e2e834a195be8a53b66f7eed1cf1"
   },
   "4": {
     "translation": "Czech CEP",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakub 4",
     "url": "https://api.getbible.net/v2/cep/59/4.json",
-    "sha": "49215d2dec7356382f12aacf88fbc779d38a8fcc"
+    "sha": "fa9c2d6fd1576fb75442da8725397d0120bc4524"
   },
   "5": {
     "translation": "Czech CEP",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakub",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakub 5",
     "url": "https://api.getbible.net/v2/cep/59/5.json",
-    "sha": "f4b82924858e3563b0d9c63446ed4c550ab58faa"
+    "sha": "eb6f4b6769611aec12ead5137313596dfab1046f"
   }
 }

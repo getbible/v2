@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Θρήνοι",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Θρήνοι 1",
     "url": "https://api.getbible.net/v2/moderngreek/25/1.json",
-    "sha": "00087080acf90767e10cdd6d48dea5c1d29ba86a"
+    "sha": "3f8521052ebf56a32d73dc11ed7f9865f86b0006"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Θρήνοι",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Θρήνοι 2",
     "url": "https://api.getbible.net/v2/moderngreek/25/2.json",
-    "sha": "bd57d39d0c6efeb1909f95bdbd4b9a5c64bf1f31"
+    "sha": "330f78ad758383f047d8d70f59211a80af5ae0ec"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Θρήνοι",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Θρήνοι 3",
     "url": "https://api.getbible.net/v2/moderngreek/25/3.json",
-    "sha": "aa44541a56cef15fe331ca6cbf9fda2d07958e5c"
+    "sha": "779c7430af24fdd666021770815950796bed5224"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Θρήνοι",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Θρήνοι 4",
     "url": "https://api.getbible.net/v2/moderngreek/25/4.json",
-    "sha": "dbc60b5b4bb26e8f13d7da4c5d01af498835135f"
+    "sha": "56c61df3e75cfd086b0e399bc1ef590e3348106d"
   },
   "5": {
     "translation": "Greek Modern",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Θρήνοι",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Θρήνοι 5",
     "url": "https://api.getbible.net/v2/moderngreek/25/5.json",
-    "sha": "340dfa4e102febba73b2ba837e020e82ccb8b716"
+    "sha": "1bd4940d4186dabd3b5e51d0c144be2e4ef9eb03"
   }
 }

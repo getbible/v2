@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pētera",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Pētera 1",
     "url": "https://api.getbible.net/v2/maori/61/1.json",
-    "sha": "7c34e2465c281648e0eae664cca3ff756b03d5a2"
+    "sha": "544ebdd358851144bf6125af728611a8c5c2f148"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pētera",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Pētera 2",
     "url": "https://api.getbible.net/v2/maori/61/2.json",
-    "sha": "252e77b1422be71b6875bcf0b48c9331c6f7ff7c"
+    "sha": "39c4c899fceef8ebf2210f3d80677b106105713a"
   },
   "3": {
     "translation": "Maori",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pētera",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Pētera 3",
     "url": "https://api.getbible.net/v2/maori/61/3.json",
-    "sha": "e88d5a60c641af0553c7e97dd71f4b19eabe8d9b"
+    "sha": "80c5278ee1761ed9dc87425fa887aff14aea3796"
   }
 }

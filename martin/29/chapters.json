@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joël 1",
     "url": "https://api.getbible.net/v2/martin/29/1.json",
-    "sha": "cb99198759c7494e66c79de9eecec0bfb29fd3d7"
+    "sha": "890c30641560fd8b778194ebed8dccf53f82b1a1"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joël 2",
     "url": "https://api.getbible.net/v2/martin/29/2.json",
-    "sha": "289a4889cb4467d329fa42353a371283eecea809"
+    "sha": "1282bfe23eb7ad333e5f0f82e4d4d1e84e0995c0"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joël",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joël 3",
     "url": "https://api.getbible.net/v2/martin/29/3.json",
-    "sha": "0a9c966b13ad78d5395baf24c634c8efb00592f1"
+    "sha": "79eae56626235392956e1efd619c44cdaa5eeb61"
   }
 }

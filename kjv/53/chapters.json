@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Thessalonians 1",
     "url": "https://api.getbible.net/v2/kjv/53/1.json",
-    "sha": "d86548d69ef7edd4635cd80a8e309642c8c822a8"
+    "sha": "84a8ecda36db5a68c77eadb5687669b0c9be9e1a"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Thessalonians 2",
     "url": "https://api.getbible.net/v2/kjv/53/2.json",
-    "sha": "6955afb5f37c41980d2aae0f49bba1f0d67e9014"
+    "sha": "f8bd6be06e6f612d5f1b02bebd440217e293e2ae"
   },
   "3": {
     "translation": "King James Version",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Thessalonians 3",
     "url": "https://api.getbible.net/v2/kjv/53/3.json",
-    "sha": "56c67926c1fa2e518ce0148ef35552e09b6aea65"
+    "sha": "1663d920d7436f4dcf35d523f73a3bd6a88bca10"
   }
 }

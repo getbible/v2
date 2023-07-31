@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonia",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sofonia 1",
     "url": "https://api.getbible.net/v2/giovanni/36/1.json",
-    "sha": "df8afca304c257f6bf24ccc6951a1d50acd8a8f0"
+    "sha": "5f81114fc2960e73a2501a79abf2e27b947de09f"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonia",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sofonia 2",
     "url": "https://api.getbible.net/v2/giovanni/36/2.json",
-    "sha": "ecd808289d4bc7f2898ce0704f8d3c98852dc555"
+    "sha": "db6564f034ebe5ead3633908b9d128eb91bdbb1a"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonia",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sofonia 3",
     "url": "https://api.getbible.net/v2/giovanni/36/3.json",
-    "sha": "7ab51e807e825d37e7c053e2b6369097ea0fcda8"
+    "sha": "71fab6fa8c5fed30ada1746731d11b7c0c757c8f"
   }
 }

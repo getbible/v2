@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumas",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "Nahumas 1",
     "url": "https://api.getbible.net/v2/lithuanian/34/1.json",
-    "sha": "e2878a70fe020a56b714ce508ed020dc71f28397"
+    "sha": "2b26b6d63055cde7c0958fee616ce782dbdb768f"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumas",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "Nahumas 2",
     "url": "https://api.getbible.net/v2/lithuanian/34/2.json",
-    "sha": "d1604213f133d2184259b84de29bc9328d0fc5a5"
+    "sha": "9f9e8cec5004c9549f42a36c2eb376df54f9fe6f"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "Nahumas",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "Nahumas 3",
     "url": "https://api.getbible.net/v2/lithuanian/34/3.json",
-    "sha": "fbaa8f8f97347d6f66e8557a2aaa90338e240f2c"
+    "sha": "d9ce3f22cf276e58e4500807bddfbd07246b45bf"
   }
 }

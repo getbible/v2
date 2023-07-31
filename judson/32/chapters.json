@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "ဂျိုနာ",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "ဂျိုနာ 1",
     "url": "https://api.getbible.net/v2/judson/32/1.json",
-    "sha": "4ddd11c0bcae8fa1f008ca8d4e13e2a89b6de2b2"
+    "sha": "4be323caec5b4b322cb31358c44659af6128711c"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "ဂျိုနာ",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "ဂျိုနာ 2",
     "url": "https://api.getbible.net/v2/judson/32/2.json",
-    "sha": "02b69988ae9b3ed8681f78954388e1e4490bc143"
+    "sha": "0a598e00e33eae67bb5e3f7ed1754c0c0a3f81f3"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "ဂျိုနာ",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "ဂျိုနာ 3",
     "url": "https://api.getbible.net/v2/judson/32/3.json",
-    "sha": "875750b00f94e5518e90b46e009a8528083b99be"
+    "sha": "5f621e56e0fa9072de6a564ada34b64b8b90c81e"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "ဂျိုနာ",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "ဂျိုနာ 4",
     "url": "https://api.getbible.net/v2/judson/32/4.json",
-    "sha": "c3ceb2714b7c564f40af99948b1db285070c02d0"
+    "sha": "70c798b0d2ebbe23614fbfcf743784ebdfcd55b4"
   }
 }

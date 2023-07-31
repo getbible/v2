@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "哈巴谷书 1",
     "url": "https://api.getbible.net/v2/cns/35/1.json",
-    "sha": "50c89646ce11d7f18f3310011db30abbc1f03341"
+    "sha": "213a442f54c39b6bd0a527a5bfe05b3b1618f070"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "哈巴谷书 2",
     "url": "https://api.getbible.net/v2/cns/35/2.json",
-    "sha": "fba0c690e879c6ca9a3312042914b8a2a2e4eea3"
+    "sha": "729a14184486023fca3ead2e7b73a1ffefd08620"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "哈巴谷书 3",
     "url": "https://api.getbible.net/v2/cns/35/3.json",
-    "sha": "85b369cc43e4ea40b53682fe0cda94099de7f114"
+    "sha": "cf7c9fc5c245ccb870725b5d3c3ad476c5515035"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "那鸿书 1",
     "url": "https://api.getbible.net/v2/cus/34/1.json",
-    "sha": "d0460059581ef4f849a0b09f1dc32ffde8b6e400"
+    "sha": "fb48cb3f0590603cadf7db3ee6ce963b32c3ec3f"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "那鸿书 2",
     "url": "https://api.getbible.net/v2/cus/34/2.json",
-    "sha": "1fee052e51d4d35064c9f625686413a460170419"
+    "sha": "4d06a9790dd4e6412ee9b73ced371e10e57a0e78"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "那鸿书 3",
     "url": "https://api.getbible.net/v2/cus/34/3.json",
-    "sha": "ee08cdf7fc19944213be9fbe4261e740c1c7580e"
+    "sha": "0a64196a07bf0fdfa9ccb27d028fd89c91537969"
   }
 }

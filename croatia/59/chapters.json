@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakova",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Jakova 1",
     "url": "https://api.getbible.net/v2/croatia/59/1.json",
-    "sha": "8715452b2dec480f9599d36fbbffc0c54ec4cf09"
+    "sha": "77f155fa2a70df72e930ce2cbe4e81e40e0cd1d1"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakova",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Jakova 2",
     "url": "https://api.getbible.net/v2/croatia/59/2.json",
-    "sha": "2e82b462942f11d09647596d5f01bce9afe24994"
+    "sha": "926ff224717c5567aff9aae17b54b1896a4f3aa3"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakova",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Jakova 3",
     "url": "https://api.getbible.net/v2/croatia/59/3.json",
-    "sha": "8adcbe2f43e0ebf8ea8e9e06490f9b80b81a38d7"
+    "sha": "0e9f288dcebfbb643930941f310d91ca1ddd4fab"
   },
   "4": {
     "translation": "Croatian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakova",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Jakova 4",
     "url": "https://api.getbible.net/v2/croatia/59/4.json",
-    "sha": "e5992b71ba545d9474557c04f18a77ac859af692"
+    "sha": "469d660a2684710074013fea245c5c1aa1508353"
   },
   "5": {
     "translation": "Croatian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Jakova",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Jakova 5",
     "url": "https://api.getbible.net/v2/croatia/59/5.json",
-    "sha": "df26c6ebc0952d6b7214a97b9f6fa994a74e9462"
+    "sha": "c36cc13a6736e730a655739e1bb68bedbd2e0a98"
   }
 }

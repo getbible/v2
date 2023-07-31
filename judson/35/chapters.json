@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "ဟာဗကတ်",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "ဟာဗကတ် 1",
     "url": "https://api.getbible.net/v2/judson/35/1.json",
-    "sha": "06ec133b1184f2afdf70b24c4aa1d7a3b25bf6c2"
+    "sha": "782cd4846766d32f7355fd46cd2a5857819b653b"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "ဟာဗကတ်",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "ဟာဗကတ် 2",
     "url": "https://api.getbible.net/v2/judson/35/2.json",
-    "sha": "a58143212384b14ab20b4969ce519b99061560cd"
+    "sha": "7d60a81358e6b7e1d36337503a3f2ca3e1b82a43"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "ဟာဗကတ်",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "ဟာဗကတ် 3",
     "url": "https://api.getbible.net/v2/judson/35/3.json",
-    "sha": "eadc9cfd742f9c309f78401c0e1c988a558c6b2a"
+    "sha": "7229da28e7c9a6e7c74359888e19dbcd01095a71"
   }
 }

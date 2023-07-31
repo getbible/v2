@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteju",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteju 1",
     "url": "https://api.getbible.net/v2/croatia/55/1.json",
-    "sha": "95f8d5535f1ad232559474d0d9211ee33d1f021e"
+    "sha": "8f24a32428107d49d0f57c43aa1d5e4ef31a0359"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteju",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteju 2",
     "url": "https://api.getbible.net/v2/croatia/55/2.json",
-    "sha": "1fdde5e78fa5a43866362d55a4a31edc16ba4b0b"
+    "sha": "57be61023049d2e575dd55ed93cd6178ae1bb51e"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteju",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteju 3",
     "url": "https://api.getbible.net/v2/croatia/55/3.json",
-    "sha": "0685cd4d013db26cd131094545000b68de236eb9"
+    "sha": "ac064b4a702b330cde1478b5ae600a0936a9f794"
   },
   "4": {
     "translation": "Croatian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteju",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteju 4",
     "url": "https://api.getbible.net/v2/croatia/55/4.json",
-    "sha": "b96ccae035ac30bdd9584973d99c9397bb09b69f"
+    "sha": "82d3bc27b5c56e997da2f5ea4613f9d0dd75e3aa"
   }
 }

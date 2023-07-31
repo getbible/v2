@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikanoj",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Tesalonikanoj 1",
     "url": "https://api.getbible.net/v2/esperanto/52/1.json",
-    "sha": "368ba6a50bcbe4070db12955789a2ab38441dc29"
+    "sha": "61adb0029c640b65f14df7964ab38bd7c7555bc8"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikanoj",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Tesalonikanoj 2",
     "url": "https://api.getbible.net/v2/esperanto/52/2.json",
-    "sha": "f7302814a7e015a775561158e54c21c4b8248bcb"
+    "sha": "4c9beabd36035716b9893e3352e7ebba6b1a677c"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikanoj",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Tesalonikanoj 3",
     "url": "https://api.getbible.net/v2/esperanto/52/3.json",
-    "sha": "4b8c257b5b411f7ca509c550e5c64e31f53e543f"
+    "sha": "78f7883af772b62d3d4bd8d6beedbc08f88ecc0e"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikanoj",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Tesalonikanoj 4",
     "url": "https://api.getbible.net/v2/esperanto/52/4.json",
-    "sha": "72376bf5fc79ab6ff30ae89ca3df164feae52b2d"
+    "sha": "ebce658ff28cf7f68166c7fbaf94702de45e60b3"
   },
   "5": {
     "translation": "Esperanto",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tesalonikanoj",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Tesalonikanoj 5",
     "url": "https://api.getbible.net/v2/esperanto/52/5.json",
-    "sha": "904d4c19ddb076c31938fac5af9f628a557b7f65"
+    "sha": "7d32a479559c966a82303377fbd4e3b59d3f4b6e"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Galatians 1",
     "url": "https://api.getbible.net/v2/kjv/48/1.json",
-    "sha": "e287fd4b99d035c2508cc5f2d699e8221c13e1e6"
+    "sha": "a03d63d9433088b052e2682520227433f581695e"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Galatians 2",
     "url": "https://api.getbible.net/v2/kjv/48/2.json",
-    "sha": "f9e1244dd1e14f0a23e6a2cdf499d83c0b6fd801"
+    "sha": "c1e88ea0459627ee8d205e3b9306f0c0d68b3d09"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Galatians 3",
     "url": "https://api.getbible.net/v2/kjv/48/3.json",
-    "sha": "6e20470c9194540d16ac35b4e1b0520e22a2ed80"
+    "sha": "61b6de85db283eaadde439e5fb95adaad675bce5"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Galatians 4",
     "url": "https://api.getbible.net/v2/kjv/48/4.json",
-    "sha": "b42d12e35affb60085ca24bbf57cb41fc2d2ac31"
+    "sha": "cd309819683436ef6e26829744f7cfe9fef2272d"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Galatians 5",
     "url": "https://api.getbible.net/v2/kjv/48/5.json",
-    "sha": "d9fa98eba2a752fe886353bda459350ac99c44b0"
+    "sha": "ad088822adbb59b4caca460ad5f0401c4571fedd"
   },
   "6": {
     "translation": "King James Version",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galatians 6",
     "url": "https://api.getbible.net/v2/kjv/48/6.json",
-    "sha": "2a29ee621a46aaff11cb7e254138bf9a91ca3073"
+    "sha": "0e7ca4c1e83e9a70dfb2ce07a57c3932801d9632"
   }
 }

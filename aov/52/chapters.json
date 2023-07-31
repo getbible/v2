@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonicense",
+    "book_name": "1 Tessalonisense",
     "chapter": 1,
-    "name": "1 Thessalonicense 1",
+    "name": "1 Tessalonisense 1",
     "url": "https://api.getbible.net/v2/aov/52/1.json",
-    "sha": "dd3665c8454feba96759833c282e74247e1c2565"
+    "sha": "189a3cebf284402deb4e5a847972fd78a4cc38d5"
   },
   "2": {
     "translation": "Ou Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonicense",
+    "book_name": "1 Tessalonisense",
     "chapter": 2,
-    "name": "1 Thessalonicense 2",
+    "name": "1 Tessalonisense 2",
     "url": "https://api.getbible.net/v2/aov/52/2.json",
-    "sha": "d84e2ac8de7d50bdcfa6a5bfbe0fb63df507d8a9"
+    "sha": "d9e3c666712830454431fe0188a7195c2ebeea0d"
   },
   "3": {
     "translation": "Ou Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonicense",
+    "book_name": "1 Tessalonisense",
     "chapter": 3,
-    "name": "1 Thessalonicense 3",
+    "name": "1 Tessalonisense 3",
     "url": "https://api.getbible.net/v2/aov/52/3.json",
-    "sha": "2136aaff48a377bd65ee9bd3e916182a94ac7998"
+    "sha": "31cf9a0a80a62f5fb5cc6f6b28ee51b706fa1412"
   },
   "4": {
     "translation": "Ou Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonicense",
+    "book_name": "1 Tessalonisense",
     "chapter": 4,
-    "name": "1 Thessalonicense 4",
+    "name": "1 Tessalonisense 4",
     "url": "https://api.getbible.net/v2/aov/52/4.json",
-    "sha": "5859d9d9a84b3c6100205a185f66db6369bb6ab4"
+    "sha": "a4b47ede91586903637cbf1cec529a18f918e36f"
   },
   "5": {
     "translation": "Ou Vertaling",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonicense",
+    "book_name": "1 Tessalonisense",
     "chapter": 5,
-    "name": "1 Thessalonicense 5",
+    "name": "1 Tessalonisense 5",
     "url": "https://api.getbible.net/v2/aov/52/5.json",
-    "sha": "253d14bcb5e48e03c4c8a8c10d2f275bf0d0814a"
+    "sha": "b5fd9a081b81a7f6170d165a6f111d237ef52c11"
   }
 }

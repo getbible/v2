@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "حجي",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "حجي 1",
     "url": "https://api.getbible.net/v2/arabicsv/37/1.json",
-    "sha": "3661cbe73b1b71e2f2b735f7033d9a85a50602fb"
+    "sha": "cec3adffb68ad3cd799b72897a6bad81d7f127a7"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,10 +21,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "حجي",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "حجي 2",
     "url": "https://api.getbible.net/v2/arabicsv/37/2.json",
-    "sha": "ff6535bc047cc3e3558f299b4cbc9a6854ad2f29"
+    "sha": "97dff591d202d83749e24aa95bbd8150ff4ff1f3"
   }
 }

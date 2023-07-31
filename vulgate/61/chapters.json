@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "II Petri",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "II Petri 1",
     "url": "https://api.getbible.net/v2/vulgate/61/1.json",
-    "sha": "7ebd0603abba2f435fe8320cdb1870fa53dc1518"
+    "sha": "68572fdab7a2b3e00846ab0cd614248d6c6542b0"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "II Petri",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "II Petri 2",
     "url": "https://api.getbible.net/v2/vulgate/61/2.json",
-    "sha": "8ceaefd5f14357153d9dae86fe73109e9564b2ba"
+    "sha": "205ea0353bbc3258629887f9789806fd77b73e78"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "II Petri",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "II Petri 3",
     "url": "https://api.getbible.net/v2/vulgate/61/3.json",
-    "sha": "9ff81623ddcbdffaa73735de02a27321c1d909b5"
+    "sha": "5fb75e448b168458af8aff89b94de4427c16b7a7"
   }
 }

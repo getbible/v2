@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Jonás 1",
     "url": "https://api.getbible.net/v2/sse/32/1.json",
-    "sha": "13b3dd66d76c329dab7a5573f7bcf0167f580f6a"
+    "sha": "2a84f9c978bb6bce4a366e2271070590b69ec644"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Jonás 2",
     "url": "https://api.getbible.net/v2/sse/32/2.json",
-    "sha": "11a5047057845c6fe68f45183c73e4829e035968"
+    "sha": "5f32de9343c122430f6bc56895fbd8a90e56c68b"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Jonás 3",
     "url": "https://api.getbible.net/v2/sse/32/3.json",
-    "sha": "ee1f95d8d0bc10b830dbc80f819789bdf2414356"
+    "sha": "4ca9c990fa029d8414d64fad066c3bdb1a7fe8b7"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Jonás",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Jonás 4",
     "url": "https://api.getbible.net/v2/sse/32/4.json",
-    "sha": "5f1be5d273d17093b5d392afed6a4b535f90b575"
+    "sha": "bb1aeddbd5a5a12966888f6c96128428ddb3f222"
   }
 }

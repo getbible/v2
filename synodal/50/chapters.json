@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Филиппийцам 1",
     "url": "https://api.getbible.net/v2/synodal/50/1.json",
-    "sha": "90971075b9d6dcf71c710a32027909b62a0c4e15"
+    "sha": "9e94030d46acb4d4e94f8da493c35a345200168c"
   },
   "2": {
     "translation": "Synodal Translation (1876)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Филиппийцам 2",
     "url": "https://api.getbible.net/v2/synodal/50/2.json",
-    "sha": "5494ff203907c85bb282f04b558194b0251ac573"
+    "sha": "03cfe6cdcd28ad3d85e5805a3b8251ef35a487ec"
   },
   "3": {
     "translation": "Synodal Translation (1876)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Филиппийцам 3",
     "url": "https://api.getbible.net/v2/synodal/50/3.json",
-    "sha": "5d6e67e001dc158913fc54ddc80d60c234974922"
+    "sha": "9b124186544b3f55f8a6143e3cb3be7587e9b593"
   },
   "4": {
     "translation": "Synodal Translation (1876)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Филиппийцам",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Филиппийцам 4",
     "url": "https://api.getbible.net/v2/synodal/50/4.json",
-    "sha": "210cc6b70a5b2bcfd8d2122c5a62650f8f495fa2"
+    "sha": "9fef57d32368a5f4a83ffde1528295e195a0e3bb"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timotheüs",
+    "book_name": "1 Timoteus",
     "chapter": 1,
-    "name": "1 Timotheüs 1",
+    "name": "1 Timoteus 1",
     "url": "https://api.getbible.net/v2/aov/54/1.json",
-    "sha": "5085b2cf5e8691692575754460f916ab21298d01"
+    "sha": "40ecade04dda6ef2824ac6fd93ef3d87e113c963"
   },
   "2": {
     "translation": "Ou Vertaling",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timotheüs",
+    "book_name": "1 Timoteus",
     "chapter": 2,
-    "name": "1 Timotheüs 2",
+    "name": "1 Timoteus 2",
     "url": "https://api.getbible.net/v2/aov/54/2.json",
-    "sha": "e33d258aab5241b8ba1e66485fa805d8ee700bb6"
+    "sha": "65e832ae1b6a1a5836607c0ebcc8aa080c696ac1"
   },
   "3": {
     "translation": "Ou Vertaling",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timotheüs",
+    "book_name": "1 Timoteus",
     "chapter": 3,
-    "name": "1 Timotheüs 3",
+    "name": "1 Timoteus 3",
     "url": "https://api.getbible.net/v2/aov/54/3.json",
-    "sha": "d6bedd4bdf0dd7359e2eeb205cb3c7a91948489b"
+    "sha": "de067a9583fb8b5c8b001d81b85a4bbbdff02584"
   },
   "4": {
     "translation": "Ou Vertaling",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timotheüs",
+    "book_name": "1 Timoteus",
     "chapter": 4,
-    "name": "1 Timotheüs 4",
+    "name": "1 Timoteus 4",
     "url": "https://api.getbible.net/v2/aov/54/4.json",
-    "sha": "566314a9b4e207360d6de5a2d8ea3f0b5bb3d765"
+    "sha": "e2e8c7f0fd2a76cd906051af8cdcdcb8540f50ce"
   },
   "5": {
     "translation": "Ou Vertaling",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timotheüs",
+    "book_name": "1 Timoteus",
     "chapter": 5,
-    "name": "1 Timotheüs 5",
+    "name": "1 Timoteus 5",
     "url": "https://api.getbible.net/v2/aov/54/5.json",
-    "sha": "d0cfc41b6af842502aabc0301a5541b248ba014a"
+    "sha": "dac855cb6562e976c05b1416b974ccdae28dcb7c"
   },
   "6": {
     "translation": "Ou Vertaling",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timotheüs",
+    "book_name": "1 Timoteus",
     "chapter": 6,
-    "name": "1 Timotheüs 6",
+    "name": "1 Timoteus 6",
     "url": "https://api.getbible.net/v2/aov/54/6.json",
-    "sha": "4548e48a52f378b416013b2f5902e01e76d85d39"
+    "sha": "add63fdc6bbafd5d1f9a083c141e829b1f476509"
   }
 }

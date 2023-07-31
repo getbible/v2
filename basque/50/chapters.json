@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiarrei",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filipiarrei 1",
     "url": "https://api.getbible.net/v2/basque/50/1.json",
-    "sha": "64d1f28b815e46ff0bce723ff9d5149b51b420e7"
+    "sha": "aec2884142aba8340916fbe5b471d06ef6b82993"
   },
   "2": {
     "translation": "(Navarro Labourdin) NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiarrei",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filipiarrei 2",
     "url": "https://api.getbible.net/v2/basque/50/2.json",
-    "sha": "ef1c875ee9843bb924a2f54a43287731aa562d37"
+    "sha": "e06034657665cf88e19019dbc008d3d9476d396c"
   },
   "3": {
     "translation": "(Navarro Labourdin) NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiarrei",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filipiarrei 3",
     "url": "https://api.getbible.net/v2/basque/50/3.json",
-    "sha": "22241837ae589afe4375d4c29fe3866f29b066c3"
+    "sha": "c1fa2cf9c08aaa84e56ddd53382a2fdfa48e3254"
   },
   "4": {
     "translation": "(Navarro Labourdin) NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipiarrei",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filipiarrei 4",
     "url": "https://api.getbible.net/v2/basque/50/4.json",
-    "sha": "3f418380790dc490f0c2de614daa1f69cf617c0a"
+    "sha": "962c7b5a923a23fa156ca580800eeb1b5d3290b7"
   }
 }

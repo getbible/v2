@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Lamentations 1",
     "url": "https://api.getbible.net/v2/kjv/25/1.json",
-    "sha": "302b9b47719400f58ec424bd7fd7e7819cc5e1ac"
+    "sha": "b0474c10fb47606d5451f27ac178223a67b5d116"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Lamentations 2",
     "url": "https://api.getbible.net/v2/kjv/25/2.json",
-    "sha": "871c9f84f3f171a97dda9548e9ed2363232421ec"
+    "sha": "e5391c000b064b4ff6c0fa50177f1379bb38f344"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Lamentations 3",
     "url": "https://api.getbible.net/v2/kjv/25/3.json",
-    "sha": "a6c5445441004693cfa593d09d9cf26bfd3b9787"
+    "sha": "9be1b8f253d5ac0aca7bc88018d878bb91d605de"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Lamentations 4",
     "url": "https://api.getbible.net/v2/kjv/25/4.json",
-    "sha": "0bb01b9864dade7bed756c9dae64d89ff5935a90"
+    "sha": "33d592678f469647e26e320948721e85e400b73b"
   },
   "5": {
     "translation": "King James Version",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Lamentations 5",
     "url": "https://api.getbible.net/v2/kjv/25/5.json",
-    "sha": "bfbc63ae2515b9c68f7f4aef9715328a01e1bc4b"
+    "sha": "011d8f27c186f49bbbb32a02d2236b5e397edd9b"
   }
 }

@@ -3,42 +3,42 @@
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "צְפַנְיָה 1",
     "url": "https://api.getbible.net/v2/codex/36/1.json",
-    "sha": "7e63f97cc65a0ea177ddfc3516e9f03e8b5ba86a"
+    "sha": "68e22e1d9b5f2b0e4616699d74571ff7e172f0c7"
   },
   "2": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "צְפַנְיָה 2",
     "url": "https://api.getbible.net/v2/codex/36/2.json",
-    "sha": "f9c2fcdcf96216f5117556029dcb6b7dcbbbc3f0"
+    "sha": "cd82ac18d1674bde21d234457543a96f984f4708"
   },
   "3": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "צְפַנְיָה",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "צְפַנְיָה 3",
     "url": "https://api.getbible.net/v2/codex/36/3.json",
-    "sha": "e5fc6c00677a9bac1139a4b5fe5af57562a6b3ef"
+    "sha": "de37395d5f28989760b98e726ef6e6e3ddc57216"
   }
 }

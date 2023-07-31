@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hageo",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Hageo 1",
     "url": "https://api.getbible.net/v2/sse/37/1.json",
-    "sha": "ce0de4f32e47c3acd06e35cd0139850e497cf0ba"
+    "sha": "00a7c21bffb56a3366d87f4dd9f373a16d274eb5"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hageo",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Hageo 2",
     "url": "https://api.getbible.net/v2/sse/37/2.json",
-    "sha": "f13f8a5ced527e8b7b84b46139a876a6bbfa5cf9"
+    "sha": "d859454af2cfa4354fddba5d540b41ef4037807d"
   }
 }

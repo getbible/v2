@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggeus",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Haggeus 1",
     "url": "https://api.getbible.net/v2/cep/37/1.json",
-    "sha": "4196f03834eff9d24dacbdc7a6b377c0c1138abd"
+    "sha": "bcdb23ad6e29e931e82f135857231a8306e0804c"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Haggeus",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Haggeus 2",
     "url": "https://api.getbible.net/v2/cep/37/2.json",
-    "sha": "caf1bd6fdc15b0b8c1cae545525ec5957416af2e"
+    "sha": "b008a310d9d846fc9459db6a875c4085105f72d2"
   }
 }

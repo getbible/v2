@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2-е Тимофею",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2-е Тимофею 1",
     "url": "https://api.getbible.net/v2/zhuromsky/55/1.json",
-    "sha": "b6c77d7a208c367efad2f52851d50443ccb9779a"
+    "sha": "7203989d9ed4de2b60d56bbe76853ec01650086f"
   },
   "2": {
     "translation": "Victor Zhuromsky NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2-е Тимофею",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2-е Тимофею 2",
     "url": "https://api.getbible.net/v2/zhuromsky/55/2.json",
-    "sha": "a90bc97eb122e8264102456835445cfbc6098b7b"
+    "sha": "3fdebd5f31756a5036f70dcf62c211d24f3983c1"
   },
   "3": {
     "translation": "Victor Zhuromsky NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2-е Тимофею",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2-е Тимофею 3",
     "url": "https://api.getbible.net/v2/zhuromsky/55/3.json",
-    "sha": "9bb8ec6d304ddf06bd7d4b7accb8e9a96aff80aa"
+    "sha": "078733e4fd1a5684de460091434c0927e373fb6e"
   },
   "4": {
     "translation": "Victor Zhuromsky NT",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2-е Тимофею",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2-е Тимофею 4",
     "url": "https://api.getbible.net/v2/zhuromsky/55/4.json",
-    "sha": "1fb562ef2bcd7da9747a50b6f5b7fa41eb6993ea"
+    "sha": "44444ae092229f134fd17778cd4cd36edda580eb"
   }
 }

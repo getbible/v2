@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakuk",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habakuk 1",
     "url": "https://api.getbible.net/v2/cep/35/1.json",
-    "sha": "0514fa56f3ef5d4b701bd1b5d136d757ff7979f5"
+    "sha": "a87eb5ff15e167e94a536aa4a76306878dcec1ca"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakuk",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habakuk 2",
     "url": "https://api.getbible.net/v2/cep/35/2.json",
-    "sha": "31103457d59bdd2ac2903389dc82aaeef3922069"
+    "sha": "66ddad4e8e82c51ab80c68cf9bc2ca78cfe22fc9"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakuk",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habakuk 3",
     "url": "https://api.getbible.net/v2/cep/35/3.json",
-    "sha": "df56ff6a497eda1b796dd512ff61ee77458fe87d"
+    "sha": "e4d029e4281026052d5c0406ab1a10614a87525f"
   }
 }

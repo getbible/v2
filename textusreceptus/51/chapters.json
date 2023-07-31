@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Προς Κολοσσαείς 1",
     "url": "https://api.getbible.net/v2/textusreceptus/51/1.json",
-    "sha": "856d22e26fa54e1b545fb6627a9539f49db60f87"
+    "sha": "9c4f84fce0f872b2fb234e0429e95cac78bf2a76"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Προς Κολοσσαείς 2",
     "url": "https://api.getbible.net/v2/textusreceptus/51/2.json",
-    "sha": "ad6e838b1e33e3e0a297d534be25368652332dc3"
+    "sha": "f360b067197d0c1f6d43cfbdc0161899cde88e41"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Προς Κολοσσαείς 3",
     "url": "https://api.getbible.net/v2/textusreceptus/51/3.json",
-    "sha": "fa059e34ebc3460aa499ce6d2b9ee751344e4dda"
+    "sha": "ab7e92aec2a3b28ce8aaf42b5eda157e0a816f3f"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Προς Κολοσσαείς 4",
     "url": "https://api.getbible.net/v2/textusreceptus/51/4.json",
-    "sha": "3d593ae143148b36d1fbad38bb5cfa4b2b942a35"
+    "sha": "b2125bdfd413de663ab67e61c8c6eaf73d43bbdc"
   }
 }

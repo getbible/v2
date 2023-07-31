@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 تيموثاوس",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 تيموثاوس 1",
     "url": "https://api.getbible.net/v2/arabicsv/54/1.json",
-    "sha": "fd00db41dc8598bf2d8873b752c55534a23c6156"
+    "sha": "35f9c2cd4fc810cceab818e9c6f678860f53fc8c"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 تيموثاوس",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 تيموثاوس 2",
     "url": "https://api.getbible.net/v2/arabicsv/54/2.json",
-    "sha": "91fc768424f25dd0d6aeb2e5bfd6e906c6710c46"
+    "sha": "943e72b143ddbe92471c98f55650633ffa808456"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 تيموثاوس",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 تيموثاوس 3",
     "url": "https://api.getbible.net/v2/arabicsv/54/3.json",
-    "sha": "2c88da5366f3526926f9f03d0fe71ca37a91c19d"
+    "sha": "766624930214313e7fb4018c6ab485bc4ca39713"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 تيموثاوس",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 تيموثاوس 4",
     "url": "https://api.getbible.net/v2/arabicsv/54/4.json",
-    "sha": "f3c55e91445893e28cfc15c78d81b7d2e0fdfde4"
+    "sha": "aab744912d9b35db3012acd5726549b8f3c1f513"
   },
   "5": {
     "translation": "Smith and Van Dyke",
@@ -63,11 +63,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 تيموثاوس",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 تيموثاوس 5",
     "url": "https://api.getbible.net/v2/arabicsv/54/5.json",
-    "sha": "23dc2bfa85fd804a51656e0d0ab810cb529e9100"
+    "sha": "87b8d42a2e73021e6e02298c6c452f4da4a6a041"
   },
   "6": {
     "translation": "Smith and Van Dyke",
@@ -77,10 +77,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 تيموثاوس",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 تيموثاوس 6",
     "url": "https://api.getbible.net/v2/arabicsv/54/6.json",
-    "sha": "39c5d926dc7bb8ac6bca9b8dfef8ae439d968398"
+    "sha": "09a3184d64be7d44b0770be9d6a78f244fe960e0"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "帖撒罗尼迦前书 1",
     "url": "https://api.getbible.net/v2/cus/52/1.json",
-    "sha": "2f718e0efe9eb5c23ad8511d28742d41320d9d83"
+    "sha": "6caf233e8056c1b48d49b30054d2035f50706049"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "帖撒罗尼迦前书 2",
     "url": "https://api.getbible.net/v2/cus/52/2.json",
-    "sha": "79b60d4d0585f5f8c8dd1f856823f4a0fe6f31ed"
+    "sha": "0dab0ba7bbf718acfcdf4ee11e6399f9dd2cf81b"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "帖撒罗尼迦前书 3",
     "url": "https://api.getbible.net/v2/cus/52/3.json",
-    "sha": "a3d7d819e0e803c0238ee8628084e7b5ca5d5341"
+    "sha": "7c23f9b32178315ff59247c585364e9bfc7fb039"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "帖撒罗尼迦前书 4",
     "url": "https://api.getbible.net/v2/cus/52/4.json",
-    "sha": "672bd9302e682e7bf510736aa3bc6bbb97282495"
+    "sha": "310d4f06d3ead252391896f0503176d1930a973e"
   },
   "5": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "帖撒罗尼迦前书 5",
     "url": "https://api.getbible.net/v2/cus/52/5.json",
-    "sha": "7ffbe5d1c962cd68650811dc81880025a51059b3"
+    "sha": "ad681ea551d5c666eabcbedfd1fc6d617873f7aa"
   }
 }

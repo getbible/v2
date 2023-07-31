@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "에베소서",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "에베소서 1",
     "url": "https://api.getbible.net/v2/korean/49/1.json",
-    "sha": "a10fa58e01e9db19df86d5976b29704455d0396b"
+    "sha": "619a8d41cccee03958421d23441e9c6283e418c7"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "에베소서",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "에베소서 2",
     "url": "https://api.getbible.net/v2/korean/49/2.json",
-    "sha": "40d0b314cc3051519851a9f2e67a090d8410441b"
+    "sha": "3ffbb6311d341d4862dad34088be288117e79c00"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "에베소서",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "에베소서 3",
     "url": "https://api.getbible.net/v2/korean/49/3.json",
-    "sha": "369b48946c28b9c9a0e2d85902699b0ad6455f12"
+    "sha": "dfa7bd37820f6498e28aa22a9a4a06a100c882cf"
   },
   "4": {
     "translation": "Korean",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "에베소서",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "에베소서 4",
     "url": "https://api.getbible.net/v2/korean/49/4.json",
-    "sha": "8a59657b701ddf3bb084ddde152ff90f3c231f58"
+    "sha": "50ff3e86b88241b37ff69d4938e7d2a6200efa4c"
   },
   "5": {
     "translation": "Korean",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "에베소서",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "에베소서 5",
     "url": "https://api.getbible.net/v2/korean/49/5.json",
-    "sha": "224a19881180e324512f79340ec0152524222b97"
+    "sha": "05d3d85470a013d29a065b18e5773cf4f175335b"
   },
   "6": {
     "translation": "Korean",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "에베소서",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "에베소서 6",
     "url": "https://api.getbible.net/v2/korean/49/6.json",
-    "sha": "374587e088bbeb4ac70a8bebb2a42eb8c30b3ccd"
+    "sha": "ca525044a90b60b7a72ca767204be5eb85f181e0"
   }
 }

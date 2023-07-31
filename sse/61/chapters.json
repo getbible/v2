@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Pedro 1",
     "url": "https://api.getbible.net/v2/sse/61/1.json",
-    "sha": "dc930737bd8772e24f892328ec3b3738b92a4cab"
+    "sha": "e597cbd2bf095769f1502124526e66c9f08a1291"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Pedro 2",
     "url": "https://api.getbible.net/v2/sse/61/2.json",
-    "sha": "33657f1077796932fb9d452b6d4a926359807374"
+    "sha": "a259edf4bc5aff12357dbfd16542148916d655e7"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Pedro 3",
     "url": "https://api.getbible.net/v2/sse/61/3.json",
-    "sha": "b0b2c366d4248e248e412761099825fc86289827"
+    "sha": "1600f7e1b2f374d9c5ad5c2ef8d3d8ecefcd94a5"
   }
 }

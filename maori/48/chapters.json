@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Karaiti",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Karaiti 1",
     "url": "https://api.getbible.net/v2/maori/48/1.json",
-    "sha": "89dc7fa0f415a7260d2b991cc16a440badd1a42e"
+    "sha": "f2eac2b4382cbbec422a9c045632d7d73be9f9c7"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Karaiti",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Karaiti 2",
     "url": "https://api.getbible.net/v2/maori/48/2.json",
-    "sha": "c0391d5256d45cebd12b8cdcb96ccc24abc27b98"
+    "sha": "aab75092b8a30a51df5559ac295bc4d32cf19538"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Karaiti",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Karaiti 3",
     "url": "https://api.getbible.net/v2/maori/48/3.json",
-    "sha": "189b52b36a9e674ae7814d7e423b4b72fdcabc6b"
+    "sha": "d2871c29dff0de20c2e1decbec4736610ba665f0"
   },
   "4": {
     "translation": "Maori",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Karaiti",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Karaiti 4",
     "url": "https://api.getbible.net/v2/maori/48/4.json",
-    "sha": "5ac590f20726ea5e9e18484fb6a0ffa9beee25b6"
+    "sha": "00c3aa05e39a0c87b0646f65e5db8f6e21dd14a1"
   },
   "5": {
     "translation": "Maori",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Karaiti",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Karaiti 5",
     "url": "https://api.getbible.net/v2/maori/48/5.json",
-    "sha": "b0f31f39922012286965b9fc93ec0a99d89cf8b1"
+    "sha": "54cf6a64b0c503c07acd6fd1acf9cd39216cf580"
   },
   "6": {
     "translation": "Maori",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Karaiti",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Karaiti 6",
     "url": "https://api.getbible.net/v2/maori/48/6.json",
-    "sha": "27bae87d916ee7d6c3ae20054c9b8e66739488da"
+    "sha": "3a554430b2623fccc21f21fb70a643cb5364f747"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "Προς Θεσσαλονικείς Α' 1",
     "url": "https://api.getbible.net/v2/westcotthort/52/1.json",
-    "sha": "838b06ba78026f090d091db581f2c770bf5253ce"
+    "sha": "bf921aa518a0d8958bd79dca368330bf3014076d"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "Προς Θεσσαλονικείς Α' 2",
     "url": "https://api.getbible.net/v2/westcotthort/52/2.json",
-    "sha": "f82d70fb614c2001caa8137279859fa40cb97e8f"
+    "sha": "7a66cc0d4a8f4ec0e48184ee2700e64739f0ba74"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "Προς Θεσσαλονικείς Α' 3",
     "url": "https://api.getbible.net/v2/westcotthort/52/3.json",
-    "sha": "230fc4cd563dbba2aca514f59b60d01d3dc50efc"
+    "sha": "f33633bb0d849ed0b9d3103757948fc0ee117746"
   },
   "4": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "Προς Θεσσαλονικείς Α' 4",
     "url": "https://api.getbible.net/v2/westcotthort/52/4.json",
-    "sha": "f5bfd594bee5630123e4bbea396fb7483bd58f06"
+    "sha": "d9107b1eacf74184f433ad042ce68452f1d7dac4"
   },
   "5": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Προς Θεσσαλονικείς Α'",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "Προς Θεσσαλονικείς Α' 5",
     "url": "https://api.getbible.net/v2/westcotthort/52/5.json",
-    "sha": "fd2bd66899f55a09b57384a958cc51e956a463b1"
+    "sha": "0cc412f1366f1b738551f881c8a3ce5a168cfc2c"
   }
 }

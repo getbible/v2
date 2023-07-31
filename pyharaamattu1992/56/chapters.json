@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tiituksen kirje",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Tiituksen kirje 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/56/1.json",
-    "sha": "a514043529ebae5752610cbb8287a011c8da7828"
+    "sha": "14f089682ac0666e10c36ee65fe8ef44911da2e6"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tiituksen kirje",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Tiituksen kirje 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/56/2.json",
-    "sha": "17723df08dd502796c02cee374ef28faf816ee77"
+    "sha": "f8579e1e79ec5ec127dd9b0868c8a4032758ec9f"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Tiituksen kirje",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Tiituksen kirje 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/56/3.json",
-    "sha": "2b9aec200b0b90f506bed5f13927380b6158f535"
+    "sha": "459bb686798899d37a1d4ba97cf3ce8d954616dd"
   }
 }

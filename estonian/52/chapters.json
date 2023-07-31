@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tessalooniklastele",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Tessalooniklastele 1",
     "url": "https://api.getbible.net/v2/estonian/52/1.json",
-    "sha": "b91c31e10bf8979ff4e56aac831efb196f43df02"
+    "sha": "1bc8d7996eddabaad2577b0835d91c63ba8102a3"
   },
   "2": {
     "translation": "Estonian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tessalooniklastele",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Tessalooniklastele 2",
     "url": "https://api.getbible.net/v2/estonian/52/2.json",
-    "sha": "93478d04f56d95339d76e521f834ef691ff1b211"
+    "sha": "58c5121e8c086ed5649a46af60c34fa94868f15f"
   },
   "3": {
     "translation": "Estonian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tessalooniklastele",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Tessalooniklastele 3",
     "url": "https://api.getbible.net/v2/estonian/52/3.json",
-    "sha": "824eabc5ecd3fff27ea7c0186009a79fb171e18b"
+    "sha": "5065b8fe23e42ed64700d5b413dbeea156e8a16e"
   },
   "4": {
     "translation": "Estonian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tessalooniklastele",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Tessalooniklastele 4",
     "url": "https://api.getbible.net/v2/estonian/52/4.json",
-    "sha": "8662d22fe69a84652c5791cb2613887ef216468d"
+    "sha": "30a89533337c12d8e00b9e0fb4af1eedc1f1343a"
   },
   "5": {
     "translation": "Estonian",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Tessalooniklastele",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Tessalooniklastele 5",
     "url": "https://api.getbible.net/v2/estonian/52/5.json",
-    "sha": "47960e40e436f6512c154614d2102597afb4ad5e"
+    "sha": "d4177df86b777c04287adf6c84ea1dad686fd55f"
   }
 }

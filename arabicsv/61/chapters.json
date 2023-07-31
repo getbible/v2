@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 بطرس",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 بطرس 1",
     "url": "https://api.getbible.net/v2/arabicsv/61/1.json",
-    "sha": "4904c2000c9b78226eb0d823f0be6284d4a07571"
+    "sha": "78f069dbbf251fea833741f68f58032190c0f1c8"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 بطرس",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 بطرس 2",
     "url": "https://api.getbible.net/v2/arabicsv/61/2.json",
-    "sha": "b13d6af4c53591b585b580499e05ba6383769904"
+    "sha": "944b19b784a165589c48fc752a42b14c53f7c187"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,10 +35,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 بطرس",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 بطرس 3",
     "url": "https://api.getbible.net/v2/arabicsv/61/3.json",
-    "sha": "f361424955e1b0b587d5195229061002dcb17280"
+    "sha": "d545a087632bdefbeb4a0fcf8e5439471555229e"
   }
 }

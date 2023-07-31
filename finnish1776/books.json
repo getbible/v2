@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Ensimmäinen Mooseksen kirja",
     "url": "https://api.getbible.net/v2/finnish1776/1.json",
-    "sha": "6af95a4830951b397821560f80f5f68c536ffae4"
+    "sha": "8a2a5885155cdb7c365e39f846b38e406a0468bf"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Toinen Mooseksen kirja",
     "url": "https://api.getbible.net/v2/finnish1776/2.json",
-    "sha": "e1461446cc2a2c0cab75ee63987b1fd36ffb20b0"
+    "sha": "f23e659f4038fb1cc5ff0bb6e36dd7e968e6f729"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Kolmas Mooseksen kirja",
     "url": "https://api.getbible.net/v2/finnish1776/3.json",
-    "sha": "812a9c32a464af8bec8236633f19f1c1baecb010"
+    "sha": "18c4a92ceb066d4fc32a907b8ba9829202b28dab"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Neljäs Mooseksen kirja",
     "url": "https://api.getbible.net/v2/finnish1776/4.json",
-    "sha": "ed9ff726d554e5b2c5f4243952a9fd0507ea6935"
+    "sha": "a27df205bde866495f8323b317e469bcaeb97ed9"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Viides Mooseksen kirja",
     "url": "https://api.getbible.net/v2/finnish1776/5.json",
-    "sha": "41364041ed62c75eaa6bff73656706d26373dfc2"
+    "sha": "f335a17b3b8f59a4750006e59028a0a68770fc08"
   },
   "6": {
     "translation": "Finnish Bible (1776)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Joosuan kirja",
     "url": "https://api.getbible.net/v2/finnish1776/6.json",
-    "sha": "3e2cc9b053b37b64b6778808f47949802a99ae50"
+    "sha": "86919a2e91e6ebb2deb79517e25fd52b735d6492"
   },
   "7": {
     "translation": "Finnish Bible (1776)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Tuomarien kirja",
     "url": "https://api.getbible.net/v2/finnish1776/7.json",
-    "sha": "8f82a0d5f0c566057df3fd022c9fccdf46a6f0fa"
+    "sha": "903c73dceb5fa9520153a813cfe94847487d5db7"
   },
   "8": {
     "translation": "Finnish Bible (1776)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Ruutin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/8.json",
-    "sha": "44c88d1e4e9e593ff837bba7c0bc12c7713235d0"
+    "sha": "a908e338be4f0a792b5d1b916c412322b7d25fb7"
   },
   "9": {
     "translation": "Finnish Bible (1776)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "Ensimmäinen Samuelin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/9.json",
-    "sha": "c86e53c59ca9bb1a9554dc84401c1972ba88a922"
+    "sha": "3cc5575146f26be9f8239abe963edc43dea5dcd4"
   },
   "10": {
     "translation": "Finnish Bible (1776)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "Toinen Samuelin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/10.json",
-    "sha": "cc3759fcb8e5f36f84760f1b65d7f51243c188a9"
+    "sha": "e153c6812df2a412fffee11dd84acb4e188a6a96"
   },
   "11": {
     "translation": "Finnish Bible (1776)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "Ensimmäinen kuningasten kirja",
     "url": "https://api.getbible.net/v2/finnish1776/11.json",
-    "sha": "a8c61afe62fafbab4e4ef2496102ec38150b43d9"
+    "sha": "8dfefc656731d2f15e59a76bfb4fdf5d347e5769"
   },
   "12": {
     "translation": "Finnish Bible (1776)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "Toinen kuningasten kirja",
     "url": "https://api.getbible.net/v2/finnish1776/12.json",
-    "sha": "b276cb1aa8984489bd738bd173ce7c2649877abf"
+    "sha": "b3ec6eb84bcdcef5318e6c7297ccea09a35a6969"
   },
   "13": {
     "translation": "Finnish Bible (1776)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "Ensimmäinen aikakirja",
     "url": "https://api.getbible.net/v2/finnish1776/13.json",
-    "sha": "bc07cf9e7f260d8d35b8d632cc64562bc82486d4"
+    "sha": "591b47783257361c555335c10ddfa9655709769a"
   },
   "14": {
     "translation": "Finnish Bible (1776)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "Toinen aikakirja",
     "url": "https://api.getbible.net/v2/finnish1776/14.json",
-    "sha": "d11989bd69217353d89eae257d4cc35a88e6d12e"
+    "sha": "d9bdcf98e70859bd542a74b8c7e41dc49bbec017"
   },
   "15": {
     "translation": "Finnish Bible (1776)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "Esran kirja",
     "url": "https://api.getbible.net/v2/finnish1776/15.json",
-    "sha": "5a1f48eb2a3bbe16da9c44bdd29cc3a5176d74c2"
+    "sha": "fc29e8700395b07475c151ac2113b16f06c48a91"
   },
   "16": {
     "translation": "Finnish Bible (1776)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemian kirja",
     "url": "https://api.getbible.net/v2/finnish1776/16.json",
-    "sha": "c7d8c223cb240d4372ee571b13a337c3a4aa9e85"
+    "sha": "91efb46faff927515aa25d697bcf8b46579ed9d4"
   },
   "17": {
     "translation": "Finnish Bible (1776)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Esterin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/17.json",
-    "sha": "fb78022f3ea5e6ea753471f25bd92eb02306624e"
+    "sha": "bdf854c8f3acfa0bcfc82a6732acf4a7ecd0fe0c"
   },
   "18": {
     "translation": "Finnish Bible (1776)",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Jobin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/18.json",
-    "sha": "360bb9ce1453e75c7471327c05214464d871e89e"
+    "sha": "39132b7eee1b5bef3566a12595e34add905b865e"
   },
   "19": {
     "translation": "Finnish Bible (1776)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Psalmit",
     "url": "https://api.getbible.net/v2/finnish1776/19.json",
-    "sha": "261a3c8558ac224bef4de022306d4b351ff60d13"
+    "sha": "9acb04d91d7c5c2b89983ea6369e3413a6071131"
   },
   "20": {
     "translation": "Finnish Bible (1776)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Sananlaskut",
     "url": "https://api.getbible.net/v2/finnish1776/20.json",
-    "sha": "f3499759cc31bcec91277b43ea79550abb98b24b"
+    "sha": "99c016fcabbd04946b81b31f9500750244f75b95"
   },
   "21": {
     "translation": "Finnish Bible (1776)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Saarnaaja",
     "url": "https://api.getbible.net/v2/finnish1776/21.json",
-    "sha": "155d68da770ab515b24f79cee75ebbad60e57c36"
+    "sha": "7c70c3eefa49c6a03543cc0f780278df577a032f"
   },
   "22": {
     "translation": "Finnish Bible (1776)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Laulujen laulu",
     "url": "https://api.getbible.net/v2/finnish1776/22.json",
-    "sha": "4282d196e2670e52421ed18a3cf0bb068530686f"
+    "sha": "420b56a038977b4cdd37a29e336b045e14bd7cdc"
   },
   "23": {
     "translation": "Finnish Bible (1776)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Jesajan kirja",
     "url": "https://api.getbible.net/v2/finnish1776/23.json",
-    "sha": "cc99608ab11908f05f6300765e2ee91fb0200cc5"
+    "sha": "bb3de59c42af933db9bf46777d9b3095ba8ff7cd"
   },
   "24": {
     "translation": "Finnish Bible (1776)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremian kirja",
     "url": "https://api.getbible.net/v2/finnish1776/24.json",
-    "sha": "2324ad44e326463456e9b7f585f3e97de14ecf32"
+    "sha": "107c05544d540f96b790d1aaf0caf93abd76fa11"
   },
   "25": {
     "translation": "Finnish Bible (1776)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Valitusvirret",
     "url": "https://api.getbible.net/v2/finnish1776/25.json",
-    "sha": "acb149ada64a134f9b9ffc65ba1642ebd5dde85b"
+    "sha": "1bff4d342d8c72602c4cd9cc9e1324d1324e698c"
   },
   "26": {
     "translation": "Finnish Bible (1776)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Hesekielin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/26.json",
-    "sha": "e769a07cca033ae08674884c4c87207c17af8019"
+    "sha": "eed879bcea04d171ff6e74d38646cb0e3b5fbf56"
   },
   "27": {
     "translation": "Finnish Bible (1776)",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Danielin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/27.json",
-    "sha": "eb2eaac21caaafcc5f91f1e72e5b5e22fc4bed36"
+    "sha": "41b64eb998c795c33b04cd583fcdf3e88d37548b"
   },
   "28": {
     "translation": "Finnish Bible (1776)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Hoosean kirja",
     "url": "https://api.getbible.net/v2/finnish1776/28.json",
-    "sha": "f2539ad5dca7be641c8f3308981752a23559590d"
+    "sha": "22b64b401efe5c243709f71a5cdcae57b6dc690e"
   },
   "29": {
     "translation": "Finnish Bible (1776)",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Joelin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/29.json",
-    "sha": "c10987035113b29c002ca76a60f5775071b16860"
+    "sha": "08f10ddf5d24fa47b43ea3a4bcca52140d74dd01"
   },
   "30": {
     "translation": "Finnish Bible (1776)",
@@ -355,9 +355,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "Aamoksen kirja",
     "url": "https://api.getbible.net/v2/finnish1776/30.json",
-    "sha": "f1a89683cf90b010565c228ecb3336428a7693f0"
+    "sha": "8e8e9c409fb6eff3c0e8fad490c5d0d8d49b3a31"
   },
   "31": {
     "translation": "Finnish Bible (1776)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadjan kirja",
     "url": "https://api.getbible.net/v2/finnish1776/31.json",
-    "sha": "860638b68f8f47beda9bc271d931ea6e482185d1"
+    "sha": "1fbe53832fdab0c21f844f4e16aa8c211f634480"
   },
   "32": {
     "translation": "Finnish Bible (1776)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Joonan kirja",
     "url": "https://api.getbible.net/v2/finnish1776/32.json",
-    "sha": "e6085dbe1e4e7116b580fc73505d6ac4dcee4dea"
+    "sha": "cf2c93bb01d9ae422f864df975b518a89c32e8c7"
   },
   "33": {
     "translation": "Finnish Bible (1776)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Miikan kirja",
     "url": "https://api.getbible.net/v2/finnish1776/33.json",
-    "sha": "71ed73ede63862b76d6a5aa01b2bed56ecc5f3dd"
+    "sha": "89cc1d7b7d75c399046bf42c70e0c3bd91debd14"
   },
   "34": {
     "translation": "Finnish Bible (1776)",
@@ -403,9 +403,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "Nahumin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/34.json",
-    "sha": "3843cb6bd09925689e82b88e2234522248c032d3"
+    "sha": "c938c31ae2bb18e2c18a17745143f8a60c860f4c"
   },
   "35": {
     "translation": "Finnish Bible (1776)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habakukin kirja",
     "url": "https://api.getbible.net/v2/finnish1776/35.json",
-    "sha": "2f77178f0464e0b244d271cc07567d434746854d"
+    "sha": "8320e7223b56eff3bc746c8e060daa34e4354dcc"
   },
   "36": {
     "translation": "Finnish Bible (1776)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sefanjan kirja",
     "url": "https://api.getbible.net/v2/finnish1776/36.json",
-    "sha": "2ff24ce8010226dc2b8a30d070acbbf392d68f82"
+    "sha": "33465230a189172ac224747cb03f181951eb8200"
   },
   "37": {
     "translation": "Finnish Bible (1776)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Haggain kirja",
     "url": "https://api.getbible.net/v2/finnish1776/37.json",
-    "sha": "96e5a21e30eb09e3b1cdf1231fa2bf458c0f6170"
+    "sha": "008176e9a33a818720cedc855527faceb2072a0d"
   },
   "38": {
     "translation": "Finnish Bible (1776)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Sakarjan kirja",
     "url": "https://api.getbible.net/v2/finnish1776/38.json",
-    "sha": "c1a4b9d981d630eb6b587b755d1d0fd778cd5a7d"
+    "sha": "4456a8a32ceb720c303ad10236a43bb86f0eef11"
   },
   "39": {
     "translation": "Finnish Bible (1776)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malakian kirja",
     "url": "https://api.getbible.net/v2/finnish1776/39.json",
-    "sha": "0b3c834ad524ebe61fb22f7751b0128cb0ad9824"
+    "sha": "022338c67ef374138450919fa88731bfca6021db"
   },
   "69": {
     "translation": "Finnish Bible (1776)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matteuksen evankeliumi",
     "url": "https://api.getbible.net/v2/finnish1776/40.json",
-    "sha": "3ef34c760d50a1be161d2065d2ab3f14b8b2cddb"
+    "sha": "a42d670d479d841d4738b5c41870ebd23a7b8985"
   },
   "41": {
     "translation": "Finnish Bible (1776)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Markuksen evankeliumi",
     "url": "https://api.getbible.net/v2/finnish1776/41.json",
-    "sha": "abd859ef0c268fd8bba47e35d975de80262131f3"
+    "sha": "56048f112769263669adb49c0589c7d084ffcc8c"
   },
   "42": {
     "translation": "Finnish Bible (1776)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Luukkaan evankeliumi",
     "url": "https://api.getbible.net/v2/finnish1776/42.json",
-    "sha": "f499be62e79ddce6707912e22ab1e5d522240a5e"
+    "sha": "950fb9cb35ed06a3d467c2ae06a71659c2e963da"
   },
   "43": {
     "translation": "Finnish Bible (1776)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Johanneksen evankeliumi",
     "url": "https://api.getbible.net/v2/finnish1776/43.json",
-    "sha": "30a9547493cf50948c39b067c1a4bd4b1979d522"
+    "sha": "14253af3a877c04eafe17134ea9a97157f51a9ed"
   },
   "44": {
     "translation": "Finnish Bible (1776)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Apostolien teot",
     "url": "https://api.getbible.net/v2/finnish1776/44.json",
-    "sha": "18a81533fcf1af2e887280a219d1df44029a86ab"
+    "sha": "6a4edd2d4dcf41f93df9d6bb57d7ab115a1fa674"
   },
   "45": {
     "translation": "Finnish Bible (1776)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Roomalaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/45.json",
-    "sha": "253aa04ea4cb1ed511301b46ef33e7762f745def"
+    "sha": "d14d14cb93f3bb4e28692cfcd787bfe3936be57b"
   },
   "46": {
     "translation": "Finnish Bible (1776)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "Ensimmäinen korinttolaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/46.json",
-    "sha": "f2684f4ade636f14d0bda01f7683ebd2ada066dd"
+    "sha": "0ae2784d84f997412fdac4c1204be82918c7f9fb"
   },
   "47": {
     "translation": "Finnish Bible (1776)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "Toinen korinttolaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/47.json",
-    "sha": "4fef6b60c32e38ce3b81088a6cda8dabba1a2378"
+    "sha": "2b2fda47a02692900ddb89f02d95e8ececeddd3c"
   },
   "48": {
     "translation": "Finnish Bible (1776)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galatalaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/48.json",
-    "sha": "62b3e30f53ff0f72342c49b0ae41dde1a3d04ae0"
+    "sha": "23b2a97beb659af18c455b6c700845a319c3b57a"
   },
   "49": {
     "translation": "Finnish Bible (1776)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efesolaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/49.json",
-    "sha": "8df446faedb8a472e550e11e9776156ebbef16d7"
+    "sha": "de03e163b9849c353dc753753d90d1d839c2814c"
   },
   "50": {
     "translation": "Finnish Bible (1776)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filippiläiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/50.json",
-    "sha": "f28ac4aa6610380128dc140846a80418b8602b73"
+    "sha": "818ba867e8afb378729a369697915df0070ae926"
   },
   "51": {
     "translation": "Finnish Bible (1776)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Kolossalaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/51.json",
-    "sha": "fa06d0bbbb4d25af60c54570393fef38de508f04"
+    "sha": "06a10bc768be0899e060752f5139c6a64d56d65a"
   },
   "52": {
     "translation": "Finnish Bible (1776)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "Ensimmäinen tessalonikalaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/52.json",
-    "sha": "f0371f44e070560c7eef12b5e32ada9ca4463e03"
+    "sha": "6fd67759ca5511e372d73aaf75f6710c61d90e91"
   },
   "53": {
     "translation": "Finnish Bible (1776)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "Toinen tessalonikalaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/53.json",
-    "sha": "a86f61ceb51cc278572200a2260a800a8dd82c95"
+    "sha": "b8b0ca18fd95acec5df663272edef2c61bd8d77a"
   },
   "54": {
     "translation": "Finnish Bible (1776)",
@@ -787,9 +787,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "Ensimmäinen Timoteuskirje",
     "url": "https://api.getbible.net/v2/finnish1776/54.json",
-    "sha": "1dcd356c447d7ba5540d8f3bed58cf3b77eea623"
+    "sha": "33f3f433c8663e32bcf6a4afe779b88a2155040f"
   },
   "55": {
     "translation": "Finnish Bible (1776)",
@@ -799,9 +799,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "Toinen Timoteuskirje",
     "url": "https://api.getbible.net/v2/finnish1776/55.json",
-    "sha": "a740a0405d84623aed27d2d77ec3139fdbf3f30a"
+    "sha": "10b8272b32789c21ae3341f0fba7789e55d7cab3"
   },
   "56": {
     "translation": "Finnish Bible (1776)",
@@ -811,9 +811,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tiituksen kirje",
     "url": "https://api.getbible.net/v2/finnish1776/56.json",
-    "sha": "42976815bcdad85748729f5b7ccd961521b9bd17"
+    "sha": "7f027cd6cf30fbc97597bb19f4bb6a719c13b664"
   },
   "57": {
     "translation": "Finnish Bible (1776)",
@@ -823,9 +823,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Fileemonin kirje",
     "url": "https://api.getbible.net/v2/finnish1776/57.json",
-    "sha": "84c8b0316d4d91cb61e94692c393180c18dce544"
+    "sha": "b6d89cb9a8c01fd5194c366f7c035f0f70ba6357"
   },
   "58": {
     "translation": "Finnish Bible (1776)",
@@ -835,9 +835,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebrealaiskirje",
     "url": "https://api.getbible.net/v2/finnish1776/58.json",
-    "sha": "dd9742f1e4edea3268cb33a9886ebd678e94a898"
+    "sha": "34ba16d61f580634ede12b80268dc6948436d88b"
   },
   "59": {
     "translation": "Finnish Bible (1776)",
@@ -847,9 +847,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jaakobin kirje",
     "url": "https://api.getbible.net/v2/finnish1776/59.json",
-    "sha": "d0967aa2554caf36f792cc84f5446bd24a33d12d"
+    "sha": "1a595c70b6959aec7865af1f2e9a566951ac510e"
   },
   "60": {
     "translation": "Finnish Bible (1776)",
@@ -859,9 +859,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "Ensimmäinen Pietarin kirje",
     "url": "https://api.getbible.net/v2/finnish1776/60.json",
-    "sha": "9118ce19fe2929240a84539f2033d6c2a282beec"
+    "sha": "c2d20bec5c5b5f675ecfb1ee726c2416676b35b0"
   },
   "61": {
     "translation": "Finnish Bible (1776)",
@@ -871,9 +871,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "Toinen Pietarin kirje",
     "url": "https://api.getbible.net/v2/finnish1776/61.json",
-    "sha": "05db9988188d841f0f9e71eef523c2ce612d672c"
+    "sha": "f8e31ee8e180d086dc98ff146e170fc7da948159"
   },
   "62": {
     "translation": "Finnish Bible (1776)",
@@ -883,9 +883,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "Ensimmäinen Johanneksen kirje",
     "url": "https://api.getbible.net/v2/finnish1776/62.json",
-    "sha": "4e9939e1cf04891dfa77a52e53425c9175dbe28d"
+    "sha": "7f245ea17307dd1010fd127c4f8ee1f19bee98bd"
   },
   "63": {
     "translation": "Finnish Bible (1776)",
@@ -895,9 +895,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "Toinen Johanneksen kirje",
     "url": "https://api.getbible.net/v2/finnish1776/63.json",
-    "sha": "3cb0b358f24abc1609aa941a7efd8d9463580a60"
+    "sha": "3397ab74d054e1684d0019c76eeac98a21596bc4"
   },
   "64": {
     "translation": "Finnish Bible (1776)",
@@ -907,9 +907,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "Kolmas Johanneksen kirje",
     "url": "https://api.getbible.net/v2/finnish1776/64.json",
-    "sha": "07f2a0358cf269a33100b7a83e9abfebf11a8036"
+    "sha": "a8bd0f3f3f862b22031154f895ce076adb90b591"
   },
   "65": {
     "translation": "Finnish Bible (1776)",
@@ -919,9 +919,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Juudaksen kirje",
     "url": "https://api.getbible.net/v2/finnish1776/65.json",
-    "sha": "d37903bf7e788129966c8d955f8d48a8a39007d7"
+    "sha": "040a4e1856949bca325dfa6dc0a2a9d472750811"
   },
   "66": {
     "translation": "Finnish Bible (1776)",
@@ -931,8 +931,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Ilmestyskirja",
     "url": "https://api.getbible.net/v2/finnish1776/66.json",
-    "sha": "3a56ec4c2f7976fb968c61d46f59454a3a89ee6a"
+    "sha": "c8760f066848884a56cbcbdf70a4610831524e24"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "歌羅西書 1",
     "url": "https://api.getbible.net/v2/cut/51/1.json",
-    "sha": "c671b6d28d73a0d2606820b54d46057d88655999"
+    "sha": "04fda683b1c386b43c27cb54aaa4e8bd9b1eb2c6"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "歌羅西書 2",
     "url": "https://api.getbible.net/v2/cut/51/2.json",
-    "sha": "82c8ee8bdce8428df8e24895859d8ba73cd05da6"
+    "sha": "52c1e9ab437327f0f2b3e12e3dc50919478d4ff4"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "歌羅西書 3",
     "url": "https://api.getbible.net/v2/cut/51/3.json",
-    "sha": "41465be47b559d3aaea9ca886e5ddb27010dace6"
+    "sha": "4dd3688d71bbedcc972af7e3428429ffe82dec20"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "歌羅西書 4",
     "url": "https://api.getbible.net/v2/cut/51/4.json",
-    "sha": "eb5f4f1094db6c1a804f3aa175b2f0987b98cf96"
+    "sha": "8b7ae5c8ec61f9f9301c71e6f92459d8e209db31"
   }
 }

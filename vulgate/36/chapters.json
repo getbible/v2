@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonias",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sophonias 1",
     "url": "https://api.getbible.net/v2/vulgate/36/1.json",
-    "sha": "24d71613b1eaf034346395db65f64351f37a1f3a"
+    "sha": "6b51758efe675c61f7d6d4421ec79c96b077ddd3"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonias",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sophonias 2",
     "url": "https://api.getbible.net/v2/vulgate/36/2.json",
-    "sha": "3c095388664d3ba0297cb7f904a47770c98a22b1"
+    "sha": "d1c2aa7505e3624189a3958ceedb9d8ff303dee4"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sophonias",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sophonias 3",
     "url": "https://api.getbible.net/v2/vulgate/36/3.json",
-    "sha": "aca606477facbfbebd3f69a5fd477e06964a5f54"
+    "sha": "813c05e92926e16a6254676e398a355a3f5ea07e"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ioel",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Ioel 1",
     "url": "https://api.getbible.net/v2/vulgate/29/1.json",
-    "sha": "d7a6ec80be451edb58081d1fc7a4f16deb6cdd85"
+    "sha": "024051a6e847a5f52d35b36616ce3c78ce5965ff"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ioel",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Ioel 2",
     "url": "https://api.getbible.net/v2/vulgate/29/2.json",
-    "sha": "47c6cc4ead9b43d91dabec2d69ecbd32ba7c5ff9"
+    "sha": "96432c79f7b5f3770750e5c4577199cfb58cb884"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Ioel",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Ioel 3",
     "url": "https://api.getbible.net/v2/vulgate/29/3.json",
-    "sha": "d842316d5fc12a286c10870e5ce5914d28db93f1"
+    "sha": "5163e3652c021fb7f4944a6c995b53506cfade9c"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukas",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habakukas 1",
     "url": "https://api.getbible.net/v2/lithuanian/35/1.json",
-    "sha": "c6178ddf4605ae11d816fac91840b49d9dca69e7"
+    "sha": "e6a809c8e22e1029aa3108cf2ecb2578f49c6b44"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukas",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habakukas 2",
     "url": "https://api.getbible.net/v2/lithuanian/35/2.json",
-    "sha": "728a36cca50e72f6475144ed0d25ff985a06d9a1"
+    "sha": "2a32e5441be3574e99d67f4bd9ddd671b717588b"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukas",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habakukas 3",
     "url": "https://api.getbible.net/v2/lithuanian/35/3.json",
-    "sha": "40b7ea62c669e1378840fc9344c3db4f7e8e6734"
+    "sha": "2c26963e9c491947ac6d00ced94b813826d47bd8"
   }
 }

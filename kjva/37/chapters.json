@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Haggai 1",
     "url": "https://api.getbible.net/v2/kjva/37/1.json",
-    "sha": "c7c2ff79e52b979fd3583ffc602c5396f19f2bb8"
+    "sha": "65b149de330239b08a4a6d567d1c5f8616ccb2ac"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "Haggai 2",
     "url": "https://api.getbible.net/v2/kjva/37/2.json",
-    "sha": "6f68c1eb5103251f26b1b36280f0cc38b3e1491a"
+    "sha": "de710183fa6f96e5a9624c55b354f11263e6794b"
   }
 }

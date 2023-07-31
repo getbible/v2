@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iōna",
     "chapter": 1,
-    "name": "Jonah 1",
+    "name": "Iōna 1",
     "url": "https://api.getbible.net/v2/maori/32/1.json",
-    "sha": "9b86e680cbc87e8c1bd06ff28ffd2e3ce8bf0597"
+    "sha": "6dd71007801f3cb596922bc71ad6c4336c2389e1"
   },
   "2": {
     "translation": "Maori",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iōna",
     "chapter": 2,
-    "name": "Jonah 2",
+    "name": "Iōna 2",
     "url": "https://api.getbible.net/v2/maori/32/2.json",
-    "sha": "d8298f122ac1b9c669c8ebd119ea04a713744684"
+    "sha": "1ad83e271a96ad2985e1723c27aecd0ec78ebc55"
   },
   "3": {
     "translation": "Maori",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iōna",
     "chapter": 3,
-    "name": "Jonah 3",
+    "name": "Iōna 3",
     "url": "https://api.getbible.net/v2/maori/32/3.json",
-    "sha": "adfce17614eddaa112f031079aef68c18b27f75d"
+    "sha": "b7e0473cc056e3ae938fbbb2cf7634a91895106a"
   },
   "4": {
     "translation": "Maori",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 32,
-    "book_name": "Jonah",
+    "book_name": "Iōna",
     "chapter": 4,
-    "name": "Jonah 4",
+    "name": "Iōna 4",
     "url": "https://api.getbible.net/v2/maori/32/4.json",
-    "sha": "a687467c1410f266fe60bc6660fe85a22aa2f48b"
+    "sha": "aa0dd2024477e70d4a5458e284a33bb423647139"
   }
 }

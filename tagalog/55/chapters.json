@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timoteo 1",
     "url": "https://api.getbible.net/v2/tagalog/55/1.json",
-    "sha": "64d11e0560add6bc6b00183b4b542738613fcb0c"
+    "sha": "839f425e6e4b3455112e7a159dce8d591bff6f43"
   },
   "2": {
     "translation": "Ang Dating Biblia (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timoteo 2",
     "url": "https://api.getbible.net/v2/tagalog/55/2.json",
-    "sha": "bac032aab6ab2f2f2468a389893aad6d27aa84e3"
+    "sha": "1b6a713d786c1c2d8b3733968616c0716f35d1b9"
   },
   "3": {
     "translation": "Ang Dating Biblia (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timoteo 3",
     "url": "https://api.getbible.net/v2/tagalog/55/3.json",
-    "sha": "68f7e28083312cee5c451e6f4529f4f79d677e06"
+    "sha": "11db46a497bc5057d42c652cfe2f3085356a870b"
   },
   "4": {
     "translation": "Ang Dating Biblia (1905)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timoteo",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timoteo 4",
     "url": "https://api.getbible.net/v2/tagalog/55/4.json",
-    "sha": "f0e015300615bec934d2a4fe847713287b63a624"
+    "sha": "2a28f1b1019512f9ef9aea34ae1fda1e7472bad0"
   }
 }

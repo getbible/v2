@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggée",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Aggée 1",
     "url": "https://api.getbible.net/v2/darby/37/1.json",
-    "sha": "5ab8b8444cdc00133a4694436e9b7644f0d3c577"
+    "sha": "eb7e82d5ecee90b4b6b21fa459876771dbf76103"
   },
   "2": {
     "translation": "Darby",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggée",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Aggée 2",
     "url": "https://api.getbible.net/v2/darby/37/2.json",
-    "sha": "3efb8506bcb6f88cc8981036b0aeee3ee0969bf0"
+    "sha": "f9639db3902fb6344dd707f2bf343ac8379dcf89"
   }
 }

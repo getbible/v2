@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miĥa",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Miĥa 1",
     "url": "https://api.getbible.net/v2/esperanto/33/1.json",
-    "sha": "5292729816fd4fe2e6872549690fc5690196f3e2"
+    "sha": "9bce0264df2dfa25fef779057929cc34a8f00682"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miĥa",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Miĥa 2",
     "url": "https://api.getbible.net/v2/esperanto/33/2.json",
-    "sha": "a4dd49ac01c4a4cd2044c3a89ff508c90ac0e34d"
+    "sha": "9aafb419c0a88013e659ba4938c7f75c44b93d69"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miĥa",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Miĥa 3",
     "url": "https://api.getbible.net/v2/esperanto/33/3.json",
-    "sha": "8da491a4c81b928227685fdcdfafd3bdfa677ccf"
+    "sha": "95bd323b51860e7625feef9e413487b5452d2397"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miĥa",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Miĥa 4",
     "url": "https://api.getbible.net/v2/esperanto/33/4.json",
-    "sha": "e72dc30642f579dc4b5fa5193776d15ce2986ad9"
+    "sha": "fa71e1a8abf6bf8d26f91d20ac140bdf8180fd88"
   },
   "5": {
     "translation": "Esperanto",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miĥa",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Miĥa 5",
     "url": "https://api.getbible.net/v2/esperanto/33/5.json",
-    "sha": "74f942c19e44ac62a2987f7011312cddef5250ee"
+    "sha": "eb11514cdc4ab2d5e89519581f7da1c81ebc2d87"
   },
   "6": {
     "translation": "Esperanto",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miĥa",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Miĥa 6",
     "url": "https://api.getbible.net/v2/esperanto/33/6.json",
-    "sha": "7271104af1268a5df58c3e16e088b845e647542f"
+    "sha": "045b3b951d5b4be096530df13accccb72ab012ba"
   },
   "7": {
     "translation": "Esperanto",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Miĥa",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Miĥa 7",
     "url": "https://api.getbible.net/v2/esperanto/33/7.json",
-    "sha": "76eb12444e3b59e5f3b4c1d5258e7be56a6a9c54"
+    "sha": "e0bec0f5595c7a8828009de29e0abb475e48a5ca"
   }
 }

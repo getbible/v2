@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petr",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 Petr 1",
     "url": "https://api.getbible.net/v2/cep/60/1.json",
-    "sha": "14f5e22b55a4d8ae074417027f2e6ccbfcd4aa91"
+    "sha": "26aa99f068e82921ad7bf10b11ec070543551cf5"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petr",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 Petr 2",
     "url": "https://api.getbible.net/v2/cep/60/2.json",
-    "sha": "031dd9b1ca0650438221e73377facf9ef561eec3"
+    "sha": "6161609742185be4190573e2fe4d963ca068b26e"
   },
   "3": {
     "translation": "Czech CEP",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petr",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 Petr 3",
     "url": "https://api.getbible.net/v2/cep/60/3.json",
-    "sha": "3b9ada05d312cc0e24ee3e684cb96bf6fe511bed"
+    "sha": "d0d9c9af6c6d4d68962de6618b9ac4df7a8ec3e2"
   },
   "4": {
     "translation": "Czech CEP",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petr",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 Petr 4",
     "url": "https://api.getbible.net/v2/cep/60/4.json",
-    "sha": "dd1d0774a0ef98ece685a410532e4d04ee1c6403"
+    "sha": "2cd8fd97e52f1fcf458a62f1f6b89bbcc692cb8a"
   },
   "5": {
     "translation": "Czech CEP",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 Petr",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 Petr 5",
     "url": "https://api.getbible.net/v2/cep/60/5.json",
-    "sha": "40e11f8fcd4bbeef8b9d1a71615477e59c995d5d"
+    "sha": "6c0c2761db32e1a52abb458f7c2dcb2d5fbd3581"
   }
 }

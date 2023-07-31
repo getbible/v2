@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "2 Thessalonians 1",
     "url": "https://api.getbible.net/v2/wycliffe/53/1.json",
-    "sha": "1423d71fec99676ef3d49d6f605f8d68f24327db"
+    "sha": "6b542ec1098895a34b891a054b9a1fc535243bc9"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "2 Thessalonians 2",
     "url": "https://api.getbible.net/v2/wycliffe/53/2.json",
-    "sha": "e4d6ad3c4d2a93c753f248d02954ad7860b1b19a"
+    "sha": "0cfdfde8c28e633e5500391ed6ffd55b54330e2e"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Thessalonians 3",
     "url": "https://api.getbible.net/v2/wycliffe/53/3.json",
-    "sha": "db8d9484aace07c55477c20a958dc40e9b6e106e"
+    "sha": "430e3cda7a3a7c64369a83b65c70e99511b12a2e"
   }
 }

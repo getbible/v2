@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joels bok",
     "chapter": 1,
-    "name": "Joel 1",
+    "name": "Joels bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/29/1.json",
-    "sha": "7c1fe97daf61283ee780bef58c75d737f65221de"
+    "sha": "ef9b83137b8f87b69d8a9707d59d383b335d7b1f"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joels bok",
     "chapter": 2,
-    "name": "Joel 2",
+    "name": "Joels bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/29/2.json",
-    "sha": "934070e5e1cd2e5cfe8415b48d48471c0c5ae1f0"
+    "sha": "afa22b695186ca11824f4f566b79373e5f968822"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 29,
-    "book_name": "Joel",
+    "book_name": "Joels bok",
     "chapter": 3,
-    "name": "Joel 3",
+    "name": "Joels bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/29/3.json",
-    "sha": "02bd438c511d5975dc022b20f2145e2e9d83054c"
+    "sha": "cc5701ef00af234203536c0a365216be88f23e54"
   }
 }

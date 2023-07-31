@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ru-tơ",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Ru-tơ 1",
     "url": "https://api.getbible.net/v2/vietnamese/8/1.json",
-    "sha": "cde42e0533d57ac0759d0b05831825dfccc52a0f"
+    "sha": "30e773c4054d226066f8725f2f8d404e8e43ab7c"
   },
   "2": {
     "translation": "Vietnamese (1934)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ru-tơ",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Ru-tơ 2",
     "url": "https://api.getbible.net/v2/vietnamese/8/2.json",
-    "sha": "9ce81535330ab819481d257394bcdebd578fdb66"
+    "sha": "38982a1073c555d4855fb91afbf025fb7f0d29dd"
   },
   "3": {
     "translation": "Vietnamese (1934)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ru-tơ",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Ru-tơ 3",
     "url": "https://api.getbible.net/v2/vietnamese/8/3.json",
-    "sha": "320fb7247f000fc5248d51badcb659d61bd1199b"
+    "sha": "242abb69f42d6356f8264aa54a82c8bf3134a7f3"
   },
   "4": {
     "translation": "Vietnamese (1934)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ru-tơ",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Ru-tơ 4",
     "url": "https://api.getbible.net/v2/vietnamese/8/4.json",
-    "sha": "27ef7810f3ced28687ad757599eb39a2f3c4fb41"
+    "sha": "a5a8c4a71aa883c0bfad09ae5c1a086a4ed27d00"
   }
 }

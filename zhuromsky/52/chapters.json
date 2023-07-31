@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1-е Фессалоникийцам",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1-е Фессалоникийцам 1",
     "url": "https://api.getbible.net/v2/zhuromsky/52/1.json",
-    "sha": "3ffdd56799fbb7e6fa83e010e40a58e43c3cf4c1"
+    "sha": "37e4d2b149fdd3ea0ff922e148c67ea5192a3aa6"
   },
   "2": {
     "translation": "Victor Zhuromsky NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1-е Фессалоникийцам",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1-е Фессалоникийцам 2",
     "url": "https://api.getbible.net/v2/zhuromsky/52/2.json",
-    "sha": "5a1c070e4a0e4b63b597ca87a9c5003ab311d665"
+    "sha": "cb193571dc8775f01a1f9011b131e4643724dafa"
   },
   "3": {
     "translation": "Victor Zhuromsky NT",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1-е Фессалоникийцам",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1-е Фессалоникийцам 3",
     "url": "https://api.getbible.net/v2/zhuromsky/52/3.json",
-    "sha": "1687f21fa6b2a44a2702eac4a5cfcefca35644f5"
+    "sha": "ddce49d57bdabc20f253ab36d1f8939f56881b63"
   },
   "4": {
     "translation": "Victor Zhuromsky NT",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1-е Фессалоникийцам",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1-е Фессалоникийцам 4",
     "url": "https://api.getbible.net/v2/zhuromsky/52/4.json",
-    "sha": "d54df27717d8559f8df5111a3bedb159fc640685"
+    "sha": "4ba5d387358d676eeaaf1451eee4e618987f2077"
   },
   "5": {
     "translation": "Victor Zhuromsky NT",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1-е Фессалоникийцам",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1-е Фессалоникийцам 5",
     "url": "https://api.getbible.net/v2/zhuromsky/52/5.json",
-    "sha": "e789898040f1b8e0cb30bd264a5a199f6e089a74"
+    "sha": "14f3f82b6b6b27cd711ee7565920fd38314b3de8"
   }
 }

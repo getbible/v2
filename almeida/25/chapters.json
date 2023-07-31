@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentações",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "Lamentações 1",
     "url": "https://api.getbible.net/v2/almeida/25/1.json",
-    "sha": "6229b967ec67c00a2d9c39ac7834de99dd9223f5"
+    "sha": "f1ef161e034a59e508498cd80de6053ca67303db"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentações",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "Lamentações 2",
     "url": "https://api.getbible.net/v2/almeida/25/2.json",
-    "sha": "398843a4e15a0232dbe99c74a8dea95783e78dd2"
+    "sha": "b4c45f474b518f1556b66c997bc62c4e76738fbe"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentações",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "Lamentações 3",
     "url": "https://api.getbible.net/v2/almeida/25/3.json",
-    "sha": "8e43558a3f1e1c2bfb1ea131ba6f2dbd6f835b68"
+    "sha": "bafe418fd6677b6f263d6b57cb6354c48fdd119f"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentações",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "Lamentações 4",
     "url": "https://api.getbible.net/v2/almeida/25/4.json",
-    "sha": "3bddbffb1a663cd5c6e0dfa1099bd7ca33a7ecf2"
+    "sha": "1d21dbc7a0e646608d38812b414a9c6ef359ebd9"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "Lamentações",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "Lamentações 5",
     "url": "https://api.getbible.net/v2/almeida/25/5.json",
-    "sha": "3964a7a4b067e387837fba348cfd6a921f13057f"
+    "sha": "50cc22ffdd629020aa2610d0b07ab207ed4de7b6"
   }
 }

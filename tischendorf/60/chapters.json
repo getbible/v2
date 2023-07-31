@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "Πέτρου Α' 1",
     "url": "https://api.getbible.net/v2/tischendorf/60/1.json",
-    "sha": "f276eff9788abe4161a5dac4e6d6b145a7d4c8a2"
+    "sha": "33314210155e3717f4d05813ef6ac6d4747c03cd"
   },
   "2": {
     "translation": "NT Tischendorf 8th Ed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "Πέτρου Α' 2",
     "url": "https://api.getbible.net/v2/tischendorf/60/2.json",
-    "sha": "f2c6bd20ac4a86c70602bcde8afbe4d1d3dce2e1"
+    "sha": "a63438636e201dfa6bc570dc1ca2a1f30e686505"
   },
   "3": {
     "translation": "NT Tischendorf 8th Ed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "Πέτρου Α' 3",
     "url": "https://api.getbible.net/v2/tischendorf/60/3.json",
-    "sha": "8f4dbb56bbd85e7c47b5a7eb91d5794d501d875a"
+    "sha": "c7a682687a090a790d57c529422114f30668066e"
   },
   "4": {
     "translation": "NT Tischendorf 8th Ed",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "Πέτρου Α' 4",
     "url": "https://api.getbible.net/v2/tischendorf/60/4.json",
-    "sha": "f3d7af3ebca60c5f573c8ca9445bd6597f60b40d"
+    "sha": "89cc5f9cfca3e28d59ee5540a3b0ea50fb088d24"
   },
   "5": {
     "translation": "NT Tischendorf 8th Ed",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Πέτρου Α'",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "Πέτρου Α' 5",
     "url": "https://api.getbible.net/v2/tischendorf/60/5.json",
-    "sha": "667d0c8b536d492ae1797099c6997f4687720e73"
+    "sha": "dc8ec1fc7bc5378e5e9780be062add0c1e982b43"
   }
 }

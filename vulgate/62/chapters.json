@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "I Ioannes",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "I Ioannes 1",
     "url": "https://api.getbible.net/v2/vulgate/62/1.json",
-    "sha": "0867100bcee12e1a011987d681e8efe29a560aac"
+    "sha": "d1b16e4a26e3e6b2cf059c77adbb8c9f2670b3d0"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "I Ioannes",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "I Ioannes 2",
     "url": "https://api.getbible.net/v2/vulgate/62/2.json",
-    "sha": "515016d7434618e607e887ed7cec552f56b39abe"
+    "sha": "18e73b24b57057cff8f4ad8261605dfd3cecfb66"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "I Ioannes",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "I Ioannes 3",
     "url": "https://api.getbible.net/v2/vulgate/62/3.json",
-    "sha": "fa6dffc715cfce0789e92274dea4b5c83e23396b"
+    "sha": "1108e4103bafb7c4c38a953a7bb4c4ae15f5f6c3"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "I Ioannes",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "I Ioannes 4",
     "url": "https://api.getbible.net/v2/vulgate/62/4.json",
-    "sha": "decca3793210ccd8cab93cc92daaf82ab3b02554"
+    "sha": "134c880d56bf214847e117ef5932ab0193215eb2"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "I Ioannes",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "I Ioannes 5",
     "url": "https://api.getbible.net/v2/vulgate/62/5.json",
-    "sha": "da2aa1e1ad41626a36ed9797dfada259256c9943"
+    "sha": "8a36317496ca84f1cb201a96994037ecd1e3b35a"
   }
 }

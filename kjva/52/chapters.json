@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "1 Thessalonians 1",
     "url": "https://api.getbible.net/v2/kjva/52/1.json",
-    "sha": "9f0c01480bca391149bb9c87a93e8546e6efaeac"
+    "sha": "cedb5518808a3d2ba4f188cec2bef10be396b295"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://api.getbible.net/v2/kjva/52/2.json",
-    "sha": "4abd9e3116e5728098717914989948c631b06ac4"
+    "sha": "e10225cbfb3b0e25c7637e46dad927a73212011a"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "1 Thessalonians 3",
     "url": "https://api.getbible.net/v2/kjva/52/3.json",
-    "sha": "9eefe3d1892872004dc6b0aa56d016831fe8b6c7"
+    "sha": "e39daf9319c9fea5ce1cabcdc28b1a81b678bfa6"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "1 Thessalonians 4",
     "url": "https://api.getbible.net/v2/kjva/52/4.json",
-    "sha": "0b262b64e7d5919d3d9d9f1d1ca86162ce38598a"
+    "sha": "4c6c80ec760c852281faee592caf16b708986ae2"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Thessalonians 5",
     "url": "https://api.getbible.net/v2/kjva/52/5.json",
-    "sha": "6c7757ba70ecbe1025a1fc73af196e580a7e1d94"
+    "sha": "88e8e1a59a3a2408749a6131c073a74a477cd465"
   }
 }

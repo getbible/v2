@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 1,
-    "name": "Ephesians 1",
+    "name": "Éphésiens 1",
     "url": "https://api.getbible.net/v2/martin/49/1.json",
-    "sha": "742693fa4ccfa8a9a4ce7d992ab9bca414fc6b6f"
+    "sha": "bdc2d3d78185ad30de7c427d0e548f648ac6e6dc"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 2,
-    "name": "Ephesians 2",
+    "name": "Éphésiens 2",
     "url": "https://api.getbible.net/v2/martin/49/2.json",
-    "sha": "9c98f67820525d4317a475988295ac57a72c87a5"
+    "sha": "f7ae02635ee6c52b62cbf8abf0ad415a7a091f73"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 3,
-    "name": "Ephesians 3",
+    "name": "Éphésiens 3",
     "url": "https://api.getbible.net/v2/martin/49/3.json",
-    "sha": "50756bc3dd6bd88f50f63f4c14d495d548c9d833"
+    "sha": "f29c5596d6a9ed59628eadb0381c4293c5f64fba"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 4,
-    "name": "Ephesians 4",
+    "name": "Éphésiens 4",
     "url": "https://api.getbible.net/v2/martin/49/4.json",
-    "sha": "63c8391f8bbe999b271ec9ccaa808d6d024562c4"
+    "sha": "8b620924dde317ca26b0ce9c7963730e50041fee"
   },
   "5": {
     "translation": "Martin (1744)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 5,
-    "name": "Ephesians 5",
+    "name": "Éphésiens 5",
     "url": "https://api.getbible.net/v2/martin/49/5.json",
-    "sha": "edb18ecc55276d50e3b3ed38979ba888a0234021"
+    "sha": "6adc426c5f2bd3115f70750cf59a8350d11f3fe8"
   },
   "6": {
     "translation": "Martin (1744)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Ephesians",
+    "book_name": "Éphésiens",
     "chapter": 6,
-    "name": "Ephesians 6",
+    "name": "Éphésiens 6",
     "url": "https://api.getbible.net/v2/martin/49/6.json",
-    "sha": "96bf734176fa2cca591cba3730cbe3a8537325e7"
+    "sha": "00b60dd4320626a1a503022eb15c4bb986619b49"
   }
 }

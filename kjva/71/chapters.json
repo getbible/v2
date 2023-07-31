@@ -1,6 +1,132 @@
 {
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 1,
+    "name": "Additions to Esther 1",
+    "url": "https://api.getbible.net/v2/kjva/71/1.json",
+    "sha": "db6cdbc841b8be04150505a5b6062eb08adb29f3"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 2,
+    "name": "Additions to Esther 2",
+    "url": "https://api.getbible.net/v2/kjva/71/2.json",
+    "sha": "75f984f34b0873a5acf24bacd8e4fc93b40ead18"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 3,
+    "name": "Additions to Esther 3",
+    "url": "https://api.getbible.net/v2/kjva/71/3.json",
+    "sha": "e654736a703875201d873c6c15e6d07aed5d803d"
+  },
+  "4": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 4,
+    "name": "Additions to Esther 4",
+    "url": "https://api.getbible.net/v2/kjva/71/4.json",
+    "sha": "81420001abdd5208e24236fa3c7ca0281422c6af"
+  },
+  "5": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 5,
+    "name": "Additions to Esther 5",
+    "url": "https://api.getbible.net/v2/kjva/71/5.json",
+    "sha": "fac79d6dfc5c7be14286d28f5c81f0ac94d8a4b7"
+  },
+  "6": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 6,
+    "name": "Additions to Esther 6",
+    "url": "https://api.getbible.net/v2/kjva/71/6.json",
+    "sha": "8c50af92f7b03f9b02f1b4c215e3e74303a15352"
+  },
+  "7": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 7,
+    "name": "Additions to Esther 7",
+    "url": "https://api.getbible.net/v2/kjva/71/7.json",
+    "sha": "a5519345023260da3748a80ee79b9b74e19bef7d"
+  },
+  "8": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 8,
+    "name": "Additions to Esther 8",
+    "url": "https://api.getbible.net/v2/kjva/71/8.json",
+    "sha": "367186d1e701b760d27d5c4f112e8191ed43ba89"
+  },
+  "9": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 71,
+    "book_name": "Additions to Esther",
+    "chapter": 9,
+    "name": "Additions to Esther 9",
+    "url": "https://api.getbible.net/v2/kjva/71/9.json",
+    "sha": "1397ed0063a066a2785a495ecc51b2ad84c275ac"
+  },
   "10": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +137,10 @@
     "chapter": 10,
     "name": "Additions to Esther 10",
     "url": "https://api.getbible.net/v2/kjva/71/10.json",
-    "sha": "08f103cfefd0c8e7a111fe0546521d70ebf4447f"
+    "sha": "cf5f115280f9914e9be87420bcb2e0a3eb3eea2e"
   },
   "11": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +151,10 @@
     "chapter": 11,
     "name": "Additions to Esther 11",
     "url": "https://api.getbible.net/v2/kjva/71/11.json",
-    "sha": "2eb6eaff0ae5e0ece9fd006dda047cc1e4848ec8"
+    "sha": "66e98c4fed6f9d5373fc4032d34d37cbcf3da60b"
   },
   "12": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +165,10 @@
     "chapter": 12,
     "name": "Additions to Esther 12",
     "url": "https://api.getbible.net/v2/kjva/71/12.json",
-    "sha": "0dc11b3d33eb779fb9ecfaa19f32b2daffa4cd5b"
+    "sha": "fa6ad987e1555e8205ac8ddac2e22555b586f280"
   },
   "13": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +179,10 @@
     "chapter": 13,
     "name": "Additions to Esther 13",
     "url": "https://api.getbible.net/v2/kjva/71/13.json",
-    "sha": "1ea3d6ba70bc1e7e35e02c03b82624b222ab6ee9"
+    "sha": "f7a99f47fe41b301ecf88992e5044dceec07aed3"
   },
   "14": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +193,10 @@
     "chapter": 14,
     "name": "Additions to Esther 14",
     "url": "https://api.getbible.net/v2/kjva/71/14.json",
-    "sha": "87fd92efec75dbd616f1424ddd2b5ab1900d269e"
+    "sha": "6b59f9ab40e40f7603b487578087439043734c9b"
   },
   "15": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,10 +207,10 @@
     "chapter": 15,
     "name": "Additions to Esther 15",
     "url": "https://api.getbible.net/v2/kjva/71/15.json",
-    "sha": "3f81e200d4b4935b187e1547ee750fae9f407731"
+    "sha": "c687507bf12cb1831781223a7f8523434d586e46"
   },
   "16": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -95,6 +221,6 @@
     "chapter": 16,
     "name": "Additions to Esther 16",
     "url": "https://api.getbible.net/v2/kjva/71/16.json",
-    "sha": "00da43af2829fd2a7064aff0c775295170d9a7d5"
+    "sha": "4cfac88ee08f6eb67e8e5e2892c275b5dd0a959d"
   }
 }

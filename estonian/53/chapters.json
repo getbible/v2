@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tessalooniklastele",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Tessalooniklastele 1",
     "url": "https://api.getbible.net/v2/estonian/53/1.json",
-    "sha": "705768d907f77248d3303571baa0f82f9add6dac"
+    "sha": "955bd9f80421c036481819f6d001c3676c47de55"
   },
   "2": {
     "translation": "Estonian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tessalooniklastele",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Tessalooniklastele 2",
     "url": "https://api.getbible.net/v2/estonian/53/2.json",
-    "sha": "7358526184e6b4e93cc423b251d6f5ce4099264f"
+    "sha": "291216b25fe638cc788401fa6ff99c76242f79f3"
   },
   "3": {
     "translation": "Estonian",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tessalooniklastele",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Tessalooniklastele 3",
     "url": "https://api.getbible.net/v2/estonian/53/3.json",
-    "sha": "4bb299ce1439bd1107b5321df096ddf3d76eee47"
+    "sha": "8e7938b12c2983098bdeef6e8bf7d7f79ebe5d7c"
   }
 }

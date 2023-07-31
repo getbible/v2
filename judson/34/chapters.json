@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "နာဟုမ်",
     "chapter": 1,
-    "name": "Nahum 1",
+    "name": "နာဟုမ် 1",
     "url": "https://api.getbible.net/v2/judson/34/1.json",
-    "sha": "c6d16e3082d5eb63a7672b715b873654df990cd0"
+    "sha": "f7dd9c5632977177674fe06593a4f7e48d2f70c0"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "နာဟုမ်",
     "chapter": 2,
-    "name": "Nahum 2",
+    "name": "နာဟုမ် 2",
     "url": "https://api.getbible.net/v2/judson/34/2.json",
-    "sha": "4d8c8520248619a9ecdb3557f57c78ed28f090c5"
+    "sha": "e7c8fc0160a6fe2c2206455ba6d6ef26daf848c5"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 34,
-    "book_name": "Nahum",
+    "book_name": "နာဟုမ်",
     "chapter": 3,
-    "name": "Nahum 3",
+    "name": "နာဟုမ် 3",
     "url": "https://api.getbible.net/v2/judson/34/3.json",
-    "sha": "a01425d5a7906fa80dad1c4898fbda50d1bd0263"
+    "sha": "6e8db7260ce5161e7cf0d486e7a6b725efa0f081"
   }
 }

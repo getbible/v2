@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Ⲡⲉⲧⲣⲟⲥ 1",
     "url": "https://api.getbible.net/v2/coptic/61/1.json",
-    "sha": "5cc7cf00ecfd870c12a71da35bbaf7851d5de0e0"
+    "sha": "5d77e1eae2225b4097338e36e19a775b74b0465b"
   },
   "2": {
     "translation": "New Testament",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Ⲡⲉⲧⲣⲟⲥ 2",
     "url": "https://api.getbible.net/v2/coptic/61/2.json",
-    "sha": "d5b7040089bdcf7687a21156c96173455e48ed71"
+    "sha": "de6edf43ba6d2fbded9961bc347b73312ee54153"
   },
   "3": {
     "translation": "New Testament",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Ⲡⲉⲧⲣⲟⲥ",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Ⲡⲉⲧⲣⲟⲥ 3",
     "url": "https://api.getbible.net/v2/coptic/61/3.json",
-    "sha": "e3d0e603ec1385eb0a7a90dfb7f5db68f86b99e3"
+    "sha": "1434cd31d5acd3d8f03055b69fe47bd02a947263"
   }
 }

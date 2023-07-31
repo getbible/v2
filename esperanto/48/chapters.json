@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatoj",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galatoj 1",
     "url": "https://api.getbible.net/v2/esperanto/48/1.json",
-    "sha": "1234bbc5bcb43c480ff89d0d7d3d4389777dcb7f"
+    "sha": "077bf77487ff3d1467a2bef9ed3b2d9952533927"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatoj",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galatoj 2",
     "url": "https://api.getbible.net/v2/esperanto/48/2.json",
-    "sha": "f6182e5c928873db763e0f6866ce6d7c464694f8"
+    "sha": "cf6c2b91a9b47ec40cbe4f0cccfb12756b5af4db"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatoj",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galatoj 3",
     "url": "https://api.getbible.net/v2/esperanto/48/3.json",
-    "sha": "0b40fb779642c3d666bde10536fe2ef4f090ed1d"
+    "sha": "272ba0ad9eb2191c4a3a8e063d1eb4d5a3f8ebde"
   },
   "4": {
     "translation": "Esperanto",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatoj",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galatoj 4",
     "url": "https://api.getbible.net/v2/esperanto/48/4.json",
-    "sha": "674ab8424369b892122972482cec2f2753009423"
+    "sha": "59bc0d8fbb116b46b4519278cfcb89b780ee6385"
   },
   "5": {
     "translation": "Esperanto",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatoj",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galatoj 5",
     "url": "https://api.getbible.net/v2/esperanto/48/5.json",
-    "sha": "9dcb1929d1df4f21cde39711d03028acb247c0fb"
+    "sha": "f1fc38d07b7a801e381bf54b0f0e8591da76c0fc"
   },
   "6": {
     "translation": "Esperanto",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatoj",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galatoj 6",
     "url": "https://api.getbible.net/v2/esperanto/48/6.json",
-    "sha": "1d77faa51258a0e05727c54bad5ca09330040e4b"
+    "sha": "1e8331c8ab9b00882ac1a62330ade0bcc3cdfb0d"
   }
 }

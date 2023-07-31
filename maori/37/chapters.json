@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hakai",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Hakai 1",
     "url": "https://api.getbible.net/v2/maori/37/1.json",
-    "sha": "6e75ab1ccbf0a1544da4081b04c1fbaa46f8ad7a"
+    "sha": "a60d25da4d53f6437a12ebfa742b19ef1947280d"
   },
   "2": {
     "translation": "Maori",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hakai",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Hakai 2",
     "url": "https://api.getbible.net/v2/maori/37/2.json",
-    "sha": "0b7c22054662e3ad99f0f7396d0db34751601962"
+    "sha": "81afdcd38da1c7278427c5c4652a722ee90eccfc"
   }
 }

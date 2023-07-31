@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Santiago 1",
     "url": "https://api.getbible.net/v2/valera/59/1.json",
-    "sha": "321b7c2c9a25487508f25c285a2a2f139c00d0e9"
+    "sha": "61084290c9bc91ab75ce545ef7a438c20dafba3f"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Santiago 2",
     "url": "https://api.getbible.net/v2/valera/59/2.json",
-    "sha": "84f5c68a82ada2651caf9eb8a016f107ef53324a"
+    "sha": "1d1a0750fe2ead5c5392580e3c0adf91bedfbb87"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Santiago 3",
     "url": "https://api.getbible.net/v2/valera/59/3.json",
-    "sha": "1815498568d5277e271f4fec118e8e10590fa511"
+    "sha": "819fb3cd49fc97dc16d3fe6449cb7e961ddb64ab"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Santiago 4",
     "url": "https://api.getbible.net/v2/valera/59/4.json",
-    "sha": "13a3093fcb1b9f18cb9b0f72a7e8738f61988465"
+    "sha": "e03ff9740a3718b48af8f92a735e09164ae2edd1"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Santiago",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Santiago 5",
     "url": "https://api.getbible.net/v2/valera/59/5.json",
-    "sha": "2fd7d9d28ec6323e59b942597a897baf77db92d8"
+    "sha": "989407429c65d308068fa838a719242b4492e080"
   }
 }

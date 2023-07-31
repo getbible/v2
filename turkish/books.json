@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "Yaratılış",
     "url": "https://api.getbible.net/v2/turkish/1.json",
-    "sha": "127f106114eb672bd4b2d067c949b6da7fc4e2c4"
+    "sha": "54622fff53ee0bb823df00c801de2e4478f4557e"
   },
   "2": {
     "translation": "Turkish",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Mısır’dan Çıkış",
     "url": "https://api.getbible.net/v2/turkish/2.json",
-    "sha": "012e7dd865479214418a36fe30de707399dc4897"
+    "sha": "5ef3d12fd4743ef2d549f858c463cec6b44ad73b"
   },
   "3": {
     "translation": "Turkish",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levililer",
     "url": "https://api.getbible.net/v2/turkish/3.json",
-    "sha": "240724b492647212aab902e9077d3378b1013791"
+    "sha": "f7c3244dfe5dfaa6848af83ba1b9c2fdadf599b3"
   },
   "4": {
     "translation": "Turkish",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Sayılar",
     "url": "https://api.getbible.net/v2/turkish/4.json",
-    "sha": "251dee7a3251c0aa2b31f2b372d2b07ee4139a00"
+    "sha": "e8c1ebe3c8f1b561b59646e372d7a4ef63de93e4"
   },
   "5": {
     "translation": "Turkish",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Yasa’nın Tekrarı",
     "url": "https://api.getbible.net/v2/turkish/5.json",
-    "sha": "d2cfee8902673e82d20835f64255de85323dc573"
+    "sha": "4fb638b96c4e5f07a7e213d4ff046d3d6ca505cc"
   },
   "6": {
     "translation": "Turkish",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Yeşu",
     "url": "https://api.getbible.net/v2/turkish/6.json",
-    "sha": "ff16c98662106151f5765192b6e074eaef12ab72"
+    "sha": "ea466ccd8a3bd872d16589aaff581598ee785984"
   },
   "7": {
     "translation": "Turkish",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Hakimler",
     "url": "https://api.getbible.net/v2/turkish/7.json",
-    "sha": "b59502fcdad2177be8764f79496239813cb0095a"
+    "sha": "2e508d46ba48f843714e5beb846257b3c0c5fb04"
   },
   "8": {
     "translation": "Turkish",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "Rut",
     "url": "https://api.getbible.net/v2/turkish/8.json",
-    "sha": "38ee4b362463795c577f19536655966a94842469"
+    "sha": "786794b36de02d708f45215a765a8826315a8557"
   },
   "9": {
     "translation": "Turkish",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Krallar",
     "url": "https://api.getbible.net/v2/turkish/11.json",
-    "sha": "421aa30494f348726470f0b231bc6125c247df5c"
+    "sha": "da997f7a92d45d3cd39ba34c6b756d596ea60bc3"
   },
   "12": {
     "translation": "Turkish",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Krallar",
     "url": "https://api.getbible.net/v2/turkish/12.json",
-    "sha": "f44ccfb8f5dac2fe85c918417d585e784a36f17f"
+    "sha": "06cc2296147ba34e2c185a8c86068c8ed20c62de"
   },
   "13": {
     "translation": "Turkish",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Tarihler",
     "url": "https://api.getbible.net/v2/turkish/13.json",
-    "sha": "798386f49b7c6c1dbdc8c9e77019934e2b4b80f2"
+    "sha": "18eac8b703708b3883209ae78cd90ea4e2323b85"
   },
   "14": {
     "translation": "Turkish",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Tarihler",
     "url": "https://api.getbible.net/v2/turkish/14.json",
-    "sha": "06c37ee22bf835f8d050028e67e54d23294964df"
+    "sha": "5d2097e33232dc33eb6f769111c20029bae2846b"
   },
   "15": {
     "translation": "Turkish",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemya",
     "url": "https://api.getbible.net/v2/turkish/16.json",
-    "sha": "710b41c2c7da0b8b92bad0ec6211499a9755143f"
+    "sha": "fba33f102f6cb6a3582d607c2ff349e3a5817333"
   },
   "17": {
     "translation": "Turkish",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/turkish/17.json",
-    "sha": "094add0fb26a12d9cb3ad4c5f34116e90d77b6a5"
+    "sha": "1c6c71a6619d3bf66a492fcdc28570d086423937"
   },
   "18": {
     "translation": "Turkish",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "Eyüp",
     "url": "https://api.getbible.net/v2/turkish/18.json",
-    "sha": "38101714841eb6b66a63a1d523c9591496872d2c"
+    "sha": "61127fd74d32e2edf8c98e72e701f0e36c15b5ad"
   },
   "19": {
     "translation": "Turkish",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Mezmurlar",
     "url": "https://api.getbible.net/v2/turkish/19.json",
-    "sha": "5e50237eb51e885b9ec17cc016debcc818c3d94a"
+    "sha": "d8726de0d3e2a8d219ccd796d9ffc4d1d881bf42"
   },
   "20": {
     "translation": "Turkish",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Özdeyişler",
     "url": "https://api.getbible.net/v2/turkish/20.json",
-    "sha": "93439f62dcf62fc17f03da9bf8fb86cf62a7fb7a"
+    "sha": "5dad4bf621d6e68f60fea39f656124b98be40e0e"
   },
   "21": {
     "translation": "Turkish",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Vaiz",
     "url": "https://api.getbible.net/v2/turkish/21.json",
-    "sha": "0bf99ecf915f5aad68ad865db837c86f8e3d5716"
+    "sha": "c119cf9e3afb0c4ca3d317c70ef7c2e982a2b4c2"
   },
   "22": {
     "translation": "Turkish",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Ezgiler Ezgisi",
     "url": "https://api.getbible.net/v2/turkish/22.json",
-    "sha": "99e0fcbb229949a28f88172969886d31cc3bd43b"
+    "sha": "220b75485cc72c900cae47acaed4f2c4a5f6a416"
   },
   "23": {
     "translation": "Turkish",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Yeşaya",
     "url": "https://api.getbible.net/v2/turkish/23.json",
-    "sha": "2f231d6a24f4e687c875297132bf197b5041cd65"
+    "sha": "282a649801e5413c07a7d0cd5caaef2c541fb772"
   },
   "24": {
     "translation": "Turkish",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Yeremya",
     "url": "https://api.getbible.net/v2/turkish/24.json",
-    "sha": "4763369bcb7caf8293939555fdafbe0934467eeb"
+    "sha": "825ee6eadca53e58e2ef24f666caf4bfc6976411"
   },
   "25": {
     "translation": "Turkish",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Ağıtlar",
     "url": "https://api.getbible.net/v2/turkish/25.json",
-    "sha": "d1697e006fd53541e52beae1167e06c95fb2d6e3"
+    "sha": "f224a812ea0830fa96e76325a3c92bb1aa95686d"
   },
   "26": {
     "translation": "Turkish",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Hezekiel",
     "url": "https://api.getbible.net/v2/turkish/26.json",
-    "sha": "61bc8ffec8035eaff60d407e3da6ee926701e0c3"
+    "sha": "1577a1b24c4cf975dc521dcf73f1a256aefe7221"
   },
   "27": {
     "translation": "Turkish",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Hoşea",
     "url": "https://api.getbible.net/v2/turkish/28.json",
-    "sha": "3bbde2684bfeca7eafb2f01fc478fb603be45658"
+    "sha": "75b8ef3981e8bbaf9312cf5115e0fd57a10342ca"
   },
   "29": {
     "translation": "Turkish",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Yoel",
     "url": "https://api.getbible.net/v2/turkish/29.json",
-    "sha": "e44901da75e974c2012103b0ca119342fb8b884c"
+    "sha": "ddb96876dbfd2110ae52dd3e0b989503e9f1ce6e"
   },
   "30": {
     "translation": "Turkish",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadya",
     "url": "https://api.getbible.net/v2/turkish/31.json",
-    "sha": "d819fb25a20f558d0ee76a7099b6e71e9983d2e5"
+    "sha": "7edf9fd61e106cf9cb02c9acf510bf1a4c2da0c4"
   },
   "32": {
     "translation": "Turkish",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Yunus",
     "url": "https://api.getbible.net/v2/turkish/32.json",
-    "sha": "c6ffc4d26c3e2744203f3e94c585dc684e463a24"
+    "sha": "64db4691ade6c5bec89b57293fa7846292579ecf"
   },
   "33": {
     "translation": "Turkish",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Mika",
     "url": "https://api.getbible.net/v2/turkish/33.json",
-    "sha": "afc5822305c86f05d3d6c41c56618dc0ca598ccc"
+    "sha": "1dce792133809d0ba976eeebd073f8da03008556"
   },
   "34": {
     "translation": "Turkish",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Sefanya",
     "url": "https://api.getbible.net/v2/turkish/36.json",
-    "sha": "19878e866c3879e3e5fb2182e39f98283a9df4c5"
+    "sha": "52a89856466500071e0e080144bf2f7bc567c29b"
   },
   "37": {
     "translation": "Turkish",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Hagay",
     "url": "https://api.getbible.net/v2/turkish/37.json",
-    "sha": "7fcfeb65bce135bf514a83ba96cb930648d040ba"
+    "sha": "a53d72c9c49920d4d9a52a046a230b0af429b5a1"
   },
   "38": {
     "translation": "Turkish",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zekeriya",
     "url": "https://api.getbible.net/v2/turkish/38.json",
-    "sha": "6fa7b925f895ab322327b23a9797737e693f166a"
+    "sha": "0c647103b719d2b7e1187a0d11f0e460eed602ad"
   },
   "39": {
     "translation": "Turkish",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malaki",
     "url": "https://api.getbible.net/v2/turkish/39.json",
-    "sha": "5d3a52d4ad5c9c042be67f3e2b7fcc624bdfc55e"
+    "sha": "70ab9958f873c6df403f00c18dbd79dd34cdecd8"
   },
   "40": {
     "translation": "Turkish",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Matta",
     "url": "https://api.getbible.net/v2/turkish/40.json",
-    "sha": "a2ef3f188498c867e0cfdc07be04763891d0f68e"
+    "sha": "fd70b24e8172b98ae8c943b788a940d2e3a1d685"
   },
   "41": {
     "translation": "Turkish",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Markos",
     "url": "https://api.getbible.net/v2/turkish/41.json",
-    "sha": "328f46313877258fbebef2226d6ac42668938b91"
+    "sha": "53f8ae02ec6c7eb2d26bbeda8001df2d012950ba"
   },
   "42": {
     "translation": "Turkish",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Luka",
     "url": "https://api.getbible.net/v2/turkish/42.json",
-    "sha": "49afcb8d536748ab0cff7e4c26f77fd89039d446"
+    "sha": "77b7d490fe87f9d857d3fb8a37297bd0eaba891a"
   },
   "43": {
     "translation": "Turkish",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Yuhanna",
     "url": "https://api.getbible.net/v2/turkish/43.json",
-    "sha": "599802c36ed28c665921bac3ce8ad2aaeaa72d44"
+    "sha": "0f35879e2558e6373b90ac1fe6609ddf31a15da9"
   },
   "44": {
     "translation": "Turkish",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Elçilerin İşleri",
     "url": "https://api.getbible.net/v2/turkish/44.json",
-    "sha": "a8bf06f4bf19e50b5072377fbd95e451ebbd1cd4"
+    "sha": "c0e3cf7d0f787c93d6af5f6ba8b9a5a024838032"
   },
   "45": {
     "translation": "Turkish",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romalılar’a",
     "url": "https://api.getbible.net/v2/turkish/45.json",
-    "sha": "703575a62085fa9aceb5f9a3ac4e4909fb1c4312"
+    "sha": "fdaf6c2bf06cdc290cb8bcfed073111724615da2"
   },
   "46": {
     "translation": "Turkish",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korintliler’e",
     "url": "https://api.getbible.net/v2/turkish/46.json",
-    "sha": "dcf7e45da296c56b7372f7cbf796384e50fe83c7"
+    "sha": "e9c219ffb5b0f47b3fc8a08f4117467a8bcb1beb"
   },
   "47": {
     "translation": "Turkish",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korintliler’e",
     "url": "https://api.getbible.net/v2/turkish/47.json",
-    "sha": "a22746c0528cfb5d201ea9453c3c5858660b4f16"
+    "sha": "11d14dbb8389d5455cf7127befd0ecf600b91e4a"
   },
   "48": {
     "translation": "Turkish",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galatyalılar’a",
     "url": "https://api.getbible.net/v2/turkish/48.json",
-    "sha": "e145580e983adade7c9e133ef0c7b296d9ea6764"
+    "sha": "6bc6b440df5a96e7757426ecc63ed374610b2d4a"
   },
   "49": {
     "translation": "Turkish",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efesliler’e",
     "url": "https://api.getbible.net/v2/turkish/49.json",
-    "sha": "67ffd5436e621dd51a37e5e032fe42580a4e5cab"
+    "sha": "7c131f94be6c5ddbdf31f1d6a108e0a4734705f4"
   },
   "50": {
     "translation": "Turkish",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Fililililer’e",
     "url": "https://api.getbible.net/v2/turkish/50.json",
-    "sha": "02ca51e63239343a6c907b1afa6b99ff92150bf1"
+    "sha": "3b59cf0d1cecaabdcb77ef7954b91a36af235b80"
   },
   "51": {
     "translation": "Turkish",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Koloseliler’e",
     "url": "https://api.getbible.net/v2/turkish/51.json",
-    "sha": "3bb77faf579da75d0792b45fe86f73394250fbb4"
+    "sha": "e65ce331bdb9379391cd6cf6e797bfffd189f5c7"
   },
   "52": {
     "translation": "Turkish",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Selanikliler’e",
     "url": "https://api.getbible.net/v2/turkish/52.json",
-    "sha": "8d83ae7e5ab27cae5c9240fa5fdea13decc19c0c"
+    "sha": "6329d62547385dca57fa98e0995189e1b25e3fa4"
   },
   "53": {
     "translation": "Turkish",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Selanikliler’e",
     "url": "https://api.getbible.net/v2/turkish/53.json",
-    "sha": "fe672aece5fd31a9762fdcd095c1d78c28770c5c"
+    "sha": "9d3beabe0b4609ac02a217d06b038847a87fb691"
   },
   "54": {
     "translation": "Turkish",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteos’a",
     "url": "https://api.getbible.net/v2/turkish/54.json",
-    "sha": "7ad05c7c5aae0a47d4ba14ea72a93888605eb79a"
+    "sha": "391db2ca51cd2a732c76d1e3e07d8a3a053f4301"
   },
   "55": {
     "translation": "Turkish",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteos’a",
     "url": "https://api.getbible.net/v2/turkish/55.json",
-    "sha": "9e2685c8bc08362b328682467d25d931b2f73865"
+    "sha": "c3b755647d4ae6dc10c24a3e9ed67b2d0f7d2ace"
   },
   "56": {
     "translation": "Turkish",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Titus’a",
     "url": "https://api.getbible.net/v2/turkish/56.json",
-    "sha": "e4d4b7c5482a84687083634f7eec642c29999cb5"
+    "sha": "728a3a29d80fb9a7c87dbe8dae5ba9c8bcd883a5"
   },
   "57": {
     "translation": "Turkish",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemon’a",
     "url": "https://api.getbible.net/v2/turkish/57.json",
-    "sha": "36ebc1bc8d51938edb7b5fe520aa7b56b9898c49"
+    "sha": "b3f81a64d45a299d73b88e0c688c53c9cfa6c44c"
   },
   "58": {
     "translation": "Turkish",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "İbraniler’e",
     "url": "https://api.getbible.net/v2/turkish/58.json",
-    "sha": "c3185520ab2da19f4acfa177ab498f758e7e316b"
+    "sha": "1ffbd1458a71051af16a9e612d30c59867ed1447"
   },
   "59": {
     "translation": "Turkish",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Yakup",
     "url": "https://api.getbible.net/v2/turkish/59.json",
-    "sha": "c4dfb0d38a9b80fde03df261b17dc6ffa36c372d"
+    "sha": "dc1ec0e8303628f0d71fc1ef8c8c3cc8e75ab206"
   },
   "60": {
     "translation": "Turkish",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Petrus",
     "url": "https://api.getbible.net/v2/turkish/60.json",
-    "sha": "02107bb923ddb7c400bc464d9c7d9c29fb99c977"
+    "sha": "9a03696da7244906872c1c26883088d457f50f29"
   },
   "61": {
     "translation": "Turkish",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Petrus",
     "url": "https://api.getbible.net/v2/turkish/61.json",
-    "sha": "1442fbf652ee1f7526dd7c9b142983987162e522"
+    "sha": "dde237e4fcc6366c2c02ed81b22766712d974368"
   },
   "62": {
     "translation": "Turkish",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Yuhanna",
     "url": "https://api.getbible.net/v2/turkish/62.json",
-    "sha": "998eabf66e21bc006af2abede60c29b034033380"
+    "sha": "8f769e4b9262b1cec81d0736f0996a434fc9508a"
   },
   "63": {
     "translation": "Turkish",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Yuhanna",
     "url": "https://api.getbible.net/v2/turkish/63.json",
-    "sha": "f2c42d8d32cdfe47a97e0002541d2967c44606a6"
+    "sha": "7183d5c1a35362009b003a142e9f4c2e3c2580f8"
   },
   "64": {
     "translation": "Turkish",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Yuhanna",
     "url": "https://api.getbible.net/v2/turkish/64.json",
-    "sha": "b97876a5ba5645f321936f10dc7217d893aadef5"
+    "sha": "fa0a3682bc1121338b9f28d365c3a33cf22e9e07"
   },
   "65": {
     "translation": "Turkish",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Yahuda",
     "url": "https://api.getbible.net/v2/turkish/65.json",
-    "sha": "ba27816286e73cb29b87447da9a54bd1623006ef"
+    "sha": "b185414b7c18345127b39d1a788abe0aa620a03a"
   },
   "66": {
     "translation": "Turkish",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Vahiy",
     "url": "https://api.getbible.net/v2/turkish/66.json",
-    "sha": "e472ec6be08031b5dc3a997665e0db68c2e1b044"
+    "sha": "6185f1991a43718a5738e4db98354fd491288908"
   }
 }

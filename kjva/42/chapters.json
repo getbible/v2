@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Luke 1",
     "url": "https://api.getbible.net/v2/kjva/42/1.json",
-    "sha": "69334ef1d966504f7b2228f36f5f52d9aea2982e"
+    "sha": "db6ff91715b517da202e6698197ce316b3a63147"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Luke 2",
     "url": "https://api.getbible.net/v2/kjva/42/2.json",
-    "sha": "d75472f69c5d53af86885d5184e36d531106b212"
+    "sha": "1fb4e4204929f94f7948e604976b4720419d808a"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Luke 3",
     "url": "https://api.getbible.net/v2/kjva/42/3.json",
-    "sha": "fb121894042497e43ce1b08555acac2cd423554d"
+    "sha": "fb855c4a0bcaa9c783ab535ca22532f2335efacf"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "Luke 4",
     "url": "https://api.getbible.net/v2/kjva/42/4.json",
-    "sha": "4d9d3ecea5640059002bacff03619946d09d0422"
+    "sha": "81508f533f29990c5753a1a18ca6181bceb25409"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "Luke 5",
     "url": "https://api.getbible.net/v2/kjva/42/5.json",
-    "sha": "3931d2da43def8c36fa2a467cb9615c9ade194da"
+    "sha": "fa7ed321867a2dd68ccefb5673397cf0649feae9"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,10 +81,10 @@
     "chapter": 6,
     "name": "Luke 6",
     "url": "https://api.getbible.net/v2/kjva/42/6.json",
-    "sha": "60732385c3febad44944a53e9c2262f491b751cd"
+    "sha": "fc9e7d127cbd353d594e7c61988a5f646a5c204c"
   },
   "7": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -95,10 +95,10 @@
     "chapter": 7,
     "name": "Luke 7",
     "url": "https://api.getbible.net/v2/kjva/42/7.json",
-    "sha": "8250e245e103b0997df59a615e10f80809e96312"
+    "sha": "b96edb163266719b2851a54bd23e6007dcfa1940"
   },
   "8": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -109,10 +109,10 @@
     "chapter": 8,
     "name": "Luke 8",
     "url": "https://api.getbible.net/v2/kjva/42/8.json",
-    "sha": "65036fa8980b21ba9ebf216e1d08bbdc75796d7c"
+    "sha": "fee29a785754b27c4d97af3f17a0f2893d6af102"
   },
   "9": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -123,10 +123,10 @@
     "chapter": 9,
     "name": "Luke 9",
     "url": "https://api.getbible.net/v2/kjva/42/9.json",
-    "sha": "b065279ac6376f3c17d8432f0dd09a9ccce7d40b"
+    "sha": "84e5dc8ac0777a5eb7b1af16d9bf0051e53505a4"
   },
   "10": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -137,10 +137,10 @@
     "chapter": 10,
     "name": "Luke 10",
     "url": "https://api.getbible.net/v2/kjva/42/10.json",
-    "sha": "d883aa5fc0fc1f817de96502fae933196870daf8"
+    "sha": "2935c7371d3dd98706a9c31462192c6ba96c171f"
   },
   "11": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -151,10 +151,10 @@
     "chapter": 11,
     "name": "Luke 11",
     "url": "https://api.getbible.net/v2/kjva/42/11.json",
-    "sha": "9ed1f34836a1e06c4f80c11f6e2976a8320918a6"
+    "sha": "1eea6988f2cda8b9e9aceffe180dc670246cbd36"
   },
   "12": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -165,10 +165,10 @@
     "chapter": 12,
     "name": "Luke 12",
     "url": "https://api.getbible.net/v2/kjva/42/12.json",
-    "sha": "2fa56ef3d85eee9382c7697589fa37052db18c69"
+    "sha": "dc48a7ff4b2669efb2e83b3718c2fd4ba525dd9c"
   },
   "13": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -179,10 +179,10 @@
     "chapter": 13,
     "name": "Luke 13",
     "url": "https://api.getbible.net/v2/kjva/42/13.json",
-    "sha": "1859ee1103da4c980dc6483236a3b7976f408be7"
+    "sha": "ecbf5b5c978324fcb5e7077ce958121750c98512"
   },
   "14": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -193,10 +193,10 @@
     "chapter": 14,
     "name": "Luke 14",
     "url": "https://api.getbible.net/v2/kjva/42/14.json",
-    "sha": "1c49efef6d579841d2937a77b073092d0341938e"
+    "sha": "ffb4a606d01e0b87da82a3c883de654246599dca"
   },
   "15": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -207,10 +207,10 @@
     "chapter": 15,
     "name": "Luke 15",
     "url": "https://api.getbible.net/v2/kjva/42/15.json",
-    "sha": "cd9c59517b90ccfd95473c2949379af350836d93"
+    "sha": "d5ecd1d215aab49ca16c0ef11ee68498629b47af"
   },
   "16": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -221,10 +221,10 @@
     "chapter": 16,
     "name": "Luke 16",
     "url": "https://api.getbible.net/v2/kjva/42/16.json",
-    "sha": "b587243af9ffa5ba21f39da26b90b092b3d3612c"
+    "sha": "b1e7c01a9e7a6514d724097e5bd6bed255c524f8"
   },
   "17": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -235,10 +235,10 @@
     "chapter": 17,
     "name": "Luke 17",
     "url": "https://api.getbible.net/v2/kjva/42/17.json",
-    "sha": "f3061a758b8996b5de8c8074abe68e9494f4a57a"
+    "sha": "75a3037ca6e5ec3e1ded2754686361ee4f437407"
   },
   "18": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -249,10 +249,10 @@
     "chapter": 18,
     "name": "Luke 18",
     "url": "https://api.getbible.net/v2/kjva/42/18.json",
-    "sha": "7634a854dc3bfb83fd2746fa063e7df7847efa0d"
+    "sha": "2cfb1dae79f46380abb21877add4c67eff83c538"
   },
   "19": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -263,10 +263,10 @@
     "chapter": 19,
     "name": "Luke 19",
     "url": "https://api.getbible.net/v2/kjva/42/19.json",
-    "sha": "ac22b206fe8f71f638951531324b8b5d337cbddd"
+    "sha": "9338e13421dd3c14a94eaa8cc60dfa6b3a8742bb"
   },
   "20": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -277,10 +277,10 @@
     "chapter": 20,
     "name": "Luke 20",
     "url": "https://api.getbible.net/v2/kjva/42/20.json",
-    "sha": "568dcc66e3d1f8cb20e07b834b8c655515b55ca9"
+    "sha": "11dc5198b2d2ea2cc8c5bc0af22c4937235f1d59"
   },
   "21": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -291,10 +291,10 @@
     "chapter": 21,
     "name": "Luke 21",
     "url": "https://api.getbible.net/v2/kjva/42/21.json",
-    "sha": "fa8c1ca3ab5bc3300e36fc76ed9e810a76f1500c"
+    "sha": "6d0c5bdcd3caf944b42b03a8762a24cd3606c7ff"
   },
   "22": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -305,10 +305,10 @@
     "chapter": 22,
     "name": "Luke 22",
     "url": "https://api.getbible.net/v2/kjva/42/22.json",
-    "sha": "86542074d0db978f650a95a4ed6949d26fc17e51"
+    "sha": "ece35029f3cf4e2939e45e4f1ceaf269d77e57d5"
   },
   "23": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -319,10 +319,10 @@
     "chapter": 23,
     "name": "Luke 23",
     "url": "https://api.getbible.net/v2/kjva/42/23.json",
-    "sha": "fa09e1d6536bbd9b80270e49a519064a58d98f2b"
+    "sha": "70e151521a64aa6747637bbdeea2a0d86c6b9aca"
   },
   "24": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -333,6 +333,6 @@
     "chapter": 24,
     "name": "Luke 24",
     "url": "https://api.getbible.net/v2/kjva/42/24.json",
-    "sha": "2e71a78e0465ddc1e432716d42593c93d7c2b1e9"
+    "sha": "30bb61aa1f80fb2aacd7d280bf89db6c77249d77"
   }
 }

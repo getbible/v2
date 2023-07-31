@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "예레미야 애가",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "예레미야 애가 1",
     "url": "https://api.getbible.net/v2/korean/25/1.json",
-    "sha": "7fb719e21349cf9e51d9d75f3b0735d61b5c8aab"
+    "sha": "64cc70c9266ab2818b29cc6199bb1bc324746521"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "예레미야 애가",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "예레미야 애가 2",
     "url": "https://api.getbible.net/v2/korean/25/2.json",
-    "sha": "5e716a74c38830255cda898d9fdf576ba7d0ecb5"
+    "sha": "78a147fda902e09ac3083223f88f0d4d17bf94c1"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "예레미야 애가",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "예레미야 애가 3",
     "url": "https://api.getbible.net/v2/korean/25/3.json",
-    "sha": "b4d4effbe41b7a32644adaebfb4ee677b68d941f"
+    "sha": "f9b66e15de6d840eeb5cf88eaa0f46e6a6e55fce"
   },
   "4": {
     "translation": "Korean",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "예레미야 애가",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "예레미야 애가 4",
     "url": "https://api.getbible.net/v2/korean/25/4.json",
-    "sha": "efb5cf9cc7157dd072fbfa25f7a0171f2f2932f3"
+    "sha": "d982b9e3dd425ddccdc27eece592523e9d0e0eac"
   },
   "5": {
     "translation": "Korean",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "예레미야 애가",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "예레미야 애가 5",
     "url": "https://api.getbible.net/v2/korean/25/5.json",
-    "sha": "b174f1e8e4e7102f6ec0affb4aafdbc240c9fd39"
+    "sha": "c3104c31dc9a4ab681da83970b334628a17edb0b"
   }
 }

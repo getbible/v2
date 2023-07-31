@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "西番雅书 1",
     "url": "https://api.getbible.net/v2/cus/36/1.json",
-    "sha": "058763db755110faa90572a8e870caedbe9db969"
+    "sha": "a29f00766f6fa62b0d4553b4b2aed2b6ad0b44b2"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "西番雅书 2",
     "url": "https://api.getbible.net/v2/cus/36/2.json",
-    "sha": "091aca97db960a2cb18f19183ca19ec7b9c240f7"
+    "sha": "ca0b27046ec8b1f6030a1c025d76ef7e070a5ba0"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "西番雅书 3",
     "url": "https://api.getbible.net/v2/cus/36/3.json",
-    "sha": "d4c8fa3dbc191e1c818e84ee23455b58c59d4849"
+    "sha": "64b421ad2ce17a89aa294a3fbe61b057ba90c475"
   }
 }

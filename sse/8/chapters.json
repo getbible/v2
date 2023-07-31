@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Rut 1",
     "url": "https://api.getbible.net/v2/sse/8/1.json",
-    "sha": "5998367aa83fdb89b3dbda762c31f48f1462b093"
+    "sha": "a29756c42abe45bbbc3665b860abfdbc5163b159"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Rut 2",
     "url": "https://api.getbible.net/v2/sse/8/2.json",
-    "sha": "15e4894944f6116531d197922de1f8bd35f05acc"
+    "sha": "079d89251611a5ecb49c5348059e1c78855d54eb"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Rut 3",
     "url": "https://api.getbible.net/v2/sse/8/3.json",
-    "sha": "bca1754340c7b2e95d0cf0ea5ed7ff9553a5f76e"
+    "sha": "9dd894f0508b595c5a4be96064ff9f576736361e"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Rut 4",
     "url": "https://api.getbible.net/v2/sse/8/4.json",
-    "sha": "bda4b3e44c8fbd07967b36a7d1b4163371b6b09b"
+    "sha": "7d1988cc8e51ffb3157fb7855a07de49525a7bc8"
   }
 }

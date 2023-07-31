@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 တီမိုသီ",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 တီမိုသီ 1",
     "url": "https://api.getbible.net/v2/judson/55/1.json",
-    "sha": "d5fe16c47ba0b09321756c21e38b4c2a559dcab5"
+    "sha": "cd5ffafee85b57d5943260fe30912f8876e125ce"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 တီမိုသီ",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 တီမိုသီ 2",
     "url": "https://api.getbible.net/v2/judson/55/2.json",
-    "sha": "2d0abcc65f1205be8ef22920bfb23baec0724cc1"
+    "sha": "63a3af0c3f6faeda55c042844f3747be188f9c01"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 တီမိုသီ",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 တီမိုသီ 3",
     "url": "https://api.getbible.net/v2/judson/55/3.json",
-    "sha": "9389abceb6e81768453883ca13f087f49a609135"
+    "sha": "052fec0e31ad3766fb079dda2d2f39303a72fb8d"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 တီမိုသီ",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 တီမိုသီ 4",
     "url": "https://api.getbible.net/v2/judson/55/4.json",
-    "sha": "60b19a72896dd32d2aae3310da1d94cb3e20b5b9"
+    "sha": "0c7533612d6d9b2101a392d8f91584a2ecd8611d"
   }
 }

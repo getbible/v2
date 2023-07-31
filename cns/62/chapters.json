@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "约翰一书 1",
     "url": "https://api.getbible.net/v2/cns/62/1.json",
-    "sha": "000e3116ef2903057224bee661e64bf63b788c2c"
+    "sha": "92e74a15d7dbef7b3f0990d8bd3c83a62e3c0648"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "约翰一书 2",
     "url": "https://api.getbible.net/v2/cns/62/2.json",
-    "sha": "b9047da84bb7f0b3a750dc5a0a6b021823a8351b"
+    "sha": "20996617afc321ca06ac38e25dae65c62c1a0f5d"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "约翰一书 3",
     "url": "https://api.getbible.net/v2/cns/62/3.json",
-    "sha": "43154da58cb919fd53a58c6ae94c608896e1515d"
+    "sha": "223f7b90e5dd4572d82cacbc63a6c8df29f429cf"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "约翰一书 4",
     "url": "https://api.getbible.net/v2/cns/62/4.json",
-    "sha": "59dee0d50b6f40255e00624dfd2588f110e970b5"
+    "sha": "75f8f65b00650f0b4e6cef982c5fa2b5d4939d52"
   },
   "5": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "约翰一书 5",
     "url": "https://api.getbible.net/v2/cns/62/5.json",
-    "sha": "668d4df5778ae380bca5cf8c0e98a29e5e11c75b"
+    "sha": "ec048f67b7185f8aa4ff3d8ebdaeab7309b16b4e"
   }
 }

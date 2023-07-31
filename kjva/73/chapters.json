@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Wisdom 1",
     "url": "https://api.getbible.net/v2/kjva/73/1.json",
-    "sha": "af225182b5fc43818bfe2561a88afa1d60ef08bc"
+    "sha": "3c3651bba80067c3c2c6ec43437eb865480436f7"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Wisdom 2",
     "url": "https://api.getbible.net/v2/kjva/73/2.json",
-    "sha": "6c366e896d33db7b283e51d7e57f175d69811ec4"
+    "sha": "e26fd529e43014ba8921f223a2cd0da6205d17fb"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Wisdom 3",
     "url": "https://api.getbible.net/v2/kjva/73/3.json",
-    "sha": "3441a932dd4bbb9f6234a91190a4d2c2ad248dd0"
+    "sha": "f1b46d0e888f924adc3ed0e70613c021dba46578"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "Wisdom 4",
     "url": "https://api.getbible.net/v2/kjva/73/4.json",
-    "sha": "ec830022d6e96b733eb886a8aab1c357705bd96a"
+    "sha": "81a15a0e1aed66b5ccff91ce0109afe3ce038382"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "Wisdom 5",
     "url": "https://api.getbible.net/v2/kjva/73/5.json",
-    "sha": "9ef002195eb466c374dd856e861ef0a34d5e02f3"
+    "sha": "ea7838471f4d8675a4d53b0f39558edff659970d"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,10 +81,10 @@
     "chapter": 6,
     "name": "Wisdom 6",
     "url": "https://api.getbible.net/v2/kjva/73/6.json",
-    "sha": "88597c67ee359e9381522174ef5340d65e0ad8ce"
+    "sha": "9080c94fd5f256a13aae895f1043722caecaab7d"
   },
   "7": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -95,10 +95,10 @@
     "chapter": 7,
     "name": "Wisdom 7",
     "url": "https://api.getbible.net/v2/kjva/73/7.json",
-    "sha": "c2fcf3e326c0abb09135c0d35ffb9df93b9b02fc"
+    "sha": "a8cc45fdbe953665dd787b9be58f4201dceec766"
   },
   "8": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -109,10 +109,10 @@
     "chapter": 8,
     "name": "Wisdom 8",
     "url": "https://api.getbible.net/v2/kjva/73/8.json",
-    "sha": "fe3ebe50de1dfcf6569eeec43f7bbb7d458890b5"
+    "sha": "297ba6df0c678b32093d44d1203c317b8fe99803"
   },
   "9": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -123,10 +123,10 @@
     "chapter": 9,
     "name": "Wisdom 9",
     "url": "https://api.getbible.net/v2/kjva/73/9.json",
-    "sha": "cd79e55f826e5861874b8317ccdbd96670d83e34"
+    "sha": "7dfe5b7278a5c6a8d66287bff15b9e7a83bedfa5"
   },
   "10": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -137,10 +137,10 @@
     "chapter": 10,
     "name": "Wisdom 10",
     "url": "https://api.getbible.net/v2/kjva/73/10.json",
-    "sha": "94fa7c5991fe52843ceb46b9a2e3cd393fd2cd69"
+    "sha": "0b2d115c489edda5c1845dd61610e6539e0cad30"
   },
   "11": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -151,10 +151,10 @@
     "chapter": 11,
     "name": "Wisdom 11",
     "url": "https://api.getbible.net/v2/kjva/73/11.json",
-    "sha": "82c17e48ade9447f9e163b6c7b5485bb28379071"
+    "sha": "21b5e11ceb07c26c827bc907a2f987955c49d36f"
   },
   "12": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -165,10 +165,10 @@
     "chapter": 12,
     "name": "Wisdom 12",
     "url": "https://api.getbible.net/v2/kjva/73/12.json",
-    "sha": "c0fbda8c522269d6da861b769e4ef7de8dac756c"
+    "sha": "638c96787ce629d9f057a743ecaca6e18693932b"
   },
   "13": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -179,10 +179,10 @@
     "chapter": 13,
     "name": "Wisdom 13",
     "url": "https://api.getbible.net/v2/kjva/73/13.json",
-    "sha": "a44676c4b285e3dfc0861ee8547946e15405bd3b"
+    "sha": "1fa379cdce2500f95831cac2507cc690b52e15c5"
   },
   "14": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -193,10 +193,10 @@
     "chapter": 14,
     "name": "Wisdom 14",
     "url": "https://api.getbible.net/v2/kjva/73/14.json",
-    "sha": "9eb058a437df8731221d2e9ea7b7cc170dfb4d64"
+    "sha": "5e150a37b4b1bc7695f9f07e054b7f95e7059c6f"
   },
   "15": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -207,10 +207,10 @@
     "chapter": 15,
     "name": "Wisdom 15",
     "url": "https://api.getbible.net/v2/kjva/73/15.json",
-    "sha": "7fdd25583f0d79bccc812183f9dee79a75c733b5"
+    "sha": "c535e663c8f9287e97df816084af0e5730d0d5e7"
   },
   "16": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -221,10 +221,10 @@
     "chapter": 16,
     "name": "Wisdom 16",
     "url": "https://api.getbible.net/v2/kjva/73/16.json",
-    "sha": "fc80d22256f280579e354bd1dee3d5246df358b9"
+    "sha": "a88e2244c1e67829a4b69e4c5008e29f7c6346da"
   },
   "17": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -235,10 +235,10 @@
     "chapter": 17,
     "name": "Wisdom 17",
     "url": "https://api.getbible.net/v2/kjva/73/17.json",
-    "sha": "6a8bfecb094533dc7de5a02349fbde86213db792"
+    "sha": "2c9be5fcf67cebe0250522632ec0a64b034e77f6"
   },
   "18": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -249,10 +249,10 @@
     "chapter": 18,
     "name": "Wisdom 18",
     "url": "https://api.getbible.net/v2/kjva/73/18.json",
-    "sha": "03b20a9131fc121e429b552007a439efb7026c48"
+    "sha": "04b24d5e15b876ea2c3a13fcfbb8efd9f7586385"
   },
   "19": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -263,6 +263,6 @@
     "chapter": 19,
     "name": "Wisdom 19",
     "url": "https://api.getbible.net/v2/kjva/73/19.json",
-    "sha": "43456fa85ded3cf7307e2bc111825f651af560ce"
+    "sha": "ddaa52ad1690f1d1582718c38579f4cc01af478f"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjan kirja",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sefanjan kirja 1",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/36/1.json",
-    "sha": "196068f6271e0058b3656b106456dc3890e3c081"
+    "sha": "84bf4716ccbc5339890a5108926a7902ece0fef5"
   },
   "2": {
     "translation": "Pyha Raamattu (1992)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjan kirja",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sefanjan kirja 2",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/36/2.json",
-    "sha": "fc20c5dd4e107bc23a160630c9c8cca48fa215e5"
+    "sha": "f15b372327f701526bbfd6cff925add9929ce9a4"
   },
   "3": {
     "translation": "Pyha Raamattu (1992)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sefanjan kirja",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sefanjan kirja 3",
     "url": "https://api.getbible.net/v2/pyharaamattu1992/36/3.json",
-    "sha": "2eb86a20d8b8857f3d4f5386539860b4bec3a180"
+    "sha": "6f56829081f330307b6ce7e256561096e832d65a"
   }
 }

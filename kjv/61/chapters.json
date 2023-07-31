@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://api.getbible.net/v2/kjv/61/1.json",
-    "sha": "ef278244526b9d2a9489d95e8a40dc1ef780dfdc"
+    "sha": "6bb4c3586d4e962c763e95c2d534ea3f3ecc88f3"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://api.getbible.net/v2/kjv/61/2.json",
-    "sha": "3e276a2ac6b6809c53c4e41d74e543657f58452a"
+    "sha": "3c428f6ad39e657c9c15fa5720fc29dbc8e5e9a9"
   },
   "3": {
     "translation": "King James Version",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://api.getbible.net/v2/kjv/61/3.json",
-    "sha": "b472e34535bed868791d703f399b4eb71b53a1cf"
+    "sha": "67c1d669af8a2c2b3e0455b28b80ea5eb6cee4dd"
   }
 }

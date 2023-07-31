@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habackuk",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habackuk 1",
     "url": "https://api.getbible.net/v2/swedish/35/1.json",
-    "sha": "5a52f3472e2b1e6421be9c683a47ef6e0685fe91"
+    "sha": "05dcb516fc111d376ba8fc46c47535daad942648"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habackuk",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habackuk 2",
     "url": "https://api.getbible.net/v2/swedish/35/2.json",
-    "sha": "8669fbceed1d3dcee43467b64fe70e78c78be9a6"
+    "sha": "494ce3a9fc800b07f1e3899ab1514b1f58a054ec"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habackuk",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habackuk 3",
     "url": "https://api.getbible.net/v2/swedish/35/3.json",
-    "sha": "a19039549a79d62e846b33eb58e9fef7ac57be38"
+    "sha": "821ca1bc66adf91379e3b4bf6ef6019cbf320008"
   }
 }

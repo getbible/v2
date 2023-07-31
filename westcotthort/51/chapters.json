@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Προς Κολοσσαείς 1",
     "url": "https://api.getbible.net/v2/westcotthort/51/1.json",
-    "sha": "4de7fcdfde5cf87ae2ff69ab01a53d03c0daf483"
+    "sha": "beda49795ea5931646a74f92578e972fd091f210"
   },
   "2": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Προς Κολοσσαείς 2",
     "url": "https://api.getbible.net/v2/westcotthort/51/2.json",
-    "sha": "4cd7a72d5126f77ab1efcb0de41df3f6a41124d0"
+    "sha": "cb6a9ed43e45179e96a66c10a19a36f39f888952"
   },
   "3": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Προς Κολοσσαείς 3",
     "url": "https://api.getbible.net/v2/westcotthort/51/3.json",
-    "sha": "c302577d55f842d1ec292fb78ec08c34df403e7a"
+    "sha": "e78566e9ac09c886a4f792bec9002013d91c8985"
   },
   "4": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Προς Κολοσσαείς",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Προς Κολοσσαείς 4",
     "url": "https://api.getbible.net/v2/westcotthort/51/4.json",
-    "sha": "1259a92e4735872480856851761e2780f41ca2c5"
+    "sha": "f3c0560b514aabdaff8760635a011c7f0c4643b0"
   }
 }

@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "Exodo",
     "url": "https://api.getbible.net/v2/tagalog/2.json",
-    "sha": "7f331c1bfe2ccb1d3756e1009d80ef7f53c07720"
+    "sha": "d794ac18ea8a7ff09b90f2c5d98fe346ef9ea01c"
   },
   "3": {
     "translation": "Ang Dating Biblia (1905)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "Levitico",
     "url": "https://api.getbible.net/v2/tagalog/3.json",
-    "sha": "52fbb633785ad5583a496d9b91341082ba5febac"
+    "sha": "1dd067e556d03e7d46ec5c332ac637efa162706e"
   },
   "4": {
     "translation": "Ang Dating Biblia (1905)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Mga Bilang",
     "url": "https://api.getbible.net/v2/tagalog/4.json",
-    "sha": "e846a9d74ed67e3e4d6e9a5fef7332a84b4f4822"
+    "sha": "1e8471f9c537d3e302841de277343936835a20cd"
   },
   "5": {
     "translation": "Ang Dating Biblia (1905)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomio",
     "url": "https://api.getbible.net/v2/tagalog/5.json",
-    "sha": "4c16cf85f467ddec60322d6c106374bb3273f364"
+    "sha": "2e0f635fd1d48d56bb23e5067fd80112e83ab56b"
   },
   "6": {
     "translation": "Ang Dating Biblia (1905)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Josue",
     "url": "https://api.getbible.net/v2/tagalog/6.json",
-    "sha": "85cfd837ddcd6ec8735bc4f452328a7a0f6b7f7f"
+    "sha": "6ded5a4e0d78cbc1cac3184cee76fc19f39cf652"
   },
   "7": {
     "translation": "Ang Dating Biblia (1905)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Mga Hukom",
     "url": "https://api.getbible.net/v2/tagalog/7.json",
-    "sha": "b8c1904a5e57de038cfd858da965dbad9bc3c460"
+    "sha": "db004d6017074deba3a1bb9df52d525b724d2af1"
   },
   "8": {
     "translation": "Ang Dating Biblia (1905)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Mga Hari",
     "url": "https://api.getbible.net/v2/tagalog/11.json",
-    "sha": "8ecb1bb111d44125a085a121eac021ad501f4c5d"
+    "sha": "8c0d468555e08806c90d357448a7d3131d62df1a"
   },
   "12": {
     "translation": "Ang Dating Biblia (1905)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Mga Hari",
     "url": "https://api.getbible.net/v2/tagalog/12.json",
-    "sha": "37b8d634a22f7d48f8d05cfa59662960fb6fc102"
+    "sha": "2f9554cccacdb162d217a2ec73cf15c9f3e0c8ac"
   },
   "13": {
     "translation": "Ang Dating Biblia (1905)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Mga Cronica",
     "url": "https://api.getbible.net/v2/tagalog/13.json",
-    "sha": "06495c95f9c1ec151a51c0d5c812e8a474d314f8"
+    "sha": "dec88dd7e6013562c4c3898b5faaf9378799d950"
   },
   "14": {
     "translation": "Ang Dating Biblia (1905)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Mga Cronica",
     "url": "https://api.getbible.net/v2/tagalog/14.json",
-    "sha": "b863045d6b877b1758ae1858e33f8d486906c1b0"
+    "sha": "054a36ed636eba94a00fac5c8ae083a1a952afef"
   },
   "15": {
     "translation": "Ang Dating Biblia (1905)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemias",
     "url": "https://api.getbible.net/v2/tagalog/16.json",
-    "sha": "a7962fbda6f121f91a8917e0df1c3ddd22ce0be8"
+    "sha": "9a92045664ecb2bdb9a184a8bf3b13d6a618c459"
   },
   "17": {
     "translation": "Ang Dating Biblia (1905)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "Ester",
     "url": "https://api.getbible.net/v2/tagalog/17.json",
-    "sha": "14c6853aacf0488f1ca3cb75afe4e14b3bc6ab1f"
+    "sha": "c5a465fa3b8f41e618081f1bc9be4b1e5fd3a6ca"
   },
   "18": {
     "translation": "Ang Dating Biblia (1905)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Mga Awit",
     "url": "https://api.getbible.net/v2/tagalog/19.json",
-    "sha": "dc6b0d9e12f204d7498459be09055ce6767afe7a"
+    "sha": "e09654d29c0d8141c73077ef45e58e8ff639568f"
   },
   "20": {
     "translation": "Ang Dating Biblia (1905)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Mga Kawikaan",
     "url": "https://api.getbible.net/v2/tagalog/20.json",
-    "sha": "af24d81f2f3e0e9ff0216a74d14928de260380cf"
+    "sha": "34ffaf3df8b0a452388abd5f13f58fe4bc3dadfb"
   },
   "21": {
     "translation": "Ang Dating Biblia (1905)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Mangangaral",
     "url": "https://api.getbible.net/v2/tagalog/21.json",
-    "sha": "1f944dffbb568400b6d40438f069f09bd74d577d"
+    "sha": "8881cb600b5d08ef1b0360bd3955078476a23e2b"
   },
   "22": {
     "translation": "Ang Dating Biblia (1905)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Awit ni Solomon",
     "url": "https://api.getbible.net/v2/tagalog/22.json",
-    "sha": "10d531d4d95a82cb419a31962f4b9c982dc9f187"
+    "sha": "47e504e78c935bb19167630a61f35738e36dfd9c"
   },
   "23": {
     "translation": "Ang Dating Biblia (1905)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Isaias",
     "url": "https://api.getbible.net/v2/tagalog/23.json",
-    "sha": "ded91b6638ffa47ae7b780ff1523af9647dd679b"
+    "sha": "3f04bb95411e1b82bfbd99818036e56e417e0748"
   },
   "24": {
     "translation": "Ang Dating Biblia (1905)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremias",
     "url": "https://api.getbible.net/v2/tagalog/24.json",
-    "sha": "f27e254b748de7c1af79baa7b59894a352ebe2f1"
+    "sha": "fa2940bfae9c713b246b5a223d4e61bc8bcf8508"
   },
   "25": {
     "translation": "Ang Dating Biblia (1905)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Mga Panaghoy",
     "url": "https://api.getbible.net/v2/tagalog/25.json",
-    "sha": "d8c02e494c1e0a0a8eee7d4ffc1b8a3127e2a224"
+    "sha": "ad4583ae45a429f01e6130112f00be507c564e36"
   },
   "26": {
     "translation": "Ang Dating Biblia (1905)",
@@ -331,9 +331,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "Oseas",
     "url": "https://api.getbible.net/v2/tagalog/28.json",
-    "sha": "56f6d52c96215ed46fe104d59666f40b3f78c664"
+    "sha": "e468229b46a2795bb57df3491244b6fa78eecb71"
   },
   "29": {
     "translation": "Ang Dating Biblia (1905)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadias",
     "url": "https://api.getbible.net/v2/tagalog/31.json",
-    "sha": "e08b26bd22196a5f03729b3e677aea3e8df640a8"
+    "sha": "ff3ff859aaf7162092dca357e1efbfb4e1770423"
   },
   "32": {
     "translation": "Ang Dating Biblia (1905)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jonas",
     "url": "https://api.getbible.net/v2/tagalog/32.json",
-    "sha": "edae4adfdbd43bc405fc19aefd27bb90354548a0"
+    "sha": "88466bb7655b4a2f515c38e6540dd813899893d2"
   },
   "33": {
     "translation": "Ang Dating Biblia (1905)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Mikas",
     "url": "https://api.getbible.net/v2/tagalog/33.json",
-    "sha": "96667ef053dbf5fe9d4dab6ad9dd5ada714d034a"
+    "sha": "86154b97550943a439556372256853b120ebe14b"
   },
   "34": {
     "translation": "Ang Dating Biblia (1905)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habacuc",
     "url": "https://api.getbible.net/v2/tagalog/35.json",
-    "sha": "b3bf84b1fd6852bcf2c839aa913f2a4c461d8137"
+    "sha": "7d74f88240b905f6048c5e45d807a8f6d63a13ee"
   },
   "36": {
     "translation": "Ang Dating Biblia (1905)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Zefanias",
     "url": "https://api.getbible.net/v2/tagalog/36.json",
-    "sha": "18d857a6439bd476e71e65839cdec6058166a9a9"
+    "sha": "df5230b752ac8c418aa8e3123ccf14490f3f07f7"
   },
   "37": {
     "translation": "Ang Dating Biblia (1905)",
@@ -439,9 +439,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "Hagai",
     "url": "https://api.getbible.net/v2/tagalog/37.json",
-    "sha": "a6d93d0b990fc4c0dc5458468df74cfce5b60a94"
+    "sha": "0c26646feb3e2ee6e8fab211126df3ce27eb8400"
   },
   "38": {
     "translation": "Ang Dating Biblia (1905)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacarias",
     "url": "https://api.getbible.net/v2/tagalog/38.json",
-    "sha": "6d99c329a46fdc3eeef9cc1b7ec0ea9107a89c69"
+    "sha": "a02c9b88973433b89d0d1bc52b41e22c045216ff"
   },
   "39": {
     "translation": "Ang Dating Biblia (1905)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Malachias",
     "url": "https://api.getbible.net/v2/tagalog/39.json",
-    "sha": "050cacb48d39f0e023dc84f5bbccf0e9d5d2d5cc"
+    "sha": "f901247dbf7efafb466586fbf91efb8088fd9fb7"
   },
   "40": {
     "translation": "Ang Dating Biblia (1905)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Mateo",
     "url": "https://api.getbible.net/v2/tagalog/40.json",
-    "sha": "aff55902520caa1c00d6dcc12fc50cb46e04ed77"
+    "sha": "ad959ec78489be84056858daa04d050903681b6d"
   },
   "41": {
     "translation": "Ang Dating Biblia (1905)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marcos",
     "url": "https://api.getbible.net/v2/tagalog/41.json",
-    "sha": "3a79ff71615b187a3bfb87dcc473d788948b4a9e"
+    "sha": "bcdc3ccfee5a39421944a3d2ee881aacb8b78729"
   },
   "42": {
     "translation": "Ang Dating Biblia (1905)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lucas",
     "url": "https://api.getbible.net/v2/tagalog/42.json",
-    "sha": "6513a37c6e73d1102c6c351a07c0f70f696389d2"
+    "sha": "9afd7b3ba4db92ac025264ce99db3baa49c54cac"
   },
   "43": {
     "translation": "Ang Dating Biblia (1905)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Juan",
     "url": "https://api.getbible.net/v2/tagalog/43.json",
-    "sha": "ae8f29a7fdab5f8ad8470aa789f2c6ce6b4ff74a"
+    "sha": "2426e185db79e531699861b1631610089adb4d6d"
   },
   "44": {
     "translation": "Ang Dating Biblia (1905)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Mga Gawa",
     "url": "https://api.getbible.net/v2/tagalog/44.json",
-    "sha": "a5c29fdc19bb766b6969f97a9db4a6d1d6b9c4c3"
+    "sha": "3416a11ebf42e702b71259c575d39dd4c1909df5"
   },
   "45": {
     "translation": "Ang Dating Biblia (1905)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Mga Romano",
     "url": "https://api.getbible.net/v2/tagalog/45.json",
-    "sha": "da4272303edd72c4cc35ae956bc4c67cea8c03b7"
+    "sha": "31a1282365cc028de768e800a3bd4df456aa8213"
   },
   "46": {
     "translation": "Ang Dating Biblia (1905)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Mga Corinto",
     "url": "https://api.getbible.net/v2/tagalog/46.json",
-    "sha": "1eda06c2b5dee3b5daf27ba5b319f2e786070410"
+    "sha": "fb1abf917cd5ba12efa6e343360ea2401aefc941"
   },
   "47": {
     "translation": "Ang Dating Biblia (1905)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Mga Corinto",
     "url": "https://api.getbible.net/v2/tagalog/47.json",
-    "sha": "a7d8280869753de68f0963eeb55ed10adc721538"
+    "sha": "c4dff261a3876fd27af92bce904de888412e2bb9"
   },
   "48": {
     "translation": "Ang Dating Biblia (1905)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Mga Taga-Galacia",
     "url": "https://api.getbible.net/v2/tagalog/48.json",
-    "sha": "37749ef6303d7cbfdf7237cef6a0797856197fc4"
+    "sha": "d9ca533a8f2eaea552aa4b355dfea3d73c86cdc2"
   },
   "49": {
     "translation": "Ang Dating Biblia (1905)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Mga Efeso",
     "url": "https://api.getbible.net/v2/tagalog/49.json",
-    "sha": "f7add129e48ec84d984b57f334f7ab9f476ef39f"
+    "sha": "c6860905b53efdd77a50b166f6b01595a4e68f7d"
   },
   "50": {
     "translation": "Ang Dating Biblia (1905)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Mga Taga-Filipos",
     "url": "https://api.getbible.net/v2/tagalog/50.json",
-    "sha": "05af56372e36417dacd1598503980285fb11b91b"
+    "sha": "763eea115885ea9ac12bbe904ff9048aa7add21c"
   },
   "51": {
     "translation": "Ang Dating Biblia (1905)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Mga Taga-Colosas",
     "url": "https://api.getbible.net/v2/tagalog/51.json",
-    "sha": "7378368267449a9e1c09068410ba07a00e124f95"
+    "sha": "2fe7b5bf4f90c6be2d9610f40c2d5e0f2cb8733f"
   },
   "52": {
     "translation": "Ang Dating Biblia (1905)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Mga Taga-Tesalonica",
     "url": "https://api.getbible.net/v2/tagalog/52.json",
-    "sha": "83146012a5ea0b90fc2eaf27069649bbef5c6b41"
+    "sha": "da8e59ffa5391784a923198af69af84009105466"
   },
   "53": {
     "translation": "Ang Dating Biblia (1905)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Mga Taga-Tesalonica",
     "url": "https://api.getbible.net/v2/tagalog/53.json",
-    "sha": "3a832263941bfaac020212768f7146f4cbcbdad7"
+    "sha": "64955ad1e6ba380162d27e2329c86a2319d5e835"
   },
   "54": {
     "translation": "Ang Dating Biblia (1905)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timoteo",
     "url": "https://api.getbible.net/v2/tagalog/54.json",
-    "sha": "23e0f58671e7a004b8dfc0202ee0a3f3fe1263b9"
+    "sha": "c8bfe04ab17fc4e30c288d810c60b5f270f9cc31"
   },
   "55": {
     "translation": "Ang Dating Biblia (1905)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timoteo",
     "url": "https://api.getbible.net/v2/tagalog/55.json",
-    "sha": "f0e204c07a66ddec66839183cff6a74961c649c6"
+    "sha": "74ae29e7397d92ea7d3bbf6d2a707c4178126a06"
   },
   "56": {
     "translation": "Ang Dating Biblia (1905)",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 56,
-    "name": "Titus",
+    "name": "Tito",
     "url": "https://api.getbible.net/v2/tagalog/56.json",
-    "sha": "a525a002dceb94ab3c6c18d1b728be0900952334"
+    "sha": "b31df6498498f8ddccb94924df0def0d3ab902af"
   },
   "57": {
     "translation": "Ang Dating Biblia (1905)",
@@ -679,9 +679,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemon",
     "url": "https://api.getbible.net/v2/tagalog/57.json",
-    "sha": "d65a3a684797e333f364c78156055812e04d431b"
+    "sha": "8238f6a887ce4b4abee8e815d98a6c42b09888bc"
   },
   "58": {
     "translation": "Ang Dating Biblia (1905)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Mga Hebreo",
     "url": "https://api.getbible.net/v2/tagalog/58.json",
-    "sha": "c8e3deb4f8934d8c22f70cefbe4dbb9633722b56"
+    "sha": "2881c4b8f474d16daa886d381e66eff60691a9ee"
   },
   "59": {
     "translation": "Ang Dating Biblia (1905)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Santiago",
     "url": "https://api.getbible.net/v2/tagalog/59.json",
-    "sha": "c82c56b23078077ffcf17eb223a262704dfc1eb4"
+    "sha": "00cefcda8e8b9e79bcb2da1153903a2ec2d8cbeb"
   },
   "60": {
     "translation": "Ang Dating Biblia (1905)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Pedro",
     "url": "https://api.getbible.net/v2/tagalog/60.json",
-    "sha": "a23a687f8445339de18f54b2b7afaf2cb9c59dfe"
+    "sha": "d061a00d721e2407f40b1d0d2606bf30a8a21f3d"
   },
   "61": {
     "translation": "Ang Dating Biblia (1905)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Pedro",
     "url": "https://api.getbible.net/v2/tagalog/61.json",
-    "sha": "843422ee25f126ac8cef9e33a74a2ddd8106c9b2"
+    "sha": "54041cf1f56b5661862aff05e6feecd3bcd5c798"
   },
   "62": {
     "translation": "Ang Dating Biblia (1905)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Juan",
     "url": "https://api.getbible.net/v2/tagalog/62.json",
-    "sha": "fa69868eaf0e5a9417f8df018aec5fee9b654055"
+    "sha": "e0a377c5c79f8b34d9e3f44b304a40ff9b342f5f"
   },
   "63": {
     "translation": "Ang Dating Biblia (1905)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Juan",
     "url": "https://api.getbible.net/v2/tagalog/63.json",
-    "sha": "6dc29a55acae30039f6099b66fb14362b4a4df3c"
+    "sha": "82a51aa00a20ed26f9ac7d71d2dc5be0bccd6814"
   },
   "64": {
     "translation": "Ang Dating Biblia (1905)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Juan",
     "url": "https://api.getbible.net/v2/tagalog/64.json",
-    "sha": "22d25ec4151dac04a41a1cffc16a6def91884801"
+    "sha": "15b320ac93d1dd0e6140874a8b3550e1f808099a"
   },
   "65": {
     "translation": "Ang Dating Biblia (1905)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judas",
     "url": "https://api.getbible.net/v2/tagalog/65.json",
-    "sha": "c1303b8f0d0a88566bbfea1c50fccf008108b235"
+    "sha": "a061991a0869420688ce2e94c036e0b156b4fff1"
   },
   "66": {
     "translation": "Ang Dating Biblia (1905)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Pahayag",
     "url": "https://api.getbible.net/v2/tagalog/66.json",
-    "sha": "972473ad02dbb6a68d73da2be34beb3efc92fa92"
+    "sha": "77bebf7f21b69a2eb623e786eed9ecb1942ca453"
   }
 }

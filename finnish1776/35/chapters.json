@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habakukin kirja 1",
     "url": "https://api.getbible.net/v2/finnish1776/35/1.json",
-    "sha": "488e97b2d7192339c3dd27bf9624a76f8ed80dad"
+    "sha": "02d61cfc5f2ee2bf12d4e85a57b164b56abe0335"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habakukin kirja 2",
     "url": "https://api.getbible.net/v2/finnish1776/35/2.json",
-    "sha": "675ca3fefc8fc65e19f239f92354bda6cef6ef0b"
+    "sha": "f4a4ec9e895a6fd4e7dc3395f4cc9591154edb3e"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habakukin kirja",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habakukin kirja 3",
     "url": "https://api.getbible.net/v2/finnish1776/35/3.json",
-    "sha": "e09bfa7bcf11e180e9e98bc1367dbf86d5670f5c"
+    "sha": "2e5dea20c16099e46bcf8e6ed81252f2fc5f0df7"
   }
 }

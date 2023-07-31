@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timoteo 1",
     "url": "https://api.getbible.net/v2/sse/54/1.json",
-    "sha": "d49d028a36556de891ee4b9785806c4386ba92ac"
+    "sha": "4979d50d99c48127f6b0e61da41892f11f20ec29"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timoteo 2",
     "url": "https://api.getbible.net/v2/sse/54/2.json",
-    "sha": "b835876028b3449df8d1d26892b184ae48df373d"
+    "sha": "019a770af45b46035343a2b83e6e9645a51cdd52"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timoteo 3",
     "url": "https://api.getbible.net/v2/sse/54/3.json",
-    "sha": "900b4e9bc884ed2cb3ea077dfc967f554f31a81d"
+    "sha": "219ee0586e1bd90957047cd3a90f860c18182618"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timoteo 4",
     "url": "https://api.getbible.net/v2/sse/54/4.json",
-    "sha": "daea84e82cbd1455a4ec6d4222067d291ecbb9bb"
+    "sha": "e176e6138735662061e8854c814e79a5d9d6ed26"
   },
   "5": {
     "translation": "Sagradas Escrituras (1569)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timoteo 5",
     "url": "https://api.getbible.net/v2/sse/54/5.json",
-    "sha": "32172cbf08450f31f1eb6c1a5a4bd60aef8af1d0"
+    "sha": "5ce5a1f9afdf3ae3d28f30a2ba2ed0246a245030"
   },
   "6": {
     "translation": "Sagradas Escrituras (1569)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timoteo 6",
     "url": "https://api.getbible.net/v2/sse/54/6.json",
-    "sha": "013fc95e5d770f0da94c9d2edf0d54724f018d5e"
+    "sha": "7bb2e7bfba7109742651642a49e65e13fde6ba0c"
   }
 }

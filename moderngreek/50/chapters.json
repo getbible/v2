@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Προς Φιλιππησίους 1",
     "url": "https://api.getbible.net/v2/moderngreek/50/1.json",
-    "sha": "9251f27130ca1999cbcb3c9b1433a7858ef53536"
+    "sha": "7f107629acab402ec1778202301c2519d0a52eab"
   },
   "2": {
     "translation": "Greek Modern",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Προς Φιλιππησίους 2",
     "url": "https://api.getbible.net/v2/moderngreek/50/2.json",
-    "sha": "f26bd1641072e67451686388c5d1c3e41deeb501"
+    "sha": "90f63c37d6bfb1f21dbefa369127d420dec0914c"
   },
   "3": {
     "translation": "Greek Modern",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Προς Φιλιππησίους 3",
     "url": "https://api.getbible.net/v2/moderngreek/50/3.json",
-    "sha": "3bc46872d99729d708dca36700abda3da07a41be"
+    "sha": "233ff1bee9b52be1ddb6c8974f8ebb2c45f348e8"
   },
   "4": {
     "translation": "Greek Modern",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Προς Φιλιππησίους",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Προς Φιλιππησίους 4",
     "url": "https://api.getbible.net/v2/moderngreek/50/4.json",
-    "sha": "6d177ae13d1a81a04d69664e5212f88b59a75723"
+    "sha": "b4ee64d35240bc556b84a65c5cd5de448a87e6c8"
   }
 }

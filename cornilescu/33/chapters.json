@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mica",
     "chapter": 1,
-    "name": "Micah 1",
+    "name": "Mica 1",
     "url": "https://api.getbible.net/v2/cornilescu/33/1.json",
-    "sha": "e656485045cbc2e1e64b40e78ed5afc3f02086af"
+    "sha": "48ac375d6238e11df1cd810e71d70456f91a8b64"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mica",
     "chapter": 2,
-    "name": "Micah 2",
+    "name": "Mica 2",
     "url": "https://api.getbible.net/v2/cornilescu/33/2.json",
-    "sha": "afb70310fb08c4bfbb93a88a0920f2ae545ba79c"
+    "sha": "db96a3df9fa93fe9ce356c0374b3bfe940ce4b19"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mica",
     "chapter": 3,
-    "name": "Micah 3",
+    "name": "Mica 3",
     "url": "https://api.getbible.net/v2/cornilescu/33/3.json",
-    "sha": "f7e07ab870418897b716cdb5af0aa8eecb89a9a8"
+    "sha": "03f154ea92619cae6bd4c501317cbd4c1b969e88"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mica",
     "chapter": 4,
-    "name": "Micah 4",
+    "name": "Mica 4",
     "url": "https://api.getbible.net/v2/cornilescu/33/4.json",
-    "sha": "e0b4485c2d7b6d289947b02c97c59a39d3962917"
+    "sha": "974df2ce949ede4e56e38ad3f66aed08bbc5c6e4"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mica",
     "chapter": 5,
-    "name": "Micah 5",
+    "name": "Mica 5",
     "url": "https://api.getbible.net/v2/cornilescu/33/5.json",
-    "sha": "345b9c660082d3a232613ea26763ae7e106f1013"
+    "sha": "59ca022464fd0175d3167b418da9ef5bfd653390"
   },
   "6": {
     "translation": "Cornilescu",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mica",
     "chapter": 6,
-    "name": "Micah 6",
+    "name": "Mica 6",
     "url": "https://api.getbible.net/v2/cornilescu/33/6.json",
-    "sha": "ba5fe60ac6f8521cd74d7a29a1b61f198eb5c735"
+    "sha": "a41ef71e1ffcd536e15ddab9ede4d7d84a207dca"
   },
   "7": {
     "translation": "Cornilescu",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micah",
+    "book_name": "Mica",
     "chapter": 7,
-    "name": "Micah 7",
+    "name": "Mica 7",
     "url": "https://api.getbible.net/v2/cornilescu/33/7.json",
-    "sha": "cfc12a1656524bda6be4bc1affd08e184e8fffcf"
+    "sha": "575014a0cca63a13a196c735f5a435e2fe1367b1"
   }
 }

@@ -7,9 +7,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "Genesis",
+    "name": "בְּרֵאשִׁית",
     "url": "https://api.getbible.net/v2/modernhebrew/1.json",
-    "sha": "750ba317c6481f55f03dbbfdae2aa0b118d40f7c"
+    "sha": "b4c69b226f6000eaa247bc2f6ed01ce4981d77ec"
   },
   "2": {
     "translation": "Hebrew Modern",
@@ -19,9 +19,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "Exodus",
+    "name": "שְׁמוֹת",
     "url": "https://api.getbible.net/v2/modernhebrew/2.json",
-    "sha": "eeb03b5b8dc87c081b7f70af4096f78ab87acb3c"
+    "sha": "a329b80de315c166b024db431b3bdbe160ea271f"
   },
   "3": {
     "translation": "Hebrew Modern",
@@ -31,9 +31,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "Leviticus",
+    "name": "וַיִּקְרָא",
     "url": "https://api.getbible.net/v2/modernhebrew/3.json",
-    "sha": "29641e9e610029ddc7ff0e9b0f77f6988c25e66b"
+    "sha": "bdbbd6deabba5a16751396506c92decd2018f212"
   },
   "4": {
     "translation": "Hebrew Modern",
@@ -43,9 +43,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "בְּמִדְבַּר",
     "url": "https://api.getbible.net/v2/modernhebrew/4.json",
-    "sha": "3068c6aa1f97e4c97ebdafca47c0a8b35b6a6b31"
+    "sha": "21df9a3407d5661a77c6f7e05a980c71a90320cc"
   },
   "5": {
     "translation": "Hebrew Modern",
@@ -55,9 +55,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "דְּבָרִים",
     "url": "https://api.getbible.net/v2/modernhebrew/5.json",
-    "sha": "5a997be812fdb9b4e8844cb82131550a96a3d848"
+    "sha": "ceefbb97b8908d93ceba3c24ee1a901129869349"
   },
   "6": {
     "translation": "Hebrew Modern",
@@ -67,9 +67,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "יְהוֹשֻעַ",
     "url": "https://api.getbible.net/v2/modernhebrew/6.json",
-    "sha": "5e2d0e9da813bc8d62290e80fb3641266ca507ee"
+    "sha": "695ef9e576c30fffa1bfdae9a7285ab7b6f01a15"
   },
   "7": {
     "translation": "Hebrew Modern",
@@ -79,9 +79,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "שֹׁפְטִים",
     "url": "https://api.getbible.net/v2/modernhebrew/7.json",
-    "sha": "ffb15dd43dc242d5bb251ff9172d69a1e5312d49"
+    "sha": "39a8331693f662ebb4c3fa74c50d10bf1cafd49b"
   },
   "8": {
     "translation": "Hebrew Modern",
@@ -91,9 +91,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Ruth",
+    "name": "רוּת",
     "url": "https://api.getbible.net/v2/modernhebrew/8.json",
-    "sha": "60d27feaf599c422de6a1fd05696bf2d896ba68f"
+    "sha": "4c1b6c4ff2db1c93667d0e210f135bc21ba39723"
   },
   "9": {
     "translation": "Hebrew Modern",
@@ -103,9 +103,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1 Samuel",
+    "name": "שְׁמוּאֵל א",
     "url": "https://api.getbible.net/v2/modernhebrew/9.json",
-    "sha": "598d2ab0f8a236981f8bbe46007d50bb49483c59"
+    "sha": "f9c7aef0c0c0d5c3bfe76f11ea37287672cfe64c"
   },
   "10": {
     "translation": "Hebrew Modern",
@@ -115,9 +115,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2 Samuel",
+    "name": "שְׁמוּאֵל ב",
     "url": "https://api.getbible.net/v2/modernhebrew/10.json",
-    "sha": "a32fb6a148c94378525ebda307a1a840947cc84f"
+    "sha": "638e0031f4bda16cbd17e3c7ec59058ff1a81ed0"
   },
   "11": {
     "translation": "Hebrew Modern",
@@ -127,9 +127,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "מְלָכִים א",
     "url": "https://api.getbible.net/v2/modernhebrew/11.json",
-    "sha": "fa3f76a76b806354ed72d452f19467ce999aaba6"
+    "sha": "e5b6588c60a5d8575821af9b7e2c6dcaf908d947"
   },
   "12": {
     "translation": "Hebrew Modern",
@@ -139,9 +139,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "מְלָכִים ב",
     "url": "https://api.getbible.net/v2/modernhebrew/12.json",
-    "sha": "7bf634773d1d8dbe99870863895cbeffd0d3dbe1"
+    "sha": "beff098bf798a466f7537868065c1890bc8be1a5"
   },
   "13": {
     "translation": "Hebrew Modern",
@@ -151,9 +151,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "דִּבְרֵי הַיָּמִים א",
     "url": "https://api.getbible.net/v2/modernhebrew/13.json",
-    "sha": "5c362b89c6198a6687a02e900f013637bd9e45cc"
+    "sha": "90de434ff55d28195d692e0ebdb566b3f4e281ba"
   },
   "14": {
     "translation": "Hebrew Modern",
@@ -163,9 +163,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "דִּבְרֵי הַיָּמִים ב",
     "url": "https://api.getbible.net/v2/modernhebrew/14.json",
-    "sha": "6a1c6c44a6aba3473e836192e88659cf812d0719"
+    "sha": "0d076fe3a26093504d354db743d303f26d916b8e"
   },
   "15": {
     "translation": "Hebrew Modern",
@@ -175,9 +175,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Ezra",
+    "name": "עֵזְרָא",
     "url": "https://api.getbible.net/v2/modernhebrew/15.json",
-    "sha": "2c5d7ecee29faab1cf39884b9a7d22cea31274dd"
+    "sha": "c6e8ec224cdf1c600c7ac99d259252eb736ad813"
   },
   "16": {
     "translation": "Hebrew Modern",
@@ -187,9 +187,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "נְחֶמְיָה",
     "url": "https://api.getbible.net/v2/modernhebrew/16.json",
-    "sha": "506d3fd1117d2eece8243be79a0809bf107f7cf2"
+    "sha": "79ab3dd4dd84c1ef8a711c1f56f30c5313bcb00c"
   },
   "17": {
     "translation": "Hebrew Modern",
@@ -199,9 +199,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Esther",
+    "name": "אֶסְתֵּר",
     "url": "https://api.getbible.net/v2/modernhebrew/17.json",
-    "sha": "f3e616934f8201f6ad49b69b85729ccc725c5d54"
+    "sha": "97c696d9c3a73c66ac9923c8a573dd1d756bcf8e"
   },
   "18": {
     "translation": "Hebrew Modern",
@@ -211,9 +211,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Job",
+    "name": "אִיּוֹב",
     "url": "https://api.getbible.net/v2/modernhebrew/18.json",
-    "sha": "5f90de96c720d02c601b7dc0f6b20c8cc04887ad"
+    "sha": "e6fec6229c9f167943fffca04308d5f2892ccd0c"
   },
   "19": {
     "translation": "Hebrew Modern",
@@ -223,9 +223,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "תְּהִלִּים",
     "url": "https://api.getbible.net/v2/modernhebrew/19.json",
-    "sha": "f716aecd38ad02a4b4d2a1f9fa3fe6dd4f1559de"
+    "sha": "409cb5e6ef828827b86b557d75f98d26dc89a8b4"
   },
   "20": {
     "translation": "Hebrew Modern",
@@ -235,9 +235,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "מִשְׁלֵי",
     "url": "https://api.getbible.net/v2/modernhebrew/20.json",
-    "sha": "d8bbeb7d374541eebc13e34bae6ba403f798046f"
+    "sha": "32b1e554f17662c167481dc2f3add4937fa9232c"
   },
   "21": {
     "translation": "Hebrew Modern",
@@ -247,9 +247,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "קֹהֶלֶת",
     "url": "https://api.getbible.net/v2/modernhebrew/21.json",
-    "sha": "51fe77eeca8edf432f391ebcdb422474bdf04d04"
+    "sha": "00aa38d746a26cf12fad9154903d8ee7222e0d90"
   },
   "22": {
     "translation": "Hebrew Modern",
@@ -259,9 +259,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "שִׁיר הַשִּׁירִים",
     "url": "https://api.getbible.net/v2/modernhebrew/22.json",
-    "sha": "150a7e55aa43e770cc5cd14909bb9a5e844c607b"
+    "sha": "30b5339fba6f724b4a2e321cd939de7be69b12e9"
   },
   "23": {
     "translation": "Hebrew Modern",
@@ -271,9 +271,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "יְשַׁעְיָהוּ",
     "url": "https://api.getbible.net/v2/modernhebrew/23.json",
-    "sha": "48b2823bda744a3f22b80032916420955bd0e914"
+    "sha": "75f8a26a1132b55c2bd26f2455bee0d325faa158"
   },
   "24": {
     "translation": "Hebrew Modern",
@@ -283,9 +283,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "יִרְמְיָהוּ",
     "url": "https://api.getbible.net/v2/modernhebrew/24.json",
-    "sha": "3320a0bac45c9c7461554a30d8d8194e788c29e4"
+    "sha": "3e2bd81027c757b011d7017652751fda0ecfa6b3"
   },
   "25": {
     "translation": "Hebrew Modern",
@@ -295,9 +295,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "אֵיכָה",
     "url": "https://api.getbible.net/v2/modernhebrew/25.json",
-    "sha": "066fcb1bc700041b0142ac0b44f24ab531e06b1b"
+    "sha": "264276f8eff529e338c71d22f84b0b2e4703a225"
   },
   "26": {
     "translation": "Hebrew Modern",
@@ -307,9 +307,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "יְחֶזְקֵאל",
     "url": "https://api.getbible.net/v2/modernhebrew/26.json",
-    "sha": "80781517a2df22c9ba206a25c08b1f0d1293ba95"
+    "sha": "ee0c0a6e1c10c092830892ff47aaf51b541b5ec5"
   },
   "27": {
     "translation": "Hebrew Modern",
@@ -319,9 +319,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "דָּנִיֵּאל",
     "url": "https://api.getbible.net/v2/modernhebrew/27.json",
-    "sha": "d89b99e28b78f24d652fd735f69f1a059a2220ae"
+    "sha": "159d60e6a6dbc2fff6375f7f98faa02f9eb61c6c"
   },
   "28": {
     "translation": "Hebrew Modern",
@@ -331,9 +331,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 28,
-    "name": "Hosea",
+    "name": "הוֹשֵׁעַ",
     "url": "https://api.getbible.net/v2/modernhebrew/28.json",
-    "sha": "2c669350faf60ecb340416f8589467aea5455e2c"
+    "sha": "43fd72df9227eb5bb90b875645f4c8482ba54937"
   },
   "29": {
     "translation": "Hebrew Modern",
@@ -343,9 +343,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "יוֹאֵל",
     "url": "https://api.getbible.net/v2/modernhebrew/29.json",
-    "sha": "4276755a4a42c6ac24a1de0fefe164efb04b5fdb"
+    "sha": "965a9172ab55835cea7d09fad573ec2eb1486e21"
   },
   "30": {
     "translation": "Hebrew Modern",
@@ -355,9 +355,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 30,
-    "name": "Amos",
+    "name": "עָמוֹס",
     "url": "https://api.getbible.net/v2/modernhebrew/30.json",
-    "sha": "bf0f8425bb0a05275f5c6f62003f051bebc9b51a"
+    "sha": "8b13b0c9916f1a44e76f45bb62d87c65173c32bf"
   },
   "31": {
     "translation": "Hebrew Modern",
@@ -367,9 +367,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "עֹבַדְיָה",
     "url": "https://api.getbible.net/v2/modernhebrew/31.json",
-    "sha": "4bece737b088f8bd16145b00e1ac70b4b46bf052"
+    "sha": "56c53e66372c471ddcbda6cea4933ffdbbd87d4e"
   },
   "32": {
     "translation": "Hebrew Modern",
@@ -379,9 +379,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "יוֹנָה",
     "url": "https://api.getbible.net/v2/modernhebrew/32.json",
-    "sha": "afb7b1633b0b878335795e06921e17b064bf4529"
+    "sha": "3b89dca43e1c08f869cbebce29fa91c28e8a22e3"
   },
   "33": {
     "translation": "Hebrew Modern",
@@ -391,9 +391,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "מִיכָה",
     "url": "https://api.getbible.net/v2/modernhebrew/33.json",
-    "sha": "9302992a6a723503757fe13837352fd1b97a004e"
+    "sha": "d1fae7d54556c1b1be796c104b7fff1ad262ff3e"
   },
   "34": {
     "translation": "Hebrew Modern",
@@ -403,9 +403,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 34,
-    "name": "Nahum",
+    "name": "נַחוּם",
     "url": "https://api.getbible.net/v2/modernhebrew/34.json",
-    "sha": "98151bf257b269b2bc524d426dc14469d3d55490"
+    "sha": "938ef61ba9031fe67c87691dcfb845f680402384"
   },
   "35": {
     "translation": "Hebrew Modern",
@@ -415,9 +415,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "חֲבַקּוּק",
     "url": "https://api.getbible.net/v2/modernhebrew/35.json",
-    "sha": "d8e9ab12fda538e85e0e120e59c494b5d7c44288"
+    "sha": "3145765b680a31dc07521decf70b409ae19bcf59"
   },
   "36": {
     "translation": "Hebrew Modern",
@@ -427,9 +427,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "צְפַנְיָה",
     "url": "https://api.getbible.net/v2/modernhebrew/36.json",
-    "sha": "8bc57aa41f84df339f00693fd9d519a9b8e92972"
+    "sha": "505d3c08da60e13fd2f05f5224b0f7451969cd6e"
   },
   "37": {
     "translation": "Hebrew Modern",
@@ -439,9 +439,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 37,
-    "name": "Haggai",
+    "name": "חַגַּי",
     "url": "https://api.getbible.net/v2/modernhebrew/37.json",
-    "sha": "f120779c97c82b7f8614bcd7c742d824cc2059c6"
+    "sha": "50e45053d29d8de799446ff80c6087cf545ca779"
   },
   "38": {
     "translation": "Hebrew Modern",
@@ -451,9 +451,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "זְכַרְיָה",
     "url": "https://api.getbible.net/v2/modernhebrew/38.json",
-    "sha": "9e34dffda2868591e4a792cc0423cc603fd57ee3"
+    "sha": "ee908da4fa4cff8fa54b6fdb03455ffdeedc2964"
   },
   "39": {
     "translation": "Hebrew Modern",
@@ -463,9 +463,9 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "מַלְאָכִי",
     "url": "https://api.getbible.net/v2/modernhebrew/39.json",
-    "sha": "d7c60cbd5b7ccd3f6aac45f65f0a483235009cc4"
+    "sha": "a3bcacbd4da99b74372e4b51866104bad3f31e7b"
   },
   "40": {
     "translation": "Hebrew Modern",
@@ -787,8 +787,8 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Revelation of John",
     "url": "https://api.getbible.net/v2/modernhebrew/66.json",
-    "sha": "5adf41a64c863b8266eab814ae1c7327c008f98a"
+    "sha": "8a7538882bf363728a21cdf4c32ac00c187a39b7"
   }
 }

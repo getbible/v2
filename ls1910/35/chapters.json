@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/ls1910/35/1.json",
-    "sha": "53b8082bad39e834960206cd9a6e81dd5ab60fbe"
+    "sha": "36a638e0550001166294411cbbd33d3ef52a8aa0"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/ls1910/35/2.json",
-    "sha": "d556f540a97a7b19d736d253e48732cea7c8b17f"
+    "sha": "0edff549a0e1e997b7ef4a8344cc16aa55a28369"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/ls1910/35/3.json",
-    "sha": "1733bc5894ee79ec683028163780b3df49a4be62"
+    "sha": "b6182da373c7014e828b977525a4692b06102ef8"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquias",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malaquias 1",
     "url": "https://api.getbible.net/v2/almeida/39/1.json",
-    "sha": "47c3efb7c5e7b9b8927fa03b8b6318a845d4344e"
+    "sha": "2843d6812c606ef54db662fa83c2a84d39725b91"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquias",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malaquias 2",
     "url": "https://api.getbible.net/v2/almeida/39/2.json",
-    "sha": "8fb99627c214d52eaeaa799ee2a32e62b4ca29a1"
+    "sha": "e389b4726416aaf8254b5745148ce8d9ba0f042c"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquias",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malaquias 3",
     "url": "https://api.getbible.net/v2/almeida/39/3.json",
-    "sha": "92d30ba8f34fe5d0cf45141a701a3298f3422371"
+    "sha": "3619f0031b47119700c4cd41909c9619dbe8f4a3"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquias",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malaquias 4",
     "url": "https://api.getbible.net/v2/almeida/39/4.json",
-    "sha": "36b6d29a8cc19599fca22aa147916a716ec7c9d5"
+    "sha": "b1972e355d146f2e26bd54e4b400c7b1b120208a"
   }
 }

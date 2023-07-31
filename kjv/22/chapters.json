@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Song of Songs 1",
     "url": "https://api.getbible.net/v2/kjv/22/1.json",
-    "sha": "d7a0058daaedac4c38f424f036889a06c5addac3"
+    "sha": "27dd29fd7d01a5d566615aa902d8da37c42aa2dd"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Song of Songs 2",
     "url": "https://api.getbible.net/v2/kjv/22/2.json",
-    "sha": "4dacd4362b6bbc412176b64a9ddaa3743d44d220"
+    "sha": "273d555a06100ccd417be21ad25bf8ca2cade02e"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Song of Songs 3",
     "url": "https://api.getbible.net/v2/kjv/22/3.json",
-    "sha": "060ce4c02d122344caacd37d63fb07e52c7e14c8"
+    "sha": "cd3209979e46c971d3cf12d31ebfa767de08f79b"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Song of Songs 4",
     "url": "https://api.getbible.net/v2/kjv/22/4.json",
-    "sha": "d9d82a36946f4567a6117af64826ba70586282be"
+    "sha": "f6acedc1f6421dd221850cd391519b2905fe8c12"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Song of Songs 5",
     "url": "https://api.getbible.net/v2/kjv/22/5.json",
-    "sha": "58b08da609662d03bdc5d6332542a6400ade9ef4"
+    "sha": "c48dc74692065f2b1ff5ebc3a7d913e8b4c73561"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Song of Songs 6",
     "url": "https://api.getbible.net/v2/kjv/22/6.json",
-    "sha": "31eba6d2c438bf9c9974458a6a0aeec6e10bf8fe"
+    "sha": "f3d61b947efd6eb7d058df4a7652031755dcc362"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Song of Songs 7",
     "url": "https://api.getbible.net/v2/kjv/22/7.json",
-    "sha": "b6b8598bc6db9b59675b165495a7700b51854d1c"
+    "sha": "2552c9f0db3cdffcbb2a8a539b921413f3deea8a"
   },
   "8": {
     "translation": "King James Version",
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "Song of Songs 8",
     "url": "https://api.getbible.net/v2/kjv/22/8.json",
-    "sha": "d6802addae1c012f7e9dc8b9760d823b7fe8b4bf"
+    "sha": "ffcc861e9402339affa73991c1a4abfdb973f667"
   }
 }

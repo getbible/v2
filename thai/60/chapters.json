@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 เปโตร",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "1 เปโตร 1",
     "url": "https://api.getbible.net/v2/thai/60/1.json",
-    "sha": "26add3da7e50b586b9819edd3995132f70fee463"
+    "sha": "ba44b7a8291a92aa574c776d377ffc8a972aeab3"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 เปโตร",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "1 เปโตร 2",
     "url": "https://api.getbible.net/v2/thai/60/2.json",
-    "sha": "9018d5db705831a22a225097eed0b9d53f70674f"
+    "sha": "d4d6a8e36975de5c8516329110eaeb5bb2a5088c"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 เปโตร",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "1 เปโตร 3",
     "url": "https://api.getbible.net/v2/thai/60/3.json",
-    "sha": "4a563c35fb3b5dea08d1434dc5fb8676b2f9d31b"
+    "sha": "3766caf2101ecfc432e1f0ddbd7b1c23299ae339"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 เปโตร",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "1 เปโตร 4",
     "url": "https://api.getbible.net/v2/thai/60/4.json",
-    "sha": "7e565d03a2bcfe3e1b9f3c23e3a0d4fb1518afc9"
+    "sha": "5df1f0c4ce6b078b404b17c75a6059917be4f447"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "1 เปโตร",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "1 เปโตร 5",
     "url": "https://api.getbible.net/v2/thai/60/5.json",
-    "sha": "0804e49c657796a291b0895a5af49f30eabf62e0"
+    "sha": "d7d21b852018ad550ff8e1826754112e232285c1"
   }
 }

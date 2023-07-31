@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "加拉太書 1",
     "url": "https://api.getbible.net/v2/cut/48/1.json",
-    "sha": "f656787f11b8f0359014f711145518174c400f74"
+    "sha": "1d7a97bd525d12567d4ff0cf33179d4a76e8c749"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "加拉太書 2",
     "url": "https://api.getbible.net/v2/cut/48/2.json",
-    "sha": "7c723f13273c69554e1f7d0e4851cba7ad6bf52e"
+    "sha": "6967ab3bf29178970ad199b0bd8569ba4923d7ba"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "加拉太書 3",
     "url": "https://api.getbible.net/v2/cut/48/3.json",
-    "sha": "5e5719538bd4ae3aab2156c419e85fa7936e3f79"
+    "sha": "ea3e27912686872f6a4381d50b04010463259173"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "加拉太書 4",
     "url": "https://api.getbible.net/v2/cut/48/4.json",
-    "sha": "bcdc851db4881ddfe4eafec16dd0a2f888e5c934"
+    "sha": "e8e57ea3f320cefd11dd0f270f50307d41c50377"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "加拉太書 5",
     "url": "https://api.getbible.net/v2/cut/48/5.json",
-    "sha": "2f83f2fa61145c98d2869c6363c100e5e12cd164"
+    "sha": "675218e743ade728c03c822614eda4fa19451aab"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "加拉太書 6",
     "url": "https://api.getbible.net/v2/cut/48/6.json",
-    "sha": "490a359da3718c85e8dd4e7a84df61b122455386"
+    "sha": "684232558dcb933c26d88a59c1a679d8d014c385"
   }
 }

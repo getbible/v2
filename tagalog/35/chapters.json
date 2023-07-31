@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/tagalog/35/1.json",
-    "sha": "2752a0b993bc072a9354465e3772b134cbcafc34"
+    "sha": "bb267275ba9b845261ba61c56137d23f6e4b96da"
   },
   "2": {
     "translation": "Ang Dating Biblia (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/tagalog/35/2.json",
-    "sha": "cfe8614663d69c78fd3ffabcd48fbe12337e393f"
+    "sha": "ca3db980e108ce799c7b595b736804e2bd0c7cc4"
   },
   "3": {
     "translation": "Ang Dating Biblia (1905)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/tagalog/35/3.json",
-    "sha": "3a034f6d16f7e357c579af6da1b2abafd42ea1fc"
+    "sha": "6b9f7a1d2abc650a0974f36ba3bc12173e337381"
   }
 }

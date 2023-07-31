@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Thessaloniciens",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "1 Thessaloniciens 1",
     "url": "https://api.getbible.net/v2/martin/52/1.json",
-    "sha": "662c98bb5695367fa025427f11ca2ae7b32c4fc7"
+    "sha": "b388d3340974c06ee3db6321d94f24f2e681a35d"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Thessaloniciens",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "1 Thessaloniciens 2",
     "url": "https://api.getbible.net/v2/martin/52/2.json",
-    "sha": "27de905a5c43eb3183da134277c56e4626cf4a65"
+    "sha": "9929ece268ac54f895110542d7044bf60e31b29f"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Thessaloniciens",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "1 Thessaloniciens 3",
     "url": "https://api.getbible.net/v2/martin/52/3.json",
-    "sha": "1ed1fa86a348c1e7f063d270b8962ef5a3c90683"
+    "sha": "abe5576d4324b0a1e96ef986f6d6205ac2745f82"
   },
   "4": {
     "translation": "Martin (1744)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Thessaloniciens",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "1 Thessaloniciens 4",
     "url": "https://api.getbible.net/v2/martin/52/4.json",
-    "sha": "340682187af2bd0f8d778954b517bf3af0adfb80"
+    "sha": "89de60768b33ccba81724de52b3e60ef7774fcce"
   },
   "5": {
     "translation": "Martin (1744)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "1 Thessaloniciens",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "1 Thessaloniciens 5",
     "url": "https://api.getbible.net/v2/martin/52/5.json",
-    "sha": "34b7d2eee3f2da6e54ed7bd8a18a4409eddace94"
+    "sha": "189aecb6a4a71282a4f9db8b19659411d7ab3d55"
   }
 }

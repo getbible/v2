@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ioan",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Ioan 1",
     "url": "https://api.getbible.net/v2/cornilescu/62/1.json",
-    "sha": "be5d923e61d519350274bf039968100301776e6f"
+    "sha": "fd3c23198174c6e98df9ed008f391fe935227872"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ioan",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Ioan 2",
     "url": "https://api.getbible.net/v2/cornilescu/62/2.json",
-    "sha": "72a20143364a60b66afa40677480df9ffb904c91"
+    "sha": "c59d324eaeb48eef9854f82d4f10c70c1387e3e1"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ioan",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Ioan 3",
     "url": "https://api.getbible.net/v2/cornilescu/62/3.json",
-    "sha": "b844da3bb2c1e8ab3dfb9588395c38317897c562"
+    "sha": "6063cf30e8bd04f9131ed60480a1dbc3298df485"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ioan",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Ioan 4",
     "url": "https://api.getbible.net/v2/cornilescu/62/4.json",
-    "sha": "cc224506b17c68eb861f9ab78cbe3f0664c0e4f7"
+    "sha": "fc8af45e0a764dc04c73f7e8d9dab9edbc43c2e9"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Ioan",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Ioan 5",
     "url": "https://api.getbible.net/v2/cornilescu/62/5.json",
-    "sha": "fb867efe8379062af64d08965c15f8b1bd0ffa86"
+    "sha": "6a46dc30842bd60a5d32d4cf97824ea041091d43"
   }
 }

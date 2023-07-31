@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 1,
-    "name": "Habakkuk 1",
+    "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/martin/35/1.json",
-    "sha": "8ba5f24c404fd8384ced55bbc5ed539c7a182e3c"
+    "sha": "9bd4b57fec13f36eeef06b49b1237ddf270a7ac5"
   },
   "2": {
     "translation": "Martin (1744)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 2,
-    "name": "Habakkuk 2",
+    "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/martin/35/2.json",
-    "sha": "b3c0570e1ffc3a866c5989545a39e61ea5c31fd5"
+    "sha": "abb9dff868783bd8d65d97a169e4da7b5d5aa5e0"
   },
   "3": {
     "translation": "Martin (1744)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakkuk",
+    "book_name": "Habacuc",
     "chapter": 3,
-    "name": "Habakkuk 3",
+    "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/martin/35/3.json",
-    "sha": "3b27c74d0d4677e9dfac09eaa2255873163d7fe4"
+    "sha": "5ca66f8cf884107da68cacf5ae6a467e25c06acf"
   }
 }

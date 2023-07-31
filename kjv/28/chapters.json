@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Hosea 1",
     "url": "https://api.getbible.net/v2/kjv/28/1.json",
-    "sha": "76e48c316f7db9c80cd93e63037a4c478382a9a3"
+    "sha": "0aaf5bac20d6a39a6288fd5739b63915070d3851"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Hosea 2",
     "url": "https://api.getbible.net/v2/kjv/28/2.json",
-    "sha": "711b158ecfe7b8756ba0914dc5c7261e2082bcbb"
+    "sha": "59177b47c6fa23c09b1d69b2776778e863b93c4d"
   },
   "3": {
     "translation": "King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Hosea 3",
     "url": "https://api.getbible.net/v2/kjv/28/3.json",
-    "sha": "0bb52c5d6a6891f68cfd0393cb68ad6deab37f9f"
+    "sha": "cc5df22cd51b23310610c5ca6fced0339e2c8dba"
   },
   "4": {
     "translation": "King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Hosea 4",
     "url": "https://api.getbible.net/v2/kjv/28/4.json",
-    "sha": "5fa66cd4bf99ae9f509d075e45d3c1773f2d1f93"
+    "sha": "ebd11922ff34100c1d2b7aaac0405dff1cfa7e20"
   },
   "5": {
     "translation": "King James Version",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Hosea 5",
     "url": "https://api.getbible.net/v2/kjv/28/5.json",
-    "sha": "287de91337a8ca0a4eea3c67e04a16bc7931d76c"
+    "sha": "cd92da237454fe2e4756c709d67eac4939a37d75"
   },
   "6": {
     "translation": "King James Version",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Hosea 6",
     "url": "https://api.getbible.net/v2/kjv/28/6.json",
-    "sha": "5a9405c5ce35af1443d249d49acfec8e2261068d"
+    "sha": "05a49c5ce378b4379c28bab747c520de49021fc3"
   },
   "7": {
     "translation": "King James Version",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Hosea 7",
     "url": "https://api.getbible.net/v2/kjv/28/7.json",
-    "sha": "e816620501220a6746eea4c6c3249f11016dcea2"
+    "sha": "6885790ed98a50470210cfc05916cdad75277a3d"
   },
   "8": {
     "translation": "King James Version",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Hosea 8",
     "url": "https://api.getbible.net/v2/kjv/28/8.json",
-    "sha": "cddb3fd4043fc8c919def529dbff7924fad36a25"
+    "sha": "1a0c8a1f0e897fb6995eeb802496a9e4ee3557d4"
   },
   "9": {
     "translation": "King James Version",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Hosea 9",
     "url": "https://api.getbible.net/v2/kjv/28/9.json",
-    "sha": "ad6c2e78b677f86fa458830f19ec9afb31e22cd5"
+    "sha": "3ab9c9eb7b021d5e4f3a65673eab0abef4f34c93"
   },
   "10": {
     "translation": "King James Version",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Hosea 10",
     "url": "https://api.getbible.net/v2/kjv/28/10.json",
-    "sha": "bef182ec7a8c7d2690de7cb7cefb08c56cb65e77"
+    "sha": "1abedaa5a2d42d5e23aaeb129eccd2709696e05e"
   },
   "11": {
     "translation": "King James Version",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Hosea 11",
     "url": "https://api.getbible.net/v2/kjv/28/11.json",
-    "sha": "9a7baf97078fd8a632a52fb8ee555e49d72a56a0"
+    "sha": "1474636cdf35eb1fbd41d0da6affff60993ff07a"
   },
   "12": {
     "translation": "King James Version",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Hosea 12",
     "url": "https://api.getbible.net/v2/kjv/28/12.json",
-    "sha": "67ac0b029c276b60aacea91bae9510190f653ce6"
+    "sha": "ae3f520202a3d680ff4c3b88bea1e8d8d1d7ee45"
   },
   "13": {
     "translation": "King James Version",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Hosea 13",
     "url": "https://api.getbible.net/v2/kjv/28/13.json",
-    "sha": "e20a5e3e85bc1f9c4aa1fda3b556af8d160c6b3e"
+    "sha": "c827966262ae0e9c00c7e32dea3ca66c05e0a42a"
   },
   "14": {
     "translation": "King James Version",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Hosea 14",
     "url": "https://api.getbible.net/v2/kjv/28/14.json",
-    "sha": "c2b3153dc97969577f0d36e60f293801e990e5c0"
+    "sha": "f859e73094bdc6379bde5c39a0629bb56ac0a534"
   }
 }

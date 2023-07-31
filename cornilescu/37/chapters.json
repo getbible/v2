@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hagai",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Hagai 1",
     "url": "https://api.getbible.net/v2/cornilescu/37/1.json",
-    "sha": "13fde5dfabad3780cebffd0e9740b9ff21d85ecd"
+    "sha": "5b81187c32f671f765b49f292898154bd858e5cf"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Hagai",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Hagai 2",
     "url": "https://api.getbible.net/v2/cornilescu/37/2.json",
-    "sha": "9d9a0277ed06fbeb455c9808c9d87001726a3f49"
+    "sha": "e1a8c4267c181e9d5bfb1e09741375431acdf4ea"
   }
 }

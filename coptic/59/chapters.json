@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 1,
-    "name": "James 1",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 1",
     "url": "https://api.getbible.net/v2/coptic/59/1.json",
-    "sha": "1c8a936667aab98a2cd79e73640d00c5e43bb4e4"
+    "sha": "ee6b1334d093fd1c926f263ff7cc9e8dfa1edfb6"
   },
   "2": {
     "translation": "New Testament",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 2,
-    "name": "James 2",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 2",
     "url": "https://api.getbible.net/v2/coptic/59/2.json",
-    "sha": "b726c40923f536bcccb4f72833b53abe69a31588"
+    "sha": "972b306abb7e7493a0079d12c232d3b0f90ebd49"
   },
   "3": {
     "translation": "New Testament",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 3,
-    "name": "James 3",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 3",
     "url": "https://api.getbible.net/v2/coptic/59/3.json",
-    "sha": "c8f5170f6630291f5293c7a606e4aad7925571eb"
+    "sha": "bd58bc27893d01886b3d55fc862fc1d7461572cb"
   },
   "4": {
     "translation": "New Testament",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 4,
-    "name": "James 4",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 4",
     "url": "https://api.getbible.net/v2/coptic/59/4.json",
-    "sha": "49e5b538bc26033c8932a2c9c18c1d2696f5e0e9"
+    "sha": "a4cdfd9bd238bab5146ae87681193a1121eeb150"
   },
   "5": {
     "translation": "New Testament",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "Ⲓⲁⲕⲱⲃⲟⲥ",
     "chapter": 5,
-    "name": "James 5",
+    "name": "Ⲓⲁⲕⲱⲃⲟⲥ 5",
     "url": "https://api.getbible.net/v2/coptic/59/5.json",
-    "sha": "960a0bfa1ccb4a1a64fd696e607983c52d183119"
+    "sha": "32932b61c6dc537c688372fb7ddec3c31a98f3f5"
   }
 }

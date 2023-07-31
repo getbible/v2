@@ -7,11 +7,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "يعقوب",
     "chapter": 1,
-    "name": "James 1",
+    "name": "يعقوب 1",
     "url": "https://api.getbible.net/v2/arabicsv/59/1.json",
-    "sha": "20c1300a15026c551e0a83fc871f3510d26ee350"
+    "sha": "122b9fe61fed4a0da1e35987f220d007b835869d"
   },
   "2": {
     "translation": "Smith and Van Dyke",
@@ -21,11 +21,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "يعقوب",
     "chapter": 2,
-    "name": "James 2",
+    "name": "يعقوب 2",
     "url": "https://api.getbible.net/v2/arabicsv/59/2.json",
-    "sha": "843d02c9560f41603f234fe6795bf5f0451c4883"
+    "sha": "e49e1ad7b2e726d3f7a708a9db5150b2d3c64918"
   },
   "3": {
     "translation": "Smith and Van Dyke",
@@ -35,11 +35,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "يعقوب",
     "chapter": 3,
-    "name": "James 3",
+    "name": "يعقوب 3",
     "url": "https://api.getbible.net/v2/arabicsv/59/3.json",
-    "sha": "7b1c5084786db3f654975bd322cfeb970c47c25a"
+    "sha": "e3a10dad42b4cdd3275fa491178e50421540f41e"
   },
   "4": {
     "translation": "Smith and Van Dyke",
@@ -49,11 +49,11 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "يعقوب",
     "chapter": 4,
-    "name": "James 4",
+    "name": "يعقوب 4",
     "url": "https://api.getbible.net/v2/arabicsv/59/4.json",
-    "sha": "a92e80a913b1471ff3b6595156aa985b8e28a655"
+    "sha": "79b42305333de29aec4f41aaa4923fbb924b0901"
   },
   "5": {
     "translation": "Smith and Van Dyke",
@@ -63,10 +63,10 @@
     "direction": "RTL",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "James",
+    "book_name": "يعقوب",
     "chapter": 5,
-    "name": "James 5",
+    "name": "يعقوب 5",
     "url": "https://api.getbible.net/v2/arabicsv/59/5.json",
-    "sha": "8a2a9fc0ba1200d3472fabcebeb54c4f68db9177"
+    "sha": "7ba567358331a92e9558944a114d15443905f267"
   }
 }

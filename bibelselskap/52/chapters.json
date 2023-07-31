@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Første tessalonikerbrev",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "Første tessalonikerbrev 1",
     "url": "https://api.getbible.net/v2/bibelselskap/52/1.json",
-    "sha": "5658cb1f1e3ba0469634015716b47f2da35cfde2"
+    "sha": "9a43410f686ed5c5157e76de5129af8748ca77d4"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Første tessalonikerbrev",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "Første tessalonikerbrev 2",
     "url": "https://api.getbible.net/v2/bibelselskap/52/2.json",
-    "sha": "9ec98c7fb26e811b1732e2f30f613e74f4c7129a"
+    "sha": "46691c730c42605029ffa0bc378ab5c26382fa8f"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Første tessalonikerbrev",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "Første tessalonikerbrev 3",
     "url": "https://api.getbible.net/v2/bibelselskap/52/3.json",
-    "sha": "52fef13974f9dce2f7fa3df0a9f61f66f232a5c7"
+    "sha": "62afa3b39a018037792fed7dc3a605df8b806daf"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Første tessalonikerbrev",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "Første tessalonikerbrev 4",
     "url": "https://api.getbible.net/v2/bibelselskap/52/4.json",
-    "sha": "1fdeea315b2ff50f1d41081436586333ca107add"
+    "sha": "1560086bac3e1ee001aeb6250353a611f92b7749"
   },
   "5": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Første tessalonikerbrev",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "Første tessalonikerbrev 5",
     "url": "https://api.getbible.net/v2/bibelselskap/52/5.json",
-    "sha": "845e311c7faf6ad013f0589f469052e1fe3be382"
+    "sha": "2f289edba620806c8ec1b84a114d9c2443ee6fae"
   }
 }

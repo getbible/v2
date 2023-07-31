@@ -3,7 +3,7 @@
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "约拿书 1",
     "url": "https://api.getbible.net/v2/cus/32/1.json",
-    "sha": "67495d1aa63a99314b0f1adf46275a4374140f16"
+    "sha": "5fd1037fd5248b1f25fb90c421bdb82c90488d9e"
   },
   "2": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "约拿书 2",
     "url": "https://api.getbible.net/v2/cus/32/2.json",
-    "sha": "2f3b1b8c30056bc005a800cee21f59551967b648"
+    "sha": "2e18e50bf6f48f8dc384d958205eede3c0b130f9"
   },
   "3": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "约拿书 3",
     "url": "https://api.getbible.net/v2/cus/32/3.json",
-    "sha": "8f3ef3f194080499c8e8551307a026858c19c08d"
+    "sha": "f4be76040f093183fbddd079783b8c9ae1452532"
   },
   "4": {
     "translation": "Union Simplified",
     "abbreviation": "cus",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "约拿书 4",
     "url": "https://api.getbible.net/v2/cus/32/4.json",
-    "sha": "95656ec1b7b37e41fdcc08d9e472a893d8a1c1ea"
+    "sha": "54d576a73055c0b610df845156cf4fe89542f9f1"
   }
 }

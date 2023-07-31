@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malachia 1",
     "url": "https://api.getbible.net/v2/riveduta/39/1.json",
-    "sha": "6f33aabafcb2b8642eba76e1d9c64c7796589cf8"
+    "sha": "447d70d0ea9e1508632ab913ff312c963ea00ac0"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malachia 2",
     "url": "https://api.getbible.net/v2/riveduta/39/2.json",
-    "sha": "d9f6891684a38d11a1c530939c0853639e02d83d"
+    "sha": "479a65664e122ccf5bf16187261d222145047483"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malachia 3",
     "url": "https://api.getbible.net/v2/riveduta/39/3.json",
-    "sha": "7091401dd5b5878beabf6da60c16aa9dcdf600c0"
+    "sha": "27f7fda3ed9d17cd15096b6e663e5dabe495f966"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malachia",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malachia 4",
     "url": "https://api.getbible.net/v2/riveduta/39/4.json",
-    "sha": "5133f8dc506bcbbfbacfcd1e4de1f28472965292"
+    "sha": "e58e8c339260b0d437c7cf4e876c59b4782ac799"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 1,
-    "name": "Deuteronomy 1",
+    "name": "Deutéronome 1",
     "url": "https://api.getbible.net/v2/ls1910/5/1.json",
-    "sha": "4bc863a3c0e1da22478f98c132b8f7b80bf70d0d"
+    "sha": "515d6f604515cf1b6dc711496549d5ed047e89e7"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 2,
-    "name": "Deuteronomy 2",
+    "name": "Deutéronome 2",
     "url": "https://api.getbible.net/v2/ls1910/5/2.json",
-    "sha": "a8d6af5a5315dc6c257bbccbb8596c71034009cb"
+    "sha": "20561864a6b27818f1f4d0bbcadc2ee90562f641"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 3,
-    "name": "Deuteronomy 3",
+    "name": "Deutéronome 3",
     "url": "https://api.getbible.net/v2/ls1910/5/3.json",
-    "sha": "1010c5db8b0ecc09dfde48f193490ec5b0ec4830"
+    "sha": "0d572a6e6541f78eb5bc620553823b8f6425c324"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 4,
-    "name": "Deuteronomy 4",
+    "name": "Deutéronome 4",
     "url": "https://api.getbible.net/v2/ls1910/5/4.json",
-    "sha": "c7052a39549e27ea60a326bca625718eacccf868"
+    "sha": "b93ab054cca3c7211c31c1a590f0b1d136217e65"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 5,
-    "name": "Deuteronomy 5",
+    "name": "Deutéronome 5",
     "url": "https://api.getbible.net/v2/ls1910/5/5.json",
-    "sha": "9a26eaaaddc300fd44974f79e863f70da0d8c9c7"
+    "sha": "e43531fe7613555c64de1b4b6d46e4bbeaa524b6"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 6,
-    "name": "Deuteronomy 6",
+    "name": "Deutéronome 6",
     "url": "https://api.getbible.net/v2/ls1910/5/6.json",
-    "sha": "6c24f24e67dfc7b9839308b8753aa6d5e7228f95"
+    "sha": "dec392cc205261eae73389ac9081132e9434a6e1"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 7,
-    "name": "Deuteronomy 7",
+    "name": "Deutéronome 7",
     "url": "https://api.getbible.net/v2/ls1910/5/7.json",
-    "sha": "b2a4d54771e0d090e13814e0e642369638559201"
+    "sha": "95b6c137e2765b0c84e2624b18961c4ba6cc95b3"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 8,
-    "name": "Deuteronomy 8",
+    "name": "Deutéronome 8",
     "url": "https://api.getbible.net/v2/ls1910/5/8.json",
-    "sha": "65a52ca422cfa3cfbc496735af6c9f4d298e018a"
+    "sha": "34eac3b5a61db68fdb4c5a1b088fcd0180ec72ba"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 9,
-    "name": "Deuteronomy 9",
+    "name": "Deutéronome 9",
     "url": "https://api.getbible.net/v2/ls1910/5/9.json",
-    "sha": "1c864e4060f7d2b374a33f60a0860bde44c6e403"
+    "sha": "b412336fec739b62a229d8a13ed97e8c725df2d1"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 10,
-    "name": "Deuteronomy 10",
+    "name": "Deutéronome 10",
     "url": "https://api.getbible.net/v2/ls1910/5/10.json",
-    "sha": "de4059c3909edaf88c759fbbb41b88398a24436c"
+    "sha": "ff76bd8759af98a7c29e3f17c101057b5f93ce57"
   },
   "11": {
     "translation": "Louis Segond (1910)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 11,
-    "name": "Deuteronomy 11",
+    "name": "Deutéronome 11",
     "url": "https://api.getbible.net/v2/ls1910/5/11.json",
-    "sha": "93f4aa035b023071ab8522bf83a2c4b5dc943001"
+    "sha": "153d768725122d5bfd34a3ed5608593260c7ebe3"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 12,
-    "name": "Deuteronomy 12",
+    "name": "Deutéronome 12",
     "url": "https://api.getbible.net/v2/ls1910/5/12.json",
-    "sha": "74d47886a0baf7410317eb44c58b5caec7677434"
+    "sha": "6b7c9c5ac012d3681a742582ac36f6e8a7e77a69"
   },
   "13": {
     "translation": "Louis Segond (1910)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 13,
-    "name": "Deuteronomy 13",
+    "name": "Deutéronome 13",
     "url": "https://api.getbible.net/v2/ls1910/5/13.json",
-    "sha": "636102d244b58d713cb85c79d4c9229a5f42ed8c"
+    "sha": "4dc509d4c75aa36d9f9e9faba932aaa71448fbca"
   },
   "14": {
     "translation": "Louis Segond (1910)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 14,
-    "name": "Deuteronomy 14",
+    "name": "Deutéronome 14",
     "url": "https://api.getbible.net/v2/ls1910/5/14.json",
-    "sha": "e90adac283753e35d718f124491e8df2558f285a"
+    "sha": "c6e34fb047c6f92cf98044d15665e2812936bb4d"
   },
   "15": {
     "translation": "Louis Segond (1910)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 15,
-    "name": "Deuteronomy 15",
+    "name": "Deutéronome 15",
     "url": "https://api.getbible.net/v2/ls1910/5/15.json",
-    "sha": "d6c062b81c70354d98bfda18c130323a8dbfc678"
+    "sha": "70c8aba3182a72b28c5e5596eea5e5bb3ad01cc5"
   },
   "16": {
     "translation": "Louis Segond (1910)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 16,
-    "name": "Deuteronomy 16",
+    "name": "Deutéronome 16",
     "url": "https://api.getbible.net/v2/ls1910/5/16.json",
-    "sha": "2ff708f1ad89a6b01eb3923b5e986f41a30112ff"
+    "sha": "78a56f30a42b485e5fe89325d012debcb79bca95"
   },
   "17": {
     "translation": "Louis Segond (1910)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 17,
-    "name": "Deuteronomy 17",
+    "name": "Deutéronome 17",
     "url": "https://api.getbible.net/v2/ls1910/5/17.json",
-    "sha": "f41a95422e2ad3571b8d5d12c12cf4f5f32b1c9f"
+    "sha": "f7475752edf0a8c50426d5711ddfdd062478cadf"
   },
   "18": {
     "translation": "Louis Segond (1910)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 18,
-    "name": "Deuteronomy 18",
+    "name": "Deutéronome 18",
     "url": "https://api.getbible.net/v2/ls1910/5/18.json",
-    "sha": "17c856bc83b06f0505b302de0bca05009d78c34e"
+    "sha": "b71f73510ad9fce5a2a5742a9471b44eb593e46c"
   },
   "19": {
     "translation": "Louis Segond (1910)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 19,
-    "name": "Deuteronomy 19",
+    "name": "Deutéronome 19",
     "url": "https://api.getbible.net/v2/ls1910/5/19.json",
-    "sha": "5e880937ee247fe7e37109bc7a5c29885154d323"
+    "sha": "bf87f5d58a770dc0b50b91650982e7c0f391f556"
   },
   "20": {
     "translation": "Louis Segond (1910)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 20,
-    "name": "Deuteronomy 20",
+    "name": "Deutéronome 20",
     "url": "https://api.getbible.net/v2/ls1910/5/20.json",
-    "sha": "624f3c4b0a55d7ac591ef21990702b3abe0608e8"
+    "sha": "3e3ba087864d17ac7e57e0f227fc2db35615f577"
   },
   "21": {
     "translation": "Louis Segond (1910)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 21,
-    "name": "Deuteronomy 21",
+    "name": "Deutéronome 21",
     "url": "https://api.getbible.net/v2/ls1910/5/21.json",
-    "sha": "4c5eff5e0734f747f7896ad67386f42fd4621db1"
+    "sha": "81f110d956158b2037483dd9a869d93fdfd6e03d"
   },
   "22": {
     "translation": "Louis Segond (1910)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 22,
-    "name": "Deuteronomy 22",
+    "name": "Deutéronome 22",
     "url": "https://api.getbible.net/v2/ls1910/5/22.json",
-    "sha": "bb6d165adf548976e37e05b3ea7c9215d7654314"
+    "sha": "2543b1b6a1bb168d6435ffa6b3e507cf9008f12b"
   },
   "23": {
     "translation": "Louis Segond (1910)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 23,
-    "name": "Deuteronomy 23",
+    "name": "Deutéronome 23",
     "url": "https://api.getbible.net/v2/ls1910/5/23.json",
-    "sha": "5587d3673bf2912ed4dbaad10302a7dd114e49b1"
+    "sha": "84cd3846ac03cbc99a647d2f0c353c24a7d9bca8"
   },
   "24": {
     "translation": "Louis Segond (1910)",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 24,
-    "name": "Deuteronomy 24",
+    "name": "Deutéronome 24",
     "url": "https://api.getbible.net/v2/ls1910/5/24.json",
-    "sha": "54f127451679a75cdd9228992e6f250281506251"
+    "sha": "8e16f8292f27a4725b047defe181de83ea0aec19"
   },
   "25": {
     "translation": "Louis Segond (1910)",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 25,
-    "name": "Deuteronomy 25",
+    "name": "Deutéronome 25",
     "url": "https://api.getbible.net/v2/ls1910/5/25.json",
-    "sha": "c98462a9ef5f4f58802764cdaf3f54229216dab6"
+    "sha": "651824f541ade047d308e5e17252e0673221bee6"
   },
   "26": {
     "translation": "Louis Segond (1910)",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 26,
-    "name": "Deuteronomy 26",
+    "name": "Deutéronome 26",
     "url": "https://api.getbible.net/v2/ls1910/5/26.json",
-    "sha": "6a0c2cca9cdc6b67fa7f3c2806d5a7342903e88c"
+    "sha": "6e010a2ecca1283ad4f3c722bf16c660abff04ca"
   },
   "27": {
     "translation": "Louis Segond (1910)",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 27,
-    "name": "Deuteronomy 27",
+    "name": "Deutéronome 27",
     "url": "https://api.getbible.net/v2/ls1910/5/27.json",
-    "sha": "0063571832984be3706923c2b37ca9fd290e76ca"
+    "sha": "801cbf72c9ad9b5d0ce3488f6c72b97c00e112d5"
   },
   "28": {
     "translation": "Louis Segond (1910)",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 28,
-    "name": "Deuteronomy 28",
+    "name": "Deutéronome 28",
     "url": "https://api.getbible.net/v2/ls1910/5/28.json",
-    "sha": "021dd2cd620e74262976ada45742e97896e32346"
+    "sha": "596811dbb117d6a75d840e50399b44e771c3f5a5"
   },
   "29": {
     "translation": "Louis Segond (1910)",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 29,
-    "name": "Deuteronomy 29",
+    "name": "Deutéronome 29",
     "url": "https://api.getbible.net/v2/ls1910/5/29.json",
-    "sha": "da83e67d2c50cb045ad8398e72e512a608926948"
+    "sha": "7e69641579430697131eadfb371308a37f4f2c3d"
   },
   "30": {
     "translation": "Louis Segond (1910)",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 30,
-    "name": "Deuteronomy 30",
+    "name": "Deutéronome 30",
     "url": "https://api.getbible.net/v2/ls1910/5/30.json",
-    "sha": "47ad345fe0047740e1d877b27bb87370f6947f93"
+    "sha": "3f2a9597fc3079abc68b902728736e5246debbcd"
   },
   "31": {
     "translation": "Louis Segond (1910)",
@@ -427,11 +427,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 31,
-    "name": "Deuteronomy 31",
+    "name": "Deutéronome 31",
     "url": "https://api.getbible.net/v2/ls1910/5/31.json",
-    "sha": "c05cd97b8da784d990bdbb4ed6ad41bc70ff68af"
+    "sha": "747d4261a3cad10dcebc86266bd288a08842701c"
   },
   "32": {
     "translation": "Louis Segond (1910)",
@@ -441,11 +441,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 32,
-    "name": "Deuteronomy 32",
+    "name": "Deutéronome 32",
     "url": "https://api.getbible.net/v2/ls1910/5/32.json",
-    "sha": "6bbffe3b0a6b5e3e891bd249ab74baf551cc6ddb"
+    "sha": "4ceefe87ef57bb2eef11b7e6fcb1997ebd5a46ba"
   },
   "33": {
     "translation": "Louis Segond (1910)",
@@ -455,11 +455,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 33,
-    "name": "Deuteronomy 33",
+    "name": "Deutéronome 33",
     "url": "https://api.getbible.net/v2/ls1910/5/33.json",
-    "sha": "ecf7e5bf866ba134579c5c9025e6ce7d17c8dde3"
+    "sha": "1f6490f284f64e57917b971784835cba5ae94620"
   },
   "34": {
     "translation": "Louis Segond (1910)",
@@ -469,10 +469,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 5,
-    "book_name": "Deuteronomy",
+    "book_name": "Deutéronome",
     "chapter": 34,
-    "name": "Deuteronomy 34",
+    "name": "Deutéronome 34",
     "url": "https://api.getbible.net/v2/ls1910/5/34.json",
-    "sha": "68e1d6ba195bc5d2a76e4c605eaf97d30cd53dc2"
+    "sha": "66743b62431ccfa89775c7eaa380b943e9ba1e1b"
   }
 }

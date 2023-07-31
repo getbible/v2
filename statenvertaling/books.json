@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "Numbers",
+    "name": "Numeri",
     "url": "https://api.getbible.net/v2/statenvertaling/4.json",
-    "sha": "c5723987e4b125e99be62fe58d2435e0ac0b5052"
+    "sha": "76e1131eadb3e03f6cc15f54bec36c7b9011e7b2"
   },
   "5": {
     "translation": "Dutch Staten Vertaling",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "Deuteronomy",
+    "name": "Deuteronomium",
     "url": "https://api.getbible.net/v2/statenvertaling/5.json",
-    "sha": "25d163539c5d15ef3ceca16a21dedab8c88cac59"
+    "sha": "85848a03d9f56da203ae0f6b4cfeef39e4208fb5"
   },
   "6": {
     "translation": "Dutch Staten Vertaling",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Joshua",
+    "name": "Jozua",
     "url": "https://api.getbible.net/v2/statenvertaling/6.json",
-    "sha": "b05b59752c2e7167587ffb41b7a1831e0f448236"
+    "sha": "1d1aea877660ba04913c5e0cef2f5b8b8598bb73"
   },
   "7": {
     "translation": "Dutch Staten Vertaling",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Judges",
+    "name": "Rechters",
     "url": "https://api.getbible.net/v2/statenvertaling/7.json",
-    "sha": "234f6e14cd3ba5f69645aad22f95386819d7102f"
+    "sha": "bea9ba283e0321e9d9258b70c97058c414f6fb60"
   },
   "8": {
     "translation": "Dutch Staten Vertaling",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1 Kings",
+    "name": "1 Koningen",
     "url": "https://api.getbible.net/v2/statenvertaling/11.json",
-    "sha": "24155930ea45ac4766267f1a75022ced4284c93b"
+    "sha": "a2e24d004c3b5d40ce02fafa4c9338cc8296e4f0"
   },
   "12": {
     "translation": "Dutch Staten Vertaling",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2 Kings",
+    "name": "2 Koningen",
     "url": "https://api.getbible.net/v2/statenvertaling/12.json",
-    "sha": "7128d62793a5356d3d346f6f29a29b95a2d69633"
+    "sha": "b166ab7a1fbed934be6d4761da1c82746aab5fad"
   },
   "13": {
     "translation": "Dutch Staten Vertaling",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1 Chronicles",
+    "name": "1 Kronieken",
     "url": "https://api.getbible.net/v2/statenvertaling/13.json",
-    "sha": "ca64b54cbf33464885ee1e6c58b4cd6853545361"
+    "sha": "94e21e3fed9ee0c943e17e47ae6bdb03107fcacb"
   },
   "14": {
     "translation": "Dutch Staten Vertaling",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2 Chronicles",
+    "name": "2 Kronieken",
     "url": "https://api.getbible.net/v2/statenvertaling/14.json",
-    "sha": "feaa2a504c2100e2262a1fe365fb4b8eb14ba626"
+    "sha": "896261b9bea1789bccf68e74e043284229296f18"
   },
   "15": {
     "translation": "Dutch Staten Vertaling",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemiah",
+    "name": "Nehemia",
     "url": "https://api.getbible.net/v2/statenvertaling/16.json",
-    "sha": "7b640cb0079ef955a4f348bc9e908afc5287440e"
+    "sha": "2d29ab35f698cd4a8dcfa4e16f9dac21b159f4b4"
   },
   "17": {
     "translation": "Dutch Staten Vertaling",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalms",
+    "name": "Psalmen",
     "url": "https://api.getbible.net/v2/statenvertaling/19.json",
-    "sha": "09a526fb295d5800cb3e47e9b8f7bd11fa886feb"
+    "sha": "9114d2f7e3a18e77151dea4ea925be03df96a32d"
   },
   "20": {
     "translation": "Dutch Staten Vertaling",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Proverbs",
+    "name": "Spreuken",
     "url": "https://api.getbible.net/v2/statenvertaling/20.json",
-    "sha": "fa12e8fa2c0252cce7a341269a83265378555101"
+    "sha": "734804eec02328740a756e54ea9c3cd0ce4d712f"
   },
   "21": {
     "translation": "Dutch Staten Vertaling",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Ecclesiastes",
+    "name": "Prediker",
     "url": "https://api.getbible.net/v2/statenvertaling/21.json",
-    "sha": "973fa88b58a5637743062d2ab5b48de71f2d5dff"
+    "sha": "3917f64e2ea72cf5d0f33ef3e5b76759a75585e8"
   },
   "22": {
     "translation": "Dutch Staten Vertaling",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Hooglied",
     "url": "https://api.getbible.net/v2/statenvertaling/22.json",
-    "sha": "20cf71fdf9e86d5b970b890246fa63e4444ad22c"
+    "sha": "25aee601f3b948f5ef8c4a8044ba5c28dd5fa3b0"
   },
   "23": {
     "translation": "Dutch Staten Vertaling",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Isaiah",
+    "name": "Jesaja",
     "url": "https://api.getbible.net/v2/statenvertaling/23.json",
-    "sha": "a44960a80df4db6ca872255c8ddc26e6797b20bc"
+    "sha": "dbc018dda8bc6f3bc21fec2cf9c98bbc50fd27b5"
   },
   "24": {
     "translation": "Dutch Staten Vertaling",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremiah",
+    "name": "Jeremia",
     "url": "https://api.getbible.net/v2/statenvertaling/24.json",
-    "sha": "025547741b7839ec28862ca4bc17561097efa5e2"
+    "sha": "e79cad6a2b344401b8dfb9e309ab1c2a27da1e5c"
   },
   "25": {
     "translation": "Dutch Staten Vertaling",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Lamentations",
+    "name": "Klaagliederen",
     "url": "https://api.getbible.net/v2/statenvertaling/25.json",
-    "sha": "e0a4092220eb7fdf0a829d5124d9f44c3d999bd7"
+    "sha": "e4a90ae4db9d987e7b02c982e9208178f9720fe4"
   },
   "26": {
     "translation": "Dutch Staten Vertaling",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Ezekiel",
+    "name": "Ezechiël",
     "url": "https://api.getbible.net/v2/statenvertaling/26.json",
-    "sha": "bd4c8190f3dfd9b4e0ee0a4a2170562a6c447c42"
+    "sha": "c3c36c8e7a990ed7259ae15d4a17d79eddaecbde"
   },
   "27": {
     "translation": "Dutch Staten Vertaling",
@@ -319,9 +319,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 27,
-    "name": "Daniel",
+    "name": "Daniël",
     "url": "https://api.getbible.net/v2/statenvertaling/27.json",
-    "sha": "10f71130f38817b8957ab3b171fc7242529c20ca"
+    "sha": "0ad356309bc9e69edd0040b96f3f50f4d1370ff5"
   },
   "28": {
     "translation": "Dutch Staten Vertaling",
@@ -343,9 +343,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 29,
-    "name": "Joel",
+    "name": "Joël",
     "url": "https://api.getbible.net/v2/statenvertaling/29.json",
-    "sha": "1bc741cee27a7dc3de39f7728d4d69ba622b3520"
+    "sha": "371173098b96f8d07f09a6ba08109e73b14f0058"
   },
   "30": {
     "translation": "Dutch Staten Vertaling",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadiah",
+    "name": "Obadja",
     "url": "https://api.getbible.net/v2/statenvertaling/31.json",
-    "sha": "aaa0296eb9044aa06818329705b7f43aa8676d51"
+    "sha": "f4ee8944a36fc9741f384d6c6f5b456dfcb857e2"
   },
   "32": {
     "translation": "Dutch Staten Vertaling",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jonah",
+    "name": "Jona",
     "url": "https://api.getbible.net/v2/statenvertaling/32.json",
-    "sha": "e8a0329c48dd6fa2ffffc7e8523a248f587029c9"
+    "sha": "3bc9fb86e894036ba3ccfbe9dfa97851bd20364f"
   },
   "33": {
     "translation": "Dutch Staten Vertaling",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micah",
+    "name": "Micha",
     "url": "https://api.getbible.net/v2/statenvertaling/33.json",
-    "sha": "75b1fb7ec3650dbffb8782a8b1486ae0fe7a2955"
+    "sha": "a2aac48c8eefbb2bdbbd26a8a72c858fb1ecadb4"
   },
   "34": {
     "translation": "Dutch Staten Vertaling",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakkuk",
+    "name": "Habakuk",
     "url": "https://api.getbible.net/v2/statenvertaling/35.json",
-    "sha": "6b424c3a71f66158ec1d690ba4fdf23bc386ac16"
+    "sha": "b16e1d5e69a0344afcd02dd4e9bf44e758dbae62"
   },
   "36": {
     "translation": "Dutch Staten Vertaling",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zephaniah",
+    "name": "Zefanja",
     "url": "https://api.getbible.net/v2/statenvertaling/36.json",
-    "sha": "9840e48fb85532e59fc32d8c23e35775ab9116ed"
+    "sha": "46de06ff41e2981b55ef21842ca770af2f0ef101"
   },
   "37": {
     "translation": "Dutch Staten Vertaling",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Zechariah",
+    "name": "Zacharia",
     "url": "https://api.getbible.net/v2/statenvertaling/38.json",
-    "sha": "492f524b39c116ad4385c1d0fa1ef36108c4b280"
+    "sha": "099b5026f650d5437612a6d52bb619a22a4148c3"
   },
   "39": {
     "translation": "Dutch Staten Vertaling",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Malachi",
+    "name": "Maleachi",
     "url": "https://api.getbible.net/v2/statenvertaling/39.json",
-    "sha": "22596d3545659a6c902e3e6ae4ad7b1c55f65300"
+    "sha": "c3985f50d5bab4bb4c4eee687d29b443657d862d"
   },
   "75": {
     "translation": "Dutch Staten Vertaling",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthew",
+    "name": "Mattheüs",
     "url": "https://api.getbible.net/v2/statenvertaling/40.json",
-    "sha": "28af09aa5e4647ac3548f3ca331fd856f34bc7e1"
+    "sha": "5c0b8689c24fdfe9969608a2e763f71c6a2f499b"
   },
   "41": {
     "translation": "Dutch Staten Vertaling",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Mark",
+    "name": "Marcus",
     "url": "https://api.getbible.net/v2/statenvertaling/41.json",
-    "sha": "f8c03abc81322d954e235278dcb99f09353b1ec3"
+    "sha": "32213a706061e4fe4e18dd9fcd6b121280504808"
   },
   "42": {
     "translation": "Dutch Staten Vertaling",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Luke",
+    "name": "Lucas",
     "url": "https://api.getbible.net/v2/statenvertaling/42.json",
-    "sha": "00b8128fbac5b4ded8a436324de21b938c65fd76"
+    "sha": "ed6b4039d3a3db9d315ab3bbfc7f55cf3998fd5a"
   },
   "43": {
     "translation": "Dutch Staten Vertaling",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "John",
+    "name": "Johannes",
     "url": "https://api.getbible.net/v2/statenvertaling/43.json",
-    "sha": "685bb93688ec700eae2a4b2a7c4c030c388254e3"
+    "sha": "18f1cb1a439ffd2867182201dfa03768482f0ee9"
   },
   "44": {
     "translation": "Dutch Staten Vertaling",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Acts",
+    "name": "Handelingen",
     "url": "https://api.getbible.net/v2/statenvertaling/44.json",
-    "sha": "fa5ca633e6ecb197f60dd54417bc5aec11e1de0f"
+    "sha": "16ac34cdcbd9fbe4ca67fd7b8f381049c08f2f32"
   },
   "45": {
     "translation": "Dutch Staten Vertaling",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Romans",
+    "name": "Romeinen",
     "url": "https://api.getbible.net/v2/statenvertaling/45.json",
-    "sha": "2abfe889572544e084ea388decd4590cec7e9713"
+    "sha": "3322d4c88e9e892ef3fd6aeb6995803b3d80259c"
   },
   "46": {
     "translation": "Dutch Staten Vertaling",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1 Corinthians",
+    "name": "1 Korintiërs",
     "url": "https://api.getbible.net/v2/statenvertaling/46.json",
-    "sha": "2c057336636710e78ff6af9d1d5292fc50cc92bd"
+    "sha": "526a36bc1756f7a461eae4dc982d766a0933305a"
   },
   "47": {
     "translation": "Dutch Staten Vertaling",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2 Corinthians",
+    "name": "2 Korintiërs",
     "url": "https://api.getbible.net/v2/statenvertaling/47.json",
-    "sha": "9bc75649f5c1828860d491748d7868b42aa6f269"
+    "sha": "948f633dabed05091f45a6438c745276912eb2b4"
   },
   "48": {
     "translation": "Dutch Staten Vertaling",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galatians",
+    "name": "Galaten",
     "url": "https://api.getbible.net/v2/statenvertaling/48.json",
-    "sha": "b80c289149d5be3747a31aade965aa775cd97757"
+    "sha": "fcd4125c918637a2e56bdabe742641326c141995"
   },
   "49": {
     "translation": "Dutch Staten Vertaling",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Ephesians",
+    "name": "Efeziërs",
     "url": "https://api.getbible.net/v2/statenvertaling/49.json",
-    "sha": "06ee4c03a25b60aa35aa5d05536d162ced19ca48"
+    "sha": "719fa69b78a0a82d3e73a5f0d3fb8cfea238415e"
   },
   "50": {
     "translation": "Dutch Staten Vertaling",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philippians",
+    "name": "Filippenzen",
     "url": "https://api.getbible.net/v2/statenvertaling/50.json",
-    "sha": "9979a9764edd94915d9111c78a0acd99f4ae859e"
+    "sha": "06be0dc44080ccabc32c4974db1b0f95b0db41b8"
   },
   "51": {
     "translation": "Dutch Staten Vertaling",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Colossians",
+    "name": "Kolossenzen",
     "url": "https://api.getbible.net/v2/statenvertaling/51.json",
-    "sha": "dd1d972396c78c087e8b74d677546ed3fe68c949"
+    "sha": "a1e9f291a93b88286dc2b79dd6535cb7ab90125a"
   },
   "52": {
     "translation": "Dutch Staten Vertaling",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1 Thessalonians",
+    "name": "1 Tessalonicenzen",
     "url": "https://api.getbible.net/v2/statenvertaling/52.json",
-    "sha": "43db9591b728d6e3050de1fffeae6ab2f9b6276c"
+    "sha": "c591bdef382bd8c34778dbb45d1d93bc35a4082a"
   },
   "53": {
     "translation": "Dutch Staten Vertaling",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2 Thessalonians",
+    "name": "2 Tessalonicenzen",
     "url": "https://api.getbible.net/v2/statenvertaling/53.json",
-    "sha": "b0e92d2328df9559afc90b1f258302c144810f9a"
+    "sha": "083705d4f32434867c63745b2c78cfc3a13d6f80"
   },
   "54": {
     "translation": "Dutch Staten Vertaling",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1 Timothy",
+    "name": "1 Timotheüs",
     "url": "https://api.getbible.net/v2/statenvertaling/54.json",
-    "sha": "530fb3053c6292ca009f12f505bed0bd42183608"
+    "sha": "64a84b73f7cc5058c46b3b9615403ab1751c425c"
   },
   "55": {
     "translation": "Dutch Staten Vertaling",
@@ -667,9 +667,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2 Timothy",
+    "name": "2 Timotheüs",
     "url": "https://api.getbible.net/v2/statenvertaling/55.json",
-    "sha": "e6b3895a48a81fd2f4c57eaf8c7b4c2b6035ee63"
+    "sha": "67f7fbd5f8f358681a5543b29e4db30a2b33e480"
   },
   "56": {
     "translation": "Dutch Staten Vertaling",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 57,
-    "name": "Philemon",
+    "name": "Filemon",
     "url": "https://api.getbible.net/v2/statenvertaling/57.json",
-    "sha": "30a63b8b6edd7948e725aa1341b383d90e7aacaf"
+    "sha": "149888c3579476eb4e8587b810d26e21b837075d"
   },
   "58": {
     "translation": "Dutch Staten Vertaling",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebrews",
+    "name": "Hebreeën",
     "url": "https://api.getbible.net/v2/statenvertaling/58.json",
-    "sha": "5f5834cd8f4143b4d757d3db7a2e5ea8bbf8f2c0"
+    "sha": "6236c3580511779547cefd41138a232b50e013ec"
   },
   "59": {
     "translation": "Dutch Staten Vertaling",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "James",
+    "name": "Jakobus",
     "url": "https://api.getbible.net/v2/statenvertaling/59.json",
-    "sha": "257cf4b73224bf182fc368850d0e4c84a53a9b24"
+    "sha": "9d61bfcf60c9072e670b849f96dd055376202ca6"
   },
   "60": {
     "translation": "Dutch Staten Vertaling",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1 Peter",
+    "name": "1 Petrus",
     "url": "https://api.getbible.net/v2/statenvertaling/60.json",
-    "sha": "bf7d9a094f4be0f565ed64c71b1fe7e74d7ffa57"
+    "sha": "5d9ca40bff5d6d10b0457f08609465824a4e789f"
   },
   "61": {
     "translation": "Dutch Staten Vertaling",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2 Peter",
+    "name": "2 Petrus",
     "url": "https://api.getbible.net/v2/statenvertaling/61.json",
-    "sha": "2830d5143020c60197357d84f20250e3abfa8b45"
+    "sha": "1e4dffaa91eb0f20795079accc1183f0fc1e3b48"
   },
   "62": {
     "translation": "Dutch Staten Vertaling",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1 John",
+    "name": "1 Johannes",
     "url": "https://api.getbible.net/v2/statenvertaling/62.json",
-    "sha": "9abefcb975131a7a7cda4221fdab0de9b7d494b6"
+    "sha": "fba670348d79b68167881fa92b0816cd62608100"
   },
   "63": {
     "translation": "Dutch Staten Vertaling",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2 John",
+    "name": "2 Johannes",
     "url": "https://api.getbible.net/v2/statenvertaling/63.json",
-    "sha": "9b1db067737ec3c721d83e902146cd847e5dc157"
+    "sha": "6ff40c1ba86804f1c32dfcd81c17b4689a7ffbb1"
   },
   "64": {
     "translation": "Dutch Staten Vertaling",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3 John",
+    "name": "3 Johannes",
     "url": "https://api.getbible.net/v2/statenvertaling/64.json",
-    "sha": "e3956fd4cf608ea399a23cafcaa67116f49699c6"
+    "sha": "77c49f84b2a6c2a5809d9c1e518e8119fce58498"
   },
   "65": {
     "translation": "Dutch Staten Vertaling",
@@ -787,9 +787,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Jude",
+    "name": "Judas",
     "url": "https://api.getbible.net/v2/statenvertaling/65.json",
-    "sha": "a01680473b6dd78716183c00e8dd7e0e1591be59"
+    "sha": "3e3d0e6b8e6fd688d2548f6e936a9fd69d8123c8"
   },
   "66": {
     "translation": "Dutch Staten Vertaling",
@@ -799,8 +799,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Openbaring",
     "url": "https://api.getbible.net/v2/statenvertaling/66.json",
-    "sha": "516009f8a38ef5bb502b28165124b7a67c288327"
+    "sha": "805471ea311b5df083138fc153b3c3fa1cf08c13"
   }
 }

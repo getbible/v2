@@ -3,7 +3,7 @@
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "提摩太前書 1",
     "url": "https://api.getbible.net/v2/cut/54/1.json",
-    "sha": "26f9e17262b001240b04ed7d321a94985f7cca39"
+    "sha": "759be13c419bfd4d5ec12c17e9e035d1caa5c232"
   },
   "2": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "提摩太前書 2",
     "url": "https://api.getbible.net/v2/cut/54/2.json",
-    "sha": "2386d475434ba09bebfd22f2d801de01d88d8ea1"
+    "sha": "7d98a0ad51403add617a818cbc3cde6196ad82cd"
   },
   "3": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "提摩太前書 3",
     "url": "https://api.getbible.net/v2/cut/54/3.json",
-    "sha": "d85b83b2384e2d80d93db4c93bd3f7a89a4a066f"
+    "sha": "7d949d2c7260d939c7ccfc386b0d477d1da62a02"
   },
   "4": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "提摩太前書 4",
     "url": "https://api.getbible.net/v2/cut/54/4.json",
-    "sha": "a039aa1c44d5c42287cb596cf336558fac2b52c1"
+    "sha": "43b9a3b7c9600baa8fb2235664cbc7895dbb94a3"
   },
   "5": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "提摩太前書 5",
     "url": "https://api.getbible.net/v2/cut/54/5.json",
-    "sha": "8eb35e537437deddbc5438bbad550e821d341cef"
+    "sha": "9ab4c095950e40fda1cf91982695bbb85d52ac4c"
   },
   "6": {
     "translation": "Union Traditional",
     "abbreviation": "cut",
     "lang": "zh-Hant",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "提摩太前書 6",
     "url": "https://api.getbible.net/v2/cut/54/6.json",
-    "sha": "3e599f2b0ab2d850a8e56d5b8bdd060d75ef9a1c"
+    "sha": "ed46f003b2331d6a49ce6a906eea8939cf1c7d7a"
   }
 }

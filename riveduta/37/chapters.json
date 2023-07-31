@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggeo",
     "chapter": 1,
-    "name": "Haggai 1",
+    "name": "Aggeo 1",
     "url": "https://api.getbible.net/v2/riveduta/37/1.json",
-    "sha": "8f338d029cb51adb63d7b865beb837a91bcab9fa"
+    "sha": "16034ed73f09895b375a01b4e2dbeab364713b94"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,10 +21,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 37,
-    "book_name": "Haggai",
+    "book_name": "Aggeo",
     "chapter": 2,
-    "name": "Haggai 2",
+    "name": "Aggeo 2",
     "url": "https://api.getbible.net/v2/riveduta/37/2.json",
-    "sha": "012a317334845e651aae34cdef7ce7afbb91267a"
+    "sha": "db9e8c8a7db0394a7fea30e234a4044d111b4bbc"
   }
 }

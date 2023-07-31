@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Första Petrusbrevet",
     "chapter": 1,
-    "name": "1 Peter 1",
+    "name": "Första Petrusbrevet 1",
     "url": "https://api.getbible.net/v2/swedish/60/1.json",
-    "sha": "0af231b8325c7d59aa475a8dfe57b48f5b941b5e"
+    "sha": "9e0199e5046ca74302fe953da2a661973be61ad7"
   },
   "2": {
     "translation": "Swedish (1917)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Första Petrusbrevet",
     "chapter": 2,
-    "name": "1 Peter 2",
+    "name": "Första Petrusbrevet 2",
     "url": "https://api.getbible.net/v2/swedish/60/2.json",
-    "sha": "ee676956604f1e60f8347abfb64d8b555f41a2a4"
+    "sha": "ba511a9001cced94119a002cd2c5d206fedac5da"
   },
   "3": {
     "translation": "Swedish (1917)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Första Petrusbrevet",
     "chapter": 3,
-    "name": "1 Peter 3",
+    "name": "Första Petrusbrevet 3",
     "url": "https://api.getbible.net/v2/swedish/60/3.json",
-    "sha": "da611b35d40cf9b61aad1610bf5da2bd9e2f0f6f"
+    "sha": "6d3252d9349eed347a5a8b5e6b62269d16b85959"
   },
   "4": {
     "translation": "Swedish (1917)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Första Petrusbrevet",
     "chapter": 4,
-    "name": "1 Peter 4",
+    "name": "Första Petrusbrevet 4",
     "url": "https://api.getbible.net/v2/swedish/60/4.json",
-    "sha": "420cff9f89cb0aaf33cc23220c3e968f7f72aaeb"
+    "sha": "517170d6ca3a6cf4e6616744abdd5c98e7a10129"
   },
   "5": {
     "translation": "Swedish (1917)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1 Peter",
+    "book_name": "Första Petrusbrevet",
     "chapter": 5,
-    "name": "1 Peter 5",
+    "name": "Första Petrusbrevet 5",
     "url": "https://api.getbible.net/v2/swedish/60/5.json",
-    "sha": "6f008986c7fb4d37f2476384631b7df072422d78"
+    "sha": "3a75481bd2c6db3b582b155eac77258578af2fae"
   }
 }

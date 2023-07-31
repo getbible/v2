@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "I Ad Timotheum",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "I Ad Timotheum 1",
     "url": "https://api.getbible.net/v2/vulgate/54/1.json",
-    "sha": "deeb08e4d955df306080960d1784a8bde8b693cb"
+    "sha": "7e6b255f1f7d3195809ee5e67a1476ec78fcff2b"
   },
   "2": {
     "translation": "Vulgata Clementina",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "I Ad Timotheum",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "I Ad Timotheum 2",
     "url": "https://api.getbible.net/v2/vulgate/54/2.json",
-    "sha": "f671b788cdc72d1e61de1b1135c26c8df322b055"
+    "sha": "5434a099dbb1ccdde3128f622994763b90b47012"
   },
   "3": {
     "translation": "Vulgata Clementina",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "I Ad Timotheum",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "I Ad Timotheum 3",
     "url": "https://api.getbible.net/v2/vulgate/54/3.json",
-    "sha": "845d982a606c10eaff320aedf916495d955412b4"
+    "sha": "70c76faf9b08ff170f9918628f925dc50fa9bed6"
   },
   "4": {
     "translation": "Vulgata Clementina",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "I Ad Timotheum",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "I Ad Timotheum 4",
     "url": "https://api.getbible.net/v2/vulgate/54/4.json",
-    "sha": "c359afd95eae70aca81bedbefec30e3c471f0664"
+    "sha": "22728c39f219047574f44d8edb90ee126f453b00"
   },
   "5": {
     "translation": "Vulgata Clementina",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "I Ad Timotheum",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "I Ad Timotheum 5",
     "url": "https://api.getbible.net/v2/vulgate/54/5.json",
-    "sha": "ea852d0f7fc08d0e9a3960c02455984439763a5b"
+    "sha": "cbc6af750704e43fb16a68b34697b04e92b660f0"
   },
   "6": {
     "translation": "Vulgata Clementina",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "I Ad Timotheum",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "I Ad Timotheum 6",
     "url": "https://api.getbible.net/v2/vulgate/54/6.json",
-    "sha": "8177909b437ce598a0996d15dd5ba0bafcd3fe0c"
+    "sha": "9187bfffd32e80edac9bece271cce39be4641679"
   }
 }

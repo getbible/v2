@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Տիտոսին",
     "chapter": 1,
-    "name": "Titus 1",
+    "name": "Տիտոսին 1",
     "url": "https://api.getbible.net/v2/westernarmenian/56/1.json",
-    "sha": "f0b73aa69e29baf515d4d6592b1e28aa0f9f54e2"
+    "sha": "14ae6faee0196a267a77a0d50c6419fcd0911212"
   },
   "2": {
     "translation": "Western NT",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Տիտոսին",
     "chapter": 2,
-    "name": "Titus 2",
+    "name": "Տիտոսին 2",
     "url": "https://api.getbible.net/v2/westernarmenian/56/2.json",
-    "sha": "3b02ee7565a9c81bebf027cc276a373c05370be0"
+    "sha": "9c26621b9d03eb4efe07cf73e46866d18ce819b6"
   },
   "3": {
     "translation": "Western NT",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 56,
-    "book_name": "Titus",
+    "book_name": "Տիտոսին",
     "chapter": 3,
-    "name": "Titus 3",
+    "name": "Տիտոսին 3",
     "url": "https://api.getbible.net/v2/westernarmenian/56/3.json",
-    "sha": "7587127a6eca99edc1b176303f3d84fb90402b5b"
+    "sha": "d55d38cce68315a457e5f79937834b1ceedc87f7"
   }
 }

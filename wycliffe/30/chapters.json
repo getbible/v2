@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://api.getbible.net/v2/wycliffe/30/1.json",
-    "sha": "d95975fba5571f6de4f457253bdb4e2e465855c5"
+    "sha": "d5ecc4762da94ae2f30c099674a42c0f83b4156f"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://api.getbible.net/v2/wycliffe/30/2.json",
-    "sha": "ee21bf3170140d5444214fde9890988389b33c25"
+    "sha": "e8df0b541100c5048eb0b49229e9181ccb816a74"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://api.getbible.net/v2/wycliffe/30/3.json",
-    "sha": "31ad0b3a648cb99e8b2a5429d6a9e342fd001a08"
+    "sha": "b7c76320f1a9a3a99db1f17581f21981839253b9"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -53,13 +53,13 @@
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://api.getbible.net/v2/wycliffe/30/4.json",
-    "sha": "79bf9ea386c3be4361e2c9b078a1b8076f5e3ee1"
+    "sha": "6aa231f6953bbe980ae10b6f03e151d83cfea7bf"
   },
   "5": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -67,13 +67,13 @@
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://api.getbible.net/v2/wycliffe/30/5.json",
-    "sha": "fc08f12b696c70f642043ef54c3391b2644ff2e2"
+    "sha": "e77600a9e6bc97c9a8d3dc39d9e3866141b1667d"
   },
   "6": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -81,13 +81,13 @@
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://api.getbible.net/v2/wycliffe/30/6.json",
-    "sha": "e374a0872e656d7e9b5bb6cc425175ee10cdb2ef"
+    "sha": "48992461715af007814aac92a54d21cbdebf8048"
   },
   "7": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -95,13 +95,13 @@
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://api.getbible.net/v2/wycliffe/30/7.json",
-    "sha": "f3c3fde472fa8e9a0c6a033b579f623432a33e4d"
+    "sha": "b2a095a502fd4f0ce2815461818eb0b10e33f30a"
   },
   "8": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -109,13 +109,13 @@
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://api.getbible.net/v2/wycliffe/30/8.json",
-    "sha": "5b1ef8b4e33ebf40cd0968825d431e54ead1ac92"
+    "sha": "e56f1a4e9fdcb13c44a57395d726d6d4b4808b61"
   },
   "9": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 30,
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://api.getbible.net/v2/wycliffe/30/9.json",
-    "sha": "1b6cf0a70a7847c484b15d41e56c2b9cd6369fdc"
+    "sha": "8597703ca0ffbf82c84730b954832d6f5a938dcc"
   }
 }

@@ -1,6 +1,6 @@
 {
   "1": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -11,10 +11,10 @@
     "chapter": 1,
     "name": "Matthew 1",
     "url": "https://api.getbible.net/v2/kjva/40/1.json",
-    "sha": "f262c13328fc7695be51b2ba0d1690290f7706bf"
+    "sha": "001fe1f6a639e319a7f4a367f89be919d51de4b7"
   },
   "2": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -25,10 +25,10 @@
     "chapter": 2,
     "name": "Matthew 2",
     "url": "https://api.getbible.net/v2/kjva/40/2.json",
-    "sha": "ca755ffb50e92602e9e7055e0e95b6d1c7522935"
+    "sha": "88915c7139aa2d7c22e30fe386047bbf51c502e1"
   },
   "3": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -39,10 +39,10 @@
     "chapter": 3,
     "name": "Matthew 3",
     "url": "https://api.getbible.net/v2/kjva/40/3.json",
-    "sha": "df412375117e36624a6d8da43a3942884635c035"
+    "sha": "efe7ba8c1c8415729191f2b1fffa4179964f08ce"
   },
   "4": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -53,10 +53,10 @@
     "chapter": 4,
     "name": "Matthew 4",
     "url": "https://api.getbible.net/v2/kjva/40/4.json",
-    "sha": "51bde876cca23d460b3a04c73211f327478b33f0"
+    "sha": "af710ddeb4aba19b90ee17c6506769a1f52078cf"
   },
   "5": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -67,10 +67,10 @@
     "chapter": 5,
     "name": "Matthew 5",
     "url": "https://api.getbible.net/v2/kjva/40/5.json",
-    "sha": "ceba860601cd5a0249ccf7623ec485ca0ae91827"
+    "sha": "e52818da6c2b8fff3dc9390139dcd814d5d3e615"
   },
   "6": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -81,10 +81,10 @@
     "chapter": 6,
     "name": "Matthew 6",
     "url": "https://api.getbible.net/v2/kjva/40/6.json",
-    "sha": "8759de7de98167a135390c68247cd17ac76c5100"
+    "sha": "20832fafae049cc30463123b8ef61cedab61ea7b"
   },
   "7": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -95,10 +95,10 @@
     "chapter": 7,
     "name": "Matthew 7",
     "url": "https://api.getbible.net/v2/kjva/40/7.json",
-    "sha": "aa1071be27a4d04c6b2b6e2f796b3c5147072fe8"
+    "sha": "0816572059cfd11b379388aee362303893dbf3a6"
   },
   "8": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -109,10 +109,10 @@
     "chapter": 8,
     "name": "Matthew 8",
     "url": "https://api.getbible.net/v2/kjva/40/8.json",
-    "sha": "15a3fa7e7cf7d7f253eaa32048a9b460172543bc"
+    "sha": "b96d7bf4120f44e9a7ca33466c5001809233fc78"
   },
   "9": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -123,10 +123,10 @@
     "chapter": 9,
     "name": "Matthew 9",
     "url": "https://api.getbible.net/v2/kjva/40/9.json",
-    "sha": "fbac8ffbf3ac8d7e1d99149f0be89ca9ed59512d"
+    "sha": "8d2421941936e6a08f208b1733fd61064a9b1f3a"
   },
   "10": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -137,10 +137,10 @@
     "chapter": 10,
     "name": "Matthew 10",
     "url": "https://api.getbible.net/v2/kjva/40/10.json",
-    "sha": "774a6068d36f0b3e19da3bfe98342549815d243b"
+    "sha": "5ac69ea8fbbab4ab517566fdf2efbbfe94901109"
   },
   "11": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -151,10 +151,10 @@
     "chapter": 11,
     "name": "Matthew 11",
     "url": "https://api.getbible.net/v2/kjva/40/11.json",
-    "sha": "1c8d8d3fd17cbe56b165f270a2c0173de8dd3ebf"
+    "sha": "32b94f65711241afa8919cfe978cd4b6e0a8d408"
   },
   "12": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -165,10 +165,10 @@
     "chapter": 12,
     "name": "Matthew 12",
     "url": "https://api.getbible.net/v2/kjva/40/12.json",
-    "sha": "a95e38c3813008f0a8c5859fc1e247ed711153f9"
+    "sha": "2ae83262bda446a755337598169abe014e5897a3"
   },
   "13": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -179,10 +179,10 @@
     "chapter": 13,
     "name": "Matthew 13",
     "url": "https://api.getbible.net/v2/kjva/40/13.json",
-    "sha": "e5d6609629fe66325350f50dc0013ae695f0d3e4"
+    "sha": "5eeb20637fdd0bc60fc8919929086ab82826278a"
   },
   "14": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -193,10 +193,10 @@
     "chapter": 14,
     "name": "Matthew 14",
     "url": "https://api.getbible.net/v2/kjva/40/14.json",
-    "sha": "34e69502311377b60c3137f9c4ed1931ec4d982c"
+    "sha": "002831cd6f8885e83fd1b4219bed71d6d7db349e"
   },
   "15": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -207,10 +207,10 @@
     "chapter": 15,
     "name": "Matthew 15",
     "url": "https://api.getbible.net/v2/kjva/40/15.json",
-    "sha": "ac886db785c4c93e3911d8ec14f2e929ef9f6ca3"
+    "sha": "9a9f4ed3114814e268f00beef64ade50ecdf8afb"
   },
   "16": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -221,10 +221,10 @@
     "chapter": 16,
     "name": "Matthew 16",
     "url": "https://api.getbible.net/v2/kjva/40/16.json",
-    "sha": "e89309f4f3a7d27324e12dae05c2357f4ba29bab"
+    "sha": "0ffd7dd1fdd5224524d8732382df06c502fbe5e7"
   },
   "17": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -235,10 +235,10 @@
     "chapter": 17,
     "name": "Matthew 17",
     "url": "https://api.getbible.net/v2/kjva/40/17.json",
-    "sha": "e284fa24602421c2ba565d2c64d54951ae7ab3b2"
+    "sha": "2dbcc19ec6f9abc0e92f4905f74764a8962a8ea0"
   },
   "18": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -249,10 +249,10 @@
     "chapter": 18,
     "name": "Matthew 18",
     "url": "https://api.getbible.net/v2/kjva/40/18.json",
-    "sha": "cbd696c04d4d4b7152aaa4a0a9c3e1964adeff16"
+    "sha": "86437d35917c18c64d41d13c49f0a4f85bf67835"
   },
   "19": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -263,10 +263,10 @@
     "chapter": 19,
     "name": "Matthew 19",
     "url": "https://api.getbible.net/v2/kjva/40/19.json",
-    "sha": "3c8e7c72cad0e0eac4f263256fec871cfb164a70"
+    "sha": "968a446a48b2e3b64fda676ca5467a97c6e76848"
   },
   "20": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -277,10 +277,10 @@
     "chapter": 20,
     "name": "Matthew 20",
     "url": "https://api.getbible.net/v2/kjva/40/20.json",
-    "sha": "ef25db708f4e0b008b164fdf721e73be40a830f0"
+    "sha": "275307817d6e4d4ae617c3a6e2ea7bce74c6cb85"
   },
   "21": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -291,10 +291,10 @@
     "chapter": 21,
     "name": "Matthew 21",
     "url": "https://api.getbible.net/v2/kjva/40/21.json",
-    "sha": "9a101b29e2f49ebcfbb2840e56d799acda9d2272"
+    "sha": "5c2af18064f8696d9814c080bfe96da15f25529c"
   },
   "22": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -305,10 +305,10 @@
     "chapter": 22,
     "name": "Matthew 22",
     "url": "https://api.getbible.net/v2/kjva/40/22.json",
-    "sha": "092253fbae2cbcf66ed0d5a316e34e3d3dcc4af1"
+    "sha": "dd33f32eeb54e5b4987060a4ce192a4929af04c8"
   },
   "23": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -319,10 +319,10 @@
     "chapter": 23,
     "name": "Matthew 23",
     "url": "https://api.getbible.net/v2/kjva/40/23.json",
-    "sha": "8644c4267d780305d86fd8ee0a2cc5bca0781b65"
+    "sha": "cc60e3f6ab34925caf51304727c230c71f4ac56f"
   },
   "24": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -333,10 +333,10 @@
     "chapter": 24,
     "name": "Matthew 24",
     "url": "https://api.getbible.net/v2/kjva/40/24.json",
-    "sha": "587ab783aee006101099df3714cb03b61e260de6"
+    "sha": "7c6549ca98f95f5d669147a84a0db05ea95633d8"
   },
   "25": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -347,10 +347,10 @@
     "chapter": 25,
     "name": "Matthew 25",
     "url": "https://api.getbible.net/v2/kjva/40/25.json",
-    "sha": "81f6800f25d5f1816aea1a2df8ecc7e50191b4a5"
+    "sha": "9c51719c73a3b284fb045eacc0d67f4e958a09d4"
   },
   "26": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -361,10 +361,10 @@
     "chapter": 26,
     "name": "Matthew 26",
     "url": "https://api.getbible.net/v2/kjva/40/26.json",
-    "sha": "ec3de49d5ed6e4f4aff1a661013420a2f04b3feb"
+    "sha": "b9ba441d1db4e9edbdeb6fc34f5eed619902ab94"
   },
   "27": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -375,10 +375,10 @@
     "chapter": 27,
     "name": "Matthew 27",
     "url": "https://api.getbible.net/v2/kjva/40/27.json",
-    "sha": "0f362999cdd0ba579c9646323783a16d338f66aa"
+    "sha": "18970d44a2c0b1e87526a158ecca8e80a4316504"
   },
   "28": {
-    "translation": "King James Version (1769) including Apocrypha, with Strongs Numbers and Morphology",
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
     "abbreviation": "kjva",
     "lang": "en",
     "language": "English",
@@ -389,6 +389,6 @@
     "chapter": 28,
     "name": "Matthew 28",
     "url": "https://api.getbible.net/v2/kjva/40/28.json",
-    "sha": "3eaafbd92225534b1277878fe8a2c02a79aacee9"
+    "sha": "a3256879dc0f1d2e4268170e20f87c9644361c2a"
   }
 }

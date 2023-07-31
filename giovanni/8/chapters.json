@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Rut 1",
     "url": "https://api.getbible.net/v2/giovanni/8/1.json",
-    "sha": "8c0cf966522daee881738669299701e7680dd411"
+    "sha": "948a643bec57edceab64c6e1199d6cbcc989ecf3"
   },
   "2": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Rut 2",
     "url": "https://api.getbible.net/v2/giovanni/8/2.json",
-    "sha": "6c375144f500755969177a073eb27c401f5a1dec"
+    "sha": "396cc6499742038541c2d48125c9e0b89f524281"
   },
   "3": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Rut 3",
     "url": "https://api.getbible.net/v2/giovanni/8/3.json",
-    "sha": "67b278d2fa18823e77f2b263398a55ce961d5e21"
+    "sha": "68fe04cc37ef49b25e012d8c91438faf5e37aefd"
   },
   "4": {
     "translation": "Giovanni Diodati Bible (1649)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Rut",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Rut 4",
     "url": "https://api.getbible.net/v2/giovanni/8/4.json",
-    "sha": "057442461cc355d237716d7718ac5057ab8d2ede"
+    "sha": "23cbb8e7a7ed6ab00c1f534af33b0a9af9c6f33c"
   }
 }

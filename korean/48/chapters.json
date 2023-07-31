@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "갈라디아서",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "갈라디아서 1",
     "url": "https://api.getbible.net/v2/korean/48/1.json",
-    "sha": "4091fdb05381f390f16d5ed2c91eca80fd40c896"
+    "sha": "8edc2e45e4d186106fd64d5871ebde42bc6e1321"
   },
   "2": {
     "translation": "Korean",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "갈라디아서",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "갈라디아서 2",
     "url": "https://api.getbible.net/v2/korean/48/2.json",
-    "sha": "849cab9c244b561d29312198660ca0e28efb2b30"
+    "sha": "3f35723559c03b4f424005a0f06a3f6ead2de29c"
   },
   "3": {
     "translation": "Korean",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "갈라디아서",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "갈라디아서 3",
     "url": "https://api.getbible.net/v2/korean/48/3.json",
-    "sha": "579d82508a6d4517d34c24bdf3fca734a93eacaa"
+    "sha": "79f3d05251135d1716a9201a5347b98bde801cbf"
   },
   "4": {
     "translation": "Korean",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "갈라디아서",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "갈라디아서 4",
     "url": "https://api.getbible.net/v2/korean/48/4.json",
-    "sha": "9f5e7a9b6ea45fa4b2b27ce95bcf1e45cd0af811"
+    "sha": "4fc01afcd51b09bd2242ccdd00ffc9701bb3547b"
   },
   "5": {
     "translation": "Korean",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "갈라디아서",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "갈라디아서 5",
     "url": "https://api.getbible.net/v2/korean/48/5.json",
-    "sha": "b9a6a6301d789ead5ba4417b90404b1e2e77a9dc"
+    "sha": "d949c70a1fb11b81ee9424d88fa5a83ba2a2ff07"
   },
   "6": {
     "translation": "Korean",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "갈라디아서",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "갈라디아서 6",
     "url": "https://api.getbible.net/v2/korean/48/6.json",
-    "sha": "2ec2a367404c8bcdced9abf9093bc589820a8014"
+    "sha": "37379c7941754a555efff6a1e4466b057e1d22e1"
   }
 }

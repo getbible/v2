@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipljanima",
     "chapter": 1,
-    "name": "Philippians 1",
+    "name": "Filipljanima 1",
     "url": "https://api.getbible.net/v2/croatia/50/1.json",
-    "sha": "87884c116d417c1f5a293ad020a37a701b70c78c"
+    "sha": "942f10094567e81f450293f19ae7d67a8975a76a"
   },
   "2": {
     "translation": "Croatian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipljanima",
     "chapter": 2,
-    "name": "Philippians 2",
+    "name": "Filipljanima 2",
     "url": "https://api.getbible.net/v2/croatia/50/2.json",
-    "sha": "7521a1405a3411894d871ff011806d2ae907fc4c"
+    "sha": "e8254aae9ab4137dd6c3b1215609a81ba52d9f0c"
   },
   "3": {
     "translation": "Croatian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipljanima",
     "chapter": 3,
-    "name": "Philippians 3",
+    "name": "Filipljanima 3",
     "url": "https://api.getbible.net/v2/croatia/50/3.json",
-    "sha": "fc60a4d4c1c82367b337a9791a9d4b793a6aee6f"
+    "sha": "e467f22234a54823b817b2c8106636574338ac6c"
   },
   "4": {
     "translation": "Croatian",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philippians",
+    "book_name": "Filipljanima",
     "chapter": 4,
-    "name": "Philippians 4",
+    "name": "Filipljanima 4",
     "url": "https://api.getbible.net/v2/croatia/50/4.json",
-    "sha": "f3a45369b37b2103387fefa2dc7b4942e350947a"
+    "sha": "8366541a8b90b6fd51aad2b829c8208817fd205d"
   }
 }

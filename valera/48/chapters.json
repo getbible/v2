@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Gálatas",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Gálatas 1",
     "url": "https://api.getbible.net/v2/valera/48/1.json",
-    "sha": "5d3022a8b610f1d9b027cf37b50ddf066f825a39"
+    "sha": "dcfe0c50c91603f979ccbb0a39b47cfe23ecf330"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Gálatas",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Gálatas 2",
     "url": "https://api.getbible.net/v2/valera/48/2.json",
-    "sha": "1d11aebe98be75a5a6aec4b848b0626e87a4abf2"
+    "sha": "f01ee76881d3a805a8dc1c987ba8d198b48e06f3"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Gálatas",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Gálatas 3",
     "url": "https://api.getbible.net/v2/valera/48/3.json",
-    "sha": "6620943c830a4e9832d108cc8f636b079db29a75"
+    "sha": "4e7a992a4a141bda237cbf8a954ae4a12a25c28a"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Gálatas",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Gálatas 4",
     "url": "https://api.getbible.net/v2/valera/48/4.json",
-    "sha": "7c736fadc14e9b6662ee93c8d18a46ddb118a00f"
+    "sha": "fdb70651e75b3a51a5fcc981d818bd1945016723"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Gálatas",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Gálatas 5",
     "url": "https://api.getbible.net/v2/valera/48/5.json",
-    "sha": "b8a755517dc1b9ce9eeeca2473641828d620c46e"
+    "sha": "028d654928ffb3324ec3e113bb40c16e33450558"
   },
   "6": {
     "translation": "Reina Valera (1909)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Gálatas",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Gálatas 6",
     "url": "https://api.getbible.net/v2/valera/48/6.json",
-    "sha": "e5f477797c2d5418efe8d5bbb8fad37ff4085316"
+    "sha": "4de55197dcf655dd56c8175332e247f469de004e"
   }
 }

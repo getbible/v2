@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://api.getbible.net/v2/kjv/36/1.json",
-    "sha": "93e6d015fd6785bff51bd9009997f4f3ae7b0745"
+    "sha": "e92f91ae99b308f864e3318b18fd3e7be62d22c1"
   },
   "2": {
     "translation": "King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://api.getbible.net/v2/kjv/36/2.json",
-    "sha": "8418e68be51727b96f442d4869d10ad6c37cdce1"
+    "sha": "63af829d06fd2108f69385a285471c46681615ba"
   },
   "3": {
     "translation": "King James Version",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://api.getbible.net/v2/kjv/36/3.json",
-    "sha": "58497e9393754441141ece621102e9eb4e038609"
+    "sha": "7e35ef8d257f939bb13e85746a44b161f13db017"
   }
 }

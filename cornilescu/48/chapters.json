@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galateni",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galateni 1",
     "url": "https://api.getbible.net/v2/cornilescu/48/1.json",
-    "sha": "c5ee2b841cbf21cdfcae90f48d54cbc9877e3f15"
+    "sha": "546040d48ac615a1069d0dc789bb9828e6f4fb44"
   },
   "2": {
     "translation": "Cornilescu",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galateni",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galateni 2",
     "url": "https://api.getbible.net/v2/cornilescu/48/2.json",
-    "sha": "13e00c9958b270065b7d2f57186d54a28674cdc2"
+    "sha": "fe1efc461352c6e7ade8d0e5a382f7125f5d23e1"
   },
   "3": {
     "translation": "Cornilescu",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galateni",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galateni 3",
     "url": "https://api.getbible.net/v2/cornilescu/48/3.json",
-    "sha": "fe35bd98d0e0998c408c27a8472d651d0e6f85fa"
+    "sha": "e1b3dd39c39c847b99343e237cfdadc0f816f8a8"
   },
   "4": {
     "translation": "Cornilescu",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galateni",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galateni 4",
     "url": "https://api.getbible.net/v2/cornilescu/48/4.json",
-    "sha": "6e3a72bf8ac40b01b026c1121128e77b12ad7a66"
+    "sha": "2c0c8356bd2e426c3d60f3f918860c94938cd30f"
   },
   "5": {
     "translation": "Cornilescu",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galateni",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galateni 5",
     "url": "https://api.getbible.net/v2/cornilescu/48/5.json",
-    "sha": "0be4eaefa3e33aee1284c34d5670ddcf49f8097c"
+    "sha": "7baaadea89a9822ba92521ce2a29954612eab906"
   },
   "6": {
     "translation": "Cornilescu",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galateni",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galateni 6",
     "url": "https://api.getbible.net/v2/cornilescu/48/6.json",
-    "sha": "c80480bc11c9c307887c72639e1f3dfa9356e85e"
+    "sha": "59de07f1371ca6d6b85e7a4fed4f34d976a6b580"
   }
 }

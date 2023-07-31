@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruts bok",
     "chapter": 1,
-    "name": "Ruth 1",
+    "name": "Ruts bok 1",
     "url": "https://api.getbible.net/v2/bibelselskap/8/1.json",
-    "sha": "fa7c31ec43ef1dde077b74c0e8df5dc42d387668"
+    "sha": "966798d337dc966e7a40b3693319928536a68b64"
   },
   "2": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruts bok",
     "chapter": 2,
-    "name": "Ruth 2",
+    "name": "Ruts bok 2",
     "url": "https://api.getbible.net/v2/bibelselskap/8/2.json",
-    "sha": "39f10e495ba7a7e602a0c7ba7af056bf2d77144c"
+    "sha": "56316f42c0d1ea92a154087349fcfc3a92bedcc7"
   },
   "3": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruts bok",
     "chapter": 3,
-    "name": "Ruth 3",
+    "name": "Ruts bok 3",
     "url": "https://api.getbible.net/v2/bibelselskap/8/3.json",
-    "sha": "90ddda90dd0f39ca47a7ddb8cc5e64f56a5c2d80"
+    "sha": "ecf40731ae2e4014bd1d2aa0711da314b1e4213e"
   },
   "4": {
     "translation": "Det Norsk Bibelselskap (1930)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Ruth",
+    "book_name": "Ruts bok",
     "chapter": 4,
-    "name": "Ruth 4",
+    "name": "Ruts bok 4",
     "url": "https://api.getbible.net/v2/bibelselskap/8/4.json",
-    "sha": "5531deb136b2ad955c8ce14c406e6f2344d91da6"
+    "sha": "f013bca29beed06994538ddcd0dcc582cf5bb7ed"
   }
 }

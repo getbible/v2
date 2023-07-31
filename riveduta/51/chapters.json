@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossesi",
     "chapter": 1,
-    "name": "Colossians 1",
+    "name": "Colossesi 1",
     "url": "https://api.getbible.net/v2/riveduta/51/1.json",
-    "sha": "eee863125f7628aa8831891ee98439bce5942eac"
+    "sha": "9029813d646f79b5e6396279735568e99526cb0c"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossesi",
     "chapter": 2,
-    "name": "Colossians 2",
+    "name": "Colossesi 2",
     "url": "https://api.getbible.net/v2/riveduta/51/2.json",
-    "sha": "ccfe3f4303b33a5770b6164fad82242ffecda84b"
+    "sha": "a00bcd288a8072f7feb35690d4f2ecb605a93076"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossesi",
     "chapter": 3,
-    "name": "Colossians 3",
+    "name": "Colossesi 3",
     "url": "https://api.getbible.net/v2/riveduta/51/3.json",
-    "sha": "7de950fb14246c7b242b7451b971c68c8404020f"
+    "sha": "b0d703412764400b59f97dfbc47fb0df62308c27"
   },
   "4": {
     "translation": "Riveduta Bible (1927)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Colossians",
+    "book_name": "Colossesi",
     "chapter": 4,
-    "name": "Colossians 4",
+    "name": "Colossesi 4",
     "url": "https://api.getbible.net/v2/riveduta/51/4.json",
-    "sha": "51d5eaa9651a68acb745ef8fe2487e6b90958919"
+    "sha": "cbdb48959ea79ca0146763ce875e3c5eae6145f5"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 1,
-    "name": "Malachi 1",
+    "name": "Malaquías 1",
     "url": "https://api.getbible.net/v2/sse/39/1.json",
-    "sha": "7ca3bf0c8c973a8fa6cf3f1371ec99f66a22d923"
+    "sha": "c60889931802a4acaf8bf29ec568e746e9d4b879"
   },
   "2": {
     "translation": "Sagradas Escrituras (1569)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 2,
-    "name": "Malachi 2",
+    "name": "Malaquías 2",
     "url": "https://api.getbible.net/v2/sse/39/2.json",
-    "sha": "67bc585930895db0b959ff3be9b7cb9e30efb572"
+    "sha": "f0fc041b724b712dd6f7cc7cff8badbc0a983a28"
   },
   "3": {
     "translation": "Sagradas Escrituras (1569)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 3,
-    "name": "Malachi 3",
+    "name": "Malaquías 3",
     "url": "https://api.getbible.net/v2/sse/39/3.json",
-    "sha": "f08e08d92bf61cd2a8449775cad310cf9a4a351a"
+    "sha": "aa389caa289ae9b4e234ddfed6313d1aecd0905f"
   },
   "4": {
     "translation": "Sagradas Escrituras (1569)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Malachi",
+    "book_name": "Malaquías",
     "chapter": 4,
-    "name": "Malachi 4",
+    "name": "Malaquías 4",
     "url": "https://api.getbible.net/v2/sse/39/4.json",
-    "sha": "7eeccd466945de5a6a877e6313a6169786e8920f"
+    "sha": "644fba0be14aadfe6d454a66e49bf996b8bb0b3c"
   }
 }

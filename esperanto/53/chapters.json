@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonikanoj",
     "chapter": 1,
-    "name": "2 Thessalonians 1",
+    "name": "2 Tesalonikanoj 1",
     "url": "https://api.getbible.net/v2/esperanto/53/1.json",
-    "sha": "da1de4bf9f4f35b535904347d738adf96d21b3bc"
+    "sha": "5b1b579981be41e4c6ad01b190abd2425bbca233"
   },
   "2": {
     "translation": "Esperanto",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonikanoj",
     "chapter": 2,
-    "name": "2 Thessalonians 2",
+    "name": "2 Tesalonikanoj 2",
     "url": "https://api.getbible.net/v2/esperanto/53/2.json",
-    "sha": "a73c150237907703188964eb4b251536e1e27172"
+    "sha": "a3e353f398394a3a0f3123563a3e90581ea34e5b"
   },
   "3": {
     "translation": "Esperanto",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2 Thessalonians",
+    "book_name": "2 Tesalonikanoj",
     "chapter": 3,
-    "name": "2 Thessalonians 3",
+    "name": "2 Tesalonikanoj 3",
     "url": "https://api.getbible.net/v2/esperanto/53/3.json",
-    "sha": "2555874612f485fc6a4da1b0851e4f52eb41809d"
+    "sha": "5a58bde7f1c97ae5a9b80ab9e6b90a52ceea575a"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "歌罗西书 1",
     "url": "https://api.getbible.net/v2/cns/51/1.json",
-    "sha": "1e60a71b491ba09ca0917501a8d031d834e32aff"
+    "sha": "d106c23e6858d4ae710de381401340367dfb2340"
   },
   "2": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "歌罗西书 2",
     "url": "https://api.getbible.net/v2/cns/51/2.json",
-    "sha": "e100cab6606e669a920f926ec15104dc70103afd"
+    "sha": "0ff490092880a3ad7b50bbab3cd5c23b4df0fdb1"
   },
   "3": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "歌罗西书 3",
     "url": "https://api.getbible.net/v2/cns/51/3.json",
-    "sha": "621a235f1fe2749b9b6291d4737964ff2aeeb6a0"
+    "sha": "06c41d8d13c4170a9996c0dbac56c44354f425f4"
   },
   "4": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "歌罗西书 4",
     "url": "https://api.getbible.net/v2/cns/51/4.json",
-    "sha": "78f8f54e6716656a5fbf5c6676cfd2994f5deb72"
+    "sha": "6d901a02abe09cb565308a0cd3b0eb6174466bb2"
   }
 }

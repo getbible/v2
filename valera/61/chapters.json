@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Pedro 1",
     "url": "https://api.getbible.net/v2/valera/61/1.json",
-    "sha": "6a4a806416c4374fb319004276c7713bb2e8c4d7"
+    "sha": "ee0533d9576d09bbed32b72f1544a596c625641b"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Pedro 2",
     "url": "https://api.getbible.net/v2/valera/61/2.json",
-    "sha": "ec3511ccc528d4cb45530a60707bae045b0a7209"
+    "sha": "62c094ffeafd689907fa73bf70ef150b967e44ea"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pedro",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Pedro 3",
     "url": "https://api.getbible.net/v2/valera/61/3.json",
-    "sha": "bfa34dc54fc26b10e3042ad783cf23e560f700be"
+    "sha": "06dec476c051d978f390dfe488b20db099f76943"
   }
 }

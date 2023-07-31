@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pêr",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Pêr 1",
     "url": "https://api.getbible.net/v2/breton/61/1.json",
-    "sha": "0e1795f215ae1ab05ae76c583d413f3be8dc72f5"
+    "sha": "5090d7967a0149ea728d91b7e53fe4b96a1ae8fe"
   },
   "2": {
     "translation": "Gospels",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pêr",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Pêr 2",
     "url": "https://api.getbible.net/v2/breton/61/2.json",
-    "sha": "5dd3909d58369fcda6ee0f710249fe2aa0f6ee0c"
+    "sha": "3bb6e2ad52252a28497281fe0e83179212d445bf"
   },
   "3": {
     "translation": "Gospels",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Pêr",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Pêr 3",
     "url": "https://api.getbible.net/v2/breton/61/3.json",
-    "sha": "600cf918657da6ff42a41c8e1453bc7553dabdb1"
+    "sha": "62f1686d9bdfa27d1d5fb1fa5b8232b0dd8e4cc3"
   }
 }

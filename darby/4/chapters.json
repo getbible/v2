@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 1,
-    "name": "Numbers 1",
+    "name": "Nombres 1",
     "url": "https://api.getbible.net/v2/darby/4/1.json",
-    "sha": "b8e21851267f02011637266512b92447d1318368"
+    "sha": "25dbcda7e5d369047d6f488cdcc48d6b5d4ccbf7"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 2,
-    "name": "Numbers 2",
+    "name": "Nombres 2",
     "url": "https://api.getbible.net/v2/darby/4/2.json",
-    "sha": "3eff8a8a88c55ca4bc6989f88318cf0cd641f7fe"
+    "sha": "dec7f9c6aaa75d65c2255dd60cadaf957cfb13ea"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 3,
-    "name": "Numbers 3",
+    "name": "Nombres 3",
     "url": "https://api.getbible.net/v2/darby/4/3.json",
-    "sha": "0618f040f2c5ec65adab7683aa224420c3757057"
+    "sha": "bcf04b6262be703409431db33e22dd5ea1fccbc3"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 4,
-    "name": "Numbers 4",
+    "name": "Nombres 4",
     "url": "https://api.getbible.net/v2/darby/4/4.json",
-    "sha": "9d15ef99928045fdab3faecd38b420230f740b79"
+    "sha": "694837992f14dea953f6866ed063aa1361d9d9b5"
   },
   "5": {
     "translation": "Darby",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 5,
-    "name": "Numbers 5",
+    "name": "Nombres 5",
     "url": "https://api.getbible.net/v2/darby/4/5.json",
-    "sha": "51de8da5a034d787f710d453ee2952b8d3818a33"
+    "sha": "9e177b7dfeb5bd564c0df6c5bcd18398443db191"
   },
   "6": {
     "translation": "Darby",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 6,
-    "name": "Numbers 6",
+    "name": "Nombres 6",
     "url": "https://api.getbible.net/v2/darby/4/6.json",
-    "sha": "f7e9590966ff3651fc71c540247ee02c1550b8b8"
+    "sha": "484288f2f91b568a05352488243f3dcae47ddd25"
   },
   "7": {
     "translation": "Darby",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 7,
-    "name": "Numbers 7",
+    "name": "Nombres 7",
     "url": "https://api.getbible.net/v2/darby/4/7.json",
-    "sha": "550299ba508659513333a091f5e493b54cf26fb7"
+    "sha": "d4e22d9f8b0cd6be1aed99bde6e964921383f4d9"
   },
   "8": {
     "translation": "Darby",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 8,
-    "name": "Numbers 8",
+    "name": "Nombres 8",
     "url": "https://api.getbible.net/v2/darby/4/8.json",
-    "sha": "a60025546c46b71f7f8a804a96fd1c4fc441d593"
+    "sha": "49dda90fc328b93805a742e233ca2118870855bd"
   },
   "9": {
     "translation": "Darby",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 9,
-    "name": "Numbers 9",
+    "name": "Nombres 9",
     "url": "https://api.getbible.net/v2/darby/4/9.json",
-    "sha": "1a81a2a10fa1f6d228dc8eb6ec5e76ed2a4f617d"
+    "sha": "fb60528e013f5ace33903c4a6ec4e83bce7f12dd"
   },
   "10": {
     "translation": "Darby",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 10,
-    "name": "Numbers 10",
+    "name": "Nombres 10",
     "url": "https://api.getbible.net/v2/darby/4/10.json",
-    "sha": "5f2726631e2582aaea783f80aeb6f6f49e18344d"
+    "sha": "50e7aaca07c118a38c13042c8eb9b57eab199028"
   },
   "11": {
     "translation": "Darby",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 11,
-    "name": "Numbers 11",
+    "name": "Nombres 11",
     "url": "https://api.getbible.net/v2/darby/4/11.json",
-    "sha": "4dbf35534d867626f53bcc8ae1efc7372cb1a01e"
+    "sha": "0c8adbda3b2dd0e19cb1540f3a0b48eed93387c3"
   },
   "12": {
     "translation": "Darby",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 12,
-    "name": "Numbers 12",
+    "name": "Nombres 12",
     "url": "https://api.getbible.net/v2/darby/4/12.json",
-    "sha": "07686dd98dc98271f4a3bb0da6d9faaab9109bde"
+    "sha": "7ff28fb02d33a7dfa7f1c9973d6725d51ec82f06"
   },
   "13": {
     "translation": "Darby",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 13,
-    "name": "Numbers 13",
+    "name": "Nombres 13",
     "url": "https://api.getbible.net/v2/darby/4/13.json",
-    "sha": "a7c63f02c80832b0aab33a1994f94fe6350b6ccb"
+    "sha": "afdd4e6f7c5c116e8b9b921c22601a4ec78089de"
   },
   "14": {
     "translation": "Darby",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 14,
-    "name": "Numbers 14",
+    "name": "Nombres 14",
     "url": "https://api.getbible.net/v2/darby/4/14.json",
-    "sha": "e5759ce66e4eb42ef1ded111e95945bf417e0ba8"
+    "sha": "82b06e57e6c6841c736147754cbaf81f2eb3ca65"
   },
   "15": {
     "translation": "Darby",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 15,
-    "name": "Numbers 15",
+    "name": "Nombres 15",
     "url": "https://api.getbible.net/v2/darby/4/15.json",
-    "sha": "1021164ac2ead18f083b2b3e92c3c23b27c107ae"
+    "sha": "2cbedf0630e821db1fb1c9adc3e353d12770ffc6"
   },
   "16": {
     "translation": "Darby",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 16,
-    "name": "Numbers 16",
+    "name": "Nombres 16",
     "url": "https://api.getbible.net/v2/darby/4/16.json",
-    "sha": "b9404d42a72a8ec27cb11cfdcbdbc3e028d8b6fd"
+    "sha": "f67f17f8cdbc2a9edefbe368111a95b9dc2bb4ae"
   },
   "17": {
     "translation": "Darby",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 17,
-    "name": "Numbers 17",
+    "name": "Nombres 17",
     "url": "https://api.getbible.net/v2/darby/4/17.json",
-    "sha": "2d4fd5b658ff163f785f9c49c7417451a73c4209"
+    "sha": "75c2b9cbdd36cd5f107729ed80add364bbe5656d"
   },
   "18": {
     "translation": "Darby",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 18,
-    "name": "Numbers 18",
+    "name": "Nombres 18",
     "url": "https://api.getbible.net/v2/darby/4/18.json",
-    "sha": "d569dd14c123a6ee1b4e1ffead86f9806509252e"
+    "sha": "0ae23dc04ca1d25f16fd54832240c6c0478f4299"
   },
   "19": {
     "translation": "Darby",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 19,
-    "name": "Numbers 19",
+    "name": "Nombres 19",
     "url": "https://api.getbible.net/v2/darby/4/19.json",
-    "sha": "bca4e024f53ff23b39bd3f86ca4442522b561fe9"
+    "sha": "f828c78244856dd9aebb5e8cf20c07b089c95b2b"
   },
   "20": {
     "translation": "Darby",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 20,
-    "name": "Numbers 20",
+    "name": "Nombres 20",
     "url": "https://api.getbible.net/v2/darby/4/20.json",
-    "sha": "f4a5e43f17419f887efaef6af32c78d53ce16348"
+    "sha": "21cf738c22362e78b05983459760df6f30ab037c"
   },
   "21": {
     "translation": "Darby",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 21,
-    "name": "Numbers 21",
+    "name": "Nombres 21",
     "url": "https://api.getbible.net/v2/darby/4/21.json",
-    "sha": "911cf163ffb33b2e9a0f8b7d14deb2b97453bc77"
+    "sha": "1e84eaab29b706049d6c81e7883a200ef87e9010"
   },
   "22": {
     "translation": "Darby",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 22,
-    "name": "Numbers 22",
+    "name": "Nombres 22",
     "url": "https://api.getbible.net/v2/darby/4/22.json",
-    "sha": "03ced6e3e29df01b3d447f34a8d072a07624c778"
+    "sha": "bcd2f2ad2684d96f3111954da6ec71f76fb82f65"
   },
   "23": {
     "translation": "Darby",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 23,
-    "name": "Numbers 23",
+    "name": "Nombres 23",
     "url": "https://api.getbible.net/v2/darby/4/23.json",
-    "sha": "1318983b710f479e7e348aa01fb2ff564f1cd344"
+    "sha": "e5b2bca89fda7f60e618e36ae50f4dc416e83342"
   },
   "24": {
     "translation": "Darby",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 24,
-    "name": "Numbers 24",
+    "name": "Nombres 24",
     "url": "https://api.getbible.net/v2/darby/4/24.json",
-    "sha": "ca721c04ceeabf1f70e4241478d3ba59fd1852ce"
+    "sha": "36547f0625f6a5a9e6daec0db912cda934d3c62c"
   },
   "25": {
     "translation": "Darby",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 25,
-    "name": "Numbers 25",
+    "name": "Nombres 25",
     "url": "https://api.getbible.net/v2/darby/4/25.json",
-    "sha": "1a038405f6a67beafa51627fd230234e7f8345d2"
+    "sha": "3817945399d76d2caef9f7b5f1d7dcd0667f5aed"
   },
   "26": {
     "translation": "Darby",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 26,
-    "name": "Numbers 26",
+    "name": "Nombres 26",
     "url": "https://api.getbible.net/v2/darby/4/26.json",
-    "sha": "e3a9f6e187031d37b37b04e09511f27eb9ac79b7"
+    "sha": "7ee10963b6b3f6202a18b664b5edd9f69eeb3fdb"
   },
   "27": {
     "translation": "Darby",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 27,
-    "name": "Numbers 27",
+    "name": "Nombres 27",
     "url": "https://api.getbible.net/v2/darby/4/27.json",
-    "sha": "50a07b12894a77746596d04631c630843e187545"
+    "sha": "ccbd86a1cfc0f0063874a1241163ced0800e5093"
   },
   "28": {
     "translation": "Darby",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 28,
-    "name": "Numbers 28",
+    "name": "Nombres 28",
     "url": "https://api.getbible.net/v2/darby/4/28.json",
-    "sha": "dc31c86e4f9b25c87ed11344e045f60f6561f4ac"
+    "sha": "df4ef26e72539bc7ab9b8d553ee5a9ede068c405"
   },
   "29": {
     "translation": "Darby",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 29,
-    "name": "Numbers 29",
+    "name": "Nombres 29",
     "url": "https://api.getbible.net/v2/darby/4/29.json",
-    "sha": "dc1bf2b57ce290162f13d52d22cd70117cfced6a"
+    "sha": "7528477cf30be7a8e02f8c4d7c7bc9f0a832053e"
   },
   "30": {
     "translation": "Darby",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 30,
-    "name": "Numbers 30",
+    "name": "Nombres 30",
     "url": "https://api.getbible.net/v2/darby/4/30.json",
-    "sha": "10283dfc9cbbeb98c2faf58014306a0d4ca164f5"
+    "sha": "aef2e16e397a0ddbcc70dea5999b9670a77f8c60"
   },
   "31": {
     "translation": "Darby",
@@ -427,11 +427,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 31,
-    "name": "Numbers 31",
+    "name": "Nombres 31",
     "url": "https://api.getbible.net/v2/darby/4/31.json",
-    "sha": "db48f29facbb40aa270f2f38e815eb1119f4f19b"
+    "sha": "0cb14dc3a213222738a482b5c8c0dc7598620877"
   },
   "32": {
     "translation": "Darby",
@@ -441,11 +441,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 32,
-    "name": "Numbers 32",
+    "name": "Nombres 32",
     "url": "https://api.getbible.net/v2/darby/4/32.json",
-    "sha": "f87d2375ba22157e585d963d9d6737849135354e"
+    "sha": "03b0e4c5b246f3e011ee965508aeadcf5de944d4"
   },
   "33": {
     "translation": "Darby",
@@ -455,11 +455,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 33,
-    "name": "Numbers 33",
+    "name": "Nombres 33",
     "url": "https://api.getbible.net/v2/darby/4/33.json",
-    "sha": "d2e2f58c5bca633ccd8c41765292fede0293611d"
+    "sha": "368fe7a89b1aa90f20079aad434bc7bb5b623597"
   },
   "34": {
     "translation": "Darby",
@@ -469,11 +469,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 34,
-    "name": "Numbers 34",
+    "name": "Nombres 34",
     "url": "https://api.getbible.net/v2/darby/4/34.json",
-    "sha": "676c7e16a97f5b99f34145b54da8adcd29df32ad"
+    "sha": "ee122c73256748a7af0fd714d905d4303bd05fca"
   },
   "35": {
     "translation": "Darby",
@@ -483,11 +483,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 35,
-    "name": "Numbers 35",
+    "name": "Nombres 35",
     "url": "https://api.getbible.net/v2/darby/4/35.json",
-    "sha": "037ce7da2b78c63251aeab046c753ec5899ede84"
+    "sha": "f48f2f3238686ab7c597283fdad6e3000e32d7dd"
   },
   "36": {
     "translation": "Darby",
@@ -497,10 +497,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 4,
-    "book_name": "Numbers",
+    "book_name": "Nombres",
     "chapter": 36,
-    "name": "Numbers 36",
+    "name": "Nombres 36",
     "url": "https://api.getbible.net/v2/darby/4/36.json",
-    "sha": "4d099274af4570034780bfe5237af4c39441ad2e"
+    "sha": "1f7919ef8d81aa07d1702e852248adab638f32dd"
   }
 }

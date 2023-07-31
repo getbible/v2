@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Петра",
     "chapter": 1,
-    "name": "2 Peter 1",
+    "name": "2 Петра 1",
     "url": "https://api.getbible.net/v2/ukranian/61/1.json",
-    "sha": "b3d24fbba3d687180f077ba8abda9803b62c8682"
+    "sha": "725a18db65f90edbe758d7873a284ab4b9d84562"
   },
   "2": {
     "translation": "NT (P Kulish 1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Петра",
     "chapter": 2,
-    "name": "2 Peter 2",
+    "name": "2 Петра 2",
     "url": "https://api.getbible.net/v2/ukranian/61/2.json",
-    "sha": "c391475de5a570ce9002d59c9b5fc3b5980f3745"
+    "sha": "5eee0c007233f27b342a4b32e3750619b6868edd"
   },
   "3": {
     "translation": "NT (P Kulish 1871)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2 Peter",
+    "book_name": "2 Петра",
     "chapter": 3,
-    "name": "2 Peter 3",
+    "name": "2 Петра 3",
     "url": "https://api.getbible.net/v2/ukranian/61/3.json",
-    "sha": "a91c5edd817b90057e75634b470eede5670b15d2"
+    "sha": "7baaf8fccc4844bd77904fb6fc0911564dcf681f"
   }
 }

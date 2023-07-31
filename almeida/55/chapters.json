@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteo",
     "chapter": 1,
-    "name": "2 Timothy 1",
+    "name": "2 Timóteo 1",
     "url": "https://api.getbible.net/v2/almeida/55/1.json",
-    "sha": "23f1e0097ba3655f8e5d6ae72ca200429c0dce85"
+    "sha": "e2865af11d31c5d959a77a61603355f9c748b9f8"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteo",
     "chapter": 2,
-    "name": "2 Timothy 2",
+    "name": "2 Timóteo 2",
     "url": "https://api.getbible.net/v2/almeida/55/2.json",
-    "sha": "ec230aa9a0b9d5976cd097e87f1d1ccff2021d57"
+    "sha": "8f7cc2342b1798c2e2cf2c5e8479bcade3288fac"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteo",
     "chapter": 3,
-    "name": "2 Timothy 3",
+    "name": "2 Timóteo 3",
     "url": "https://api.getbible.net/v2/almeida/55/3.json",
-    "sha": "f480aa6cb0938e8aa794d35c9c87ef53d3fff4a6"
+    "sha": "285e08f47eb05347e814cdc85b251b90f609f243"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2 Timothy",
+    "book_name": "2 Timóteo",
     "chapter": 4,
-    "name": "2 Timothy 4",
+    "name": "2 Timóteo 4",
     "url": "https://api.getbible.net/v2/almeida/55/4.json",
-    "sha": "eb97cc25b915d8906b7d17a52b0acfffa7f67c54"
+    "sha": "1f3bc3feb38e324b8492f127d4cb8f53708437cf"
   }
 }

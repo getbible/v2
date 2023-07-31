@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 1,
-    "name": "1 Thessalonians 1",
+    "name": "Ensimmäinen tessalonikalaiskirje 1",
     "url": "https://api.getbible.net/v2/finnish1776/52/1.json",
-    "sha": "bdc79800430dd716ed76fcbc6e13305a255c7f6b"
+    "sha": "5897cb04fc8a72bd2b4df46242fa0bb110501324"
   },
   "2": {
     "translation": "Finnish Bible (1776)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 2,
-    "name": "1 Thessalonians 2",
+    "name": "Ensimmäinen tessalonikalaiskirje 2",
     "url": "https://api.getbible.net/v2/finnish1776/52/2.json",
-    "sha": "7566b7a59190b3afb356b4aee73a8b8e7087a3fa"
+    "sha": "573159b9676e10124b44eab8de85da2fd3fb160e"
   },
   "3": {
     "translation": "Finnish Bible (1776)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 3,
-    "name": "1 Thessalonians 3",
+    "name": "Ensimmäinen tessalonikalaiskirje 3",
     "url": "https://api.getbible.net/v2/finnish1776/52/3.json",
-    "sha": "54ea70ef43e012ec95addf917d96ccc086ed7e14"
+    "sha": "ffc5fabbc929903244fbd24556ab44d13eb9466a"
   },
   "4": {
     "translation": "Finnish Bible (1776)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 4,
-    "name": "1 Thessalonians 4",
+    "name": "Ensimmäinen tessalonikalaiskirje 4",
     "url": "https://api.getbible.net/v2/finnish1776/52/4.json",
-    "sha": "2b5528b5e59f471287848a400196e8e9808d5754"
+    "sha": "ad6f2b8c0c59779b50e8c13ab39ad060143bd978"
   },
   "5": {
     "translation": "Finnish Bible (1776)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1 Thessalonians",
+    "book_name": "Ensimmäinen tessalonikalaiskirje",
     "chapter": 5,
-    "name": "1 Thessalonians 5",
+    "name": "Ensimmäinen tessalonikalaiskirje 5",
     "url": "https://api.getbible.net/v2/finnish1776/52/5.json",
-    "sha": "045334134b30fe183e5c233b2af221d414901e42"
+    "sha": "49dd299eb49370964eafc01939ab03481ac4b68d"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 Jean 1",
     "url": "https://api.getbible.net/v2/darby/62/1.json",
-    "sha": "adcf837a4a6a749a296f78fb8f7a7b6733e86ddb"
+    "sha": "af4b852c9d5caa2d530b6b5ff30e6e6627702b60"
   },
   "2": {
     "translation": "Darby",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 Jean 2",
     "url": "https://api.getbible.net/v2/darby/62/2.json",
-    "sha": "332a68dd77b626456792bae3d467340f1f481c67"
+    "sha": "511b24c6e21d40c71464bdac68cc3cc6aff46b71"
   },
   "3": {
     "translation": "Darby",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 Jean 3",
     "url": "https://api.getbible.net/v2/darby/62/3.json",
-    "sha": "3d3a320cd9592fa2d9461c320286a3b4746bc63a"
+    "sha": "baa17077f5970f2d48adb4ced76705a7fc0915fe"
   },
   "4": {
     "translation": "Darby",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 Jean 4",
     "url": "https://api.getbible.net/v2/darby/62/4.json",
-    "sha": "210cdfccf16e50c717f9f721ed63e2eb34745a0b"
+    "sha": "24dae6005171e2f57e5c47570a4180285442d433"
   },
   "5": {
     "translation": "Darby",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 Jean",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 Jean 5",
     "url": "https://api.getbible.net/v2/darby/62/5.json",
-    "sha": "94d2aaf91b544a20ba38113ca19d3b8d54757ef3"
+    "sha": "5dcc47b7d956f8a5290367435e33dfb7a560db60"
   }
 }

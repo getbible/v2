@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonia",
     "chapter": 1,
-    "name": "Zephaniah 1",
+    "name": "Sofonia 1",
     "url": "https://api.getbible.net/v2/riveduta/36/1.json",
-    "sha": "d38ed71a3663817b0c57d32ad6c3df48b6b0a91b"
+    "sha": "482850b673c840438ccb36b3b302fdf3d2370b04"
   },
   "2": {
     "translation": "Riveduta Bible (1927)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonia",
     "chapter": 2,
-    "name": "Zephaniah 2",
+    "name": "Sofonia 2",
     "url": "https://api.getbible.net/v2/riveduta/36/2.json",
-    "sha": "5fe1cf71e443a453311f50c90e17ff13414b4e17"
+    "sha": "eb883042adcff309f95b3543fcb2a3ddd0ca842d"
   },
   "3": {
     "translation": "Riveduta Bible (1927)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zephaniah",
+    "book_name": "Sofonia",
     "chapter": 3,
-    "name": "Zephaniah 3",
+    "name": "Sofonia 3",
     "url": "https://api.getbible.net/v2/riveduta/36/3.json",
-    "sha": "04ac7a7578cdcb9a4c8c3d05aeaffac5088b7924"
+    "sha": "e28d6c45b3d0cfc60a10156b6c0079c54e0f590c"
   }
 }

@@ -3,7 +3,7 @@
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -11,13 +11,13 @@
     "chapter": 1,
     "name": "2 Timothy 1",
     "url": "https://api.getbible.net/v2/wycliffe/55/1.json",
-    "sha": "eaa02067c576fb7a8c2afa8feda04347ca2ddf73"
+    "sha": "092a67001b6d99bbd98aedeaf9dcc8030987f002"
   },
   "2": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -25,13 +25,13 @@
     "chapter": 2,
     "name": "2 Timothy 2",
     "url": "https://api.getbible.net/v2/wycliffe/55/2.json",
-    "sha": "b13705f48aa365fa27c1eecd06a0296706cbad83"
+    "sha": "b46eaf7e08574ee3d9952ff8c5ffb2710b771a9e"
   },
   "3": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -39,13 +39,13 @@
     "chapter": 3,
     "name": "2 Timothy 3",
     "url": "https://api.getbible.net/v2/wycliffe/55/3.json",
-    "sha": "e545ceaff6151e65ed6cf85223b2fe332fd66e7a"
+    "sha": "bd74f3540c711f9841e310de4e9d3ce187cdb23a"
   },
   "4": {
     "translation": "John Wycliffe Bible (c.1395)",
     "abbreviation": "wycliffe",
     "lang": "enm",
-    "language": "",
+    "language": "English",
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "2 Timothy 4",
     "url": "https://api.getbible.net/v2/wycliffe/55/4.json",
-    "sha": "98be397544c78e0a17006086c29781b650e57959"
+    "sha": "c09212fc7644cd1ee3fd3ba617bc83f651cc2f3c"
   }
 }

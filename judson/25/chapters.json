@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "သွေးကျွန်းစာ",
     "chapter": 1,
-    "name": "Lamentations 1",
+    "name": "သွေးကျွန်းစာ 1",
     "url": "https://api.getbible.net/v2/judson/25/1.json",
-    "sha": "56ed47b07997c84ccfc25ac92c09a068e1570431"
+    "sha": "fd045f57b0ad1a7de2f276761560a8a4e6c52b85"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "သွေးကျွန်းစာ",
     "chapter": 2,
-    "name": "Lamentations 2",
+    "name": "သွေးကျွန်းစာ 2",
     "url": "https://api.getbible.net/v2/judson/25/2.json",
-    "sha": "f9b5beafdb8589ac2fd31ff34bc87664de570168"
+    "sha": "2f43249e9fad068c41e01412967149c5bd11ab99"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "သွေးကျွန်းစာ",
     "chapter": 3,
-    "name": "Lamentations 3",
+    "name": "သွေးကျွန်းစာ 3",
     "url": "https://api.getbible.net/v2/judson/25/3.json",
-    "sha": "99b64abfe35442548a494e36a62e632ca1409ce1"
+    "sha": "6dc840c75ef8b8b3051b7c41a1b79552de2df1a6"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "သွေးကျွန်းစာ",
     "chapter": 4,
-    "name": "Lamentations 4",
+    "name": "သွေးကျွန်းစာ 4",
     "url": "https://api.getbible.net/v2/judson/25/4.json",
-    "sha": "79b0b6dac29662b39cb116d7d76b043949296649"
+    "sha": "2e4257226a2dfae1fb44a9229a6ba80d7d3cb470"
   },
   "5": {
     "translation": "Judson (1835)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Lamentations",
+    "book_name": "သွေးကျွန်းစာ",
     "chapter": 5,
-    "name": "Lamentations 5",
+    "name": "သွေးကျွန်းစာ 5",
     "url": "https://api.getbible.net/v2/judson/25/5.json",
-    "sha": "4cc3840c2dd42e0178b65f208b016eb4d8bdc336"
+    "sha": "3be39d85ab4b23c8d363a62c1f35a16e0de1ec37"
   }
 }

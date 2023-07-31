@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatams",
     "chapter": 1,
-    "name": "Galatians 1",
+    "name": "Galatams 1",
     "url": "https://api.getbible.net/v2/lithuanian/48/1.json",
-    "sha": "cfdccec5c7aab87970ec5a56ac71b4acaf2859a2"
+    "sha": "568628d4dac9003fd705c7ea27e7ca5a37eccc42"
   },
   "2": {
     "translation": "Lithuanian",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatams",
     "chapter": 2,
-    "name": "Galatians 2",
+    "name": "Galatams 2",
     "url": "https://api.getbible.net/v2/lithuanian/48/2.json",
-    "sha": "34a0990ba76f851b909045577d58ec87591d62f5"
+    "sha": "57ccb4849cdbba1862037751901cc925e82ae989"
   },
   "3": {
     "translation": "Lithuanian",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatams",
     "chapter": 3,
-    "name": "Galatians 3",
+    "name": "Galatams 3",
     "url": "https://api.getbible.net/v2/lithuanian/48/3.json",
-    "sha": "42dc155deea56fa8f713f1d20187685abed96dca"
+    "sha": "bb73cb16bf17729252dad01c44fe1cb2509eef32"
   },
   "4": {
     "translation": "Lithuanian",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatams",
     "chapter": 4,
-    "name": "Galatians 4",
+    "name": "Galatams 4",
     "url": "https://api.getbible.net/v2/lithuanian/48/4.json",
-    "sha": "9a9767baa5ede89d3bfc2114d2ae9627f2eaba5e"
+    "sha": "d2025eb9d9fd4e0a5b3adf2887226d6b5a011efb"
   },
   "5": {
     "translation": "Lithuanian",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatams",
     "chapter": 5,
-    "name": "Galatians 5",
+    "name": "Galatams 5",
     "url": "https://api.getbible.net/v2/lithuanian/48/5.json",
-    "sha": "96f2e44817549cbe09179d79b8a4b84d2cbe856d"
+    "sha": "d13f319f76dc570580b7ba656c9d83632b82ad93"
   },
   "6": {
     "translation": "Lithuanian",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galatians",
+    "book_name": "Galatams",
     "chapter": 6,
-    "name": "Galatians 6",
+    "name": "Galatams 6",
     "url": "https://api.getbible.net/v2/lithuanian/48/6.json",
-    "sha": "fd1ab096ac49f4e03ddf3d5de7272b19152cbb69"
+    "sha": "04175e58d4a5a77347078b2f65b3157850e214ad"
   }
 }

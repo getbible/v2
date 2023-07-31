@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 ဂျွန်",
     "chapter": 1,
-    "name": "1 John 1",
+    "name": "1 ဂျွန် 1",
     "url": "https://api.getbible.net/v2/judson/62/1.json",
-    "sha": "ee4ac59f9baba11fc747a76f3ed8d6daac9dae58"
+    "sha": "a2dd5313079d670dc1e0c087a1ed314eb91cd3d0"
   },
   "2": {
     "translation": "Judson (1835)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 ဂျွန်",
     "chapter": 2,
-    "name": "1 John 2",
+    "name": "1 ဂျွန် 2",
     "url": "https://api.getbible.net/v2/judson/62/2.json",
-    "sha": "354182cf596ce6559c4ec8d9dba09df222a2a776"
+    "sha": "6eca406111cfc5fe94bea83dab316aea52baff73"
   },
   "3": {
     "translation": "Judson (1835)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 ဂျွန်",
     "chapter": 3,
-    "name": "1 John 3",
+    "name": "1 ဂျွန် 3",
     "url": "https://api.getbible.net/v2/judson/62/3.json",
-    "sha": "2a2362ff412eee604d15abbdbfe03a5960ff4392"
+    "sha": "90bb3384b65ab0f2d75b0445fc1a34608d28e2b6"
   },
   "4": {
     "translation": "Judson (1835)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 ဂျွန်",
     "chapter": 4,
-    "name": "1 John 4",
+    "name": "1 ဂျွန် 4",
     "url": "https://api.getbible.net/v2/judson/62/4.json",
-    "sha": "a020df79ad6a0a13725408c71487754039f78237"
+    "sha": "7b15bb2d81fcb9961d74ca81dc6c6456313ef99b"
   },
   "5": {
     "translation": "Judson (1835)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1 John",
+    "book_name": "1 ဂျွန်",
     "chapter": 5,
-    "name": "1 John 5",
+    "name": "1 ဂျွန် 5",
     "url": "https://api.getbible.net/v2/judson/62/5.json",
-    "sha": "d18caad9036100e88ad01aa98a7b31de462e32ae"
+    "sha": "6f779283b41ce49c4a6e997181c84b4d832424a7"
   }
 }

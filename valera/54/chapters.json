@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 1,
-    "name": "1 Timothy 1",
+    "name": "1 Timoteo 1",
     "url": "https://api.getbible.net/v2/valera/54/1.json",
-    "sha": "fd1d8d6c408e30f39d03486a2bb778872012da9f"
+    "sha": "ded0068256cb965cc35e55bd9c2b14967619b69b"
   },
   "2": {
     "translation": "Reina Valera (1909)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 2,
-    "name": "1 Timothy 2",
+    "name": "1 Timoteo 2",
     "url": "https://api.getbible.net/v2/valera/54/2.json",
-    "sha": "c14500b3f297af828ac242bfe36095c30bbecd18"
+    "sha": "694d76b060b9cd5151031efad5d4e1cdcb4ad25d"
   },
   "3": {
     "translation": "Reina Valera (1909)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 3,
-    "name": "1 Timothy 3",
+    "name": "1 Timoteo 3",
     "url": "https://api.getbible.net/v2/valera/54/3.json",
-    "sha": "29d1a637ca25984c28eaa796d0423293b4cbb147"
+    "sha": "0ec9ae84fc9dc2bb8888a582c3051ddb0a03ceb1"
   },
   "4": {
     "translation": "Reina Valera (1909)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 4,
-    "name": "1 Timothy 4",
+    "name": "1 Timoteo 4",
     "url": "https://api.getbible.net/v2/valera/54/4.json",
-    "sha": "da37a1e5ddf118b3fd639d41b20788ae6852ab9c"
+    "sha": "ee2fe4c663bf93d6f66e4dbea430b4b4dabe0abb"
   },
   "5": {
     "translation": "Reina Valera (1909)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 5,
-    "name": "1 Timothy 5",
+    "name": "1 Timoteo 5",
     "url": "https://api.getbible.net/v2/valera/54/5.json",
-    "sha": "2758281666e614799f9caf0b5b88e2d28a7cbffc"
+    "sha": "b4c38ba49a1bb1a67a461b5588706b5194688a63"
   },
   "6": {
     "translation": "Reina Valera (1909)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1 Timothy",
+    "book_name": "1 Timoteo",
     "chapter": 6,
-    "name": "1 Timothy 6",
+    "name": "1 Timoteo 6",
     "url": "https://api.getbible.net/v2/valera/54/6.json",
-    "sha": "32a3cdeabfa3d50b1e5eea0f60cf3851ddbb964f"
+    "sha": "6a1b919cc8fca57fd51e454ea09c525d1aa8f233"
   }
 }
