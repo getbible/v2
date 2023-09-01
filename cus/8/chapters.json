@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "路得记 1",
     "url": "https://api.getbible.net/v2/cus/8/1.json",
-    "sha": "5571871e38f08d21e004c7f2653f6c0e19dfe34c"
+    "sha": "0fbd364f9c33c9c178838100cfd7afa0b64977e0"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "路得记 2",
     "url": "https://api.getbible.net/v2/cus/8/2.json",
-    "sha": "cc1f514b6ed6da471a0834f5efb7e3b410c5c47c"
+    "sha": "0f5339d414648c2742477b8e68a374035968ca0f"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "路得记 3",
     "url": "https://api.getbible.net/v2/cus/8/3.json",
-    "sha": "5356213b7dc026e7de72d9627adc3bf72473dace"
+    "sha": "736f647a0d9f854b7416f40be3a40e337e4864ec"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "路得记 4",
     "url": "https://api.getbible.net/v2/cus/8/4.json",
-    "sha": "c09355c7e5c99bb1e0c67340280321e1f58e9199"
+    "sha": "607bad2dfa0a32f973a824e15e91dc406a0c02d2"
   }
 }

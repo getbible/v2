@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "以斯帖记 1",
     "url": "https://api.getbible.net/v2/cus/17/1.json",
-    "sha": "522d205128b6555765f8a85e8039bca28d6fdcd3"
+    "sha": "5245ddd256efa3ecffd343611b3ffe5f6e9c4224"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "以斯帖记 2",
     "url": "https://api.getbible.net/v2/cus/17/2.json",
-    "sha": "cf46aede99c6ab04d31628c1f58954a55c2a3c2b"
+    "sha": "357ee4e175ddec1e3dccadd989611dbb367c57b2"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "以斯帖记 3",
     "url": "https://api.getbible.net/v2/cus/17/3.json",
-    "sha": "7ff25d935bed37e126cd45aa31b2afb2dc688387"
+    "sha": "b7aa294fc27e993e3c34417e4ddbadb3e18fc2dd"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "以斯帖记 4",
     "url": "https://api.getbible.net/v2/cus/17/4.json",
-    "sha": "164bcde1cf50da6b25ae9b667047cd8afa94f40d"
+    "sha": "4b8ed682408deba9f3eb692170ab0909ca94c8aa"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "以斯帖记 5",
     "url": "https://api.getbible.net/v2/cus/17/5.json",
-    "sha": "d7ef69448d66f2399b1d874920e1c72b9e409433"
+    "sha": "cab1e2a8b645b4a7704e6f81f9ab8395300c8151"
   },
   "6": {
     "translation": "Union Simplified",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "以斯帖记 6",
     "url": "https://api.getbible.net/v2/cus/17/6.json",
-    "sha": "a75a1e616fe3cfcbb0606abff7841cb05cb40ff1"
+    "sha": "4e3827a31c29ea6f37f01465c3e3eb1f04ccbd94"
   },
   "7": {
     "translation": "Union Simplified",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "以斯帖记 7",
     "url": "https://api.getbible.net/v2/cus/17/7.json",
-    "sha": "1ad7c5060532d21149c67020d72a2252d765aff1"
+    "sha": "2048611ca291b58d50c1d1bcc55708e77b0df1e3"
   },
   "8": {
     "translation": "Union Simplified",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "以斯帖记 8",
     "url": "https://api.getbible.net/v2/cus/17/8.json",
-    "sha": "9af30d5524e8482aa67b04e4cdb07c76655a9e51"
+    "sha": "49a7ada68e303a3194d0f36e78f1b7251c2090c2"
   },
   "9": {
     "translation": "Union Simplified",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "以斯帖记 9",
     "url": "https://api.getbible.net/v2/cus/17/9.json",
-    "sha": "cb0b1ed502843f39e9e9b92accfce2d0c7199928"
+    "sha": "ac6749ec90b4c498080d920643baa57a639c5178"
   },
   "10": {
     "translation": "Union Simplified",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "以斯帖记 10",
     "url": "https://api.getbible.net/v2/cus/17/10.json",
-    "sha": "8b827a8dca9902b455a75e054ea59b01c4b37d69"
+    "sha": "138f3381d6c7bfbd8c33d4ff1e8d790666cc163d"
   }
 }

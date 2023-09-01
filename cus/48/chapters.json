@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "加拉太书 1",
     "url": "https://api.getbible.net/v2/cus/48/1.json",
-    "sha": "396174bf11e9de19a97c32bae566cc58bc0e56d3"
+    "sha": "4d9e2c7c265219a0b5c441ff2c3332bd80e51f50"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "加拉太书 2",
     "url": "https://api.getbible.net/v2/cus/48/2.json",
-    "sha": "a764840612cbb1e0b3b2532c5fac32a091e3dace"
+    "sha": "1f0c59a74ef20dc75b6c39238628bac8e4386ae1"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "加拉太书 3",
     "url": "https://api.getbible.net/v2/cus/48/3.json",
-    "sha": "1d337ebd3b9c366cbac9c8f29288ce4f91be92ab"
+    "sha": "c2e14d8b895d796f3bd9a97ed5cd5d11dbb3b8fb"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "加拉太书 4",
     "url": "https://api.getbible.net/v2/cus/48/4.json",
-    "sha": "da61eeef54c6dc86e5b782e703c667047fc0ae63"
+    "sha": "9de0ef7286613de35098299df3686ef9c3903006"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "加拉太书 5",
     "url": "https://api.getbible.net/v2/cus/48/5.json",
-    "sha": "e3c341462b903f33b184a207e5fa751d0fef018c"
+    "sha": "3bfc1ad70b53808eb5135121de6987b3c5f4abb4"
   },
   "6": {
     "translation": "Union Simplified",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "加拉太书 6",
     "url": "https://api.getbible.net/v2/cus/48/6.json",
-    "sha": "e9a5332ce5aed41dfd87f744fe295675c3434893"
+    "sha": "f46579de6b92a2d967dfd74423341935a0ab9fd5"
   }
 }

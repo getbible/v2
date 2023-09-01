@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "那鸿书 1",
     "url": "https://api.getbible.net/v2/cus/34/1.json",
-    "sha": "fb48cb3f0590603cadf7db3ee6ce963b32c3ec3f"
+    "sha": "15261602f43981c7ee7b3deb37fd26f3339b8ecb"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "那鸿书 2",
     "url": "https://api.getbible.net/v2/cus/34/2.json",
-    "sha": "4d06a9790dd4e6412ee9b73ced371e10e57a0e78"
+    "sha": "cd53986940d6744cbeaadbe368c19c33609fc1bc"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "那鸿书 3",
     "url": "https://api.getbible.net/v2/cus/34/3.json",
-    "sha": "0a64196a07bf0fdfa9ccb27d028fd89c91537969"
+    "sha": "9dec80708baa0450f391464e4488f29647d0da03"
   }
 }

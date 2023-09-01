@@ -522,9 +522,9 @@
     "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible .Chinese",
-    "distribution_version": "3.0",
-    "distribution_version_date": "2021-01-31",
+    "distribution_lcsh": "Bible.Chinese",
+    "distribution_version": "3.0.1",
+    "distribution_version_date": "2023-07-30",
     "distribution_abbreviation": "cus",
     "distribution_about": "和合本(简体字)是中国新教徒最早将圣经翻译成中文的版本，最早于1919年出版。",
     "distribution_license": "Public Domain",
@@ -536,10 +536,11 @@
       "history_2.1": "converted into OSIS, Joachim Ansorg (2004-03-01)",
       "history_2.5": "updated to version of 2010-10-12 (2011-01-22)",
       "history_2.6": "moved to av11n (2011-01-22)",
-      "history_3.0": "(2021-01-31) New source http://bible.fhl.net version: 2020-12-24 Solved issues: MOD-266"
+      "history_3.0": "(2021-02-06) New source http://bible.fhl.net version: 2020-12-24 Solved issues: MOD-266",
+      "history_3.0.1": "(2023-07-30) Fix spurious GlobalOptionFilter=OSISEnum in conf file"
     },
     "url": "https://api.getbible.net/v2/cus.json",
-    "sha": "bf03615515270493c89fa66db18652ffc4d8db11"
+    "sha": "9284270ea2bed4ae2c0b7c0b34c32b67afe083ed"
   },
   "cut": {
     "translation": "Union Traditional",
@@ -549,9 +550,9 @@
     "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible .Chinese",
-    "distribution_version": "3.0",
-    "distribution_version_date": "2021-01-28",
+    "distribution_lcsh": "Bible.Chinese",
+    "distribution_version": "3.0.1",
+    "distribution_version_date": "2023-07-30",
     "distribution_abbreviation": "cut",
     "distribution_about": "和合本（繁體字）是中國新教徒最早將聖經翻譯成中文的版本，最早於1919年出版。",
     "distribution_license": "Public Domain",
@@ -563,10 +564,11 @@
       "history_2.1": "converted into OSIS, Joachim Ansorg (2004-03-01)",
       "history_2.5": "updated to version of 2010-10-12 (2011-01-22)",
       "history_2.6": "moved to av11n (2011-01-22)",
-      "history_3.0": "(2021-01-28) Rebuild from scratch from http://bible.fhl.net. Solve issues: MOD-266 MOD-365 MOD-366"
+      "history_3.0": "(2021-01-28) Rebuild from scratch from http://bible.fhl.net. Solve issues: MOD-266 MOD-365 MOD-366",
+      "history_3.0.1": "(2023-07-30) Fix wrong GlobalFilterOption=OSISEnum in conf file"
     },
     "url": "https://api.getbible.net/v2/cut.json",
-    "sha": "2280c8a7ee55358756d33002828e755663eb0a8c"
+    "sha": "684f93263e5d77ec194d2b1466a83e613556cea5"
   },
   "danish": {
     "translation": "Danish",

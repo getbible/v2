@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "提摩太前书 1",
     "url": "https://api.getbible.net/v2/cus/54/1.json",
-    "sha": "580c2e300cb465012576faeda217ae9bb4978b2f"
+    "sha": "ee53858a9da35aa9a547fd244048ad3f34b0139e"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "提摩太前书 2",
     "url": "https://api.getbible.net/v2/cus/54/2.json",
-    "sha": "c778484a08bdad79458977ed365624b3a4ac0d76"
+    "sha": "6eb60c43f0e1af63cfea0c21d26e2c3a55f92f0d"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "提摩太前书 3",
     "url": "https://api.getbible.net/v2/cus/54/3.json",
-    "sha": "5587ed23d3833fafb39addf15aa033b6360d0b8a"
+    "sha": "a8422d0b7e795a4cf03dbe1486e1765bf7791d6a"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "提摩太前书 4",
     "url": "https://api.getbible.net/v2/cus/54/4.json",
-    "sha": "5beb1f1ebd15dde5f92063d209dfeac1ad92fd6c"
+    "sha": "d0347eab0981976f287aad1ec0f75f0e2b59a86b"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "提摩太前书 5",
     "url": "https://api.getbible.net/v2/cus/54/5.json",
-    "sha": "ed8e5eed43e3e0ec2982c94132211bbe64f77780"
+    "sha": "ec61194a90a574ea92eb7d5d5bb9a78774cdbf2e"
   },
   "6": {
     "translation": "Union Simplified",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "提摩太前书 6",
     "url": "https://api.getbible.net/v2/cus/54/6.json",
-    "sha": "2f335dd43620ba412a05f5c9bdc9f036c30d7a38"
+    "sha": "084a1ff8d8848e59988179af6e6c0421d111fbfe"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "哈该书 1",
     "url": "https://api.getbible.net/v2/cus/37/1.json",
-    "sha": "b5d167d1c13f3315aab64569812b1ac00c47f660"
+    "sha": "8cd5a1f85ec174b36dbdacbb843f783d7e33bd72"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "哈该书 2",
     "url": "https://api.getbible.net/v2/cus/37/2.json",
-    "sha": "827d77c182c6021e7c64d5d22cc11029709285e5"
+    "sha": "45e87335dca906bc308d14c68445de586d38dbde"
   }
 }

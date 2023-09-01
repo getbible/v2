@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "帖撒罗尼迦后书 1",
     "url": "https://api.getbible.net/v2/cus/53/1.json",
-    "sha": "edd86ef5dd2cada7d83ecb6a8d9ead276656cd6b"
+    "sha": "8f874877b386d68a4885ae056a981f362cabcbb5"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "帖撒罗尼迦后书 2",
     "url": "https://api.getbible.net/v2/cus/53/2.json",
-    "sha": "11a487c1398b96d470f320059fd97c26ed2c74be"
+    "sha": "ba33da6878dbef1d6e88c1a7de7380f7d7307946"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "帖撒罗尼迦后书 3",
     "url": "https://api.getbible.net/v2/cus/53/3.json",
-    "sha": "087498d4249077ac5e7b7808182f45e9b6ab99a5"
+    "sha": "0a1b6ba6c5e03d7fdde873443339b7c6106b2d9b"
   }
 }
