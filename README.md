@@ -154,4 +154,4 @@ To help users interact with our API, we have added mapping helpers. These helper
 - CHECKSUMS: [https://api.getbible.net/v2/kjv/62/checksum.json](https://api.getbible.net/v2/kjv/62/checksum.json)
 
 We continue our journey to keep the integrity of the Holy Scripture and provide the most accurate text to all users. If you have any questions or need further clarification, please feel free to open issues in the relevant repositories, and we'll respond as soon as we can.
-[Open an Issue and Get Support)](https://git.vdm.dev/getBible/support)
+[Open an Issue and Get Support](https://git.vdm.dev/getBible/support)
