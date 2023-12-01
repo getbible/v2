@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Πέτρου Α' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/60/1.json",
-    "sha": "607332687b3ef67715a72cf90a927d80c2fdc175"
+    "sha": "75d8a6d593219b7c55188636f5d3e58af129be13"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Πέτρου Α' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/60/3.json",
-    "sha": "7cc5c7cb974927c1dbdc4f2550b6fd8b02c13ebd"
+    "sha": "9630e1afdb7079995baa1d725d5e44cae902fa0a"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Πέτρου Α' 4",
     "url": "https://api.getbible.net/v2/textusreceptus/60/4.json",
-    "sha": "be2d77f4e52e63ea4e95a9b7b71a9f6b53273423"
+    "sha": "39e4c84a80f6798da2c3ef168cbd9fc6f9cdfe22"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",

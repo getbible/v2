@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "帖撒羅尼迦後書 1",
     "url": "https://api.getbible.net/v2/cut/53/1.json",
-    "sha": "b177f069b7bc573cb95a8ee7d91575ba1562ef0a"
+    "sha": "54d3aec24fb21f2b661e9655528f675ea25a438d"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "帖撒羅尼迦後書 2",
     "url": "https://api.getbible.net/v2/cut/53/2.json",
-    "sha": "a01c6f08d11a9220304dd1bf01a73e0216be7519"
+    "sha": "0ecac398760d2832d539bdb6e7bb5882ee7026ac"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "帖撒羅尼迦後書 3",
     "url": "https://api.getbible.net/v2/cut/53/3.json",
-    "sha": "abeb89d19ae29b150162d4f7d5bc6a6642e014df"
+    "sha": "964e33f07d2802e2d32bebb113847f0133cf764c"
   }
 }

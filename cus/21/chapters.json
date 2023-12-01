@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "传道书 1",
     "url": "https://api.getbible.net/v2/cus/21/1.json",
-    "sha": "c09c086a46f08da924af9124363924b80f57a175"
+    "sha": "b405b643a9096dc36fcf219900fa4e27d2eb9c63"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "传道书 2",
     "url": "https://api.getbible.net/v2/cus/21/2.json",
-    "sha": "af41ee6c8b4321c70201f8a67b2efd454709afc5"
+    "sha": "8236cc1f6b70104e5e72648de75ae1826b79980f"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "传道书 3",
     "url": "https://api.getbible.net/v2/cus/21/3.json",
-    "sha": "1946ca17b061d60c2b19ec2b023b899145b7d243"
+    "sha": "6080d956cf448b0129f61f8e2416755a06eac58a"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "传道书 4",
     "url": "https://api.getbible.net/v2/cus/21/4.json",
-    "sha": "4f8602e1463c9030ffac74a183e56f32c4874738"
+    "sha": "24a7f800662a2829f5c5ed7de5a54c8ee990d5d1"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "传道书 5",
     "url": "https://api.getbible.net/v2/cus/21/5.json",
-    "sha": "af67c557fb0c5c87c0b6025112e5e5e03aae70bd"
+    "sha": "3f4e1305f82dc3e37c9a5b31b0306c2c8f9841da"
   },
   "6": {
     "translation": "Union Simplified",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "传道书 6",
     "url": "https://api.getbible.net/v2/cus/21/6.json",
-    "sha": "eb1ead5b1a55ba00fe6fcfe592d675bc3c730db1"
+    "sha": "debcd748f961a9e311619d74342289c852d72179"
   },
   "7": {
     "translation": "Union Simplified",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "传道书 7",
     "url": "https://api.getbible.net/v2/cus/21/7.json",
-    "sha": "0e23fdce1cd1b06555707234abd778eb41956dfd"
+    "sha": "612474e4d5ccd825e78712fe34c01e44e7db355a"
   },
   "8": {
     "translation": "Union Simplified",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "传道书 8",
     "url": "https://api.getbible.net/v2/cus/21/8.json",
-    "sha": "a7c29c015c5ccdd6bfa93a5ed7f2f926babb7562"
+    "sha": "eb6724413639a31af8d7f3c6a56e5f38ef12e10b"
   },
   "9": {
     "translation": "Union Simplified",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "传道书 9",
     "url": "https://api.getbible.net/v2/cus/21/9.json",
-    "sha": "1cff8aa7e2ecf2214f8c40df648fcbdd1fb0aa2f"
+    "sha": "59ea64ffdcf58e17c9f2df8b7f97bf2c42f8c749"
   },
   "10": {
     "translation": "Union Simplified",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "传道书 10",
     "url": "https://api.getbible.net/v2/cus/21/10.json",
-    "sha": "89f6e0e0cb39e73d114d5eb4686317d76545d0dd"
+    "sha": "50408ee99bd2c5bb0b26534d22ad0275e6069972"
   },
   "11": {
     "translation": "Union Simplified",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "传道书 11",
     "url": "https://api.getbible.net/v2/cus/21/11.json",
-    "sha": "213c1188ea997a1207e027e7350b2e8f633d6f02"
+    "sha": "85296f2fbac9d2ff56351933635b71a1446a4d29"
   },
   "12": {
     "translation": "Union Simplified",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "传道书 12",
     "url": "https://api.getbible.net/v2/cus/21/12.json",
-    "sha": "a750fe276b61ca67b8c77108dfaf7a4170385d7b"
+    "sha": "181ef95878b84125ca34771dbd9494759dca693b"
   }
 }

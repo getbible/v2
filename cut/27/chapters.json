@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "但以理書 1",
     "url": "https://api.getbible.net/v2/cut/27/1.json",
-    "sha": "2449d0f55ba48ecf767fa120eb712d65f9412fec"
+    "sha": "42c6d76d9f7bf55df159bbd374dafeb2053cfb65"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "但以理書 2",
     "url": "https://api.getbible.net/v2/cut/27/2.json",
-    "sha": "5efff32e87adf876ba0cd2ae2c95d214342572d3"
+    "sha": "ab19df77c865fd2d7b2ffaabaf6c6c16a9d5c5c5"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "但以理書 3",
     "url": "https://api.getbible.net/v2/cut/27/3.json",
-    "sha": "35b23998b09d34992636e881f7444d63a7d9eb68"
+    "sha": "922c41d06e8a65c52b138e5f13893d69e349bf05"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "但以理書 4",
     "url": "https://api.getbible.net/v2/cut/27/4.json",
-    "sha": "8218eaf141674ab7c9fdd5c24c214f8b65e164d3"
+    "sha": "67f42577f498f118b2bba142925c13d77bd4066a"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "但以理書 5",
     "url": "https://api.getbible.net/v2/cut/27/5.json",
-    "sha": "4a5d5cb6142fe0a568100e7c1bd5375b3d6fc9f0"
+    "sha": "a61e9e7a64783604d0d5cc092a6833a65ee62753"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "但以理書 6",
     "url": "https://api.getbible.net/v2/cut/27/6.json",
-    "sha": "757869ea26e908df9f02f8c24d36d41c1dcfc1c6"
+    "sha": "0f9ec3c309276e8e1589f44b0039663cf539b835"
   },
   "7": {
     "translation": "Union Traditional",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "但以理書 7",
     "url": "https://api.getbible.net/v2/cut/27/7.json",
-    "sha": "8ccfe65f75c39309a137deaef1cea47f119d68a5"
+    "sha": "a5465ff2f0776eef2f8173a9a2c34d1016826ee3"
   },
   "8": {
     "translation": "Union Traditional",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "但以理書 8",
     "url": "https://api.getbible.net/v2/cut/27/8.json",
-    "sha": "8dcf7ac997793017b4b05f778ea5600e5da1afa4"
+    "sha": "7e7638bc036ef8a935d3a2de1f91672ee4aea426"
   },
   "9": {
     "translation": "Union Traditional",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "但以理書 9",
     "url": "https://api.getbible.net/v2/cut/27/9.json",
-    "sha": "c9b374d0061af7fc9d92f331f7b94667afd1e492"
+    "sha": "16f55babe11a6dd4644a55331f6a93ff01e3a0a0"
   },
   "10": {
     "translation": "Union Traditional",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "但以理書 10",
     "url": "https://api.getbible.net/v2/cut/27/10.json",
-    "sha": "242a2d03288b628d1e626cc8ffc2b7dc95cce004"
+    "sha": "275d82a3b988fc97b0d22906b3309ae767be3df5"
   },
   "11": {
     "translation": "Union Traditional",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "但以理書 11",
     "url": "https://api.getbible.net/v2/cut/27/11.json",
-    "sha": "e5c7bc13adeeb289bb9e89a79679d7cf8b45ee5f"
+    "sha": "bf66ba71de11a8c4dabf87d8763e4dcab9065cc5"
   },
   "12": {
     "translation": "Union Traditional",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "但以理書 12",
     "url": "https://api.getbible.net/v2/cut/27/12.json",
-    "sha": "35a809676fab456d4576e2854e2876d716c0db1f"
+    "sha": "e1c30f26e450c6cdec04a145b108fe84672144c7"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Προς Ρωμαίους 1",
     "url": "https://api.getbible.net/v2/textusreceptus/45/1.json",
-    "sha": "c9eb7889236e670d7a31b0693c60f0c89bc2e3b1"
+    "sha": "4e36a33b251ace5edcc460efa5b8fe7e6f2dcb93"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Προς Ρωμαίους 7",
     "url": "https://api.getbible.net/v2/textusreceptus/45/7.json",
-    "sha": "87bb41f3b0c0f7adf325dab0aee2fd789087de6e"
+    "sha": "34c4bab50c977a3d63c57a4d1e01caa6b2667220"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Προς Ρωμαίους 8",
     "url": "https://api.getbible.net/v2/textusreceptus/45/8.json",
-    "sha": "b0608c56996ed69d7803cbf2621c0c092dcc4003"
+    "sha": "6b4d479143585aed41bd1cc1f46448a06e7d58fb"
   },
   "9": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Προς Ρωμαίους 11",
     "url": "https://api.getbible.net/v2/textusreceptus/45/11.json",
-    "sha": "5bdca81d704bfcfb564c12c6756080e11ebb928b"
+    "sha": "086ab8ddbfb1b577dc29e0226111fcf70de12fd5"
   },
   "12": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Προς Ρωμαίους 12",
     "url": "https://api.getbible.net/v2/textusreceptus/45/12.json",
-    "sha": "62c2a00673bc1b106e87d288baf7638b369501a2"
+    "sha": "bfc3c4938a0ebf14b682146184b45e9583a17edd"
   },
   "13": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -221,6 +221,6 @@
     "chapter": 16,
     "name": "Προς Ρωμαίους 16",
     "url": "https://api.getbible.net/v2/textusreceptus/45/16.json",
-    "sha": "f7dfc5b9db14ab01efc80d6897b8228dc1eced92"
+    "sha": "1ae1dcfc759a635d558064846005592f8ada4ec2"
   }
 }

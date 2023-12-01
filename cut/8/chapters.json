@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "路得記 1",
     "url": "https://api.getbible.net/v2/cut/8/1.json",
-    "sha": "39d26a319e87ce79575c495369abf5ca8cd1ae4f"
+    "sha": "84f50ac7d77c39d7ec1b99effdf22413afab104b"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "路得記 2",
     "url": "https://api.getbible.net/v2/cut/8/2.json",
-    "sha": "b29714328800de0304dd7a9058d5e40642ffac2b"
+    "sha": "fe954320b022af9e7cd1f8494c17f6c29773c7dd"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "路得記 3",
     "url": "https://api.getbible.net/v2/cut/8/3.json",
-    "sha": "8de9f49de0a9ac2f9d2679a247e459ac5e84ac83"
+    "sha": "d681b868d953dee9de3c5bad79e64ba6b40e6e6a"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "路得記 4",
     "url": "https://api.getbible.net/v2/cut/8/4.json",
-    "sha": "df337174a2cbde27bc1e8d7087c4db6705e3efe1"
+    "sha": "c90f10924ac5e3c0b1d3abbb690de332a4d2d9da"
   }
 }

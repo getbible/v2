@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 36,
     "book_name": "Zephaniah",
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://api.getbible.net/v2/akjv/36/1.json",
-    "sha": "77932265999aaf2ca51e29c1353059ceed947f07"
+    "sha": "f772bbd7bb88cfd15ca0e553c30f362fffc10fc8"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 36,
     "book_name": "Zephaniah",
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://api.getbible.net/v2/akjv/36/2.json",
-    "sha": "cf21042e25f42ec4c717313f9f41e78fb83dabdd"
+    "sha": "c1ad36bff0fc3bbd4290a5403c453841a5e19703"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,12 +33,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 36,
     "book_name": "Zephaniah",
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://api.getbible.net/v2/akjv/36/3.json",
-    "sha": "e210e45cb01e05061545ef895e7e019ecf4455ef"
+    "sha": "b0a2a340f040f73f6cb4fd09d5fead6beebacdfb"
   }
 }

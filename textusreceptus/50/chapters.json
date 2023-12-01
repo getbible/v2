@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Προς Φιλιππησίους 1",
     "url": "https://api.getbible.net/v2/textusreceptus/50/1.json",
-    "sha": "47347c60468d011c8c9128d13de182a3e343ed5d"
+    "sha": "92893a59518942d601a2849b5487630e250bc7ae"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Προς Φιλιππησίους 4",
     "url": "https://api.getbible.net/v2/textusreceptus/50/4.json",
-    "sha": "1fcdd4d755c882c1706964062f135184c5b9814d"
+    "sha": "4b2d9735f1ce0714102fe5b38e0702d08956cd6b"
   }
 }

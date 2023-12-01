@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "约珥书 1",
     "url": "https://api.getbible.net/v2/cus/29/1.json",
-    "sha": "9d1c5cfabd484b3581200ced2305ee78fb42c0a5"
+    "sha": "0ad6d37109232d0ace1842a1a92df60f201d09a6"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "约珥书 2",
     "url": "https://api.getbible.net/v2/cus/29/2.json",
-    "sha": "15dfa92324835408258629bc09b213a2a324ba77"
+    "sha": "eceaabc6c680f2e3d0ed4d496b8897f93f015894"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "约珥书 3",
     "url": "https://api.getbible.net/v2/cus/29/3.json",
-    "sha": "64ed3b255bc26d0da1bf0a8bbe6480c490b60415"
+    "sha": "b4b163cb04ec5b2530f769826399c005c8d5e0c7"
   }
 }

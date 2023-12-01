@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://api.getbible.net/v2/akjv/30/1.json",
-    "sha": "b1a7bc3ed9402e90f59484be2340fd20f96fe4d0"
+    "sha": "42651975a442e9586273dd0427edbf9caab65add"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://api.getbible.net/v2/akjv/30/2.json",
-    "sha": "fe8447845ecf6eebca5d0fb11df8740f4c4aff7a"
+    "sha": "edee49232da139614bddedb4193ba40e52a74d93"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://api.getbible.net/v2/akjv/30/3.json",
-    "sha": "3d726e551cefc0a2fac5e09f8f1952d0c18a04f9"
+    "sha": "9592e902cd599ac07ffe0d0cd9283907d36cfb37"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://api.getbible.net/v2/akjv/30/4.json",
-    "sha": "50a50000e33fd6f81add63dc306175f4ce36608c"
+    "sha": "7b493cdf88189d0135653b6799720d602a990005"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://api.getbible.net/v2/akjv/30/5.json",
-    "sha": "e9d1ece546e6896dfc6357bf75ad5582680cedfa"
+    "sha": "017fcd44f7567559416c4a5355e47e9de732cd42"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://api.getbible.net/v2/akjv/30/6.json",
-    "sha": "9fc5ca1b1c63b8275410e960e322b05a02be0566"
+    "sha": "543fc9cfe75ec58483b838405ca70bd6cb51b563"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://api.getbible.net/v2/akjv/30/7.json",
-    "sha": "e11355e258a918bb56450dc3db1fdf26e34ced86"
+    "sha": "425ad4698d4398f1147e0b6979411d1874b3f1b6"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://api.getbible.net/v2/akjv/30/8.json",
-    "sha": "aca14f9dbf43dfd220431f9acc449c0456607f28"
+    "sha": "0a0e79d4af85868e1c93fdfb1a53d69f3dbb6c3b"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,12 +117,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 30,
     "book_name": "Amos",
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://api.getbible.net/v2/akjv/30/9.json",
-    "sha": "904ebc4941e4f3ba5095514b4265c250d99cc5f6"
+    "sha": "67add7f4c5d8bb0e74e9b7856889bbb19d9f8e57"
   }
 }

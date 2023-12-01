@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "耶利米哀歌 1",
     "url": "https://api.getbible.net/v2/cus/25/1.json",
-    "sha": "3b44a92d13b593e6ba13d641b12ae03ec540195f"
+    "sha": "609940b6ca3e99aac5db863c2c3cca9fa7486fc0"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "耶利米哀歌 2",
     "url": "https://api.getbible.net/v2/cus/25/2.json",
-    "sha": "e1c3b715c5833a7c084e64cea1ca29a370c6a710"
+    "sha": "02dd2e532b7fe5a6ea6c1d1336efe0881f057c12"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "耶利米哀歌 3",
     "url": "https://api.getbible.net/v2/cus/25/3.json",
-    "sha": "0993ddbc2e3c52358ff88d549383e27ea89c65d2"
+    "sha": "464ea74fe5c6f7ee561ac76f95d82a23bad073bf"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "耶利米哀歌 4",
     "url": "https://api.getbible.net/v2/cus/25/4.json",
-    "sha": "b50a2189f64ff98fcce24983b6fcc33bad5c178d"
+    "sha": "dbb3e379d8a0b3ea080331e9a771c562dcbc280e"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "耶利米哀歌 5",
     "url": "https://api.getbible.net/v2/cus/25/5.json",
-    "sha": "0ae2cb271f2b89ebf52983fb55da8f256dd1f2b4"
+    "sha": "21a68cf872e5a23bc4d59ec10acfedd970500324"
   }
 }

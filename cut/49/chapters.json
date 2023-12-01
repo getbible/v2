@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "以弗所書 1",
     "url": "https://api.getbible.net/v2/cut/49/1.json",
-    "sha": "5651bb36fcc5c2796e633f7e19bfecf3dc934fd8"
+    "sha": "ffbc529805660b73f0ffd6985d3a390ccaf66cb5"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "以弗所書 2",
     "url": "https://api.getbible.net/v2/cut/49/2.json",
-    "sha": "64627752a3e58d31d19edd970cfe3418e8c12b0b"
+    "sha": "a4aac759aa1acb2e31d9139151d5616b1c44494b"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "以弗所書 3",
     "url": "https://api.getbible.net/v2/cut/49/3.json",
-    "sha": "dbff722d00b0ba0668c283d7edd1fcc4d4a30731"
+    "sha": "fdfbe60cec6bd5e2c2acd603d345029aa632e233"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "以弗所書 4",
     "url": "https://api.getbible.net/v2/cut/49/4.json",
-    "sha": "483eb58bd023259dedaa167592213488ebcba243"
+    "sha": "dd140630b0fe689121532588d080d7d9e8244e98"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "以弗所書 5",
     "url": "https://api.getbible.net/v2/cut/49/5.json",
-    "sha": "f80ee8c3c39f4558efd10b479ecf1e733df93378"
+    "sha": "15d478a6797b4ed305a93485dcc6ac8b800c4292"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "以弗所書 6",
     "url": "https://api.getbible.net/v2/cut/49/6.json",
-    "sha": "7f4c9048916a55c1ad4169d5153b333d609b6e0e"
+    "sha": "41f5c6a9a949caa6a0d2ba00356924ed1e9e9847"
   }
 }

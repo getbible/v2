@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "腓立比书 1",
     "url": "https://api.getbible.net/v2/cus/50/1.json",
-    "sha": "67a688b816a4fd0f645498d69bf0df81cd4982cf"
+    "sha": "0aa14ecbaefdd0ec4225b0c25fdf923eee8115f2"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "腓立比书 2",
     "url": "https://api.getbible.net/v2/cus/50/2.json",
-    "sha": "f27897cefb8ace7102615db191458f87ac87984c"
+    "sha": "7924f01143eca9e3e2f1b8883a28d32339be490a"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "腓立比书 3",
     "url": "https://api.getbible.net/v2/cus/50/3.json",
-    "sha": "1046fc63a7cb7ae908f521ed61f4b739508ce5f8"
+    "sha": "d6fde468831f89c652cec17a6a8bbb8ff54deaf6"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "腓立比书 4",
     "url": "https://api.getbible.net/v2/cus/50/4.json",
-    "sha": "3e2035feee0f12ccd2f0e08dd8a7ef6486b83f59"
+    "sha": "b3e79b2ba2198bc0882f2e847da01a0019681960"
   }
 }

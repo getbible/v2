@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "雅各书 1",
     "url": "https://api.getbible.net/v2/cus/59/1.json",
-    "sha": "0d72f87d7a29b72701d91eb8a0df20ba97b86edd"
+    "sha": "4aa0ec9609fea40a437003aff7d9d725d287adb1"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "雅各书 2",
     "url": "https://api.getbible.net/v2/cus/59/2.json",
-    "sha": "baa062ea58e4b66014234fe85c6ad89b3ea0aea1"
+    "sha": "2054c2ae2a9f77c81cac037613c4717096055b17"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "雅各书 3",
     "url": "https://api.getbible.net/v2/cus/59/3.json",
-    "sha": "1b33a92c31bd1511196d9047ef07d94d71570354"
+    "sha": "312d535218cdd683db481d74cfa26f0ecce46f78"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "雅各书 4",
     "url": "https://api.getbible.net/v2/cus/59/4.json",
-    "sha": "19518d72a6ae65a35b96b1a2d4d9bc6f967110e3"
+    "sha": "3dfc3803a49a94f66e2359e19fe7e1bc8653d426"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "雅各书 5",
     "url": "https://api.getbible.net/v2/cus/59/5.json",
-    "sha": "d27d670ea148c1695d652890543c6f846a2dbdf4"
+    "sha": "ad8cb065b421b9ab568de450794800b34bd601aa"
   }
 }

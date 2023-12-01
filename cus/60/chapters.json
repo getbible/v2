@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "彼得前书 1",
     "url": "https://api.getbible.net/v2/cus/60/1.json",
-    "sha": "f24d5f6f507bc965eb66746623cafc6de1ad26f1"
+    "sha": "1edc0b03c9fb27c3b7606dc7dfeed97ee031ce18"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "彼得前书 2",
     "url": "https://api.getbible.net/v2/cus/60/2.json",
-    "sha": "7408fac885b351ee196c6df7875c840f597713f8"
+    "sha": "62b40d34e7d9b5bbc7e036e10a8921cb34b40c66"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "彼得前书 3",
     "url": "https://api.getbible.net/v2/cus/60/3.json",
-    "sha": "29c9e2510ba0b0297b4ff58811b85b103886e383"
+    "sha": "5d5c24cede00740ec99aba7c0f762aec01501521"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "彼得前书 4",
     "url": "https://api.getbible.net/v2/cus/60/4.json",
-    "sha": "838b7df50002b671d2edb5de1e8643dc07daa372"
+    "sha": "b9f4bce47aafba2be7812e5a0ae8a220595080cd"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "彼得前书 5",
     "url": "https://api.getbible.net/v2/cus/60/5.json",
-    "sha": "affa2ea3a96efc74f8d8b067fb21039a6ea6db32"
+    "sha": "e387b13f11c727cd38b9353ae5d9dcabf283ad46"
   }
 }

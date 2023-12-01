@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 1,
     "name": "Numbers 1",
     "url": "https://api.getbible.net/v2/akjv/4/1.json",
-    "sha": "c134751b66e5f7da2c5fff1c72d991c9730e52ce"
+    "sha": "6dd54535f52bf0c22e2a7bae014c7d628ffea098"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 2,
     "name": "Numbers 2",
     "url": "https://api.getbible.net/v2/akjv/4/2.json",
-    "sha": "2041772cc07e763901eaf9084f8a826ee3d59ba4"
+    "sha": "2e872b36d4fab22976f32fb6efc41642ba229f35"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 3,
     "name": "Numbers 3",
     "url": "https://api.getbible.net/v2/akjv/4/3.json",
-    "sha": "8e4b5cd40c64d713e15f5577dd7954f1e3cc3a44"
+    "sha": "10c1cf3cdba2912a09251f7181595fe55024465b"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 4,
     "name": "Numbers 4",
     "url": "https://api.getbible.net/v2/akjv/4/4.json",
-    "sha": "2aaeffc6c60f993657120f2576f9aad0c0c41c21"
+    "sha": "96104556dad09d3e3e9d746d205909c960125475"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 5,
     "name": "Numbers 5",
     "url": "https://api.getbible.net/v2/akjv/4/5.json",
-    "sha": "25c91212d6ed5b58f72bd5eb2ffb47068cb1773d"
+    "sha": "5cb8a5691feb9f9b5fdd61f86604f686e88664a7"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 6,
     "name": "Numbers 6",
     "url": "https://api.getbible.net/v2/akjv/4/6.json",
-    "sha": "fea0a8e3565424623547f83baa26552b359baf46"
+    "sha": "30626f9698ee5319638d9dab7cd7d8467a31807c"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 7,
     "name": "Numbers 7",
     "url": "https://api.getbible.net/v2/akjv/4/7.json",
-    "sha": "859f25f43c9d1731ef01f4d17ae9160959e0948b"
+    "sha": "da267f5d2d56154f730e9f5ab31bca3fcca61b0f"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 8,
     "name": "Numbers 8",
     "url": "https://api.getbible.net/v2/akjv/4/8.json",
-    "sha": "db65e232b9c91387a5250e05445b0a2ad01d8a67"
+    "sha": "3dddbdd787a700cc0e811fdde3be953ec29b84c1"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 9,
     "name": "Numbers 9",
     "url": "https://api.getbible.net/v2/akjv/4/9.json",
-    "sha": "0d795179c0f3670fb95486e5358e948685d779a1"
+    "sha": "6057822dcb222f7aacfe4a1b1514a09567f2dee8"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 10,
     "name": "Numbers 10",
     "url": "https://api.getbible.net/v2/akjv/4/10.json",
-    "sha": "93dba22de357ec7eb2ff0212efeb1d9bc88fcceb"
+    "sha": "c9ef5f29bc892294aec44f0037d8871ab4edc8b3"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 11,
     "name": "Numbers 11",
     "url": "https://api.getbible.net/v2/akjv/4/11.json",
-    "sha": "8b47db7dc5fad4e1530ac8d7bd5c58c68b590f46"
+    "sha": "39234055d845892ac90520f0624046989de32789"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 12,
     "name": "Numbers 12",
     "url": "https://api.getbible.net/v2/akjv/4/12.json",
-    "sha": "03234a8b63429070f6cf822b8104c436e93c9918"
+    "sha": "d8835edb61b5990700f8c5428ff19e493b2daad5"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 13,
     "name": "Numbers 13",
     "url": "https://api.getbible.net/v2/akjv/4/13.json",
-    "sha": "f2bfc8aa2d24abfa5bb02fcc99e31d25ab469436"
+    "sha": "77853557d550a5b9f96ef157503182774c7a620f"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 14,
     "name": "Numbers 14",
     "url": "https://api.getbible.net/v2/akjv/4/14.json",
-    "sha": "59109ce5ccb2e1ff80334e49443536d2c95e39b6"
+    "sha": "1765785b5fcd1377a55ef292e22f037105d81f6f"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 15,
     "name": "Numbers 15",
     "url": "https://api.getbible.net/v2/akjv/4/15.json",
-    "sha": "fe2cd1b0dfd95233435fabd09e1ee98bafc0959e"
+    "sha": "dbb3de6d47832292ec71c1b54d24620d70e88fce"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 16,
     "name": "Numbers 16",
     "url": "https://api.getbible.net/v2/akjv/4/16.json",
-    "sha": "dfd31cad21177fb35eeb927e42493d174f68a55e"
+    "sha": "2a7babc3ead606c0a82fde7b69ffee5efe38562c"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 17,
     "name": "Numbers 17",
     "url": "https://api.getbible.net/v2/akjv/4/17.json",
-    "sha": "30b44662ba5285312e38e8e82868631af269e1c4"
+    "sha": "40889e19382008de3e2afdbcf5db26cd74010372"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 18,
     "name": "Numbers 18",
     "url": "https://api.getbible.net/v2/akjv/4/18.json",
-    "sha": "98a56ae592e3d8c155970d8d1d784a63493c97e3"
+    "sha": "0524491388437c323a751aec5e458ce66b2eef0e"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 19,
     "name": "Numbers 19",
     "url": "https://api.getbible.net/v2/akjv/4/19.json",
-    "sha": "c9cccf6056f4d54cf385fd85e61c592d7d9ab1cb"
+    "sha": "99bf5de385ae505736aa6ca163dc184acfd7ca6a"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 20,
     "name": "Numbers 20",
     "url": "https://api.getbible.net/v2/akjv/4/20.json",
-    "sha": "b3ac19ced739104278afae51bc37bce8aac46a0d"
+    "sha": "4cfada94c076cac4caf2d88e6cd9f5eabaf416c8"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 21,
     "name": "Numbers 21",
     "url": "https://api.getbible.net/v2/akjv/4/21.json",
-    "sha": "14f166ec1c1c8af40ba489b8222d6ed118792374"
+    "sha": "ddfa3f1e5809c6fbc3a7cd352a67a1adc5ac6acd"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 22,
     "name": "Numbers 22",
     "url": "https://api.getbible.net/v2/akjv/4/22.json",
-    "sha": "6ff98c894ab685d06ef5a9dc552b1964cb5d0db2"
+    "sha": "084b902dbaa75022a3e43a66e9fb3c3cc42f8ded"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 23,
     "name": "Numbers 23",
     "url": "https://api.getbible.net/v2/akjv/4/23.json",
-    "sha": "877427907bd888d7756d1d28bf19f2f4230d1f4d"
+    "sha": "4bfa257ab89106945ce2a48de8846ffc9b42d0a3"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 24,
     "name": "Numbers 24",
     "url": "https://api.getbible.net/v2/akjv/4/24.json",
-    "sha": "94fd86368c26c00aa421d3e22249954e67e89830"
+    "sha": "fb245ce4476052d1fdcf94fe5f9fe40266417421"
   },
   "25": {
     "translation": "American King James Version",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 25,
     "name": "Numbers 25",
     "url": "https://api.getbible.net/v2/akjv/4/25.json",
-    "sha": "5837c36b26363fe1c7817a556f261f8dd504a0b7"
+    "sha": "c7a79dcd05897325c5e597275154020cbedcb019"
   },
   "26": {
     "translation": "American King James Version",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 26,
     "name": "Numbers 26",
     "url": "https://api.getbible.net/v2/akjv/4/26.json",
-    "sha": "066a98605503182af5ad1d2043857d6847f0c76d"
+    "sha": "2b76a439db8b72c43bf804a24408af2a04af66d7"
   },
   "27": {
     "translation": "American King James Version",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 27,
     "name": "Numbers 27",
     "url": "https://api.getbible.net/v2/akjv/4/27.json",
-    "sha": "4751894a31660b3aafe256dda0c0a6ae18e7e1bb"
+    "sha": "4f57de7996b42cac997e8c68daacd408f1bfcec4"
   },
   "28": {
     "translation": "American King James Version",
@@ -383,13 +383,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 28,
     "name": "Numbers 28",
     "url": "https://api.getbible.net/v2/akjv/4/28.json",
-    "sha": "5fbeff8a67882f30bbedc1932d96baccef707a39"
+    "sha": "a451c47d4a80b460d7fbaaf8b8aa64625fbb201a"
   },
   "29": {
     "translation": "American King James Version",
@@ -397,13 +397,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 29,
     "name": "Numbers 29",
     "url": "https://api.getbible.net/v2/akjv/4/29.json",
-    "sha": "d0fd2b21cde511e02f20a5d7e5b92316a6d9cf42"
+    "sha": "e001a39aa47287d0be90f985f4bf5078d673338f"
   },
   "30": {
     "translation": "American King James Version",
@@ -411,13 +411,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 30,
     "name": "Numbers 30",
     "url": "https://api.getbible.net/v2/akjv/4/30.json",
-    "sha": "445d60aea2c0a2cc93382bd998979bc85b15b827"
+    "sha": "f838cf400da4589cb68c68a2990b0205b712b1d0"
   },
   "31": {
     "translation": "American King James Version",
@@ -425,13 +425,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 31,
     "name": "Numbers 31",
     "url": "https://api.getbible.net/v2/akjv/4/31.json",
-    "sha": "87834e5921158e1900b21fbcc142c5abba2f7b27"
+    "sha": "a42d60daed4900fc458ae966ccc27337e54c2cd7"
   },
   "32": {
     "translation": "American King James Version",
@@ -439,13 +439,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 32,
     "name": "Numbers 32",
     "url": "https://api.getbible.net/v2/akjv/4/32.json",
-    "sha": "d7a229c8fdc5601d0c52deccf1e13a22ed57fe10"
+    "sha": "ddc4a5d3ea01084cf7aaa37ed58964b2e056f690"
   },
   "33": {
     "translation": "American King James Version",
@@ -453,13 +453,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 33,
     "name": "Numbers 33",
     "url": "https://api.getbible.net/v2/akjv/4/33.json",
-    "sha": "638dc82bf242e9c7cf811675bd8b6ce2416e5800"
+    "sha": "3981729c9bbc38451e42b6a7f8cfe7e282c472ee"
   },
   "34": {
     "translation": "American King James Version",
@@ -467,13 +467,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 34,
     "name": "Numbers 34",
     "url": "https://api.getbible.net/v2/akjv/4/34.json",
-    "sha": "a9a004d38b323fde55e22b5ff15047552ff2f6a2"
+    "sha": "dec4b54e6a08ab14093e0187b01c128c533915a6"
   },
   "35": {
     "translation": "American King James Version",
@@ -481,13 +481,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 35,
     "name": "Numbers 35",
     "url": "https://api.getbible.net/v2/akjv/4/35.json",
-    "sha": "004779c10b86234786b4607e722a9c21c40de5d7"
+    "sha": "e58174b125a30d7f08c15685126c5b2ff5d12f51"
   },
   "36": {
     "translation": "American King James Version",
@@ -495,12 +495,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 4,
     "book_name": "Numbers",
     "chapter": 36,
     "name": "Numbers 36",
     "url": "https://api.getbible.net/v2/akjv/4/36.json",
-    "sha": "7eba66b5ebe2428528872b0477b47b3617c11f27"
+    "sha": "89ce1c2bc810a95ddda5c4eeb92a82834ac5599a"
   }
 }

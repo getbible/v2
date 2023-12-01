@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Προς Εβραίους 1",
     "url": "https://api.getbible.net/v2/textusreceptus/58/1.json",
-    "sha": "5467d97786caaf8e05cb534cd81f53fe400dac5c"
+    "sha": "0d29f9d7aa097c6e307c7ee54428518c358eca8d"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Προς Εβραίους 3",
     "url": "https://api.getbible.net/v2/textusreceptus/58/3.json",
-    "sha": "33dabc054b0d0aa02682458fd57111b29bd5441d"
+    "sha": "d16fb448b6954be23e365f0d3feb791da0e7ce43"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Προς Εβραίους 4",
     "url": "https://api.getbible.net/v2/textusreceptus/58/4.json",
-    "sha": "5e3f8088096ab2dffc62f1df2672f51d74f3c7e9"
+    "sha": "8a8605a9f1adb5ea42c563c58aadc781ce565a89"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Προς Εβραίους 6",
     "url": "https://api.getbible.net/v2/textusreceptus/58/6.json",
-    "sha": "cade7331fda1d045f8a2143e181322d11a9234dd"
+    "sha": "7430b1cd94c58a2e439a5750f728f0c1fd651e30"
   },
   "7": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Προς Εβραίους 7",
     "url": "https://api.getbible.net/v2/textusreceptus/58/7.json",
-    "sha": "a9468fe6d3f92588476ecad19eaa559e4a97bfb2"
+    "sha": "e725c8c9124911cecc6ae5e77bdc384e5c784f7a"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Προς Εβραίους 9",
     "url": "https://api.getbible.net/v2/textusreceptus/58/9.json",
-    "sha": "c42df89c135c0a83ef7220c2126e32b20493a0c4"
+    "sha": "28f3edda99a67321c54a24238cce91f83209fcaa"
   },
   "10": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Προς Εβραίους 10",
     "url": "https://api.getbible.net/v2/textusreceptus/58/10.json",
-    "sha": "f4f9360138f57045301ff7cb8d321cc069c5d912"
+    "sha": "f1ebf140c1a41fb448ec49c5cc393cd2c986a7d7"
   },
   "11": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Προς Εβραίους 11",
     "url": "https://api.getbible.net/v2/textusreceptus/58/11.json",
-    "sha": "187c85052112412d08bc26c030b54486a64c8496"
+    "sha": "b807f13c253bd287f2bea6080ecea4cf21cdacec"
   },
   "12": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Προς Εβραίους 12",
     "url": "https://api.getbible.net/v2/textusreceptus/58/12.json",
-    "sha": "e0ccae61f3b0ee5e893e3adc699aa827f2754187"
+    "sha": "67f5ffcc93cdc29ee3cf375bacefc5e23d27a537"
   },
   "13": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Προς Εβραίους 13",
     "url": "https://api.getbible.net/v2/textusreceptus/58/13.json",
-    "sha": "2c0ec27e573eac8d3abd63483b8372e948866bd9"
+    "sha": "00a3b22858451ad3160c270e229699e85a036b23"
   }
 }

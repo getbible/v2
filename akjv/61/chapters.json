@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://api.getbible.net/v2/akjv/61/1.json",
-    "sha": "66ad250824af4c9f9bd5a7c39a6bfee90ae6682d"
+    "sha": "ff98990da3e82ea1c83ccc4cc7034ac96ce21a5d"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://api.getbible.net/v2/akjv/61/2.json",
-    "sha": "2f0d958ae116be44c1bff979a9d04c2d3880841c"
+    "sha": "f3e6fdaf0f38acdcb668e8142d1be26a8161e605"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,12 +33,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 61,
     "book_name": "2 Peter",
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://api.getbible.net/v2/akjv/61/3.json",
-    "sha": "ace743924cb073b769f5b4a4d44f814dfb05b6e8"
+    "sha": "b552ee0677cd2dbf0d7da480ef78a2d2cfcd0f5a"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "西番雅書 1",
     "url": "https://api.getbible.net/v2/cut/36/1.json",
-    "sha": "d9107036ecb131befd71f897f820dd8f556e057f"
+    "sha": "a5b7f54e0f8091c353954f9cdf97b22394077996"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "西番雅書 2",
     "url": "https://api.getbible.net/v2/cut/36/2.json",
-    "sha": "748632baaccc95e889924dfbeb0859b1e89158b5"
+    "sha": "67b72a063e23f4e6fa2e52b5b4acf1c0f4783231"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "西番雅書 3",
     "url": "https://api.getbible.net/v2/cut/36/3.json",
-    "sha": "8682df6a4f0fd4110f2fbbc0c447ee628986957b"
+    "sha": "d8efc89aedacb3f350713a9910ae56fce75a47f7"
   }
 }

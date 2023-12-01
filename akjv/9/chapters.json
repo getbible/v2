@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 1,
     "name": "1 Samuel 1",
     "url": "https://api.getbible.net/v2/akjv/9/1.json",
-    "sha": "db6c4ade8dac98a6bc7dae06277ce1a20c631d89"
+    "sha": "3bc5643682b351f8e8daf80af8c230e7d7bd4563"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 2,
     "name": "1 Samuel 2",
     "url": "https://api.getbible.net/v2/akjv/9/2.json",
-    "sha": "c538056d853c4c1c7ecf4d1f6952fe57b767699b"
+    "sha": "6ed2bc069fc8a6197ed6b669770fbd04d98c198e"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 3,
     "name": "1 Samuel 3",
     "url": "https://api.getbible.net/v2/akjv/9/3.json",
-    "sha": "33a453edbdd6b07bf0b4edfb3a0595645bf3da12"
+    "sha": "01c052a9933876d64eecd591d7a31faa323ebf7a"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 4,
     "name": "1 Samuel 4",
     "url": "https://api.getbible.net/v2/akjv/9/4.json",
-    "sha": "f535fe6530912615b0e57a6754c831a74689a482"
+    "sha": "2a6b8c2fc37593efada119108a1ff44835ce25ad"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 5,
     "name": "1 Samuel 5",
     "url": "https://api.getbible.net/v2/akjv/9/5.json",
-    "sha": "c6cff8681b5775ddc4958c84c947004e29893431"
+    "sha": "8c93c9c4fc2f29e2159f48ac47b9b8ce08764570"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 6,
     "name": "1 Samuel 6",
     "url": "https://api.getbible.net/v2/akjv/9/6.json",
-    "sha": "4401e5195df904a7751f9a994b19460666186753"
+    "sha": "b62aef1ed4f31e26f9ddd51caab8b3eaf1b442ea"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 7,
     "name": "1 Samuel 7",
     "url": "https://api.getbible.net/v2/akjv/9/7.json",
-    "sha": "010cd4ca674d676149a08736a264da8ba39b336b"
+    "sha": "4f71cc037ee61b7b2ecabf6625bdfe5b0f670f85"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 8,
     "name": "1 Samuel 8",
     "url": "https://api.getbible.net/v2/akjv/9/8.json",
-    "sha": "3472bf3acc6a82a61469dfa56ab235c90d15d04d"
+    "sha": "1382147c12395e644dc63db9a7e7ea4ced6507bb"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 9,
     "name": "1 Samuel 9",
     "url": "https://api.getbible.net/v2/akjv/9/9.json",
-    "sha": "680453da1a264462b184ce84d7d81faeefa6d88a"
+    "sha": "62b18cbd9e237ebc2d2b224e7e7794deaba2c1ef"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 10,
     "name": "1 Samuel 10",
     "url": "https://api.getbible.net/v2/akjv/9/10.json",
-    "sha": "d012e5e58ba6aa5c18f6da66fa3205838bcf6032"
+    "sha": "4cdad1847331ad9c232a63f4963be6641f0b8b39"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 11,
     "name": "1 Samuel 11",
     "url": "https://api.getbible.net/v2/akjv/9/11.json",
-    "sha": "e80b0b955e2c4df2a3b28559b43175a3c2b24413"
+    "sha": "5d5244be7341eb6743a02c71099ae697137b73d8"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 12,
     "name": "1 Samuel 12",
     "url": "https://api.getbible.net/v2/akjv/9/12.json",
-    "sha": "4d19287d2965c228b477b082f7fc0482de27fe69"
+    "sha": "66c0f2f083184993fb60d7646e74d4a4493236dd"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 13,
     "name": "1 Samuel 13",
     "url": "https://api.getbible.net/v2/akjv/9/13.json",
-    "sha": "08c3c8c225a038d6a5e6a512fccfc6f45674f125"
+    "sha": "39cce4a224921e488fe0dcd37273389c8b972630"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 14,
     "name": "1 Samuel 14",
     "url": "https://api.getbible.net/v2/akjv/9/14.json",
-    "sha": "f1e5a9333ea6994a0f40a3b6180e52c0bcbe4814"
+    "sha": "719b8fcb6be13d0d5efddc2229f7c5724d4548ce"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 15,
     "name": "1 Samuel 15",
     "url": "https://api.getbible.net/v2/akjv/9/15.json",
-    "sha": "8238ba7dfcb1ebea9ac9c5bbc84ea1bd0a8c1040"
+    "sha": "91dfef64c9c33fe01a8254094dee7ad6b6737c74"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 16,
     "name": "1 Samuel 16",
     "url": "https://api.getbible.net/v2/akjv/9/16.json",
-    "sha": "ab96a89f7c49744b9fb4ee1562faf978b708f896"
+    "sha": "74e25622117b17a6effc145f4c575d6c28f00b95"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 17,
     "name": "1 Samuel 17",
     "url": "https://api.getbible.net/v2/akjv/9/17.json",
-    "sha": "613814cb207f9d2291f12353fdf6e74ee71e1650"
+    "sha": "527e2b4de4105ae9a140b4a9a828123acb437e00"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 18,
     "name": "1 Samuel 18",
     "url": "https://api.getbible.net/v2/akjv/9/18.json",
-    "sha": "7c896ff110f7ebb410b1268926226c60b6c25533"
+    "sha": "eb4f5c7f2e73435e7f1f5819988e0ec3b5c4946f"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 19,
     "name": "1 Samuel 19",
     "url": "https://api.getbible.net/v2/akjv/9/19.json",
-    "sha": "a5934fd1c1f30949f59fc9bb6163041b57476678"
+    "sha": "afbccab3189e906c15ea53411a4b3ef141027e0c"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 20,
     "name": "1 Samuel 20",
     "url": "https://api.getbible.net/v2/akjv/9/20.json",
-    "sha": "4aca21fb605847b99dd07b77e6c4f3d956e4ed96"
+    "sha": "dfb8185d7b7be1e5edc5de8aeaf1c1cb5fc3aa8f"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 21,
     "name": "1 Samuel 21",
     "url": "https://api.getbible.net/v2/akjv/9/21.json",
-    "sha": "306d8151e5fc77b446438c40fbeed1e4902dddeb"
+    "sha": "95b5d0125b2dec184c1bd265ca1b2bef50360a82"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 22,
     "name": "1 Samuel 22",
     "url": "https://api.getbible.net/v2/akjv/9/22.json",
-    "sha": "828b8b5e4e2015918f751d278bca00b7c9a25b06"
+    "sha": "2ada493b2bd35005d0421b933c645d933dbf1d77"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 23,
     "name": "1 Samuel 23",
     "url": "https://api.getbible.net/v2/akjv/9/23.json",
-    "sha": "c08bd8bbdd3f76322edbf09f9fe28d3a7092f165"
+    "sha": "5217dcf9be203d4880e3a89e752b64a020e83d86"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 24,
     "name": "1 Samuel 24",
     "url": "https://api.getbible.net/v2/akjv/9/24.json",
-    "sha": "7f506d0b8dc484409ae72616ba7faff680a28d88"
+    "sha": "4e0fed9f4b8932366aaa72eea437726b3f2f80f6"
   },
   "25": {
     "translation": "American King James Version",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 25,
     "name": "1 Samuel 25",
     "url": "https://api.getbible.net/v2/akjv/9/25.json",
-    "sha": "f539efe6522ee19e8e26782c43bd78868f262572"
+    "sha": "19b2d827496e3c9b4578fdc205d82094aa427696"
   },
   "26": {
     "translation": "American King James Version",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 26,
     "name": "1 Samuel 26",
     "url": "https://api.getbible.net/v2/akjv/9/26.json",
-    "sha": "04079d704a3b9aa2e6ea71c383ec8cfec522d65a"
+    "sha": "be948942bbfc9915bf932ad523dcadfddc0d7180"
   },
   "27": {
     "translation": "American King James Version",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 27,
     "name": "1 Samuel 27",
     "url": "https://api.getbible.net/v2/akjv/9/27.json",
-    "sha": "6614a5975114a45875c265bcc20967202b911581"
+    "sha": "f5c5fb078a461014e7b0120232d10e1b6401d0ca"
   },
   "28": {
     "translation": "American King James Version",
@@ -383,13 +383,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 28,
     "name": "1 Samuel 28",
     "url": "https://api.getbible.net/v2/akjv/9/28.json",
-    "sha": "99528e1aeafde4df44abd778f2044cb929e7e9fb"
+    "sha": "a297370aadb2f3507d987306470ba9a810768bc8"
   },
   "29": {
     "translation": "American King James Version",
@@ -397,13 +397,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 29,
     "name": "1 Samuel 29",
     "url": "https://api.getbible.net/v2/akjv/9/29.json",
-    "sha": "dbb7ab07bf7202873908d92825a2d483bf2c53f5"
+    "sha": "d5657002d12df6ea4245d5e4c54fd991306bcdd3"
   },
   "30": {
     "translation": "American King James Version",
@@ -411,13 +411,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 30,
     "name": "1 Samuel 30",
     "url": "https://api.getbible.net/v2/akjv/9/30.json",
-    "sha": "0d3c37c8d044d5d8b008a7f2554aecba71d1df90"
+    "sha": "ef33e7cb7f8db92b3f4900e8090fd427cb0d1622"
   },
   "31": {
     "translation": "American King James Version",
@@ -425,12 +425,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 9,
     "book_name": "1 Samuel",
     "chapter": 31,
     "name": "1 Samuel 31",
     "url": "https://api.getbible.net/v2/akjv/9/31.json",
-    "sha": "6223a9407fa21b746e9522280bad0be9484d7ad0"
+    "sha": "fe1ee73ef1a2dd64730d9916aebe2b1bdb3f4c1f"
   }
 }

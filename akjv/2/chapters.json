@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 1,
     "name": "Exodus 1",
     "url": "https://api.getbible.net/v2/akjv/2/1.json",
-    "sha": "f9850a4b945c7d9627f98a9ad4705095de6e10d7"
+    "sha": "f3dc40e10072965f769211738ce907abfc2a4d6d"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 2,
     "name": "Exodus 2",
     "url": "https://api.getbible.net/v2/akjv/2/2.json",
-    "sha": "89956f3a13c166ae0b3cfca2bfbf8c62bf7a3399"
+    "sha": "eee8d5ebc707a5d20230ac67f517b79af7c4b72d"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 3,
     "name": "Exodus 3",
     "url": "https://api.getbible.net/v2/akjv/2/3.json",
-    "sha": "cef95f79e602f5a9b67f8d4ceb859a68d535f08e"
+    "sha": "103d92f411137833cd193f5a0394762297ed297b"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 4,
     "name": "Exodus 4",
     "url": "https://api.getbible.net/v2/akjv/2/4.json",
-    "sha": "e81b6704523a283685417432c0f2641ef5df6f0f"
+    "sha": "8e6b6a54e70aaef7ef3bc0717e957c5effaf3eea"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 5,
     "name": "Exodus 5",
     "url": "https://api.getbible.net/v2/akjv/2/5.json",
-    "sha": "a217d4109c95ff58e0ada80009c74fcb8d540e2b"
+    "sha": "e0d8769bfcd81a78031f1a0325f1d81c8fc3e443"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 6,
     "name": "Exodus 6",
     "url": "https://api.getbible.net/v2/akjv/2/6.json",
-    "sha": "b764560d6d8e6e9fbf7b4c2d750ad2069cca9e2a"
+    "sha": "1e123f9c9d0c5c810ec57be4d50331dbfe03d245"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 7,
     "name": "Exodus 7",
     "url": "https://api.getbible.net/v2/akjv/2/7.json",
-    "sha": "253725a6317be7e8d5de20a4a2258f7e8076e739"
+    "sha": "1b4f19d27f1eca32ca4fd53b158abe7edfa240f0"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 8,
     "name": "Exodus 8",
     "url": "https://api.getbible.net/v2/akjv/2/8.json",
-    "sha": "9fc75e7387a67d6f0ef497422062dcfb76f0b155"
+    "sha": "a0fe58dbd4ab364ff9aba97dc1cdd60a61961633"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 9,
     "name": "Exodus 9",
     "url": "https://api.getbible.net/v2/akjv/2/9.json",
-    "sha": "b320ea8c1e6392bb9543c13f79cfb488246eff73"
+    "sha": "ef38499819d63dcb2563171fac54c47e47d3e6dc"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 10,
     "name": "Exodus 10",
     "url": "https://api.getbible.net/v2/akjv/2/10.json",
-    "sha": "8d99749b05cc311578b2e4533490c0388397e87d"
+    "sha": "903d3b4aaa548f0322e45cdeb3f2456d54aea626"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 11,
     "name": "Exodus 11",
     "url": "https://api.getbible.net/v2/akjv/2/11.json",
-    "sha": "ac9b97106c00cacbd2602ddad44ea7c47dc64219"
+    "sha": "b69e07746d3b2a152ce8163128166e15d21e2205"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 12,
     "name": "Exodus 12",
     "url": "https://api.getbible.net/v2/akjv/2/12.json",
-    "sha": "0cb912f4ef06ef77748ba8ff5520a7434bc59726"
+    "sha": "c9d141f03a88a92ed1fb8e2d570f487ab73048e9"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 13,
     "name": "Exodus 13",
     "url": "https://api.getbible.net/v2/akjv/2/13.json",
-    "sha": "37dff0749b24777045a07410fbe9062d3d00e684"
+    "sha": "f17580bece2c9ea263a71572053513132290780f"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 14,
     "name": "Exodus 14",
     "url": "https://api.getbible.net/v2/akjv/2/14.json",
-    "sha": "ea125ec5ba02fd214f4feed80319b5c630fa125d"
+    "sha": "ef3f79036447d56e361560df9197f76a00e29e4b"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 15,
     "name": "Exodus 15",
     "url": "https://api.getbible.net/v2/akjv/2/15.json",
-    "sha": "496548db9118b45fa8cfc6024ff9fd9d3981820d"
+    "sha": "809506d54265c08bff06d3eb30e394e9a5b8544d"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 16,
     "name": "Exodus 16",
     "url": "https://api.getbible.net/v2/akjv/2/16.json",
-    "sha": "1db52019cb77393fce6dcf72fefbb2be8f6f2695"
+    "sha": "57a461e2a0c47f258c925655dbea73170a5f671e"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 17,
     "name": "Exodus 17",
     "url": "https://api.getbible.net/v2/akjv/2/17.json",
-    "sha": "6f76d57c8a681521c202d41244ac9c4b075c2bb4"
+    "sha": "f273d6b8e0097a6d2ad920606b2ea1216eb15478"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 18,
     "name": "Exodus 18",
     "url": "https://api.getbible.net/v2/akjv/2/18.json",
-    "sha": "5b49c6f4b7eb2a614c250d4385d13304e937f2db"
+    "sha": "5f84fb83e66d9c2a8984010c0493ae8251ea6ad0"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 19,
     "name": "Exodus 19",
     "url": "https://api.getbible.net/v2/akjv/2/19.json",
-    "sha": "eda60d7c929245067f09688224deb0e98653eda4"
+    "sha": "ef50cf8d5e1ab9b057bcc1a4cfdf30036e659d14"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 20,
     "name": "Exodus 20",
     "url": "https://api.getbible.net/v2/akjv/2/20.json",
-    "sha": "4b1f95496162cc7704679a188e58aba586f62c5c"
+    "sha": "7812df4d27dd4ab3fcb603bcf65b3aa0495976f3"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 21,
     "name": "Exodus 21",
     "url": "https://api.getbible.net/v2/akjv/2/21.json",
-    "sha": "56452e805b1f5a3a9a5d7ca26e02f3c2605fed09"
+    "sha": "b3ed0f40f276cf6263cccfe5c04119c2f4904171"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 22,
     "name": "Exodus 22",
     "url": "https://api.getbible.net/v2/akjv/2/22.json",
-    "sha": "47b9edff371f6bfb3e3db7ae1831cbdf99830f13"
+    "sha": "c8b0382bcd971034d2ac0b2c2d02cd4c8e1b93b2"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 23,
     "name": "Exodus 23",
     "url": "https://api.getbible.net/v2/akjv/2/23.json",
-    "sha": "714a17710738920f55da52866c79a47673364a62"
+    "sha": "44142b0f2d84113fb7f31d2381dc097058615b73"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 24,
     "name": "Exodus 24",
     "url": "https://api.getbible.net/v2/akjv/2/24.json",
-    "sha": "f036b00476cd9930b60890ebc9df26ecce67b4f3"
+    "sha": "a7f04e9898f31fc75d0435ff54487e4c2406f7a6"
   },
   "25": {
     "translation": "American King James Version",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 25,
     "name": "Exodus 25",
     "url": "https://api.getbible.net/v2/akjv/2/25.json",
-    "sha": "47ee3418e9c1a6071ec7dc87854f20c6fd631f17"
+    "sha": "b7af29cd5db4feec9ff17690ab54f1316eab77e8"
   },
   "26": {
     "translation": "American King James Version",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 26,
     "name": "Exodus 26",
     "url": "https://api.getbible.net/v2/akjv/2/26.json",
-    "sha": "f2697fbbd2a162b043ad790245cc8811f0436bba"
+    "sha": "ebb222011b97f7c7f6f7c9d085d9eecb91fb2d7f"
   },
   "27": {
     "translation": "American King James Version",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 27,
     "name": "Exodus 27",
     "url": "https://api.getbible.net/v2/akjv/2/27.json",
-    "sha": "fe6652576997897268caf226b4da2086571b2204"
+    "sha": "28e6ccaab86941c01296a2f725493265664571c1"
   },
   "28": {
     "translation": "American King James Version",
@@ -383,13 +383,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 28,
     "name": "Exodus 28",
     "url": "https://api.getbible.net/v2/akjv/2/28.json",
-    "sha": "55851a7bd6ef420aedd14b9d095b1f454d0659ef"
+    "sha": "d10f941d432225297caacdc60cc34a0dcf04d7ae"
   },
   "29": {
     "translation": "American King James Version",
@@ -397,13 +397,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 29,
     "name": "Exodus 29",
     "url": "https://api.getbible.net/v2/akjv/2/29.json",
-    "sha": "c34b3425a3028d2fadf798e2357402be2f978fc5"
+    "sha": "be28cad5783802f258becac7d642616be66e2bff"
   },
   "30": {
     "translation": "American King James Version",
@@ -411,13 +411,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 30,
     "name": "Exodus 30",
     "url": "https://api.getbible.net/v2/akjv/2/30.json",
-    "sha": "1a5cb4bbfb135cc68e316cd14a6fa73239d3ebf3"
+    "sha": "8cae2c23ce8f6bbba5d0d526d13229e42120d5cc"
   },
   "31": {
     "translation": "American King James Version",
@@ -425,13 +425,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 31,
     "name": "Exodus 31",
     "url": "https://api.getbible.net/v2/akjv/2/31.json",
-    "sha": "b6923c13e4ff269a78fddc83fc97b9cacb1351f5"
+    "sha": "aa41594d31b90f15d4cf8e029419dc3b4913282b"
   },
   "32": {
     "translation": "American King James Version",
@@ -439,13 +439,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 32,
     "name": "Exodus 32",
     "url": "https://api.getbible.net/v2/akjv/2/32.json",
-    "sha": "36755a3d87e139bad8cf4edd179b87cb8e0523ed"
+    "sha": "06d4d10b4fa0bed9d9e3247ffee5e40ce1444434"
   },
   "33": {
     "translation": "American King James Version",
@@ -453,13 +453,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 33,
     "name": "Exodus 33",
     "url": "https://api.getbible.net/v2/akjv/2/33.json",
-    "sha": "f9c792b3aeadef7286cf64da8c083abca0533f07"
+    "sha": "f34fd2a141ee2ad04f78a0923771672df37058e3"
   },
   "34": {
     "translation": "American King James Version",
@@ -467,13 +467,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 34,
     "name": "Exodus 34",
     "url": "https://api.getbible.net/v2/akjv/2/34.json",
-    "sha": "0d74c1eda4379341e936a607140d76016b5adbb0"
+    "sha": "fbda6b47a5229129409c44815c1f23e29040370d"
   },
   "35": {
     "translation": "American King James Version",
@@ -481,13 +481,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 35,
     "name": "Exodus 35",
     "url": "https://api.getbible.net/v2/akjv/2/35.json",
-    "sha": "8d5084252fcc7bc3bc700317ef1bcfe3186ecf9e"
+    "sha": "e8105768dd71a9fd0ca47a77c25f4ac91a0e9158"
   },
   "36": {
     "translation": "American King James Version",
@@ -495,13 +495,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 36,
     "name": "Exodus 36",
     "url": "https://api.getbible.net/v2/akjv/2/36.json",
-    "sha": "b523792de985745c68465b7c76b6f60e58d4f411"
+    "sha": "9b9dc30f6c14c5fff191d3482bdfa762cf5f5a2c"
   },
   "37": {
     "translation": "American King James Version",
@@ -509,13 +509,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 37,
     "name": "Exodus 37",
     "url": "https://api.getbible.net/v2/akjv/2/37.json",
-    "sha": "0b30d9273556e857b5afa80732f28860de6100cc"
+    "sha": "fb3dfe2a2e851caff074b3f0005eed17e64abfd8"
   },
   "38": {
     "translation": "American King James Version",
@@ -523,13 +523,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 38,
     "name": "Exodus 38",
     "url": "https://api.getbible.net/v2/akjv/2/38.json",
-    "sha": "0cb3e18cd17b995a275fc00919d8aabb98d445b8"
+    "sha": "9f2b3a096b5b9a9f725b7000100dde94d759ad75"
   },
   "39": {
     "translation": "American King James Version",
@@ -537,13 +537,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 39,
     "name": "Exodus 39",
     "url": "https://api.getbible.net/v2/akjv/2/39.json",
-    "sha": "860d59253d70de84d04c62ea15c45bc2e0d307a9"
+    "sha": "07a7b2224d4ebeb2aa7883f5483347cf152a3fb2"
   },
   "40": {
     "translation": "American King James Version",
@@ -551,12 +551,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 2,
     "book_name": "Exodus",
     "chapter": 40,
     "name": "Exodus 40",
     "url": "https://api.getbible.net/v2/akjv/2/40.json",
-    "sha": "1e0760baf1e2de59cf45e0ef9e9659462799ca87"
+    "sha": "842ba8b648ee569b8f6787acffe26da461158d74"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Προς Κολοσσαείς 1",
     "url": "https://api.getbible.net/v2/textusreceptus/51/1.json",
-    "sha": "9c4f84fce0f872b2fb234e0429e95cac78bf2a76"
+    "sha": "623885e12a55be5e274bfbb8671fe5a52069eb29"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Προς Κολοσσαείς 2",
     "url": "https://api.getbible.net/v2/textusreceptus/51/2.json",
-    "sha": "f360b067197d0c1f6d43cfbdc0161899cde88e41"
+    "sha": "677f5b396b0209fdae4f5884e748ebccdb5f65db"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Προς Κολοσσαείς 4",
     "url": "https://api.getbible.net/v2/textusreceptus/51/4.json",
-    "sha": "b2125bdfd413de663ab67e61c8c6eaf73d43bbdc"
+    "sha": "a7c44affabf419bf208ccaf9f9e9fa6a7efa56ee"
   }
 }

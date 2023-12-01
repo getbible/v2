@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "彼得後書 1",
     "url": "https://api.getbible.net/v2/cut/61/1.json",
-    "sha": "f61f25b656a3198bc85b703eb70fe484fc654d73"
+    "sha": "0e77d34267512feca4755a00b745916ee48fd99f"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "彼得後書 2",
     "url": "https://api.getbible.net/v2/cut/61/2.json",
-    "sha": "b4370784547fcd8f69599ca0ebd3c3824db6f28d"
+    "sha": "2c48c875ce51e540ce3b41ebeadb6a6a32eac5a3"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "彼得後書 3",
     "url": "https://api.getbible.net/v2/cut/61/3.json",
-    "sha": "ac232d05d1197e16e0298046365e1dd3474ca8e3"
+    "sha": "a9827f7358964a5c962af605bf3f079040672d8d"
   }
 }

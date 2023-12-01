@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "弥迦书 1",
     "url": "https://api.getbible.net/v2/cus/33/1.json",
-    "sha": "24685ecc187138403133bce1022c85200bcec2fe"
+    "sha": "df1acdf96d2b225744af5e7a10022a8fa03de09d"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "弥迦书 2",
     "url": "https://api.getbible.net/v2/cus/33/2.json",
-    "sha": "a38ec0b370aeffc5b517fbe56dc318d8c0df541a"
+    "sha": "ac157432d6610040ac8964a6bb6252c8ffb4f15d"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "弥迦书 3",
     "url": "https://api.getbible.net/v2/cus/33/3.json",
-    "sha": "f5e3f9ffcdae03ea32f28360447e950e36abd560"
+    "sha": "6c2d84546e71f1cb61e54efd500b33771dffe37b"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "弥迦书 4",
     "url": "https://api.getbible.net/v2/cus/33/4.json",
-    "sha": "a447040baecfe002a98994fb876d6f9ca6fa747a"
+    "sha": "738417fc919edd1b99a00f6931dfd1da1bb25f38"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "弥迦书 5",
     "url": "https://api.getbible.net/v2/cus/33/5.json",
-    "sha": "93af4c6983535ae5a77ef86d53e9dce0847cd321"
+    "sha": "a4e54d3ebfcc71824db66edace04ff83619e2e4a"
   },
   "6": {
     "translation": "Union Simplified",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "弥迦书 6",
     "url": "https://api.getbible.net/v2/cus/33/6.json",
-    "sha": "fd1d2e65a92028d08e6392177a9bbedabd3184cf"
+    "sha": "a8285968b5950b0f6cff451c2f4e4dc5dffedde1"
   },
   "7": {
     "translation": "Union Simplified",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "弥迦书 7",
     "url": "https://api.getbible.net/v2/cus/33/7.json",
-    "sha": "fcbb1660b655caea73b7927e9c26a952933d288f"
+    "sha": "63465f6f98a082a65f66e1a473c0351b75edcbb6"
   }
 }

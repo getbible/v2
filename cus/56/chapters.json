@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "提多书 1",
     "url": "https://api.getbible.net/v2/cus/56/1.json",
-    "sha": "1a5b62e9eae723825c86ea008a9f76c669bccbdb"
+    "sha": "c3cab8f20bd8b7de21e3aaee626265729961f2a6"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "提多书 2",
     "url": "https://api.getbible.net/v2/cus/56/2.json",
-    "sha": "962dc305ca9cb639a281494d913a6966313c42e2"
+    "sha": "112f492c1256a8de8fecd6d5a438893b4d1cb06e"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "提多书 3",
     "url": "https://api.getbible.net/v2/cus/56/3.json",
-    "sha": "d8d6fafdfdd408ec74d3578809e76c8cf3d74577"
+    "sha": "6fe257308e55516f0b01609869d59bd5096ca7ae"
   }
 }

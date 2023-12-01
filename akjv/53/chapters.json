@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 1,
     "name": "2 Thessalonians 1",
     "url": "https://api.getbible.net/v2/akjv/53/1.json",
-    "sha": "72ef38cb208cd822992c9d70100e8ee3a63d93ce"
+    "sha": "054a077be195ddad6e77cbb462cab84e8c7b6f0c"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 2,
     "name": "2 Thessalonians 2",
     "url": "https://api.getbible.net/v2/akjv/53/2.json",
-    "sha": "0a5d3c694cffe015df390071a0fa3d2bc51880d5"
+    "sha": "8669b8751ad44adb9c0e5aff6deadd6e0c986c40"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,12 +33,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 53,
     "book_name": "2 Thessalonians",
     "chapter": 3,
     "name": "2 Thessalonians 3",
     "url": "https://api.getbible.net/v2/akjv/53/3.json",
-    "sha": "adee4f49bf49aa6f5e63f72a9fd4f56b996fde04"
+    "sha": "501255c9a03993ff93724f85cb05415332dff473"
   }
 }

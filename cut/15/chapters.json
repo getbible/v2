@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "以斯拉記 1",
     "url": "https://api.getbible.net/v2/cut/15/1.json",
-    "sha": "8cc544c3fe8bd1faf69d9ddfbde18135bc2bcd6b"
+    "sha": "4cb25f62ecb9c0cfed897cdd200f1948b74c912b"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "以斯拉記 2",
     "url": "https://api.getbible.net/v2/cut/15/2.json",
-    "sha": "ed4d828fd935c85dc9d5546cffdd47eb4270b1c4"
+    "sha": "100888864766d33dd29c13980f88648bd2593aff"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "以斯拉記 3",
     "url": "https://api.getbible.net/v2/cut/15/3.json",
-    "sha": "9bf81dc031fe5b7c44835b4e3da3cd056bab1146"
+    "sha": "80616c44a4a7572fb6ef1f33ee4b9dedceebea96"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "以斯拉記 4",
     "url": "https://api.getbible.net/v2/cut/15/4.json",
-    "sha": "08c8afe23e3fa69b4eb7c3b4d62143cc4258b82f"
+    "sha": "3473482e6f981fe5961bef63ec23f2f17c9fd5a8"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "以斯拉記 5",
     "url": "https://api.getbible.net/v2/cut/15/5.json",
-    "sha": "92e01d154dba36d9baf03b8d767aafaf4edbec17"
+    "sha": "b1437ca8d1ca65c5a029e7f6a44f07af6df5d1e9"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "以斯拉記 6",
     "url": "https://api.getbible.net/v2/cut/15/6.json",
-    "sha": "61d82d5fa5914f220c72026cc452807b66165595"
+    "sha": "e8bd76e39b1e55d39efa953f0d4c89ef9e6187ba"
   },
   "7": {
     "translation": "Union Traditional",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "以斯拉記 7",
     "url": "https://api.getbible.net/v2/cut/15/7.json",
-    "sha": "209d7a54ccf38f5393cea9abc3cf6d6d4053ab74"
+    "sha": "e3042c933f01d30299503013348ba5a3f327612f"
   },
   "8": {
     "translation": "Union Traditional",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "以斯拉記 8",
     "url": "https://api.getbible.net/v2/cut/15/8.json",
-    "sha": "7a290074856274187ce5eee9787e73b04b730fe1"
+    "sha": "ab791088113e0d259daa7b6c70f5668418fc22fd"
   },
   "9": {
     "translation": "Union Traditional",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "以斯拉記 9",
     "url": "https://api.getbible.net/v2/cut/15/9.json",
-    "sha": "e202959ec3c204ebdac2b87ff7c42a5edb43a9b7"
+    "sha": "ce06a25030ce5e3ecbf232131f9a4354df580dfa"
   },
   "10": {
     "translation": "Union Traditional",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "以斯拉記 10",
     "url": "https://api.getbible.net/v2/cut/15/10.json",
-    "sha": "e64c45ff33bd52930b1b1fc6d9fbdddef2eab410"
+    "sha": "bc54db510c9e955d28a2c93460ac6ae8f10c3bb8"
   }
 }

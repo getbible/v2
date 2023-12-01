@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 1,
     "name": "Psalms 1",
     "url": "https://api.getbible.net/v2/akjv/19/1.json",
-    "sha": "6f800b24ddbe8afb96ea405be48d80c88c04b176"
+    "sha": "732388955922f7182c5b64ba485555a499569645"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 2,
     "name": "Psalms 2",
     "url": "https://api.getbible.net/v2/akjv/19/2.json",
-    "sha": "3cd6b96100e3372c593c25e706c72892b269691a"
+    "sha": "807091eec29a95bbcf8f2ced6bee50d41f46c31b"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 3,
     "name": "Psalms 3",
     "url": "https://api.getbible.net/v2/akjv/19/3.json",
-    "sha": "8d3132697a3bb468bc059e05f701c86473e5f16f"
+    "sha": "6492ffcefa76d16c3847d40904455763850affe4"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 4,
     "name": "Psalms 4",
     "url": "https://api.getbible.net/v2/akjv/19/4.json",
-    "sha": "7710b09aab305db99ba5289ad9a10a4d6fd92055"
+    "sha": "3303db1e798eac76fe945fa1b9c52e1b2de6d4cd"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 5,
     "name": "Psalms 5",
     "url": "https://api.getbible.net/v2/akjv/19/5.json",
-    "sha": "00b9a283b45dc4fde2f6e377fa418065ff12e994"
+    "sha": "822f632257da59dd251344e712362e8548b5be68"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 6,
     "name": "Psalms 6",
     "url": "https://api.getbible.net/v2/akjv/19/6.json",
-    "sha": "8543b32897202c45b841176ad40a72a0b91a3afe"
+    "sha": "166c4614c1bccf291f4915850dc2b625791c9df5"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 7,
     "name": "Psalms 7",
     "url": "https://api.getbible.net/v2/akjv/19/7.json",
-    "sha": "1af07853f89dcb0b0dbdf0b268232dde70c202f0"
+    "sha": "a46634cdc78f34c2ad3b4013fd8b6dac9d25cb6f"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 8,
     "name": "Psalms 8",
     "url": "https://api.getbible.net/v2/akjv/19/8.json",
-    "sha": "331112cbd9ff80703dee6ef7505feec2d34f973a"
+    "sha": "adf625ad9d3e6776a491eb6a96850123b01a186f"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 9,
     "name": "Psalms 9",
     "url": "https://api.getbible.net/v2/akjv/19/9.json",
-    "sha": "d017c8a50fc8fb21b3cd38d07ad47090fab77029"
+    "sha": "9d3d3cba195c6489ad9ef481b9f3e1e6fb67917e"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 10,
     "name": "Psalms 10",
     "url": "https://api.getbible.net/v2/akjv/19/10.json",
-    "sha": "b9293a26be6cb2073c99758a648648d94165d381"
+    "sha": "f077cfe392517b595f727fdd2719452a288a1325"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 11,
     "name": "Psalms 11",
     "url": "https://api.getbible.net/v2/akjv/19/11.json",
-    "sha": "1fa9e3c7eefe008625dbbd391d40c37dea78f84f"
+    "sha": "780b01af9d04bd1eda05f6a6c9e4f275fd0a2e20"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 12,
     "name": "Psalms 12",
     "url": "https://api.getbible.net/v2/akjv/19/12.json",
-    "sha": "1f5ddfb7161991936d723ebfbed4f3fce5b84294"
+    "sha": "04d1a4ddae5c115b34c0ab4b32b0e9ded18650f0"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 13,
     "name": "Psalms 13",
     "url": "https://api.getbible.net/v2/akjv/19/13.json",
-    "sha": "8a6dbd868e907e9a53e27d96833930b947929d51"
+    "sha": "d2fb544dae02c0daf40f76b2cfb097218efcfed1"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 14,
     "name": "Psalms 14",
     "url": "https://api.getbible.net/v2/akjv/19/14.json",
-    "sha": "b465476b4cc8ba75623ec9865b2139e6583af545"
+    "sha": "c364e203dff2346ebbf0651428382beac1f7eccc"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 15,
     "name": "Psalms 15",
     "url": "https://api.getbible.net/v2/akjv/19/15.json",
-    "sha": "8ce1c15ec48edf16a235a4b71f5d145c3a481bc8"
+    "sha": "4861024f6888e966c396de9f6b3ac346b16e8314"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 16,
     "name": "Psalms 16",
     "url": "https://api.getbible.net/v2/akjv/19/16.json",
-    "sha": "08f29a94fb3eeadc60e203a1b2fad78f796e7651"
+    "sha": "9671de8c535fb3bb9390ff38fb0f3eae5c397203"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 17,
     "name": "Psalms 17",
     "url": "https://api.getbible.net/v2/akjv/19/17.json",
-    "sha": "1adc694d4fcb5904faea856e8ec1681f9c1dcf09"
+    "sha": "04101e8d7f527d58a2c2c3c144a6bb311a04b423"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 18,
     "name": "Psalms 18",
     "url": "https://api.getbible.net/v2/akjv/19/18.json",
-    "sha": "2727b4c741420578d207c3fbe378268d52fa504d"
+    "sha": "222405cdb511a305e2314b6dc7cf7bfccc58ec5c"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 19,
     "name": "Psalms 19",
     "url": "https://api.getbible.net/v2/akjv/19/19.json",
-    "sha": "fcd523a16ea52d9229fd9a12e74c39705ad9ffda"
+    "sha": "6ad762bac688a02d204607a43b3facd4b29d9155"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 20,
     "name": "Psalms 20",
     "url": "https://api.getbible.net/v2/akjv/19/20.json",
-    "sha": "3cf8541eecba7519b35c315bf445975af1dc9c8b"
+    "sha": "2066f4279487690b87326f636e8c3de74434ec93"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 21,
     "name": "Psalms 21",
     "url": "https://api.getbible.net/v2/akjv/19/21.json",
-    "sha": "1448ee9a30316c66406f6d4834ca8ddaeb06e3c2"
+    "sha": "f0aae2df9ff16f986205d315f4470b7cdb2cb86b"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 22,
     "name": "Psalms 22",
     "url": "https://api.getbible.net/v2/akjv/19/22.json",
-    "sha": "1023b309ffd40679ceff09a8d978625b90a6f908"
+    "sha": "128f14181461829c2dcdbf322e1ffe1f44ab6abc"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 23,
     "name": "Psalms 23",
     "url": "https://api.getbible.net/v2/akjv/19/23.json",
-    "sha": "b46ec70821b1cdb9fbf338a09eaecae35bdb83c1"
+    "sha": "462a227524ccc409f176e986bf691fd9a3e4c63e"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 24,
     "name": "Psalms 24",
     "url": "https://api.getbible.net/v2/akjv/19/24.json",
-    "sha": "05a5a6a6fda950e0aacbf4497b2ede01f92b367e"
+    "sha": "d499af9015f786894bb83571690389ac074d3306"
   },
   "25": {
     "translation": "American King James Version",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 25,
     "name": "Psalms 25",
     "url": "https://api.getbible.net/v2/akjv/19/25.json",
-    "sha": "167b972172659ed30db0c1e9456a198fa34de327"
+    "sha": "9a5e9c1b1054442712c222e6f4e83775cdcaadcf"
   },
   "26": {
     "translation": "American King James Version",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 26,
     "name": "Psalms 26",
     "url": "https://api.getbible.net/v2/akjv/19/26.json",
-    "sha": "f04453c3eb3912ef3e3c40f69a8949a42a4e3bb2"
+    "sha": "e00825799f3b57ebfcbfd48beaa3e59f682d34f2"
   },
   "27": {
     "translation": "American King James Version",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 27,
     "name": "Psalms 27",
     "url": "https://api.getbible.net/v2/akjv/19/27.json",
-    "sha": "fc60ccc5b734f1f3ccc813a42e7760a0fae20975"
+    "sha": "c5b3a477086c44ff6b5ad779d4b0fda2065237ef"
   },
   "28": {
     "translation": "American King James Version",
@@ -383,13 +383,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 28,
     "name": "Psalms 28",
     "url": "https://api.getbible.net/v2/akjv/19/28.json",
-    "sha": "47d33dd235a62487217ebdd3d57051113fe5ea57"
+    "sha": "f5a0bb9922ccdfcbdc5be1fdad94efdf9e33d32d"
   },
   "29": {
     "translation": "American King James Version",
@@ -397,13 +397,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 29,
     "name": "Psalms 29",
     "url": "https://api.getbible.net/v2/akjv/19/29.json",
-    "sha": "e10a37ec5fad5d793a2f0e7f7b856f5a4ce2b860"
+    "sha": "17fa04dcbe6238d97019dcc4214f57ce6dfa4b7d"
   },
   "30": {
     "translation": "American King James Version",
@@ -411,13 +411,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 30,
     "name": "Psalms 30",
     "url": "https://api.getbible.net/v2/akjv/19/30.json",
-    "sha": "1f07cac869241283885a27d100e38b8f0d831e9c"
+    "sha": "5428c5cb00b06c9a492c3c8525d0fb2ec9e5ca05"
   },
   "31": {
     "translation": "American King James Version",
@@ -425,13 +425,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 31,
     "name": "Psalms 31",
     "url": "https://api.getbible.net/v2/akjv/19/31.json",
-    "sha": "ba8fb017f1622b26fb9ded138629e3a2ca71642e"
+    "sha": "74ca7c252fc088fc9d92f74f4de4a65e8e0647fd"
   },
   "32": {
     "translation": "American King James Version",
@@ -439,13 +439,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 32,
     "name": "Psalms 32",
     "url": "https://api.getbible.net/v2/akjv/19/32.json",
-    "sha": "99d537b28752dbe3acdc2a03efbdfd61d22e59d7"
+    "sha": "c8bd2a48af39a1f1fe0601bbeff79bb2f32d785f"
   },
   "33": {
     "translation": "American King James Version",
@@ -453,13 +453,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 33,
     "name": "Psalms 33",
     "url": "https://api.getbible.net/v2/akjv/19/33.json",
-    "sha": "39a247e6ba1633454b85dd5dd7e225200391b6d9"
+    "sha": "9e9c2b4cd2f92a00692bed736c79da57e2bf4764"
   },
   "34": {
     "translation": "American King James Version",
@@ -467,13 +467,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 34,
     "name": "Psalms 34",
     "url": "https://api.getbible.net/v2/akjv/19/34.json",
-    "sha": "bc5565cb5d6b6c82940bfecf23ed495bf4426763"
+    "sha": "4dd89eaa1a3239d8f16f640a8022f383106cdb23"
   },
   "35": {
     "translation": "American King James Version",
@@ -481,13 +481,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 35,
     "name": "Psalms 35",
     "url": "https://api.getbible.net/v2/akjv/19/35.json",
-    "sha": "60c47ac184d126e6b7d5d3676ce74f25b2f1524e"
+    "sha": "d7062c6599226d3ea5c68898bd3c620856a235ce"
   },
   "36": {
     "translation": "American King James Version",
@@ -495,13 +495,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 36,
     "name": "Psalms 36",
     "url": "https://api.getbible.net/v2/akjv/19/36.json",
-    "sha": "f1af57b9fcddefbfd37b131ab24140009c9ee948"
+    "sha": "1d9b16349bc656375d72edc5bea72675f6a8c637"
   },
   "37": {
     "translation": "American King James Version",
@@ -509,13 +509,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 37,
     "name": "Psalms 37",
     "url": "https://api.getbible.net/v2/akjv/19/37.json",
-    "sha": "d4059d6ab079cb3500bde00c4b87d49b176755a7"
+    "sha": "917919774974d6ed182b022bc8c16c8a0cf1374e"
   },
   "38": {
     "translation": "American King James Version",
@@ -523,13 +523,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 38,
     "name": "Psalms 38",
     "url": "https://api.getbible.net/v2/akjv/19/38.json",
-    "sha": "82ea9f8be1b782c112726b20bdb6ada946f2d383"
+    "sha": "be0592a1bbd33f4a6c5faf56e1afdc3456ed98eb"
   },
   "39": {
     "translation": "American King James Version",
@@ -537,13 +537,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 39,
     "name": "Psalms 39",
     "url": "https://api.getbible.net/v2/akjv/19/39.json",
-    "sha": "15be2866015dc2f525bedf0bd4285f25c24ea2d8"
+    "sha": "d65bd8792210b1d60363efc19a30f136ec849ad2"
   },
   "40": {
     "translation": "American King James Version",
@@ -551,13 +551,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 40,
     "name": "Psalms 40",
     "url": "https://api.getbible.net/v2/akjv/19/40.json",
-    "sha": "067e13118c37a1b9ba5134ebe17aace427e1aa6c"
+    "sha": "9e4cc31fdca844300fac8d598ead5db7f28dd707"
   },
   "41": {
     "translation": "American King James Version",
@@ -565,13 +565,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 41,
     "name": "Psalms 41",
     "url": "https://api.getbible.net/v2/akjv/19/41.json",
-    "sha": "91158af1617f486ec9d7ad9cfa4102785dda1ec1"
+    "sha": "77953e2c6dab98f9e55698f282840c36be4fefbd"
   },
   "42": {
     "translation": "American King James Version",
@@ -579,13 +579,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 42,
     "name": "Psalms 42",
     "url": "https://api.getbible.net/v2/akjv/19/42.json",
-    "sha": "121265efb9b889dd42502ab37c108e51ae498922"
+    "sha": "8b955bc6db27a5aa30951cbd23bf0f863f717635"
   },
   "43": {
     "translation": "American King James Version",
@@ -593,13 +593,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 43,
     "name": "Psalms 43",
     "url": "https://api.getbible.net/v2/akjv/19/43.json",
-    "sha": "d5f142d8c950ceb3947e0363842d43c1a3367820"
+    "sha": "b1e5e609526a7685b90bcf08865c96ca8281917a"
   },
   "44": {
     "translation": "American King James Version",
@@ -607,13 +607,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 44,
     "name": "Psalms 44",
     "url": "https://api.getbible.net/v2/akjv/19/44.json",
-    "sha": "e7b0ff6773565904836385064006a69cb3dd09c7"
+    "sha": "c566be2f8678708515d92b3a487a41ff1bdf1098"
   },
   "45": {
     "translation": "American King James Version",
@@ -621,13 +621,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 45,
     "name": "Psalms 45",
     "url": "https://api.getbible.net/v2/akjv/19/45.json",
-    "sha": "04435e4e5205a2d015c57a7027cbd3b5430f8472"
+    "sha": "15b2e0c20839baf33c50ca2b8d7450aac49117b5"
   },
   "46": {
     "translation": "American King James Version",
@@ -635,13 +635,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 46,
     "name": "Psalms 46",
     "url": "https://api.getbible.net/v2/akjv/19/46.json",
-    "sha": "e32ee70ee24ff98fd5358a0c1fdf506907713b78"
+    "sha": "91e0965241347ee48bb24d5e2070c1dfd252ef77"
   },
   "47": {
     "translation": "American King James Version",
@@ -649,13 +649,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 47,
     "name": "Psalms 47",
     "url": "https://api.getbible.net/v2/akjv/19/47.json",
-    "sha": "28b6017419d8c670a1c7b9b4a25cfdc1a8b8bcf3"
+    "sha": "42f0dc34cbe3a7e9f8f6b904df4da0f34b47ef48"
   },
   "48": {
     "translation": "American King James Version",
@@ -663,13 +663,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 48,
     "name": "Psalms 48",
     "url": "https://api.getbible.net/v2/akjv/19/48.json",
-    "sha": "1af76cf1e812372ec8a1ac047c60d99b6ca04bcb"
+    "sha": "e232ce29e7a83d39e08a4150c1a23c425e6e1c80"
   },
   "49": {
     "translation": "American King James Version",
@@ -677,13 +677,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 49,
     "name": "Psalms 49",
     "url": "https://api.getbible.net/v2/akjv/19/49.json",
-    "sha": "f8bcab5da839b496621353295651318b95f9653e"
+    "sha": "7bb228bbfeb6a2c8149c8d8718436818f32b8f94"
   },
   "50": {
     "translation": "American King James Version",
@@ -691,13 +691,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 50,
     "name": "Psalms 50",
     "url": "https://api.getbible.net/v2/akjv/19/50.json",
-    "sha": "e147f9a8d6513fdccaccd6623bb36858021d3c76"
+    "sha": "d2e4806823c5788e1c130175c8a8d5060c8899d7"
   },
   "51": {
     "translation": "American King James Version",
@@ -705,13 +705,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 51,
     "name": "Psalms 51",
     "url": "https://api.getbible.net/v2/akjv/19/51.json",
-    "sha": "e8b3ce19c2488bab0473afd4a7fa8ce42863a81d"
+    "sha": "2e16a685dd18e6c394daf5f3673eda6f38ea3952"
   },
   "52": {
     "translation": "American King James Version",
@@ -719,13 +719,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 52,
     "name": "Psalms 52",
     "url": "https://api.getbible.net/v2/akjv/19/52.json",
-    "sha": "40ea44cdbb59a1815e3d416828b40f0f59261881"
+    "sha": "9ae631bbcc7e4c8ae17febdb715fae9b1a12aa24"
   },
   "53": {
     "translation": "American King James Version",
@@ -733,13 +733,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 53,
     "name": "Psalms 53",
     "url": "https://api.getbible.net/v2/akjv/19/53.json",
-    "sha": "6990c16fb88e817b08e57b884e5be58d5cd1d259"
+    "sha": "703486415f187876f530b220661683fd9e8af87c"
   },
   "54": {
     "translation": "American King James Version",
@@ -747,13 +747,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 54,
     "name": "Psalms 54",
     "url": "https://api.getbible.net/v2/akjv/19/54.json",
-    "sha": "0adcfa19bba9a6c167cbbff856de45b027cd0ee2"
+    "sha": "aeaea5060bae8143043fb71ca0382fd9d6f93bde"
   },
   "55": {
     "translation": "American King James Version",
@@ -761,13 +761,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 55,
     "name": "Psalms 55",
     "url": "https://api.getbible.net/v2/akjv/19/55.json",
-    "sha": "1883ab0f85c3ba5f1914bc487f35962b18237593"
+    "sha": "4c8fce1119f3720224c7ab392271c8775443cdd2"
   },
   "56": {
     "translation": "American King James Version",
@@ -775,13 +775,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 56,
     "name": "Psalms 56",
     "url": "https://api.getbible.net/v2/akjv/19/56.json",
-    "sha": "91f86bbe77380da598b9228dd39ae4dcb8af8980"
+    "sha": "9d3c2e90b7a0ccea9950d2871d4563f6824b3871"
   },
   "57": {
     "translation": "American King James Version",
@@ -789,13 +789,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 57,
     "name": "Psalms 57",
     "url": "https://api.getbible.net/v2/akjv/19/57.json",
-    "sha": "fdca80bf5a6e8bb1ec8d7b4bfab836f9f5202118"
+    "sha": "692901e2c2401ddbf83183e82bc1e74cc8d18075"
   },
   "58": {
     "translation": "American King James Version",
@@ -803,13 +803,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 58,
     "name": "Psalms 58",
     "url": "https://api.getbible.net/v2/akjv/19/58.json",
-    "sha": "a1a78a5d3d76232b79cc94d9ac07a406bdf3f896"
+    "sha": "55f78989df54b94c6259333d53eafa5bfd4449d9"
   },
   "59": {
     "translation": "American King James Version",
@@ -817,13 +817,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 59,
     "name": "Psalms 59",
     "url": "https://api.getbible.net/v2/akjv/19/59.json",
-    "sha": "f8245bb55dc14bce69f69880d621f9dd3a9d9b79"
+    "sha": "54e5d8cf12fd8e21d631ae4057d96bf5c694a4b3"
   },
   "60": {
     "translation": "American King James Version",
@@ -831,13 +831,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 60,
     "name": "Psalms 60",
     "url": "https://api.getbible.net/v2/akjv/19/60.json",
-    "sha": "3c6f8d9f3fb8be4579db52861024d11c1124d95e"
+    "sha": "9adce87bec1c6da8d229e57a675bdd483e959185"
   },
   "61": {
     "translation": "American King James Version",
@@ -845,13 +845,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 61,
     "name": "Psalms 61",
     "url": "https://api.getbible.net/v2/akjv/19/61.json",
-    "sha": "669eb66deec9a83bbb7fceb35dc21cbc24640e78"
+    "sha": "47f9ec0cd66027ff7a03b76fa0e6f16ed68e485d"
   },
   "62": {
     "translation": "American King James Version",
@@ -859,13 +859,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 62,
     "name": "Psalms 62",
     "url": "https://api.getbible.net/v2/akjv/19/62.json",
-    "sha": "91053ae2ddec2f3b83b2af11f3c62f730ddee118"
+    "sha": "786734f5b1e0dd1b4f8bc20f60d8bc15724b5e4b"
   },
   "63": {
     "translation": "American King James Version",
@@ -873,13 +873,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 63,
     "name": "Psalms 63",
     "url": "https://api.getbible.net/v2/akjv/19/63.json",
-    "sha": "d56310edafa52de121d35c2ab085a97de23334e8"
+    "sha": "cba6368467938d10db57052e8f1e7043459abb75"
   },
   "64": {
     "translation": "American King James Version",
@@ -887,13 +887,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 64,
     "name": "Psalms 64",
     "url": "https://api.getbible.net/v2/akjv/19/64.json",
-    "sha": "68b9576265a9bf8d5bbee53737d90c92c324f3d4"
+    "sha": "dc340a6ee6b773185dc7fc58389c27ef4f58d98e"
   },
   "65": {
     "translation": "American King James Version",
@@ -901,13 +901,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 65,
     "name": "Psalms 65",
     "url": "https://api.getbible.net/v2/akjv/19/65.json",
-    "sha": "013ec4f1e94b73edf3c63bab52d9779e426706d3"
+    "sha": "7a0a103664312101a5641d9f8eac00dec7a292a8"
   },
   "66": {
     "translation": "American King James Version",
@@ -915,13 +915,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 66,
     "name": "Psalms 66",
     "url": "https://api.getbible.net/v2/akjv/19/66.json",
-    "sha": "2460d166c087bee961da045dcb8a4fb5625325c5"
+    "sha": "acd177087641db57121248747466fafda544af6d"
   },
   "67": {
     "translation": "American King James Version",
@@ -929,13 +929,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 67,
     "name": "Psalms 67",
     "url": "https://api.getbible.net/v2/akjv/19/67.json",
-    "sha": "f26285dee3e53f162a3973c6fdee8e31aae2f9f0"
+    "sha": "813bfbdabcb1f1a79a2d5489ed617aa8a58df6a4"
   },
   "68": {
     "translation": "American King James Version",
@@ -943,13 +943,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 68,
     "name": "Psalms 68",
     "url": "https://api.getbible.net/v2/akjv/19/68.json",
-    "sha": "d2ddfab0cca6cf6e535a6824fa32b7eeafebd075"
+    "sha": "5cfd7f399a813035256935ef10072dca42f4a7be"
   },
   "69": {
     "translation": "American King James Version",
@@ -957,13 +957,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 69,
     "name": "Psalms 69",
     "url": "https://api.getbible.net/v2/akjv/19/69.json",
-    "sha": "94a279d808783d58c888750677ea943527753294"
+    "sha": "ce9e9d77bb1a019ea0d6da38ae563dbda52d7f57"
   },
   "70": {
     "translation": "American King James Version",
@@ -971,13 +971,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 70,
     "name": "Psalms 70",
     "url": "https://api.getbible.net/v2/akjv/19/70.json",
-    "sha": "0c4aaea7452e28a7317bda777300c49aeca1d3d8"
+    "sha": "8b0dd3687d18bdde644c82ee6a5496fe25c56d2c"
   },
   "71": {
     "translation": "American King James Version",
@@ -985,13 +985,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 71,
     "name": "Psalms 71",
     "url": "https://api.getbible.net/v2/akjv/19/71.json",
-    "sha": "83cf915a64722f505580efbf1d251a850477aead"
+    "sha": "77c28f1f8607a2c918128b0a3ff7a7c348440fa6"
   },
   "72": {
     "translation": "American King James Version",
@@ -999,13 +999,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 72,
     "name": "Psalms 72",
     "url": "https://api.getbible.net/v2/akjv/19/72.json",
-    "sha": "1a24bd25a5b80f1164fbb39469b2937398c87c81"
+    "sha": "b87f60506f09a49f38cc36d2b34bc1bfaa342241"
   },
   "73": {
     "translation": "American King James Version",
@@ -1013,13 +1013,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 73,
     "name": "Psalms 73",
     "url": "https://api.getbible.net/v2/akjv/19/73.json",
-    "sha": "6bcba7548a6b32e760e616319fb0907cc12f7c5f"
+    "sha": "61f8afdc2d06575ab6a7cb1041f9ffa3e999f203"
   },
   "74": {
     "translation": "American King James Version",
@@ -1027,13 +1027,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 74,
     "name": "Psalms 74",
     "url": "https://api.getbible.net/v2/akjv/19/74.json",
-    "sha": "d9207b8d51a7bdcf4a0228b5932ba0e8a0ce953b"
+    "sha": "6c32a9e160f1f9cbe71f88cfba0014162cdb3141"
   },
   "75": {
     "translation": "American King James Version",
@@ -1041,13 +1041,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 75,
     "name": "Psalms 75",
     "url": "https://api.getbible.net/v2/akjv/19/75.json",
-    "sha": "6ba6ca00036bd8c6b4b155df957ae5318816e081"
+    "sha": "7ce18b0299709bdf859a88c696afc220a5da6f02"
   },
   "76": {
     "translation": "American King James Version",
@@ -1055,13 +1055,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 76,
     "name": "Psalms 76",
     "url": "https://api.getbible.net/v2/akjv/19/76.json",
-    "sha": "4d312826ddcea124dede0a8a486a04c6b1df19f2"
+    "sha": "08212b75bcd4cc576327f1702e7302624d9910c2"
   },
   "77": {
     "translation": "American King James Version",
@@ -1069,13 +1069,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 77,
     "name": "Psalms 77",
     "url": "https://api.getbible.net/v2/akjv/19/77.json",
-    "sha": "5ef3906216b8444a8f691d3364902da4cba9364c"
+    "sha": "b8ac647dee2b54b14e0f6bbaeea3247f3c18b43f"
   },
   "78": {
     "translation": "American King James Version",
@@ -1083,13 +1083,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 78,
     "name": "Psalms 78",
     "url": "https://api.getbible.net/v2/akjv/19/78.json",
-    "sha": "d3f485a5a909f94057957dee9883c804fdd66b8b"
+    "sha": "05209078cabb68ce25eb991196ef86f6f22a05fc"
   },
   "79": {
     "translation": "American King James Version",
@@ -1097,13 +1097,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 79,
     "name": "Psalms 79",
     "url": "https://api.getbible.net/v2/akjv/19/79.json",
-    "sha": "be94bda160e3cc759f2e203f602ae2a1ee34e75b"
+    "sha": "bebdc0ed611a04d0a2f98860c0c6abfca0c99ae5"
   },
   "80": {
     "translation": "American King James Version",
@@ -1111,13 +1111,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 80,
     "name": "Psalms 80",
     "url": "https://api.getbible.net/v2/akjv/19/80.json",
-    "sha": "6c4b6a8f74628e212f5be4c55f882bab1fec7c98"
+    "sha": "7aa198bf1c0d18856e48a3ac8e268fdaf71f7fb0"
   },
   "81": {
     "translation": "American King James Version",
@@ -1125,13 +1125,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 81,
     "name": "Psalms 81",
     "url": "https://api.getbible.net/v2/akjv/19/81.json",
-    "sha": "5834253c85e52bb083a4bae6b7944b92a7d343b5"
+    "sha": "62ad1632a8a209346187794c02b29808c8f93a34"
   },
   "82": {
     "translation": "American King James Version",
@@ -1139,13 +1139,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 82,
     "name": "Psalms 82",
     "url": "https://api.getbible.net/v2/akjv/19/82.json",
-    "sha": "58ab945bf16b8e61f3591d1f8aaea33ddbdf6680"
+    "sha": "521dbd73721ce64f188e2cf75b8b4bbdb5895333"
   },
   "83": {
     "translation": "American King James Version",
@@ -1153,13 +1153,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 83,
     "name": "Psalms 83",
     "url": "https://api.getbible.net/v2/akjv/19/83.json",
-    "sha": "5e4574d571a3c614e05ccd1c6db35aab0cbf15ec"
+    "sha": "f732da239e4fe0771f0a74a09ff63a39284c7e7f"
   },
   "84": {
     "translation": "American King James Version",
@@ -1167,13 +1167,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 84,
     "name": "Psalms 84",
     "url": "https://api.getbible.net/v2/akjv/19/84.json",
-    "sha": "5ac67534f577a92d72329ff3e7d35f06156e68d2"
+    "sha": "7444c23847f57034a2bfdf3c1ce181c3b4bf3750"
   },
   "85": {
     "translation": "American King James Version",
@@ -1181,13 +1181,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 85,
     "name": "Psalms 85",
     "url": "https://api.getbible.net/v2/akjv/19/85.json",
-    "sha": "3b90bb36f0a7c6cb8fc6c29332d6b41dfac8edd3"
+    "sha": "78484eaef07941274df61a7cb3de66c1fad2470d"
   },
   "86": {
     "translation": "American King James Version",
@@ -1195,13 +1195,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 86,
     "name": "Psalms 86",
     "url": "https://api.getbible.net/v2/akjv/19/86.json",
-    "sha": "2c70e72ba3bacd421df33ac39a8e1668a90ec49a"
+    "sha": "b094cf2d9502f57dbfc092f5cfcda36c045d8c97"
   },
   "87": {
     "translation": "American King James Version",
@@ -1209,13 +1209,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 87,
     "name": "Psalms 87",
     "url": "https://api.getbible.net/v2/akjv/19/87.json",
-    "sha": "b33adce4dbc87a8b330ff7c1e0977482746e663f"
+    "sha": "9c8ce3ffb4460511445d852de6fa8e89ebe80a85"
   },
   "88": {
     "translation": "American King James Version",
@@ -1223,13 +1223,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 88,
     "name": "Psalms 88",
     "url": "https://api.getbible.net/v2/akjv/19/88.json",
-    "sha": "0d24f58c8b2380a17ee97fea0f00bb761f4d20f9"
+    "sha": "efc7fd3d344a76bc102534fac2e0d3295ca58adc"
   },
   "89": {
     "translation": "American King James Version",
@@ -1237,13 +1237,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 89,
     "name": "Psalms 89",
     "url": "https://api.getbible.net/v2/akjv/19/89.json",
-    "sha": "8a96863d3a9c210717c6c24e3226bbadbeb0260c"
+    "sha": "7e23f7b65957572f9a9a4239f4b868c5db97fced"
   },
   "90": {
     "translation": "American King James Version",
@@ -1251,13 +1251,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 90,
     "name": "Psalms 90",
     "url": "https://api.getbible.net/v2/akjv/19/90.json",
-    "sha": "1366d6ff79214c139c120a3601433203ab0be811"
+    "sha": "cce8db6c50d05dfb14bbbec8e5de03a6e28552c2"
   },
   "91": {
     "translation": "American King James Version",
@@ -1265,13 +1265,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 91,
     "name": "Psalms 91",
     "url": "https://api.getbible.net/v2/akjv/19/91.json",
-    "sha": "59738a9655c415e499ad211faf98ac8481a58d32"
+    "sha": "6c6001bfeb3de4183f41770a5c0efb4451886469"
   },
   "92": {
     "translation": "American King James Version",
@@ -1279,13 +1279,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 92,
     "name": "Psalms 92",
     "url": "https://api.getbible.net/v2/akjv/19/92.json",
-    "sha": "24406d2d0da7707b4c17220b7af93c940bd5059f"
+    "sha": "60d891732c47d73e716f0f507c103f9c8323a29b"
   },
   "93": {
     "translation": "American King James Version",
@@ -1293,13 +1293,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 93,
     "name": "Psalms 93",
     "url": "https://api.getbible.net/v2/akjv/19/93.json",
-    "sha": "f8c4844cf6c5318e02e1ed5066991c62dcab61f8"
+    "sha": "0e67f9a08827503f004692b319f4eaec728afce4"
   },
   "94": {
     "translation": "American King James Version",
@@ -1307,13 +1307,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 94,
     "name": "Psalms 94",
     "url": "https://api.getbible.net/v2/akjv/19/94.json",
-    "sha": "c77f1bc4e4701f27c65658a0bb0ba87c534424a0"
+    "sha": "805584f721047e06004c4538bf2f9ec95dc3bd8e"
   },
   "95": {
     "translation": "American King James Version",
@@ -1321,13 +1321,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 95,
     "name": "Psalms 95",
     "url": "https://api.getbible.net/v2/akjv/19/95.json",
-    "sha": "838c6f0e37070526f0949ce5247010a3dbb26302"
+    "sha": "0a516f6dbc762f52b17e11145defb0f48475f45f"
   },
   "96": {
     "translation": "American King James Version",
@@ -1335,13 +1335,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 96,
     "name": "Psalms 96",
     "url": "https://api.getbible.net/v2/akjv/19/96.json",
-    "sha": "3fa1c62c20fee1ac72e1d92fe99170236eb5f267"
+    "sha": "170465fc3393ebbdc8ffed77301bd72837827469"
   },
   "97": {
     "translation": "American King James Version",
@@ -1349,13 +1349,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 97,
     "name": "Psalms 97",
     "url": "https://api.getbible.net/v2/akjv/19/97.json",
-    "sha": "e44b34fba3b60c4b855871eec9e2a5b133c6c30e"
+    "sha": "924ca6ba98e7639d9a1c2fa01ef3783e3090cef9"
   },
   "98": {
     "translation": "American King James Version",
@@ -1363,13 +1363,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 98,
     "name": "Psalms 98",
     "url": "https://api.getbible.net/v2/akjv/19/98.json",
-    "sha": "e7f2fae92eb11367805dca30db6191546788385b"
+    "sha": "da31c1d302a8d44ab2c3d92314119c89fcb9e8c0"
   },
   "99": {
     "translation": "American King James Version",
@@ -1377,13 +1377,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 99,
     "name": "Psalms 99",
     "url": "https://api.getbible.net/v2/akjv/19/99.json",
-    "sha": "378c298bb5f16b1e68f7357f6044c71570cb0be6"
+    "sha": "f024eaf5108e86da1b20b7540f4814a5ac72af1a"
   },
   "100": {
     "translation": "American King James Version",
@@ -1391,13 +1391,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 100,
     "name": "Psalms 100",
     "url": "https://api.getbible.net/v2/akjv/19/100.json",
-    "sha": "682ddda87d9e93498a971322937fb12c14a4be2e"
+    "sha": "f0c3781567e070390922fbdc84739f2eace251a0"
   },
   "101": {
     "translation": "American King James Version",
@@ -1405,13 +1405,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 101,
     "name": "Psalms 101",
     "url": "https://api.getbible.net/v2/akjv/19/101.json",
-    "sha": "ddb9d9c935d46dfed539fbc7274ff87249ac6181"
+    "sha": "97daabd398e36a9c8dcffff71669a7afcb1ba7dc"
   },
   "102": {
     "translation": "American King James Version",
@@ -1419,13 +1419,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 102,
     "name": "Psalms 102",
     "url": "https://api.getbible.net/v2/akjv/19/102.json",
-    "sha": "b522c67328b9fc6543f4c2d84dfef908708f1a03"
+    "sha": "c803735a82d0e30c5156b4cdfa1c6b6e94ee1db6"
   },
   "103": {
     "translation": "American King James Version",
@@ -1433,13 +1433,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 103,
     "name": "Psalms 103",
     "url": "https://api.getbible.net/v2/akjv/19/103.json",
-    "sha": "0474a263f998f2ec1f36784131e16b9b732322a9"
+    "sha": "dc3df64055144b8aa61c29fc5c5261eb5828eeed"
   },
   "104": {
     "translation": "American King James Version",
@@ -1447,13 +1447,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 104,
     "name": "Psalms 104",
     "url": "https://api.getbible.net/v2/akjv/19/104.json",
-    "sha": "6a26dd76f52b3ad3f88cfa69afe74518b6170b7f"
+    "sha": "e2aaa7f2b419c7ea0bbbae77bf58b6d22185108c"
   },
   "105": {
     "translation": "American King James Version",
@@ -1461,13 +1461,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 105,
     "name": "Psalms 105",
     "url": "https://api.getbible.net/v2/akjv/19/105.json",
-    "sha": "65502cbbe75b616041188a75ef059ae48908595d"
+    "sha": "8e7cd81147c962c1ead2923ac3d85af692e56daa"
   },
   "106": {
     "translation": "American King James Version",
@@ -1475,13 +1475,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 106,
     "name": "Psalms 106",
     "url": "https://api.getbible.net/v2/akjv/19/106.json",
-    "sha": "9c8b08fff640c1a9de84343aa58094df3d4ffd09"
+    "sha": "6eb9fb4e9ff879aa660b6bd3b02f05d3f0d66140"
   },
   "107": {
     "translation": "American King James Version",
@@ -1489,13 +1489,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 107,
     "name": "Psalms 107",
     "url": "https://api.getbible.net/v2/akjv/19/107.json",
-    "sha": "29ca37b2886a6784f6ac289657a7453930c5fd4f"
+    "sha": "3d136b8367242f717b50ccef77b0ba0071043eea"
   },
   "108": {
     "translation": "American King James Version",
@@ -1503,13 +1503,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 108,
     "name": "Psalms 108",
     "url": "https://api.getbible.net/v2/akjv/19/108.json",
-    "sha": "2f217d42787f296a14ebd0c4f0e219471820ccd2"
+    "sha": "e88b15998b53ae46ed8b01326599d84235246e18"
   },
   "109": {
     "translation": "American King James Version",
@@ -1517,13 +1517,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 109,
     "name": "Psalms 109",
     "url": "https://api.getbible.net/v2/akjv/19/109.json",
-    "sha": "242e63e410234b144f165ebdec098a987c3e40c0"
+    "sha": "e8c47f2ba1fedb7d1073ce02fc1546d976d43d7c"
   },
   "110": {
     "translation": "American King James Version",
@@ -1531,13 +1531,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 110,
     "name": "Psalms 110",
     "url": "https://api.getbible.net/v2/akjv/19/110.json",
-    "sha": "e1efce382ddb31068a59609acbdd35ad8fefb29d"
+    "sha": "e197373c86363163fc641f2cef5a491696b04506"
   },
   "111": {
     "translation": "American King James Version",
@@ -1545,13 +1545,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 111,
     "name": "Psalms 111",
     "url": "https://api.getbible.net/v2/akjv/19/111.json",
-    "sha": "72842fa1b55d90821f71eeed5ae9a78c000f0dc6"
+    "sha": "438e16648c013e956442e307828bf88c7ebaafff"
   },
   "112": {
     "translation": "American King James Version",
@@ -1559,13 +1559,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 112,
     "name": "Psalms 112",
     "url": "https://api.getbible.net/v2/akjv/19/112.json",
-    "sha": "97b615f52fd64a1836daebc5dc0bd71e278e0cf3"
+    "sha": "3fe56467854e1a2ad3cfa995cfc45863334c9c4a"
   },
   "113": {
     "translation": "American King James Version",
@@ -1573,13 +1573,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 113,
     "name": "Psalms 113",
     "url": "https://api.getbible.net/v2/akjv/19/113.json",
-    "sha": "a9bdddce7cd3c209c281ea1a37e8581dab154162"
+    "sha": "f0215144e118e2e98f924f797ba9e3327589481f"
   },
   "114": {
     "translation": "American King James Version",
@@ -1587,13 +1587,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 114,
     "name": "Psalms 114",
     "url": "https://api.getbible.net/v2/akjv/19/114.json",
-    "sha": "ddf391ceb63da077c4588855878e380dadb17bec"
+    "sha": "3cac1a22fd2414a02ac444ccc6927f7c68371db0"
   },
   "115": {
     "translation": "American King James Version",
@@ -1601,13 +1601,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 115,
     "name": "Psalms 115",
     "url": "https://api.getbible.net/v2/akjv/19/115.json",
-    "sha": "f8c0f9c1fc4ef7b02cda09feeac8a41b33a564ab"
+    "sha": "578bea67eac302d1b067f19f235fc63c6e05507b"
   },
   "116": {
     "translation": "American King James Version",
@@ -1615,13 +1615,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 116,
     "name": "Psalms 116",
     "url": "https://api.getbible.net/v2/akjv/19/116.json",
-    "sha": "2393d566aefe8f1a93461f6dceef186fb15cce94"
+    "sha": "5985e87dadc87e665ed1f42cfc9d912bea57818e"
   },
   "117": {
     "translation": "American King James Version",
@@ -1629,13 +1629,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 117,
     "name": "Psalms 117",
     "url": "https://api.getbible.net/v2/akjv/19/117.json",
-    "sha": "5b57cfd6214e92b4754a54e982928c6a53901eb7"
+    "sha": "fda2bb4ab82981b6e3ea0f1916d1e05ff013a0ab"
   },
   "118": {
     "translation": "American King James Version",
@@ -1643,13 +1643,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 118,
     "name": "Psalms 118",
     "url": "https://api.getbible.net/v2/akjv/19/118.json",
-    "sha": "89328b92ba13cee20f9e00f80cd201cd89c5fd3d"
+    "sha": "facd9307343a88b5a34ab03b3d60d51858aca182"
   },
   "119": {
     "translation": "American King James Version",
@@ -1657,13 +1657,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 119,
     "name": "Psalms 119",
     "url": "https://api.getbible.net/v2/akjv/19/119.json",
-    "sha": "61abd4520e0580b8a91ec170dab0b5758c9644c5"
+    "sha": "8d083412d3371d2e6d02f0923f076763d05bfe41"
   },
   "120": {
     "translation": "American King James Version",
@@ -1671,13 +1671,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 120,
     "name": "Psalms 120",
     "url": "https://api.getbible.net/v2/akjv/19/120.json",
-    "sha": "994e6da39edc7a8ad9f9f602ffe6be501b474c28"
+    "sha": "17dd28a3567037c546f351b0ae0009705bb2cf77"
   },
   "121": {
     "translation": "American King James Version",
@@ -1685,13 +1685,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 121,
     "name": "Psalms 121",
     "url": "https://api.getbible.net/v2/akjv/19/121.json",
-    "sha": "c683bb0072b1b7955467e2daf51d45e88acc007b"
+    "sha": "55e924447a3ea7c3014a7c2bf9f1cf2438257650"
   },
   "122": {
     "translation": "American King James Version",
@@ -1699,13 +1699,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 122,
     "name": "Psalms 122",
     "url": "https://api.getbible.net/v2/akjv/19/122.json",
-    "sha": "078d71c26a8176d88ad86cfe41c06de1b07d6394"
+    "sha": "09e98fc0c53155704e43cda68497403779c2b303"
   },
   "123": {
     "translation": "American King James Version",
@@ -1713,13 +1713,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 123,
     "name": "Psalms 123",
     "url": "https://api.getbible.net/v2/akjv/19/123.json",
-    "sha": "13e5b5d30e087c2406b42cdf6289a0133798e639"
+    "sha": "7dce1502b17694841d62680cb43249bc2f1e2943"
   },
   "124": {
     "translation": "American King James Version",
@@ -1727,13 +1727,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 124,
     "name": "Psalms 124",
     "url": "https://api.getbible.net/v2/akjv/19/124.json",
-    "sha": "65d050b085d90788da8bff853995b3196b025c80"
+    "sha": "a449aca2b31009b38c468d1a4e993c8e71435e50"
   },
   "125": {
     "translation": "American King James Version",
@@ -1741,13 +1741,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 125,
     "name": "Psalms 125",
     "url": "https://api.getbible.net/v2/akjv/19/125.json",
-    "sha": "d98e8982680bbeffe762b8ee48e2eecfcd7af9c9"
+    "sha": "24f0a6a23b29132a9b5ece6e240d71b1af443f56"
   },
   "126": {
     "translation": "American King James Version",
@@ -1755,13 +1755,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 126,
     "name": "Psalms 126",
     "url": "https://api.getbible.net/v2/akjv/19/126.json",
-    "sha": "36531a01c26ab73d57fd56dcf52e267081796d26"
+    "sha": "0a8f8758b3cb0b47ea2003ffc8881450851d7e73"
   },
   "127": {
     "translation": "American King James Version",
@@ -1769,13 +1769,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 127,
     "name": "Psalms 127",
     "url": "https://api.getbible.net/v2/akjv/19/127.json",
-    "sha": "686bb2ff7a871a9b4344084688bca84a09165926"
+    "sha": "132dfb0d96a743f701587879d1c72237556512b9"
   },
   "128": {
     "translation": "American King James Version",
@@ -1783,13 +1783,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 128,
     "name": "Psalms 128",
     "url": "https://api.getbible.net/v2/akjv/19/128.json",
-    "sha": "d504a98b8246f3a4f36483a145b2803c4278ef07"
+    "sha": "05e6543d71a74e1e3d85245fb8830d6669c6d39b"
   },
   "129": {
     "translation": "American King James Version",
@@ -1797,13 +1797,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 129,
     "name": "Psalms 129",
     "url": "https://api.getbible.net/v2/akjv/19/129.json",
-    "sha": "58d56ed7c4bb61b56a80824631ae90a1787f06f3"
+    "sha": "0e71803737a200aa95a6af05a466afc94a5f93e9"
   },
   "130": {
     "translation": "American King James Version",
@@ -1811,13 +1811,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 130,
     "name": "Psalms 130",
     "url": "https://api.getbible.net/v2/akjv/19/130.json",
-    "sha": "2c79e33021f72be1bafa0e466c0f10d0163bce59"
+    "sha": "1df33c85208b570e670002db9155e6088c4c23f3"
   },
   "131": {
     "translation": "American King James Version",
@@ -1825,13 +1825,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 131,
     "name": "Psalms 131",
     "url": "https://api.getbible.net/v2/akjv/19/131.json",
-    "sha": "3693fedcab34f5ba59a476cfaac70a9e5a67cc1f"
+    "sha": "0d7b316df48789245a735c468c30dc6f938f16b1"
   },
   "132": {
     "translation": "American King James Version",
@@ -1839,13 +1839,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 132,
     "name": "Psalms 132",
     "url": "https://api.getbible.net/v2/akjv/19/132.json",
-    "sha": "e53df270c49ee2eea153a186809a17b1a189dd27"
+    "sha": "f32effb5482184b21c6eabf93626c4a3f6c15cda"
   },
   "133": {
     "translation": "American King James Version",
@@ -1853,13 +1853,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 133,
     "name": "Psalms 133",
     "url": "https://api.getbible.net/v2/akjv/19/133.json",
-    "sha": "7e02498324b43dd214e32b980e9e95d67cf36e7c"
+    "sha": "f127a7317ab03db7442172e8c5528b69754bb076"
   },
   "134": {
     "translation": "American King James Version",
@@ -1867,13 +1867,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 134,
     "name": "Psalms 134",
     "url": "https://api.getbible.net/v2/akjv/19/134.json",
-    "sha": "147a20b68770e1ea7b1df8c4aaeeec2568d24635"
+    "sha": "30c5d8a49eeb43b3dbbd39439ac6bafc147b1fd8"
   },
   "135": {
     "translation": "American King James Version",
@@ -1881,13 +1881,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 135,
     "name": "Psalms 135",
     "url": "https://api.getbible.net/v2/akjv/19/135.json",
-    "sha": "ce4f5722d907fe7c68ad1020589fa6734a412dd9"
+    "sha": "7ee484e6cd7d7f6912bdad8d102e4ce1341bf147"
   },
   "136": {
     "translation": "American King James Version",
@@ -1895,13 +1895,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 136,
     "name": "Psalms 136",
     "url": "https://api.getbible.net/v2/akjv/19/136.json",
-    "sha": "8b27bb2a50fa5e493076ffeb8de19aa5ad17fa87"
+    "sha": "8bd184dded9800348a22886416e388c1171d83f4"
   },
   "137": {
     "translation": "American King James Version",
@@ -1909,13 +1909,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 137,
     "name": "Psalms 137",
     "url": "https://api.getbible.net/v2/akjv/19/137.json",
-    "sha": "8ae8f8b72fd1e2a60a9576dde58fd4bc519ecc51"
+    "sha": "bfb58a07f0e027441161105de39fa89f5d66ea93"
   },
   "138": {
     "translation": "American King James Version",
@@ -1923,13 +1923,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 138,
     "name": "Psalms 138",
     "url": "https://api.getbible.net/v2/akjv/19/138.json",
-    "sha": "185800a0b10ad63f209c3db2c74e8a1c65d83ead"
+    "sha": "3ce4b1cf1749d0672828a0766e75c312de0beabb"
   },
   "139": {
     "translation": "American King James Version",
@@ -1937,13 +1937,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 139,
     "name": "Psalms 139",
     "url": "https://api.getbible.net/v2/akjv/19/139.json",
-    "sha": "765865a92b424501036f49c66d50aecc144716f9"
+    "sha": "5950ad7658d673c37184f9ff5710a8b46fac0850"
   },
   "140": {
     "translation": "American King James Version",
@@ -1951,13 +1951,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 140,
     "name": "Psalms 140",
     "url": "https://api.getbible.net/v2/akjv/19/140.json",
-    "sha": "05bae49ae96b19881b02e682a079975d89f575c3"
+    "sha": "8b15eeae833b7640440937930e1e35f7a06a0365"
   },
   "141": {
     "translation": "American King James Version",
@@ -1965,13 +1965,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 141,
     "name": "Psalms 141",
     "url": "https://api.getbible.net/v2/akjv/19/141.json",
-    "sha": "5579a8da9011becbb5075ca6d4e8d544e1d1502b"
+    "sha": "76fae2526f1f3592f9991378f6337fc169ce757d"
   },
   "142": {
     "translation": "American King James Version",
@@ -1979,13 +1979,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 142,
     "name": "Psalms 142",
     "url": "https://api.getbible.net/v2/akjv/19/142.json",
-    "sha": "213c9c96811b1b646e4d9073f44d0a69cf431dcb"
+    "sha": "f5a5700cac41a417af1428ff480501140e7a1a90"
   },
   "143": {
     "translation": "American King James Version",
@@ -1993,13 +1993,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 143,
     "name": "Psalms 143",
     "url": "https://api.getbible.net/v2/akjv/19/143.json",
-    "sha": "eb5417f02f0e478e9ccfb0abe8eecf77fd53be0e"
+    "sha": "eef3f728fe37e50d3026243870e93ffe2443f6b6"
   },
   "144": {
     "translation": "American King James Version",
@@ -2007,13 +2007,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 144,
     "name": "Psalms 144",
     "url": "https://api.getbible.net/v2/akjv/19/144.json",
-    "sha": "4a2bb572f65fda55db79fef16de9b3fe2b6c84ce"
+    "sha": "4ddbced81a48f44628ce18c77349b3b6bc173d75"
   },
   "145": {
     "translation": "American King James Version",
@@ -2021,13 +2021,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 145,
     "name": "Psalms 145",
     "url": "https://api.getbible.net/v2/akjv/19/145.json",
-    "sha": "d30cb6aa2da7d254f4d936008fe20bae97bb907c"
+    "sha": "6ccc0abfa27d5d17858d923a297d3331f0a5c32b"
   },
   "146": {
     "translation": "American King James Version",
@@ -2035,13 +2035,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 146,
     "name": "Psalms 146",
     "url": "https://api.getbible.net/v2/akjv/19/146.json",
-    "sha": "9b02f8bde7a258ab63db9856247658f4df7af102"
+    "sha": "6b3e9bd49500bf4896b02e9fc0bfed1390ccacaa"
   },
   "147": {
     "translation": "American King James Version",
@@ -2049,13 +2049,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 147,
     "name": "Psalms 147",
     "url": "https://api.getbible.net/v2/akjv/19/147.json",
-    "sha": "983102a57cdd5387aaa9c63e70ddddd2f6f4186d"
+    "sha": "4a370ee36d5addc11d8c9f996b2aaa84e2962cdf"
   },
   "148": {
     "translation": "American King James Version",
@@ -2063,13 +2063,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 148,
     "name": "Psalms 148",
     "url": "https://api.getbible.net/v2/akjv/19/148.json",
-    "sha": "57c08702833495d9932313f5440332e2e8de49e1"
+    "sha": "e7c0b63dc6b93815f522b0d44fc3a56f38e4a724"
   },
   "149": {
     "translation": "American King James Version",
@@ -2077,13 +2077,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 149,
     "name": "Psalms 149",
     "url": "https://api.getbible.net/v2/akjv/19/149.json",
-    "sha": "4e4db419116b66ab512ae37fefe133c00aca68db"
+    "sha": "33dbb85d85374ab457779fd06abdf98ae7bd6f9a"
   },
   "150": {
     "translation": "American King James Version",
@@ -2091,12 +2091,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 19,
     "book_name": "Psalms",
     "chapter": 150,
     "name": "Psalms 150",
     "url": "https://api.getbible.net/v2/akjv/19/150.json",
-    "sha": "aa382e359a4e55aefa49d226fbe308fd7ac4bb99"
+    "sha": "3b241e548e1e647adec573967816b65e71313bfe"
   }
 }

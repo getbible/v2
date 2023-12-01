@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 1,
     "name": "Job 1",
     "url": "https://api.getbible.net/v2/akjv/18/1.json",
-    "sha": "ab7832f9d1415773f041f1cf5982fcfff0da2637"
+    "sha": "ec7fdbc06474c00e0dbcde65f5226669a64e9e8c"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 2,
     "name": "Job 2",
     "url": "https://api.getbible.net/v2/akjv/18/2.json",
-    "sha": "735d747157d2eb73994e4cf792a3807bd43f2ecf"
+    "sha": "bc41c85bb0f9d538e175ec7fc0a4ec46fc516f19"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 3,
     "name": "Job 3",
     "url": "https://api.getbible.net/v2/akjv/18/3.json",
-    "sha": "5631a1ace142bb54767594d2069c6f888853e398"
+    "sha": "deeecffbf478f0fc7872678e454432eb10b46ede"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 4,
     "name": "Job 4",
     "url": "https://api.getbible.net/v2/akjv/18/4.json",
-    "sha": "719730ddeb5bceb4ee511e83caed065f78a0100f"
+    "sha": "3b57792b4fc70e1ecb6715f0b4fb84c7e9aa1c60"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 5,
     "name": "Job 5",
     "url": "https://api.getbible.net/v2/akjv/18/5.json",
-    "sha": "7dca43a8ade42490154e95cc22c64f2138f852d4"
+    "sha": "ecf4b9af03e77082aa851deb3f44224237204522"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 6,
     "name": "Job 6",
     "url": "https://api.getbible.net/v2/akjv/18/6.json",
-    "sha": "7fe1b69b1ccf7c3ad9ff63258618ffcb1bed040a"
+    "sha": "8c68dd7fef63730450006a121c6977fa39826bb0"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 7,
     "name": "Job 7",
     "url": "https://api.getbible.net/v2/akjv/18/7.json",
-    "sha": "217979d8bd3a28873a670d1bcd264626f5520634"
+    "sha": "bd68401f11cb18f1d58684f8529bbe9779684d92"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 8,
     "name": "Job 8",
     "url": "https://api.getbible.net/v2/akjv/18/8.json",
-    "sha": "82440c43b135682953d8725ff82cf187f35b8e75"
+    "sha": "609978437f49e91e7531b975239dfe98e439aaee"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 9,
     "name": "Job 9",
     "url": "https://api.getbible.net/v2/akjv/18/9.json",
-    "sha": "26a36dabf0c91cf0457a4126567ecd35ef97e590"
+    "sha": "2fef8adab1bdab3ac904f7bc7bb92363efabc11b"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 10,
     "name": "Job 10",
     "url": "https://api.getbible.net/v2/akjv/18/10.json",
-    "sha": "181c0b1035eca76d160da0bf33cf083653c01ae2"
+    "sha": "8fada7c3b12e26faa45a4d058b0efdedef29a132"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 11,
     "name": "Job 11",
     "url": "https://api.getbible.net/v2/akjv/18/11.json",
-    "sha": "d3ea54f6a0acdb15803c5ebaf616d31efb1e733b"
+    "sha": "e35e1bc67a3d9152fdfa4e97a4cf8fa8d20a4f4c"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 12,
     "name": "Job 12",
     "url": "https://api.getbible.net/v2/akjv/18/12.json",
-    "sha": "9d1cd6f1022f8da831d208bc7a441de49dc76407"
+    "sha": "eef9b01d6a9f9661aa464358ca11910999d0d4f3"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 13,
     "name": "Job 13",
     "url": "https://api.getbible.net/v2/akjv/18/13.json",
-    "sha": "4eadef938a7e1dc17d36e5e08a1963fd7983af1f"
+    "sha": "5779458e950c6825dfac92e9b00e4cf88450e4c9"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 14,
     "name": "Job 14",
     "url": "https://api.getbible.net/v2/akjv/18/14.json",
-    "sha": "2627d308f4159cb5d0a75a1ab163bf5ce1e98757"
+    "sha": "7cc5c460c1ba596abe69d26040fb85c9506ea292"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 15,
     "name": "Job 15",
     "url": "https://api.getbible.net/v2/akjv/18/15.json",
-    "sha": "c08345f6b06226c985096074979d8d9c54f33454"
+    "sha": "ba60431576b6a956a2a7169e177bbbcea9bd2ac1"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 16,
     "name": "Job 16",
     "url": "https://api.getbible.net/v2/akjv/18/16.json",
-    "sha": "45a38689f11531273b499b7b4a5d987ca7b6887e"
+    "sha": "b7d7531b5e2071be7c8ffea649b1909e886ba4f0"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 17,
     "name": "Job 17",
     "url": "https://api.getbible.net/v2/akjv/18/17.json",
-    "sha": "b32c47459076d042801ba51cd9cfd8553c10092b"
+    "sha": "bb43e5a61b68aa93f10f7a73dace6eb041571dc6"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 18,
     "name": "Job 18",
     "url": "https://api.getbible.net/v2/akjv/18/18.json",
-    "sha": "ccd36fc51cd2c7b610249a251e39ec6a82505e58"
+    "sha": "74170a4c2d60b14a9def9519c99386d269dd7151"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 19,
     "name": "Job 19",
     "url": "https://api.getbible.net/v2/akjv/18/19.json",
-    "sha": "10f7eb66662a020288b23b63fe48fc6fe3a141fb"
+    "sha": "bfa7dd1943d67bcd7f833e6b0afcc26ec36744e3"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 20,
     "name": "Job 20",
     "url": "https://api.getbible.net/v2/akjv/18/20.json",
-    "sha": "e1e5076df598681fdb3fb8edf6419d6408381454"
+    "sha": "a283f58f40fa5cfd91f7541c5a6d4c97acc107a5"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 21,
     "name": "Job 21",
     "url": "https://api.getbible.net/v2/akjv/18/21.json",
-    "sha": "0d4f5a6d306383e889e6783996ed4268ddcaabc2"
+    "sha": "5da3ad4ea397307427947ae05a8513b55095c5cd"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 22,
     "name": "Job 22",
     "url": "https://api.getbible.net/v2/akjv/18/22.json",
-    "sha": "52159ade7441154152bc8ecb0574047df7e851f4"
+    "sha": "b4fb726c910a1873865f156fea52728879bdb558"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 23,
     "name": "Job 23",
     "url": "https://api.getbible.net/v2/akjv/18/23.json",
-    "sha": "4fe4f25371b206086bf0228a4f226ea977739381"
+    "sha": "7667934cc7180e6bde48f9de18f7535c822164ed"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 24,
     "name": "Job 24",
     "url": "https://api.getbible.net/v2/akjv/18/24.json",
-    "sha": "019544019770ee4eced082bdca726fe79ff3e046"
+    "sha": "7c817beb1dcf629b911727b8a0bbe05ae13104af"
   },
   "25": {
     "translation": "American King James Version",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 25,
     "name": "Job 25",
     "url": "https://api.getbible.net/v2/akjv/18/25.json",
-    "sha": "aa80bdd46bd8496cbd3707fd27d6ac940cd744ea"
+    "sha": "a8c2e99d9a5ca5e9a4613559c6a27f17eccb43b9"
   },
   "26": {
     "translation": "American King James Version",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 26,
     "name": "Job 26",
     "url": "https://api.getbible.net/v2/akjv/18/26.json",
-    "sha": "faf8a1898ac5bc1403483ef96eb7313cc74a2a6d"
+    "sha": "4b0fef60c32e4f58cd69e9e287753c3923819b8b"
   },
   "27": {
     "translation": "American King James Version",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 27,
     "name": "Job 27",
     "url": "https://api.getbible.net/v2/akjv/18/27.json",
-    "sha": "39cd08fbdec73067c4b4e161f76b1b364a6156db"
+    "sha": "bd2fc6ec2f3da8fd39ee47046eda8193e094d903"
   },
   "28": {
     "translation": "American King James Version",
@@ -383,13 +383,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 28,
     "name": "Job 28",
     "url": "https://api.getbible.net/v2/akjv/18/28.json",
-    "sha": "4cd20a096f67513efdf261ef83f36d2e46ed5dba"
+    "sha": "1189653ccd93569bed31b6afccbe1713c4ab57c8"
   },
   "29": {
     "translation": "American King James Version",
@@ -397,13 +397,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 29,
     "name": "Job 29",
     "url": "https://api.getbible.net/v2/akjv/18/29.json",
-    "sha": "fe50aeba5c94e40594428a356b4be9340594f179"
+    "sha": "13309ffbd871fc2e36f9d47b2e76ca80d12edf1d"
   },
   "30": {
     "translation": "American King James Version",
@@ -411,13 +411,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 30,
     "name": "Job 30",
     "url": "https://api.getbible.net/v2/akjv/18/30.json",
-    "sha": "b357510472f0e652b8ea1ace9b3748e8a17af7c2"
+    "sha": "b653eac1310afa9b146e4b421ccfe8ab5a0e1984"
   },
   "31": {
     "translation": "American King James Version",
@@ -425,13 +425,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 31,
     "name": "Job 31",
     "url": "https://api.getbible.net/v2/akjv/18/31.json",
-    "sha": "aaec65787c14888ee5f4a7c57f61923c5b1ae568"
+    "sha": "6f0b18384b94ef5a75dd95bccdb0d2c4fd67d48e"
   },
   "32": {
     "translation": "American King James Version",
@@ -439,13 +439,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 32,
     "name": "Job 32",
     "url": "https://api.getbible.net/v2/akjv/18/32.json",
-    "sha": "ae90195cf84eab65eb848557206232b8d3ebb21f"
+    "sha": "512f01053977f45b9508a89d05ac816103c76ffc"
   },
   "33": {
     "translation": "American King James Version",
@@ -453,13 +453,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 33,
     "name": "Job 33",
     "url": "https://api.getbible.net/v2/akjv/18/33.json",
-    "sha": "69527fd5a0856efd2dea46812ab0243f203b9fba"
+    "sha": "568defd8a8bc9abf391e06722903b0b389c956ef"
   },
   "34": {
     "translation": "American King James Version",
@@ -467,13 +467,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 34,
     "name": "Job 34",
     "url": "https://api.getbible.net/v2/akjv/18/34.json",
-    "sha": "05666ae51250f8cef7ebe6c2b49944b9e77119f7"
+    "sha": "c3394696b169b8d42426b88f65169b99574186ac"
   },
   "35": {
     "translation": "American King James Version",
@@ -481,13 +481,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 35,
     "name": "Job 35",
     "url": "https://api.getbible.net/v2/akjv/18/35.json",
-    "sha": "999b8f638493c4fdb8296809618abfaa567e62e5"
+    "sha": "944ab7ae60b23197d8cc306cc4e90aec2990778e"
   },
   "36": {
     "translation": "American King James Version",
@@ -495,13 +495,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 36,
     "name": "Job 36",
     "url": "https://api.getbible.net/v2/akjv/18/36.json",
-    "sha": "762cb1787fa82836ece417d465b76084da4cc8b3"
+    "sha": "bd94a0f3216a0428f5f50167a90dca8aa130c9be"
   },
   "37": {
     "translation": "American King James Version",
@@ -509,13 +509,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 37,
     "name": "Job 37",
     "url": "https://api.getbible.net/v2/akjv/18/37.json",
-    "sha": "584bd50979e16397c8c379b2cb7c9f32ee993e32"
+    "sha": "61c97972a239875da861d2366c668aeb1f13d725"
   },
   "38": {
     "translation": "American King James Version",
@@ -523,13 +523,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 38,
     "name": "Job 38",
     "url": "https://api.getbible.net/v2/akjv/18/38.json",
-    "sha": "c251a0445ad27f7807614f39c44b10b32cbcf969"
+    "sha": "32638833ec536463c976f92d8796c31aeffc5724"
   },
   "39": {
     "translation": "American King James Version",
@@ -537,13 +537,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 39,
     "name": "Job 39",
     "url": "https://api.getbible.net/v2/akjv/18/39.json",
-    "sha": "8d37c88841d1642990cd316bacd00dcd83d85624"
+    "sha": "f2c12f60944b1915753ecd575e899441c788effd"
   },
   "40": {
     "translation": "American King James Version",
@@ -551,13 +551,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 40,
     "name": "Job 40",
     "url": "https://api.getbible.net/v2/akjv/18/40.json",
-    "sha": "eff1d60723772cbdb09060a3e9cd96290e6b9833"
+    "sha": "ca38410b4ea0fae2061ccd64fafcfb2c1da48191"
   },
   "41": {
     "translation": "American King James Version",
@@ -565,13 +565,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 41,
     "name": "Job 41",
     "url": "https://api.getbible.net/v2/akjv/18/41.json",
-    "sha": "5d69daa19edffe03cd9fe0d914e58d158a79f6d4"
+    "sha": "45564cedf9f6c839796eafcefc01df3b628ec843"
   },
   "42": {
     "translation": "American King James Version",
@@ -579,12 +579,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 18,
     "book_name": "Job",
     "chapter": 42,
     "name": "Job 42",
     "url": "https://api.getbible.net/v2/akjv/18/42.json",
-    "sha": "43c72c37ba562010954678c94b0f7c23a503e679"
+    "sha": "3532cccf65f4b8aff2e3ebe3f6dc8d02097bf3af"
   }
 }

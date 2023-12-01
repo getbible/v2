@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "希伯來書 1",
     "url": "https://api.getbible.net/v2/cut/58/1.json",
-    "sha": "e6eb333ae5c4862923494cf7a7fd06f8a7efce2f"
+    "sha": "d34648595cc750f437ba67415859ab48ec42777c"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "希伯來書 2",
     "url": "https://api.getbible.net/v2/cut/58/2.json",
-    "sha": "544ffaa721eea35fcdd8db3d9697f36500b3875c"
+    "sha": "d444b65c04f2ecd4b1ba1a3b86b26d9fe032e517"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "希伯來書 3",
     "url": "https://api.getbible.net/v2/cut/58/3.json",
-    "sha": "be2686849e391c655b3a309bbffaf65760661fc6"
+    "sha": "9b0bd3b6b423c2d4d8833b31c1be1b18582ba6c2"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "希伯來書 4",
     "url": "https://api.getbible.net/v2/cut/58/4.json",
-    "sha": "e830467c2ecc455321fe7ab5428fcd1744daf489"
+    "sha": "4260eb5986ef503e01dc02f4464a3b24869a2a6e"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "希伯來書 5",
     "url": "https://api.getbible.net/v2/cut/58/5.json",
-    "sha": "2ebdd832ec05cc8271ac98628ae1c79b7ffec76d"
+    "sha": "7393f6e843428eac333c98d722ba16e7efea6ca6"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "希伯來書 6",
     "url": "https://api.getbible.net/v2/cut/58/6.json",
-    "sha": "17cc18f9bb24c8f610ab05f6c19c71e5b4f1de43"
+    "sha": "178f9297997383c0b5cbc430495e9cebaeec5247"
   },
   "7": {
     "translation": "Union Traditional",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "希伯來書 7",
     "url": "https://api.getbible.net/v2/cut/58/7.json",
-    "sha": "8a42a3f757bdeb85860a129bdd0a83f7f5ca39f9"
+    "sha": "e6f77a3758397d6b8aded73291d4a982e63c39c1"
   },
   "8": {
     "translation": "Union Traditional",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "希伯來書 8",
     "url": "https://api.getbible.net/v2/cut/58/8.json",
-    "sha": "05a0122644697f1618375c99ec5df49042ec4baf"
+    "sha": "2e23e1bd8a33880505335dfdb60e7575be0e5e07"
   },
   "9": {
     "translation": "Union Traditional",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "希伯來書 9",
     "url": "https://api.getbible.net/v2/cut/58/9.json",
-    "sha": "0c7209f015299de1b0792a24704ff13fd9e4720e"
+    "sha": "1a6c7e3c64350e176d4f31ed59602ca726786533"
   },
   "10": {
     "translation": "Union Traditional",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "希伯來書 10",
     "url": "https://api.getbible.net/v2/cut/58/10.json",
-    "sha": "5c9830d1e520d7cf6d8d6f24c1be50f0b6089d38"
+    "sha": "d46c078c9cd3711b26f5a31391acc044d950fdf0"
   },
   "11": {
     "translation": "Union Traditional",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "希伯來書 11",
     "url": "https://api.getbible.net/v2/cut/58/11.json",
-    "sha": "a62e2d90ef38b77b2b68da4cdfefdcb8c10c3a23"
+    "sha": "643dc3eaf6798a38d717738a104d8e3eaf0d4e5b"
   },
   "12": {
     "translation": "Union Traditional",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "希伯來書 12",
     "url": "https://api.getbible.net/v2/cut/58/12.json",
-    "sha": "b41582c12cff4b8db65b5af690717b44746e797c"
+    "sha": "69f26aa6667d453b4e0d93245eef5395f6fc7d53"
   },
   "13": {
     "translation": "Union Traditional",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "希伯來書 13",
     "url": "https://api.getbible.net/v2/cut/58/13.json",
-    "sha": "70d09cda3c29cc24f238d199e323abe0f15acfbc"
+    "sha": "11ccd0152f593d6c0f8cdad183a0c360cf4b37a1"
   }
 }

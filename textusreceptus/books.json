@@ -9,7 +9,7 @@
     "nr": 40,
     "name": "Κατά Ματθαίον",
     "url": "https://api.getbible.net/v2/textusreceptus/40.json",
-    "sha": "b78ce08208fbfdcae47da386a5a6e0062ae7fd84"
+    "sha": "d688cdc9e833392c24c49e3b723460bfbcfd60ce"
   },
   "41": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,7 +21,7 @@
     "nr": 41,
     "name": "Κατά Μάρκον",
     "url": "https://api.getbible.net/v2/textusreceptus/41.json",
-    "sha": "f181841fcce86ce4a2874b821ebe82a4a6e40a43"
+    "sha": "8e7e7ebb6539a6ed3973f1a136ccf7c680a46361"
   },
   "42": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -33,7 +33,7 @@
     "nr": 42,
     "name": "Κατά Λουκάν",
     "url": "https://api.getbible.net/v2/textusreceptus/42.json",
-    "sha": "abb3fdd8b9cd049c01321dc4b7d9e07d969b1536"
+    "sha": "80247824eb33d1322e61998aa307c76de8097567"
   },
   "43": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -45,7 +45,7 @@
     "nr": 43,
     "name": "Κατά Ιωάννην",
     "url": "https://api.getbible.net/v2/textusreceptus/43.json",
-    "sha": "826ef87ab76aadb82a6963587463457073d474fb"
+    "sha": "c8f982be5c4ac7764c538550dc85c601373d51eb"
   },
   "44": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -57,7 +57,7 @@
     "nr": 44,
     "name": "Πράξεις",
     "url": "https://api.getbible.net/v2/textusreceptus/44.json",
-    "sha": "1b1aca06d6b19157058faf543cb109bf1046aea2"
+    "sha": "ec783ead4ee31aacc23da4966711182406109a75"
   },
   "45": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -69,7 +69,7 @@
     "nr": 45,
     "name": "Προς Ρωμαίους",
     "url": "https://api.getbible.net/v2/textusreceptus/45.json",
-    "sha": "299633ad041fc32b21c21d175cbc7c60049fe655"
+    "sha": "93762c31c9817a51e37deac14737861a78abc845"
   },
   "46": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "nr": 46,
     "name": "Προς Κορινθίους Α'",
     "url": "https://api.getbible.net/v2/textusreceptus/46.json",
-    "sha": "eaa34a3325a2d3e77ed0a69a820b6a22f06bb878"
+    "sha": "45933f8e3bd0247a55b94fc1dca15983dcdef4b1"
   },
   "47": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -93,7 +93,7 @@
     "nr": 47,
     "name": "Προς Κορινθίους Β'",
     "url": "https://api.getbible.net/v2/textusreceptus/47.json",
-    "sha": "7e8791878c0629bab899b78d765acfdb056ffc22"
+    "sha": "7a51b37936d8883dc0c8ae0278e12a2759627d7b"
   },
   "48": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -105,7 +105,7 @@
     "nr": 48,
     "name": "Προς Γαλάτας",
     "url": "https://api.getbible.net/v2/textusreceptus/48.json",
-    "sha": "eb9442bc3e5ec090e9bb9e867467c728f9be246c"
+    "sha": "175a97cd9b56e7568361f2be542f191933551b4e"
   },
   "49": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -117,7 +117,7 @@
     "nr": 49,
     "name": "Προς Εφεσίους",
     "url": "https://api.getbible.net/v2/textusreceptus/49.json",
-    "sha": "5d2b28451c68f0a85710f4952ae3fe9d1ad1bf2a"
+    "sha": "be92a4cf8a5b9ac2219fbdbdb2922702035c3fd7"
   },
   "50": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -129,7 +129,7 @@
     "nr": 50,
     "name": "Προς Φιλιππησίους",
     "url": "https://api.getbible.net/v2/textusreceptus/50.json",
-    "sha": "19839c06e8dfb5fdcf43e2be17ed32a1d1dd63e4"
+    "sha": "bd0fc92a786ea5cad007c093fbb715a4cbddeff5"
   },
   "51": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -141,7 +141,7 @@
     "nr": 51,
     "name": "Προς Κολοσσαείς",
     "url": "https://api.getbible.net/v2/textusreceptus/51.json",
-    "sha": "972fa01b56c516936a9d7c8967b3593f9139bad1"
+    "sha": "2794f4fe324fcb16fcd209600c566effa1143fb1"
   },
   "52": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -153,7 +153,7 @@
     "nr": 52,
     "name": "Προς Θεσσαλονικείς Α'",
     "url": "https://api.getbible.net/v2/textusreceptus/52.json",
-    "sha": "8e7e22dc5871c118d7a6ebdd1b09c9575fd97fc5"
+    "sha": "7e5410d5efeb64025308c0a0eb881b129d9bbadd"
   },
   "53": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "nr": 53,
     "name": "Προς Θεσσαλονικείς Β'",
     "url": "https://api.getbible.net/v2/textusreceptus/53.json",
-    "sha": "f3d2d7a2afc7f2b129874caa425776ec3c9536d0"
+    "sha": "33eb410428db478bfa1dcc7242f36c926f2adfb5"
   },
   "54": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -177,7 +177,7 @@
     "nr": 54,
     "name": "Προς Τιμόθεον Α'",
     "url": "https://api.getbible.net/v2/textusreceptus/54.json",
-    "sha": "cdc88de12db357d9c3afe1023dcf37d241fddb3e"
+    "sha": "60610425f39cff3802d07afb24a4490137638385"
   },
   "55": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -189,7 +189,7 @@
     "nr": 55,
     "name": "Προς Τιμόθεον Β'",
     "url": "https://api.getbible.net/v2/textusreceptus/55.json",
-    "sha": "76101b312382486d5f1c51c0b336c297871574e7"
+    "sha": "c89faf5159a068cd5a6404dad2a7463bd7b1beaf"
   },
   "56": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -201,7 +201,7 @@
     "nr": 56,
     "name": "Προς Τίτον",
     "url": "https://api.getbible.net/v2/textusreceptus/56.json",
-    "sha": "41fe2a1e523e9a8f3ea7da16165090e0f097739d"
+    "sha": "5cde6326000e7126640a63d611ed3c80e861b349"
   },
   "57": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -213,7 +213,7 @@
     "nr": 57,
     "name": "Προς Φιλήμονα",
     "url": "https://api.getbible.net/v2/textusreceptus/57.json",
-    "sha": "c38b388cea3f068cd445861472bf3fb4ea8d2928"
+    "sha": "a8060ae57c77b2cd4d33ae133689781eb0227a09"
   },
   "58": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -225,7 +225,7 @@
     "nr": 58,
     "name": "Προς Εβραίους",
     "url": "https://api.getbible.net/v2/textusreceptus/58.json",
-    "sha": "cc2000edb2d7fc88a37ed8183ea97a965e7e4b18"
+    "sha": "fcf62d2489d72ea0470c46b6f7878782dfac5516"
   },
   "59": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -237,7 +237,7 @@
     "nr": 59,
     "name": "Ιάκωβος",
     "url": "https://api.getbible.net/v2/textusreceptus/59.json",
-    "sha": "5333b0d6ef3fbe62018c11c1884e157425492dd2"
+    "sha": "13c3d7fb3aa3d198ffdd9a2a71c83724f7ff5b2d"
   },
   "60": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -249,7 +249,7 @@
     "nr": 60,
     "name": "Πέτρου Α'",
     "url": "https://api.getbible.net/v2/textusreceptus/60.json",
-    "sha": "d1a07fe1f862868b7441dbc30a0fea40454be146"
+    "sha": "4624844d137aeeb042ee70153f87fb7abc68092c"
   },
   "61": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -261,7 +261,7 @@
     "nr": 61,
     "name": "Πέτρου Β'",
     "url": "https://api.getbible.net/v2/textusreceptus/61.json",
-    "sha": "537afb41b05d882f8823d34e0f4e226e9a44eeb9"
+    "sha": "b6038c5094d59e5e4ba9cf19a8d77a31316e0939"
   },
   "62": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -273,7 +273,7 @@
     "nr": 62,
     "name": "Ιωάννου Α'",
     "url": "https://api.getbible.net/v2/textusreceptus/62.json",
-    "sha": "fed2ed09c047376520c9dee6969746cd806e7d4e"
+    "sha": "d5dce82c34544111042d309c6c8aa822741a6c8b"
   },
   "63": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -285,7 +285,7 @@
     "nr": 63,
     "name": "Ιωάννου Β'",
     "url": "https://api.getbible.net/v2/textusreceptus/63.json",
-    "sha": "5f5fac896f0781efb31dd754a90b5e5d607ba7ff"
+    "sha": "7da677c201584087a4306d6a96d6cb0310035c7a"
   },
   "64": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -297,7 +297,7 @@
     "nr": 64,
     "name": "Ιωάννου Γ'",
     "url": "https://api.getbible.net/v2/textusreceptus/64.json",
-    "sha": "fe4776cd380082246e98eefab94b02bfc4575a5e"
+    "sha": "86e759404f6c606a0f7edde79f5a51a11781298a"
   },
   "65": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -309,7 +309,7 @@
     "nr": 65,
     "name": "Ιούδας",
     "url": "https://api.getbible.net/v2/textusreceptus/65.json",
-    "sha": "0b711e6f7b95a88686ae44b55132f99926ccfa97"
+    "sha": "4b18016622d988cd24374745ba3f16b46941b48d"
   },
   "66": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -321,6 +321,6 @@
     "nr": 66,
     "name": "Αποκάλυψις",
     "url": "https://api.getbible.net/v2/textusreceptus/66.json",
-    "sha": "71bdb6dcedb252580785302ca835a1af4dceb571"
+    "sha": "0219afe481fba53cb6bb8eecca88937b749b8280"
   }
 }

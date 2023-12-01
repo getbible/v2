@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "那鴻書 1",
     "url": "https://api.getbible.net/v2/cut/34/1.json",
-    "sha": "d7fc29930a6528068faf1db1c1fa87b0fe935000"
+    "sha": "fb4b0b6f08eb61c7056734b23487455426c6be16"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "那鴻書 2",
     "url": "https://api.getbible.net/v2/cut/34/2.json",
-    "sha": "5fe3d107b366956ecfe328d0baa7b869dcdfa86c"
+    "sha": "fb27f1b14b2a6c76a29483e529e57424ae8cf262"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "那鴻書 3",
     "url": "https://api.getbible.net/v2/cut/34/3.json",
-    "sha": "10f1256cfc5a0ee3d2783c9fe68519411e7cc84e"
+    "sha": "54f7f26ec580f9c5de0e481f27786e8fc25c55cc"
   }
 }

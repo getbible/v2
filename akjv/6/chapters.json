@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 1,
     "name": "Joshua 1",
     "url": "https://api.getbible.net/v2/akjv/6/1.json",
-    "sha": "b2c7a9b5ada51fe1f6bb9e6cbf5349a9ceca64a4"
+    "sha": "81c43862dec9a1d3929bc0895f94c6f05150b820"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 2,
     "name": "Joshua 2",
     "url": "https://api.getbible.net/v2/akjv/6/2.json",
-    "sha": "f7d59150223fba078a5646fdd6cf7c9ebb2223af"
+    "sha": "616a3395dfea33b18f29317cd7e5ffb347e76814"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 3,
     "name": "Joshua 3",
     "url": "https://api.getbible.net/v2/akjv/6/3.json",
-    "sha": "34e32be1c6c50c8cde7646f3c08dfba67b8ec277"
+    "sha": "dbf5d537193db4c1fa861088c314941343a4083d"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 4,
     "name": "Joshua 4",
     "url": "https://api.getbible.net/v2/akjv/6/4.json",
-    "sha": "502dad81194c0ab162d8f00335f8692a650a9b34"
+    "sha": "d063b5b39a8f352f2ad6d834e9bb529e87b8ca80"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 5,
     "name": "Joshua 5",
     "url": "https://api.getbible.net/v2/akjv/6/5.json",
-    "sha": "e82fa6fc159222861d6444b60aa4441e8dd3815e"
+    "sha": "4afe197cd4a073c7506d8d6ad19ee3f9a3f13595"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 6,
     "name": "Joshua 6",
     "url": "https://api.getbible.net/v2/akjv/6/6.json",
-    "sha": "e73b4f3d13c1fb00c22a0d7906d4c40ab8b75b47"
+    "sha": "4138c943624fc63adb89d6a83b94774425e75ece"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 7,
     "name": "Joshua 7",
     "url": "https://api.getbible.net/v2/akjv/6/7.json",
-    "sha": "a39f39df6d1dcb0fa66c8b980edf9d51962b727a"
+    "sha": "2dd37089af6a552a5a95d81e4435f6768dd742ea"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 8,
     "name": "Joshua 8",
     "url": "https://api.getbible.net/v2/akjv/6/8.json",
-    "sha": "500a9c732ffa93a647e5d3ed1224c7e4be825ed4"
+    "sha": "00a46343519c81e9839b3069440ccf1ed9aeda45"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 9,
     "name": "Joshua 9",
     "url": "https://api.getbible.net/v2/akjv/6/9.json",
-    "sha": "173a22d92ca94798afef15731a28ddbf55ca3962"
+    "sha": "f7513b8783bda47700548679d86f4e02ec21aa1a"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 10,
     "name": "Joshua 10",
     "url": "https://api.getbible.net/v2/akjv/6/10.json",
-    "sha": "6f526d9052844eb8babe6ccfd10f1de66c2fc432"
+    "sha": "2493a99d8643643828e30c3b1d877dc2925f3c12"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 11,
     "name": "Joshua 11",
     "url": "https://api.getbible.net/v2/akjv/6/11.json",
-    "sha": "86c1e8be6bfbdfe05424142de5f3f2b49b6b0e5f"
+    "sha": "4cb2bcb698e06ca13030a5adb86f79538e24cff1"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 12,
     "name": "Joshua 12",
     "url": "https://api.getbible.net/v2/akjv/6/12.json",
-    "sha": "28b317e48bae98b84f72fcd8732cb6900d551b4e"
+    "sha": "469b410fb86c2d849e28eebb070b03336c8ea007"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 13,
     "name": "Joshua 13",
     "url": "https://api.getbible.net/v2/akjv/6/13.json",
-    "sha": "009d2a93700e261e24307f08fd1cbe6121068e01"
+    "sha": "a056e54404750989a14e95892978adf2155e05bb"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 14,
     "name": "Joshua 14",
     "url": "https://api.getbible.net/v2/akjv/6/14.json",
-    "sha": "99ae9d3fa885f35da1e7c5e120a48d9f193a23b2"
+    "sha": "0ff00da42668007b594d7fc8e38e9a5a1c635af0"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 15,
     "name": "Joshua 15",
     "url": "https://api.getbible.net/v2/akjv/6/15.json",
-    "sha": "b79535615172d333a4220048f80a321e298847bf"
+    "sha": "98d528c58efbf54d4156df3571f0eefcc546e2aa"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 16,
     "name": "Joshua 16",
     "url": "https://api.getbible.net/v2/akjv/6/16.json",
-    "sha": "473442086d408b30d716696612b4a1ff7ec812c5"
+    "sha": "116d2f0f6b221c9646c6262b4e88ed9c1e85c8ec"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 17,
     "name": "Joshua 17",
     "url": "https://api.getbible.net/v2/akjv/6/17.json",
-    "sha": "fc3833664fa5818304cde4419954055808107ca3"
+    "sha": "70b1bc3e1b383c2c64f06bd94492cd3f42afa742"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 18,
     "name": "Joshua 18",
     "url": "https://api.getbible.net/v2/akjv/6/18.json",
-    "sha": "179a17d51c92d52aeb58bd01f21ddb5ca0e2f7ae"
+    "sha": "6d2903b50fe9a052e7ed986cfeb0ed981b832dfc"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 19,
     "name": "Joshua 19",
     "url": "https://api.getbible.net/v2/akjv/6/19.json",
-    "sha": "bf8ed482bcb0498640fc5d19762b8579afcd163a"
+    "sha": "6b15d3d0c994d7253b3e04d933384671b7ca5fcf"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 20,
     "name": "Joshua 20",
     "url": "https://api.getbible.net/v2/akjv/6/20.json",
-    "sha": "0cb71b272e913b45097d2b94c061843b5c8b777d"
+    "sha": "6fd10854f8e726d2275a3b9177a311f7d07c6789"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 21,
     "name": "Joshua 21",
     "url": "https://api.getbible.net/v2/akjv/6/21.json",
-    "sha": "84e7b15f7db59cd42d0785866dcef7caba995c74"
+    "sha": "772ab8622ed41442be4c86c24b8b87ff8e0a1a27"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 22,
     "name": "Joshua 22",
     "url": "https://api.getbible.net/v2/akjv/6/22.json",
-    "sha": "a2aaf073a13e44fc7e4374419b081802b3b3dc49"
+    "sha": "2e3bf5258784bca53b19721dab0443c242c9e4af"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 23,
     "name": "Joshua 23",
     "url": "https://api.getbible.net/v2/akjv/6/23.json",
-    "sha": "8215a4437a4ef412df425f9f6a7b935326373e6c"
+    "sha": "7c223443a43e9113eba0ccc87aa1dc8e7ce30c2b"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,12 +327,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 6,
     "book_name": "Joshua",
     "chapter": 24,
     "name": "Joshua 24",
     "url": "https://api.getbible.net/v2/akjv/6/24.json",
-    "sha": "bff01376d90375d013af5712d2cd1445a7ef3194"
+    "sha": "8c86a1544f881fc46edd011e1837c5770f3b9155"
   }
 }

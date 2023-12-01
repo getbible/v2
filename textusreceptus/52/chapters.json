@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Προς Θεσσαλονικείς Α' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/52/1.json",
-    "sha": "574df79359908807489fb14b3c2dfb2280c02329"
+    "sha": "8a93487e294d415c4d754fd60085ce7de9fb4e08"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Προς Θεσσαλονικείς Α' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/52/2.json",
-    "sha": "c8836cc6579c63643edfb303c233008cb4eeab05"
+    "sha": "7467d0037805ffb2b7c5e515b01eb2efe9e7888d"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Προς Θεσσαλονικείς Α' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/52/3.json",
-    "sha": "7bd214eef708413ace4dd95a8804a7f5b0a8c087"
+    "sha": "9cd332ed90c247700fe2484d74341562a28dd045"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Προς Θεσσαλονικείς Α' 5",
     "url": "https://api.getbible.net/v2/textusreceptus/52/5.json",
-    "sha": "a08c4c551fea543bf466869c133a603df1036e71"
+    "sha": "aa473c875c4a9c94135f3aa7b83441b9e22c8852"
   }
 }

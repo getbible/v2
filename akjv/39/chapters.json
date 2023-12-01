@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 1,
     "name": "Malachi 1",
     "url": "https://api.getbible.net/v2/akjv/39/1.json",
-    "sha": "5b2394ec91de9ae4f0c33bf0e650c52a3ad8476a"
+    "sha": "8b47859e4fdfbe7c587854059c963322945de675"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 2,
     "name": "Malachi 2",
     "url": "https://api.getbible.net/v2/akjv/39/2.json",
-    "sha": "1f08f03746ee43c897914c64a3d9ea4f6cafd201"
+    "sha": "a1d866c00a5f215a8915e9db1556912fd1b29cbf"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 3,
     "name": "Malachi 3",
     "url": "https://api.getbible.net/v2/akjv/39/3.json",
-    "sha": "0e2486a8d1e49b1b0670035e1b3d2306e60ea0ed"
+    "sha": "0ed117a720aa14025000ad55e9a799a04a789d0b"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,12 +47,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 39,
     "book_name": "Malachi",
     "chapter": 4,
     "name": "Malachi 4",
     "url": "https://api.getbible.net/v2/akjv/39/4.json",
-    "sha": "15935e5553dbaa27e22812940925352308d79d9e"
+    "sha": "5ecc001de48501cbcd21bb03f4a42c0d676ae444"
   }
 }

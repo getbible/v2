@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "雅歌 1",
     "url": "https://api.getbible.net/v2/cut/22/1.json",
-    "sha": "c1566457e6a489f81cc0c02277706aa9195b3dd6"
+    "sha": "2ed970e1eb827db5759befdb9e18606fa08937cc"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "雅歌 2",
     "url": "https://api.getbible.net/v2/cut/22/2.json",
-    "sha": "dc26d11b3e8513e6dcfcd6f7b1f4342d1857e5d1"
+    "sha": "8eb7274cb1da05f81155fd38d91ab02defa984e2"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "雅歌 3",
     "url": "https://api.getbible.net/v2/cut/22/3.json",
-    "sha": "8ef4b7703f156ac15f6da6f085119421c4b430ea"
+    "sha": "385d0d6017ff378350d86235dc98bf12b93e01e6"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "雅歌 4",
     "url": "https://api.getbible.net/v2/cut/22/4.json",
-    "sha": "83a702a2822fe993eb474686e596204baa2d6a20"
+    "sha": "9cd70c48551dbec778d04d3a2e928fc1fa36db63"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "雅歌 5",
     "url": "https://api.getbible.net/v2/cut/22/5.json",
-    "sha": "046b5d3d32d90f99078eccaa625e25fafdac2da5"
+    "sha": "eb26bc08c83424e21f0bad581897e7f0017176e0"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "雅歌 6",
     "url": "https://api.getbible.net/v2/cut/22/6.json",
-    "sha": "41808a97c1c82ba190af946bf39f698fc93ad58c"
+    "sha": "0392d93266700fb0a78fcccfa162cab7be9e8870"
   },
   "7": {
     "translation": "Union Traditional",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "雅歌 7",
     "url": "https://api.getbible.net/v2/cut/22/7.json",
-    "sha": "deeb8bf37ace7069eb22c46c4f6992c08b514cfd"
+    "sha": "62160c9d323af2d02301168277d2df1e56526603"
   },
   "8": {
     "translation": "Union Traditional",
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "雅歌 8",
     "url": "https://api.getbible.net/v2/cut/22/8.json",
-    "sha": "7d679d19655e1154533198a4631aec2eee96c9bc"
+    "sha": "e1073401a19b43add828288cba49a20b7d866304"
   }
 }

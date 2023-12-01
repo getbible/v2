@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "约翰一书 1",
     "url": "https://api.getbible.net/v2/cus/62/1.json",
-    "sha": "f21c1d348b29534d8fb60a26232a583ea206c128"
+    "sha": "a68e0f182ef9eb0b5e434d0746da11d18520a9c3"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "约翰一书 2",
     "url": "https://api.getbible.net/v2/cus/62/2.json",
-    "sha": "eb54fbb4869c61556b7aa2bdee0c99ab023f1224"
+    "sha": "ccf0871b4e71d7b64e10b9bb5781d99ff44498df"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "约翰一书 3",
     "url": "https://api.getbible.net/v2/cus/62/3.json",
-    "sha": "30fa5649f56ecd7e00bebffcba719f89a6b1d21b"
+    "sha": "a441a2a622c9175485baafa2f968bb1c8ddc9500"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "约翰一书 4",
     "url": "https://api.getbible.net/v2/cus/62/4.json",
-    "sha": "1c551aa9961983c4b81797f033f3aaff9c11116f"
+    "sha": "f87151f5ec183a62ed58799f584b5ddbcb8d5983"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "约翰一书 5",
     "url": "https://api.getbible.net/v2/cus/62/5.json",
-    "sha": "a625fe44db0729f637d18770b35e9a995b3489e2"
+    "sha": "bfc179337f7d1740aa071aa4a95aec84961657d1"
   }
 }

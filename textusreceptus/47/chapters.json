@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Προς Κορινθίους Β' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/47/3.json",
-    "sha": "872958b17b087161944fe9c42acaafcc68f13949"
+    "sha": "349a3866fff29d9e961fa8c7e938c02d0a4cb1a3"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Προς Κορινθίους Β' 5",
     "url": "https://api.getbible.net/v2/textusreceptus/47/5.json",
-    "sha": "903e5be5564557b93e0a7359756e44d4831b19f0"
+    "sha": "1237a37f86ae0593e163506bf11317637bfbfc04"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Προς Κορινθίους Β' 6",
     "url": "https://api.getbible.net/v2/textusreceptus/47/6.json",
-    "sha": "f31085869d4ea1f979df84c41288f679d7fc431d"
+    "sha": "1c47b1c3ba6d59beaf1a99928a3e51ddec9f1ebe"
   },
   "7": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Προς Κορινθίους Β' 7",
     "url": "https://api.getbible.net/v2/textusreceptus/47/7.json",
-    "sha": "c1a884237e2e4210aa81e51b419ec49cc9ef31a1"
+    "sha": "e1eab1bdcf13d7d1d7b72488af18fd7f5a4ea2ea"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Προς Κορινθίους Β' 11",
     "url": "https://api.getbible.net/v2/textusreceptus/47/11.json",
-    "sha": "488a5edf2c681e27fc8fc13a34ae09888a0a90fc"
+    "sha": "9d3d0a7acefafaf05c88a760ff4443a3703e7a43"
   },
   "12": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Προς Κορινθίους Β' 13",
     "url": "https://api.getbible.net/v2/textusreceptus/47/13.json",
-    "sha": "67c0a32546d367beefdfbe342386d1e660d48bb2"
+    "sha": "5026968ba6f3d1315d2c6c39674528d244d2dbfe"
   }
 }

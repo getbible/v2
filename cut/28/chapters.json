@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "何西阿書 1",
     "url": "https://api.getbible.net/v2/cut/28/1.json",
-    "sha": "c4762d7cb2801685f295794c873f28a111ca98f9"
+    "sha": "9d69bbea776d5f6961074b1c00fc91de84369421"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "何西阿書 2",
     "url": "https://api.getbible.net/v2/cut/28/2.json",
-    "sha": "3480ec3f498300f4cf8f40dd239bc5e1802f381e"
+    "sha": "a4206014a0e27ee0802e92a73361165776d41363"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "何西阿書 3",
     "url": "https://api.getbible.net/v2/cut/28/3.json",
-    "sha": "a00768feafd6a642c9c2cf9ef1b4a10599f1954f"
+    "sha": "593517cf8cec4f59852e7b3cb32cc9a8de51ef6f"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "何西阿書 4",
     "url": "https://api.getbible.net/v2/cut/28/4.json",
-    "sha": "fa8abf28382693edd6291da432df373cd3a0f23b"
+    "sha": "8442be70298150bcfe79b008064e20e6d94aa0fc"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "何西阿書 5",
     "url": "https://api.getbible.net/v2/cut/28/5.json",
-    "sha": "18fa5258398af705e21d7747f0833464916551fe"
+    "sha": "89d252d58aa17b04427d410419b1a137efc88a31"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "何西阿書 6",
     "url": "https://api.getbible.net/v2/cut/28/6.json",
-    "sha": "5b6f848adf02674a9bb51d5d2c47e7ea038d4801"
+    "sha": "4575a3343f05642adabe1efaec64c053c2fb9e65"
   },
   "7": {
     "translation": "Union Traditional",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "何西阿書 7",
     "url": "https://api.getbible.net/v2/cut/28/7.json",
-    "sha": "d7c4372e343686c8f4dfccb76d667353a089a972"
+    "sha": "e293fc135cd1de573c5a30af613b4dff98417b97"
   },
   "8": {
     "translation": "Union Traditional",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "何西阿書 8",
     "url": "https://api.getbible.net/v2/cut/28/8.json",
-    "sha": "f46c756f59c6913070888777ee73f39adda55b98"
+    "sha": "c9d960025c5c30f0ba6cefbdf9c708469e54b539"
   },
   "9": {
     "translation": "Union Traditional",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "何西阿書 9",
     "url": "https://api.getbible.net/v2/cut/28/9.json",
-    "sha": "57bb1a1ec9dd85bdb19c75b88ffd035ea8480b4f"
+    "sha": "ba98fced684a9690dca1cb3e0a041003cc84d6b8"
   },
   "10": {
     "translation": "Union Traditional",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "何西阿書 10",
     "url": "https://api.getbible.net/v2/cut/28/10.json",
-    "sha": "1a4acb1c3b296859415ea12a43b036d5ea3b9779"
+    "sha": "01e2d921a145262fca0f35f02e95902dfc47eca2"
   },
   "11": {
     "translation": "Union Traditional",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "何西阿書 11",
     "url": "https://api.getbible.net/v2/cut/28/11.json",
-    "sha": "add196b40cc9e225974ca471f5157d150900f8cf"
+    "sha": "43e344df526455a7ee25592493d0698aa866cf75"
   },
   "12": {
     "translation": "Union Traditional",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "何西阿書 12",
     "url": "https://api.getbible.net/v2/cut/28/12.json",
-    "sha": "d1950e0b76dc9c7b8eff1b11236ae1d9eab78fc1"
+    "sha": "2cfd4208aa9abe4fb51e9e5e47c84984c3bad42a"
   },
   "13": {
     "translation": "Union Traditional",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "何西阿書 13",
     "url": "https://api.getbible.net/v2/cut/28/13.json",
-    "sha": "82ba22ed6bac6ad047c7ba3d8aa9e6bed2547516"
+    "sha": "e548f02f690bb33106abfd7eebe51540c1c05f76"
   },
   "14": {
     "translation": "Union Traditional",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "何西阿書 14",
     "url": "https://api.getbible.net/v2/cut/28/14.json",
-    "sha": "24501156481fd0f918f1585b5d4b08d88a7f099d"
+    "sha": "9fb1b366362d134005cbf0d81b60af1e3f4e776e"
   }
 }

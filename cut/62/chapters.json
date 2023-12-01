@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "約翰一書 1",
     "url": "https://api.getbible.net/v2/cut/62/1.json",
-    "sha": "7ee011450972279986ad5892213eaff8f05e94c4"
+    "sha": "44b379cabbea13c10056eb376b86a248cb759075"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "約翰一書 2",
     "url": "https://api.getbible.net/v2/cut/62/2.json",
-    "sha": "21244b472e21f3da2df739bd399fe30a63125f2d"
+    "sha": "14d3412edc591c17188cc8b3c280fb7501de83ed"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "約翰一書 3",
     "url": "https://api.getbible.net/v2/cut/62/3.json",
-    "sha": "fcaedd94c833f96c2326dc5c88d012d750df1813"
+    "sha": "e04f1ab318bbc871f39d1fa56b0f3b831a9b4204"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "約翰一書 4",
     "url": "https://api.getbible.net/v2/cut/62/4.json",
-    "sha": "c5e7333a0cae2ce6774990ad7700ce8308bc81d2"
+    "sha": "2156ba009c4f0b2ae50f346a006d99747b489bf5"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "約翰一書 5",
     "url": "https://api.getbible.net/v2/cut/62/5.json",
-    "sha": "c422d8f21c64cf9aec904831c5c6ea0538535005"
+    "sha": "24f6938019a07ce45faa0c10c5d563670c85da44"
   }
 }

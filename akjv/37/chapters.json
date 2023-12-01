@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 37,
     "book_name": "Haggai",
     "chapter": 1,
     "name": "Haggai 1",
     "url": "https://api.getbible.net/v2/akjv/37/1.json",
-    "sha": "d20bef084d7788d4b22e7f74949dd5eb043a7762"
+    "sha": "517d935e586c339673cd9434e7d72d3b9c13e550"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,12 +19,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 37,
     "book_name": "Haggai",
     "chapter": 2,
     "name": "Haggai 2",
     "url": "https://api.getbible.net/v2/akjv/37/2.json",
-    "sha": "e039af0e7628705191e7859d3b5b0d10cc41b647"
+    "sha": "4514cc5dfe3011eb7ccc7d9e453ee145f5c80de5"
   }
 }

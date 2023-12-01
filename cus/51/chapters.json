@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "歌罗西书 1",
     "url": "https://api.getbible.net/v2/cus/51/1.json",
-    "sha": "161eb8525c2ff6657f36fb4a549c60db29258e59"
+    "sha": "a792f1e5f86b1ed1945f2d49af9ecb78204e29dc"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "歌罗西书 2",
     "url": "https://api.getbible.net/v2/cus/51/2.json",
-    "sha": "d0dbd3bdba8141925210fda1d4b3ed37917cabd8"
+    "sha": "0aaeff0b903ff1b1a062269e5fc893269c98db50"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "歌罗西书 3",
     "url": "https://api.getbible.net/v2/cus/51/3.json",
-    "sha": "df2a8620d43a0cf2f9cb65ec16ae5ffabbd5fe9c"
+    "sha": "8d1e98adc81e0edc512a1cee580141aa263b64d2"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "歌罗西书 4",
     "url": "https://api.getbible.net/v2/cus/51/4.json",
-    "sha": "181cc9e6e621dd003c461f262bc0a2b003eee491"
+    "sha": "336db3c05bf5ee54adb063f7b08fa67fda5c02e4"
   }
 }

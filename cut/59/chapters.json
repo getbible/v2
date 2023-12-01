@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "雅各書 1",
     "url": "https://api.getbible.net/v2/cut/59/1.json",
-    "sha": "0863b2ad1e796ba4778fdca2c079401ac6ac2e29"
+    "sha": "4be895f746e514908dd43bfe7f312143e7e437d6"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "雅各書 2",
     "url": "https://api.getbible.net/v2/cut/59/2.json",
-    "sha": "da8ee399cc81906310e288687b02b5ed2669ae43"
+    "sha": "b1d78af3229710a8311fe3b09d2e0fe829733c73"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "雅各書 3",
     "url": "https://api.getbible.net/v2/cut/59/3.json",
-    "sha": "15f1ad3aa404e1a1237b515d2242e971a042372b"
+    "sha": "adfab911864215ef71d9fa371df86ee2381036f0"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "雅各書 4",
     "url": "https://api.getbible.net/v2/cut/59/4.json",
-    "sha": "eda652349218f4701f481c71575fa0ad64d248f2"
+    "sha": "a9fb65817f29ee3f95311156bffcc75a1cb834ab"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "雅各書 5",
     "url": "https://api.getbible.net/v2/cut/59/5.json",
-    "sha": "da4568b5f10e699235b9816a399070e6da74f3a9"
+    "sha": "884ae780786af37a52e84e4978cf6cd57d8c15c4"
   }
 }

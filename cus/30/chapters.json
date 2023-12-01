@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "阿摩司书 1",
     "url": "https://api.getbible.net/v2/cus/30/1.json",
-    "sha": "f06700731f55a0a5990b6db9662c6c3ae78e9e03"
+    "sha": "966145a4fce09392091b5e697a49e8ca90181f62"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "阿摩司书 2",
     "url": "https://api.getbible.net/v2/cus/30/2.json",
-    "sha": "ede32eec2795e57cc617dc7a4d98c068a3a021f7"
+    "sha": "4b274759b1289de260ef982bb79e753e39f00175"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "阿摩司书 3",
     "url": "https://api.getbible.net/v2/cus/30/3.json",
-    "sha": "6db60d07e04993724bf2d5e0677ba5af9c08c8b3"
+    "sha": "4d80098a073ac76b7e118cf3e9d95b0d1d3164ce"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "阿摩司书 4",
     "url": "https://api.getbible.net/v2/cus/30/4.json",
-    "sha": "bb7c38aacfc157613b79df544fd16abbc54cbbb3"
+    "sha": "64b7b19c7bfc15bddf123f973b955817d6d18e11"
   },
   "5": {
     "translation": "Union Simplified",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "阿摩司书 5",
     "url": "https://api.getbible.net/v2/cus/30/5.json",
-    "sha": "9cc2319d530b87b88394693cbbf86f8983dd0f21"
+    "sha": "ccad622cf41333650d45b966fc783df756216e3f"
   },
   "6": {
     "translation": "Union Simplified",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "阿摩司书 6",
     "url": "https://api.getbible.net/v2/cus/30/6.json",
-    "sha": "1c11dac84f745a6bc2c02ab3e6c638c1e12e93e3"
+    "sha": "16fd5acd1cfb1fe004138425252907394605b42e"
   },
   "7": {
     "translation": "Union Simplified",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "阿摩司书 7",
     "url": "https://api.getbible.net/v2/cus/30/7.json",
-    "sha": "0c1624d4e35f1646bababb8bb30bb9ce7de96077"
+    "sha": "cb37cd7e0236dc892277243750ccc513ab1b8cea"
   },
   "8": {
     "translation": "Union Simplified",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "阿摩司书 8",
     "url": "https://api.getbible.net/v2/cus/30/8.json",
-    "sha": "85628d21eadf50a0cb07543ee2fd271b3a7cdeb8"
+    "sha": "0c2ab33f42c3d80df7f4e33f182749fc9f3c8de6"
   },
   "9": {
     "translation": "Union Simplified",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "阿摩司书 9",
     "url": "https://api.getbible.net/v2/cus/30/9.json",
-    "sha": "6fefe300f868f7d052cd5815a5203b1d1322d08a"
+    "sha": "aa955d3df10b13617b03ab005a7da5601b31513b"
   }
 }

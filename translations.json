@@ -6,23 +6,24 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
-    "distribution_lcsh": "Bible. English.",
-    "distribution_version": "1.4",
-    "distribution_version_date": "2007-04-30",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.English",
+    "distribution_version": "2.0",
+    "distribution_version_date": "2023-10-31",
     "distribution_abbreviation": "akjv",
-    "distribution_about": "American King James Version\\par Produced by Stone Engelbrite\\par\\par This is a new translation of the Bible, based on the original King James Version. It is a simple word for word update from the King James English. I have taken care to change nothing doctrinely, but to simply update the spelling and vocabulary. I have not changed the grammar because that could alter it doctrinely.\\par\\par I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999.\\par\\par       Michael Peter (Stone) Engelbrite\\par\\par You may use it in any manner you wish: copy it, sell it, modify it, etc.\\par You can't copyright it or prevent others from using it.\\par You can't claim that you created it, because you didn't.\\par Visit http://www.inspiredidea.com/akj.htm for more information.",
+    "distribution_about": "American King James Version\\par Produced by Stone Engelbrite\\par\\par This is a new translation of the Bible, based on the original King James Version. It is a simple word for word update from the King James English. I have taken care to change nothing doctrinely, but to simply update the spelling and vocabulary. I have not changed the grammar because that could alter it doctrinely.\\par\\par I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999.\\par\\par       Michael Peter (Stone) Engelbrite\\par\\par You may use it in any manner you wish: copy it, sell it, modify it, etc.\\par You can't copyright it or prevent others from using it.\\par You can't claim that you created it, because you didn't.",
     "distribution_license": "Copyrighted; Free non-commercial distribution",
-    "distribution_sourcetype": "",
-    "distribution_source": "http://www.inspiredidea.com/home/akj",
-    "distribution_versification": "",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://github.com/BibleCorps/ENG-B-AKJV2018-pd-PSFM",
+    "distribution_versification": "KJV",
     "distribution_history": {
-      "history_1.4": "Updated TextSource",
+      "history_1.2": "Updated to new text and fixed a couple incomplete verses.",
       "history_1.3": "compressed module",
-      "history_1.2": "Updated to new text and fixed a couple incomplete verses."
+      "history_1.4": "Updated TextSource",
+      "history_2.0": "(2023-10-31) Updated TextSource, correction of an error in Exod 23:17"
     },
     "url": "https://api.getbible.net/v2/akjv.json",
-    "sha": "2c0b022e7396795322a8a9dc02fa451fa4cbce42"
+    "sha": "9a99a9dce898b14efb06ab867002023709045408"
   },
   "aleppo": {
     "translation": "Aleppo Codex",
@@ -523,8 +524,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Chinese",
-    "distribution_version": "3.0.1",
-    "distribution_version_date": "2023-07-30",
+    "distribution_version": "3.1",
+    "distribution_version_date": "2023-10-28",
     "distribution_abbreviation": "cus",
     "distribution_about": "和合本(简体字)是中国新教徒最早将圣经翻译成中文的版本，最早于1919年出版。",
     "distribution_license": "Public Domain",
@@ -537,10 +538,11 @@
       "history_2.5": "updated to version of 2010-10-12 (2011-01-22)",
       "history_2.6": "moved to av11n (2011-01-22)",
       "history_3.0": "(2021-02-06) New source http://bible.fhl.net version: 2020-12-24 Solved issues: MOD-266",
-      "history_3.0.1": "(2023-07-30) Fix spurious GlobalOptionFilter=OSISEnum in conf file"
+      "history_3.0.1": "(2023-08-06) Fix spurious GlobalOptionFilter=OSISEnum in conf file",
+      "history_3.1": "(2023-10-28) Correction of StrongMorph to real Robinson morph"
     },
     "url": "https://api.getbible.net/v2/cus.json",
-    "sha": "9284270ea2bed4ae2c0b7c0b34c32b67afe083ed"
+    "sha": "f9200fe847b326194b62cd18cc654f3a41c637e2"
   },
   "cut": {
     "translation": "Union Traditional",
@@ -551,8 +553,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Chinese",
-    "distribution_version": "3.0.1",
-    "distribution_version_date": "2023-07-30",
+    "distribution_version": "3.1",
+    "distribution_version_date": "2023-10-28",
     "distribution_abbreviation": "cut",
     "distribution_about": "和合本（繁體字）是中國新教徒最早將聖經翻譯成中文的版本，最早於1919年出版。",
     "distribution_license": "Public Domain",
@@ -565,10 +567,11 @@
       "history_2.5": "updated to version of 2010-10-12 (2011-01-22)",
       "history_2.6": "moved to av11n (2011-01-22)",
       "history_3.0": "(2021-01-28) Rebuild from scratch from http://bible.fhl.net. Solve issues: MOD-266 MOD-365 MOD-366",
-      "history_3.0.1": "(2023-07-30) Fix wrong GlobalFilterOption=OSISEnum in conf file"
+      "history_3.0.1": "(2023-08-06) Fix wrong GlobalFilterOption=OSISEnum in conf file",
+      "history_3.1": "(2023-10-28) Correction of StrongMorph to real Robinson morph"
     },
     "url": "https://api.getbible.net/v2/cut.json",
-    "sha": "684f93263e5d77ec194d2b1466a83e613556cea5"
+    "sha": "9db1a41781dd4b3c70b3c9a4a81ffc1aaf129210"
   },
   "danish": {
     "translation": "Danish",
@@ -1679,8 +1682,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Ancient Greek (to 1453)",
-    "distribution_version": "3.1",
-    "distribution_version_date": "2023-03-25",
+    "distribution_version": "3.2",
+    "distribution_version_date": "2023-10-28",
     "distribution_abbreviation": "Textus Receptus",
     "distribution_about": "The Textus Receptus with complete parsing information for all Greek words; base text is Stephens 1550, with variants of Scrivener 1894.",
     "distribution_license": "Creative Commons: BY-NC-SA 4.0",
@@ -1697,10 +1700,11 @@
       "history_2.3": "Corrected spacing errors, morphology encoding (2014-02-22)",
       "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
       "history_3.0": "(2021-10-28) Correct issues with the Strong numbers reported in the bug tracker https://tracker.crosswire.org/browse/MOD-349",
-      "history_3.1": "(2023-03-25) Correction of spurious strong numbers."
+      "history_3.1": "(2023-04-03) Correction of spurious strong numbers.",
+      "history_3.2": "(2023-10-28) Correction of ημιν from 1473 to 2249 et υμας from 4771 to 5209."
     },
     "url": "https://api.getbible.net/v2/textusreceptus.json",
-    "sha": "e5e78447d0966dc55e2acb44be0ac14f05fb1ee0"
+    "sha": "d82e1ef5110eda5b571ab94a0f3dd98733755645"
   },
   "thai": {
     "translation": "Thai from kjv",

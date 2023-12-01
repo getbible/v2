@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Κατά Λουκάν 1",
     "url": "https://api.getbible.net/v2/textusreceptus/42/1.json",
-    "sha": "c5a5b5fec127018584182076637aa5ffa027f9f2"
+    "sha": "f5083231530c3678e495a14b0370759c936b2470"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Κατά Λουκάν 2",
     "url": "https://api.getbible.net/v2/textusreceptus/42/2.json",
-    "sha": "ab0817c2d2dc9a13f00b1e06725b3afc34cc4e1e"
+    "sha": "29d4c3807be1364f6953becfed7c8658cd1c5f00"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Κατά Λουκάν 3",
     "url": "https://api.getbible.net/v2/textusreceptus/42/3.json",
-    "sha": "0d546228dcf648cc8f63cce1f37045f6bd85f436"
+    "sha": "089cfa3eea94c97e387c8c784d16a80b00c25c19"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Κατά Λουκάν 4",
     "url": "https://api.getbible.net/v2/textusreceptus/42/4.json",
-    "sha": "8bd2b0ee839fdc538eb8c710d2d461dbad77f403"
+    "sha": "a7840086943eee9b6b033cce9114986277e2dee0"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Κατά Λουκάν 6",
     "url": "https://api.getbible.net/v2/textusreceptus/42/6.json",
-    "sha": "0a2f68b1b630388f723a8f24ea1e07f0bccaaa5c"
+    "sha": "e42e67e7b826d3e57901b605873f38c6be2a7cab"
   },
   "7": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Κατά Λουκάν 7",
     "url": "https://api.getbible.net/v2/textusreceptus/42/7.json",
-    "sha": "b4d9dcdbd4e9682a97593e01db83802010f33027"
+    "sha": "c222b9acab44656caf01c31a5fb245a9a7987c33"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Κατά Λουκάν 8",
     "url": "https://api.getbible.net/v2/textusreceptus/42/8.json",
-    "sha": "02e6866a35987fa54cd2c7271623f497d1df2592"
+    "sha": "2054e695c9bc41749de2e00a30d051eebbda2be0"
   },
   "9": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Κατά Λουκάν 9",
     "url": "https://api.getbible.net/v2/textusreceptus/42/9.json",
-    "sha": "59d5c0ee26522ccad5687dfab71a08167f3eb0ed"
+    "sha": "b7a32f90c6609a3011f5a8e97a3d76540d62d851"
   },
   "10": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Κατά Λουκάν 10",
     "url": "https://api.getbible.net/v2/textusreceptus/42/10.json",
-    "sha": "d1303c384634f45685db8faf9f62b7f4c5df3efb"
+    "sha": "4fbf2cb9392b739db41efa2547fbfcc5ec4ab31f"
   },
   "11": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Κατά Λουκάν 12",
     "url": "https://api.getbible.net/v2/textusreceptus/42/12.json",
-    "sha": "ba92d2b6fce816006808a5cc9e67fef50cccc27b"
+    "sha": "efbd7d4b70e9e73dc38b6311dc208d4d0aa75777"
   },
   "13": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Κατά Λουκάν 15",
     "url": "https://api.getbible.net/v2/textusreceptus/42/15.json",
-    "sha": "8136aa2d6480e8c9556aadf4d9f9556be602db2f"
+    "sha": "d66c8684be12680c69960351d8198d230a27aef3"
   },
   "16": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "Κατά Λουκάν 16",
     "url": "https://api.getbible.net/v2/textusreceptus/42/16.json",
-    "sha": "483bbf6451d9d3e5161d28705762ef43c6cf522d"
+    "sha": "b2d79c6befa6b1466a0713de9c0bf1635b9fe994"
   },
   "17": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Κατά Λουκάν 17",
     "url": "https://api.getbible.net/v2/textusreceptus/42/17.json",
-    "sha": "11e9c74298f1afcb2c0fa501084cc29a4ce1bda4"
+    "sha": "a1d6274f382f28bb80e5460bad295caf4744571f"
   },
   "18": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "Κατά Λουκάν 20",
     "url": "https://api.getbible.net/v2/textusreceptus/42/20.json",
-    "sha": "da75b04bd83c9056f7eeabb6bbd4a6516e7e6889"
+    "sha": "973991528d1cde7d23212301476e15648edf94e0"
   },
   "21": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "Κατά Λουκάν 22",
     "url": "https://api.getbible.net/v2/textusreceptus/42/22.json",
-    "sha": "6588f936c614bda2492ffefe4279c3efe191e93c"
+    "sha": "ee734a48baacee881cd017efccaf0503c997ef9f"
   },
   "23": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -333,6 +333,6 @@
     "chapter": 24,
     "name": "Κατά Λουκάν 24",
     "url": "https://api.getbible.net/v2/textusreceptus/42/24.json",
-    "sha": "3574392815d6315e814594ff23ba464fe0eff558"
+    "sha": "6f78b99e89445acabbb0ee1c035e2e0c82ff91a1"
   }
 }

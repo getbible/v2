@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Προς Θεσσαλονικείς Β' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/53/2.json",
-    "sha": "4b079207fa627bc3fb6807a7dd78328c47c78c4e"
+    "sha": "bcbc7919464054921c78f51a5f722b56213693b3"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Προς Θεσσαλονικείς Β' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/53/3.json",
-    "sha": "b3630a3c3c4ba2db80f19fe3600d69c8b8bc6a7a"
+    "sha": "436ae5a9cca5b8ce7f96065f719c00f0cc49b838"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "彌迦書 1",
     "url": "https://api.getbible.net/v2/cut/33/1.json",
-    "sha": "cf44f25ca4596f038d0472452d231616f20e3cfa"
+    "sha": "81a8ef0d692cd07498d7b08bc6b7bde1125598be"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "彌迦書 2",
     "url": "https://api.getbible.net/v2/cut/33/2.json",
-    "sha": "efe2c6c92f4bef91bf04bea02fa0caa019c60cf4"
+    "sha": "eb4ef3bc7f9cb6e67a8d7751da9bbb874abf0b11"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "彌迦書 3",
     "url": "https://api.getbible.net/v2/cut/33/3.json",
-    "sha": "59974b24f4f6987dcac134e747935c2973012333"
+    "sha": "0ecc8f6347a4f106b7afe3aa2e4a2847245ad26b"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "彌迦書 4",
     "url": "https://api.getbible.net/v2/cut/33/4.json",
-    "sha": "741613eec35bca5d4b67a3c6fb648c949f8ff331"
+    "sha": "1b7fc44e345b3ebd511b3d77659243f6091dcb70"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "彌迦書 5",
     "url": "https://api.getbible.net/v2/cut/33/5.json",
-    "sha": "88ecadc1e927c314e8aa3aac6d02adb3389c0a48"
+    "sha": "35a66bcb7297155d47afb5b28110d91a407b147c"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "彌迦書 6",
     "url": "https://api.getbible.net/v2/cut/33/6.json",
-    "sha": "e82ab775a39be313f973591857ea586ec434cc85"
+    "sha": "5553bb57514ec68a87126c67f41685f3cf0fd52e"
   },
   "7": {
     "translation": "Union Traditional",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "彌迦書 7",
     "url": "https://api.getbible.net/v2/cut/33/7.json",
-    "sha": "98412b2e7e63d74b1a624a978ec6d23ef120fafc"
+    "sha": "ca325ff126d73af6a2bdad411d8024f6b4855168"
   }
 }

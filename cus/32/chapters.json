@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "约拿书 1",
     "url": "https://api.getbible.net/v2/cus/32/1.json",
-    "sha": "7224ff54ba2e8f1fc623cd5bd53f89471db2cf21"
+    "sha": "4063582eed5f0e282c37ed732e7c6c4a7b9f391a"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "约拿书 2",
     "url": "https://api.getbible.net/v2/cus/32/2.json",
-    "sha": "13f53bcd30aa257d9e20d880aba6651ebb1d0194"
+    "sha": "908322fc512d90bb948b836f46bae4f839b0b375"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "约拿书 3",
     "url": "https://api.getbible.net/v2/cus/32/3.json",
-    "sha": "1a097c802e9da4ab3c57feedf3a043d684f77e54"
+    "sha": "f7f329ff04e2c405debce5fc97d3ce962db87fca"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "约拿书 4",
     "url": "https://api.getbible.net/v2/cus/32/4.json",
-    "sha": "f315a30a45cc4b11d477e55f73dedacc66b14938"
+    "sha": "ca6334c282df2dceb0492fe41707c0ec832e9729"
   }
 }

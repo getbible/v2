@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 35,
     "book_name": "Habakkuk",
     "chapter": 1,
     "name": "Habakkuk 1",
     "url": "https://api.getbible.net/v2/akjv/35/1.json",
-    "sha": "91772e9a657609f237ca7805996daf5c13dad58e"
+    "sha": "7358b016a5648b80445fa857b2c4dc7e6b84fd4e"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 35,
     "book_name": "Habakkuk",
     "chapter": 2,
     "name": "Habakkuk 2",
     "url": "https://api.getbible.net/v2/akjv/35/2.json",
-    "sha": "d8c0283278b79d30a121c475fe5ab1e91cc5b201"
+    "sha": "8be12f9cd3fbee13d199ce3d42b25d8eb5acb8d3"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,12 +33,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 35,
     "book_name": "Habakkuk",
     "chapter": 3,
     "name": "Habakkuk 3",
     "url": "https://api.getbible.net/v2/akjv/35/3.json",
-    "sha": "7e5d56fd48fecfdb9851bef25b24bfa6841a588e"
+    "sha": "2859bb0558401bc344e7cf28387cf6c72fb9a0e9"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "哈巴谷書 1",
     "url": "https://api.getbible.net/v2/cut/35/1.json",
-    "sha": "b424ea42b4a6d2e52bfaa4c2b8b569a84f25b5f1"
+    "sha": "cf86c38a6c0cc82acb7a0e91b37368aacbb3f5a3"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "哈巴谷書 2",
     "url": "https://api.getbible.net/v2/cut/35/2.json",
-    "sha": "34686f019752be65c73478c33570c4b3b09286e4"
+    "sha": "061fa9c3a0af2e094567f6fd9cc8cbfdd91cccdc"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "哈巴谷書 3",
     "url": "https://api.getbible.net/v2/cut/35/3.json",
-    "sha": "99bd07f25ecda55ae0698f7a6fcd6b4e55758f57"
+    "sha": "1090fa06dcc48c928804193efac89a812d5b9498"
   }
 }

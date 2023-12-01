@@ -9,7 +9,7 @@
     "nr": 1,
     "name": "﻿创世记",
     "url": "https://api.getbible.net/v2/cus/1.json",
-    "sha": "e0c3356547ca4a0eb947d136038d4a19db39e115"
+    "sha": "37d32d2afe522abebdf5dc4788791b551b134fb0"
   },
   "2": {
     "translation": "Union Simplified",
@@ -21,7 +21,7 @@
     "nr": 2,
     "name": "出埃及记",
     "url": "https://api.getbible.net/v2/cus/2.json",
-    "sha": "6a376590ee70e12711e8f5bc2863d964a4f122e8"
+    "sha": "f1aad7e61f722fe3e19d14e50f843864ce0175ca"
   },
   "3": {
     "translation": "Union Simplified",
@@ -33,7 +33,7 @@
     "nr": 3,
     "name": "利未记",
     "url": "https://api.getbible.net/v2/cus/3.json",
-    "sha": "9d50dec36e1981fce8024e3664849c06c7b3f438"
+    "sha": "5a25fa72af8f76493b367f8bf060d19218d01afe"
   },
   "4": {
     "translation": "Union Simplified",
@@ -45,7 +45,7 @@
     "nr": 4,
     "name": "民数记",
     "url": "https://api.getbible.net/v2/cus/4.json",
-    "sha": "51b12e22cf2a5df0c7c45e2eab49637927cadd61"
+    "sha": "6cd3d5aee6482f356534e8da32e25a342613200f"
   },
   "5": {
     "translation": "Union Simplified",
@@ -57,7 +57,7 @@
     "nr": 5,
     "name": "申命记",
     "url": "https://api.getbible.net/v2/cus/5.json",
-    "sha": "4b4d6944566610ee312434cfc9a56bd2b3c05a11"
+    "sha": "d68d8efb07119a7eca71136d1350a84b45cc4c45"
   },
   "6": {
     "translation": "Union Simplified",
@@ -69,7 +69,7 @@
     "nr": 6,
     "name": "约书亚记",
     "url": "https://api.getbible.net/v2/cus/6.json",
-    "sha": "64d622f7e2afddd11e439b344b567d9f667e5c83"
+    "sha": "96c4744847a0e5ef01c1ce4735b8027c875015cc"
   },
   "7": {
     "translation": "Union Simplified",
@@ -81,7 +81,7 @@
     "nr": 7,
     "name": "士师记",
     "url": "https://api.getbible.net/v2/cus/7.json",
-    "sha": "ae90e96e0116c037244a7d0012c0bae6ce3165df"
+    "sha": "947fb856f245874a3a2d4bac08333f0d7964aaea"
   },
   "8": {
     "translation": "Union Simplified",
@@ -93,7 +93,7 @@
     "nr": 8,
     "name": "路得记",
     "url": "https://api.getbible.net/v2/cus/8.json",
-    "sha": "35927ab2fa17ec962ebd2a8b19435743ff1cfc7c"
+    "sha": "eb7ef4f1a8afcd50e7b7f1e510198123fc2b155c"
   },
   "9": {
     "translation": "Union Simplified",
@@ -105,7 +105,7 @@
     "nr": 9,
     "name": "撒母耳记上",
     "url": "https://api.getbible.net/v2/cus/9.json",
-    "sha": "d6dc8fc35250361634dae512f82dad9636c1775a"
+    "sha": "84a3498eb11eb8bb54372d3dd5a0117693a88a16"
   },
   "10": {
     "translation": "Union Simplified",
@@ -117,7 +117,7 @@
     "nr": 10,
     "name": "撒母耳记下",
     "url": "https://api.getbible.net/v2/cus/10.json",
-    "sha": "ae5e9b1650c893e91a38da7d60dffb186d2d2dff"
+    "sha": "bcb9df7d4d1788ab1cbd697d5513fb21d1c720db"
   },
   "11": {
     "translation": "Union Simplified",
@@ -129,7 +129,7 @@
     "nr": 11,
     "name": "列王纪上",
     "url": "https://api.getbible.net/v2/cus/11.json",
-    "sha": "bd7ace06290e476b4bb30eddfc5e56f7f419ef22"
+    "sha": "d7bbf3f89ef794a7ebfd217bf83b0ef8b059777e"
   },
   "12": {
     "translation": "Union Simplified",
@@ -141,7 +141,7 @@
     "nr": 12,
     "name": "列王纪下",
     "url": "https://api.getbible.net/v2/cus/12.json",
-    "sha": "badf850a214a8d755eb2f9c9ee0bb63427bc9200"
+    "sha": "4a05418121eb867dfa1c508e3e15110bbbcf28e6"
   },
   "13": {
     "translation": "Union Simplified",
@@ -153,7 +153,7 @@
     "nr": 13,
     "name": "历代志上",
     "url": "https://api.getbible.net/v2/cus/13.json",
-    "sha": "36aefebaaaa4dd054b1d92e885cc96c66b1aeb2f"
+    "sha": "02508a437030210b485988a35bec6b32cfc2f291"
   },
   "14": {
     "translation": "Union Simplified",
@@ -165,7 +165,7 @@
     "nr": 14,
     "name": "历代志下",
     "url": "https://api.getbible.net/v2/cus/14.json",
-    "sha": "9953c7803454bd4a2a1a3d84f90b0dc2edb6914b"
+    "sha": "af2c4a90c5c8cfbcbafe5ee19797721e22ed3b3e"
   },
   "15": {
     "translation": "Union Simplified",
@@ -177,7 +177,7 @@
     "nr": 15,
     "name": "以斯拉记",
     "url": "https://api.getbible.net/v2/cus/15.json",
-    "sha": "6e451995cc992ec1c0cabbb696db3abc59e710cf"
+    "sha": "c3aba6cc0f56a02771728330c685ffc74893ef41"
   },
   "16": {
     "translation": "Union Simplified",
@@ -189,7 +189,7 @@
     "nr": 16,
     "name": "尼希米记",
     "url": "https://api.getbible.net/v2/cus/16.json",
-    "sha": "dda0c87f0433f6aa0766d1c7014488a41e4c93cd"
+    "sha": "6c3b8af55a510521acc18542289334934f369e16"
   },
   "17": {
     "translation": "Union Simplified",
@@ -201,7 +201,7 @@
     "nr": 17,
     "name": "以斯帖记",
     "url": "https://api.getbible.net/v2/cus/17.json",
-    "sha": "700a55c93c1ad10c53b3e8c8513da8d3cefce9b0"
+    "sha": "10d38222a9e07fde146a8ddb46271c2fd4e1ae8f"
   },
   "18": {
     "translation": "Union Simplified",
@@ -213,7 +213,7 @@
     "nr": 18,
     "name": "约伯记",
     "url": "https://api.getbible.net/v2/cus/18.json",
-    "sha": "36e2f2a51de508e855e49f2d4bcb332cb1e2b9e6"
+    "sha": "82e2e6188433367ca7cddcc7f2325f7bf33de22d"
   },
   "19": {
     "translation": "Union Simplified",
@@ -225,7 +225,7 @@
     "nr": 19,
     "name": "诗篇",
     "url": "https://api.getbible.net/v2/cus/19.json",
-    "sha": "44f0e69574229c375a1df9816ae63ffbffc5c418"
+    "sha": "f8fc7a7a234a088ab82323a36691c92d49b48b44"
   },
   "20": {
     "translation": "Union Simplified",
@@ -237,7 +237,7 @@
     "nr": 20,
     "name": "箴言",
     "url": "https://api.getbible.net/v2/cus/20.json",
-    "sha": "f897c9df1a3efbfdfcf8607802c9bb6e0b8642d0"
+    "sha": "81d2a4820c2ae559710f3ce1d06c855389f54232"
   },
   "21": {
     "translation": "Union Simplified",
@@ -249,7 +249,7 @@
     "nr": 21,
     "name": "传道书",
     "url": "https://api.getbible.net/v2/cus/21.json",
-    "sha": "e93d8d8b6763d71065845386b7f9510d745d3b3a"
+    "sha": "3e0c6bf6d6a4d739c171ad6a5792bbcef97add68"
   },
   "22": {
     "translation": "Union Simplified",
@@ -261,7 +261,7 @@
     "nr": 22,
     "name": "雅歌",
     "url": "https://api.getbible.net/v2/cus/22.json",
-    "sha": "36c33a25e15b06a4f7e46d6e480b92e1e2e5de93"
+    "sha": "52b7bce2e6e06afe32ff9db0e813376f1a4bcb7e"
   },
   "23": {
     "translation": "Union Simplified",
@@ -273,7 +273,7 @@
     "nr": 23,
     "name": "以赛亚书",
     "url": "https://api.getbible.net/v2/cus/23.json",
-    "sha": "596cf1cbb75797a869579d689133fac83947a570"
+    "sha": "d77fb35b96f867004c5ac932a87d51f7f4ccca67"
   },
   "24": {
     "translation": "Union Simplified",
@@ -285,7 +285,7 @@
     "nr": 24,
     "name": "耶利米书",
     "url": "https://api.getbible.net/v2/cus/24.json",
-    "sha": "f96b8e8f851631851ec7c8a795818498c9fa5677"
+    "sha": "393bf6783e861a069b3121501cc53b3d69e78bfb"
   },
   "25": {
     "translation": "Union Simplified",
@@ -297,7 +297,7 @@
     "nr": 25,
     "name": "耶利米哀歌",
     "url": "https://api.getbible.net/v2/cus/25.json",
-    "sha": "7b6b9eb36ec9a2bf868133b0f985884524772e76"
+    "sha": "8ba7bbf027a51b3d006696fa0a28f9c5ecc35b70"
   },
   "26": {
     "translation": "Union Simplified",
@@ -309,7 +309,7 @@
     "nr": 26,
     "name": "以西结书",
     "url": "https://api.getbible.net/v2/cus/26.json",
-    "sha": "976407183f9985cb51a8a5be054c521d320140c7"
+    "sha": "8b75a66db1da260ca95166efea242090a4e56541"
   },
   "27": {
     "translation": "Union Simplified",
@@ -321,7 +321,7 @@
     "nr": 27,
     "name": "但以理书",
     "url": "https://api.getbible.net/v2/cus/27.json",
-    "sha": "2d3f10310cd2f566cd5feb6731a9d1051aec5674"
+    "sha": "4dc36dce57f496f05b94de1b481142d451b84eda"
   },
   "28": {
     "translation": "Union Simplified",
@@ -333,7 +333,7 @@
     "nr": 28,
     "name": "何西阿书",
     "url": "https://api.getbible.net/v2/cus/28.json",
-    "sha": "0192ccb664a1170b697a4ca077c0c640822e923d"
+    "sha": "bca09350edadf1845c6927a867c0f20b3a71b6ca"
   },
   "29": {
     "translation": "Union Simplified",
@@ -345,7 +345,7 @@
     "nr": 29,
     "name": "约珥书",
     "url": "https://api.getbible.net/v2/cus/29.json",
-    "sha": "eb32162b796182698826f5b8abe83471da118f22"
+    "sha": "92fe3b839cb99d69f584fb3f851605611a700ad9"
   },
   "30": {
     "translation": "Union Simplified",
@@ -357,7 +357,7 @@
     "nr": 30,
     "name": "阿摩司书",
     "url": "https://api.getbible.net/v2/cus/30.json",
-    "sha": "b996bb93ae7fba270b023ef40f023cd2da8de587"
+    "sha": "a8a66a712c760b18b51ee4d08996bcf9b12e5608"
   },
   "31": {
     "translation": "Union Simplified",
@@ -369,7 +369,7 @@
     "nr": 31,
     "name": "俄巴底亚书",
     "url": "https://api.getbible.net/v2/cus/31.json",
-    "sha": "b911d176ae4cbee5fbee61efcb1397449d2f40c7"
+    "sha": "41881bbbc5f691486a396c91d7bccf0946874c4c"
   },
   "32": {
     "translation": "Union Simplified",
@@ -381,7 +381,7 @@
     "nr": 32,
     "name": "约拿书",
     "url": "https://api.getbible.net/v2/cus/32.json",
-    "sha": "5fe4ee231de05e5e03dd82c02bcd9e4f46a08dd4"
+    "sha": "d127fdd53589c8af8e58c973eaa03106e4c0f0f2"
   },
   "33": {
     "translation": "Union Simplified",
@@ -393,7 +393,7 @@
     "nr": 33,
     "name": "弥迦书",
     "url": "https://api.getbible.net/v2/cus/33.json",
-    "sha": "9dcf30167c720eabe54e51defeb2d513d167277d"
+    "sha": "2d0b46ff14de7cb4576deaad3d3c41558ffbaf85"
   },
   "34": {
     "translation": "Union Simplified",
@@ -405,7 +405,7 @@
     "nr": 34,
     "name": "那鸿书",
     "url": "https://api.getbible.net/v2/cus/34.json",
-    "sha": "d44ccd52cbb2239262a44c3822e3181a026ec9e7"
+    "sha": "2f54eaaca36d325ebf014c522dba84692088b91a"
   },
   "35": {
     "translation": "Union Simplified",
@@ -417,7 +417,7 @@
     "nr": 35,
     "name": "哈巴谷书",
     "url": "https://api.getbible.net/v2/cus/35.json",
-    "sha": "1b51313654d0e6506bfd286dfbdc591c20127e32"
+    "sha": "6625bb7cefc0fb566bfbf2b6e1d8b0adace682b6"
   },
   "36": {
     "translation": "Union Simplified",
@@ -429,7 +429,7 @@
     "nr": 36,
     "name": "西番雅书",
     "url": "https://api.getbible.net/v2/cus/36.json",
-    "sha": "1cd3572102ad5afd62cd168159163fa154bf17ba"
+    "sha": "fb1fbaab289094515a6158b3155767db7011c4c8"
   },
   "37": {
     "translation": "Union Simplified",
@@ -441,7 +441,7 @@
     "nr": 37,
     "name": "哈该书",
     "url": "https://api.getbible.net/v2/cus/37.json",
-    "sha": "415a5cc36ec9f3a864e1330c0c26f9856fbc87d9"
+    "sha": "89ce5b4191fd1244b69b3c8b27d1493f3dcfc640"
   },
   "38": {
     "translation": "Union Simplified",
@@ -453,7 +453,7 @@
     "nr": 38,
     "name": "撒迦利亚书",
     "url": "https://api.getbible.net/v2/cus/38.json",
-    "sha": "69d9160a5bdadbdb98071da8f0f4304967a33c53"
+    "sha": "cd9de750a0a498a0293ace22db505be1c5d6b946"
   },
   "39": {
     "translation": "Union Simplified",
@@ -465,7 +465,7 @@
     "nr": 39,
     "name": "玛拉基书",
     "url": "https://api.getbible.net/v2/cus/39.json",
-    "sha": "dda8d71adb021565e58c885e5cb49b504e02f78a"
+    "sha": "f0d3e6cc43fd93624821ee45ef6bfc2b50d9c287"
   },
   "40": {
     "translation": "Union Simplified",
@@ -477,7 +477,7 @@
     "nr": 40,
     "name": "马太福音",
     "url": "https://api.getbible.net/v2/cus/40.json",
-    "sha": "2a248ce2c9e170154d49add6be8c039e9f91059f"
+    "sha": "1151cc3a0f67cc6cb88b4f176e9aafc23fd4df30"
   },
   "41": {
     "translation": "Union Simplified",
@@ -489,7 +489,7 @@
     "nr": 41,
     "name": "马可福音",
     "url": "https://api.getbible.net/v2/cus/41.json",
-    "sha": "983348cde2c52c55761e3c1a04f6c8f6f02e790d"
+    "sha": "0ace5e77e24f1314f6078370f8f2349ecc371cdf"
   },
   "42": {
     "translation": "Union Simplified",
@@ -501,7 +501,7 @@
     "nr": 42,
     "name": "路加福音",
     "url": "https://api.getbible.net/v2/cus/42.json",
-    "sha": "99dba2f153c6cb74a54fcc8df499af0283fa07a4"
+    "sha": "bde8788edd3e811552f3db0d5ff76fec4be9be7f"
   },
   "43": {
     "translation": "Union Simplified",
@@ -513,7 +513,7 @@
     "nr": 43,
     "name": "约翰福音",
     "url": "https://api.getbible.net/v2/cus/43.json",
-    "sha": "aae30bab472687257c7c80141bdb57cb1d656906"
+    "sha": "d197ac19b433d14dcaffc29492f2baec6c44f4be"
   },
   "44": {
     "translation": "Union Simplified",
@@ -525,7 +525,7 @@
     "nr": 44,
     "name": "使徒行传",
     "url": "https://api.getbible.net/v2/cus/44.json",
-    "sha": "1553d25cc353d14e04a99727d969d833831e5ef0"
+    "sha": "cc22364e8001f5e54fb91d00588aebea47f674e4"
   },
   "45": {
     "translation": "Union Simplified",
@@ -537,7 +537,7 @@
     "nr": 45,
     "name": "罗马书",
     "url": "https://api.getbible.net/v2/cus/45.json",
-    "sha": "434e09d3f5b10b69fed33a440cbf87caedc793fe"
+    "sha": "5e02137728a606a192a04fe72166803e6249a5d9"
   },
   "46": {
     "translation": "Union Simplified",
@@ -549,7 +549,7 @@
     "nr": 46,
     "name": "哥林多前书",
     "url": "https://api.getbible.net/v2/cus/46.json",
-    "sha": "afa8c680eadd501e35a8c65e9a5a0d96bcda767d"
+    "sha": "800c8b43ea13de7aefae18c1a60f99f0e425f8a3"
   },
   "47": {
     "translation": "Union Simplified",
@@ -561,7 +561,7 @@
     "nr": 47,
     "name": "哥林多后书",
     "url": "https://api.getbible.net/v2/cus/47.json",
-    "sha": "80d36aeb86241fce2b4c647d1aecb073ad1aa6ae"
+    "sha": "607ce9d42b6234767682b33793789cc973d64c49"
   },
   "48": {
     "translation": "Union Simplified",
@@ -573,7 +573,7 @@
     "nr": 48,
     "name": "加拉太书",
     "url": "https://api.getbible.net/v2/cus/48.json",
-    "sha": "ed76479ed42c462e66b3c303bd5a824536442d03"
+    "sha": "f3a9be9e081acb0b7b9673605d54caec39929fe8"
   },
   "49": {
     "translation": "Union Simplified",
@@ -585,7 +585,7 @@
     "nr": 49,
     "name": "以弗所书",
     "url": "https://api.getbible.net/v2/cus/49.json",
-    "sha": "3400881b97007103b952015ec10f36b78e592003"
+    "sha": "ccf35ef059ed5c5f94b8cd90a81b5c7642399a7e"
   },
   "50": {
     "translation": "Union Simplified",
@@ -597,7 +597,7 @@
     "nr": 50,
     "name": "腓立比书",
     "url": "https://api.getbible.net/v2/cus/50.json",
-    "sha": "583574c13248c89e8008dcfd14f13499c4fabe10"
+    "sha": "8885e6bbb095ddf03ed39ce4a3951f534b44bc50"
   },
   "51": {
     "translation": "Union Simplified",
@@ -609,7 +609,7 @@
     "nr": 51,
     "name": "歌罗西书",
     "url": "https://api.getbible.net/v2/cus/51.json",
-    "sha": "f2e520a639def52c10346fb004452d27f5ceffa5"
+    "sha": "1d7ae7e436d6185b27264cf8972afe3e4f16e22f"
   },
   "52": {
     "translation": "Union Simplified",
@@ -621,7 +621,7 @@
     "nr": 52,
     "name": "帖撒罗尼迦前书",
     "url": "https://api.getbible.net/v2/cus/52.json",
-    "sha": "19ce730ee742cf82aaa0ba04cc5a5e6536c7763a"
+    "sha": "eb2ba6aac479e8aad1a2546b523e4415bc7d1f52"
   },
   "53": {
     "translation": "Union Simplified",
@@ -633,7 +633,7 @@
     "nr": 53,
     "name": "帖撒罗尼迦后书",
     "url": "https://api.getbible.net/v2/cus/53.json",
-    "sha": "d62dd9a0e60c9437009400e3c15e3cdc31437713"
+    "sha": "1adf0d4c6a09c847ddebdcfc34963fd8b9338757"
   },
   "54": {
     "translation": "Union Simplified",
@@ -645,7 +645,7 @@
     "nr": 54,
     "name": "提摩太前书",
     "url": "https://api.getbible.net/v2/cus/54.json",
-    "sha": "87486a9ff88ecf9b8501d73dc34f44eb4030f5e8"
+    "sha": "d3eb0220d88f0c3870d8d4ef9e1377346dbda08b"
   },
   "55": {
     "translation": "Union Simplified",
@@ -657,7 +657,7 @@
     "nr": 55,
     "name": "提摩太后书",
     "url": "https://api.getbible.net/v2/cus/55.json",
-    "sha": "04d60782faf389dc15c3e2ac2794ae958fcaea5e"
+    "sha": "6dce4fb19b44c2e7132578194adb1c8e8bc01d6e"
   },
   "56": {
     "translation": "Union Simplified",
@@ -669,7 +669,7 @@
     "nr": 56,
     "name": "提多书",
     "url": "https://api.getbible.net/v2/cus/56.json",
-    "sha": "104ec6efa8e6a3ff5bc0418e9ffcddaeb74835ab"
+    "sha": "aa973b21404c76d954391bf795a9d476f483999b"
   },
   "57": {
     "translation": "Union Simplified",
@@ -681,7 +681,7 @@
     "nr": 57,
     "name": "腓利门书",
     "url": "https://api.getbible.net/v2/cus/57.json",
-    "sha": "2557d2753d88cedb5d59eb069d04b28abfc61aa2"
+    "sha": "e29ffb31267c9ec2be7bb0d56cd9928f464c93be"
   },
   "58": {
     "translation": "Union Simplified",
@@ -693,7 +693,7 @@
     "nr": 58,
     "name": "希伯来书",
     "url": "https://api.getbible.net/v2/cus/58.json",
-    "sha": "6dfbebeaa9852b0ddb1a1d36cdbb631796e84bd4"
+    "sha": "ba2f63fae8b88c06c7dcd4729e2b75e3c02dfadc"
   },
   "59": {
     "translation": "Union Simplified",
@@ -705,7 +705,7 @@
     "nr": 59,
     "name": "雅各书",
     "url": "https://api.getbible.net/v2/cus/59.json",
-    "sha": "d0a5567b24d5d2ab4688f2d4e3a3ea11631b26ac"
+    "sha": "5d525eb406d9679862b3212f10c85328e27ce03d"
   },
   "60": {
     "translation": "Union Simplified",
@@ -717,7 +717,7 @@
     "nr": 60,
     "name": "彼得前书",
     "url": "https://api.getbible.net/v2/cus/60.json",
-    "sha": "0b5f7fdc137d6253fc7fb4aebfbebf32c1f00897"
+    "sha": "e99aeddcead33775050518dbf589079da1602187"
   },
   "61": {
     "translation": "Union Simplified",
@@ -729,7 +729,7 @@
     "nr": 61,
     "name": "彼得后书",
     "url": "https://api.getbible.net/v2/cus/61.json",
-    "sha": "a236aab95d00db10a529fee3ec932135831db112"
+    "sha": "50bf911438821b5933abe5967a03a35334028b52"
   },
   "62": {
     "translation": "Union Simplified",
@@ -741,7 +741,7 @@
     "nr": 62,
     "name": "约翰一书",
     "url": "https://api.getbible.net/v2/cus/62.json",
-    "sha": "706a00efd0355d3d08e6a062db34b67fcbcd49cd"
+    "sha": "2814b118ef9189da19add4a73eb0d4bb2438de7e"
   },
   "63": {
     "translation": "Union Simplified",
@@ -753,7 +753,7 @@
     "nr": 63,
     "name": "约翰二书",
     "url": "https://api.getbible.net/v2/cus/63.json",
-    "sha": "64e25dc655a597369483f4dc9de3422400b907b8"
+    "sha": "e15f522033bc840e26f807e2886471f40a5eaf06"
   },
   "64": {
     "translation": "Union Simplified",
@@ -765,7 +765,7 @@
     "nr": 64,
     "name": "约翰三书",
     "url": "https://api.getbible.net/v2/cus/64.json",
-    "sha": "5951717f0aef1037325fdd538b6c66dfebf1841b"
+    "sha": "84d2735c81a6046d50b09697cfb8f26d631bbce4"
   },
   "65": {
     "translation": "Union Simplified",
@@ -777,7 +777,7 @@
     "nr": 65,
     "name": "犹大书",
     "url": "https://api.getbible.net/v2/cus/65.json",
-    "sha": "5a9c6eef53c3d96980bd2b98fdd00d2cd51d8fd1"
+    "sha": "a0e15d98228ac7853285d280c48779388ffb31d7"
   },
   "66": {
     "translation": "Union Simplified",
@@ -789,6 +789,6 @@
     "nr": 66,
     "name": "啟示錄",
     "url": "https://api.getbible.net/v2/cus/66.json",
-    "sha": "dc2578feebbc5d4dd8f73a6254e479068acb09d8"
+    "sha": "7020ccd3c49b9c900a3658c8b8490f38f25e31ef"
   }
 }

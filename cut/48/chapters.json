@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "加拉太書 1",
     "url": "https://api.getbible.net/v2/cut/48/1.json",
-    "sha": "1d7a97bd525d12567d4ff0cf33179d4a76e8c749"
+    "sha": "4e8332bbc549fb75ac381515026ad4b210d85a3b"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "加拉太書 2",
     "url": "https://api.getbible.net/v2/cut/48/2.json",
-    "sha": "6967ab3bf29178970ad199b0bd8569ba4923d7ba"
+    "sha": "146034a7124f575e79b112b5f5f04838b30dd5ea"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "加拉太書 3",
     "url": "https://api.getbible.net/v2/cut/48/3.json",
-    "sha": "ea3e27912686872f6a4381d50b04010463259173"
+    "sha": "a277463ff958e3cdb616b50c314698fcc8289b69"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "加拉太書 4",
     "url": "https://api.getbible.net/v2/cut/48/4.json",
-    "sha": "e8e57ea3f320cefd11dd0f270f50307d41c50377"
+    "sha": "d6c22c4b99e6b595b0d454582abdcef2e0e028c7"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "加拉太書 5",
     "url": "https://api.getbible.net/v2/cut/48/5.json",
-    "sha": "675218e743ade728c03c822614eda4fa19451aab"
+    "sha": "18724b8a99755814a031255bd2e23154d6243f5c"
   },
   "6": {
     "translation": "Union Traditional",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "加拉太書 6",
     "url": "https://api.getbible.net/v2/cut/48/6.json",
-    "sha": "684232558dcb933c26d88a59c1a679d8d014c385"
+    "sha": "9eb5387b9d2fbce1510542d3b6a623e48eec2556"
   }
 }

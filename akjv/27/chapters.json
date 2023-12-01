@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 1,
     "name": "Daniel 1",
     "url": "https://api.getbible.net/v2/akjv/27/1.json",
-    "sha": "ed18f0bb4f6316b7080ebe27750abb1789b49e52"
+    "sha": "46b851c1d129da9ad6b13d0e7670323be72611f1"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 2,
     "name": "Daniel 2",
     "url": "https://api.getbible.net/v2/akjv/27/2.json",
-    "sha": "554b45c519f251e5878abf00d690fb0a910414d1"
+    "sha": "fff84232ee04f79e3bdb79a603de72eee0bd52fc"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 3,
     "name": "Daniel 3",
     "url": "https://api.getbible.net/v2/akjv/27/3.json",
-    "sha": "c83ed568897c63ccd8fb97a42084e090766ca45b"
+    "sha": "120d34f23d28c4069bea474bd919cc5b912f9f3d"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 4,
     "name": "Daniel 4",
     "url": "https://api.getbible.net/v2/akjv/27/4.json",
-    "sha": "36ddfba44bd8570878ce565ee8186fa66c39ec97"
+    "sha": "ce158062a41cf016d41e473ed302e5642ee9656b"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 5,
     "name": "Daniel 5",
     "url": "https://api.getbible.net/v2/akjv/27/5.json",
-    "sha": "ea4343f815e80494c9da6e2540c51d3b7b3d63bf"
+    "sha": "08ab99fc66b8a6a6e8cb98bd5a74d6a35a90070c"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 6,
     "name": "Daniel 6",
     "url": "https://api.getbible.net/v2/akjv/27/6.json",
-    "sha": "44617105ed87b5eee282ff4884040800d259754a"
+    "sha": "34f3db6ad27e8ac0bec9c8a97f518ee8da7ff9ff"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 7,
     "name": "Daniel 7",
     "url": "https://api.getbible.net/v2/akjv/27/7.json",
-    "sha": "d89582102d19721383dc90c2e810a4b555156a5f"
+    "sha": "366d9f2b6b2f5ae194c4587bd46149a12b8585a3"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 8,
     "name": "Daniel 8",
     "url": "https://api.getbible.net/v2/akjv/27/8.json",
-    "sha": "0a8ec42c340adfd83bb433da6a8be5b4c57a0dff"
+    "sha": "dccd6c0e33988845f1f89f309ac93e6d237da792"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 9,
     "name": "Daniel 9",
     "url": "https://api.getbible.net/v2/akjv/27/9.json",
-    "sha": "b397a716b4d66510a176412cf9c01c506082bdc2"
+    "sha": "640175e8e7274b71959c954c6b042c72d7809f8e"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 10,
     "name": "Daniel 10",
     "url": "https://api.getbible.net/v2/akjv/27/10.json",
-    "sha": "4f69446b5bb337ad13adf9d2db1d2d2e22dd13f0"
+    "sha": "e9778e9c2dd14ec393b583ac9203744cf1167171"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 11,
     "name": "Daniel 11",
     "url": "https://api.getbible.net/v2/akjv/27/11.json",
-    "sha": "8f39ba3c0a4e9a62fcfbb9bc77330188567e4745"
+    "sha": "3473fc41c4dc51d4a318403fae006529c5a6fc74"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,12 +159,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 27,
     "book_name": "Daniel",
     "chapter": 12,
     "name": "Daniel 12",
     "url": "https://api.getbible.net/v2/akjv/27/12.json",
-    "sha": "52648dd42560906382a9ed8e6e6e9acf173331b9"
+    "sha": "f89b6ef48b50225fcf70c83b3495fa5dcce6f839"
   }
 }

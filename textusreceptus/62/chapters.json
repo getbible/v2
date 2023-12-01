@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ιωάννου Α' 1",
     "url": "https://api.getbible.net/v2/textusreceptus/62/1.json",
-    "sha": "b3d8a0b40567ffd8fde52affacf7e8bdf350104a"
+    "sha": "b80bb5d222b0699558a7c17fb4549f9c487a7683"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ιωάννου Α' 2",
     "url": "https://api.getbible.net/v2/textusreceptus/62/2.json",
-    "sha": "9cf6215a607ad3de57bf74e6ff1ac1046b33ba33"
+    "sha": "4ad405cf7ebc58e96bc4b780fe2b1eae5abb2747"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ιωάννου Α' 3",
     "url": "https://api.getbible.net/v2/textusreceptus/62/3.json",
-    "sha": "9bc3bfa72442ed4a9aa993e27df399480f59e35d"
+    "sha": "285f94fb7bf7d853300f0b9700036bdab22bdc1a"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",

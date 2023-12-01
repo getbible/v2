@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 1,
     "name": "Matthew 1",
     "url": "https://api.getbible.net/v2/akjv/40/1.json",
-    "sha": "15c8b18e40f5274a9e1807aaf297e424d9ba9b34"
+    "sha": "1f18496984202d1d13bf46472b992de2dc76e167"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 2,
     "name": "Matthew 2",
     "url": "https://api.getbible.net/v2/akjv/40/2.json",
-    "sha": "cca0056766b6bcf881cc27f1a3400f82682e584f"
+    "sha": "53fd2673bfa5b93a70b076046b245dc69ba53787"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 3,
     "name": "Matthew 3",
     "url": "https://api.getbible.net/v2/akjv/40/3.json",
-    "sha": "4d9397a7d37aa0750f0c3fa4fbb633397409c73a"
+    "sha": "addd3cb2a88a2763e3d5becc5a2907a65865a638"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 4,
     "name": "Matthew 4",
     "url": "https://api.getbible.net/v2/akjv/40/4.json",
-    "sha": "b9cc5ca5bcddb2a2471fd3a276c96a755738535d"
+    "sha": "b91db255759705324f8be2119367225901a4a2d9"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 5,
     "name": "Matthew 5",
     "url": "https://api.getbible.net/v2/akjv/40/5.json",
-    "sha": "7cd5a7b4524999798c69ddecfe9029c9e4c1ce7c"
+    "sha": "312861155970c82477946bc9b1f688dc170e5e40"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 6,
     "name": "Matthew 6",
     "url": "https://api.getbible.net/v2/akjv/40/6.json",
-    "sha": "ad7548970aa51c5a53144cd2125d9cbf75e5bf74"
+    "sha": "af3106f36562801bbdfb831d4bd41c1415958846"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 7,
     "name": "Matthew 7",
     "url": "https://api.getbible.net/v2/akjv/40/7.json",
-    "sha": "7f1383fc040c29413603d3981baedf7e6303ca74"
+    "sha": "113d6890c5219e6bf3f446508724d5cfc6405a3e"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 8,
     "name": "Matthew 8",
     "url": "https://api.getbible.net/v2/akjv/40/8.json",
-    "sha": "4f0f90d87f3a0bf35507a6163070a66f365e9acf"
+    "sha": "378d6b7cef38f9aeaa923650901059243e1014eb"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 9,
     "name": "Matthew 9",
     "url": "https://api.getbible.net/v2/akjv/40/9.json",
-    "sha": "3a4d461e3ec5f0f0519d95996998f0c412013dd2"
+    "sha": "475e203672c78ad64cff94ba2fbcd4521b1a3389"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 10,
     "name": "Matthew 10",
     "url": "https://api.getbible.net/v2/akjv/40/10.json",
-    "sha": "405d50210b10345c0fd1665d7d77bcad2686b2aa"
+    "sha": "9e49596478225b85e3370f515a8b8fb220d8cd37"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 11,
     "name": "Matthew 11",
     "url": "https://api.getbible.net/v2/akjv/40/11.json",
-    "sha": "47302676875689dd245e65459b720682b355a8c1"
+    "sha": "6533c43f897b137782224de5ca094f17714c1e68"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 12,
     "name": "Matthew 12",
     "url": "https://api.getbible.net/v2/akjv/40/12.json",
-    "sha": "c03a36dcd9c7acac22ac418bf140c4026dd0a933"
+    "sha": "18f69c5f718748205c265a4b556f15bfb62f7d86"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 13,
     "name": "Matthew 13",
     "url": "https://api.getbible.net/v2/akjv/40/13.json",
-    "sha": "e70715bc8695a312648a3ba3e9b5f064c4d9a237"
+    "sha": "4e9b18631f74c00b6548b0b6d8bccc80bfcff567"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 14,
     "name": "Matthew 14",
     "url": "https://api.getbible.net/v2/akjv/40/14.json",
-    "sha": "59c156b706d7f223a0cba500a6e9f7cefda7850f"
+    "sha": "a5f7964f3d8f202755b9041cbe71e49bf8848eee"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 15,
     "name": "Matthew 15",
     "url": "https://api.getbible.net/v2/akjv/40/15.json",
-    "sha": "255c84e72911855988e7c1b59165752b5cccc6a2"
+    "sha": "4d01e06ae3ce53758685f60613f768d8b93b4b6d"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 16,
     "name": "Matthew 16",
     "url": "https://api.getbible.net/v2/akjv/40/16.json",
-    "sha": "50a54840418c3460a88730f5b266d6692960be12"
+    "sha": "e7ce5b5278c805e9483176cfee78569124e63149"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 17,
     "name": "Matthew 17",
     "url": "https://api.getbible.net/v2/akjv/40/17.json",
-    "sha": "3737380c471c66f345924fc4ba23ff11ba6a4662"
+    "sha": "cff878b98b4155555c662a2d3d1f2fa8a7747a25"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 18,
     "name": "Matthew 18",
     "url": "https://api.getbible.net/v2/akjv/40/18.json",
-    "sha": "7e8b9df1c3c34a2824cd2dd6143f1c5665e89dfc"
+    "sha": "8d2d0d458f33f2e269807cf992d7309b8868c832"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 19,
     "name": "Matthew 19",
     "url": "https://api.getbible.net/v2/akjv/40/19.json",
-    "sha": "10cb1522a43241175c26f1917c8d426edda1eee1"
+    "sha": "9c6b7b878c469c6af2cd86a73a5b0c5ec0ba3d65"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 20,
     "name": "Matthew 20",
     "url": "https://api.getbible.net/v2/akjv/40/20.json",
-    "sha": "db4915f50344b19d3978ebcd9d1e9835a1fa7d78"
+    "sha": "e58dc1b762d52d631745eb291a438966f4f8db8f"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 21,
     "name": "Matthew 21",
     "url": "https://api.getbible.net/v2/akjv/40/21.json",
-    "sha": "fa9688b3cac2f69b49d9ddc586f742b880932053"
+    "sha": "e2e227b3c0e989b8f9eafb02592599f33f66ec0b"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 22,
     "name": "Matthew 22",
     "url": "https://api.getbible.net/v2/akjv/40/22.json",
-    "sha": "edbc2af27d6acdc864b55c862591b3047cfc360d"
+    "sha": "2224e181c04b0781c39a80c6dbe3f2cbf5408f85"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 23,
     "name": "Matthew 23",
     "url": "https://api.getbible.net/v2/akjv/40/23.json",
-    "sha": "235fdcc6178cc2fb1c0ba93cd54712e350beaae8"
+    "sha": "32429922b45e496e908722124aac57519fe12d9a"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 24,
     "name": "Matthew 24",
     "url": "https://api.getbible.net/v2/akjv/40/24.json",
-    "sha": "b3725ed3a3fdd843bc932969ae59527f8516b3cf"
+    "sha": "797fb56b2ef71438ae317ed0a20cea967b4a7d73"
   },
   "25": {
     "translation": "American King James Version",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 25,
     "name": "Matthew 25",
     "url": "https://api.getbible.net/v2/akjv/40/25.json",
-    "sha": "01f88974f1b5935d5e65e9e7f9648850c55d9195"
+    "sha": "108f370b8e7cd38e2aace576385de8b9a6fa68b0"
   },
   "26": {
     "translation": "American King James Version",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 26,
     "name": "Matthew 26",
     "url": "https://api.getbible.net/v2/akjv/40/26.json",
-    "sha": "302776d2cc21ecc04f55863a356daa2a68d740fe"
+    "sha": "8b90b76147231588e6cff7c2cd4e5a02f594e71d"
   },
   "27": {
     "translation": "American King James Version",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 27,
     "name": "Matthew 27",
     "url": "https://api.getbible.net/v2/akjv/40/27.json",
-    "sha": "ba9d58f35c002883ad4e4ef8d5031d18d7aae9e2"
+    "sha": "26b677f203ba028a4b8b53cb758be56b16c677ad"
   },
   "28": {
     "translation": "American King James Version",
@@ -383,12 +383,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 40,
     "book_name": "Matthew",
     "chapter": 28,
     "name": "Matthew 28",
     "url": "https://api.getbible.net/v2/akjv/40/28.json",
-    "sha": "2eefa6083970acb5537e8ccdb90dfe2d3b71c4d5"
+    "sha": "297ad0efbea2cb8854612b2c75f02955139d4689"
   }
 }

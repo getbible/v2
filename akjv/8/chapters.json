@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 1,
     "name": "Ruth 1",
     "url": "https://api.getbible.net/v2/akjv/8/1.json",
-    "sha": "9388e038452f798b11758b378002f78ac0630b18"
+    "sha": "9c02ae06fe4a8ceacf074dba711f9d8bda92acfc"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 2,
     "name": "Ruth 2",
     "url": "https://api.getbible.net/v2/akjv/8/2.json",
-    "sha": "0d4bea845a33d62fb592e82b4e40dd0957649e27"
+    "sha": "8ec6a8e33c0934d2fd679e0391f13dc8fe8750d1"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 3,
     "name": "Ruth 3",
     "url": "https://api.getbible.net/v2/akjv/8/3.json",
-    "sha": "4a87c6429fa37c53e5d7aad3ad54a299b0de53b6"
+    "sha": "45f23f7c2c6a05cb4c7b414dd34e7d518362298d"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,12 +47,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 8,
     "book_name": "Ruth",
     "chapter": 4,
     "name": "Ruth 4",
     "url": "https://api.getbible.net/v2/akjv/8/4.json",
-    "sha": "306abbb09304081e18c1838f2f27505d6ed312fb"
+    "sha": "424d861e71f816f5d818b2c5924a526d12168065"
   }
 }

@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 1,
     "name": "1 Thessalonians 1",
     "url": "https://api.getbible.net/v2/akjv/52/1.json",
-    "sha": "60a6e779c53ccd6ddb65c3164fb567f6057b79df"
+    "sha": "be946a2c185abeca4cdb2f870f1ce064aa7f370e"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://api.getbible.net/v2/akjv/52/2.json",
-    "sha": "fa2ae1463dea53fb24a96ebc700f5809404555d8"
+    "sha": "50b22e4d47a9881d0ed9159b5deda38efb487661"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 3,
     "name": "1 Thessalonians 3",
     "url": "https://api.getbible.net/v2/akjv/52/3.json",
-    "sha": "59e2d5d85aa7c70a97edbdc7def7482707c80cca"
+    "sha": "9125630f1a42c844dc04177ecc28ec0c4063253e"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 4,
     "name": "1 Thessalonians 4",
     "url": "https://api.getbible.net/v2/akjv/52/4.json",
-    "sha": "4a8fef1f6496e5679ebcea6999e15cb3a4638149"
+    "sha": "9c464dcf4000e5278b4e67eb25824ed4678be0d7"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,12 +61,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 52,
     "book_name": "1 Thessalonians",
     "chapter": 5,
     "name": "1 Thessalonians 5",
     "url": "https://api.getbible.net/v2/akjv/52/5.json",
-    "sha": "ea8abc3db937153257895e195ebe87e47d25aa8b"
+    "sha": "dd0f6431fcd0d486822a87247e3c79ffb1aed268"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "彼得前書 1",
     "url": "https://api.getbible.net/v2/cut/60/1.json",
-    "sha": "d09a02788da69e3d3207019e68d39f930fc5c19e"
+    "sha": "dc461305e474d55d2663f9df1b89a202975d1711"
   },
   "2": {
     "translation": "Union Traditional",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "彼得前書 2",
     "url": "https://api.getbible.net/v2/cut/60/2.json",
-    "sha": "aeee46ce82b379413103ae7f096a4a13d1d8044d"
+    "sha": "6dc70d033a9fdce3dea1c14ef2dfc7a1781d6d5f"
   },
   "3": {
     "translation": "Union Traditional",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "彼得前書 3",
     "url": "https://api.getbible.net/v2/cut/60/3.json",
-    "sha": "c2196ff9c1ec72d76b7b031fca8a0f16b9c841a5"
+    "sha": "63ab4833b7ef814cd080fe82657f57049e751bda"
   },
   "4": {
     "translation": "Union Traditional",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "彼得前書 4",
     "url": "https://api.getbible.net/v2/cut/60/4.json",
-    "sha": "b4a2b61d7c4aa9764ac7732b620a0ffcebd53c07"
+    "sha": "61635e1cf7a0886de21e4af99e9d967fb7b22d7b"
   },
   "5": {
     "translation": "Union Traditional",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "彼得前書 5",
     "url": "https://api.getbible.net/v2/cut/60/5.json",
-    "sha": "de9ca85c6d072a9cb455bc31537fd2e4cd5b1525"
+    "sha": "1756c6b69c4bf9b5c88d1b103f52313fdf907069"
   }
 }

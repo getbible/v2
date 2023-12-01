@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "玛拉基书 1",
     "url": "https://api.getbible.net/v2/cus/39/1.json",
-    "sha": "250d2f6db62ca2a9616e44a4ad251d7b292b0c1f"
+    "sha": "b033faa7612c2840615dbe936a687b5eb8274d7c"
   },
   "2": {
     "translation": "Union Simplified",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "玛拉基书 2",
     "url": "https://api.getbible.net/v2/cus/39/2.json",
-    "sha": "a2ecf9b3388d237c02d68da20265de3209859a9c"
+    "sha": "42e9e8a6ca4da2c5991d722a7775fd083c142b6b"
   },
   "3": {
     "translation": "Union Simplified",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "玛拉基书 3",
     "url": "https://api.getbible.net/v2/cus/39/3.json",
-    "sha": "d1381798060775ba15b94c6c1be9036c71413d9e"
+    "sha": "40e07e0400ef4ae68c24e9703e1f7a499eeeca96"
   },
   "4": {
     "translation": "Union Simplified",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "玛拉基书 4",
     "url": "https://api.getbible.net/v2/cus/39/4.json",
-    "sha": "a69b07ada2cd454c66198239767b5b30be626024"
+    "sha": "88370af9db1eaf974538e252144a4a02b69736c0"
   }
 }

@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 1,
     "name": "Lamentations 1",
     "url": "https://api.getbible.net/v2/akjv/25/1.json",
-    "sha": "423544f930838319f577c330eb0d1d8c56b51459"
+    "sha": "83ac57bf662cfb9439ed6ed33708e40c01000b45"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 2,
     "name": "Lamentations 2",
     "url": "https://api.getbible.net/v2/akjv/25/2.json",
-    "sha": "d80a7d841e331cad44044fab086e6728925e4ee0"
+    "sha": "5b359185777d7440516d7f756f9796c6e76c6917"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 3,
     "name": "Lamentations 3",
     "url": "https://api.getbible.net/v2/akjv/25/3.json",
-    "sha": "fe38230388b106e128d6bf2b202d52f7191bb296"
+    "sha": "e0faffc1322fe64fc812cfa5e6d1d86b10597f29"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 4,
     "name": "Lamentations 4",
     "url": "https://api.getbible.net/v2/akjv/25/4.json",
-    "sha": "369b57e05f54f42b71f821dc4f7485d29ad28cc4"
+    "sha": "349b8f78df4463b357f5c5786e78870243bfa02b"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,12 +61,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 25,
     "book_name": "Lamentations",
     "chapter": 5,
     "name": "Lamentations 5",
     "url": "https://api.getbible.net/v2/akjv/25/5.json",
-    "sha": "4735126b74814c5268f95258d42dae3668d8fd9d"
+    "sha": "9b99634aa3f24fc5066bcf1ffde418f80f65b813"
   }
 }

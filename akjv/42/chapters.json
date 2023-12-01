@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 1,
     "name": "Luke 1",
     "url": "https://api.getbible.net/v2/akjv/42/1.json",
-    "sha": "7c458e6b9d6dc76a1393a7d48372d354a080edff"
+    "sha": "8ce96b0fe86c9e8a72ae3471cd5adf29f7f0fbc8"
   },
   "2": {
     "translation": "American King James Version",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 2,
     "name": "Luke 2",
     "url": "https://api.getbible.net/v2/akjv/42/2.json",
-    "sha": "e9add01bcc68664cb1acd23f210c782aa6d2f7be"
+    "sha": "1aebe66e8600847f96bcd36e8e82bd434c664257"
   },
   "3": {
     "translation": "American King James Version",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 3,
     "name": "Luke 3",
     "url": "https://api.getbible.net/v2/akjv/42/3.json",
-    "sha": "b67ab0bdc4193592b66ae5b84e98915c8250259a"
+    "sha": "7e8e0d27f590d873c4fef18d68e876d766e11b42"
   },
   "4": {
     "translation": "American King James Version",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 4,
     "name": "Luke 4",
     "url": "https://api.getbible.net/v2/akjv/42/4.json",
-    "sha": "5bd16ff42111cdfe05113837e2ae17d9174352f8"
+    "sha": "beb997bdee1d614c3d5284c403adfda83f32b786"
   },
   "5": {
     "translation": "American King James Version",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 5,
     "name": "Luke 5",
     "url": "https://api.getbible.net/v2/akjv/42/5.json",
-    "sha": "2e91406ba4138e919d841c2176660d66717a5830"
+    "sha": "a07a0f2fe666a3f054434f0664ae810d2e958457"
   },
   "6": {
     "translation": "American King James Version",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 6,
     "name": "Luke 6",
     "url": "https://api.getbible.net/v2/akjv/42/6.json",
-    "sha": "e152c103618c917c0e6618c8b77b1384e9ddfbef"
+    "sha": "1b558ea0efbcec53fac9202af47cebfc127acaa5"
   },
   "7": {
     "translation": "American King James Version",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 7,
     "name": "Luke 7",
     "url": "https://api.getbible.net/v2/akjv/42/7.json",
-    "sha": "af1bccc029c37f369916e12f84d6dbcaf0c9ff0b"
+    "sha": "c585e3b794ce2c90508768b639cccbd8a18fe619"
   },
   "8": {
     "translation": "American King James Version",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 8,
     "name": "Luke 8",
     "url": "https://api.getbible.net/v2/akjv/42/8.json",
-    "sha": "4c48595f1568e53fdf7111c1fa489ef91863cc08"
+    "sha": "377145a82d651e5db02fda16e5ec8fa366224247"
   },
   "9": {
     "translation": "American King James Version",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 9,
     "name": "Luke 9",
     "url": "https://api.getbible.net/v2/akjv/42/9.json",
-    "sha": "8a2e8c92a3be53841789c6f0ff040078c39b2829"
+    "sha": "3d33549b0bf02c232eea8f680829d2b573fbe8a9"
   },
   "10": {
     "translation": "American King James Version",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 10,
     "name": "Luke 10",
     "url": "https://api.getbible.net/v2/akjv/42/10.json",
-    "sha": "227ac3f13a26e62b4e1d07171c264e64f884dcc6"
+    "sha": "bfa02d0abfcb76d066549dc2791379fb00362177"
   },
   "11": {
     "translation": "American King James Version",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 11,
     "name": "Luke 11",
     "url": "https://api.getbible.net/v2/akjv/42/11.json",
-    "sha": "47a9082e749d6953e99f531946243b4250e23619"
+    "sha": "0448414ad42fc011963ca75e4be170efb52493b8"
   },
   "12": {
     "translation": "American King James Version",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 12,
     "name": "Luke 12",
     "url": "https://api.getbible.net/v2/akjv/42/12.json",
-    "sha": "ab29c4306b4607be2f0a58bac29f4cfb876a6c06"
+    "sha": "66d0a298cece05dcb0f54da45d1178b070886f26"
   },
   "13": {
     "translation": "American King James Version",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 13,
     "name": "Luke 13",
     "url": "https://api.getbible.net/v2/akjv/42/13.json",
-    "sha": "6fce07f7d2bb7d2713aad9b386906a6da8ad0ed0"
+    "sha": "d6573ae782e5bc4eabd7ac33ab93f061ef650324"
   },
   "14": {
     "translation": "American King James Version",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 14,
     "name": "Luke 14",
     "url": "https://api.getbible.net/v2/akjv/42/14.json",
-    "sha": "6f54506fecbc7095f15ecf0fc19e5222ee6545c0"
+    "sha": "b42dfd8e245047c1ea3aae6668feea1e0678b896"
   },
   "15": {
     "translation": "American King James Version",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 15,
     "name": "Luke 15",
     "url": "https://api.getbible.net/v2/akjv/42/15.json",
-    "sha": "a175ed151ce2b9206147ec7e57a55c80f1faddfd"
+    "sha": "cf02535b8099397567020ab407f15dfd95a58c09"
   },
   "16": {
     "translation": "American King James Version",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 16,
     "name": "Luke 16",
     "url": "https://api.getbible.net/v2/akjv/42/16.json",
-    "sha": "04859445e607115bcd56959ade7427382391cd86"
+    "sha": "29690a84cec61633612e90bb6080e7157acc1376"
   },
   "17": {
     "translation": "American King James Version",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 17,
     "name": "Luke 17",
     "url": "https://api.getbible.net/v2/akjv/42/17.json",
-    "sha": "db643f2814745bc3208d1cbeb379ec9089580c8b"
+    "sha": "1bd34b5142344d3a201cbc3ee1d9201911d6ac88"
   },
   "18": {
     "translation": "American King James Version",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 18,
     "name": "Luke 18",
     "url": "https://api.getbible.net/v2/akjv/42/18.json",
-    "sha": "8eb5081b5c20c4acdbff40fb95ef4420460877cd"
+    "sha": "30d8f4258a29772f40fdf7ecb4ee0d2359cf7c44"
   },
   "19": {
     "translation": "American King James Version",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 19,
     "name": "Luke 19",
     "url": "https://api.getbible.net/v2/akjv/42/19.json",
-    "sha": "19a75ae92a3add6f69fd39c2effc74dad393923a"
+    "sha": "bb7c3331ab91175d68ddb47ee300f98bb3c27ed5"
   },
   "20": {
     "translation": "American King James Version",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 20,
     "name": "Luke 20",
     "url": "https://api.getbible.net/v2/akjv/42/20.json",
-    "sha": "38b8be394c8195a1ce0a719cada73ffa29bbbef2"
+    "sha": "a0d2501eb2ddfafa9d40b185371b49b9a890e023"
   },
   "21": {
     "translation": "American King James Version",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 21,
     "name": "Luke 21",
     "url": "https://api.getbible.net/v2/akjv/42/21.json",
-    "sha": "ad9feb1a229803f6c6337fb10c108a826dae3726"
+    "sha": "b64977e26386322f29d8e1f665acd59ff4393207"
   },
   "22": {
     "translation": "American King James Version",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 22,
     "name": "Luke 22",
     "url": "https://api.getbible.net/v2/akjv/42/22.json",
-    "sha": "92ab4b215c687ed5a32daca8e2d60849189009a8"
+    "sha": "f9cd02755548a8e20a27bf6e58bed44a20646651"
   },
   "23": {
     "translation": "American King James Version",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 23,
     "name": "Luke 23",
     "url": "https://api.getbible.net/v2/akjv/42/23.json",
-    "sha": "163f9dd77ab67feea14170a98ff315fb10c5cf14"
+    "sha": "88568e85b3bfed2d5045d368abb9025676c3ba53"
   },
   "24": {
     "translation": "American King James Version",
@@ -327,12 +327,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 24,
     "name": "Luke 24",
     "url": "https://api.getbible.net/v2/akjv/42/24.json",
-    "sha": "03719a7772541a5cfac933abe1bed77731433f8e"
+    "sha": "a2ab64c99a8de8e9804af2d3105cd404180c7266"
   }
 }

@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ιάκωβος 2",
     "url": "https://api.getbible.net/v2/textusreceptus/59/2.json",
-    "sha": "f9f3796ca38a676fd5feaae979809390385a9df8"
+    "sha": "23e26266d3380a7ca28c760a1f5b73b76172989f"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ιάκωβος 4",
     "url": "https://api.getbible.net/v2/textusreceptus/59/4.json",
-    "sha": "e756f92f6434911d0444a6413ce207fb814eaf6a"
+    "sha": "67d449364448489023c7f76093335568ec653b63"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Ιάκωβος 5",
     "url": "https://api.getbible.net/v2/textusreceptus/59/5.json",
-    "sha": "3cc8d55a6ed36d82a97980975a38128de968bdfb"
+    "sha": "9dcb2264c25dc9a1bea12df5bd2396fb3485b37e"
   }
 }

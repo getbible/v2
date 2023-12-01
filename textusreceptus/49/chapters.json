@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Προς Εφεσίους 1",
     "url": "https://api.getbible.net/v2/textusreceptus/49/1.json",
-    "sha": "97c8dc7ae569d47b49593a49a52bae422cce395c"
+    "sha": "d9e1c6f105fb2cd71f929fe79f74d03717d73bc0"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Προς Εφεσίους 3",
     "url": "https://api.getbible.net/v2/textusreceptus/49/3.json",
-    "sha": "4a985fbcca297be268de0985c7e2b2406da59677"
+    "sha": "3e4765fd31d657c9aebbca386ffd62769983ab34"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Προς Εφεσίους 6",
     "url": "https://api.getbible.net/v2/textusreceptus/49/6.json",
-    "sha": "6d58f3c200c46c51cc81384f5d23b5e4b6bfe3ed"
+    "sha": "5d443ff4ac33abdfcd62de5e1a122171e255ef36"
   }
 }
