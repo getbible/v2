@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Zechariah 11",
     "url": "https://api.getbible.net/v2/akjv/38/11.json",
-    "sha": "8d4e2f668c87c41223f95b3441d9318b07c452e9"
+    "sha": "b3661d0e0928cf860b521dc34f8ffe8633a25b94"
   },
   "12": {
     "translation": "American King James Version",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Zechariah 14",
     "url": "https://api.getbible.net/v2/akjv/38/14.json",
-    "sha": "09bd0f577083c00e1821930a23562e921119722e"
+    "sha": "725a4d3a0b055748397f9ad4bd20ea07d8747162"
   }
 }

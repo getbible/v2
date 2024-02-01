@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Philippians 2",
     "url": "https://api.getbible.net/v2/akjv/50/2.json",
-    "sha": "1680e389426b5edc72090afc228990ed5f4afda4"
+    "sha": "5a1ec518d399bb1ee51c35bd3ee1ae63de49d3ef"
   },
   "3": {
     "translation": "American King James Version",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Philippians 4",
     "url": "https://api.getbible.net/v2/akjv/50/4.json",
-    "sha": "bc6f8acead13de9bc883d45bbbf7b5d2db8b835b"
+    "sha": "a63976542625a10c1c078be8e1a263f679e3402f"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Peter 1",
     "url": "https://api.getbible.net/v2/akjv/60/1.json",
-    "sha": "e9e7f72a40fe88bc2d90a43925bb799a854485c9"
+    "sha": "601676064333219d66ad1e61fa7a45d7243d2dd6"
   },
   "2": {
     "translation": "American King James Version",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Peter 2",
     "url": "https://api.getbible.net/v2/akjv/60/2.json",
-    "sha": "b95af6de49f752e17d835bfc0bc4092b2e6cfd3c"
+    "sha": "1378c2589a5c1b3236aa576e50a890fc8b00f7ea"
   },
   "3": {
     "translation": "American King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Peter 3",
     "url": "https://api.getbible.net/v2/akjv/60/3.json",
-    "sha": "cd184fe8c29b0765080f5d91c3d7abd1539bfb97"
+    "sha": "33c69c6633cb85d3ca1f6d1d42c7aed0a0bb2e54"
   },
   "4": {
     "translation": "American King James Version",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Peter 4",
     "url": "https://api.getbible.net/v2/akjv/60/4.json",
-    "sha": "d4cdcb4ecf371b5ca9677b8ff2f628d3378aaec4"
+    "sha": "f53b29800219405066619c16d497443ab059724a"
   },
   "5": {
     "translation": "American King James Version",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Peter 5",
     "url": "https://api.getbible.net/v2/akjv/60/5.json",
-    "sha": "afc26444e7b0d7caf8295234b1db5889b238a5c7"
+    "sha": "a8dbac10e90495d2a33fd2e48da37dbdf0c4ce64"
   }
 }

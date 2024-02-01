@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Habakkuk 2",
     "url": "https://api.getbible.net/v2/akjv/35/2.json",
-    "sha": "8be12f9cd3fbee13d199ce3d42b25d8eb5acb8d3"
+    "sha": "bb30d81edcaa03eea0349aac5e967d87b0745a3c"
   },
   "3": {
     "translation": "American King James Version",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habakkuk 3",
     "url": "https://api.getbible.net/v2/akjv/35/3.json",
-    "sha": "2859bb0558401bc344e7cf28387cf6c72fb9a0e9"
+    "sha": "65d894936f6abf3093cf8a495caf77bf0bdfa9ce"
   }
 }

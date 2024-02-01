@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Micah 6",
     "url": "https://api.getbible.net/v2/akjv/33/6.json",
-    "sha": "e4c8e6288c31c3bdbb7e84aba5f6e741746c15b8"
+    "sha": "dcb17ace486dad7d4b6a1e3802186de26e51503e"
   },
   "7": {
     "translation": "American King James Version",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Micah 7",
     "url": "https://api.getbible.net/v2/akjv/33/7.json",
-    "sha": "699d065813c3e4c1c7f83c1937a812434e39e6fc"
+    "sha": "d83686b59bb88388ed599ab58550566a0f28fb9a"
   }
 }

@@ -8,8 +8,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.English",
-    "distribution_version": "2.0",
-    "distribution_version_date": "2023-10-31",
+    "distribution_version": "2.1",
+    "distribution_version_date": "2023-12-27",
     "distribution_abbreviation": "akjv",
     "distribution_about": "American King James Version\\par Produced by Stone Engelbrite\\par\\par This is a new translation of the Bible, based on the original King James Version. It is a simple word for word update from the King James English. I have taken care to change nothing doctrinely, but to simply update the spelling and vocabulary. I have not changed the grammar because that could alter it doctrinely.\\par\\par I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999.\\par\\par       Michael Peter (Stone) Engelbrite\\par\\par You may use it in any manner you wish: copy it, sell it, modify it, etc.\\par You can't copyright it or prevent others from using it.\\par You can't claim that you created it, because you didn't.",
     "distribution_license": "Copyrighted; Free non-commercial distribution",
@@ -20,10 +20,11 @@
       "history_1.2": "Updated to new text and fixed a couple incomplete verses.",
       "history_1.3": "compressed module",
       "history_1.4": "Updated TextSource",
-      "history_2.0": "(2023-10-31) Updated TextSource, correction of an error in Exod 23:17"
+      "history_2.0": "(2023-11-08) Updated TextSource, correction of an error in Exod 23:17",
+      "history_2.1": "(2023-12-27) Correction of minor text errors."
     },
     "url": "https://api.getbible.net/v2/akjv.json",
-    "sha": "9a99a9dce898b14efb06ab867002023709045408"
+    "sha": "db887e43391ae4e394e908f9216c40cd5682b7ae"
   },
   "aleppo": {
     "translation": "Aleppo Codex",

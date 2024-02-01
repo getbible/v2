@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Colossians 1",
     "url": "https://api.getbible.net/v2/akjv/51/1.json",
-    "sha": "d0b551534d92f18121e32eb4097a067d08837ed8"
+    "sha": "9722163682561c71f834ff3ac89b59b518e64efa"
   },
   "2": {
     "translation": "American King James Version",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Colossians 3",
     "url": "https://api.getbible.net/v2/akjv/51/3.json",
-    "sha": "76602e1edb528466626a59dd4954c121a16cc7c4"
+    "sha": "44d25476ba9152e8636d1f2cfcf4d33c7933b66d"
   },
   "4": {
     "translation": "American King James Version",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Colossians 4",
     "url": "https://api.getbible.net/v2/akjv/51/4.json",
-    "sha": "390d1e28c99ca1642153bbb44da0711962d8adb5"
+    "sha": "dbec5217dd12c7be23a0ce9f9ffb1735b1804af8"
   }
 }
