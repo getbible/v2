@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Esther 1",
     "url": "https://api.getbible.net/v2/darby/17/1.json",
-    "sha": "79ca17fc83b572da31db2151548f34173e3b5b49"
+    "sha": "eb1d02ca0ebb1a5eae9a71e17f976bd28c25da82"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Esther 2",
     "url": "https://api.getbible.net/v2/darby/17/2.json",
-    "sha": "8a30cda542890d5d6cdb0a8ec1a3ac73451c6f9d"
+    "sha": "ed95a6e823a08eeab3f6880f3b8e58b611a28567"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Esther 3",
     "url": "https://api.getbible.net/v2/darby/17/3.json",
-    "sha": "efb645de626850bdaa47514b06aa06c57cb369d0"
+    "sha": "1e3bb9cbbfcee1fc840e655b15895a3a55e456e9"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Esther 4",
     "url": "https://api.getbible.net/v2/darby/17/4.json",
-    "sha": "8b6ee4fb2450d775d7a7deaf791b197fd06ca026"
+    "sha": "a175a0c8f29afb46c7f4a2974ad89497c87a8537"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Esther 5",
     "url": "https://api.getbible.net/v2/darby/17/5.json",
-    "sha": "a373294c81eca4cc926c87db1eb18d156c83b529"
+    "sha": "f1a42253b721e7839885dee67cefb77bbd379d88"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Esther 6",
     "url": "https://api.getbible.net/v2/darby/17/6.json",
-    "sha": "4471cbeb695be95a0cce2e83aabc730799844f8e"
+    "sha": "69367017637dd616c827c8f9f3f8adb0edd197c8"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Esther 7",
     "url": "https://api.getbible.net/v2/darby/17/7.json",
-    "sha": "6f3429c947ce8dc3abf1ef7cdd4e835cc20c0e5a"
+    "sha": "e660b422e983376a523039ac8bc214943c396e53"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Esther 8",
     "url": "https://api.getbible.net/v2/darby/17/8.json",
-    "sha": "140a003d1be7230ddf792dd63df1653539606552"
+    "sha": "b1a9d9f50e301aa23c76fa74eb3576687e9a4f00"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Esther 9",
     "url": "https://api.getbible.net/v2/darby/17/9.json",
-    "sha": "f34da4c6d14e2f5b4065eccd57692af7bea2bb63"
+    "sha": "3ed3cb57b5f66e504a1fb68022c3caa473112c21"
   },
   "10": {
     "translation": "Darby",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Esther 10",
     "url": "https://api.getbible.net/v2/darby/17/10.json",
-    "sha": "bc761b10d6145f6d4fee3f54e1db10542793a289"
+    "sha": "6a2d1266db8fdfdb92414a048d1e2fdf229390e9"
   }
 }

@@ -9,7 +9,7 @@
     "nr": 1,
     "name": "Genèse",
     "url": "https://api.getbible.net/v2/darby/1.json",
-    "sha": "dcc035194356c7b4ad12a5761a948e43cdbe573e"
+    "sha": "162c9f02f7360e6d88ca32ed64456480360d7bbb"
   },
   "2": {
     "translation": "Darby",
@@ -21,7 +21,7 @@
     "nr": 2,
     "name": "Exode",
     "url": "https://api.getbible.net/v2/darby/2.json",
-    "sha": "d29ce002b28c3b53009bc2b63989b221f0011fb3"
+    "sha": "cbe32ed4cf2dcf53acb0301145dfbc07b205a0e4"
   },
   "3": {
     "translation": "Darby",
@@ -33,7 +33,7 @@
     "nr": 3,
     "name": "Lévitique",
     "url": "https://api.getbible.net/v2/darby/3.json",
-    "sha": "3581389a0f8dd15ea5eb445785968f155a1af240"
+    "sha": "19122d51684754ba5b6ebc80eeeccb7549441047"
   },
   "4": {
     "translation": "Darby",
@@ -45,7 +45,7 @@
     "nr": 4,
     "name": "Nombres",
     "url": "https://api.getbible.net/v2/darby/4.json",
-    "sha": "a2abe559e330bd3c6f8e079ba11b6aae6812b01e"
+    "sha": "a6bf81bb7596af1d9c5a4dc3d6cc11fddb20b947"
   },
   "5": {
     "translation": "Darby",
@@ -57,7 +57,7 @@
     "nr": 5,
     "name": "Deutéronome",
     "url": "https://api.getbible.net/v2/darby/5.json",
-    "sha": "404a42e9345624468e4b7a5fe131692c0f48bf94"
+    "sha": "26fc8542e52777785877aa520a300c0da94f1401"
   },
   "6": {
     "translation": "Darby",
@@ -69,7 +69,7 @@
     "nr": 6,
     "name": "Josué",
     "url": "https://api.getbible.net/v2/darby/6.json",
-    "sha": "38eacd2b53731e21518d165ffddc1ec228cadecb"
+    "sha": "1027749e38a8283d8a0cdd47c99de5d0a5fbd28c"
   },
   "7": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "nr": 7,
     "name": "Juges",
     "url": "https://api.getbible.net/v2/darby/7.json",
-    "sha": "d5852bba0d6903ad24692dee7128d63f7e6e1830"
+    "sha": "69fb3a494044a041dd4eff0fb80c4693f84f76ff"
   },
   "8": {
     "translation": "Darby",
@@ -93,7 +93,7 @@
     "nr": 8,
     "name": "Ruth",
     "url": "https://api.getbible.net/v2/darby/8.json",
-    "sha": "867297947e1c6bcc07feb353d86dc9cce111756e"
+    "sha": "1918fb0096d73c1c9126ccd476a285b8d39ceae4"
   },
   "9": {
     "translation": "Darby",
@@ -105,7 +105,7 @@
     "nr": 9,
     "name": "1 Samuel",
     "url": "https://api.getbible.net/v2/darby/9.json",
-    "sha": "9bcfb0ff0c58968366d8605210ee5dbe2f3fa13b"
+    "sha": "fc7aa5de49810cb532f8a469d61b0a6876796532"
   },
   "10": {
     "translation": "Darby",
@@ -117,7 +117,7 @@
     "nr": 10,
     "name": "2 Samuel",
     "url": "https://api.getbible.net/v2/darby/10.json",
-    "sha": "0d641afa5704ae50f6282087c6e45e7c8e9a8fcb"
+    "sha": "8544643f85f20df744a10d460c4d48765802cf33"
   },
   "11": {
     "translation": "Darby",
@@ -129,7 +129,7 @@
     "nr": 11,
     "name": "1 Rois",
     "url": "https://api.getbible.net/v2/darby/11.json",
-    "sha": "1122190e66cfcda2103d6c910e2cbb924dc08096"
+    "sha": "5c27bd0d33d1ff517449309b5e1f14a9621bb8d4"
   },
   "12": {
     "translation": "Darby",
@@ -141,7 +141,7 @@
     "nr": 12,
     "name": "2 Rois",
     "url": "https://api.getbible.net/v2/darby/12.json",
-    "sha": "c4faf9b148bb12d2470e995a26fee254672b2408"
+    "sha": "3501f6b1c85410b6e360c946935aba2287c84b51"
   },
   "13": {
     "translation": "Darby",
@@ -153,7 +153,7 @@
     "nr": 13,
     "name": "1 Chroniques",
     "url": "https://api.getbible.net/v2/darby/13.json",
-    "sha": "51a36dcc0e98200030c4b6bfad9adc6a1ead808c"
+    "sha": "e2459442ba3087b281c72918732e9a153d7d7ec2"
   },
   "14": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "nr": 14,
     "name": "2 Chroniques",
     "url": "https://api.getbible.net/v2/darby/14.json",
-    "sha": "7974532f1493c1111bfd552e8111459191ab3e4d"
+    "sha": "76696e1a68ccdfb0d6a112da81abdfb4e77fe88b"
   },
   "15": {
     "translation": "Darby",
@@ -177,7 +177,7 @@
     "nr": 15,
     "name": "Esdras",
     "url": "https://api.getbible.net/v2/darby/15.json",
-    "sha": "411cb9bcc0316097e7a808b7b5699a66e11bc320"
+    "sha": "fc2325ed5ac02f254bde5c506eb39f0f3b7b6521"
   },
   "16": {
     "translation": "Darby",
@@ -189,7 +189,7 @@
     "nr": 16,
     "name": "Néhémie",
     "url": "https://api.getbible.net/v2/darby/16.json",
-    "sha": "ed72fb2e847d895c9a0383ba5e9b2f0f5c0e61b0"
+    "sha": "28eb959370d540fcaf334520d102dcb0702730c2"
   },
   "17": {
     "translation": "Darby",
@@ -201,7 +201,7 @@
     "nr": 17,
     "name": "Esther",
     "url": "https://api.getbible.net/v2/darby/17.json",
-    "sha": "9b287436978fa04b181e0f4f017bed8fa520e887"
+    "sha": "02c775883aa7737748c823303172570273e7892d"
   },
   "18": {
     "translation": "Darby",
@@ -213,7 +213,7 @@
     "nr": 18,
     "name": "Job",
     "url": "https://api.getbible.net/v2/darby/18.json",
-    "sha": "f0f7ee0c07428a3017217d0716cd18e39cad95af"
+    "sha": "0403f1ee45ce667ddb1d3e431c656ce7432504a7"
   },
   "19": {
     "translation": "Darby",
@@ -225,7 +225,7 @@
     "nr": 19,
     "name": "Psaumes",
     "url": "https://api.getbible.net/v2/darby/19.json",
-    "sha": "e29d4591d2d2d57e865c140e94a59c5b9822f6f6"
+    "sha": "fe996e9c649d0b2b51d9e072121f8132d554a2ca"
   },
   "20": {
     "translation": "Darby",
@@ -237,7 +237,7 @@
     "nr": 20,
     "name": "Proverbes",
     "url": "https://api.getbible.net/v2/darby/20.json",
-    "sha": "c354627dd4063b4f4223d6efbb55bb17c2d861a1"
+    "sha": "32e72cea627fef6c5938e51b3dca0d8da4623a1c"
   },
   "21": {
     "translation": "Darby",
@@ -249,7 +249,7 @@
     "nr": 21,
     "name": "Ecclésiaste",
     "url": "https://api.getbible.net/v2/darby/21.json",
-    "sha": "60f9cc377dd90ef4097d3cf52f9aef7512653e41"
+    "sha": "21c1b633c582fd479b9e9204fc181ca597a232a6"
   },
   "22": {
     "translation": "Darby",
@@ -261,7 +261,7 @@
     "nr": 22,
     "name": "Cantique des Cantiques",
     "url": "https://api.getbible.net/v2/darby/22.json",
-    "sha": "5c7f9a61452865cdeebd085b68fbe263a2422d21"
+    "sha": "3586889a707d3ad9e20f9d31203bddeb79af7aaa"
   },
   "23": {
     "translation": "Darby",
@@ -273,7 +273,7 @@
     "nr": 23,
     "name": "Ésaïe",
     "url": "https://api.getbible.net/v2/darby/23.json",
-    "sha": "831c452fd6f8ad9bf7fd8851444db08aad64ccee"
+    "sha": "5123604fae1645b232185aa709978d7f433f027a"
   },
   "24": {
     "translation": "Darby",
@@ -285,7 +285,7 @@
     "nr": 24,
     "name": "Jérémie",
     "url": "https://api.getbible.net/v2/darby/24.json",
-    "sha": "2245e7f38808f84e038bf6e516cba7bcaebab80f"
+    "sha": "83bf1bdc89314f0b3caa71092d5417d59ab4cd5c"
   },
   "25": {
     "translation": "Darby",
@@ -297,7 +297,7 @@
     "nr": 25,
     "name": "Lamentations",
     "url": "https://api.getbible.net/v2/darby/25.json",
-    "sha": "84ee78c8d3cd1b9eb57d9a853cff5a578acdae55"
+    "sha": "8a7d189e2e05a47d01d4860315dda291f5d9e3cd"
   },
   "26": {
     "translation": "Darby",
@@ -309,7 +309,7 @@
     "nr": 26,
     "name": "Ézéchiel",
     "url": "https://api.getbible.net/v2/darby/26.json",
-    "sha": "5c7b81e8ce6f037393b28e78e4d1d6ced4ffa535"
+    "sha": "77dfff35fb1a7d280d06b104a23fa69ceab28868"
   },
   "27": {
     "translation": "Darby",
@@ -321,7 +321,7 @@
     "nr": 27,
     "name": "Daniel",
     "url": "https://api.getbible.net/v2/darby/27.json",
-    "sha": "34b272cb40921e2bf73aca263b0183915134172a"
+    "sha": "2a67b273c308db1897978c16b7180e44ad770da9"
   },
   "28": {
     "translation": "Darby",
@@ -333,7 +333,7 @@
     "nr": 28,
     "name": "Osée",
     "url": "https://api.getbible.net/v2/darby/28.json",
-    "sha": "d4ffd2ec003312ab41e326f532b8a5215fac2415"
+    "sha": "2bd6c1085778a7ead6dc0b0c59f0db88b69991d0"
   },
   "29": {
     "translation": "Darby",
@@ -345,7 +345,7 @@
     "nr": 29,
     "name": "Joël",
     "url": "https://api.getbible.net/v2/darby/29.json",
-    "sha": "92ddc181d40a0071b5ab567cb481272839be8cc5"
+    "sha": "e08cab8406577a24dab7bc2b5b088b56c22d028f"
   },
   "30": {
     "translation": "Darby",
@@ -357,7 +357,7 @@
     "nr": 30,
     "name": "Amos",
     "url": "https://api.getbible.net/v2/darby/30.json",
-    "sha": "7821ef8e571ed03f8c6130fe084b66d9cf1989ee"
+    "sha": "5106c59f22d635c514d08a9f25eb2936aedb56f8"
   },
   "31": {
     "translation": "Darby",
@@ -369,7 +369,7 @@
     "nr": 31,
     "name": "Abdias",
     "url": "https://api.getbible.net/v2/darby/31.json",
-    "sha": "1b38ee03832a58519283f6b47836d9e8e21f3ee8"
+    "sha": "f5f7998406919226d3e68022b23b637eb0fc48e9"
   },
   "32": {
     "translation": "Darby",
@@ -381,7 +381,7 @@
     "nr": 32,
     "name": "Jonas",
     "url": "https://api.getbible.net/v2/darby/32.json",
-    "sha": "b95e0306ac6fa5d89f47f751feaefae47b846ef1"
+    "sha": "b45cf03f52ceb5c186a3a17851154a8a717ee451"
   },
   "33": {
     "translation": "Darby",
@@ -393,7 +393,7 @@
     "nr": 33,
     "name": "Michée",
     "url": "https://api.getbible.net/v2/darby/33.json",
-    "sha": "de00e925c242d15f978b619c5d429834118585f2"
+    "sha": "d421368fe5f47e0a02ef41b178b111e90d83dc8c"
   },
   "34": {
     "translation": "Darby",
@@ -405,7 +405,7 @@
     "nr": 34,
     "name": "Nahum",
     "url": "https://api.getbible.net/v2/darby/34.json",
-    "sha": "bca77d0b7710c921deaf21f8d68498520f4a6ec0"
+    "sha": "217880366161447071bc69460db2c4499a6479bd"
   },
   "35": {
     "translation": "Darby",
@@ -417,7 +417,7 @@
     "nr": 35,
     "name": "Habacuc",
     "url": "https://api.getbible.net/v2/darby/35.json",
-    "sha": "5ff5d0d53596b83f8995cf7579c1aacfc5180eac"
+    "sha": "c0f1b593aed4bbf86387d0773daf354d12c3c848"
   },
   "36": {
     "translation": "Darby",
@@ -429,7 +429,7 @@
     "nr": 36,
     "name": "Sophonie",
     "url": "https://api.getbible.net/v2/darby/36.json",
-    "sha": "1c3cf6d3b45dbd8ef927eb06494a8bb7d4144a10"
+    "sha": "ed2cdeaee395fa7d61eee84031ed20f96e0a84c3"
   },
   "37": {
     "translation": "Darby",
@@ -441,7 +441,7 @@
     "nr": 37,
     "name": "Aggée",
     "url": "https://api.getbible.net/v2/darby/37.json",
-    "sha": "ee6bffda114062a2c9615c0df39362fd6924a3be"
+    "sha": "5585d149d795cbb89be03952f72363c71ad4a107"
   },
   "38": {
     "translation": "Darby",
@@ -453,7 +453,7 @@
     "nr": 38,
     "name": "Zacharie",
     "url": "https://api.getbible.net/v2/darby/38.json",
-    "sha": "0d4dcb78901f9cc95aedf85749a37c809932ea87"
+    "sha": "bb596cc6b8cbe205b65a4955fa2cb61d17bcb3eb"
   },
   "39": {
     "translation": "Darby",
@@ -465,7 +465,7 @@
     "nr": 39,
     "name": "Malachie",
     "url": "https://api.getbible.net/v2/darby/39.json",
-    "sha": "f60a960e829b7e6d0def00f15d97fa3fb0e44915"
+    "sha": "6fb82233618886dc4db1d85f0fe15a022122f1ae"
   },
   "40": {
     "translation": "Darby",
@@ -477,7 +477,7 @@
     "nr": 40,
     "name": "Matthieu",
     "url": "https://api.getbible.net/v2/darby/40.json",
-    "sha": "87772ecfa775f646b2b6d35dd953ecc0236e3280"
+    "sha": "71345a4bfb485635bcd51542c5aef356870a92cd"
   },
   "41": {
     "translation": "Darby",
@@ -489,7 +489,7 @@
     "nr": 41,
     "name": "Marc",
     "url": "https://api.getbible.net/v2/darby/41.json",
-    "sha": "c2544bc575e313fbaf87242416d0d555b462bf01"
+    "sha": "713f84ae6709f8f878cdaf85a8ea7c18d6329e6d"
   },
   "42": {
     "translation": "Darby",
@@ -501,7 +501,7 @@
     "nr": 42,
     "name": "Luc",
     "url": "https://api.getbible.net/v2/darby/42.json",
-    "sha": "9f59e763b19fb348000c630a8addf92b54eb5387"
+    "sha": "0e77af71cfca4d9d663e6ff6049add61d7e8c182"
   },
   "43": {
     "translation": "Darby",
@@ -513,7 +513,7 @@
     "nr": 43,
     "name": "Jean",
     "url": "https://api.getbible.net/v2/darby/43.json",
-    "sha": "e648861243e7541f314cba7245e4009b6c2482c0"
+    "sha": "a6e9b2106ac31e0ff75eecda6024693f57099e77"
   },
   "44": {
     "translation": "Darby",
@@ -525,7 +525,7 @@
     "nr": 44,
     "name": "Actes des Apôtres",
     "url": "https://api.getbible.net/v2/darby/44.json",
-    "sha": "0775729499524e8b355e9fed74f95b459cb16563"
+    "sha": "3908c8f5118d965b641f309485f59d8d8f8b83b9"
   },
   "45": {
     "translation": "Darby",
@@ -537,7 +537,7 @@
     "nr": 45,
     "name": "Romains",
     "url": "https://api.getbible.net/v2/darby/45.json",
-    "sha": "d26f59d62621334dde3005acc7fcd9db1db713d2"
+    "sha": "29e046ee8f0ec185ad489bf30a0ddcfaa41f0e9a"
   },
   "46": {
     "translation": "Darby",
@@ -549,7 +549,7 @@
     "nr": 46,
     "name": "1 Corinthiens",
     "url": "https://api.getbible.net/v2/darby/46.json",
-    "sha": "e42ffcb069f954c32b671545ff91f0ceb2610774"
+    "sha": "fa1137aff6d3a6b2f1b1fc5128eda3acb058222e"
   },
   "47": {
     "translation": "Darby",
@@ -561,7 +561,7 @@
     "nr": 47,
     "name": "2 Corinthiens",
     "url": "https://api.getbible.net/v2/darby/47.json",
-    "sha": "df334df71da6f78380d80b7a66a69fbafc22f063"
+    "sha": "b5983015f3e481075d38e2fe6cfdff2db4210a29"
   },
   "48": {
     "translation": "Darby",
@@ -573,7 +573,7 @@
     "nr": 48,
     "name": "Galates",
     "url": "https://api.getbible.net/v2/darby/48.json",
-    "sha": "f293a06bf64987d728553321d177c755488eaff9"
+    "sha": "93735e5a194fd178ced017e51d17cd661dbd80e8"
   },
   "49": {
     "translation": "Darby",
@@ -585,7 +585,7 @@
     "nr": 49,
     "name": "Éphésiens",
     "url": "https://api.getbible.net/v2/darby/49.json",
-    "sha": "1e320911e0ff73762047124ad8570f43407f3667"
+    "sha": "38066f1b25cef7037ffdf2c06dc5f5c09abeee3b"
   },
   "50": {
     "translation": "Darby",
@@ -597,7 +597,7 @@
     "nr": 50,
     "name": "Philippiens",
     "url": "https://api.getbible.net/v2/darby/50.json",
-    "sha": "9d6c5173a98cbb45846d92c4d81df96aeff0957b"
+    "sha": "5db06211f182565f309a3ec59074f8dcb3b1e84b"
   },
   "51": {
     "translation": "Darby",
@@ -609,7 +609,7 @@
     "nr": 51,
     "name": "Colossiens",
     "url": "https://api.getbible.net/v2/darby/51.json",
-    "sha": "ee093eaf7f85928c9ee3b974e649197896459ee1"
+    "sha": "4a9cd894ed1ea260e56b595c50dac26419d9ae75"
   },
   "52": {
     "translation": "Darby",
@@ -621,7 +621,7 @@
     "nr": 52,
     "name": "1 Thessaloniciens",
     "url": "https://api.getbible.net/v2/darby/52.json",
-    "sha": "551eb9ce29583ae26b166a1f79fa66a5a29e5954"
+    "sha": "29464f2fdb8470ce73876e11e0efce08d8092c9b"
   },
   "53": {
     "translation": "Darby",
@@ -633,7 +633,7 @@
     "nr": 53,
     "name": "2 Thessaloniciens",
     "url": "https://api.getbible.net/v2/darby/53.json",
-    "sha": "963d1fd453f1fe9fe86a24dc9f9b501cf75dc11e"
+    "sha": "4fe5a7fff3fb50532d6ec51c7936f802dbf56ce4"
   },
   "54": {
     "translation": "Darby",
@@ -645,7 +645,7 @@
     "nr": 54,
     "name": "1 Timothée",
     "url": "https://api.getbible.net/v2/darby/54.json",
-    "sha": "62174d341a2b35abdbc2dac6dff3a1f918069d30"
+    "sha": "0c5480cd589a5d50aafb3e47e5e07f0c906fc725"
   },
   "55": {
     "translation": "Darby",
@@ -657,7 +657,7 @@
     "nr": 55,
     "name": "2 Timothée",
     "url": "https://api.getbible.net/v2/darby/55.json",
-    "sha": "d7326b7e55643b75648ad23167460d2dec8148b2"
+    "sha": "8f92871074ad5236ab0f6e58cf2711f2809c9c7c"
   },
   "56": {
     "translation": "Darby",
@@ -669,7 +669,7 @@
     "nr": 56,
     "name": "Tite",
     "url": "https://api.getbible.net/v2/darby/56.json",
-    "sha": "652b710648b78694559333f42f8b0765ea8babe6"
+    "sha": "200e30643f3082fce60d8028510d261a7a06b3c6"
   },
   "57": {
     "translation": "Darby",
@@ -681,7 +681,7 @@
     "nr": 57,
     "name": "Philémon",
     "url": "https://api.getbible.net/v2/darby/57.json",
-    "sha": "25851481c92b7ee1bf90a37ebee4bc5ff6131027"
+    "sha": "d7e66ea4800151dd7518cbfe3d5e52feb5375489"
   },
   "58": {
     "translation": "Darby",
@@ -693,7 +693,7 @@
     "nr": 58,
     "name": "Hébreux",
     "url": "https://api.getbible.net/v2/darby/58.json",
-    "sha": "ae412497127fdbf7bc06b6999df8f6b84135487b"
+    "sha": "ecdf49ad9c5ecec87e09ce12d16d3646eef86669"
   },
   "59": {
     "translation": "Darby",
@@ -705,7 +705,7 @@
     "nr": 59,
     "name": "Jacques",
     "url": "https://api.getbible.net/v2/darby/59.json",
-    "sha": "0509425e56b55153530fdc7068c98e3ba9c17692"
+    "sha": "206f74d3307539f4d13ff0874b9363ef9154496c"
   },
   "60": {
     "translation": "Darby",
@@ -717,7 +717,7 @@
     "nr": 60,
     "name": "1 Pierre",
     "url": "https://api.getbible.net/v2/darby/60.json",
-    "sha": "c92267b5251c5ec5fbe79ce873e8744a49101895"
+    "sha": "720c6cf7a4fe428b4d6333faea570c4611cc40ac"
   },
   "61": {
     "translation": "Darby",
@@ -729,7 +729,7 @@
     "nr": 61,
     "name": "2 Pierre",
     "url": "https://api.getbible.net/v2/darby/61.json",
-    "sha": "5a4553ea603816a2115fa30d4bd48f09904ec0b1"
+    "sha": "b132a73e441db13d91228d2db3260e552d7277e7"
   },
   "62": {
     "translation": "Darby",
@@ -741,7 +741,7 @@
     "nr": 62,
     "name": "1 Jean",
     "url": "https://api.getbible.net/v2/darby/62.json",
-    "sha": "c31dcfca4a1a3fa730a0ed59b7d459d8bbddd312"
+    "sha": "5fe8fbabdb0ca04cbf2566941b53c14891077433"
   },
   "63": {
     "translation": "Darby",
@@ -753,7 +753,7 @@
     "nr": 63,
     "name": "2 Jean",
     "url": "https://api.getbible.net/v2/darby/63.json",
-    "sha": "2d646ea7ef90b4b27e4a717b7466669d11dfdef0"
+    "sha": "99cc4479e99ae57b6706a4c5d53f560e5d3c525f"
   },
   "64": {
     "translation": "Darby",
@@ -765,7 +765,7 @@
     "nr": 64,
     "name": "3 Jean",
     "url": "https://api.getbible.net/v2/darby/64.json",
-    "sha": "0f2e1132cc3c4af5542ab2a429feaeff50fea75b"
+    "sha": "023147f510028b5b6e003cbd26d0d779b566b682"
   },
   "65": {
     "translation": "Darby",
@@ -777,7 +777,7 @@
     "nr": 65,
     "name": "Jude",
     "url": "https://api.getbible.net/v2/darby/65.json",
-    "sha": "ae4f19a54c4c4c1b8b443051505b7e08a61d78f2"
+    "sha": "69ef13f5b1e8cc9c5862a34f8f3fc36c8140335d"
   },
   "66": {
     "translation": "Darby",
@@ -789,6 +789,6 @@
     "nr": 66,
     "name": "Apocalypse",
     "url": "https://api.getbible.net/v2/darby/66.json",
-    "sha": "ed5bd7070ed326751423c137f450d2e433d8a1e8"
+    "sha": "b643bb27207b69df8c62dd424c2d8789366740f9"
   }
 }

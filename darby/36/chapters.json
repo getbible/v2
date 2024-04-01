@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Sophonie 1",
     "url": "https://api.getbible.net/v2/darby/36/1.json",
-    "sha": "7cfff2e9489872321f48726eae7fcf2d77aa01ab"
+    "sha": "dbf07dbc592d107262b00adb9b26f5f27538e3ce"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Sophonie 2",
     "url": "https://api.getbible.net/v2/darby/36/2.json",
-    "sha": "512f6ade89f15cafd58c40742af9af71a9bf6852"
+    "sha": "1fcdba77cc8ddbc3ed2f89af102ad301d1a4ba63"
   },
   "3": {
     "translation": "Darby",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Sophonie 3",
     "url": "https://api.getbible.net/v2/darby/36/3.json",
-    "sha": "7fbefe12ac7f26cccf4f3ecd19fade8447414179"
+    "sha": "95caaa62ea9979c151dd6358debbbe2497861a7e"
   }
 }

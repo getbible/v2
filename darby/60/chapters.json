@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Pierre 1",
     "url": "https://api.getbible.net/v2/darby/60/1.json",
-    "sha": "1048b610a7d5b0a92898be435e429deaccaf9aaa"
+    "sha": "9766d2cd91fec23744f58919915f1d597de89862"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Pierre 2",
     "url": "https://api.getbible.net/v2/darby/60/2.json",
-    "sha": "9d1b65241124a33e5eadf2092a4680d4fa81754d"
+    "sha": "57e907e7cc8125e90c2ece45b4784c9b51a2de27"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Pierre 3",
     "url": "https://api.getbible.net/v2/darby/60/3.json",
-    "sha": "b02527d67ee2d363f21fbafeaff74abd12c9557c"
+    "sha": "f7024e30d88651d8f3aed81e70428002161218fd"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Pierre 4",
     "url": "https://api.getbible.net/v2/darby/60/4.json",
-    "sha": "469c58c943717add2b3c31bc6746408238730818"
+    "sha": "93f07023087dec0d9417ee8a09bfdc74564bbfe3"
   },
   "5": {
     "translation": "Darby",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Pierre 5",
     "url": "https://api.getbible.net/v2/darby/60/5.json",
-    "sha": "bd2422219c38d80eb8aad8a16facfebf50c8be2c"
+    "sha": "f858f92cbe5e80383c5923287db9219630bad7b9"
   }
 }

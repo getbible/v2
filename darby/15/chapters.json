@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Esdras 1",
     "url": "https://api.getbible.net/v2/darby/15/1.json",
-    "sha": "eb951ca3e08c665d1dffbd3f8eed6fef3b9991d9"
+    "sha": "0ea8916286015f6c22c23ef9affaafd6ea2839ed"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Esdras 2",
     "url": "https://api.getbible.net/v2/darby/15/2.json",
-    "sha": "fdbafc2a9b7f5882e0c8f0d23ffe4e6965298b53"
+    "sha": "8171a90bf2899299ade077de846e2a584ef5149d"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Esdras 3",
     "url": "https://api.getbible.net/v2/darby/15/3.json",
-    "sha": "458ebca1fa965449345d2edafd42cb68c7db3328"
+    "sha": "bfb8ad7c37b671a9ef81c984b152b8a0b82740c2"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Esdras 4",
     "url": "https://api.getbible.net/v2/darby/15/4.json",
-    "sha": "c51cc95d3327059e6bdc13bf36b2425b5f2dcce8"
+    "sha": "d9b608db0c872d034146102fca14d13dd89ea86d"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Esdras 5",
     "url": "https://api.getbible.net/v2/darby/15/5.json",
-    "sha": "38b33f9cb03f6222855dc6c18c3f8c6508c7abf6"
+    "sha": "150bf22e0bb256aacba98336d9743ac6c564fe2d"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Esdras 6",
     "url": "https://api.getbible.net/v2/darby/15/6.json",
-    "sha": "48307fbe253607a9535834cf01b6cc20396fb035"
+    "sha": "4172a57796144fe2226409a24b0f347f6ec2350d"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Esdras 7",
     "url": "https://api.getbible.net/v2/darby/15/7.json",
-    "sha": "14ffdbffbfedf1007aba46fc33d6ee621bb6eb71"
+    "sha": "d3f002718ffc00bcddc6b0a4f8b1a29c8ff887da"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Esdras 8",
     "url": "https://api.getbible.net/v2/darby/15/8.json",
-    "sha": "1203b291e7ce87799509642a02e0cb7820ee576d"
+    "sha": "7eb9e65d82383c49441305f046f2db19919f6852"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Esdras 9",
     "url": "https://api.getbible.net/v2/darby/15/9.json",
-    "sha": "e5ec9844a073dde95e814d9a99ccd8b77af1f5db"
+    "sha": "3b49b4a83f4f7b63d54e7914a5507bc4f796206e"
   },
   "10": {
     "translation": "Darby",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Esdras 10",
     "url": "https://api.getbible.net/v2/darby/15/10.json",
-    "sha": "d7fa21b08a123ae217988ed4dc6369662fd0ad61"
+    "sha": "23077b7893c44c8cdc8cb6fa3a836328e1a61c0c"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Daniel 1",
     "url": "https://api.getbible.net/v2/darby/27/1.json",
-    "sha": "f03e61904987ffae5f6cc58f6f95f3e839658e0a"
+    "sha": "30c954d394cb3fc808172d328e4887b35496114e"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Daniel 2",
     "url": "https://api.getbible.net/v2/darby/27/2.json",
-    "sha": "c7db18f43a19d24dd2d4e27567586238826fb980"
+    "sha": "e15613b8ba9b22f4aa62a6eb6a17b4b8dc1ab625"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Daniel 3",
     "url": "https://api.getbible.net/v2/darby/27/3.json",
-    "sha": "c4c15086d72f7bb5330cc40ca1dc445a345a6774"
+    "sha": "38dcacdfd62a764397165220df55050c3f465e93"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Daniel 4",
     "url": "https://api.getbible.net/v2/darby/27/4.json",
-    "sha": "9966426cbb46acc88b3fece6ee43c9d9e2af077d"
+    "sha": "960ff1805bfc181b49c1646b79f28d71d070dbeb"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Daniel 5",
     "url": "https://api.getbible.net/v2/darby/27/5.json",
-    "sha": "2525c95261fa01623bfe15ce0b49c7d6578938e2"
+    "sha": "641f9ab2385c65b7470d993a1d3cd9ccf16e5cca"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Daniel 6",
     "url": "https://api.getbible.net/v2/darby/27/6.json",
-    "sha": "9e453216ddb08fc8d9a91433dd8f7570398afa40"
+    "sha": "9a63f15ce50247e7847889646f4718a546d00280"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Daniel 7",
     "url": "https://api.getbible.net/v2/darby/27/7.json",
-    "sha": "6b39f4417b7190e6db1c83e8387fb0c2db430996"
+    "sha": "88bbe391d4f0be72f4f160d19d21434aab46e52b"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Daniel 8",
     "url": "https://api.getbible.net/v2/darby/27/8.json",
-    "sha": "cbf85152d692af75e915bc32d07302057b0821ac"
+    "sha": "080b00d42ad7f7b1cc0170bf171d323038e2725d"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Daniel 9",
     "url": "https://api.getbible.net/v2/darby/27/9.json",
-    "sha": "cc246038e36affd527b4e7fd9afbbbef747638a6"
+    "sha": "dd2474a492c367bd73073895a31796711412517d"
   },
   "10": {
     "translation": "Darby",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Daniel 10",
     "url": "https://api.getbible.net/v2/darby/27/10.json",
-    "sha": "5a7ab845af94f3b4d9855a0784526266714daa47"
+    "sha": "68f8b5680023520f39ef19b88beaed8b3bf69326"
   },
   "11": {
     "translation": "Darby",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Daniel 11",
     "url": "https://api.getbible.net/v2/darby/27/11.json",
-    "sha": "8a5dc734f29bbe18dcf10e14518095564fe27620"
+    "sha": "5cc9d7f3a965b5f3304b276bf5b0b3535b9a8d28"
   },
   "12": {
     "translation": "Darby",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Daniel 12",
     "url": "https://api.getbible.net/v2/darby/27/12.json",
-    "sha": "caf1a5d448ccfd01469ec78419987d29656326bc"
+    "sha": "2297902a12c62038f6f3fc44c2754268770ef8ac"
   }
 }

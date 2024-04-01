@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Michée 1",
     "url": "https://api.getbible.net/v2/darby/33/1.json",
-    "sha": "0d6303f141b411401b84c3e33b8ea5be4ea7e17f"
+    "sha": "084aabd51b7f530c1fb46fc0728193cc0a4bdb99"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Michée 2",
     "url": "https://api.getbible.net/v2/darby/33/2.json",
-    "sha": "982a61aa44779b13641bb1c201b6955a1b254cef"
+    "sha": "dc376210b77e4ace1e760d914a6dba995cf62f44"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Michée 3",
     "url": "https://api.getbible.net/v2/darby/33/3.json",
-    "sha": "191a8bf67bac57340a9e809474cbebcb3f7500cd"
+    "sha": "1633328eea6c37124240dfc7a2e901c766520662"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Michée 4",
     "url": "https://api.getbible.net/v2/darby/33/4.json",
-    "sha": "d4c6dd231a8a924dd610218a097821d38e479284"
+    "sha": "4bc8bcb477cfd4e70d4790ca4e406d2084aca42f"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Michée 5",
     "url": "https://api.getbible.net/v2/darby/33/5.json",
-    "sha": "93c343de7d2a21694208ec94c48d49e55728484a"
+    "sha": "570d13eb71249e0e65515fc6241f6c875477fba1"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Michée 6",
     "url": "https://api.getbible.net/v2/darby/33/6.json",
-    "sha": "ef29cb765c70a463786024b718c8952611075456"
+    "sha": "2a3e01b8b81603548341981af1aa8e181d566547"
   },
   "7": {
     "translation": "Darby",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Michée 7",
     "url": "https://api.getbible.net/v2/darby/33/7.json",
-    "sha": "bfb82577795bccac133a4901746f7dc15f0e2a26"
+    "sha": "ce29d150bb517579156585de77d2c2a133d895c2"
   }
 }

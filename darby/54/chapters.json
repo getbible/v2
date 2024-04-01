@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Timothée 1",
     "url": "https://api.getbible.net/v2/darby/54/1.json",
-    "sha": "d455de0b2e8b6cf881c3c3444c671f607a281751"
+    "sha": "628e246ca4caa51e1fd4bcac7b2e44928e4d5e2e"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Timothée 2",
     "url": "https://api.getbible.net/v2/darby/54/2.json",
-    "sha": "05b0dca819cea80adda9a00044dc82c32b12468d"
+    "sha": "026269cfc6e7ef5a662fbe5663b3ce6f8f7bd75d"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Timothée 3",
     "url": "https://api.getbible.net/v2/darby/54/3.json",
-    "sha": "7028310d66ae8c8a42b06974bf2fb1f521507563"
+    "sha": "acb3f1f920e1b09d4378ef6327ba2a70ffa13f24"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Timothée 4",
     "url": "https://api.getbible.net/v2/darby/54/4.json",
-    "sha": "7f82184b03b8d3e18611beda97b97bf45e2660fa"
+    "sha": "03916fbbdc50277a3f7ae32cd14260fe259ad55c"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "1 Timothée 5",
     "url": "https://api.getbible.net/v2/darby/54/5.json",
-    "sha": "73abea48c4e97f495ec0cddf199777259cbd0e11"
+    "sha": "9c21f21ad64ffe2e7c12a9161d6b2a09abf1717f"
   },
   "6": {
     "translation": "Darby",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1 Timothée 6",
     "url": "https://api.getbible.net/v2/darby/54/6.json",
-    "sha": "0e2f87920994252e6b4b569a151ead4fd10a68d8"
+    "sha": "6a53468f078ad3f71530c34cf1a8c38043b4e806"
   }
 }

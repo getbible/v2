@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Philippiens 1",
     "url": "https://api.getbible.net/v2/darby/50/1.json",
-    "sha": "9182c45a35104b923065826c23341bc96b80b75d"
+    "sha": "586208881dd3ebea758525a615dbe3c481ef6cd7"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Philippiens 2",
     "url": "https://api.getbible.net/v2/darby/50/2.json",
-    "sha": "bae6c74c9800f9be0d3f2d5d9b272dbcffd7774e"
+    "sha": "77b46c2014c9269038662a325569492c65b24c05"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Philippiens 3",
     "url": "https://api.getbible.net/v2/darby/50/3.json",
-    "sha": "59e46ab65a3f23bed5c9d983e01ecafc118ff5a1"
+    "sha": "3a0fcec8a550b836a3bd2e24043969dbefbc5663"
   },
   "4": {
     "translation": "Darby",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Philippiens 4",
     "url": "https://api.getbible.net/v2/darby/50/4.json",
-    "sha": "7646485b5cfbcdb2940092f2ee45783e823f031b"
+    "sha": "f3dcc43522ef376f37da433b56c4789585c17785"
   }
 }

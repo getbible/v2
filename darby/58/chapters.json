@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Hébreux 1",
     "url": "https://api.getbible.net/v2/darby/58/1.json",
-    "sha": "05070782b04d7be7bbf3487ccfbec6ce025b1a7d"
+    "sha": "1ea35ffa67c436cd4292a860b1a8d6cef6d8be97"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Hébreux 2",
     "url": "https://api.getbible.net/v2/darby/58/2.json",
-    "sha": "4b88a15bbc974e67a617ff48e99bd5e3140bcc98"
+    "sha": "5770c011400d9554d580a1efef39754865246fa7"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Hébreux 3",
     "url": "https://api.getbible.net/v2/darby/58/3.json",
-    "sha": "5920c3139e15c0a6672264c546e292b396a2f9ab"
+    "sha": "fbde6cbc5d73c1f2f27d2ce21675a485f8cc8523"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Hébreux 4",
     "url": "https://api.getbible.net/v2/darby/58/4.json",
-    "sha": "b5b494e1c3c8ac75b674604a06f82c6cad8f99a9"
+    "sha": "9cb2f005f431867970af1111c14de2ddde7a409b"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Hébreux 5",
     "url": "https://api.getbible.net/v2/darby/58/5.json",
-    "sha": "6e98da41e79cc65c5912784705a4d8a82f481c43"
+    "sha": "f7798857d00843f3e4da0cbdfc8e533f7c493acd"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Hébreux 6",
     "url": "https://api.getbible.net/v2/darby/58/6.json",
-    "sha": "ad94a032233b6efeed3ff06eca7c61f82258e69a"
+    "sha": "0577ff8a079a2614f3a386975941ec6d26ff672f"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Hébreux 7",
     "url": "https://api.getbible.net/v2/darby/58/7.json",
-    "sha": "929e73d1a05aa83607c228c7de423601d86bf9f8"
+    "sha": "4325f3e7c78d0601e6c869621f037958dd92b48f"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Hébreux 8",
     "url": "https://api.getbible.net/v2/darby/58/8.json",
-    "sha": "a10f3da70954cec5d733c848b874566358b7bcbc"
+    "sha": "5e0d515fd211964c21ed966faabeebdd93b8080a"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Hébreux 9",
     "url": "https://api.getbible.net/v2/darby/58/9.json",
-    "sha": "22a22b7109949dab739ca69cf7ca62870803797c"
+    "sha": "41fe4c9b9d955b5fa45c756a3f8a5915ff7ca3cc"
   },
   "10": {
     "translation": "Darby",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Hébreux 10",
     "url": "https://api.getbible.net/v2/darby/58/10.json",
-    "sha": "aaec11cae291e221fc245159324d21e17162549c"
+    "sha": "4c1802b660cd4a5ac07833a951de1f25e41b814b"
   },
   "11": {
     "translation": "Darby",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Hébreux 11",
     "url": "https://api.getbible.net/v2/darby/58/11.json",
-    "sha": "582d4ef68dc0d00cf9c6549726a66009be3009ec"
+    "sha": "94e7bad33f84b052f258f4d8bbccfed561c87842"
   },
   "12": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Hébreux 12",
     "url": "https://api.getbible.net/v2/darby/58/12.json",
-    "sha": "89d52eae9144b3f4a8d4607becef84639dc9ad49"
+    "sha": "cb8d6b822e28ed1dc65d660bae7abcab6dd92843"
   },
   "13": {
     "translation": "Darby",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Hébreux 13",
     "url": "https://api.getbible.net/v2/darby/58/13.json",
-    "sha": "a7fc2ee8574f1c5e15d57bb463ed6364bfdf3507"
+    "sha": "c4a2eded7f386b80acabad8eb65fff7e931f9ed7"
   }
 }

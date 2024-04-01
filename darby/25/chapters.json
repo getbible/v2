@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Lamentations 1",
     "url": "https://api.getbible.net/v2/darby/25/1.json",
-    "sha": "f36a6b6951b4d886b47002aac11307e347489189"
+    "sha": "c82b34690d6b8028c630d6fe9deb9602b9dc7357"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Lamentations 2",
     "url": "https://api.getbible.net/v2/darby/25/2.json",
-    "sha": "177836cb22e24116428ed73abdce485ec3d3e025"
+    "sha": "24e0aacd69997167bb2fe6865a470dc542b594f7"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Lamentations 3",
     "url": "https://api.getbible.net/v2/darby/25/3.json",
-    "sha": "56f3eb943240e0bb3df9d24c8e11a148597a68d0"
+    "sha": "14ff15060833df946ea7750eea079f1af7e4a8fc"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Lamentations 4",
     "url": "https://api.getbible.net/v2/darby/25/4.json",
-    "sha": "3d7e485d39028b69a99454d7cab40ce6e71da67a"
+    "sha": "38c87ac831a353318190b62c2ffec29694a99916"
   },
   "5": {
     "translation": "Darby",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Lamentations 5",
     "url": "https://api.getbible.net/v2/darby/25/5.json",
-    "sha": "9478023dff03bd542ad32a39ef47ca973245d7c3"
+    "sha": "bdbcc9319c45f9e9eed569d8cca055b66b29af5c"
   }
 }

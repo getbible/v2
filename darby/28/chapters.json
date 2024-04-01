@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Osée 1",
     "url": "https://api.getbible.net/v2/darby/28/1.json",
-    "sha": "6da1eb79de54303d461ca61ce379a5d72b54f882"
+    "sha": "1a25f5766c387a6c0cc409bf4d29714dbdcdbbf7"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Osée 2",
     "url": "https://api.getbible.net/v2/darby/28/2.json",
-    "sha": "6e073c949b854428e4b25d7b4fdd1a15888b7611"
+    "sha": "1989dec1d690daa96a98711262d28f9795f6bd97"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Osée 3",
     "url": "https://api.getbible.net/v2/darby/28/3.json",
-    "sha": "281b80f8fa76efd1842e401732936d1cb895bd76"
+    "sha": "cc5f1d29c95ba55d932981a67821002b024cd486"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Osée 4",
     "url": "https://api.getbible.net/v2/darby/28/4.json",
-    "sha": "a6ef54b288afb4d8585e59ea526e6763bd5c4b96"
+    "sha": "3eb235c49cd8b8181775d7ab5655144210e33eb9"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Osée 5",
     "url": "https://api.getbible.net/v2/darby/28/5.json",
-    "sha": "9c562d678d6573b20fa2ce2c6477bff90bf50ffc"
+    "sha": "ec8cd95c55c2b6790131c5e96095dfea39574668"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Osée 6",
     "url": "https://api.getbible.net/v2/darby/28/6.json",
-    "sha": "2db4ec6d1a008143b9407cf3f9193618e978f9ed"
+    "sha": "b52cfde02ebf3c667f045e5e8e5d4e1c99bd6bce"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Osée 7",
     "url": "https://api.getbible.net/v2/darby/28/7.json",
-    "sha": "fcdef54444519eb6c11d1f27f4304e5d07344618"
+    "sha": "c71906b48ea73062a3222ff07ddc92b2f434851f"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Osée 8",
     "url": "https://api.getbible.net/v2/darby/28/8.json",
-    "sha": "d6fe4f1e6608b63b7a354cb986f744e0fcec653a"
+    "sha": "a49bbc3e916ad67fae438d4beebbbf84dcf16eca"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Osée 9",
     "url": "https://api.getbible.net/v2/darby/28/9.json",
-    "sha": "29f671c204acf00afd94b405ba7b6a14e16ff8a1"
+    "sha": "6183371a3be00de46ea68c120acdcb33b4f53d92"
   },
   "10": {
     "translation": "Darby",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Osée 10",
     "url": "https://api.getbible.net/v2/darby/28/10.json",
-    "sha": "c064ee0fc71141b692d4797217a02ef4ba286d5d"
+    "sha": "ea489833230d31ab283a49533b569e635f785eb1"
   },
   "11": {
     "translation": "Darby",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Osée 11",
     "url": "https://api.getbible.net/v2/darby/28/11.json",
-    "sha": "8578c01b907b1056ba39b403b287d0150e5f4594"
+    "sha": "874b8fcb341144be04ec2697c77d414103978aec"
   },
   "12": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Osée 12",
     "url": "https://api.getbible.net/v2/darby/28/12.json",
-    "sha": "78b8e9d5af7f6aa96fb5420237a10df62a34249a"
+    "sha": "5a24901bfee93bf107615805bac9b663822f028c"
   },
   "13": {
     "translation": "Darby",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Osée 13",
     "url": "https://api.getbible.net/v2/darby/28/13.json",
-    "sha": "fdc93e0649bd4e74a254481a8e802f9d5d71b3ae"
+    "sha": "25c1800a2b90256bde160fcf5d55120ff62f8957"
   },
   "14": {
     "translation": "Darby",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Osée 14",
     "url": "https://api.getbible.net/v2/darby/28/14.json",
-    "sha": "263f47902aa3b43fc780ab7d8bd6c3b809e8c0a7"
+    "sha": "35264df2925215a2d60cdeed6c00160fcaf10312"
   }
 }

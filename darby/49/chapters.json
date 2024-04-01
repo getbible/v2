@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Éphésiens 1",
     "url": "https://api.getbible.net/v2/darby/49/1.json",
-    "sha": "ccd568e28ed0a1581c2560fc45f895e26ffed055"
+    "sha": "a9bf0b7d2e9b7897c7a953a8cf7d36e36d0fd2ee"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Éphésiens 2",
     "url": "https://api.getbible.net/v2/darby/49/2.json",
-    "sha": "b65ce1bd92f337b76f597acb70980dc0f5bc9c21"
+    "sha": "d7c1b5841b516974ced9c4b941f5446f8b463b1c"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Éphésiens 3",
     "url": "https://api.getbible.net/v2/darby/49/3.json",
-    "sha": "63e7e2c7a4ed5a5bde71a0b6f8f6e2c697821fb2"
+    "sha": "c23147ef452d3fb34cb81b45a54dc5a3fed24e61"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Éphésiens 4",
     "url": "https://api.getbible.net/v2/darby/49/4.json",
-    "sha": "7bfbfb8ed2407b6d989db0f63354227ccfc37ec7"
+    "sha": "bbaaa561630c1534dd3a466fd94504e9bd95d0df"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Éphésiens 5",
     "url": "https://api.getbible.net/v2/darby/49/5.json",
-    "sha": "0751069f2d470ec82f788d8c3b729d7967434900"
+    "sha": "3519d31e3da3bb5ad97bef25609112f9055e281e"
   },
   "6": {
     "translation": "Darby",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Éphésiens 6",
     "url": "https://api.getbible.net/v2/darby/49/6.json",
-    "sha": "b4f09a21bece498394309487643a7dddbb5f32b6"
+    "sha": "8fed185f2cdcdf05c276f1a0cb5261901b199fc6"
   }
 }

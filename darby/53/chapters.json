@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Thessaloniciens 1",
     "url": "https://api.getbible.net/v2/darby/53/1.json",
-    "sha": "eabc848de3ee4abfe0e40f276de0d129e345b18f"
+    "sha": "78211ff0596515e0b20069c762918d4e6bb7425b"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Thessaloniciens 2",
     "url": "https://api.getbible.net/v2/darby/53/2.json",
-    "sha": "290b3af7f5f687c0a4c4a86bfaa2df733d20a424"
+    "sha": "59f54a7b8882d319f907bfc974b42ec047d3d293"
   },
   "3": {
     "translation": "Darby",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Thessaloniciens 3",
     "url": "https://api.getbible.net/v2/darby/53/3.json",
-    "sha": "3462a59ef61ceb3eadc39b3e9d05c377fc86943e"
+    "sha": "91503babe324c07532811b2b86ad632835663da1"
   }
 }

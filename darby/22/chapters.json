@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Cantique des Cantiques 1",
     "url": "https://api.getbible.net/v2/darby/22/1.json",
-    "sha": "fec484824326c941711724333d2c2b6933dc6d1c"
+    "sha": "8f8edb2773ef8f8eecafcad80042aa8f8883b0f2"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Cantique des Cantiques 2",
     "url": "https://api.getbible.net/v2/darby/22/2.json",
-    "sha": "4f01b13debdc75ac27520bd985adf0286226c110"
+    "sha": "1f0797dd58c1cd129eff70b4c23ea5c41e6cd0f6"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Cantique des Cantiques 3",
     "url": "https://api.getbible.net/v2/darby/22/3.json",
-    "sha": "aef8db9cf12c46a88eed97a5045e0a5b284fec2a"
+    "sha": "8c5d7826ba3010bef9cd76a71b559f8063820042"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Cantique des Cantiques 4",
     "url": "https://api.getbible.net/v2/darby/22/4.json",
-    "sha": "89d1ed759f3c1f0a5b095025e508a52b58a3100e"
+    "sha": "b2f225da08ec544a9d68c04e656b20d06705b515"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Cantique des Cantiques 5",
     "url": "https://api.getbible.net/v2/darby/22/5.json",
-    "sha": "8badd3d12e8d33f7b33bcc62cad6eccd57001e43"
+    "sha": "d924c5239e8ca6271787ee8514ebf842aa4d00ef"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Cantique des Cantiques 6",
     "url": "https://api.getbible.net/v2/darby/22/6.json",
-    "sha": "ff9e9c076a0146a39c13b3591936b6439246a4b9"
+    "sha": "de03790ded2af7d8286bf8d3c4bd1228728b49bd"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Cantique des Cantiques 7",
     "url": "https://api.getbible.net/v2/darby/22/7.json",
-    "sha": "975dcae60221c5753d59311eaf6ddef1a8f75f2d"
+    "sha": "9b3137cde37654f82be41f0d4e4afc47c2dc159b"
   },
   "8": {
     "translation": "Darby",
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "Cantique des Cantiques 8",
     "url": "https://api.getbible.net/v2/darby/22/8.json",
-    "sha": "ff900d07d73ff56d338d2d208c00b5efc2ac2c51"
+    "sha": "df545071f85667e47a67bc38c494a10115e3200e"
   }
 }

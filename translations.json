@@ -603,16 +603,16 @@
   "darby": {
     "translation": "Darby",
     "abbreviation": "darby",
-    "description": "Bible J.N. Darby in French (2022)",
+    "description": "Bible J.N. Darby in French with Strong's numbers",
     "lang": "fr",
     "language": "French",
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.French",
-    "distribution_version": "2.0",
-    "distribution_version_date": "2022-12-22",
+    "distribution_version": "3.0",
+    "distribution_version_date": "2024-03-01",
     "distribution_abbreviation": "darby",
-    "distribution_about": "French translation by John Nelson Darby (JND).\\par\\\nText 2022. First edition of the complete Bible in 1885, reissued in 1916.\\par\\\nVersification BHS (Biblia Hebraica Stuttgartensia) for the Old Testament.\\par\\\nPublic Domain.\\par\\\nYou can buy a printed version at:\\par\\par\\\nediteurbpc.com – Bibles et Publications Chrétiennes\\par\\\n30 rue Châteauvert – CS 40335\\par\\\n26003 VALENCE CEDEX FRANCE",
+    "distribution_about": "French translation by John Nelson Darby (JND).\\par\\\nFirst edition of the complete Bible in 1885, reissued in 1916.\\par\\\nText in Public Domain 2023 (provided by BPC, revision JND v1.3)\\par\\\nWith Strong numbers affected by \"Concordances and Bible Translations\" (https://concordance.bible/).\\par\\\nThe numbering of the verses follows the Hebrew Bible for the Old Testament.\\par\\\nYou can buy a printed version at:\\par\\par\\\nediteurbpc.com – Bibles et Publications Chrétiennes\\par\\\n30 rue Châteauvert – CS 40335\\par\\\n26003 VALENCE CEDEX FRANCE",
     "distribution_license": "Public Domain",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "https://editeurbpc.com/telechargements",
@@ -642,10 +642,11 @@
       "history_1.22": "(2017-05-16) New markup for WoC, note and  paragraph corrections (2017-05-16)",
       "history_1.23": "(2019-05-11) Various corrections, improved notes and new, more appropriate versification",
       "history_1.24": "(2019-10-23) Better formatting of Psalms, and other minor fixes",
-      "history_2.0": "(2022-12-22) New source (from BPC editor JND v1.2) with new versification (German)"
+      "history_2.0": "(2022-12-30) New source (from BPC editor JND v1.2) with new versification (German)",
+      "history_3.0": "(2024-03-01) Update text (from BPC editor JND v1.3) and add Strong numbers (from concordance.bible)"
     },
     "url": "https://api.getbible.net/v2/darby.json",
-    "sha": "4a2ad9b27d8d97d447ef7b47ba2e6496e252d7c4"
+    "sha": "6da6a82e1429e77563f67d3e316381e2923a4f1a"
   },
   "douayrheims": {
     "translation": "Douay Rheims",

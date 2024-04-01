@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Malachie 1",
     "url": "https://api.getbible.net/v2/darby/39/1.json",
-    "sha": "72f8bec2f60e8891694afd272c295847fe7cd95a"
+    "sha": "5525f8911c8f2366aa0fa7609d2f885c7c3a1da9"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Malachie 2",
     "url": "https://api.getbible.net/v2/darby/39/2.json",
-    "sha": "e6e7f562b3fca1b8b5dc476f8cf850ee625f6e83"
+    "sha": "284d82286eeb1fdd9e8729b01b11b2852701fefa"
   },
   "3": {
     "translation": "Darby",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Malachie 3",
     "url": "https://api.getbible.net/v2/darby/39/3.json",
-    "sha": "82e1a5c57297633a476fe2e9507c61f2b3a0bb9a"
+    "sha": "50f0ccd35aa19b1284e5265633c45469b9f67ca9"
   }
 }

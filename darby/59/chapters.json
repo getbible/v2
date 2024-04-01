@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Jacques 1",
     "url": "https://api.getbible.net/v2/darby/59/1.json",
-    "sha": "8524babb8ff096e57fcfb56502a6a6fcdad2dcce"
+    "sha": "1cb9d262e07fbf7f2e80dfc04cd6cef8a79b48c9"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Jacques 2",
     "url": "https://api.getbible.net/v2/darby/59/2.json",
-    "sha": "c085593adac21685bb0d346b15cf82ec4e4e5ab6"
+    "sha": "276683972360bf7e2df4ae533bf89394f7081e7b"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Jacques 3",
     "url": "https://api.getbible.net/v2/darby/59/3.json",
-    "sha": "52d6c652f458d37c6868b5ac79f007dbeaec7080"
+    "sha": "6a7ad5e1d3e6c2187b941a516c3c74eabcdc01d6"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Jacques 4",
     "url": "https://api.getbible.net/v2/darby/59/4.json",
-    "sha": "54efede8152ef7fd0645ce9d8f2207f3d7af3a6d"
+    "sha": "a29ce8b73018165e2c314bb09a5794f233f25199"
   },
   "5": {
     "translation": "Darby",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Jacques 5",
     "url": "https://api.getbible.net/v2/darby/59/5.json",
-    "sha": "b8470aec13e4be50e036eeb9199d09bb542f4fb8"
+    "sha": "998b7bb5002d9a937e55585e1e25c34099343496"
   }
 }
