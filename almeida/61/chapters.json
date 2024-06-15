@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Pedro 1",
     "url": "https://api.getbible.net/v2/almeida/61/1.json",
-    "sha": "99457465382bfe69e3eedad042d48ce825115c63"
+    "sha": "b97bdff00cd4d9f5669426bb636ba7baaef6fbc7"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Pedro 2",
     "url": "https://api.getbible.net/v2/almeida/61/2.json",
-    "sha": "34603a2d1e09efee559e95b6a4664e7d17b93a2a"
+    "sha": "073ec1fdbcf5c7fcf828c9094e3f18aed40e7191"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Pedro 3",
     "url": "https://api.getbible.net/v2/almeida/61/3.json",
-    "sha": "0d2fdf4b095be518cb872a1328f2d6dd23d49cfa"
+    "sha": "78db647eecb95dee70e1f14d154427eda158bb3d"
   }
 }

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 João",
+    "chapter": 1,
+    "name": "1 João 1",
+    "url": "https://api.getbible.net/v2/livre/62/1.json",
+    "sha": "2514192a67059066d7584960624919652a9683b0"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 João",
+    "chapter": 2,
+    "name": "1 João 2",
+    "url": "https://api.getbible.net/v2/livre/62/2.json",
+    "sha": "354ba9bf3d9d2c5464fd0f222cd1c68f0f14e5c4"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 João",
+    "chapter": 3,
+    "name": "1 João 3",
+    "url": "https://api.getbible.net/v2/livre/62/3.json",
+    "sha": "b3873517120b9a2c92f13a3c1a85ba22b0aea3da"
+  },
+  "4": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 João",
+    "chapter": 4,
+    "name": "1 João 4",
+    "url": "https://api.getbible.net/v2/livre/62/4.json",
+    "sha": "c22f3c1f8738c45a0745ba058000f492b5c616af"
+  },
+  "5": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 João",
+    "chapter": 5,
+    "name": "1 João 5",
+    "url": "https://api.getbible.net/v2/livre/62/5.json",
+    "sha": "605e9648205866b9eedc5c8f98cab90f3e8e57bd"
+  }
+}

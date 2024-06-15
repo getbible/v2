@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Timóteo 1",
     "url": "https://api.getbible.net/v2/almeida/54/1.json",
-    "sha": "3de96c5a1cd8555dd3d6a5f04d4271de62d35938"
+    "sha": "caa15b982ed605681e21797fc41632e4af77ea8b"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Timóteo 2",
     "url": "https://api.getbible.net/v2/almeida/54/2.json",
-    "sha": "4d8d7ad152de5e1f202675f0dc77ad730017c515"
+    "sha": "088be9a703d3a208f07de912ffc63ad2785fb3b8"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Timóteo 3",
     "url": "https://api.getbible.net/v2/almeida/54/3.json",
-    "sha": "2a05e5bcb6edb2365521a202e5b4f0d87aa547a1"
+    "sha": "20001e2474fb9e167a934cd94cd2fa4908b7315b"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Timóteo 4",
     "url": "https://api.getbible.net/v2/almeida/54/4.json",
-    "sha": "836c13a7f0bd3e8b21ec6595d6ef72a48e56756c"
+    "sha": "bfed16175d9346a33f91be2ea0a8f42d88ba7d28"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "1 Timóteo 5",
     "url": "https://api.getbible.net/v2/almeida/54/5.json",
-    "sha": "be1f352d4e075f9cb677f330a5803dd39d33fa9d"
+    "sha": "dd07f8372427f22c0584174a29e296ed2cc9b998"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1 Timóteo 6",
     "url": "https://api.getbible.net/v2/almeida/54/6.json",
-    "sha": "66202d640bc9a3a50f3be34434995da73412ee1f"
+    "sha": "3c65e0c04dd1a86c74026ce898f8ad65a325a0fc"
   }
 }

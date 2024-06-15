@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/51/1.json",
+    "sha": "126d3e66903600b3029fa1473fb49c51bb4872b4"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/51/2.json",
+    "sha": "5272616fb99ad71e1149c4f06b53e9d6e1154150"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/51/3.json",
+    "sha": "cc64841ebc9a0f1a1e8b17985a3b7824914569bf"
+  },
+  "4": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/csielizabeth/51/4.json",
+    "sha": "0d3f1b732a05f4c2c73a512d367a16d8f4bc2734"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Judasbrevet",
+    "chapter": 1,
+    "name": "Judasbrevet 1",
+    "url": "https://api.getbible.net/v2/danish1871/65/1.json",
+    "sha": "b12a7ff87a65d72dbbadf3cf369275ac805574d0"
+  }
+}

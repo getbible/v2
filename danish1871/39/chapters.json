@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malakias' Bog",
+    "chapter": 1,
+    "name": "Malakias' Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/39/1.json",
+    "sha": "fc7444458dffd01a1b3d2aeafd83b67724e5faab"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malakias' Bog",
+    "chapter": 2,
+    "name": "Malakias' Bog 2",
+    "url": "https://api.getbible.net/v2/danish1871/39/2.json",
+    "sha": "1d28b8f8c0c57eab870a1e63c6571516cd48ce62"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malakias' Bog",
+    "chapter": 3,
+    "name": "Malakias' Bog 3",
+    "url": "https://api.getbible.net/v2/danish1871/39/3.json",
+    "sha": "3fe438814fd550acf11d0d820d10a028a4e044f5"
+  },
+  "4": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malakias' Bog",
+    "chapter": 4,
+    "name": "Malakias' Bog 4",
+    "url": "https://api.getbible.net/v2/danish1871/39/4.json",
+    "sha": "315d436ac7d56bff6a8cbd7fc6e6306f3f123090"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Tessalonicenses",
+    "chapter": 1,
+    "name": "2 Tessalonicenses 1",
+    "url": "https://api.getbible.net/v2/livretr/53/1.json",
+    "sha": "bc6f74e29066df3b5674a0faf555299969d81a28"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Tessalonicenses",
+    "chapter": 2,
+    "name": "2 Tessalonicenses 2",
+    "url": "https://api.getbible.net/v2/livretr/53/2.json",
+    "sha": "c4114e69b966723ed1f77314d095ea62b4854f92"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Tessalonicenses",
+    "chapter": 3,
+    "name": "2 Tessalonicenses 3",
+    "url": "https://api.getbible.net/v2/livretr/53/3.json",
+    "sha": "3fdcf0c919c46e97e205ca8e716bfc720593103a"
+  }
+}

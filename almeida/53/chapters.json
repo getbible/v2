@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Tessalonicenses 1",
     "url": "https://api.getbible.net/v2/almeida/53/1.json",
-    "sha": "599399826c66fb70b2c58a01632c384c3b09793b"
+    "sha": "be9e407889cc6224c999fb7b900f415cfbe16629"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Tessalonicenses 2",
     "url": "https://api.getbible.net/v2/almeida/53/2.json",
-    "sha": "46cf03346bb552d70e5be6428d30707e861a9851"
+    "sha": "54454f3c4db86c307dd9f4d02a9ed04e2c031310"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Tessalonicenses 3",
     "url": "https://api.getbible.net/v2/almeida/53/3.json",
-    "sha": "49476e5b5f4b79aa2bf579e2b2e9dbe37f230983"
+    "sha": "3e860d1cc9d6c2309f96ae74e682c8069b3d7f00"
   }
 }

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/japdenmo/59/1.json",
+    "sha": "fb26240a85dc4e11acbb98e3844a2139b5b8eca0"
+  },
+  "2": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/japdenmo/59/2.json",
+    "sha": "3a90d72b61cf4ec0385206147f77f770cf62cae8"
+  },
+  "3": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/japdenmo/59/3.json",
+    "sha": "7d3175d9abff96e8efcd846198b5a15024c94228"
+  },
+  "4": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/japdenmo/59/4.json",
+    "sha": "5ab23ba8a593e295f877637038400fb53b668dd2"
+  },
+  "5": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/japdenmo/59/5.json",
+    "sha": "b0070bbf4fedd3b9f3d35a57d688bf7ea59f6c34"
+  }
+}

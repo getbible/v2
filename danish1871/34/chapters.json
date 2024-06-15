@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahums Bog",
+    "chapter": 1,
+    "name": "Nahums Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/34/1.json",
+    "sha": "1a26ed6669316af713be73320cf99e1aac02a996"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahums Bog",
+    "chapter": 2,
+    "name": "Nahums Bog 2",
+    "url": "https://api.getbible.net/v2/danish1871/34/2.json",
+    "sha": "2bbcd1b665321a7e4d1230266146569a92f15728"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahums Bog",
+    "chapter": 3,
+    "name": "Nahums Bog 3",
+    "url": "https://api.getbible.net/v2/danish1871/34/3.json",
+    "sha": "741fefa51bb1491f00711742409a347615e64570"
+  }
+}

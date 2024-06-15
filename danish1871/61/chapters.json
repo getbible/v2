@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Petersbrev",
+    "chapter": 1,
+    "name": "2 Petersbrev 1",
+    "url": "https://api.getbible.net/v2/danish1871/61/1.json",
+    "sha": "c621699f90061d37b0d746e39411fb9d2bfa4b3b"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Petersbrev",
+    "chapter": 2,
+    "name": "2 Petersbrev 2",
+    "url": "https://api.getbible.net/v2/danish1871/61/2.json",
+    "sha": "b0e1ddabc9e555d8dafd81eddd046dbbd13501ba"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Petersbrev",
+    "chapter": 3,
+    "name": "2 Petersbrev 3",
+    "url": "https://api.getbible.net/v2/danish1871/61/3.json",
+    "sha": "87467b98e2c2c9edd4865bf0b5e70d59a859c0c3"
+  }
+}

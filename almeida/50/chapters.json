@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Filipenses 1",
     "url": "https://api.getbible.net/v2/almeida/50/1.json",
-    "sha": "c0e894786902483a3f139f96c8f96088b69f4093"
+    "sha": "96f1c6056d2d0178e0284116f14b444487cafef0"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Filipenses 2",
     "url": "https://api.getbible.net/v2/almeida/50/2.json",
-    "sha": "0a18325ead6c4c3d06364c2507389dae7254b24f"
+    "sha": "31afabeaa296103a2fc76cde40a37194553bdb63"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Filipenses 3",
     "url": "https://api.getbible.net/v2/almeida/50/3.json",
-    "sha": "71efed284f41b87e055354b01f3b6d23bd9a2389"
+    "sha": "aa231c18c664812aeb66ce74e9c0fe67ef2ef21d"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Filipenses 4",
     "url": "https://api.getbible.net/v2/almeida/50/4.json",
-    "sha": "c5ab4448d640f6753a126cff013e3cbd94d8b7c9"
+    "sha": "5d2efb335a90550dd6c6426206c4aa3eb17bb96f"
   }
 }

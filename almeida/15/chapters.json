@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Esdras 1",
     "url": "https://api.getbible.net/v2/almeida/15/1.json",
-    "sha": "fb86324270e8c93af80cb2d4df15573738ef05b9"
+    "sha": "6363a4537e11875c817de7d0a8acca7bdbb3ebde"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Esdras 2",
     "url": "https://api.getbible.net/v2/almeida/15/2.json",
-    "sha": "3d910fe7f18253024baee98113ff6e3a8d0ec555"
+    "sha": "f7448fc7adc9b4a2fd49183769d9b1e984239a59"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Esdras 3",
     "url": "https://api.getbible.net/v2/almeida/15/3.json",
-    "sha": "8bd953040c2809ea3ca5d9e37ca7bfc015aebd4c"
+    "sha": "c2667d7acd607416b4636bd0dd0ee8124fb3912e"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Esdras 4",
     "url": "https://api.getbible.net/v2/almeida/15/4.json",
-    "sha": "2eca2d8dec65a5814f90fdd99ea5fd7b66ecd88e"
+    "sha": "300d678d9b69bac56e842bdd40050378595b990a"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Esdras 5",
     "url": "https://api.getbible.net/v2/almeida/15/5.json",
-    "sha": "203ff1b46f2ca92651d70e748d1c96f6d1dc8af4"
+    "sha": "6ead713993c36f2627f02fbd0606733630153ff8"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Esdras 6",
     "url": "https://api.getbible.net/v2/almeida/15/6.json",
-    "sha": "33dc9b600f7bc745be4bf8213c1ae8de053b766d"
+    "sha": "acbc9f5428f3a563aa3c1f4a9580952825f438c9"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Esdras 7",
     "url": "https://api.getbible.net/v2/almeida/15/7.json",
-    "sha": "3d2772d233b5c2fec3db02019f387458e9c7e43c"
+    "sha": "589a5fe1156192cdb1f3468fc12d909ec854dcfc"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Esdras 8",
     "url": "https://api.getbible.net/v2/almeida/15/8.json",
-    "sha": "f3fab9be2908cfac36745346d6d7382f5ee80bfe"
+    "sha": "a62328e1a3ce5f09c9de11518e4d910a6412d3f5"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Esdras 9",
     "url": "https://api.getbible.net/v2/almeida/15/9.json",
-    "sha": "37446036734fcf7e64aa2c78d8adcdedb18fbd58"
+    "sha": "9eeb73f199829258231021d02a91e8a0c2abbb7d"
   },
   "10": {
     "translation": "Almeida Atualizada",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Esdras 10",
     "url": "https://api.getbible.net/v2/almeida/15/10.json",
-    "sha": "7db7c1871912fd9f81d39e46f3e37c44dcea8385"
+    "sha": "61b70359cb8ae2ce4d7b2c8bed853cd0895793e6"
   }
 }

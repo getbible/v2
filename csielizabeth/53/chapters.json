@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/53/1.json",
+    "sha": "d17068c99994df3aab7a2990ed4eb63c7e6d5ffd"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/53/2.json",
+    "sha": "ffa56f3cf65603a52de0333181c83470f53611a7"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/53/3.json",
+    "sha": "286af57fe6a7920084ee398f33da4326cc2aa0b6"
+  }
+}

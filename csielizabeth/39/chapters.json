@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/39/1.json",
+    "sha": "459b20abe972c166d1678274eb783a4ea4f94c29"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/39/2.json",
+    "sha": "811f64d2d8daabf36eec65815ca71d11e19c85ca"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/39/3.json",
+    "sha": "968cf439dbb4f31deafb6ba8dd0047ec711db0bf"
+  },
+  "4": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "url": "https://api.getbible.net/v2/csielizabeth/39/4.json",
+    "sha": "d25c826dc3bb6c2d83a8458564ed937680d9baf7"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Petersbrev",
+    "chapter": 1,
+    "name": "1 Petersbrev 1",
+    "url": "https://api.getbible.net/v2/danish1819/60/1.json",
+    "sha": "d1cc8d983d38ef6e98d8ed25032e971d4441f0d6"
+  },
+  "2": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Petersbrev",
+    "chapter": 2,
+    "name": "1 Petersbrev 2",
+    "url": "https://api.getbible.net/v2/danish1819/60/2.json",
+    "sha": "732156315f505e565d74b65541d5827ae593507f"
+  },
+  "3": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Petersbrev",
+    "chapter": 3,
+    "name": "1 Petersbrev 3",
+    "url": "https://api.getbible.net/v2/danish1819/60/3.json",
+    "sha": "2cdd63fdfa0bc8dc9920c8f4845b1e6299c265b9"
+  },
+  "4": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Petersbrev",
+    "chapter": 4,
+    "name": "1 Petersbrev 4",
+    "url": "https://api.getbible.net/v2/danish1819/60/4.json",
+    "sha": "9cbf8530272f164de89b3c5d598bf639029e9de1"
+  },
+  "5": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Petersbrev",
+    "chapter": 5,
+    "name": "1 Petersbrev 5",
+    "url": "https://api.getbible.net/v2/danish1819/60/5.json",
+    "sha": "3128bb7f67372c11e3f96d6260be67b4cfef2a9c"
+  }
+}

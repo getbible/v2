@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Naum 1",
     "url": "https://api.getbible.net/v2/almeida/34/1.json",
-    "sha": "b2a4823fdd1ac2b0f4e148170cbf51a777011952"
+    "sha": "49ca2c42602670781bbc059c6e93f75706d55031"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Naum 2",
     "url": "https://api.getbible.net/v2/almeida/34/2.json",
-    "sha": "9c3b675e9551fd167e6a4b2622fe235d38a552e5"
+    "sha": "48800c318e7a5b8db37829ad0cff96c4eb9a16fc"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Naum 3",
     "url": "https://api.getbible.net/v2/almeida/34/3.json",
-    "sha": "f0f27804174aef876f5b4b6cdebfdaa1498f88f1"
+    "sha": "eb879b1d3eb0afa5f674fb0489916ed60c51932b"
   }
 }

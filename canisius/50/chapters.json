@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/canisius/50/1.json",
+    "sha": "db6d612448c74ef02f6fe7e9e061c5d520fc4e44"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/canisius/50/2.json",
+    "sha": "0b77c3e329178e7d31a7aacde35838cb7c3b3b2e"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/canisius/50/3.json",
+    "sha": "f59d344f0fdfb3f9abc759f5b2dd40e28ec0b72b"
+  },
+  "4": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/canisius/50/4.json",
+    "sha": "92cdbb64a853dd31b8f39e1cc9a5be431caa2d46"
+  }
+}

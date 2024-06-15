@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 31,
+    "book_name": "Obadias' Bog",
+    "chapter": 1,
+    "name": "Obadias' Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/31/1.json",
+    "sha": "f2636c5d44199cd2e43445921a344081435e5229"
+  }
+}

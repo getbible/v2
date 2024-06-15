@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonikerbrev",
+    "chapter": 1,
+    "name": "1 Thessalonikerbrev 1",
+    "url": "https://api.getbible.net/v2/danish1871/52/1.json",
+    "sha": "fec18603b1d081128c876767bf4458b25e3e2757"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonikerbrev",
+    "chapter": 2,
+    "name": "1 Thessalonikerbrev 2",
+    "url": "https://api.getbible.net/v2/danish1871/52/2.json",
+    "sha": "4bb6b0fce6db9672a7711f7469ef1e834edb0684"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonikerbrev",
+    "chapter": 3,
+    "name": "1 Thessalonikerbrev 3",
+    "url": "https://api.getbible.net/v2/danish1871/52/3.json",
+    "sha": "82d2707d1d1513a12fbd07e6473999861951c22a"
+  },
+  "4": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonikerbrev",
+    "chapter": 4,
+    "name": "1 Thessalonikerbrev 4",
+    "url": "https://api.getbible.net/v2/danish1871/52/4.json",
+    "sha": "05d4972e4ada5818229ccb75c96b85a71aa1ad2e"
+  },
+  "5": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonikerbrev",
+    "chapter": 5,
+    "name": "1 Thessalonikerbrev 5",
+    "url": "https://api.getbible.net/v2/danish1871/52/5.json",
+    "sha": "5c4e0f783d283d427f1ae26c58cc15a25c28b2f1"
+  }
+}

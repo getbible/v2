@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/29/1.json",
+    "sha": "36be8e07d97da8d2936454ef14ebf611ffb6a5a9"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/29/2.json",
+    "sha": "ddc3019d06c0c84b04c0c4cecba1efaafc0b8dc1"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/29/3.json",
+    "sha": "4884d0c28d20afe9a527f55d78baee93facb9d49"
+  }
+}

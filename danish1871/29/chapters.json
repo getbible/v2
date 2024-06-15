@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joels Bog",
+    "chapter": 1,
+    "name": "Joels Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/29/1.json",
+    "sha": "2ee7bb3b6ce8ba1408ff07c18aeecdebf9a3b23b"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joels Bog",
+    "chapter": 2,
+    "name": "Joels Bog 2",
+    "url": "https://api.getbible.net/v2/danish1871/29/2.json",
+    "sha": "d3ee20b3d3dfd7de1152f2b3d2328b705fd35e2f"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joels Bog",
+    "chapter": 3,
+    "name": "Joels Bog 3",
+    "url": "https://api.getbible.net/v2/danish1871/29/3.json",
+    "sha": "1820af45fcd45294018ff1bcf2cde856d97fc88d"
+  }
+}

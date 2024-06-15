@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Sofonias",
+    "chapter": 1,
+    "name": "Sofonias 1",
+    "url": "https://api.getbible.net/v2/livre/36/1.json",
+    "sha": "fc9419909b7f2b43afd385d34c2510267af9f7b0"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Sofonias",
+    "chapter": 2,
+    "name": "Sofonias 2",
+    "url": "https://api.getbible.net/v2/livre/36/2.json",
+    "sha": "07df8c13bedfdadc3328937907a46abc8627f716"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Sofonias",
+    "chapter": 3,
+    "name": "Sofonias 3",
+    "url": "https://api.getbible.net/v2/livre/36/3.json",
+    "sha": "152cffe5c267647d0409f168ac9fb958d685ff7f"
+  }
+}

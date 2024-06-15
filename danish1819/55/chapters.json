@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timotheusbrev",
+    "chapter": 1,
+    "name": "2 Timotheusbrev 1",
+    "url": "https://api.getbible.net/v2/danish1819/55/1.json",
+    "sha": "56274a3c9430bf458145a01d17d42421c7ac9281"
+  },
+  "2": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timotheusbrev",
+    "chapter": 2,
+    "name": "2 Timotheusbrev 2",
+    "url": "https://api.getbible.net/v2/danish1819/55/2.json",
+    "sha": "c291a6f645546500ae63b1f924e36908af6e1966"
+  },
+  "3": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timotheusbrev",
+    "chapter": 3,
+    "name": "2 Timotheusbrev 3",
+    "url": "https://api.getbible.net/v2/danish1819/55/3.json",
+    "sha": "56df571f5fd1dfed8cdbe84dce28850d5097e037"
+  },
+  "4": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timotheusbrev",
+    "chapter": 4,
+    "name": "2 Timotheusbrev 4",
+    "url": "https://api.getbible.net/v2/danish1819/55/4.json",
+    "sha": "92b88199536fcc53c1b52f2ae152afbc49a5151c"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/japbungo/35/1.json",
+    "sha": "3818fe64306443a727f5eef9b1c9df468232bf18"
+  },
+  "2": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/japbungo/35/2.json",
+    "sha": "5d90c8f7253a5faf2e88bbffa0a98ebccb4a22b5"
+  },
+  "3": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/japbungo/35/3.json",
+    "sha": "08dd6948c977c6868a34fe21276b9eb1e4796530"
+  }
+}

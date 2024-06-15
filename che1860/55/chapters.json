@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/che1860/55/1.json",
+    "sha": "90903bfbfe6c3fc2df497e46712c3c195db7b89b"
+  },
+  "2": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/che1860/55/2.json",
+    "sha": "aeaef5f857d7c254a05f2e2301220941c6125a17"
+  },
+  "3": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/che1860/55/3.json",
+    "sha": "af4d1491aa7ba8f492f1ce0efd09d83e57724b85"
+  },
+  "4": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/che1860/55/4.json",
+    "sha": "edcb3102025ab8b633b9b010d89eacd8c7a9d7e4"
+  }
+}

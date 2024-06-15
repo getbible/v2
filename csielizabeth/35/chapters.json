@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/35/1.json",
+    "sha": "2904d14a101e8730ff822f61b8c5a904c6f0749f"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/35/2.json",
+    "sha": "e31293e16af304c31e31a5b26adcff46f4501fe3"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/35/3.json",
+    "sha": "bb43b785076795140512cb7fad4a284f920cff10"
+  }
+}

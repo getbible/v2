@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/japkougo/50/1.json",
+    "sha": "28bde2732a964cbca1bfbe1b48a7dc9c8626c5c8"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/japkougo/50/2.json",
+    "sha": "7793b45e0ed3267d6449ce2ea7dbe23204584a17"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/japkougo/50/3.json",
+    "sha": "20f88e51a3d23441e58fed9c6e52a016ce248a96"
+  },
+  "4": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/japkougo/50/4.json",
+    "sha": "6b4da8e7f91620cef803ee41fa276fbe4d1f589c"
+  }
+}

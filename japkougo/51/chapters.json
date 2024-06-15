@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/japkougo/51/1.json",
+    "sha": "2e739b8a3e7e89a38944f26f8e79c56456f0a561"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/japkougo/51/2.json",
+    "sha": "777bb279a8caa95078a1990833fb27b17b878399"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/japkougo/51/3.json",
+    "sha": "b9d03a7649b687517ac11abd6f21cc5ad7a7a03e"
+  },
+  "4": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/japkougo/51/4.json",
+    "sha": "3173f3a09c1eab25c17b17ba28e41b9e66d6dcef"
+  }
+}

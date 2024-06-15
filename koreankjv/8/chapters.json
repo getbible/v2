@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 1,
+    "name": "Ruth 1",
+    "url": "https://api.getbible.net/v2/koreankjv/8/1.json",
+    "sha": "e0bb8c5fc7d3578aaf351b9fa35ee4e0b3ce63a0"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 2,
+    "name": "Ruth 2",
+    "url": "https://api.getbible.net/v2/koreankjv/8/2.json",
+    "sha": "472207ba04dc7a2129f0d3fb82a581ec43c6536c"
+  },
+  "3": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 3,
+    "name": "Ruth 3",
+    "url": "https://api.getbible.net/v2/koreankjv/8/3.json",
+    "sha": "029b947bae637232cac831bd1ddcafaf57f7314f"
+  },
+  "4": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 4,
+    "name": "Ruth 4",
+    "url": "https://api.getbible.net/v2/koreankjv/8/4.json",
+    "sha": "78c530437ab5637fec9f745f66b42faa50d12dab"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 31,
+    "book_name": "Obadias",
+    "chapter": 1,
+    "name": "Obadias 1",
+    "url": "https://api.getbible.net/v2/livretr/31/1.json",
+    "sha": "f1a3c4b3cfc9df3c8fc85253617a9f8cef74c07a"
+  }
+}

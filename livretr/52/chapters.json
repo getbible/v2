@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Tessalonicenses",
+    "chapter": 1,
+    "name": "1 Tessalonicenses 1",
+    "url": "https://api.getbible.net/v2/livretr/52/1.json",
+    "sha": "39a01b34e7862c0bc4399b1467459aaa6b638df2"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Tessalonicenses",
+    "chapter": 2,
+    "name": "1 Tessalonicenses 2",
+    "url": "https://api.getbible.net/v2/livretr/52/2.json",
+    "sha": "4be5777aec377638f66d3996ecb0edb1df451226"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Tessalonicenses",
+    "chapter": 3,
+    "name": "1 Tessalonicenses 3",
+    "url": "https://api.getbible.net/v2/livretr/52/3.json",
+    "sha": "3203788cacb9083a1675d68c687ec87a4a44b38a"
+  },
+  "4": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Tessalonicenses",
+    "chapter": 4,
+    "name": "1 Tessalonicenses 4",
+    "url": "https://api.getbible.net/v2/livretr/52/4.json",
+    "sha": "ea782988335087fa9ee71c43a1e40a463ada5fd0"
+  },
+  "5": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Tessalonicenses",
+    "chapter": 5,
+    "name": "1 Tessalonicenses 5",
+    "url": "https://api.getbible.net/v2/livretr/52/5.json",
+    "sha": "75dd89efa52042cb0dbc9d14532ce2036402e541"
+  }
+}

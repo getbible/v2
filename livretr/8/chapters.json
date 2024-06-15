@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Rute",
+    "chapter": 1,
+    "name": "Rute 1",
+    "url": "https://api.getbible.net/v2/livretr/8/1.json",
+    "sha": "a66e976ceb7087f2b360dbec7c39f65ebba7b43a"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Rute",
+    "chapter": 2,
+    "name": "Rute 2",
+    "url": "https://api.getbible.net/v2/livretr/8/2.json",
+    "sha": "3615d36c74a3df43286b1ffe9da13cb296b67f3e"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Rute",
+    "chapter": 3,
+    "name": "Rute 3",
+    "url": "https://api.getbible.net/v2/livretr/8/3.json",
+    "sha": "f4d0a422744426ab6746a97fce616f93f86f5b5e"
+  },
+  "4": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Rute",
+    "chapter": 4,
+    "name": "Rute 4",
+    "url": "https://api.getbible.net/v2/livretr/8/4.json",
+    "sha": "83902a3ddac8086d7437b755d054686ff848a1d8"
+  }
+}

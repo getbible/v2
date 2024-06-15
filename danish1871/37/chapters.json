@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggais Bog",
+    "chapter": 1,
+    "name": "Haggais Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/37/1.json",
+    "sha": "2f02f24fec8948c44fe8e7d11bee3c9c12716f54"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggais Bog",
+    "chapter": 2,
+    "name": "Haggais Bog 2",
+    "url": "https://api.getbible.net/v2/danish1871/37/2.json",
+    "sha": "1e679c1a93c4a25298fd7cb04fa5bb3309435ab6"
+  }
+}

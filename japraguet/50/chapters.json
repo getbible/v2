@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/japraguet/50/1.json",
+    "sha": "3b875f029ba762a72b444c6f797d98e55ae1aa08"
+  },
+  "2": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/japraguet/50/2.json",
+    "sha": "050bcba94641c4fbc5eadad43d73dd0aba19d06a"
+  },
+  "3": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/japraguet/50/3.json",
+    "sha": "dac48996560a6815bda01c4545850809def1b1c6"
+  },
+  "4": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/japraguet/50/4.json",
+    "sha": "2211ec350e55bb14b0bf06dac38b3ab76141812c"
+  }
+}

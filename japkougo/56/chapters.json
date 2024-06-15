@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/japkougo/56/1.json",
+    "sha": "36dc4b7ab0053efb4e63652ca16335e72aea4d43"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/japkougo/56/2.json",
+    "sha": "67b3a6ab4faf6aca4892018ee6df4afdccd289cd"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/japkougo/56/3.json",
+    "sha": "5934a4949296ae04f26e7460538dc50018395c13"
+  }
+}

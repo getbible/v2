@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/canisius/51/1.json",
+    "sha": "f3c5c85ed00347a56f3ea18c7d8723b651d0ed6a"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/canisius/51/2.json",
+    "sha": "83f7a8abdc1b0973311340e2b9160475f9af9b18"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/canisius/51/3.json",
+    "sha": "edd86716400fc0140d62f93442ac4c208beed6e2"
+  },
+  "4": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/canisius/51/4.json",
+    "sha": "0ff72c2ea6644b8fe60e7ee57306bbfa9ca3df9d"
+  }
+}

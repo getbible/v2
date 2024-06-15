@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/japbungo/61/1.json",
+    "sha": "267621416ebc28ba9499bcfac33ea1bda65a8d0a"
+  },
+  "2": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/japbungo/61/2.json",
+    "sha": "9523830dffb4a80fd6bad8938cc7cdb54d37e027"
+  },
+  "3": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/japbungo/61/3.json",
+    "sha": "e699a86ec663bc7a72936e7098667ad8af4651bf"
+  }
+}

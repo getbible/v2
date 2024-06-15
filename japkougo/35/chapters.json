@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/japkougo/35/1.json",
+    "sha": "6a6391232d8b4826120849b938d054640e281cce"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/japkougo/35/2.json",
+    "sha": "902beb07ea07701ef867481fe6a402ec3656377b"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/japkougo/35/3.json",
+    "sha": "b4decb87f87855b43fa322934db62d4137160afd"
+  }
+}

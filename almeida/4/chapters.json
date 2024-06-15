@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Números 1",
     "url": "https://api.getbible.net/v2/almeida/4/1.json",
-    "sha": "26434174c3cc74e5e04d8b0a4ef4371d3e27519e"
+    "sha": "e8bb0ad45f73ec3d29fef1bff6af9f4fa62efd32"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Números 2",
     "url": "https://api.getbible.net/v2/almeida/4/2.json",
-    "sha": "5671cdbccaec683ff3458a5909a3405002a06cd7"
+    "sha": "ce9635fa0cad9b08b019adddc0ada0645b5a9cb5"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Números 3",
     "url": "https://api.getbible.net/v2/almeida/4/3.json",
-    "sha": "9d3c00a7768f1fcc0e8f9bdfb4498ae30a82ff90"
+    "sha": "08c847bb4ba9a502caa620eaed5842e3b47548d1"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Números 4",
     "url": "https://api.getbible.net/v2/almeida/4/4.json",
-    "sha": "124cbcced878974380d0ef3f49ce29e1e1cc9b53"
+    "sha": "9cd39fd2b11075d648a202df345abaa6900cbdd0"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Números 5",
     "url": "https://api.getbible.net/v2/almeida/4/5.json",
-    "sha": "b513b16f38f646d6fd05de7d7f73830531cb0cfa"
+    "sha": "b6e7c99688e375d4c0a894c6613d2b1dd75b4173"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Números 6",
     "url": "https://api.getbible.net/v2/almeida/4/6.json",
-    "sha": "c8a2bc3ab424c1b4b141a86a2060c5857b063506"
+    "sha": "040ec47d4f57f344bb3333bc95be62c6d48dba88"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Números 7",
     "url": "https://api.getbible.net/v2/almeida/4/7.json",
-    "sha": "6a05829968e782b5e7ef4f166235c380f3af71b3"
+    "sha": "25fcf8c23a4e67c9a6d3856b3f34e39d1b8119f8"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Números 8",
     "url": "https://api.getbible.net/v2/almeida/4/8.json",
-    "sha": "16a2a073d1d3960504055b99b90fbc6860acb9b2"
+    "sha": "392a18b4c9192d66a12c02255a1b9500da08fb50"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Números 9",
     "url": "https://api.getbible.net/v2/almeida/4/9.json",
-    "sha": "2ac7b77573a4916669254bb811a7e04ddea161ae"
+    "sha": "2aefe389b726d6b20b0d187dfcbbe5a9f963279b"
   },
   "10": {
     "translation": "Almeida Atualizada",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Números 10",
     "url": "https://api.getbible.net/v2/almeida/4/10.json",
-    "sha": "35cf35eb1dedb27895c24935e3225f3aaa3449cf"
+    "sha": "dcdfc54a2275995f12d3915873ce3d34ebbe13e1"
   },
   "11": {
     "translation": "Almeida Atualizada",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Números 11",
     "url": "https://api.getbible.net/v2/almeida/4/11.json",
-    "sha": "d7c0ec54f247c6227990e914b906d4476f16cb9e"
+    "sha": "339f695fe3c0875139e8226d6867b0068df0c431"
   },
   "12": {
     "translation": "Almeida Atualizada",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Números 12",
     "url": "https://api.getbible.net/v2/almeida/4/12.json",
-    "sha": "9c2570fbc3d325cae8fffa7f9791b7b6b4592904"
+    "sha": "fed28d0086f01590cfe79589cf9fda2f943c950e"
   },
   "13": {
     "translation": "Almeida Atualizada",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Números 13",
     "url": "https://api.getbible.net/v2/almeida/4/13.json",
-    "sha": "58d524c89fee11a2b3cbae75b7df559a4d62b220"
+    "sha": "ba6d750798a4f5c2440492260fc11610abb8ca63"
   },
   "14": {
     "translation": "Almeida Atualizada",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Números 14",
     "url": "https://api.getbible.net/v2/almeida/4/14.json",
-    "sha": "082460422f8031ad3028d501073ff7243548a07b"
+    "sha": "6e0c129862266943ff4bafdec8ec497aa9348602"
   },
   "15": {
     "translation": "Almeida Atualizada",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Números 15",
     "url": "https://api.getbible.net/v2/almeida/4/15.json",
-    "sha": "fa7f16feabf932d4f0b6d416fafda72f97ddf840"
+    "sha": "2df5d087db6b9f7d07c74913e586b137df087716"
   },
   "16": {
     "translation": "Almeida Atualizada",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "Números 16",
     "url": "https://api.getbible.net/v2/almeida/4/16.json",
-    "sha": "8f47a54a5d7d8cb9369cce51afce5f4ad63e4037"
+    "sha": "3abfb584dc28bc4e37d0f3b3beb78acd64fae458"
   },
   "17": {
     "translation": "Almeida Atualizada",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Números 17",
     "url": "https://api.getbible.net/v2/almeida/4/17.json",
-    "sha": "21decb0548eb34b80eaa9c104eb77eadf90487eb"
+    "sha": "7ae55f92c2c825785976c5c9cdf172a658642bad"
   },
   "18": {
     "translation": "Almeida Atualizada",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Números 18",
     "url": "https://api.getbible.net/v2/almeida/4/18.json",
-    "sha": "37f34c76b59ff8a64c359346f4fc926acb9febcd"
+    "sha": "58bf1145da9b10cf626bce0e833a7d0f6c64b521"
   },
   "19": {
     "translation": "Almeida Atualizada",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Números 19",
     "url": "https://api.getbible.net/v2/almeida/4/19.json",
-    "sha": "0a8082803e203a3a3ff99a21c69741a95acff3a9"
+    "sha": "6b6ca2d25369aa95b78e85631c867d2cd8494320"
   },
   "20": {
     "translation": "Almeida Atualizada",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "Números 20",
     "url": "https://api.getbible.net/v2/almeida/4/20.json",
-    "sha": "cd8e18e02cac2baa171106ecba8876cb03d89e71"
+    "sha": "43bd0e8f143aaa0e20348bf87f7d2942cdf011af"
   },
   "21": {
     "translation": "Almeida Atualizada",
@@ -291,7 +291,7 @@
     "chapter": 21,
     "name": "Números 21",
     "url": "https://api.getbible.net/v2/almeida/4/21.json",
-    "sha": "c90a35e1f5d41a8a1ca4c2883b33e695b2ab0453"
+    "sha": "f765b32ae023c9ea28a4a9cbf984c5788fc95968"
   },
   "22": {
     "translation": "Almeida Atualizada",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "Números 22",
     "url": "https://api.getbible.net/v2/almeida/4/22.json",
-    "sha": "abf63c2a2801d3a4625e7ff0cfe9f008c464e3b7"
+    "sha": "16f531ea501a1cc02b37a40a0f48b730821055e7"
   },
   "23": {
     "translation": "Almeida Atualizada",
@@ -319,7 +319,7 @@
     "chapter": 23,
     "name": "Números 23",
     "url": "https://api.getbible.net/v2/almeida/4/23.json",
-    "sha": "23934b7aecfcfa27412df8bc42c43501e27bad2b"
+    "sha": "404dec5a2db0f849408ef8f3153ee759a3360bac"
   },
   "24": {
     "translation": "Almeida Atualizada",
@@ -333,7 +333,7 @@
     "chapter": 24,
     "name": "Números 24",
     "url": "https://api.getbible.net/v2/almeida/4/24.json",
-    "sha": "5d72f1c025c223af15d2ac49cfbccebd29969153"
+    "sha": "3b36267e879127dd48a61ba5514c36ab2f06453e"
   },
   "25": {
     "translation": "Almeida Atualizada",
@@ -347,7 +347,7 @@
     "chapter": 25,
     "name": "Números 25",
     "url": "https://api.getbible.net/v2/almeida/4/25.json",
-    "sha": "b9081418e0f046aef6060e31d13c56a38fcb6f20"
+    "sha": "568c91614498218e9cc6e337d0ae6d0841948c60"
   },
   "26": {
     "translation": "Almeida Atualizada",
@@ -361,7 +361,7 @@
     "chapter": 26,
     "name": "Números 26",
     "url": "https://api.getbible.net/v2/almeida/4/26.json",
-    "sha": "9ebd97ee65283223b2c9a06225eacaaa918ff8c2"
+    "sha": "dc349f999604912ba2d2df773dd5aada8b30dcfe"
   },
   "27": {
     "translation": "Almeida Atualizada",
@@ -375,7 +375,7 @@
     "chapter": 27,
     "name": "Números 27",
     "url": "https://api.getbible.net/v2/almeida/4/27.json",
-    "sha": "1464cbb4473941e2fd5ff96851e6360033820e61"
+    "sha": "530ce873aeb13037b55195670fc8585116f12c73"
   },
   "28": {
     "translation": "Almeida Atualizada",
@@ -389,7 +389,7 @@
     "chapter": 28,
     "name": "Números 28",
     "url": "https://api.getbible.net/v2/almeida/4/28.json",
-    "sha": "0dfcf01057f6f59d5decad35c4933c571059d942"
+    "sha": "c9b2d2bd96d1fc38a18d44644251d304f31096df"
   },
   "29": {
     "translation": "Almeida Atualizada",
@@ -403,7 +403,7 @@
     "chapter": 29,
     "name": "Números 29",
     "url": "https://api.getbible.net/v2/almeida/4/29.json",
-    "sha": "9ca021cd7fdb9e20661a34ba323d3aba92ad9e96"
+    "sha": "f48b7d3f6044375fe3f627f70a8c3e9362285def"
   },
   "30": {
     "translation": "Almeida Atualizada",
@@ -417,7 +417,7 @@
     "chapter": 30,
     "name": "Números 30",
     "url": "https://api.getbible.net/v2/almeida/4/30.json",
-    "sha": "c5aa762690cbe7ec5a640af932ace42107cc415a"
+    "sha": "d871ba97d1d4ac21350eee99faad1607d6b3d6ac"
   },
   "31": {
     "translation": "Almeida Atualizada",
@@ -431,7 +431,7 @@
     "chapter": 31,
     "name": "Números 31",
     "url": "https://api.getbible.net/v2/almeida/4/31.json",
-    "sha": "429c51957969d5ab92de7abf69d315b6da133ff8"
+    "sha": "0e064d69c565e194d757efbb0459171d359637f6"
   },
   "32": {
     "translation": "Almeida Atualizada",
@@ -445,7 +445,7 @@
     "chapter": 32,
     "name": "Números 32",
     "url": "https://api.getbible.net/v2/almeida/4/32.json",
-    "sha": "82b306d98ff444fd74242ddedee9b3214c0fe2bf"
+    "sha": "d593317356dd5507dce52a457450609b68a2d8e8"
   },
   "33": {
     "translation": "Almeida Atualizada",
@@ -459,7 +459,7 @@
     "chapter": 33,
     "name": "Números 33",
     "url": "https://api.getbible.net/v2/almeida/4/33.json",
-    "sha": "a801f1acdfb76fb400e9f52aee81546a51ccdb4d"
+    "sha": "e73525fa8603492290757f5642f1c67a536c1919"
   },
   "34": {
     "translation": "Almeida Atualizada",
@@ -473,7 +473,7 @@
     "chapter": 34,
     "name": "Números 34",
     "url": "https://api.getbible.net/v2/almeida/4/34.json",
-    "sha": "5064d69e37dd6eb34022878775b3d2e4c29b33f7"
+    "sha": "bb9273fe0f01d4ccd6f4f9804eb685e0a82448bf"
   },
   "35": {
     "translation": "Almeida Atualizada",
@@ -487,7 +487,7 @@
     "chapter": 35,
     "name": "Números 35",
     "url": "https://api.getbible.net/v2/almeida/4/35.json",
-    "sha": "f9d46381975e6f60f54d9446dfb117bfebcdfa3b"
+    "sha": "77f63d00abfbc323f6cf9faae6f644e170ecd36d"
   },
   "36": {
     "translation": "Almeida Atualizada",
@@ -501,6 +501,6 @@
     "chapter": 36,
     "name": "Números 36",
     "url": "https://api.getbible.net/v2/almeida/4/36.json",
-    "sha": "2947d27ceab399b4b58dddefef5032bbf36a5e66"
+    "sha": "c1c154bb963d89406b6033483e03a97f3ff1a3f0"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Judas",
+    "chapter": 1,
+    "name": "Judas 1",
+    "url": "https://api.getbible.net/v2/livre/65/1.json",
+    "sha": "fa89fb763d1607db5b9099a842f08f6c67a06afb"
+  }
+}

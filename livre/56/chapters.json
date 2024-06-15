@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Tito",
+    "chapter": 1,
+    "name": "Tito 1",
+    "url": "https://api.getbible.net/v2/livre/56/1.json",
+    "sha": "c4f8c1ff616e20333d19ebb72a79b6f61c5a4cce"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Tito",
+    "chapter": 2,
+    "name": "Tito 2",
+    "url": "https://api.getbible.net/v2/livre/56/2.json",
+    "sha": "85a38774d0635e3ebffada1393f5a03bc11563bf"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Tito",
+    "chapter": 3,
+    "name": "Tito 3",
+    "url": "https://api.getbible.net/v2/livre/56/3.json",
+    "sha": "f6cae95bc698aa4ae9d59b9427c8ef4c28735baa"
+  }
+}

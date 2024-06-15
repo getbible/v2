@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Kolossenserbrevet",
+    "chapter": 1,
+    "name": "Kolossenserbrevet 1",
+    "url": "https://api.getbible.net/v2/danish1819/51/1.json",
+    "sha": "7b1099b7db655bfe7f2061d66e65bfdcb958dc56"
+  },
+  "2": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Kolossenserbrevet",
+    "chapter": 2,
+    "name": "Kolossenserbrevet 2",
+    "url": "https://api.getbible.net/v2/danish1819/51/2.json",
+    "sha": "e51cd7c2d92db060824195e6ebcd96c3c3b436cf"
+  },
+  "3": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Kolossenserbrevet",
+    "chapter": 3,
+    "name": "Kolossenserbrevet 3",
+    "url": "https://api.getbible.net/v2/danish1819/51/3.json",
+    "sha": "7b8bd6cac3113a334600f0f1b28b4b45aefbca62"
+  },
+  "4": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Kolossenserbrevet",
+    "chapter": 4,
+    "name": "Kolossenserbrevet 4",
+    "url": "https://api.getbible.net/v2/danish1819/51/4.json",
+    "sha": "8d013de665999a6248f08f9af304a18b04391fb7"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 57,
+    "book_name": "Filemonbrevet",
+    "chapter": 1,
+    "name": "Filemonbrevet 1",
+    "url": "https://api.getbible.net/v2/danish1871/57/1.json",
+    "sha": "de68144d9fa0a1e97f9fb74c6f98d2117873e62b"
+  }
+}

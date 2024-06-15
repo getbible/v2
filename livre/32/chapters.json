@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas",
+    "chapter": 1,
+    "name": "Jonas 1",
+    "url": "https://api.getbible.net/v2/livre/32/1.json",
+    "sha": "c478caa4340b9f5412d9252219d5391558a07f1f"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas",
+    "chapter": 2,
+    "name": "Jonas 2",
+    "url": "https://api.getbible.net/v2/livre/32/2.json",
+    "sha": "0b00306abc09f07b691dcbe0b4572f2ce3e0cd5b"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas",
+    "chapter": 3,
+    "name": "Jonas 3",
+    "url": "https://api.getbible.net/v2/livre/32/3.json",
+    "sha": "9da5c286d547331aa254ea5603f21f0f279dbbbc"
+  },
+  "4": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas",
+    "chapter": 4,
+    "name": "Jonas 4",
+    "url": "https://api.getbible.net/v2/livre/32/4.json",
+    "sha": "fbcaa8c19f7ed71eb18fd2ba61a329084710452f"
+  }
+}

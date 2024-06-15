@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/japkougo/61/1.json",
+    "sha": "86cbd5a7216313992e4964403ea3ce4fbe4751f7"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/japkougo/61/2.json",
+    "sha": "1d680e721a81720150be77a0866c332759b6ba8e"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/japkougo/61/3.json",
+    "sha": "48ff0723d00f7d19933daec43adfb8b3d9cdecea"
+  }
+}

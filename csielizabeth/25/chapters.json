@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 1,
+    "name": "Lamentations 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/25/1.json",
+    "sha": "469868f24b795508550188552eeea9bbae15bdc0"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 2,
+    "name": "Lamentations 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/25/2.json",
+    "sha": "71103c5ab0505231b15dd74791dd52e1ee3f0402"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 3,
+    "name": "Lamentations 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/25/3.json",
+    "sha": "fe98144bee21ad1feeafe047b81eaad1735696c4"
+  },
+  "4": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 4,
+    "name": "Lamentations 4",
+    "url": "https://api.getbible.net/v2/csielizabeth/25/4.json",
+    "sha": "dc0ae434cf75f4a90b2adc2c2b6c3529c93120f4"
+  },
+  "5": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 5,
+    "name": "Lamentations 5",
+    "url": "https://api.getbible.net/v2/csielizabeth/25/5.json",
+    "sha": "5dba1aee563637a0407860bd537338ce012f1d57"
+  }
+}

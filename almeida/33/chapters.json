@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Miquéias 1",
     "url": "https://api.getbible.net/v2/almeida/33/1.json",
-    "sha": "20d5c31fa1e63829b6f27f813a0ea4c8b4ad3e48"
+    "sha": "82bead38f760ed7c2cc882bca449397d2c281380"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Miquéias 2",
     "url": "https://api.getbible.net/v2/almeida/33/2.json",
-    "sha": "9583312fb6f6818ced399cad75c13e76185afb44"
+    "sha": "d7173e299ff25522110a47df9079c147428280a0"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Miquéias 3",
     "url": "https://api.getbible.net/v2/almeida/33/3.json",
-    "sha": "ba65959674e83c9ec336620e6ee90607020b0f5e"
+    "sha": "0c3692dac91ed1ba5b99040f3e11102b57ce672f"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Miquéias 4",
     "url": "https://api.getbible.net/v2/almeida/33/4.json",
-    "sha": "75886f8c47b65b0b201ed6068d00955fda838fef"
+    "sha": "2c11506f210c4b027d4396830102f732baf57282"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Miquéias 5",
     "url": "https://api.getbible.net/v2/almeida/33/5.json",
-    "sha": "094e3410d229f1616868b32254694c8d25e5590c"
+    "sha": "a38ef4eb74a1228b7982b3a64e7185de0d1630ff"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Miquéias 6",
     "url": "https://api.getbible.net/v2/almeida/33/6.json",
-    "sha": "10d959745e67b0496eacf4efafaea9bff8e324f1"
+    "sha": "d9f5d4649ca263d795f57a338ffaaadeded4ba79"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Miquéias 7",
     "url": "https://api.getbible.net/v2/almeida/33/7.json",
-    "sha": "c3a4bfb208df928d7c33c0d713372b8797eb46e6"
+    "sha": "8f93dc0c0fd6047eee74c21b317bbb07ae2d73de"
   }
 }

@@ -9,7 +9,7 @@
     "nr": 1,
     "name": "Gênesis",
     "url": "https://api.getbible.net/v2/almeida/1.json",
-    "sha": "da144cc4a8e7c1387c4116638c6f55a655e558ca"
+    "sha": "8f63e09a39c47de7003dfe91147e7a663e2c0b67"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -21,7 +21,7 @@
     "nr": 2,
     "name": "Êxodo",
     "url": "https://api.getbible.net/v2/almeida/2.json",
-    "sha": "da492d3b2615cf276ba0415de0c6350561f86562"
+    "sha": "740b60861d7ceb72e7167be97f2050474b711745"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -33,7 +33,7 @@
     "nr": 3,
     "name": "Levítico",
     "url": "https://api.getbible.net/v2/almeida/3.json",
-    "sha": "4634b70c9f283e87fd6268860d2b0db7246e514b"
+    "sha": "34b173a1cb8ea45dcc4c3ad7a7e566c7bd4c58a9"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -45,7 +45,7 @@
     "nr": 4,
     "name": "Números",
     "url": "https://api.getbible.net/v2/almeida/4.json",
-    "sha": "01680864e77d13fac8fec1e031099cc1bc541851"
+    "sha": "7fd712066d1401ac39ce04c4cdd4f080639b6348"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -57,7 +57,7 @@
     "nr": 5,
     "name": "Deuteronômio",
     "url": "https://api.getbible.net/v2/almeida/5.json",
-    "sha": "0bfe1d5de28cddb3aa284d56cc07c44e0b8c583c"
+    "sha": "6c7af5265748def5735d33371d7013462e908ab8"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -69,7 +69,7 @@
     "nr": 6,
     "name": "Josué",
     "url": "https://api.getbible.net/v2/almeida/6.json",
-    "sha": "c61145fe5583314dd40e850a6ef34ab0effa5e67"
+    "sha": "6b589b09f5b3cfa1fea7b377c61b19c0f826d0f0"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "nr": 7,
     "name": "Juízes",
     "url": "https://api.getbible.net/v2/almeida/7.json",
-    "sha": "2fc30398f7c3f63386ed69d6fa7315302acfb0ca"
+    "sha": "dca25f8e0fca761c06eeb12e8eb2041d0bcab9d3"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -93,7 +93,7 @@
     "nr": 8,
     "name": "Rute",
     "url": "https://api.getbible.net/v2/almeida/8.json",
-    "sha": "3f53f295fe24fc90140160bb4723dd9e7dc287db"
+    "sha": "e8de433c19154bf83880546103371436e12209d9"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -105,7 +105,7 @@
     "nr": 9,
     "name": "1 Samuel",
     "url": "https://api.getbible.net/v2/almeida/9.json",
-    "sha": "47dae223b21c955125cb5bfd5bf934ae07260997"
+    "sha": "505224f87830a6c9d8a9d7e91b3bb9d1fb0c691b"
   },
   "10": {
     "translation": "Almeida Atualizada",
@@ -117,7 +117,7 @@
     "nr": 10,
     "name": "2 Samuel",
     "url": "https://api.getbible.net/v2/almeida/10.json",
-    "sha": "846cab6e1dd5a2aa016f18c4e4b301ab409aa0db"
+    "sha": "47c828d539840563217f04cef5477987c93fc7b4"
   },
   "11": {
     "translation": "Almeida Atualizada",
@@ -129,7 +129,7 @@
     "nr": 11,
     "name": "1 Reis",
     "url": "https://api.getbible.net/v2/almeida/11.json",
-    "sha": "28eadbb7ba8a0eedd99760775aaf7faf7ffc3915"
+    "sha": "77b97babddc17e37c961e9be1af4ee6b96762543"
   },
   "12": {
     "translation": "Almeida Atualizada",
@@ -141,7 +141,7 @@
     "nr": 12,
     "name": "2 Reis",
     "url": "https://api.getbible.net/v2/almeida/12.json",
-    "sha": "b47a1537a1916f2f853ab2a3100e5831bda17128"
+    "sha": "362f567d5cbee490ccc8dcaf45d501c42544c374"
   },
   "13": {
     "translation": "Almeida Atualizada",
@@ -153,7 +153,7 @@
     "nr": 13,
     "name": "1 Crônicas",
     "url": "https://api.getbible.net/v2/almeida/13.json",
-    "sha": "b6fff8f2a96d5a2a5d37261a5cb6071e08efb170"
+    "sha": "20c96773aa9ec78c895d2f47cc7aafd527a38e0f"
   },
   "14": {
     "translation": "Almeida Atualizada",
@@ -165,7 +165,7 @@
     "nr": 14,
     "name": "2 Crônicas",
     "url": "https://api.getbible.net/v2/almeida/14.json",
-    "sha": "62a97477d3b0baef8d1e974a12ba4b64f531f1b4"
+    "sha": "4a91ea59e38fa6f856b171f79f5456b5151dfebb"
   },
   "15": {
     "translation": "Almeida Atualizada",
@@ -177,7 +177,7 @@
     "nr": 15,
     "name": "Esdras",
     "url": "https://api.getbible.net/v2/almeida/15.json",
-    "sha": "1c662e14caecc3b9f6c0de492afefffea7d39b4c"
+    "sha": "a1cb3380aa75d16c2b0a1cafca3740ab41c43623"
   },
   "16": {
     "translation": "Almeida Atualizada",
@@ -189,7 +189,7 @@
     "nr": 16,
     "name": "Neemias",
     "url": "https://api.getbible.net/v2/almeida/16.json",
-    "sha": "52d7606ef7ee7bc299b6afe004cb145b822b110e"
+    "sha": "54cd6298ba359dc19de8bd9adcc9942d6f14c044"
   },
   "17": {
     "translation": "Almeida Atualizada",
@@ -201,7 +201,7 @@
     "nr": 17,
     "name": "Ester",
     "url": "https://api.getbible.net/v2/almeida/17.json",
-    "sha": "f363d661a7fd58646f246e76b950938b5a9ab4df"
+    "sha": "773d9880dc83604a4b3fd0221d0d289b25234fce"
   },
   "18": {
     "translation": "Almeida Atualizada",
@@ -213,7 +213,7 @@
     "nr": 18,
     "name": "Jó",
     "url": "https://api.getbible.net/v2/almeida/18.json",
-    "sha": "4734e63faf9e53575b2010e856f2b2108c402276"
+    "sha": "84287658082ec1491fef577330e91df01cbcf521"
   },
   "19": {
     "translation": "Almeida Atualizada",
@@ -225,7 +225,7 @@
     "nr": 19,
     "name": "Salmos",
     "url": "https://api.getbible.net/v2/almeida/19.json",
-    "sha": "9684c77123b2bda60da994834f6f4dc6404dec5c"
+    "sha": "2c4011aea70493ea6d766effaa2f3972edf62b2e"
   },
   "20": {
     "translation": "Almeida Atualizada",
@@ -237,7 +237,7 @@
     "nr": 20,
     "name": "Provérbios",
     "url": "https://api.getbible.net/v2/almeida/20.json",
-    "sha": "155946337b440e3327adc92a546b6684bd1e04f3"
+    "sha": "eac021f55d567503bc8236dbbd40e51bbee7c95b"
   },
   "21": {
     "translation": "Almeida Atualizada",
@@ -249,7 +249,7 @@
     "nr": 21,
     "name": "Eclesiastes",
     "url": "https://api.getbible.net/v2/almeida/21.json",
-    "sha": "6ff6dfd55560dc27a71e4e019134555fcf611d1e"
+    "sha": "18e17e5683957b7fe7fd6aca1d0ada05ead5f61b"
   },
   "22": {
     "translation": "Almeida Atualizada",
@@ -261,7 +261,7 @@
     "nr": 22,
     "name": "Cântico dos Cânticos",
     "url": "https://api.getbible.net/v2/almeida/22.json",
-    "sha": "3a54cea136cab2621438200d527a4487554b1c5f"
+    "sha": "9975f27daef0ca8da2085436c0bae40a6a4f5333"
   },
   "23": {
     "translation": "Almeida Atualizada",
@@ -273,7 +273,7 @@
     "nr": 23,
     "name": "Isaías",
     "url": "https://api.getbible.net/v2/almeida/23.json",
-    "sha": "15387562452a4bb3929aec5877a8131fa40d6a16"
+    "sha": "296c918a3123276c956f9a8ccf0cf226895c3ebf"
   },
   "24": {
     "translation": "Almeida Atualizada",
@@ -285,7 +285,7 @@
     "nr": 24,
     "name": "Jeremias",
     "url": "https://api.getbible.net/v2/almeida/24.json",
-    "sha": "68e4785ce68d87a8bbbd155d5e3cd5f627156c24"
+    "sha": "8fe6aa66bbd914a245597b7207d24f23c96d4e31"
   },
   "25": {
     "translation": "Almeida Atualizada",
@@ -297,7 +297,7 @@
     "nr": 25,
     "name": "Lamentações",
     "url": "https://api.getbible.net/v2/almeida/25.json",
-    "sha": "8459752ad9d76a32fa50601fcd1e531d18cc93a6"
+    "sha": "054446fb5a16d9eb93b9ed5375dccb81738c015c"
   },
   "26": {
     "translation": "Almeida Atualizada",
@@ -309,7 +309,7 @@
     "nr": 26,
     "name": "Ezequiel",
     "url": "https://api.getbible.net/v2/almeida/26.json",
-    "sha": "c464d18d5c18e475c47a9f04f41b5d2ca6ee616d"
+    "sha": "900da24afc634cd6d9f297d8d419b50d46aa6022"
   },
   "27": {
     "translation": "Almeida Atualizada",
@@ -321,7 +321,7 @@
     "nr": 27,
     "name": "Daniel",
     "url": "https://api.getbible.net/v2/almeida/27.json",
-    "sha": "d6272c9c314aabb7025f308214bb70c16b3862ad"
+    "sha": "386aa1e113a48c80beb61a926458935375a7d891"
   },
   "28": {
     "translation": "Almeida Atualizada",
@@ -333,7 +333,7 @@
     "nr": 28,
     "name": "Oseias",
     "url": "https://api.getbible.net/v2/almeida/28.json",
-    "sha": "3e314a56d45f648b9fad155be84834e56ced24e5"
+    "sha": "860c48114e7d4e5c00fe980406bb2a0371b545c7"
   },
   "29": {
     "translation": "Almeida Atualizada",
@@ -345,7 +345,7 @@
     "nr": 29,
     "name": "Joel",
     "url": "https://api.getbible.net/v2/almeida/29.json",
-    "sha": "fd3b2f43e8ff176bacf99caa317277a26993ab50"
+    "sha": "327654c1d7e8fb7801e08c0e2c9725fd736f02b2"
   },
   "30": {
     "translation": "Almeida Atualizada",
@@ -357,7 +357,7 @@
     "nr": 30,
     "name": "Amós",
     "url": "https://api.getbible.net/v2/almeida/30.json",
-    "sha": "c9b3fa9b3566f8800cdf68fb611dcef83a7085f8"
+    "sha": "205a4dfc0bb37769161bd0e0cf5156d28f350c81"
   },
   "31": {
     "translation": "Almeida Atualizada",
@@ -369,7 +369,7 @@
     "nr": 31,
     "name": "Obadias",
     "url": "https://api.getbible.net/v2/almeida/31.json",
-    "sha": "9e98b6fad170088484cf5470f74b8c57cf15c112"
+    "sha": "ee73e2f90701f794d304e18de393b9f4fa5abafe"
   },
   "32": {
     "translation": "Almeida Atualizada",
@@ -381,7 +381,7 @@
     "nr": 32,
     "name": "Jonas",
     "url": "https://api.getbible.net/v2/almeida/32.json",
-    "sha": "c881ec1a962bb40d1936322c5a3a351dea83d7cb"
+    "sha": "8aa17588d9898e07f92926d8aec55fa25947ab82"
   },
   "33": {
     "translation": "Almeida Atualizada",
@@ -393,7 +393,7 @@
     "nr": 33,
     "name": "Miquéias",
     "url": "https://api.getbible.net/v2/almeida/33.json",
-    "sha": "1fbd345a5de2775a4214706af34f789b3365503b"
+    "sha": "7e0b86fd75fec78239dff5c57a2c792b24530c27"
   },
   "34": {
     "translation": "Almeida Atualizada",
@@ -405,7 +405,7 @@
     "nr": 34,
     "name": "Naum",
     "url": "https://api.getbible.net/v2/almeida/34.json",
-    "sha": "f21176158142273b7599b9fe9f01f601f5183883"
+    "sha": "8fe59b6cc20e6e012a0aacb868a066c59fd71670"
   },
   "35": {
     "translation": "Almeida Atualizada",
@@ -417,7 +417,7 @@
     "nr": 35,
     "name": "Habacuque",
     "url": "https://api.getbible.net/v2/almeida/35.json",
-    "sha": "b1deb54e46850a7ace30de3e4ac3c7d8ea237ed5"
+    "sha": "bb9fdd4aa0f34f86eb6046e8955d1936c89b23dd"
   },
   "36": {
     "translation": "Almeida Atualizada",
@@ -429,7 +429,7 @@
     "nr": 36,
     "name": "Sofonias",
     "url": "https://api.getbible.net/v2/almeida/36.json",
-    "sha": "e8f808513266cbc374c14a98eac693050979e891"
+    "sha": "d2d2cb9d0b5cf2922c1cc37c2330c7ff7a9c7750"
   },
   "37": {
     "translation": "Almeida Atualizada",
@@ -441,7 +441,7 @@
     "nr": 37,
     "name": "Ageu",
     "url": "https://api.getbible.net/v2/almeida/37.json",
-    "sha": "57ad4bfa2a8f961392824c51701a521ef7becc92"
+    "sha": "d785f4e705e4a2c6e4542531e2da7fcebdd069bf"
   },
   "38": {
     "translation": "Almeida Atualizada",
@@ -453,7 +453,7 @@
     "nr": 38,
     "name": "Zacarias",
     "url": "https://api.getbible.net/v2/almeida/38.json",
-    "sha": "bfe7a6ca3f353cd018c36568cd07c44c0934d005"
+    "sha": "e1ce13389e8a55b1323bd38a23096757ff94eea6"
   },
   "39": {
     "translation": "Almeida Atualizada",
@@ -465,7 +465,7 @@
     "nr": 39,
     "name": "Malaquias",
     "url": "https://api.getbible.net/v2/almeida/39.json",
-    "sha": "1860e5b4414c55dd73eda3f08c7a0fe246867290"
+    "sha": "e4064130dd6cf37a37f254750db3bf02a52e8f2d"
   },
   "40": {
     "translation": "Almeida Atualizada",
@@ -477,7 +477,7 @@
     "nr": 40,
     "name": "Mateus",
     "url": "https://api.getbible.net/v2/almeida/40.json",
-    "sha": "695e01f7050aaa7556bb2dfe6ce43df13097cb0b"
+    "sha": "59e606862e6d34689d04dadf7822839d43275ce7"
   },
   "41": {
     "translation": "Almeida Atualizada",
@@ -489,7 +489,7 @@
     "nr": 41,
     "name": "Marcos",
     "url": "https://api.getbible.net/v2/almeida/41.json",
-    "sha": "64d053a6b9f3087c99dda1f8832ca2fee7b5d98d"
+    "sha": "0e00c543b8599ceab6b569163cb93cdc5f1fb428"
   },
   "42": {
     "translation": "Almeida Atualizada",
@@ -501,7 +501,7 @@
     "nr": 42,
     "name": "Lucas",
     "url": "https://api.getbible.net/v2/almeida/42.json",
-    "sha": "60b75dbc5cbeab1c08dfb59c069b40626202d424"
+    "sha": "a123c55151d7748e01b57b0537239c8c6ff89d27"
   },
   "43": {
     "translation": "Almeida Atualizada",
@@ -513,7 +513,7 @@
     "nr": 43,
     "name": "João",
     "url": "https://api.getbible.net/v2/almeida/43.json",
-    "sha": "40d0329e6e79b3d60cfc6919d61ec190d4ba4783"
+    "sha": "d120bbebafa996dc7b7aa823c060fcc159347154"
   },
   "44": {
     "translation": "Almeida Atualizada",
@@ -525,7 +525,7 @@
     "nr": 44,
     "name": "Atos",
     "url": "https://api.getbible.net/v2/almeida/44.json",
-    "sha": "37de41c953d76c774f30712dcc49b9c2f8fab583"
+    "sha": "1e30c21187c83115a2d81616fc639468258022dc"
   },
   "45": {
     "translation": "Almeida Atualizada",
@@ -537,7 +537,7 @@
     "nr": 45,
     "name": "Romanos",
     "url": "https://api.getbible.net/v2/almeida/45.json",
-    "sha": "24d5696e83f1b3f134d65f50ca1437171581a388"
+    "sha": "64ae90643044dc6f37a2d03141522a68bd0d3ad5"
   },
   "46": {
     "translation": "Almeida Atualizada",
@@ -549,7 +549,7 @@
     "nr": 46,
     "name": "1 Coríntios",
     "url": "https://api.getbible.net/v2/almeida/46.json",
-    "sha": "c5a9a8c704631e9fd0f3c75da5fc8434ffd2cda5"
+    "sha": "fc867ec0c174732a363786a90abec8bd0412d2bd"
   },
   "47": {
     "translation": "Almeida Atualizada",
@@ -561,7 +561,7 @@
     "nr": 47,
     "name": "2 Coríntios",
     "url": "https://api.getbible.net/v2/almeida/47.json",
-    "sha": "bdbd38e4671ea9efea6ab20fa9c3e0df19eb06c8"
+    "sha": "2c342a8136ca07b26fc3aed14fa1fa5b63033339"
   },
   "48": {
     "translation": "Almeida Atualizada",
@@ -573,7 +573,7 @@
     "nr": 48,
     "name": "Gálatas",
     "url": "https://api.getbible.net/v2/almeida/48.json",
-    "sha": "23b550e83a8d8a8803c2b91915b6269b6e09c548"
+    "sha": "5ec86fae93f49a2245b37de7d6010c181c52af4f"
   },
   "49": {
     "translation": "Almeida Atualizada",
@@ -585,7 +585,7 @@
     "nr": 49,
     "name": "Efésios",
     "url": "https://api.getbible.net/v2/almeida/49.json",
-    "sha": "6338c19b0286342fcafe204924d919497d8776fc"
+    "sha": "b1c0672fb08f82fa42daca75ae0fbf0e84be68cf"
   },
   "50": {
     "translation": "Almeida Atualizada",
@@ -597,7 +597,7 @@
     "nr": 50,
     "name": "Filipenses",
     "url": "https://api.getbible.net/v2/almeida/50.json",
-    "sha": "fe6cb049f967ebc218b51e9d1999788096471066"
+    "sha": "c601a101c5af76d238088dd3971cc1158c5643f1"
   },
   "51": {
     "translation": "Almeida Atualizada",
@@ -609,7 +609,7 @@
     "nr": 51,
     "name": "Colossenses",
     "url": "https://api.getbible.net/v2/almeida/51.json",
-    "sha": "b3dc86179ab1d489b841482a48e4191605e24fee"
+    "sha": "5c4a4d2ab04dbd46e9c6aea1513c1efe771648b9"
   },
   "52": {
     "translation": "Almeida Atualizada",
@@ -621,7 +621,7 @@
     "nr": 52,
     "name": "1 Tessalonicenses",
     "url": "https://api.getbible.net/v2/almeida/52.json",
-    "sha": "4c617cdac4418ec02634beb76d1a1ba9e4ec5f67"
+    "sha": "beaa67cf3052f426a683ffe5ce0a7a5f7c056f5b"
   },
   "53": {
     "translation": "Almeida Atualizada",
@@ -633,7 +633,7 @@
     "nr": 53,
     "name": "2 Tessalonicenses",
     "url": "https://api.getbible.net/v2/almeida/53.json",
-    "sha": "a8c8d4c04174f373a947b668716a3b4d58d6958a"
+    "sha": "00c95e05c1585edfff8093e099891b8abb210777"
   },
   "54": {
     "translation": "Almeida Atualizada",
@@ -645,7 +645,7 @@
     "nr": 54,
     "name": "1 Timóteo",
     "url": "https://api.getbible.net/v2/almeida/54.json",
-    "sha": "73de6f5dab342141a8d5e85648df207c35df7d58"
+    "sha": "a4cd318076439c340b2c49c97ac38a6bb559f948"
   },
   "55": {
     "translation": "Almeida Atualizada",
@@ -657,7 +657,7 @@
     "nr": 55,
     "name": "2 Timóteo",
     "url": "https://api.getbible.net/v2/almeida/55.json",
-    "sha": "c5cb32b41066790ee96f930bf97777c62d3fd644"
+    "sha": "d0376fdd86e59de3a95190de3a7728a220256d25"
   },
   "56": {
     "translation": "Almeida Atualizada",
@@ -669,7 +669,7 @@
     "nr": 56,
     "name": "Tito",
     "url": "https://api.getbible.net/v2/almeida/56.json",
-    "sha": "56f943c52f7ae3978bebb9981ec114661f56a5f4"
+    "sha": "3f037f46abfb75b67f9f28fbd7b8c8d03cc315f0"
   },
   "57": {
     "translation": "Almeida Atualizada",
@@ -681,7 +681,7 @@
     "nr": 57,
     "name": "Filemom",
     "url": "https://api.getbible.net/v2/almeida/57.json",
-    "sha": "c2064a3ba830c8dddabec7cac233a2e4d2db8c50"
+    "sha": "c727eb9098119fc621f20d07daf1a5fa09299b98"
   },
   "58": {
     "translation": "Almeida Atualizada",
@@ -693,7 +693,7 @@
     "nr": 58,
     "name": "Hebreus",
     "url": "https://api.getbible.net/v2/almeida/58.json",
-    "sha": "c141e6b120abe3305e5de62ea11f4e6d66a08ce2"
+    "sha": "262991fa455f12ab29152f23e231be72edae2368"
   },
   "59": {
     "translation": "Almeida Atualizada",
@@ -705,7 +705,7 @@
     "nr": 59,
     "name": "Tiago",
     "url": "https://api.getbible.net/v2/almeida/59.json",
-    "sha": "22811cde569f1c599c6f7968f6b8af8a8fb00f9c"
+    "sha": "3c32d9e202e5e51337edfe54bcdb3258837d2a8b"
   },
   "60": {
     "translation": "Almeida Atualizada",
@@ -717,7 +717,7 @@
     "nr": 60,
     "name": "1 Pedro",
     "url": "https://api.getbible.net/v2/almeida/60.json",
-    "sha": "fc8e5faa21fe24a6697a0479fab7ab2f9022d3f2"
+    "sha": "6ce76ff216b966dc1eabcf901c73909edf6a72a0"
   },
   "61": {
     "translation": "Almeida Atualizada",
@@ -729,7 +729,7 @@
     "nr": 61,
     "name": "2 Pedro",
     "url": "https://api.getbible.net/v2/almeida/61.json",
-    "sha": "84c694057c6b221cec97cd5c1aa1bc4427b58920"
+    "sha": "27b0399e790aa81444f05367d31965d58bab5267"
   },
   "62": {
     "translation": "Almeida Atualizada",
@@ -741,7 +741,7 @@
     "nr": 62,
     "name": "1 João",
     "url": "https://api.getbible.net/v2/almeida/62.json",
-    "sha": "1fd1a217cc3e94927d0ebdac40ee62f49c7514dd"
+    "sha": "04b34c20258a0963f21effee60fb6442792afb2e"
   },
   "63": {
     "translation": "Almeida Atualizada",
@@ -753,7 +753,7 @@
     "nr": 63,
     "name": "2 João",
     "url": "https://api.getbible.net/v2/almeida/63.json",
-    "sha": "d73c113f4fe45bc5c5b687cf2321aaeab83b24cc"
+    "sha": "c1637bdcae8a8e827afd8189134017388efb8aaa"
   },
   "64": {
     "translation": "Almeida Atualizada",
@@ -765,7 +765,7 @@
     "nr": 64,
     "name": "3 João",
     "url": "https://api.getbible.net/v2/almeida/64.json",
-    "sha": "61301d80ae6359ad0caf595f1861f795a953db8e"
+    "sha": "e90bfacc3c15450686f3d6e1144153e726756244"
   },
   "65": {
     "translation": "Almeida Atualizada",
@@ -777,7 +777,7 @@
     "nr": 65,
     "name": "Judas",
     "url": "https://api.getbible.net/v2/almeida/65.json",
-    "sha": "37eca1c63f782793e71ac2af5c478a5c6f15a153"
+    "sha": "7f53ab3c78dcfa21cf7d1f31670e54900ce17966"
   },
   "66": {
     "translation": "Almeida Atualizada",
@@ -789,6 +789,6 @@
     "nr": 66,
     "name": "Apocalipse",
     "url": "https://api.getbible.net/v2/almeida/66.json",
-    "sha": "0ba4956214f55e2c525415828ac632bd79a58484"
+    "sha": "ec5390d1ef9cc70f2c8110e7f3e763ecd80e4e4e"
   }
 }

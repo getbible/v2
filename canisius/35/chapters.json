@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/canisius/35/1.json",
+    "sha": "e403938cc8a66a05fb01e3c9a5ca9dea460f2561"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/canisius/35/2.json",
+    "sha": "9e6bdaafe7eb8d3352d89d8e512d60b5a0c21a36"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/canisius/35/3.json",
+    "sha": "237298c1c988657340074fe222282f499bde4e93"
+  }
+}

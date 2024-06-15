@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Daniel 1",
     "url": "https://api.getbible.net/v2/almeida/27/1.json",
-    "sha": "78f7df195d515ac6905ab80e5f633c9f60db0026"
+    "sha": "729e590eea1da2c0ef11de4243d0a8cb1527b57b"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Daniel 2",
     "url": "https://api.getbible.net/v2/almeida/27/2.json",
-    "sha": "b7a43ad0357498cadd8874940d6062223ddfaba4"
+    "sha": "1b774784bebc63359c2605d70f78e10fad24b229"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Daniel 3",
     "url": "https://api.getbible.net/v2/almeida/27/3.json",
-    "sha": "40fa51c63be57f54fbcf4c37402d7228f8a739d2"
+    "sha": "05f6a433ce8076a4aaadd33e4960dba4a3d01f8b"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Daniel 4",
     "url": "https://api.getbible.net/v2/almeida/27/4.json",
-    "sha": "02ea6d06e6282ad0677f3194fc13af4b5602351f"
+    "sha": "1b30494a5697bb5dac6c681cdf0d809d90645028"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Daniel 5",
     "url": "https://api.getbible.net/v2/almeida/27/5.json",
-    "sha": "5a2a00d8e4a019a4ca8174967b0a44038c94e125"
+    "sha": "ecacd20cc32bb14e0e2b8462f56364597699410d"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Daniel 6",
     "url": "https://api.getbible.net/v2/almeida/27/6.json",
-    "sha": "087fde23a67d24fdf6495053779aa9848abf6797"
+    "sha": "67629872b495924f73454827f9f84a1b488dbfce"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Daniel 7",
     "url": "https://api.getbible.net/v2/almeida/27/7.json",
-    "sha": "06e0e3fe0dc0e6463129db65ea48eb180b34d0ad"
+    "sha": "2b3df74cf93eaa35a85463f2b411169dd09ea5b1"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Daniel 8",
     "url": "https://api.getbible.net/v2/almeida/27/8.json",
-    "sha": "8d592f9561bf3dcc4cd4a34be8e09c5ddf1c6f25"
+    "sha": "a788fc893c720881f592516745aae3ae80f0f6e8"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Daniel 9",
     "url": "https://api.getbible.net/v2/almeida/27/9.json",
-    "sha": "06bbbaa71a40e291a527ae3cde7374248e930f7f"
+    "sha": "db37ceaa94da71e4a49601c89e1f744ea09e68a5"
   },
   "10": {
     "translation": "Almeida Atualizada",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Daniel 10",
     "url": "https://api.getbible.net/v2/almeida/27/10.json",
-    "sha": "86e6f3dcd6829f5e0312902daed6ae3e6c90d60d"
+    "sha": "6022f984dee6a63797ac2dac2474e8938a1ac432"
   },
   "11": {
     "translation": "Almeida Atualizada",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Daniel 11",
     "url": "https://api.getbible.net/v2/almeida/27/11.json",
-    "sha": "a29c5509f60666dc91df11facf967f4d17725edf"
+    "sha": "8e8ea3b5297980b2a7b187c7a1bdad2186d27619"
   },
   "12": {
     "translation": "Almeida Atualizada",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Daniel 12",
     "url": "https://api.getbible.net/v2/almeida/27/12.json",
-    "sha": "792ce9ffeda5243bcfba99876cff8bea64338800"
+    "sha": "7eea54fbf42f2b69270633d6866a717132394cc5"
   }
 }

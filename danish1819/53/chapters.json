@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonikerbrev",
+    "chapter": 1,
+    "name": "2 Thessalonikerbrev 1",
+    "url": "https://api.getbible.net/v2/danish1819/53/1.json",
+    "sha": "1ce912dc71629be970b4e7a806191b0e6c7cf92c"
+  },
+  "2": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonikerbrev",
+    "chapter": 2,
+    "name": "2 Thessalonikerbrev 2",
+    "url": "https://api.getbible.net/v2/danish1819/53/2.json",
+    "sha": "9a76bd8bd8ddf8c5b508eea0a5e0559519e54fd6"
+  },
+  "3": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonikerbrev",
+    "chapter": 3,
+    "name": "2 Thessalonikerbrev 3",
+    "url": "https://api.getbible.net/v2/danish1819/53/3.json",
+    "sha": "cebf81ec5a9a6101f205d6d813c5fbf1a810a60a"
+  }
+}

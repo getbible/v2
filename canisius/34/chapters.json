@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://api.getbible.net/v2/canisius/34/1.json",
+    "sha": "89cb48345934ca6913f1001628ef14f9acc601a2"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://api.getbible.net/v2/canisius/34/2.json",
+    "sha": "ce1cdfcadb2523c4d6d9d5e37ffc817418489009"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://api.getbible.net/v2/canisius/34/3.json",
+    "sha": "49ccffaf5ec5f38073edd71df9e1bb0a1a2823b4"
+  }
+}

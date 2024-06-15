@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 João",
+    "chapter": 1,
+    "name": "3 João 1",
+    "url": "https://api.getbible.net/v2/livretr/64/1.json",
+    "sha": "e0e5e7092d0f901f1af29656f8aba876cacdd4b6"
+  }
+}

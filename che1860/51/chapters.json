@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/che1860/51/1.json",
+    "sha": "8e44ed67e25349b25627d80c88e8122a543b54f0"
+  },
+  "2": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/che1860/51/2.json",
+    "sha": "b43c3e37f198f93ca35fc7a5b651adf5d4b2b207"
+  },
+  "3": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/che1860/51/3.json",
+    "sha": "c4d2871aa7e28de9074d5a7cba64afe317d7621e"
+  },
+  "4": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/che1860/51/4.json",
+    "sha": "b0213acad10c69ac7154d0a551b094ec5fe8858d"
+  }
+}

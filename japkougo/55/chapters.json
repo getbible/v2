@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/japkougo/55/1.json",
+    "sha": "142e67d489c8ff8f4e1f6b1dabe60a0ee65ad720"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/japkougo/55/2.json",
+    "sha": "c17108fddc458349875c77f3da245478546b842d"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/japkougo/55/3.json",
+    "sha": "80b5580d1f60ba57c8498f0a2ee2cc097f71a1dd"
+  },
+  "4": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/japkougo/55/4.json",
+    "sha": "c99697d45b6b6767889832755e6531f914738d4e"
+  }
+}

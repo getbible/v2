@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 1,
+    "name": "Lamentações 1",
+    "url": "https://api.getbible.net/v2/livretr/25/1.json",
+    "sha": "31ce8198328d290346ab030a5c78468bff1b42e5"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 2,
+    "name": "Lamentações 2",
+    "url": "https://api.getbible.net/v2/livretr/25/2.json",
+    "sha": "dd04f1b8fe03f598d12be8cd6cdcae2c6a105139"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 3,
+    "name": "Lamentações 3",
+    "url": "https://api.getbible.net/v2/livretr/25/3.json",
+    "sha": "90cd43d24e38f49573e9be55b805b3d8b0b58e2a"
+  },
+  "4": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 4,
+    "name": "Lamentações 4",
+    "url": "https://api.getbible.net/v2/livretr/25/4.json",
+    "sha": "c2c45fcd45b3f8fe24010fec2ee1e77d9e3302d4"
+  },
+  "5": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 5,
+    "name": "Lamentações 5",
+    "url": "https://api.getbible.net/v2/livretr/25/5.json",
+    "sha": "23480b98557d9723641f22882ac2627da483baa0"
+  }
+}

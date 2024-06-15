@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/japraguet/53/1.json",
+    "sha": "10d151f4a7771463f218617e6c3c73c67a3b013c"
+  },
+  "2": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/japraguet/53/2.json",
+    "sha": "5f83c37ac520a788296f5dcdb71f02b4248458bf"
+  },
+  "3": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/japraguet/53/3.json",
+    "sha": "6ebca566ee4f309f30dfcfd744fcdcb19036fcde"
+  }
+}

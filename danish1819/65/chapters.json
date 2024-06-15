@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Judasbrevet",
+    "chapter": 1,
+    "name": "Judasbrevet 1",
+    "url": "https://api.getbible.net/v2/danish1819/65/1.json",
+    "sha": "b28a1c784dad42fe5d54abe85c604eba8795477b"
+  }
+}

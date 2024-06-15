@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Naum",
+    "chapter": 1,
+    "name": "Naum 1",
+    "url": "https://api.getbible.net/v2/livretr/34/1.json",
+    "sha": "29cc266ba9940f35ee45e43c37e65a3b9f4376db"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Naum",
+    "chapter": 2,
+    "name": "Naum 2",
+    "url": "https://api.getbible.net/v2/livretr/34/2.json",
+    "sha": "831d4827a76ceec7a7862ef78ade4eba6dd2a4ca"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Naum",
+    "chapter": 3,
+    "name": "Naum 3",
+    "url": "https://api.getbible.net/v2/livretr/34/3.json",
+    "sha": "e1c7c2f60cbae526956744221af191f75452958f"
+  }
+}

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ageu 1",
     "url": "https://api.getbible.net/v2/almeida/37/1.json",
-    "sha": "8aeb7a4252eaa76840f0f912e4e62bf13de18a58"
+    "sha": "108aa5a96d69f5c037923d498b7850d8d57d55ce"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "Ageu 2",
     "url": "https://api.getbible.net/v2/almeida/37/2.json",
-    "sha": "fdf49be41a1ffe224a9e7fa069236a43a2fd9a95"
+    "sha": "bef89a6f939f96133312b4dae26e643cb0ae67c7"
   }
 }

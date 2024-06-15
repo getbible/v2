@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 1,
+    "name": "Ruth 1",
+    "url": "https://api.getbible.net/v2/japkougo/8/1.json",
+    "sha": "7635035e63b6f35208f2587add6129719b9473ab"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 2,
+    "name": "Ruth 2",
+    "url": "https://api.getbible.net/v2/japkougo/8/2.json",
+    "sha": "ffce958c2ca0bec235cfa6cd1aa17042f2f1fc6a"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 3,
+    "name": "Ruth 3",
+    "url": "https://api.getbible.net/v2/japkougo/8/3.json",
+    "sha": "baee4ba9d0cc56bed9d986b29a52d69ec86e02b8"
+  },
+  "4": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 4,
+    "name": "Ruth 4",
+    "url": "https://api.getbible.net/v2/japkougo/8/4.json",
+    "sha": "533c6dc6062d8d1d6d84b42a3cc2ecec44bb4b8e"
+  }
+}

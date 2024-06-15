@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/koreankjv/39/1.json",
+    "sha": "c58fa5beedd4d9fb651d4bfecc9c5f5eb7aac590"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/koreankjv/39/2.json",
+    "sha": "a2d7c8202acd2e849fe96a7a297b1d8dabd87e5b"
+  },
+  "3": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/koreankjv/39/3.json",
+    "sha": "a3020aea14b9dcb2130eee62c7cfd302f61baa5c"
+  },
+  "4": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "url": "https://api.getbible.net/v2/koreankjv/39/4.json",
+    "sha": "274d15f31195a0a7320e9520e3db8084b19581d6"
+  }
+}

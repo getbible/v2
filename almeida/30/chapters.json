@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Amós 1",
     "url": "https://api.getbible.net/v2/almeida/30/1.json",
-    "sha": "04ea5317fb278d593094bc1f58fa3a9c35be26e2"
+    "sha": "79ae78abbf4f596677a41c2731802846a2ce9ca4"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Amós 2",
     "url": "https://api.getbible.net/v2/almeida/30/2.json",
-    "sha": "4e62cd5583b553d6cf63a5fc8a71b48d0aa1ee41"
+    "sha": "06b7b1ccd0120b82f944bb92c85c600bc4f5baa1"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Amós 3",
     "url": "https://api.getbible.net/v2/almeida/30/3.json",
-    "sha": "dfda1717b3f706bf1be50c189a47f5733ccd1989"
+    "sha": "fa4375fbb8b605f80e35ddc8e419d445bd00f602"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Amós 4",
     "url": "https://api.getbible.net/v2/almeida/30/4.json",
-    "sha": "d86202a6e80e0910df878582d68bdb292ec94ed4"
+    "sha": "8dfef2ef4820c43246f185ff363bda496021fb13"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Amós 5",
     "url": "https://api.getbible.net/v2/almeida/30/5.json",
-    "sha": "a1ae4e4c7e6b4cf856df0074ff3462733b70d386"
+    "sha": "2e1d1dfab6fbf5fad59595a9027977806b57638a"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Amós 6",
     "url": "https://api.getbible.net/v2/almeida/30/6.json",
-    "sha": "cecf6176eb15e0e22be9971279b2e9d5234dc14a"
+    "sha": "7a7cb8b129bf7ccb599b79a1a537f18630b83dcd"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Amós 7",
     "url": "https://api.getbible.net/v2/almeida/30/7.json",
-    "sha": "ed5c3512fb84831fe29fedf95dca2439f8f7f901"
+    "sha": "335765d05910f0c1f3e002c49d631a9a1bee10a0"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Amós 8",
     "url": "https://api.getbible.net/v2/almeida/30/8.json",
-    "sha": "aa6fcff429b591db6e28ce070023e749d7e73be6"
+    "sha": "81f6b1bf24cfe7f2ff589f411efe0f4e4f78bcc0"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "Amós 9",
     "url": "https://api.getbible.net/v2/almeida/30/9.json",
-    "sha": "c6e795bc0f08ac564f7aa7495315a2c65202c43a"
+    "sha": "c97fff01c9f00c84750a4930506ccabf9dda23c5"
   }
 }

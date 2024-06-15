@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Jude",
+    "chapter": 1,
+    "name": "Jude 1",
+    "url": "https://api.getbible.net/v2/japdenmo/65/1.json",
+    "sha": "24a10fdd8d0a745a9942a1bce1866aea1dac2f25"
+  }
+}

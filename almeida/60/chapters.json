@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Pedro 1",
     "url": "https://api.getbible.net/v2/almeida/60/1.json",
-    "sha": "c50104616a250d588740f64b4bf3431face00ae2"
+    "sha": "85f789129349ee05f57b201d6083e6a231eccae4"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Pedro 2",
     "url": "https://api.getbible.net/v2/almeida/60/2.json",
-    "sha": "93f8ac9749cc513e0d6efd81219214f7baf8fa83"
+    "sha": "4e7d9f6dcbaf371d08c183b21596d227ea067cbd"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Pedro 3",
     "url": "https://api.getbible.net/v2/almeida/60/3.json",
-    "sha": "a683590d59f96021088565c1a13fafb9023d05b0"
+    "sha": "084519fbb8d706144f35d9e5875a9cad84e63758"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Pedro 4",
     "url": "https://api.getbible.net/v2/almeida/60/4.json",
-    "sha": "ddb5973b5ab19e286d35a1c5151cd7757cf0a2b5"
+    "sha": "c228a84255b7b84c844276a10d9f9b4b656ac492"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Pedro 5",
     "url": "https://api.getbible.net/v2/almeida/60/5.json",
-    "sha": "6386f2bd555b8c75b7adea521d42dd1efa528723"
+    "sha": "3ce5d95e1c93cea86f1b54ca1b2719c591dd9d3e"
   }
 }

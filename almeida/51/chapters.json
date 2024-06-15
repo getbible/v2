@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Colossenses 1",
     "url": "https://api.getbible.net/v2/almeida/51/1.json",
-    "sha": "509da768e22f622d5dff5e5649bab3ab7c11d6c9"
+    "sha": "42a412903bc503b14a743d480bb1d76b32f093a6"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Colossenses 2",
     "url": "https://api.getbible.net/v2/almeida/51/2.json",
-    "sha": "29c5a550099cf35a08b7a69863e4e553217988ad"
+    "sha": "927199dbb9932c531198544e969744ba9a67b9b8"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Colossenses 3",
     "url": "https://api.getbible.net/v2/almeida/51/3.json",
-    "sha": "3d3dd4e4124b7e833a3dcb7610eddd721cea417c"
+    "sha": "b7610de0934695a5f3eaa5750046c1bf9b4d26c1"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Colossenses 4",
     "url": "https://api.getbible.net/v2/almeida/51/4.json",
-    "sha": "4e41275bbe1b9bf161956e54b0bff80c3c8ea428"
+    "sha": "75d3258d9c4d7a0bc6342eaf1048911f5949d131"
   }
 }

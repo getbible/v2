@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/che1860/50/1.json",
+    "sha": "fe2fc4c1287ba0531c5defd09a7060a505a1b045"
+  },
+  "2": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/che1860/50/2.json",
+    "sha": "25b34e91a62f9d5a29958d87d5a5ba35d59f43ea"
+  },
+  "3": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/che1860/50/3.json",
+    "sha": "240fb12e8ea3e34e2f3ee05bc9882f8812379938"
+  },
+  "4": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/che1860/50/4.json",
+    "sha": "490322831c6f67ccbabb77658e849445ec29de57"
+  }
+}

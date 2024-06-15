@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 57,
+    "book_name": "Filemom",
+    "chapter": 1,
+    "name": "Filemom 1",
+    "url": "https://api.getbible.net/v2/livretr/57/1.json",
+    "sha": "9a28a4260a20839044859d425c11fe4237ca9070"
+  }
+}

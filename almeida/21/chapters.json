@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Eclesiastes 1",
     "url": "https://api.getbible.net/v2/almeida/21/1.json",
-    "sha": "338b0f8450278c2260ed5b4d21056467ee89e40a"
+    "sha": "bd1087ef4073ccf37a209cf387d38aed50f9a86d"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Eclesiastes 2",
     "url": "https://api.getbible.net/v2/almeida/21/2.json",
-    "sha": "5013608dfd4b503e54d5fb2e130606b5ef7f07c1"
+    "sha": "3822707034d541c2d4bc660e8761c354cd148cdd"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Eclesiastes 3",
     "url": "https://api.getbible.net/v2/almeida/21/3.json",
-    "sha": "4abd4c360214ccc349c7fe62f1ced48ded91dd08"
+    "sha": "c25195a4ae3866c01b9bf0a6fc126a49f12a475c"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Eclesiastes 4",
     "url": "https://api.getbible.net/v2/almeida/21/4.json",
-    "sha": "f2349dca407cba974100a3bda140219b0c3b4f10"
+    "sha": "e3f9c8a7805ba7a5b06f4f97117617ea4482deb3"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Eclesiastes 5",
     "url": "https://api.getbible.net/v2/almeida/21/5.json",
-    "sha": "388c2759308167418a3e94174876986af1d6b0ae"
+    "sha": "2695d520f00a22140cb4df442413d0f79215f606"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Eclesiastes 6",
     "url": "https://api.getbible.net/v2/almeida/21/6.json",
-    "sha": "9665ec53f27633b6a6e199c323fbcc7e02089587"
+    "sha": "5f708bb990c2181088b76ef71944f4e0a5a290c0"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Eclesiastes 7",
     "url": "https://api.getbible.net/v2/almeida/21/7.json",
-    "sha": "d5bd170a5a32a6f6a62a7c7c0008fa8821d89603"
+    "sha": "28908e135e70b7de0551f8736419bd4a476217fe"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Eclesiastes 8",
     "url": "https://api.getbible.net/v2/almeida/21/8.json",
-    "sha": "32906d7b1ec5f513a53bdf0f7b2f91d1ce019cf4"
+    "sha": "ea9e743a00c16273549a67a90a4efeaf8fba5268"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Eclesiastes 9",
     "url": "https://api.getbible.net/v2/almeida/21/9.json",
-    "sha": "bd6732d3fb71927c92ebc2576a1979626d48d0f6"
+    "sha": "7b8ef4433793a8ea0423037ded32e0c9f0016ebc"
   },
   "10": {
     "translation": "Almeida Atualizada",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Eclesiastes 10",
     "url": "https://api.getbible.net/v2/almeida/21/10.json",
-    "sha": "3f3cbf41ed3fa0ea0ab6e876b8990c7fa08137e6"
+    "sha": "6bf84d5c2a52f098ff9cdf1837049005c06083f6"
   },
   "11": {
     "translation": "Almeida Atualizada",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Eclesiastes 11",
     "url": "https://api.getbible.net/v2/almeida/21/11.json",
-    "sha": "0caecb7e25b188f7afbdc1eba1f212169a8dbd9d"
+    "sha": "25683c5263965021c642a06713014fbad4288670"
   },
   "12": {
     "translation": "Almeida Atualizada",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Eclesiastes 12",
     "url": "https://api.getbible.net/v2/almeida/21/12.json",
-    "sha": "5a91e2de912d3aceab19e733ae2a2240a99ab1e1"
+    "sha": "0f301fb9327f55d2b38fabd5058a0e19216dcb06"
   }
 }

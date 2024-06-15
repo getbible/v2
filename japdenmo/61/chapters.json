@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/japdenmo/61/1.json",
+    "sha": "d1984c7be33c1f21312e0457aaac6e4a91b453af"
+  },
+  "2": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/japdenmo/61/2.json",
+    "sha": "93f7b3975cb71591655b6e96e8cbba21da568524"
+  },
+  "3": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/japdenmo/61/3.json",
+    "sha": "2f4ae22c957a8ab2202858f48dc5638ebb96b7f6"
+  }
+}

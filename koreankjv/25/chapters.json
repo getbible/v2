@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 1,
+    "name": "Lamentations 1",
+    "url": "https://api.getbible.net/v2/koreankjv/25/1.json",
+    "sha": "bdd432987116c510e72908cdbc81cce2371bea42"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 2,
+    "name": "Lamentations 2",
+    "url": "https://api.getbible.net/v2/koreankjv/25/2.json",
+    "sha": "5e002a4fe9b31abc361f823946d31b40effe0c12"
+  },
+  "3": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 3,
+    "name": "Lamentations 3",
+    "url": "https://api.getbible.net/v2/koreankjv/25/3.json",
+    "sha": "24a8eaaeee4a312b51455589e2e1f116275378db"
+  },
+  "4": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 4,
+    "name": "Lamentations 4",
+    "url": "https://api.getbible.net/v2/koreankjv/25/4.json",
+    "sha": "0ff27371454a7104340b8cfbc687931957f5c7b6"
+  },
+  "5": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 5,
+    "name": "Lamentations 5",
+    "url": "https://api.getbible.net/v2/koreankjv/25/5.json",
+    "sha": "38d93f82b20f127e767b0a549b0d161778fd072b"
+  }
+}

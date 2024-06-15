@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://api.getbible.net/v2/koreankjv/29/1.json",
+    "sha": "0022b3bb4161fc9ba16374f6044f6085dbad45e1"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://api.getbible.net/v2/koreankjv/29/2.json",
+    "sha": "e3379115e4b95caec6dab588ada4a88584c70fcc"
+  },
+  "3": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://api.getbible.net/v2/koreankjv/29/3.json",
+    "sha": "38cfd6e93a98e5d7eda42f64997eebd63f9ec03d"
+  }
+}

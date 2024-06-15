@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/canisius/56/1.json",
+    "sha": "d20221b8eb3fba3b2c7b22f25f55510a05bd8d4d"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/canisius/56/2.json",
+    "sha": "53740a7053d45289c02a3f9977a73af838713645"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/canisius/56/3.json",
+    "sha": "0b1838d342f0143e7cc0be5d34b8bed464592f1b"
+  }
+}

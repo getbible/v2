@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://api.getbible.net/v2/japbungo/36/1.json",
+    "sha": "dacbd990ae59b2c9586e7e5fff411585fcdf0a90"
+  },
+  "2": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://api.getbible.net/v2/japbungo/36/2.json",
+    "sha": "1145cae41961475b511f9d2b68809aa9d2d3e284"
+  },
+  "3": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://api.getbible.net/v2/japbungo/36/3.json",
+    "sha": "9d9473e8473b4fb022d1dc6ad351b304f6e2f553"
+  }
+}

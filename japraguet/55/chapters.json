@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/japraguet/55/1.json",
+    "sha": "8bb615893b55c3430d133d5a281680c4bad46bdf"
+  },
+  "2": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/japraguet/55/2.json",
+    "sha": "f22681ea7828f778de0d78ffe1c6a722d2ad7adb"
+  },
+  "3": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/japraguet/55/3.json",
+    "sha": "c445cd22f52a71e5b1d51982b529b6f86d948e17"
+  },
+  "4": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/japraguet/55/4.json",
+    "sha": "b4a0e175dc20ff0720bd649c2f5dc51e3887be7c"
+  }
+}

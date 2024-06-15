@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/japkougo/59/1.json",
+    "sha": "160ac018680ee3925be9b483748bce8edb30bcb1"
+  },
+  "2": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/japkougo/59/2.json",
+    "sha": "b3d3da7dba6dc737aaaff2ba8ab8c480a56a79e3"
+  },
+  "3": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/japkougo/59/3.json",
+    "sha": "8d2745e712a1af2135fca23df3369362c2363956"
+  },
+  "4": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/japkougo/59/4.json",
+    "sha": "4780aa80043d2ca749ce8e994984785c4bb01cd2"
+  },
+  "5": {
+    "translation": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+    "abbreviation": "japkougo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/japkougo/59/5.json",
+    "sha": "3416a4bde45ff47676d83d91c4f3f682a21b5003"
+  }
+}

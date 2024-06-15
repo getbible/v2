@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossenses",
+    "chapter": 1,
+    "name": "Colossenses 1",
+    "url": "https://api.getbible.net/v2/livretr/51/1.json",
+    "sha": "f2426f3f131eb747e3727d445b6a32628771e4e0"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossenses",
+    "chapter": 2,
+    "name": "Colossenses 2",
+    "url": "https://api.getbible.net/v2/livretr/51/2.json",
+    "sha": "c502dea985b08c3fe39e823e4820845cec150712"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossenses",
+    "chapter": 3,
+    "name": "Colossenses 3",
+    "url": "https://api.getbible.net/v2/livretr/51/3.json",
+    "sha": "dd48756162e5c531c847f420cbbbc524f0476b28"
+  },
+  "4": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossenses",
+    "chapter": 4,
+    "name": "Colossenses 4",
+    "url": "https://api.getbible.net/v2/livretr/51/4.json",
+    "sha": "66b743d0b0e168bdad9cf5a6bcba752fe3799eac"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuks Bog",
+    "chapter": 1,
+    "name": "Habakkuks Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/35/1.json",
+    "sha": "f9aa9dd5e80885e6b9e14cb3c75ff864bca7f326"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuks Bog",
+    "chapter": 2,
+    "name": "Habakkuks Bog 2",
+    "url": "https://api.getbible.net/v2/danish1871/35/2.json",
+    "sha": "218cebe75b28e9e5c2d3aa57ec9cc03df6707449"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuks Bog",
+    "chapter": 3,
+    "name": "Habakkuks Bog 3",
+    "url": "https://api.getbible.net/v2/danish1871/35/3.json",
+    "sha": "dae628fa694a36e47aff197dee6749b90b6f4551"
+  }
+}

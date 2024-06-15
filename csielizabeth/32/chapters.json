@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/32/1.json",
+    "sha": "e59c65537a29944c0c118bd21fe49de6c59176b2"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/32/2.json",
+    "sha": "28b6c03c80d979069e86fe253477cf0b5277fc27"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/32/3.json",
+    "sha": "7736a1ce7a50c20cda717b27eaf95cc6a57e9875"
+  },
+  "4": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/csielizabeth/32/4.json",
+    "sha": "f932c55bbe2b96490303d16fbd805d4df24bb444"
+  }
+}

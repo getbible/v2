@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 Johannesbrev",
+    "chapter": 1,
+    "name": "1 Johannesbrev 1",
+    "url": "https://api.getbible.net/v2/danish1819/62/1.json",
+    "sha": "084bb75660a81435528721c1db66536d162d24f1"
+  },
+  "2": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 Johannesbrev",
+    "chapter": 2,
+    "name": "1 Johannesbrev 2",
+    "url": "https://api.getbible.net/v2/danish1819/62/2.json",
+    "sha": "402ad4724c5a0ce2b361af1d4e5a9e6e5b83fe43"
+  },
+  "3": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 Johannesbrev",
+    "chapter": 3,
+    "name": "1 Johannesbrev 3",
+    "url": "https://api.getbible.net/v2/danish1819/62/3.json",
+    "sha": "6c4271fd7c6fe2678c974eecec69305ea4421f5e"
+  },
+  "4": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 Johannesbrev",
+    "chapter": 4,
+    "name": "1 Johannesbrev 4",
+    "url": "https://api.getbible.net/v2/danish1819/62/4.json",
+    "sha": "1beedfe1639fa1d320ca5efa1bab084af63dc94e"
+  },
+  "5": {
+    "translation": "Danish New Testament from 1819 with original orthography",
+    "abbreviation": "danish1819",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 Johannesbrev",
+    "chapter": 5,
+    "name": "1 Johannesbrev 5",
+    "url": "https://api.getbible.net/v2/danish1819/62/5.json",
+    "sha": "3b8714e6d1eac37b4a4e0397d1143281aefb581f"
+  }
+}

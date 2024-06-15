@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/che1860/56/1.json",
+    "sha": "ff72bc97abe53ff4a5d9abf359b0ef7a68b31233"
+  },
+  "2": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/che1860/56/2.json",
+    "sha": "eea9435476cedaf59c2817ee57d0a97e617bf8be"
+  },
+  "3": {
+    "translation": "Cherokee New Testament (1860) with Sequoyah transliterated forms",
+    "abbreviation": "che1860",
+    "lang": "chr",
+    "language": "Cherokee",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/che1860/56/3.json",
+    "sha": "d4e379d49b79957468eaa1281c8592723e45ae8a"
+  }
+}

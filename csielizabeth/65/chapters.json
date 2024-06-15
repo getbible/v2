@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Jude",
+    "chapter": 1,
+    "name": "Jude 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/65/1.json",
+    "sha": "d37f1a69fa1df392b36539268480f017966e96d1"
+  }
+}

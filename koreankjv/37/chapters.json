@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://api.getbible.net/v2/koreankjv/37/1.json",
+    "sha": "4e13a6efff27a48a4dcceca2201df4f50965a46f"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://api.getbible.net/v2/koreankjv/37/2.json",
+    "sha": "c9af611975dfc61eb58997f2a2e19f102151e66e"
+  }
+}

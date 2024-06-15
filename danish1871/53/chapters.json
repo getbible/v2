@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonikerbrev",
+    "chapter": 1,
+    "name": "2 Thessalonikerbrev 1",
+    "url": "https://api.getbible.net/v2/danish1871/53/1.json",
+    "sha": "e1d9140a5d63e6d5eddc8dd1e83580059c63cd62"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonikerbrev",
+    "chapter": 2,
+    "name": "2 Thessalonikerbrev 2",
+    "url": "https://api.getbible.net/v2/danish1871/53/2.json",
+    "sha": "501ced87bd9e619f82584977df85e50cc4583633"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonikerbrev",
+    "chapter": 3,
+    "name": "2 Thessalonikerbrev 3",
+    "url": "https://api.getbible.net/v2/danish1871/53/3.json",
+    "sha": "420305b62f48e97f06305384d9a19550c1af64be"
+  }
+}

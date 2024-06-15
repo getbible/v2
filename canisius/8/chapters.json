@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 1,
+    "name": "Ruth 1",
+    "url": "https://api.getbible.net/v2/canisius/8/1.json",
+    "sha": "630bc2dc375ea39ba0ba928d189f10dd2310668d"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 2,
+    "name": "Ruth 2",
+    "url": "https://api.getbible.net/v2/canisius/8/2.json",
+    "sha": "1f16c5dd5e9cf6af0d80daa5caa179f464ca4c6b"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 3,
+    "name": "Ruth 3",
+    "url": "https://api.getbible.net/v2/canisius/8/3.json",
+    "sha": "eeb49042b54713528350b8b37be695fbaad4c01e"
+  },
+  "4": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 4,
+    "name": "Ruth 4",
+    "url": "https://api.getbible.net/v2/canisius/8/4.json",
+    "sha": "7d070fa2bbcc14cb2cf32e75058162014226a05c"
+  }
+}

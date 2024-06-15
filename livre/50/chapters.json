@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipenses",
+    "chapter": 1,
+    "name": "Filipenses 1",
+    "url": "https://api.getbible.net/v2/livre/50/1.json",
+    "sha": "2d4511c3b1d9df205131a576879a58d59a4eae57"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipenses",
+    "chapter": 2,
+    "name": "Filipenses 2",
+    "url": "https://api.getbible.net/v2/livre/50/2.json",
+    "sha": "2ac0792ac588ca8464628bc1d04032ad4579db2b"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipenses",
+    "chapter": 3,
+    "name": "Filipenses 3",
+    "url": "https://api.getbible.net/v2/livre/50/3.json",
+    "sha": "d41cea3a801033b6997876333c644451bc5be206"
+  },
+  "4": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipenses",
+    "chapter": 4,
+    "name": "Filipenses 4",
+    "url": "https://api.getbible.net/v2/livre/50/4.json",
+    "sha": "68a2926949a446cee18a8abc0671cc9c371db6a0"
+  }
+}

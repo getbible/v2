@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zefanias' Bog",
+    "chapter": 1,
+    "name": "Zefanias' Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/36/1.json",
+    "sha": "71b7a42076ce4151ac4699992c306ba6fe3c1d7a"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zefanias' Bog",
+    "chapter": 2,
+    "name": "Zefanias' Bog 2",
+    "url": "https://api.getbible.net/v2/danish1871/36/2.json",
+    "sha": "56d7878eab9279dab7295dae381a8e2f86bb88cf"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zefanias' Bog",
+    "chapter": 3,
+    "name": "Zefanias' Bog 3",
+    "url": "https://api.getbible.net/v2/danish1871/36/3.json",
+    "sha": "de48b3fcb13635d7923f8ebaf49542b87f7087f8"
+  }
+}

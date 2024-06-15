@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 Johannesbrev",
+    "chapter": 1,
+    "name": "3 Johannesbrev 1",
+    "url": "https://api.getbible.net/v2/danish1871/64/1.json",
+    "sha": "9b75fc2e62b2aeafac959d9e6a6b163cb1794ce7"
+  }
+}

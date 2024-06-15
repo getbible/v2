@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 63,
+    "book_name": "2 João",
+    "chapter": 1,
+    "name": "2 João 1",
+    "url": "https://api.getbible.net/v2/livretr/63/1.json",
+    "sha": "15785f1b308a9a29b8b7c41cbe7b625612fdf467"
+  }
+}

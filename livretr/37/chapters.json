@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Ageu",
+    "chapter": 1,
+    "name": "Ageu 1",
+    "url": "https://api.getbible.net/v2/livretr/37/1.json",
+    "sha": "ae3abb19ee59d66365e2b8fac584454807c8a114"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Ageu",
+    "chapter": 2,
+    "name": "Ageu 2",
+    "url": "https://api.getbible.net/v2/livretr/37/2.json",
+    "sha": "275b85f5f00f0863c89a08f9e0ef281d3f807fc2"
+  }
+}

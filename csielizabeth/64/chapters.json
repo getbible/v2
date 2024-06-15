@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 John",
+    "chapter": 1,
+    "name": "3 John 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/64/1.json",
+    "sha": "e62be5af94c298685c9b20e932987e292681bcbd"
+  }
+}

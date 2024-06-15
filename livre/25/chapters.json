@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 1,
+    "name": "Lamentações 1",
+    "url": "https://api.getbible.net/v2/livre/25/1.json",
+    "sha": "c355962cabb7ebdd21006578a1538eda89a5a52f"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 2,
+    "name": "Lamentações 2",
+    "url": "https://api.getbible.net/v2/livre/25/2.json",
+    "sha": "78ecca556477d254d4679d4e9b997216878e99c1"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 3,
+    "name": "Lamentações 3",
+    "url": "https://api.getbible.net/v2/livre/25/3.json",
+    "sha": "17b6322081c5e55a9a3a7d1b972f88f7417a3043"
+  },
+  "4": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 4,
+    "name": "Lamentações 4",
+    "url": "https://api.getbible.net/v2/livre/25/4.json",
+    "sha": "4118dd0f55fa3ec776101718c26643bbaecaedb9"
+  },
+  "5": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentações",
+    "chapter": 5,
+    "name": "Lamentações 5",
+    "url": "https://api.getbible.net/v2/livre/25/5.json",
+    "sha": "44734f0da900aa87884dbc035f17f66c9d6a3ed5"
+  }
+}

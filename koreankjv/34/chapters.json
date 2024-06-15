@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://api.getbible.net/v2/koreankjv/34/1.json",
+    "sha": "7519dec7c89a818ecfba4b9d8cfb6668f48f9972"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://api.getbible.net/v2/koreankjv/34/2.json",
+    "sha": "a067473e940a5fe577299c96dc993439b38f0277"
+  },
+  "3": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://api.getbible.net/v2/koreankjv/34/3.json",
+    "sha": "aa8f8e32c0e0d8205302c912b570ab4cb0df515f"
+  }
+}

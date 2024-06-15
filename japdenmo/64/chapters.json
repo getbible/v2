@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 John",
+    "chapter": 1,
+    "name": "3 John 1",
+    "url": "https://api.getbible.net/v2/japdenmo/64/1.json",
+    "sha": "46f47ea941530e6864a381e67f14483f28cfca0d"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 1,
+    "name": "1 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/koreankjv/52/1.json",
+    "sha": "959c98e1ae85cb3c0141007366341bab55e1ecb2"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "name": "1 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/koreankjv/52/2.json",
+    "sha": "354216ca70e765443afb8827bf9ae54a50b4812a"
+  },
+  "3": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 3,
+    "name": "1 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/koreankjv/52/3.json",
+    "sha": "a457273f85a31e7240ead5063d6ff06cb946f698"
+  },
+  "4": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "name": "1 Thessalonians 4",
+    "url": "https://api.getbible.net/v2/koreankjv/52/4.json",
+    "sha": "e47047356ce05ba9209385baa02e2c919703ea01"
+  },
+  "5": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "name": "1 Thessalonians 5",
+    "url": "https://api.getbible.net/v2/koreankjv/52/5.json",
+    "sha": "dbc90f41f1e7fc2233bdb2a34d97910b00b27552"
+  }
+}

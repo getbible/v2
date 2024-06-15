@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/japraguet/61/1.json",
+    "sha": "fdb232285c59bf63ced4fc9087b5c08a556269ad"
+  },
+  "2": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/japraguet/61/2.json",
+    "sha": "26d94cf20ed945114683e900c79cb235ab222d0e"
+  },
+  "3": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/japraguet/61/3.json",
+    "sha": "b241ac0b899c7d520361f6fb51b8debd213c460b"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/59/1.json",
+    "sha": "1d86148296e49c194342757a290773d9d89569df"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/59/2.json",
+    "sha": "b465e1de1809e34ad1c08ab1afbbf2c52b5db42a"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/59/3.json",
+    "sha": "0e39264a0ece357ece82d865e4587c26dfc21fb9"
+  },
+  "4": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/csielizabeth/59/4.json",
+    "sha": "e56b3b3b134052fa5f93912ac480537692bca089"
+  },
+  "5": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/csielizabeth/59/5.json",
+    "sha": "64574863088b882045e9d8bceafd8e19eaf08f00"
+  }
+}

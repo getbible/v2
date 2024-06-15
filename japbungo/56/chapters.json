@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/japbungo/56/1.json",
+    "sha": "d3883c3da877e0d8945ba8c390feecfeb31213dc"
+  },
+  "2": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/japbungo/56/2.json",
+    "sha": "1c1bd52c97e616c25aa40a75688cd75f1be441c8"
+  },
+  "3": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/japbungo/56/3.json",
+    "sha": "fcd21e769cefd6a44925a053c54291819a11597f"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/canisius/60/1.json",
+    "sha": "dcd5d8a9eea3cf3ce45eb6830eb557707dd38d1b"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/canisius/60/2.json",
+    "sha": "051a387303f16a506abb56451ccd10557c884764"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/canisius/60/3.json",
+    "sha": "1b002163d95d42726da9ff1c5ba3c1914a116d08"
+  },
+  "4": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/canisius/60/4.json",
+    "sha": "c06044987a38b68f3decd03c52ed03c937eb5fe3"
+  },
+  "5": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/canisius/60/5.json",
+    "sha": "6b15dc2f33f7868300be9046a7e711131c2dc46e"
+  }
+}

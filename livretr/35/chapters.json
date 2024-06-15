@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habacuque",
+    "chapter": 1,
+    "name": "Habacuque 1",
+    "url": "https://api.getbible.net/v2/livretr/35/1.json",
+    "sha": "407af5c216878f6a52a9110ede5abe92f494af01"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habacuque",
+    "chapter": 2,
+    "name": "Habacuque 2",
+    "url": "https://api.getbible.net/v2/livretr/35/2.json",
+    "sha": "b443773b2ce52b69f0882d76c977c4c1ce3dcf83"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habacuque",
+    "chapter": 3,
+    "name": "Habacuque 3",
+    "url": "https://api.getbible.net/v2/livretr/35/3.json",
+    "sha": "aee5ded25b9858184c2d679e28ff2edada1e60e6"
+  }
+}

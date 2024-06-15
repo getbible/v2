@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/canisius/39/1.json",
+    "sha": "d1d79609ac85037440deefa0cace295e35595688"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/canisius/39/2.json",
+    "sha": "b4e7a6d0600abd4b3da777afaf9e980cc05baea5"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/canisius/39/3.json",
+    "sha": "a08b32385ee53305a279ee42b38d52e9f5c2cfe3"
+  },
+  "4": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "url": "https://api.getbible.net/v2/canisius/39/4.json",
+    "sha": "68108aa9182bbabed361698a4d853f48d27435bf"
+  }
+}

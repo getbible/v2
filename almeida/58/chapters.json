@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Hebreus 1",
     "url": "https://api.getbible.net/v2/almeida/58/1.json",
-    "sha": "1080654f760a45eaaccdd6343d3419c10fda05f6"
+    "sha": "95e5dd5ffef86b4035370c64e1422a08616320dc"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Hebreus 2",
     "url": "https://api.getbible.net/v2/almeida/58/2.json",
-    "sha": "541731362bc94f31453164e41cb8d4140075f05f"
+    "sha": "28b0471b9b2c157ccc36e02622577b8574216175"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Hebreus 3",
     "url": "https://api.getbible.net/v2/almeida/58/3.json",
-    "sha": "cd1af4c522b8e8935af3448e8656b84ff52e1b66"
+    "sha": "735b7b8d5b97c0227f376694753f145d579af02e"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Hebreus 4",
     "url": "https://api.getbible.net/v2/almeida/58/4.json",
-    "sha": "02568b0978dabeca5c3f9823947b5f7f94ba3a46"
+    "sha": "e029c717051b035fbf551b34b1ccf476b0ac63af"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Hebreus 5",
     "url": "https://api.getbible.net/v2/almeida/58/5.json",
-    "sha": "81754938deded261ffae77e80029c883a5499e46"
+    "sha": "5d97904201e1f1c767c90ed6aacee264c2b759b6"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Hebreus 6",
     "url": "https://api.getbible.net/v2/almeida/58/6.json",
-    "sha": "2ab10d357826c7ed286e82a913c646afd94badd2"
+    "sha": "7abb1a6f8e539856f86690dd0e051ac9cfd1d9f9"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Hebreus 7",
     "url": "https://api.getbible.net/v2/almeida/58/7.json",
-    "sha": "118608d267aab221a1d37bad394a934b0195ae90"
+    "sha": "2b8c821bdb80ecf2fc387fc6b328d399360dc6f4"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Hebreus 8",
     "url": "https://api.getbible.net/v2/almeida/58/8.json",
-    "sha": "4879f13074c96a0efe6c6fc6b16c274cbae5d5a1"
+    "sha": "5b69736119361136b4d3205b27b10e72696e6256"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Hebreus 9",
     "url": "https://api.getbible.net/v2/almeida/58/9.json",
-    "sha": "1a4b78d996f673ff011f614e0bac33524eed727e"
+    "sha": "b08770661844d54846b3dc45562c0db438ed36c3"
   },
   "10": {
     "translation": "Almeida Atualizada",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Hebreus 10",
     "url": "https://api.getbible.net/v2/almeida/58/10.json",
-    "sha": "40c91aa1147437a94dfa1abf1fe31059e883170f"
+    "sha": "22400387b6e0a5edf0d75eadbd7d84f1d1898046"
   },
   "11": {
     "translation": "Almeida Atualizada",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Hebreus 11",
     "url": "https://api.getbible.net/v2/almeida/58/11.json",
-    "sha": "390a1ca3aa82e40fcf79471677f6b8299f0388c4"
+    "sha": "6e2f805665dc9589489f14786f64b3ad090a3ccd"
   },
   "12": {
     "translation": "Almeida Atualizada",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Hebreus 12",
     "url": "https://api.getbible.net/v2/almeida/58/12.json",
-    "sha": "e4278365f539cf6ca3324aae742698586eeef2d5"
+    "sha": "5c7ac43f950eefa208e1b7d90fd418ec1debd341"
   },
   "13": {
     "translation": "Almeida Atualizada",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Hebreus 13",
     "url": "https://api.getbible.net/v2/almeida/58/13.json",
-    "sha": "80a2e81594cc4a6ba7b0044d0b583458fcf67bbf"
+    "sha": "af4ec06e70b6c4c0803af02ac6ae8c24ad02c6bf"
   }
 }

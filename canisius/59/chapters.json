@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/canisius/59/1.json",
+    "sha": "8546ae266d9b89ad398e02845fad9cc00a18b204"
+  },
+  "2": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/canisius/59/2.json",
+    "sha": "6e615ebfda330fd09e22fb4807131599f2bd687b"
+  },
+  "3": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/canisius/59/3.json",
+    "sha": "a5c3cfc81c2309d9abf3b09bffb4ffd499b39c69"
+  },
+  "4": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/canisius/59/4.json",
+    "sha": "84eb15ac1550088289750bf9ddce6a7bdaab1256"
+  },
+  "5": {
+    "translation": "Petrus Canisius Translation",
+    "abbreviation": "canisius",
+    "lang": "nl",
+    "language": "Dutch",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/canisius/59/5.json",
+    "sha": "b9a88628cbb79ec8a746580f7c735935051dad9d"
+  }
+}

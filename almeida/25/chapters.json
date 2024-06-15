@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Lamentações 1",
     "url": "https://api.getbible.net/v2/almeida/25/1.json",
-    "sha": "f1ef161e034a59e508498cd80de6053ca67303db"
+    "sha": "44c0369146f5c8e7124af00a787c89973bd45223"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Lamentações 2",
     "url": "https://api.getbible.net/v2/almeida/25/2.json",
-    "sha": "b4c45f474b518f1556b66c997bc62c4e76738fbe"
+    "sha": "37251239a68fecfd02eb3ebd8697ec50ef92ba35"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Lamentações 3",
     "url": "https://api.getbible.net/v2/almeida/25/3.json",
-    "sha": "bafe418fd6677b6f263d6b57cb6354c48fdd119f"
+    "sha": "86a69c77217687efd28f87995e767a39de80f003"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Lamentações 4",
     "url": "https://api.getbible.net/v2/almeida/25/4.json",
-    "sha": "1d21dbc7a0e646608d38812b414a9c6ef359ebd9"
+    "sha": "0080996ce270e29dfaf5442e537afb5d8850dc78"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Lamentações 5",
     "url": "https://api.getbible.net/v2/almeida/25/5.json",
-    "sha": "50cc22ffdd629020aa2610d0b07ab207ed4de7b6"
+    "sha": "09ee0446dce778f4604df9a6bed0b966d5f33f75"
   }
 }

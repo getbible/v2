@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipperbrevet",
+    "chapter": 1,
+    "name": "Filipperbrevet 1",
+    "url": "https://api.getbible.net/v2/danish1871/50/1.json",
+    "sha": "c213522708087eb61297ce6f5c7f18d1bf5bff57"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipperbrevet",
+    "chapter": 2,
+    "name": "Filipperbrevet 2",
+    "url": "https://api.getbible.net/v2/danish1871/50/2.json",
+    "sha": "fbb169bd6d9d909be015142224112951fd230ab3"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipperbrevet",
+    "chapter": 3,
+    "name": "Filipperbrevet 3",
+    "url": "https://api.getbible.net/v2/danish1871/50/3.json",
+    "sha": "6029c586629cf7722bbe106866d0488d24478087"
+  },
+  "4": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Filipperbrevet",
+    "chapter": 4,
+    "name": "Filipperbrevet 4",
+    "url": "https://api.getbible.net/v2/danish1871/50/4.json",
+    "sha": "d7f50ba4bb3967b8db08d0d58fbf5efe1732c558"
+  }
+}

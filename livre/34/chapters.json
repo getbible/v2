@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Naum",
+    "chapter": 1,
+    "name": "Naum 1",
+    "url": "https://api.getbible.net/v2/livre/34/1.json",
+    "sha": "06f33c0b20acd4599866725320ee6de7ae9fef93"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Naum",
+    "chapter": 2,
+    "name": "Naum 2",
+    "url": "https://api.getbible.net/v2/livre/34/2.json",
+    "sha": "8f1ed49393fd4210f23363c8dcc2fb3261eb8bf3"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Naum",
+    "chapter": 3,
+    "name": "Naum 3",
+    "url": "https://api.getbible.net/v2/livre/34/3.json",
+    "sha": "1d5800bd750e0a32da735bc0bfd5d9f61cdb592b"
+  }
+}

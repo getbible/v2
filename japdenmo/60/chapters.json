@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/japdenmo/60/1.json",
+    "sha": "f52508bb75ceefaaaf1f5880846b35c609bb9d32"
+  },
+  "2": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/japdenmo/60/2.json",
+    "sha": "24ddca18db419bfdcc76f4c7a447a53626a745a9"
+  },
+  "3": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/japdenmo/60/3.json",
+    "sha": "257032a2ebeec4fde686fd36dc43ed9413c94543"
+  },
+  "4": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/japdenmo/60/4.json",
+    "sha": "d2f472e2b5328efd12392ab000fff022c1eccf67"
+  },
+  "5": {
+    "translation": "Japanese Denmo 電網聖書",
+    "abbreviation": "japdenmo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/japdenmo/60/5.json",
+    "sha": "e31211547fe63b94880bd37f92caa94522965a3a"
+  }
+}

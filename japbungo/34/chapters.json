@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://api.getbible.net/v2/japbungo/34/1.json",
+    "sha": "47bdd3b368066e99970fe0c7a3bf7a51335ecdd9"
+  },
+  "2": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://api.getbible.net/v2/japbungo/34/2.json",
+    "sha": "ad8e56e64e4283ce53b82e29e4bc1f631a523ec5"
+  },
+  "3": {
+    "translation": "明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書",
+    "abbreviation": "japbungo",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://api.getbible.net/v2/japbungo/34/3.json",
+    "sha": "bc37b204f44ebf78d89ea147cc99d18fec741ab9"
+  }
+}

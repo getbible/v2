@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Neemias 1",
     "url": "https://api.getbible.net/v2/almeida/16/1.json",
-    "sha": "1e2680e68461df9244244eed733a2ff7643ed536"
+    "sha": "3e310b5695c805440622f6b0ab0dbfddf24e2f2c"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Neemias 2",
     "url": "https://api.getbible.net/v2/almeida/16/2.json",
-    "sha": "0a6ae4d7973e4d3649519f84705b762a31c7a12e"
+    "sha": "d89cacff998fd46b0b2fae16e94af649b95979f0"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Neemias 3",
     "url": "https://api.getbible.net/v2/almeida/16/3.json",
-    "sha": "a5bd80a2813d724af88ede80e8550126c2ddfe12"
+    "sha": "da790a2f6f68d48e035b14ac5a2ee099c1f55cc6"
   },
   "4": {
     "translation": "Almeida Atualizada",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Neemias 4",
     "url": "https://api.getbible.net/v2/almeida/16/4.json",
-    "sha": "8e5d75c6661c327859c16f406a18181d02063c9d"
+    "sha": "158e47be76f16eeb4b478af01c763a9be732f5d5"
   },
   "5": {
     "translation": "Almeida Atualizada",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Neemias 5",
     "url": "https://api.getbible.net/v2/almeida/16/5.json",
-    "sha": "72e9b125b5aa187dbbf78c816e06e57a3ed8e62e"
+    "sha": "50607e467fcc1a60f4931411204ff28aad816f1c"
   },
   "6": {
     "translation": "Almeida Atualizada",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Neemias 6",
     "url": "https://api.getbible.net/v2/almeida/16/6.json",
-    "sha": "9faeac538024fdd2a3f2abe35c864163d3a7bfab"
+    "sha": "e7de42c79c5a4f72cfdb343ae4c9eb6d95192969"
   },
   "7": {
     "translation": "Almeida Atualizada",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Neemias 7",
     "url": "https://api.getbible.net/v2/almeida/16/7.json",
-    "sha": "014ac7af4427502eaaf878d9ef22cb507325d2ab"
+    "sha": "05b0b42252378321c41d62540e19d90ef416ce91"
   },
   "8": {
     "translation": "Almeida Atualizada",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Neemias 8",
     "url": "https://api.getbible.net/v2/almeida/16/8.json",
-    "sha": "1c6fc5feab34e1bd7fc47de0084898f3c2ec5fa6"
+    "sha": "71a2204c483a97e422e35775cea41f4810cded3f"
   },
   "9": {
     "translation": "Almeida Atualizada",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Neemias 9",
     "url": "https://api.getbible.net/v2/almeida/16/9.json",
-    "sha": "03206ba927ad082fd9988e15f8a87acdf6b39062"
+    "sha": "4cfc47d6c15d1755d7fab5ec424fcf25832d7cae"
   },
   "10": {
     "translation": "Almeida Atualizada",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Neemias 10",
     "url": "https://api.getbible.net/v2/almeida/16/10.json",
-    "sha": "2c24528438bbc91518e3f793c1dfda84194c8587"
+    "sha": "e704b7664219e9d2e45485cfc792be0c13aa4c20"
   },
   "11": {
     "translation": "Almeida Atualizada",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Neemias 11",
     "url": "https://api.getbible.net/v2/almeida/16/11.json",
-    "sha": "818e67dd87dd0e0d04212c562c7b532edcf8d117"
+    "sha": "be88f354c7bc291fda50129953b683db3fd5c7a3"
   },
   "12": {
     "translation": "Almeida Atualizada",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Neemias 12",
     "url": "https://api.getbible.net/v2/almeida/16/12.json",
-    "sha": "48f76c99da8c8660ba9f40d5fb2a6154e36f2445"
+    "sha": "7af5a47e85f23217ae7e1de529257a0a692c429f"
   },
   "13": {
     "translation": "Almeida Atualizada",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Neemias 13",
     "url": "https://api.getbible.net/v2/almeida/16/13.json",
-    "sha": "4874c56c51e4828ae02b4d494488a4252abe3f5f"
+    "sha": "bf6bc5f3ccb5eb70338b47e951ef5144f523ee72"
   }
 }

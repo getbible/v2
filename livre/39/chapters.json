@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malaquias",
+    "chapter": 1,
+    "name": "Malaquias 1",
+    "url": "https://api.getbible.net/v2/livre/39/1.json",
+    "sha": "423533d62096cba19450eff3222d63a6cae699e6"
+  },
+  "2": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malaquias",
+    "chapter": 2,
+    "name": "Malaquias 2",
+    "url": "https://api.getbible.net/v2/livre/39/2.json",
+    "sha": "67eb8c819fbb9489662d0992a568c7417d6aa732"
+  },
+  "3": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malaquias",
+    "chapter": 3,
+    "name": "Malaquias 3",
+    "url": "https://api.getbible.net/v2/livre/39/3.json",
+    "sha": "ebadb53de4dfc18f7291e176bc123f0057d6ab42"
+  },
+  "4": {
+    "translation": "Bíblia Livre",
+    "abbreviation": "livre",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malaquias",
+    "chapter": 4,
+    "name": "Malaquias 4",
+    "url": "https://api.getbible.net/v2/livre/39/4.json",
+    "sha": "ff3973a153d6e0202978b1a6f3baa03c7cefbf30"
+  }
+}

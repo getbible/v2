@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas' Bog",
+    "chapter": 1,
+    "name": "Jonas' Bog 1",
+    "url": "https://api.getbible.net/v2/danish1871/32/1.json",
+    "sha": "c1502175b3d109facde4c18ed73c0741e6646fea"
+  },
+  "2": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas' Bog",
+    "chapter": 2,
+    "name": "Jonas' Bog 2",
+    "url": "https://api.getbible.net/v2/danish1871/32/2.json",
+    "sha": "c01607a85d9612907a4602d6f3d584255da18e23"
+  },
+  "3": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas' Bog",
+    "chapter": 3,
+    "name": "Jonas' Bog 3",
+    "url": "https://api.getbible.net/v2/danish1871/32/3.json",
+    "sha": "45e3e7d1cdf151c38da32155aaf6afea5ac9ee56"
+  },
+  "4": {
+    "translation": "Danish OT1871 + NT1907 with original orthography",
+    "abbreviation": "danish1871",
+    "lang": "da",
+    "language": "Danish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonas' Bog",
+    "chapter": 4,
+    "name": "Jonas' Bog 4",
+    "url": "https://api.getbible.net/v2/danish1871/32/4.json",
+    "sha": "d0e2557626b9c734eb1e5e11c575ea44afdfd67b"
+  }
+}

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Habacuque 1",
     "url": "https://api.getbible.net/v2/almeida/35/1.json",
-    "sha": "ccda77518191b53d3dd549b68476ce1f37631b4b"
+    "sha": "92a9221e415269e8dad3bbb96b67a1ca534d4620"
   },
   "2": {
     "translation": "Almeida Atualizada",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Habacuque 2",
     "url": "https://api.getbible.net/v2/almeida/35/2.json",
-    "sha": "9ebc8e6ec437cec615bb7ec72e6b785eedb561e3"
+    "sha": "a5d14cff1096b4a49c13b8a862356e90f47a6a00"
   },
   "3": {
     "translation": "Almeida Atualizada",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habacuque 3",
     "url": "https://api.getbible.net/v2/almeida/35/3.json",
-    "sha": "cad7a5839e0dac4e1efd5851fa815b186fbfa974"
+    "sha": "6be0087d528eb58a802e48e2453a18f8296ee656"
   }
 }

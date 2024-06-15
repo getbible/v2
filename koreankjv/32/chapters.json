@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/koreankjv/32/1.json",
+    "sha": "92474594fceef9fd2f861fef0ce0f55c7f4f14af"
+  },
+  "2": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/koreankjv/32/2.json",
+    "sha": "bf78599be62cb7d6397c44c3b4204ce137156b78"
+  },
+  "3": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/koreankjv/32/3.json",
+    "sha": "8bf674ffd7ddfeef1297c606ceb418d1ac28869b"
+  },
+  "4": {
+    "translation": "Hangul King James Version",
+    "abbreviation": "koreankjv",
+    "lang": "ko",
+    "language": "Korean",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/koreankjv/32/4.json",
+    "sha": "c999a5e32fce5353fbc0ccd70206de57d4ad8bd0"
+  }
+}

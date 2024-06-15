@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/japraguet/56/1.json",
+    "sha": "d3e91e86f6fada7fabe675b9a63a0f487fe491a4"
+  },
+  "2": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/japraguet/56/2.json",
+    "sha": "950ca4c1888e3f97f7690ee6c7bbc0ef9eb5884d"
+  },
+  "3": {
+    "translation": "Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)",
+    "abbreviation": "japraguet",
+    "lang": "ja",
+    "language": "Japanese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/japraguet/56/3.json",
+    "sha": "7217d26d2b0530c9b100bded7dfdc7dd26e4e0e4"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 1,
+    "name": "Baruch 1",
+    "url": "https://api.getbible.net/v2/csielizabeth/75/1.json",
+    "sha": "3cdd48cdbd36e13552eeaf041a7f8571c8745d06"
+  },
+  "2": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 2,
+    "name": "Baruch 2",
+    "url": "https://api.getbible.net/v2/csielizabeth/75/2.json",
+    "sha": "d4b405480165e66fc6ee20d0a4ce7bcc89aa9985"
+  },
+  "3": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 3,
+    "name": "Baruch 3",
+    "url": "https://api.getbible.net/v2/csielizabeth/75/3.json",
+    "sha": "b5b7748435bc9177926a55405440781de4a3986f"
+  },
+  "4": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 4,
+    "name": "Baruch 4",
+    "url": "https://api.getbible.net/v2/csielizabeth/75/4.json",
+    "sha": "06086b20684d7d56f10da08f830e29fb30714a64"
+  },
+  "5": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 5,
+    "name": "Baruch 5",
+    "url": "https://api.getbible.net/v2/csielizabeth/75/5.json",
+    "sha": "e77f49ec106d0b541029c7ad830d11d5ba1235ed"
+  }
+}

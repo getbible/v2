@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Pedro",
+    "chapter": 1,
+    "name": "2 Pedro 1",
+    "url": "https://api.getbible.net/v2/livretr/61/1.json",
+    "sha": "654dbd37f4a1650711fd1f350c79bc8bfa0947d1"
+  },
+  "2": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Pedro",
+    "chapter": 2,
+    "name": "2 Pedro 2",
+    "url": "https://api.getbible.net/v2/livretr/61/2.json",
+    "sha": "f3ea685bfeb86f28e9c721f220f002b09757e9f8"
+  },
+  "3": {
+    "translation": "Bíblia Livre - Textus Receptus",
+    "abbreviation": "livretr",
+    "lang": "pt",
+    "language": "Portuguese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Pedro",
+    "chapter": 3,
+    "name": "2 Pedro 3",
+    "url": "https://api.getbible.net/v2/livretr/61/3.json",
+    "sha": "33faa0ba4d52ab8b9b244fd7cb353f7225da2bf6"
+  }
+}
