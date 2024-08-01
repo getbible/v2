@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ester 1",
     "url": "https://api.getbible.net/v2/schlachter/17/1.json",
-    "sha": "f74f96590445a7914ea12cc7f180d0ed4ee9d792"
+    "sha": "471a415124ae38219df068314e7a7b6dd73e6564"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ester 2",
     "url": "https://api.getbible.net/v2/schlachter/17/2.json",
-    "sha": "6bc4b6de06ec0d36254d0f5abfba344697d225d0"
+    "sha": "c3736f0638c515512143ac82c71242df78f5f13a"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ester 3",
     "url": "https://api.getbible.net/v2/schlachter/17/3.json",
-    "sha": "ccb1e714641497c0e778e289cf4250732c2adc15"
+    "sha": "db355d6c1f82c2946b81b3050e1891383b8f1a9b"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ester 4",
     "url": "https://api.getbible.net/v2/schlachter/17/4.json",
-    "sha": "e460c5231be60f2d83c57b3b61931fa29a2b5b94"
+    "sha": "4b9caeee1cf5939156b4709bbeb58f8c0fa8ea1e"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ester 5",
     "url": "https://api.getbible.net/v2/schlachter/17/5.json",
-    "sha": "10348911d0b55ef7ae2bfdbf1bd0044b588ac1bb"
+    "sha": "2649cd1b65397255536b2d797be98910a5fdc57e"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Ester 6",
     "url": "https://api.getbible.net/v2/schlachter/17/6.json",
-    "sha": "60671196733965816cf67cc12dab3a2ebee88b4c"
+    "sha": "be54673ef5ab45820ab5fbc003e24e5a27fa1e57"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Ester 7",
     "url": "https://api.getbible.net/v2/schlachter/17/7.json",
-    "sha": "2d54c3e60068779af5360995b60f9c7977681bd3"
+    "sha": "4bdb683f98fee7fdcaf884004102e9989154ba09"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Ester 8",
     "url": "https://api.getbible.net/v2/schlachter/17/8.json",
-    "sha": "be687a1754035432551fa6548ada27cac5d5b7d3"
+    "sha": "b0367f37e7b98989d018fa276c82348c6b0192f2"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Ester 9",
     "url": "https://api.getbible.net/v2/schlachter/17/9.json",
-    "sha": "85113be3e6b79806e8e4f0d27721c6aeffa849b1"
+    "sha": "464a1d912891c68caac643483ec046f14d54107e"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Ester 10",
     "url": "https://api.getbible.net/v2/schlachter/17/10.json",
-    "sha": "cdd9da94b3935fadde2356c624837e1d1e275026"
+    "sha": "1b71032c768ab3e5e415009670b02476284ad421"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Klagelieder 1",
     "url": "https://api.getbible.net/v2/schlachter/25/1.json",
-    "sha": "631233cbd3d3ae90f5dbc49a1fe862686c9e551e"
+    "sha": "1c2227d3feb912a940518b311d4685cdcf6c91d7"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Klagelieder 2",
     "url": "https://api.getbible.net/v2/schlachter/25/2.json",
-    "sha": "c23dc59fa6b9ec5557824f3647431366dcf041fc"
+    "sha": "cff3830c860f73db13563741ed9ffbf6e1027a50"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Klagelieder 3",
     "url": "https://api.getbible.net/v2/schlachter/25/3.json",
-    "sha": "beec6a172cdd7ea54791d001185927d0a817ff73"
+    "sha": "fc136e4bbc3b0c7906823c14ba4b7be3eeed31d7"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Klagelieder 4",
     "url": "https://api.getbible.net/v2/schlachter/25/4.json",
-    "sha": "5c33afd8dbb8957b641234e1818a81c462081100"
+    "sha": "a58b9067a8b1373d4fffc48b2f8350f8f3d0b64e"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Klagelieder 5",
     "url": "https://api.getbible.net/v2/schlachter/25/5.json",
-    "sha": "2bfddeddd90d6c3f758d8dbaa7923c1124d5da23"
+    "sha": "3a2c0144ca1541bdc28317453ee01ece20525b54"
   }
 }

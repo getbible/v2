@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Galater 1",
     "url": "https://api.getbible.net/v2/schlachter/48/1.json",
-    "sha": "8fbe2568068db281d6757bc0e1e2584d8d6f22be"
+    "sha": "a6d1520f0ea8bba23ca704ce65e7f2412834156a"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Galater 2",
     "url": "https://api.getbible.net/v2/schlachter/48/2.json",
-    "sha": "a107383af65c78cc8493c59d87ac7bc88e2bf1aa"
+    "sha": "2def49d59dcc295ed2aae9c390fcdc124c6d8669"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Galater 3",
     "url": "https://api.getbible.net/v2/schlachter/48/3.json",
-    "sha": "4777c8b23e1cedd8d0581a238cee697753132b1c"
+    "sha": "f51a0dc6551ebc621734263d5f0ba4290d4cf32f"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Galater 4",
     "url": "https://api.getbible.net/v2/schlachter/48/4.json",
-    "sha": "a46dcb3000cbe830c359687835febfe054b652d1"
+    "sha": "c83b258b0b5fb2f0649262333a96a3d9009e0c93"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Galater 5",
     "url": "https://api.getbible.net/v2/schlachter/48/5.json",
-    "sha": "d262fb8d81f53c3b83d79b139e76bdcf39a709e8"
+    "sha": "8931ae99a556815d6f86e128e343379bb62fd31c"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galater 6",
     "url": "https://api.getbible.net/v2/schlachter/48/6.json",
-    "sha": "d90c4fe1e32a7d7a45ea2b56c54f5be3106e0825"
+    "sha": "08ba6210f220a434d292417951ab61530c1705ef"
   }
 }

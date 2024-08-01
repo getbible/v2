@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Rut 1",
     "url": "https://api.getbible.net/v2/schlachter/8/1.json",
-    "sha": "ea2de3bcf6cf55699597a33a66677518d6f385b4"
+    "sha": "6f9820359f34e419b70b9023e7f1c53c1cc63b5d"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Rut 2",
     "url": "https://api.getbible.net/v2/schlachter/8/2.json",
-    "sha": "ae9d539f8d52dc41a6d06900bd1480d3cff02eac"
+    "sha": "7fc3fb519b9c0e534d3e7c3218f4922d40e22a31"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Rut 3",
     "url": "https://api.getbible.net/v2/schlachter/8/3.json",
-    "sha": "03e10e93dccf6858b9d492bae525337a2285c5bb"
+    "sha": "0d6023c675aaf2af2917a27d76981536315d9ee5"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Rut 4",
     "url": "https://api.getbible.net/v2/schlachter/8/4.json",
-    "sha": "d1a91a1409555ff4ad23f08fbc66216f63699f2d"
+    "sha": "adb9e47d568a4a3a7c84602c6d4d3f69040b9470"
   }
 }

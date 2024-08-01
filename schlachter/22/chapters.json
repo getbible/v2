@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Hohes Lied 1",
     "url": "https://api.getbible.net/v2/schlachter/22/1.json",
-    "sha": "445be7cf80ccea623c09d865e5b36bb90c1e0ccd"
+    "sha": "4dbb251f7a94126f035b4c774509cc7527e6405d"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Hohes Lied 2",
     "url": "https://api.getbible.net/v2/schlachter/22/2.json",
-    "sha": "591c6f7782261173ea457667ced1b53cde173c8f"
+    "sha": "ce56d83d9c75bf94cdf6b733233b18b5a40d419f"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Hohes Lied 3",
     "url": "https://api.getbible.net/v2/schlachter/22/3.json",
-    "sha": "d3c02ecb5288b597a3a2d8f7325a4b966d32cbf0"
+    "sha": "7907b4ed6d0971631fada4f1d7de88f58ca15412"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Hohes Lied 4",
     "url": "https://api.getbible.net/v2/schlachter/22/4.json",
-    "sha": "4443b067c1a156429a3cf6464154b46f1f20344a"
+    "sha": "24c6bf4ce78212fff3d8888b577530ac6f9a6fc1"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Hohes Lied 5",
     "url": "https://api.getbible.net/v2/schlachter/22/5.json",
-    "sha": "cbd3b857f594445b448ae7f0c6d3c8eb47459679"
+    "sha": "67c34ad70855e4b65dcc884c23cdba039136f31f"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Hohes Lied 6",
     "url": "https://api.getbible.net/v2/schlachter/22/6.json",
-    "sha": "d900066b10c14f9936947d012f72f1bb97dd35f1"
+    "sha": "a076b0ef1332ababc45f1b0d73f70d0bf5906915"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Hohes Lied 7",
     "url": "https://api.getbible.net/v2/schlachter/22/7.json",
-    "sha": "bd4cd7cf975c3bbbe98303f7da83e43c84035777"
+    "sha": "dc3426e798bed843800a80305b64d3882bfab33b"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "Hohes Lied 8",
     "url": "https://api.getbible.net/v2/schlachter/22/8.json",
-    "sha": "a1dc0ef55135757b249865e927bdfba8de364665"
+    "sha": "9ce98e16dabee1f2ca7e0978e8cb6f88021ad290"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Hosea 1",
     "url": "https://api.getbible.net/v2/schlachter/28/1.json",
-    "sha": "d2350c110cd294b675682e8f9d1f8cb5061de658"
+    "sha": "42a2fd71225f6565e8ca995e0cb41f412ce06b0a"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Hosea 2",
     "url": "https://api.getbible.net/v2/schlachter/28/2.json",
-    "sha": "03ed622767a9a83360c449d2eabf8ff1d8803134"
+    "sha": "4136d18ffe1b7e716e3edfe1405971bfe2943973"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Hosea 3",
     "url": "https://api.getbible.net/v2/schlachter/28/3.json",
-    "sha": "17eafdf066d06f8fca20344f1ddb45dcffa69d27"
+    "sha": "1c47dbaa00c37dbbde7e393d90562a885ec7949b"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Hosea 4",
     "url": "https://api.getbible.net/v2/schlachter/28/4.json",
-    "sha": "7be1807a13a50f4bda32b45bbc0c42bd3a913907"
+    "sha": "4d8ff304787748f71978f6ecf1c0506b1ba46c8a"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Hosea 5",
     "url": "https://api.getbible.net/v2/schlachter/28/5.json",
-    "sha": "4397381ae41ecfce5d7636b82085762e19b71c80"
+    "sha": "dc82a591655bc7b4921aaabc3c21d37ea5000f9b"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Hosea 6",
     "url": "https://api.getbible.net/v2/schlachter/28/6.json",
-    "sha": "fc6dca7b1d452463fd726e975c6463c6494e2766"
+    "sha": "a93d510d1429649aaeed8683d4f8df49a06c5b59"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Hosea 7",
     "url": "https://api.getbible.net/v2/schlachter/28/7.json",
-    "sha": "3ec4c1a777210634c8b219297b028310266de814"
+    "sha": "139de74fb1e7cc92cffce182f6a3a601c4ed2a54"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Hosea 8",
     "url": "https://api.getbible.net/v2/schlachter/28/8.json",
-    "sha": "228a73b92791222273e79cd6a0b1ea04de538c36"
+    "sha": "7988087f88a50b26ee608ee17be3c3d10ba3487b"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Hosea 9",
     "url": "https://api.getbible.net/v2/schlachter/28/9.json",
-    "sha": "cc02a11ba166a0f5c9487d8ee5fa3cb5831dbda8"
+    "sha": "5987a0a72dd6b3509e9c88f69ed11f3281aa1ec2"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Hosea 10",
     "url": "https://api.getbible.net/v2/schlachter/28/10.json",
-    "sha": "0b0bc5d050d453718e61b96828c4296d5adb3529"
+    "sha": "892d8ba64d0a0eb6462449f34694ae481fbc3488"
   },
   "11": {
     "translation": "Schlachter (1951)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Hosea 11",
     "url": "https://api.getbible.net/v2/schlachter/28/11.json",
-    "sha": "d4803c575673ba6148298a4327a6313c8bc93827"
+    "sha": "171d70290342d09f193e34d71d113038d3a0a0ea"
   },
   "12": {
     "translation": "Schlachter (1951)",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Hosea 12",
     "url": "https://api.getbible.net/v2/schlachter/28/12.json",
-    "sha": "f32167255f05b75e1c9818fff24180af937d4168"
+    "sha": "4e940398121d5150786e0fb5173260c4f4209356"
   },
   "13": {
     "translation": "Schlachter (1951)",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Hosea 13",
     "url": "https://api.getbible.net/v2/schlachter/28/13.json",
-    "sha": "227a0e2e819b05e803de29d58fcd093fb5808562"
+    "sha": "188b421fecf213b8036686c21015809931a61d3d"
   },
   "14": {
     "translation": "Schlachter (1951)",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Hosea 14",
     "url": "https://api.getbible.net/v2/schlachter/28/14.json",
-    "sha": "48f774fb846b8f34e6e2559555aee0d5433d3be8"
+    "sha": "8c259beef3e426a40304f8afcec07d7a373b3452"
   }
 }

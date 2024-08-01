@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Philipper 1",
     "url": "https://api.getbible.net/v2/schlachter/50/1.json",
-    "sha": "d663e24d89fff10923b802e8b7500f832aa3e015"
+    "sha": "1e125112e1f70854f7b74b7bd96b966fa9859dca"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Philipper 2",
     "url": "https://api.getbible.net/v2/schlachter/50/2.json",
-    "sha": "c16f55327508951b154f65878fdadef596ce86a7"
+    "sha": "3c0205adde1fe634b0163dadb5b5a3f93c86ad6f"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Philipper 3",
     "url": "https://api.getbible.net/v2/schlachter/50/3.json",
-    "sha": "f504948aaacc955e5f74e933dd6baa81719e7a06"
+    "sha": "0d02e0c58323c0ef0a7ba71a3a1badbfd36e8ddb"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Philipper 4",
     "url": "https://api.getbible.net/v2/schlachter/50/4.json",
-    "sha": "8a1f135448f6ea3003e93e9e22449fea72b7d55a"
+    "sha": "72b2d173ff1cae96570ea167c10686a147f6b30e"
   }
 }

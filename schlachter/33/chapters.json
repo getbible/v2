@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Micha 1",
     "url": "https://api.getbible.net/v2/schlachter/33/1.json",
-    "sha": "9a9df235143153cc5c83fa4c12eff20e11e0c53e"
+    "sha": "cc10fc7f3d4bc4b7233a458effe8d50986704a14"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Micha 2",
     "url": "https://api.getbible.net/v2/schlachter/33/2.json",
-    "sha": "40e5ed1231a62f5ac98cba5532802394120687c7"
+    "sha": "bfebb405fb56c471821def6a2149da700b836877"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Micha 3",
     "url": "https://api.getbible.net/v2/schlachter/33/3.json",
-    "sha": "27f4628eb37e64eab687a3a8fa924d3ea4aecea6"
+    "sha": "6f3816d439ca7c5e52457dca4179ef70bcaaee2c"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Micha 4",
     "url": "https://api.getbible.net/v2/schlachter/33/4.json",
-    "sha": "c78f40606dd040034b8b6e7f6f5f7e5ded8dcf87"
+    "sha": "0eb7c790a57704ef53fba88c5d89a70688e677e2"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Micha 5",
     "url": "https://api.getbible.net/v2/schlachter/33/5.json",
-    "sha": "12cac8058218d18c0b1c4eafce8040f76c5d1b14"
+    "sha": "48a29efba7a378da383309c72c6b02e840003347"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Micha 6",
     "url": "https://api.getbible.net/v2/schlachter/33/6.json",
-    "sha": "1ca393cedfc045161985ad08cc55a6ddf584d715"
+    "sha": "4d365ce3ae4af47b8aedab94e38e5266d3fc6d72"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Micha 7",
     "url": "https://api.getbible.net/v2/schlachter/33/7.json",
-    "sha": "03a7f7fb30e340597cd9433c5726b47870bc9bde"
+    "sha": "a57bf9d5abd102c9932495b9a7a594340512ecf5"
   }
 }

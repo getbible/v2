@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Prediger 1",
     "url": "https://api.getbible.net/v2/schlachter/21/1.json",
-    "sha": "2773e4f92be56aa08dc1a9e516b358092b13ff6e"
+    "sha": "f0d8cbd5e22157e570e239a0a5fb9c4f317bcd42"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Prediger 2",
     "url": "https://api.getbible.net/v2/schlachter/21/2.json",
-    "sha": "0c492af67cae93f424bac1d9f70b9eed5c770fef"
+    "sha": "801edde3ce63707c8f68ebfdb498a657c3d8ffce"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Prediger 3",
     "url": "https://api.getbible.net/v2/schlachter/21/3.json",
-    "sha": "a096e3c241f45743e7d131c0d40d624b7bd114bf"
+    "sha": "e8855165a2bdf94418fb4b89fb7ff3ad32172c61"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Prediger 4",
     "url": "https://api.getbible.net/v2/schlachter/21/4.json",
-    "sha": "568ddf0ef101fd0595778e6331c7137644f600b1"
+    "sha": "4fd60b3198f90c2b53fa27e0eefff93d8deb1afb"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Prediger 5",
     "url": "https://api.getbible.net/v2/schlachter/21/5.json",
-    "sha": "6f7048bd65f29406f089d1c6c0275521074460b7"
+    "sha": "d30f85938e173a9540c3b9bfc9dc54911c95d9bb"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Prediger 6",
     "url": "https://api.getbible.net/v2/schlachter/21/6.json",
-    "sha": "287d96d22142eb0b83070daaf487c40aa2b2a6b4"
+    "sha": "c2d5058a5c0dde4fa4940b2643b233fd146a41d3"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Prediger 7",
     "url": "https://api.getbible.net/v2/schlachter/21/7.json",
-    "sha": "e17a29264c7fa1eba991fe9f632ba7a5219eb62b"
+    "sha": "5037e3cd1449a748f61379cd104cd54c0c0899ce"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Prediger 8",
     "url": "https://api.getbible.net/v2/schlachter/21/8.json",
-    "sha": "2bf69165c6440182b4b6853cdfe1ba5aa92d62e8"
+    "sha": "620ed1063f1d3c6d018482dd500c9a831f3ab090"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Prediger 9",
     "url": "https://api.getbible.net/v2/schlachter/21/9.json",
-    "sha": "a02ee707679b152dad4f29438521f99ae3b96ae0"
+    "sha": "cfdc9418f0d6ae1057be2ff29f85c0f031794c5e"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Prediger 10",
     "url": "https://api.getbible.net/v2/schlachter/21/10.json",
-    "sha": "81e56414570fe803130eacf4118c1331d61f538a"
+    "sha": "544897fbd86a05216617cb54d95f9fd586eb11df"
   },
   "11": {
     "translation": "Schlachter (1951)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Prediger 11",
     "url": "https://api.getbible.net/v2/schlachter/21/11.json",
-    "sha": "b87f4bb66d3c4be12a000325f2f9b586465c960a"
+    "sha": "93c382d46676a2d942414a9ee9b3c3a4a2578249"
   },
   "12": {
     "translation": "Schlachter (1951)",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Prediger 12",
     "url": "https://api.getbible.net/v2/schlachter/21/12.json",
-    "sha": "efd29720bb1960d5f738f9e77be8f039a88718cf"
+    "sha": "b920d34cdf9571b09ffbae600d082bc84e83797a"
   }
 }

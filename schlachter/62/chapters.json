@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1. Johannes 1",
     "url": "https://api.getbible.net/v2/schlachter/62/1.json",
-    "sha": "937236cc6877137c6bb649c1a81bc1c1b55afd16"
+    "sha": "e05087a83cf64e66c9e85130b6e03d3ec7920ccd"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1. Johannes 2",
     "url": "https://api.getbible.net/v2/schlachter/62/2.json",
-    "sha": "3862562d73ba5d3a2c5394db5fcc5de233c8c31c"
+    "sha": "92c72a39efb91716a8666cff296bc9ab4d6847f3"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1. Johannes 3",
     "url": "https://api.getbible.net/v2/schlachter/62/3.json",
-    "sha": "3b63fc328741aa3e99a4979c6a02b6220753ceb8"
+    "sha": "6b33b593f0f2754432dbfdf8e653f26ddf8bddde"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1. Johannes 4",
     "url": "https://api.getbible.net/v2/schlachter/62/4.json",
-    "sha": "da3c85d4eb96373cd8ab73261c8d5db5c98c7c64"
+    "sha": "efbf2b46efdc65de4bd3ef60d5fba5c4fb84b9a7"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1. Johannes 5",
     "url": "https://api.getbible.net/v2/schlachter/62/5.json",
-    "sha": "aa8c8385a403f08eb845c2bbf7b50de6ff95de38"
+    "sha": "eee1456e6d4c8b39c3b7b5c55d2718bc81cdd179"
   }
 }

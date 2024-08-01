@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Richter 1",
     "url": "https://api.getbible.net/v2/schlachter/7/1.json",
-    "sha": "7c787a059ca14820b92ad2f1a361026ca7d468f0"
+    "sha": "f877da726c38fce748ebf0086ed31c99da720544"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Richter 2",
     "url": "https://api.getbible.net/v2/schlachter/7/2.json",
-    "sha": "742a04b35e98718fa7772228c608abab166f99e4"
+    "sha": "1dc24ac43c5152c0bdf8f473f370417f7756c9b4"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Richter 3",
     "url": "https://api.getbible.net/v2/schlachter/7/3.json",
-    "sha": "6f1d10a9bd795405214678dc3913704a35fd9fb5"
+    "sha": "8e2134300cbfbbeb536d19c3075fcfbb03677fc9"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Richter 4",
     "url": "https://api.getbible.net/v2/schlachter/7/4.json",
-    "sha": "17ef8b2a832c35cce918e5684236aa3462bb356a"
+    "sha": "73a05df66ce4e4d4fca4e9526c3b00992a7dece7"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Richter 5",
     "url": "https://api.getbible.net/v2/schlachter/7/5.json",
-    "sha": "6ea2ee8fa75cc48a36ffeffe6ca19d5895cecbde"
+    "sha": "64da48038ac1cd3471a4cbd22e50328781beec1e"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Richter 6",
     "url": "https://api.getbible.net/v2/schlachter/7/6.json",
-    "sha": "40ebe691a36fc29f7dcea5bcd215c49b6e9a4534"
+    "sha": "65e094163a1992aab0e6da2ed5c6b02f855d657a"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Richter 7",
     "url": "https://api.getbible.net/v2/schlachter/7/7.json",
-    "sha": "6cc2d0d53160b7d8676860dffe977b525deae72a"
+    "sha": "97058b257535fa34ff2101c6bdfae4a153b1c3e5"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Richter 8",
     "url": "https://api.getbible.net/v2/schlachter/7/8.json",
-    "sha": "3e06416bc7acb4220a764a5547d1a7f9d386ec35"
+    "sha": "32f165455a0af7c63e3ed03a5bd73c0b6ca74275"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Richter 9",
     "url": "https://api.getbible.net/v2/schlachter/7/9.json",
-    "sha": "490bfcd0954f25f3fe8a7b7ecf8b2356937bea4c"
+    "sha": "09ef114bec64af6c90e1944b78bbcddc67a0acc9"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Richter 10",
     "url": "https://api.getbible.net/v2/schlachter/7/10.json",
-    "sha": "7b753bfeeca60f4fee7213df209c77b6b30287a4"
+    "sha": "fa987019aba5b49b9126cd805e8491166c0956da"
   },
   "11": {
     "translation": "Schlachter (1951)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Richter 11",
     "url": "https://api.getbible.net/v2/schlachter/7/11.json",
-    "sha": "5fafa78d3f7a46a987f91a70444c716aca096bc3"
+    "sha": "bc76367ebdca3e3a97ba83644d3d88011568db49"
   },
   "12": {
     "translation": "Schlachter (1951)",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Richter 12",
     "url": "https://api.getbible.net/v2/schlachter/7/12.json",
-    "sha": "558d95e11d6def3b727dcc86c6c785e9cd2e5875"
+    "sha": "d535414537b951c04e78318d7c7cce8572faf9d9"
   },
   "13": {
     "translation": "Schlachter (1951)",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Richter 13",
     "url": "https://api.getbible.net/v2/schlachter/7/13.json",
-    "sha": "addffa7b26730ed74d8697f6d7ce032323fdfba9"
+    "sha": "d89c46d9473a5592c52de20e3657eff206be55f2"
   },
   "14": {
     "translation": "Schlachter (1951)",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Richter 14",
     "url": "https://api.getbible.net/v2/schlachter/7/14.json",
-    "sha": "53322681a36f23b9950d84b47577364a6b8e4c8e"
+    "sha": "d8dd97ee543e15c54546cbbaa747917eb99c5f11"
   },
   "15": {
     "translation": "Schlachter (1951)",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Richter 15",
     "url": "https://api.getbible.net/v2/schlachter/7/15.json",
-    "sha": "f7c8a8614f294aa93421b28d222d3a6ec89ab870"
+    "sha": "b9b1e842f405d0f6d5a6b79c9e7fb3a697c3011d"
   },
   "16": {
     "translation": "Schlachter (1951)",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "Richter 16",
     "url": "https://api.getbible.net/v2/schlachter/7/16.json",
-    "sha": "4980f51aa930e2b15f067bf8836532e6168f1ff2"
+    "sha": "0fba1c0625db29e25684fba0c434df91b244e509"
   },
   "17": {
     "translation": "Schlachter (1951)",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Richter 17",
     "url": "https://api.getbible.net/v2/schlachter/7/17.json",
-    "sha": "a1bf28b724d6394e19ef1b3d07f9fa9a0eb9253c"
+    "sha": "b432ab3e02383e5dd70a00b68d073bb7c73e5e87"
   },
   "18": {
     "translation": "Schlachter (1951)",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Richter 18",
     "url": "https://api.getbible.net/v2/schlachter/7/18.json",
-    "sha": "636fa719bf5538a3b29bef242df030e5e1b32052"
+    "sha": "7581ab976793895ac51b547d0215b519a6ab2851"
   },
   "19": {
     "translation": "Schlachter (1951)",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Richter 19",
     "url": "https://api.getbible.net/v2/schlachter/7/19.json",
-    "sha": "af8ee84424358d9a3a3f4130d7917fa22a0b7225"
+    "sha": "160c5da86ee163010507d4275e67be4a81236228"
   },
   "20": {
     "translation": "Schlachter (1951)",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "Richter 20",
     "url": "https://api.getbible.net/v2/schlachter/7/20.json",
-    "sha": "01275550dd7f9dabf7fe9120aaed676710808c02"
+    "sha": "40e638eb7d7c5baa9db5bdd62ff969a26b7b3de4"
   },
   "21": {
     "translation": "Schlachter (1951)",
@@ -291,6 +291,6 @@
     "chapter": 21,
     "name": "Richter 21",
     "url": "https://api.getbible.net/v2/schlachter/7/21.json",
-    "sha": "7e15cf8c59c3b564f2763cd286ed65b6a1fae990"
+    "sha": "139d29d0390f36659a6a20cfc0bb31c133f9d0e8"
   }
 }

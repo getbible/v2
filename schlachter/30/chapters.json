@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://api.getbible.net/v2/schlachter/30/1.json",
-    "sha": "2723123e205241d7e55bee118b6db4230ff0dff1"
+    "sha": "657e785d20206a0fc0eac94ddb131ce41216f36a"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://api.getbible.net/v2/schlachter/30/2.json",
-    "sha": "fc29d1452d3bb8ca2ce8ad2d06767c4dcb0918f6"
+    "sha": "1fb4b4de8b42915b6e3ead6a82b55ac8fa94dd90"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://api.getbible.net/v2/schlachter/30/3.json",
-    "sha": "cce3fde0f9a82d42a80e38babf8fec801d0e3a49"
+    "sha": "83938e744b936d5c5213b4cbbf0c500e7202522e"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://api.getbible.net/v2/schlachter/30/4.json",
-    "sha": "fa8812cdc3f1d11c4432289ca3e8f463848bfe66"
+    "sha": "95a6a2a4b7d18eac103db877acc324a4fa6e8bb2"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://api.getbible.net/v2/schlachter/30/5.json",
-    "sha": "6d2af85be99545ccdbd84dead081b1a3de5f0f5e"
+    "sha": "c769ebf63108990091c260e4e999ef414efdfd4d"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://api.getbible.net/v2/schlachter/30/6.json",
-    "sha": "394cf4197fd6613175c4b395f3e5d8b4b9e42c24"
+    "sha": "23afde308598edfdf0a819115e056049011250b4"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://api.getbible.net/v2/schlachter/30/7.json",
-    "sha": "04eda8c9d63880c7fc178eb12ecc47e15554653e"
+    "sha": "98a5f9213b40135a3dc8070a021f673c84ce0b82"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://api.getbible.net/v2/schlachter/30/8.json",
-    "sha": "47aab266485ea27b277534291f95802b6c3b6f5e"
+    "sha": "1c2e243680b7ce64dc2ed3513bec5f15075996c0"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://api.getbible.net/v2/schlachter/30/9.json",
-    "sha": "6d309100536d0a459a8eb9e92e59394356cf9dac"
+    "sha": "a83c02aeddb92b75c90793d26d263ede8a5bd5b4"
   }
 }

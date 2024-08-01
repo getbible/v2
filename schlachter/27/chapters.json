@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Daniel 1",
     "url": "https://api.getbible.net/v2/schlachter/27/1.json",
-    "sha": "238d0daae2994f62741125fc2101b2242550751b"
+    "sha": "0c216700c280085b2f62a161fe160adc0019ec70"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Daniel 2",
     "url": "https://api.getbible.net/v2/schlachter/27/2.json",
-    "sha": "c6d8bd7c2be20848e3a0568308dadf3361088221"
+    "sha": "fa154bc200fbd09cb2f0478bcf33342f0c43f6a7"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Daniel 3",
     "url": "https://api.getbible.net/v2/schlachter/27/3.json",
-    "sha": "b57ec8c1e5959c1dbd959c9510264eb163a53752"
+    "sha": "84b9eedd5d3e5cd9dae8c75516f00feb30f54ac1"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Daniel 4",
     "url": "https://api.getbible.net/v2/schlachter/27/4.json",
-    "sha": "b7bdd53bde43bd461a1bb8466264102256dbce26"
+    "sha": "0d1491b846e35b035158dee188f782ff16d0fbf7"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Daniel 5",
     "url": "https://api.getbible.net/v2/schlachter/27/5.json",
-    "sha": "30fe95c608e862b247291fd4eb19a1409ce93d3d"
+    "sha": "c38d5044713b5b29c35053667913790b37d5c142"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Daniel 6",
     "url": "https://api.getbible.net/v2/schlachter/27/6.json",
-    "sha": "6a018f9c48d693cfca32f580f5ad5dece263212b"
+    "sha": "59ceab67ebd97d463a6bb5bd8a22203f132a3585"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Daniel 7",
     "url": "https://api.getbible.net/v2/schlachter/27/7.json",
-    "sha": "eab3bed2d4ce41f60d828500a53f554181ae4166"
+    "sha": "3daccdbd746e97c5b4303abf78d3246c6915c675"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Daniel 8",
     "url": "https://api.getbible.net/v2/schlachter/27/8.json",
-    "sha": "98fd4e5a2fc26ef0bbae1efff18c72d2f7796a49"
+    "sha": "e227b849160230f9fe30dff12428d7f20d8fe025"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Daniel 9",
     "url": "https://api.getbible.net/v2/schlachter/27/9.json",
-    "sha": "ba997ac4dd8478d1f529fa4e94effa07a532a957"
+    "sha": "63984a023b55076d93c82aff4af90f2ef68031f0"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Daniel 10",
     "url": "https://api.getbible.net/v2/schlachter/27/10.json",
-    "sha": "ed97f6bed961626fd58cdd09220036c2e25eba68"
+    "sha": "9893a48dea243b5bef88ab4c892a9bf799d8ba4e"
   },
   "11": {
     "translation": "Schlachter (1951)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Daniel 11",
     "url": "https://api.getbible.net/v2/schlachter/27/11.json",
-    "sha": "980bf09d416cb8fda8904991e3fa066c0fc588f4"
+    "sha": "9fe0b9b349da08fb2b2d754ebc872db21ed50cb9"
   },
   "12": {
     "translation": "Schlachter (1951)",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Daniel 12",
     "url": "https://api.getbible.net/v2/schlachter/27/12.json",
-    "sha": "898b27bf16adff5ec9557337d9e1b6acf4f7fff3"
+    "sha": "3733eb098f5f3a7c42868c64fb33de70d8ab5c25"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2. Thessalonicher 1",
     "url": "https://api.getbible.net/v2/schlachter/53/1.json",
-    "sha": "e937d75704937e2afa79caebb7062e3696683488"
+    "sha": "866d85dab3a29a8148eb5b0e30155c3e1f78e67c"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2. Thessalonicher 2",
     "url": "https://api.getbible.net/v2/schlachter/53/2.json",
-    "sha": "2304ca94a1cb03186e30f2a164b368b168ebf8c2"
+    "sha": "cfbd522fa7d25b2692f00fb876a2d7a84ba72643"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2. Thessalonicher 3",
     "url": "https://api.getbible.net/v2/schlachter/53/3.json",
-    "sha": "973020fb6ea2783d96b6aa62c6fd0eff53d01826"
+    "sha": "23035e81081b4a9945c304f7b3f0b3b4b43b9c4d"
   }
 }

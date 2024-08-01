@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Titus 1",
     "url": "https://api.getbible.net/v2/schlachter/56/1.json",
-    "sha": "012b003409eedd653d44aba08be64c245ef7b340"
+    "sha": "363e7c4b1ecf6561a3b12d04a46af020616069e7"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Titus 2",
     "url": "https://api.getbible.net/v2/schlachter/56/2.json",
-    "sha": "729cf3071506943aabfb8282e6e6613bdb3df030"
+    "sha": "3a33090cec79305554b7b70a2471e0412520818c"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Titus 3",
     "url": "https://api.getbible.net/v2/schlachter/56/3.json",
-    "sha": "3d13b142cc99470cc7f70d30844634f99f4b5b93"
+    "sha": "7d784452debe0ed3089171f2d90caef63e90db3e"
   }
 }

@@ -1789,8 +1789,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.German",
-    "distribution_version": "2.0.1",
-    "distribution_version_date": "2023-04-24",
+    "distribution_version": "2.1",
+    "distribution_version_date": "2024-07-16",
     "distribution_abbreviation": "Schlachter",
     "distribution_about": "SCHLACHTER BIBEL 1951\\par\\par Die Heilige Schrift des Alten und Neuen Testaments nach dem Urtext üersetzt von F.E. SCHLACHTER Neue Uberarbeitung 1951\\par Genfer Bibelgesellschaft\\par\\par Copyright (c) 1951 Genfer Bibelgeschellschaft.",
     "distribution_license": "Copyrighted; Free non-commercial distribution",
@@ -1798,13 +1798,14 @@
     "distribution_source": "Genfer Bibelgeschellschaft. Geneva Bible Society",
     "distribution_versification": "German",
     "distribution_history": {
-      "history_1.1": "Compressed the module (2006-10-25)",
-      "history_1.1.1": "Corrected module encoding (2013-08-20)",
+      "history_1.1": "(2006-10-25) Compressed the module",
+      "history_1.1.1": "(2013-08-20) Corrected module encoding",
       "history_2.0": "(2022-06-23) Solves MOD-412 and MOD-427",
-      "history_2.0.1": "(2023-04-24) Small correction in the conf file: Fix description (MOD-451)"
+      "history_2.0.1": "(2023-05-02) Small correction in the conf file: Fix description (MOD-451)",
+      "history_2.1": "(2024-07-16) Leaking HTML markup removed in 1Sam 13:1"
     },
     "url": "https://api.getbible.net/v2/schlachter.json",
-    "sha": "d1b18f7f602fe8134f3f18e6ae10ed9b377cd270"
+    "sha": "c67991129e7f23be7b4b3a54b4ce51edb3ff0c2b"
   },
   "sse": {
     "translation": "Sagradas Escrituras (1569)",

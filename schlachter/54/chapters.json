@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1. Timotheus 1",
     "url": "https://api.getbible.net/v2/schlachter/54/1.json",
-    "sha": "8bbf4b52527f3b7bd29ada8221f3cd3fb687d174"
+    "sha": "e7e79468b2252e69259bd52d84dacce9d89e242d"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1. Timotheus 2",
     "url": "https://api.getbible.net/v2/schlachter/54/2.json",
-    "sha": "723d1ad35562c1a2e3591f071ae1b06ab9632f8a"
+    "sha": "a770b7a4c74281281c6028b446954532c35f99b0"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1. Timotheus 3",
     "url": "https://api.getbible.net/v2/schlachter/54/3.json",
-    "sha": "28d08298809fed6fdb9239016ae38afb33d98aef"
+    "sha": "a09f02edbe7ef052b1b83fb9e3aa982eeecead83"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1. Timotheus 4",
     "url": "https://api.getbible.net/v2/schlachter/54/4.json",
-    "sha": "6e5e227302de91f9168214017e899e7588ed21f2"
+    "sha": "abe6f80a8a8dbe2324fb1b61d314036fbebfbd73"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "1. Timotheus 5",
     "url": "https://api.getbible.net/v2/schlachter/54/5.json",
-    "sha": "9998ac4fab27c8c43a18dd119926be5c6969cdff"
+    "sha": "bea7ae2539fe87b86699e287412e985e4d40c27a"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1. Timotheus 6",
     "url": "https://api.getbible.net/v2/schlachter/54/6.json",
-    "sha": "5e1d89462b83c3ec427821bc4f0f7727a39f179d"
+    "sha": "e61d7ff3eb0631b646fe49e9514b46db1523654c"
   }
 }

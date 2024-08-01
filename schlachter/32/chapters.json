@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Jona 1",
     "url": "https://api.getbible.net/v2/schlachter/32/1.json",
-    "sha": "52ec7b337193dd40ee722c96be49a09b761879ce"
+    "sha": "2f153d84e3aa2af32c526f883c7b7377dff15f5e"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Jona 2",
     "url": "https://api.getbible.net/v2/schlachter/32/2.json",
-    "sha": "74d52645b40b64a89b2e5d048545150b90352bbb"
+    "sha": "5f1779d12ec927cd8ecc7329df9ad6c449bec943"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Jona 3",
     "url": "https://api.getbible.net/v2/schlachter/32/3.json",
-    "sha": "ac08de2c6f47bd52c57034e954c2d6b3e3120b93"
+    "sha": "8065488ef8aaaf7af8b616326c1461a025f7b060"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Jona 4",
     "url": "https://api.getbible.net/v2/schlachter/32/4.json",
-    "sha": "021329d2523e70aab18b6cc4494be91a7649f595"
+    "sha": "9453f422f0dbb91fdc4a0bd4d130945ce11f6de4"
   }
 }

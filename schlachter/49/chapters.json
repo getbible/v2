@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Epheser 1",
     "url": "https://api.getbible.net/v2/schlachter/49/1.json",
-    "sha": "d82e132b88e09ef9c42c335a697c75fdbd5cff0d"
+    "sha": "9d53ccbf6a769e0201af197ad4890f88948332c3"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Epheser 2",
     "url": "https://api.getbible.net/v2/schlachter/49/2.json",
-    "sha": "7ae865f528c55841c84106583e45ac848e1c0fb0"
+    "sha": "f0e86d9bbf7b77cdb3a3cce7ca5115155cde8c42"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Epheser 3",
     "url": "https://api.getbible.net/v2/schlachter/49/3.json",
-    "sha": "2eb67a3274ce0b3c11609a500cd134ffbd318bda"
+    "sha": "9ec52079ce10e2155db373aed046928581828585"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Epheser 4",
     "url": "https://api.getbible.net/v2/schlachter/49/4.json",
-    "sha": "f719fc5685c662444835e0999c63848821e40508"
+    "sha": "c7a9c962c174ee848341df0d266626048eefc063"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Epheser 5",
     "url": "https://api.getbible.net/v2/schlachter/49/5.json",
-    "sha": "dad3da533b88554b9ed70cdbd5da423bd0820828"
+    "sha": "76cd8d64ddf62fd45293e31ffe99ad686e0856ac"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Epheser 6",
     "url": "https://api.getbible.net/v2/schlachter/49/6.json",
-    "sha": "7eb228442cf470e4824ed3004629aed3189c294e"
+    "sha": "8253535a65e3dbb294f0cfe533ee034ab0761809"
   }
 }
