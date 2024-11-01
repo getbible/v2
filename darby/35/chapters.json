@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/darby/35/1.json",
-    "sha": "8611cba187df07273b01276ea603de3c0c3b6900"
+    "sha": "a6d0eeea288edb8ef791b1cf6432fe6ac99b38ec"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/darby/35/2.json",
-    "sha": "bf0033d9f92e464b437ac3753f707f2e1e196feb"
+    "sha": "4408b7dddecdc9843de3006b7db3e615c5d36b6f"
   },
   "3": {
     "translation": "Darby",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/darby/35/3.json",
-    "sha": "ab0d72880c04c71270e829fa888f8e8279640332"
+    "sha": "c64966f8fbd663d9d709c2859710b39c12f17b68"
   }
 }

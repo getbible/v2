@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Pierre 1",
     "url": "https://api.getbible.net/v2/darby/61/1.json",
-    "sha": "9e262c99377281987c4f2d585f1f035327fa4bac"
+    "sha": "5a764bad5b24c806981bfb8bb52ecef0abfd5972"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Pierre 2",
     "url": "https://api.getbible.net/v2/darby/61/2.json",
-    "sha": "0f8c6417641b9459543aba8b46506bb8e2e7db52"
+    "sha": "8b2ac25f837ce714bf18a0fd1de8bc7f2d60f0dc"
   },
   "3": {
     "translation": "Darby",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Pierre 3",
     "url": "https://api.getbible.net/v2/darby/61/3.json",
-    "sha": "9cedcc97ca4935dc1ad0dfca7382d00fa4f40109"
+    "sha": "9d14567665ef6c289bbaa833fcf6e67f48d7e2f7"
   }
 }

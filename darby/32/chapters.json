@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Jonas 1",
     "url": "https://api.getbible.net/v2/darby/32/1.json",
-    "sha": "e287d52f2eea1f144dbfaf0769bbf89260dd584b"
+    "sha": "ad390cb25966efe144201a746a051429205d2c83"
   },
   "2": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Jonas 3",
     "url": "https://api.getbible.net/v2/darby/32/3.json",
-    "sha": "7b32200e51ebd9b269d1370863dcfa3ffba78e92"
+    "sha": "66cfefb24f927e08dc52cffdbf7b1d7c6126ec92"
   },
   "4": {
     "translation": "Darby",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Jonas 4",
     "url": "https://api.getbible.net/v2/darby/32/4.json",
-    "sha": "303b1b571de5efd63d04640b4f8a6c0533e1b5fe"
+    "sha": "508b2be4607d64477e2f33c77f355610d5984372"
   }
 }

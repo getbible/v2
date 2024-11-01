@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Colossiens 1",
     "url": "https://api.getbible.net/v2/darby/51/1.json",
-    "sha": "6667f08de705e99c3394e7a571ae8b4a28b59d72"
+    "sha": "0b07b006468e7c8206b47b2c7e9f7a36699844eb"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Colossiens 2",
     "url": "https://api.getbible.net/v2/darby/51/2.json",
-    "sha": "8da2dfffc0c8174356d5ac4e661b829522ab2dea"
+    "sha": "7a699272625d8d99b9ef6d81f577325640a39d79"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Colossiens 3",
     "url": "https://api.getbible.net/v2/darby/51/3.json",
-    "sha": "2711b35595cdf97db6b00599695315be19a9ebae"
+    "sha": "141aaafa3cc67d2705473918bd2ac6db610d5686"
   },
   "4": {
     "translation": "Darby",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Colossiens 4",
     "url": "https://api.getbible.net/v2/darby/51/4.json",
-    "sha": "b84e7e84c09e5af88ad591209a4463b1493d2cde"
+    "sha": "682783d36864380957801b30ca23c26c4b8d4f9a"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Aggée 1",
     "url": "https://api.getbible.net/v2/darby/37/1.json",
-    "sha": "f57db0d3bb026b0f77c3955fbf56c8d43c8eac1e"
+    "sha": "27a018e519c75f6a7fec45149217115d0a6759cd"
   },
   "2": {
     "translation": "Darby",
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "Aggée 2",
     "url": "https://api.getbible.net/v2/darby/37/2.json",
-    "sha": "d877eec8aade01b77fabe62edcaaa79349ee2647"
+    "sha": "7237d392e7b292fac09dd0890c5f75ce3d6a38b5"
   }
 }

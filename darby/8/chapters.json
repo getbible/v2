@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ruth 1",
     "url": "https://api.getbible.net/v2/darby/8/1.json",
-    "sha": "40056b7922db4e33f95688cf2d4ff33abd7b3c90"
+    "sha": "1dd80c4f550ec1c614507e6d7574edd307b1aebb"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ruth 2",
     "url": "https://api.getbible.net/v2/darby/8/2.json",
-    "sha": "fccdc9b46d0eeed25b3364a003031793a38611cf"
+    "sha": "7be27efaf584b78044b665223aa26dec88354adf"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ruth 3",
     "url": "https://api.getbible.net/v2/darby/8/3.json",
-    "sha": "aba6f02e5122be35e095581f1ca4ea7faaafa410"
+    "sha": "ad127d57742b26645627fe0587614e320482e652"
   },
   "4": {
     "translation": "Darby",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Ruth 4",
     "url": "https://api.getbible.net/v2/darby/8/4.json",
-    "sha": "c2f84007f1d7490aac8c2d1a4507148fd54819f7"
+    "sha": "197bb66e38789cead3d84e17e43c470d50331d8d"
   }
 }

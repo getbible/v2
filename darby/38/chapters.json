@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Zacharie 1",
     "url": "https://api.getbible.net/v2/darby/38/1.json",
-    "sha": "958fc1bf629760fb70e07a0bee8f41537a51ea90"
+    "sha": "f3fba3192e1ae4226aef55f5b620d36c8e6a56d6"
   },
   "2": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Zacharie 3",
     "url": "https://api.getbible.net/v2/darby/38/3.json",
-    "sha": "618874802546f67e69049819812271b325be6bc4"
+    "sha": "572dfb31533066f68bda40475b37e8ca58a6a83c"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Zacharie 4",
     "url": "https://api.getbible.net/v2/darby/38/4.json",
-    "sha": "ee37fe004bc2713e64a9856288b9e3afd2394aea"
+    "sha": "b4b4b7b269964a9c2261ddd23b6f383d1caae8ee"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Zacharie 5",
     "url": "https://api.getbible.net/v2/darby/38/5.json",
-    "sha": "520be0f0871d88b4abeda19be4f1432a10ee8b34"
+    "sha": "57cb609cf4e72abdd6c2ac1fcebf215c2ddc3d2a"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Zacharie 6",
     "url": "https://api.getbible.net/v2/darby/38/6.json",
-    "sha": "aca422c22ae1f815d3c45c5f539d7ed5c054500d"
+    "sha": "92106b43eb8f7c631881499d13195e38945479ca"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Zacharie 7",
     "url": "https://api.getbible.net/v2/darby/38/7.json",
-    "sha": "ec0cfb2d792525b4bbd5c1269ebccc556fb85eda"
+    "sha": "7c2fbf95473af27b125e23238da7c86e6a271ad1"
   },
   "8": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Zacharie 9",
     "url": "https://api.getbible.net/v2/darby/38/9.json",
-    "sha": "3cd3e0b75ee943ab584432f8ac9c1546ef9304e2"
+    "sha": "ef56f7df83fbff710891f2ed88a6cd327f0fd726"
   },
   "10": {
     "translation": "Darby",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Zacharie 11",
     "url": "https://api.getbible.net/v2/darby/38/11.json",
-    "sha": "5597622b95054570dc7e744db99ae1ecbff2c4c9"
+    "sha": "11ce0bb92e37ae7eb2ad3f1f2c017ba1e174deda"
   },
   "12": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Zacharie 12",
     "url": "https://api.getbible.net/v2/darby/38/12.json",
-    "sha": "5de5fae62081b20e6cd67ae3fb4b2e4f95d3abeb"
+    "sha": "7b52b232c13dedb65e11baf66b5d998c3e7fe471"
   },
   "13": {
     "translation": "Darby",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Zacharie 13",
     "url": "https://api.getbible.net/v2/darby/38/13.json",
-    "sha": "6239dc8706c2319905d31052f60fabd0aa30276f"
+    "sha": "bdcc00e5f80a1f5e6f85eb5381aeb7e806c28065"
   },
   "14": {
     "translation": "Darby",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Zacharie 14",
     "url": "https://api.getbible.net/v2/darby/38/14.json",
-    "sha": "6343c965e3fa843e03bda41f9e2ea513e6d1c863"
+    "sha": "87d86ba949ee078ba612efcad9f6599332f34f09"
   }
 }

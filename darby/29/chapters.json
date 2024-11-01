@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Joël 1",
     "url": "https://api.getbible.net/v2/darby/29/1.json",
-    "sha": "60e30f679426fbbee0138e3774d30b3ffb129692"
+    "sha": "9876d0035c7f2d67f48ef3e5784fa756fd53e8d1"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Joël 2",
     "url": "https://api.getbible.net/v2/darby/29/2.json",
-    "sha": "e58fcd17e85c7060cc881fd3416ca6650ad3a45a"
+    "sha": "7cefdc38984b16c90c209b34a667477a3b68efd2"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Joël 3",
     "url": "https://api.getbible.net/v2/darby/29/3.json",
-    "sha": "b896437bb3c415afefde4cbacb7d8bd724345329"
+    "sha": "bb50e3874d4506938b26d7c3ff77d80170ef1e2f"
   },
   "4": {
     "translation": "Darby",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Joël 4",
     "url": "https://api.getbible.net/v2/darby/29/4.json",
-    "sha": "afc84f25a63be97bba09f8cd1f3b23b31fc7d520"
+    "sha": "9b68bfb9eb3ee3bc9a12b8bf874789ba8c8d1ce9"
   }
 }

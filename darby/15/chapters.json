@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Esdras 1",
     "url": "https://api.getbible.net/v2/darby/15/1.json",
-    "sha": "0ea8916286015f6c22c23ef9affaafd6ea2839ed"
+    "sha": "57b2304c9d4c4f42c262892e4672cca1d05c2d5c"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Esdras 2",
     "url": "https://api.getbible.net/v2/darby/15/2.json",
-    "sha": "8171a90bf2899299ade077de846e2a584ef5149d"
+    "sha": "a89da5e006aaf09f05fbcae580235ba02747df17"
   },
   "3": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Esdras 4",
     "url": "https://api.getbible.net/v2/darby/15/4.json",
-    "sha": "d9b608db0c872d034146102fca14d13dd89ea86d"
+    "sha": "da14f74dfa5ca91fab2c063f18f7d114f639bd48"
   },
   "5": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Esdras 5",
     "url": "https://api.getbible.net/v2/darby/15/5.json",
-    "sha": "150bf22e0bb256aacba98336d9743ac6c564fe2d"
+    "sha": "e3416fdb819dc2acee4bca515527ff5bedab8a76"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Esdras 6",
     "url": "https://api.getbible.net/v2/darby/15/6.json",
-    "sha": "4172a57796144fe2226409a24b0f347f6ec2350d"
+    "sha": "4cb7157d1bb8ff4fdaea9e750d3b56a870ebc48e"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Esdras 7",
     "url": "https://api.getbible.net/v2/darby/15/7.json",
-    "sha": "d3f002718ffc00bcddc6b0a4f8b1a29c8ff887da"
+    "sha": "11566003398ae162a5361b33c32f16dd27770e9d"
   },
   "8": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Esdras 9",
     "url": "https://api.getbible.net/v2/darby/15/9.json",
-    "sha": "3b49b4a83f4f7b63d54e7914a5507bc4f796206e"
+    "sha": "e168ca1381ef02d0eeb62b9f0005b6f1d0c85dbf"
   },
   "10": {
     "translation": "Darby",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Esdras 10",
     "url": "https://api.getbible.net/v2/darby/15/10.json",
-    "sha": "23077b7893c44c8cdc8cb6fa3a836328e1a61c0c"
+    "sha": "570db0e0db1bdbf525160d4ceb1a3c2918be7283"
   }
 }

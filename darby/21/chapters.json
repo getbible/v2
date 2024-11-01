@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ecclésiaste 1",
     "url": "https://api.getbible.net/v2/darby/21/1.json",
-    "sha": "2c5bce9a4d26dcf3118b4693124fdcb7eac14ce2"
+    "sha": "5e9636162f2bf4ea1398fa664084757844fe53a1"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ecclésiaste 2",
     "url": "https://api.getbible.net/v2/darby/21/2.json",
-    "sha": "6d38540d3b880d913ec3078d3baa62c9ee09051e"
+    "sha": "cef0a96aa53b9b6eb1aaecb8cef7a4af80f64176"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ecclésiaste 3",
     "url": "https://api.getbible.net/v2/darby/21/3.json",
-    "sha": "6d13586252f6959b2a79d9badd80d1ccdf2bbd66"
+    "sha": "143ebe553e7734cce491b93312ce5ff13078c1d4"
   },
   "4": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ecclésiaste 5",
     "url": "https://api.getbible.net/v2/darby/21/5.json",
-    "sha": "bf35ff89c8f8b4a321bffe64896d3b26cd347aff"
+    "sha": "9f8333132721ed49d24958c206e177fe224ce4a8"
   },
   "6": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Ecclésiaste 6",
     "url": "https://api.getbible.net/v2/darby/21/6.json",
-    "sha": "3fec033ab3c3ec1c76fede72446098fe198122cc"
+    "sha": "34e7974265252d8a71cec535b2a66d86560dd377"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Ecclésiaste 7",
     "url": "https://api.getbible.net/v2/darby/21/7.json",
-    "sha": "fa762bbdacffe4566b050a3f3ef6e77f2b1ab7e3"
+    "sha": "dd1d79edee82d8b355a3d55908207ebe544a2ccc"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Ecclésiaste 8",
     "url": "https://api.getbible.net/v2/darby/21/8.json",
-    "sha": "ce8bbf54083e9d0f8722c29edb7f96a608c2073e"
+    "sha": "24e1a3553cfb8509f10af8093230f5688a7140b1"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Ecclésiaste 9",
     "url": "https://api.getbible.net/v2/darby/21/9.json",
-    "sha": "dfdeb5c70154b34c793b3df839f22f845dd539eb"
+    "sha": "0bf54373d184b4bf2de8e0b9fcf9e2c7eea58928"
   },
   "10": {
     "translation": "Darby",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Ecclésiaste 10",
     "url": "https://api.getbible.net/v2/darby/21/10.json",
-    "sha": "e9e845139f3953b8b19ee7ecc864e036353394d3"
+    "sha": "e64d4443fbe9455e685d417c87380c358dd2a991"
   },
   "11": {
     "translation": "Darby",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Ecclésiaste 12",
     "url": "https://api.getbible.net/v2/darby/21/12.json",
-    "sha": "418cbac1c2c2659d156fddd9d0608e32acf4ead0"
+    "sha": "c7a58f628b56bed6694da007472e785dea70b50c"
   }
 }

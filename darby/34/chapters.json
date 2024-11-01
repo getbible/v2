@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Nahum 1",
     "url": "https://api.getbible.net/v2/darby/34/1.json",
-    "sha": "faa38a5d96a63b58f55e0daa25e73ea8e6b25909"
+    "sha": "feda644b182b6174db4e4817ab2ffe9df9834ee2"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Nahum 2",
     "url": "https://api.getbible.net/v2/darby/34/2.json",
-    "sha": "95502b033d8be0f95c8c8a3acd941375c88c7cdb"
+    "sha": "a84cbecd05bbb954ae5269a299efd7197d017932"
   },
   "3": {
     "translation": "Darby",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Nahum 3",
     "url": "https://api.getbible.net/v2/darby/34/3.json",
-    "sha": "6bb9f432d095b7d5c4cdd80577fd1518749fb115"
+    "sha": "97ec303ebe2b8e4668bbf326ea144c84b1354024"
   }
 }

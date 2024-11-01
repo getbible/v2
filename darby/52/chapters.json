@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Thessaloniciens 1",
     "url": "https://api.getbible.net/v2/darby/52/1.json",
-    "sha": "bf0111c568c14f2ad9545f3cffd8ec4a041a6b52"
+    "sha": "f3ad092c878326b1cf75f529108007013b2e3639"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Thessaloniciens 2",
     "url": "https://api.getbible.net/v2/darby/52/2.json",
-    "sha": "2138ae819f58c5c538e25e2fb2921da6cfd027b2"
+    "sha": "7ad5005e0b7f1b01fb918838d468290ece3fac5a"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Thessaloniciens 3",
     "url": "https://api.getbible.net/v2/darby/52/3.json",
-    "sha": "e1fe5e415d540097ef75d501231e055966840f63"
+    "sha": "5728bf648efaf455cf891437f3edd80eae6e0c05"
   },
   "4": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Thessaloniciens 4",
     "url": "https://api.getbible.net/v2/darby/52/4.json",
-    "sha": "e20e867c95758cee2d941f461baad73186e5b5eb"
+    "sha": "f3286bed0106c7f60e015c273f4fd5faf965ccfa"
   },
   "5": {
     "translation": "Darby",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Thessaloniciens 5",
     "url": "https://api.getbible.net/v2/darby/52/5.json",
-    "sha": "e165ecc728be5cb1a4c863210a78c335350fc5e1"
+    "sha": "23cba1c2b66096e50fb9251efc9933330b987207"
   }
 }
