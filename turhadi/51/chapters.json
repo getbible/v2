@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/turhadi/51/1.json",
+    "sha": "75cdb27db1fe65c0144a3ef3a955c81b808106dd"
+  },
+  "2": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/turhadi/51/2.json",
+    "sha": "c133967cf8f592f531ca57ce947b3869e9047eaf"
+  },
+  "3": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/turhadi/51/3.json",
+    "sha": "4eb0041288a533a37171a7ff8898bb7b56435eec"
+  },
+  "4": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/turhadi/51/4.json",
+    "sha": "58c6c52865b59275e87f4e91daa0a58ec0654244"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/shona/51/1.json",
+    "sha": "9fb864738f5cf4dd0110066dabfb57e22e64de25"
+  },
+  "2": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/shona/51/2.json",
+    "sha": "7bcbd0dbab2420df99b77d27d8d2b3358b689f3a"
+  },
+  "3": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/shona/51/3.json",
+    "sha": "3181a37a3a892ad0e8bea442a24f9b04230feb3e"
+  },
+  "4": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/shona/51/4.json",
+    "sha": "27d081b7dbda30e94903219fe5e12f70aa117a7f"
+  }
+}

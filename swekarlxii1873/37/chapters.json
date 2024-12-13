@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/37/1.json",
+    "sha": "58e0b1b42e3ac07a5c7cd24bd6ffd27016af9aef"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/37/2.json",
+    "sha": "3f79bdad9330d78be831b74fb7a130e88a3faaa1"
+  }
+}

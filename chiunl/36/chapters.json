@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://api.getbible.net/v2/chiunl/36/1.json",
+    "sha": "1b29ebc895aaa5b6ad5f8f8b88b0da83d2a3c36e"
+  },
+  "2": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://api.getbible.net/v2/chiunl/36/2.json",
+    "sha": "523ead64590491550af11f72515440b9fa154810"
+  },
+  "3": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://api.getbible.net/v2/chiunl/36/3.json",
+    "sha": "89ba801cc86aabc762e9824d988ac7c5b3c28cfb"
+  }
+}

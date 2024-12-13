@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/monkjv/59/1.json",
+    "sha": "7220e0e08d56fac2090a375a0ade3076960e93e2"
+  },
+  "2": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/monkjv/59/2.json",
+    "sha": "a8c6636f72da92e0b9fe554cd8f83dff113b3e7d"
+  },
+  "3": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/monkjv/59/3.json",
+    "sha": "495a3affb953d5c4c175c3ca27acfab7741a0cd1"
+  },
+  "4": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/monkjv/59/4.json",
+    "sha": "7a45cc1104631b64ec8971298c4129bd01c573ae"
+  },
+  "5": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/monkjv/59/5.json",
+    "sha": "0b44b2a6e16ad803a760780511d3db637745e476"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/ukrogienko/51/1.json",
+    "sha": "65c353b2274734bc0d4ef37fe3abe66b8ce0d657"
+  },
+  "2": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/ukrogienko/51/2.json",
+    "sha": "f471dbf4ee3142fe6a1d7fec845170630a8c68b3"
+  },
+  "3": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/ukrogienko/51/3.json",
+    "sha": "5740cd71a9b3239c52f058f02466792c90657eb3"
+  },
+  "4": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/ukrogienko/51/4.json",
+    "sha": "ef33557f4b712d21f23c37f7c3935cc016e6f246"
+  }
+}

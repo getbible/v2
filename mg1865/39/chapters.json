@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/mg1865/39/1.json",
+    "sha": "d5cd392313e92a5e6524d4d6861cb90e75007c7d"
+  },
+  "2": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/mg1865/39/2.json",
+    "sha": "1f291daac3b8f7d0f3c1cd81fa1b9f5f8564e8ff"
+  },
+  "3": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/mg1865/39/3.json",
+    "sha": "f0d4b1c240c0c57e242f392e63aa99de5af91aca"
+  }
+}

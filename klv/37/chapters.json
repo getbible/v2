@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://api.getbible.net/v2/klv/37/1.json",
+    "sha": "7ab43d858ff6d81970879f4e520123851bec313d"
+  },
+  "2": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://api.getbible.net/v2/klv/37/2.json",
+    "sha": "49112db78d25c38fe3ac9982674c45bcc6ed117d"
+  }
+}

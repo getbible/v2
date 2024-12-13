@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/srkdekavski/32/1.json",
+    "sha": "12062fdadd7d301d79473ed6b09c52f826f3ed96"
+  },
+  "2": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/srkdekavski/32/2.json",
+    "sha": "c3cfd0908e8d27975661f8427bfc1e87b8c0cdcf"
+  },
+  "3": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/srkdekavski/32/3.json",
+    "sha": "abc8bf2ed699cf6e7c39e186df0d082986d0531e"
+  },
+  "4": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/srkdekavski/32/4.json",
+    "sha": "63cfb8bb6dcbed58cef04032c0ee646d649d5b73"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/pohnold/53/1.json",
+    "sha": "f5844aab58ddaf6a7645ca37361293bdac6b0308"
+  },
+  "2": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/pohnold/53/2.json",
+    "sha": "d73edbedc55787ca82d1b8834f47091e15352685"
+  },
+  "3": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/pohnold/53/3.json",
+    "sha": "4f2f0479b5dbd1f7eeabeb9441dbcf1e2a9c7d87"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/alb/51/1.json",
+    "sha": "f76a1e0810c3e1761bead02fb661f0e191dc52ed"
+  },
+  "2": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/alb/51/2.json",
+    "sha": "e24bd22bf8c209b2773742e0b259f6e476a2c5bf"
+  },
+  "3": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/alb/51/3.json",
+    "sha": "1e59e2f59a7985bb113a0763abe626c97ff9773a"
+  },
+  "4": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/alb/51/4.json",
+    "sha": "e26af835b30c1f6110a9b7162a372d1d35e10ea6"
+  }
+}

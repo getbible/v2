@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/53/1.json",
+    "sha": "8d7f5dc0e1429fd06bef3964137d742b59e4d2d7"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/53/2.json",
+    "sha": "9359947e3ead7528e4db50fa9598ffeb0a2b10fd"
+  },
+  "3": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/53/3.json",
+    "sha": "33ea66a990c319f31fa04911d383121a45445f56"
+  }
+}

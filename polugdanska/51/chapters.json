@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/polugdanska/51/1.json",
+    "sha": "24a32c7c12c5068a338a41bf71890a8925d51042"
+  },
+  "2": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/polugdanska/51/2.json",
+    "sha": "85a4a572671a88b0b7b519030b3f833d9ed68b2c"
+  },
+  "3": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/polugdanska/51/3.json",
+    "sha": "a878df850c3e7ecbec26e7f0557c3a7d4fcf00f1"
+  },
+  "4": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/polugdanska/51/4.json",
+    "sha": "1ba999a8b82bd8c047f4460869ebe53936dc4918"
+  }
+}

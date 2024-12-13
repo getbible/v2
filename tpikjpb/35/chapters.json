@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/tpikjpb/35/1.json",
+    "sha": "f621a9b4d7c217085b0f70f7e82d8e68a3653868"
+  },
+  "2": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/tpikjpb/35/2.json",
+    "sha": "8059a1ca0436289b663f81ff31618e0149cbf5d3"
+  },
+  "3": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/tpikjpb/35/3.json",
+    "sha": "623992dfec09729d945be2c2ad976d9d90267120"
+  }
+}

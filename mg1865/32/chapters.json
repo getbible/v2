@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/mg1865/32/1.json",
+    "sha": "7342ce5ff4d041a86d5feda8398b499a0a17fd7a"
+  },
+  "2": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/mg1865/32/2.json",
+    "sha": "0e0a025f67d866136f20f98e3ba0e39d3c62ad52"
+  },
+  "3": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/mg1865/32/3.json",
+    "sha": "f6fb5397cf415b2a3f3b026436bc4ec7e0bb0665"
+  },
+  "4": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/mg1865/32/4.json",
+    "sha": "3528bf93db7913bc83a5fbf7ce7addf805f5bc10"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 63,
+    "book_name": "2 John",
+    "chapter": 1,
+    "name": "2 John 1",
+    "url": "https://api.getbible.net/v2/chiunl/63/1.json",
+    "sha": "ee6d7fa798fef0c79309cf729445a9474de7e029"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/srkdekavski/35/1.json",
+    "sha": "d96123bc0aceb8d5a5147520638d43f73efa6c54"
+  },
+  "2": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/srkdekavski/35/2.json",
+    "sha": "7bb41860010e4161f5b4d7d2d6f12b49508bde34"
+  },
+  "3": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/srkdekavski/35/3.json",
+    "sha": "174d1df22adac916f10b61347d87317c547c1012"
+  }
+}

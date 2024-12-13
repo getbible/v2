@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/tpikjpb/53/1.json",
+    "sha": "8c95282e89d6a9b7fbabf520e48e171d3e839369"
+  },
+  "2": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/tpikjpb/53/2.json",
+    "sha": "e2a75cac7a058fb8478579c69d5f66e1dd661e90"
+  },
+  "3": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/tpikjpb/53/3.json",
+    "sha": "d3f5439b3817d3862226398b5770db6f4b58892c"
+  }
+}

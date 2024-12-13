@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 1,
+    "name": "Lamentations 1",
+    "url": "https://api.getbible.net/v2/polgdanska/25/1.json",
+    "sha": "0e33e34c071a67749a770b4dff531bdaca32ffbe"
+  },
+  "2": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 2,
+    "name": "Lamentations 2",
+    "url": "https://api.getbible.net/v2/polgdanska/25/2.json",
+    "sha": "4dabfa8261df6e54701ef55230ff0946e2eb1b2e"
+  },
+  "3": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 3,
+    "name": "Lamentations 3",
+    "url": "https://api.getbible.net/v2/polgdanska/25/3.json",
+    "sha": "a10a41fcb9619ad217556796d261eaf09181847f"
+  },
+  "4": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 4,
+    "name": "Lamentations 4",
+    "url": "https://api.getbible.net/v2/polgdanska/25/4.json",
+    "sha": "1106399605dabe8498925d0fb3be1452395f6d47"
+  },
+  "5": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 5,
+    "name": "Lamentations 5",
+    "url": "https://api.getbible.net/v2/polgdanska/25/5.json",
+    "sha": "31ab8f6f7ec61440bd660d80b8f04b34fedafaed"
+  }
+}

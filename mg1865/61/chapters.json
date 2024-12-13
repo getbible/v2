@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/mg1865/61/1.json",
+    "sha": "af1ec6abde190cd29480c4f33beae47e62c40562"
+  },
+  "2": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/mg1865/61/2.json",
+    "sha": "ab87367e25ff1568f79d55d5990b9fec794a2175"
+  },
+  "3": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/mg1865/61/3.json",
+    "sha": "fcb7e8472e6e4c88e1c72175f41913037f3c1b20"
+  }
+}

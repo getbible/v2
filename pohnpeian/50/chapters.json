@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/pohnpeian/50/1.json",
+    "sha": "30e9e5470852433411340565fd27f02ad416aa66"
+  },
+  "2": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/pohnpeian/50/2.json",
+    "sha": "183954e63c80bf950b2fde3783c666575b6495b6"
+  },
+  "3": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/pohnpeian/50/3.json",
+    "sha": "4115cfb29678cd4a90ca35d8da1c4f236f380372"
+  },
+  "4": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/pohnpeian/50/4.json",
+    "sha": "202674a9df66647679d578fa03a65514e29ba97a"
+  }
+}

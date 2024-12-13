@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/srkdekavski/50/1.json",
+    "sha": "43f8f2ae66de626c1d9477fe828286de9b55bbc1"
+  },
+  "2": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/srkdekavski/50/2.json",
+    "sha": "ae221ca72684ba06f473a07241fe39dd8ac25b12"
+  },
+  "3": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/srkdekavski/50/3.json",
+    "sha": "e7cc1de96dedf82ca084b71115ae843fb97cc703"
+  },
+  "4": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/srkdekavski/50/4.json",
+    "sha": "011b07c26e6aaad6c320a5d4540bfca4c6d9e998"
+  }
+}

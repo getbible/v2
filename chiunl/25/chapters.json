@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 1,
+    "name": "Lamentations 1",
+    "url": "https://api.getbible.net/v2/chiunl/25/1.json",
+    "sha": "ceb6f2b2a6fe67b9f0a3de05cbe72208d6214923"
+  },
+  "2": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 2,
+    "name": "Lamentations 2",
+    "url": "https://api.getbible.net/v2/chiunl/25/2.json",
+    "sha": "956c0fd5c7ea6c195e1ee1b2488d933cd78f5ce1"
+  },
+  "3": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 3,
+    "name": "Lamentations 3",
+    "url": "https://api.getbible.net/v2/chiunl/25/3.json",
+    "sha": "89c488efa2d0a56482e5dfa7feaad66487250410"
+  },
+  "4": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 4,
+    "name": "Lamentations 4",
+    "url": "https://api.getbible.net/v2/chiunl/25/4.json",
+    "sha": "71a6a043862349ea455b3e065de61bd5c658fc35"
+  },
+  "5": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 5,
+    "name": "Lamentations 5",
+    "url": "https://api.getbible.net/v2/chiunl/25/5.json",
+    "sha": "b5d5c2a56f5c3a8516c2a4ba557d373821ffb814"
+  }
+}

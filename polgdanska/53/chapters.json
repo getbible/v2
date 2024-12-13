@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/polgdanska/53/1.json",
+    "sha": "0765841ea310568161ce20c86012ecaa06664500"
+  },
+  "2": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/polgdanska/53/2.json",
+    "sha": "2946bf7af1fdb002ea9f407e32d5699da0da8cbb"
+  },
+  "3": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/polgdanska/53/3.json",
+    "sha": "b25a9013b66b6179baba93261dfe87756d205c3b"
+  }
+}

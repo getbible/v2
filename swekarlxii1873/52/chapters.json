@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 1,
+    "name": "1 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/52/1.json",
+    "sha": "12bd919519c8ea7e5279596d503e57d7653545b7"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "name": "1 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/52/2.json",
+    "sha": "1a859b9e75770c0a7a3c489f38978497a77b9631"
+  },
+  "3": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 3,
+    "name": "1 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/52/3.json",
+    "sha": "afb3a7f112b9ed0869cef63230be6b247dae0d3d"
+  },
+  "4": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "name": "1 Thessalonians 4",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/52/4.json",
+    "sha": "2c37bc25485ddd2fce2bde75c58f600e66305c7b"
+  },
+  "5": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "name": "1 Thessalonians 5",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/52/5.json",
+    "sha": "0ec3339208a435c9bbd6c3868f547a5a12db729b"
+  }
+}

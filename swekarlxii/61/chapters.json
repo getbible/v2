@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/swekarlxii/61/1.json",
+    "sha": "431c4ff8d2b7fa56a84facc9bb2e8d91f13d664a"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/swekarlxii/61/2.json",
+    "sha": "78dd00e8449f5983bdc39be9c399d73c7a6068e7"
+  },
+  "3": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/swekarlxii/61/3.json",
+    "sha": "0c01789e8cabcc092cde36dd477723dd1fa3924f"
+  }
+}

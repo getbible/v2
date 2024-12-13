@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/pohnpeian/32/1.json",
+    "sha": "8fc44cee3182fa0907053fa335e8907afdf383c3"
+  },
+  "2": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/pohnpeian/32/2.json",
+    "sha": "f624c2103d9043b970b0d76a9127dbdd1cd226a7"
+  },
+  "3": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/pohnpeian/32/3.json",
+    "sha": "d8fb796c30b3c7d15b771b15a5ae32ec50af2c78"
+  },
+  "4": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/pohnpeian/32/4.json",
+    "sha": "29f87f8b7584061d2e0b63ff247db8b9986426c0"
+  }
+}

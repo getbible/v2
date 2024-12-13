@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/monkjv/51/1.json",
+    "sha": "d88a329c92cd5df57b32f38076f087197187624d"
+  },
+  "2": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/monkjv/51/2.json",
+    "sha": "79710917eab5b29fe5c55c1c27868b17a97d5294"
+  },
+  "3": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/monkjv/51/3.json",
+    "sha": "e8fbcb7ce11c81490e49e3928782d246bfc99905"
+  },
+  "4": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/monkjv/51/4.json",
+    "sha": "50a8825b3d1bbcaa03e5ab10e26ee3735732ff36"
+  }
+}

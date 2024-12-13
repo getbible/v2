@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://api.getbible.net/v2/dari/36/1.json",
+    "sha": "ef787c14cf97ea2503b458184e0c9434095f7acb"
+  },
+  "2": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://api.getbible.net/v2/dari/36/2.json",
+    "sha": "ddd6f650585f0c3789083d0d4a1037fbd3cf7323"
+  },
+  "3": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://api.getbible.net/v2/dari/36/3.json",
+    "sha": "2c358183a22f2841ecbf9b99f042d3ffe89abc06"
+  }
+}

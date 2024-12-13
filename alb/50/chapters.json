@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/alb/50/1.json",
+    "sha": "63132f493e51df88721c26d04789e6c5c853f37d"
+  },
+  "2": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/alb/50/2.json",
+    "sha": "bff399512e64a52dc1a9f4002833e0884b7785ab"
+  },
+  "3": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/alb/50/3.json",
+    "sha": "1834d46d6464e056104a48b74f10b1ce8c5e5136"
+  },
+  "4": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/alb/50/4.json",
+    "sha": "926e8a7887d741aff6dfb4424db7a551a9a5827a"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://api.getbible.net/v2/norsmb/37/1.json",
+    "sha": "95886d518610e0e86478caeca2725ec016f8e792"
+  },
+  "2": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://api.getbible.net/v2/norsmb/37/2.json",
+    "sha": "07bd89f50e9e6f6c54808458629ecaf86c63adec"
+  }
+}

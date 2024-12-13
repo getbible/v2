@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/monkjv/56/1.json",
+    "sha": "feb5ce505f02e5bf199e2df3d6905eea84b3d8a2"
+  },
+  "2": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/monkjv/56/2.json",
+    "sha": "6676abcdc24a4c518cdcfb3e1ba3983d5d935ed3"
+  },
+  "3": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/monkjv/56/3.json",
+    "sha": "562b395df8f833ae59b47b01829f1937cb0c3971"
+  }
+}

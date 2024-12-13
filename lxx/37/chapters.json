@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://api.getbible.net/v2/lxx/37/1.json",
+    "sha": "f26f8c95fc69e7d7f80581d1d1dc53345bd7cbfe"
+  },
+  "2": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://api.getbible.net/v2/lxx/37/2.json",
+    "sha": "424c8418127511c5e596b4dc362425121f9facbd"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://api.getbible.net/v2/srkdekavski/29/1.json",
+    "sha": "d60ef17c14592b6da8bf59d307b5e45903c1925a"
+  },
+  "2": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://api.getbible.net/v2/srkdekavski/29/2.json",
+    "sha": "6bd69d282c4be2783c39baf2f2f0b14d5446eb98"
+  },
+  "3": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://api.getbible.net/v2/srkdekavski/29/3.json",
+    "sha": "4e9d4af64e2693b7815a9685b5d49823f77f2850"
+  }
+}

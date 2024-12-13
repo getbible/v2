@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/alb/55/1.json",
+    "sha": "6560f9ec09e6dde7e9374e9355862ad56b4a6e56"
+  },
+  "2": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/alb/55/2.json",
+    "sha": "243e36c4fb57fab0bef6612cc6facb03a19c6369"
+  },
+  "3": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/alb/55/3.json",
+    "sha": "a28b0630b8085c4caa1434d7bd4a65e1150b3a60"
+  },
+  "4": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/alb/55/4.json",
+    "sha": "eb1dee68961797fe86ad5c0fd2d2beea66a7cc9f"
+  }
+}

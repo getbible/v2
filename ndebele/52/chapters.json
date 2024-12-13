@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 1,
+    "name": "1 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/ndebele/52/1.json",
+    "sha": "aab1cdb7194b1dcd3c757433ac611c4b4e76a791"
+  },
+  "2": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "name": "1 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/ndebele/52/2.json",
+    "sha": "3b464b23727fdfda8c2aec246367f345b5e23d75"
+  },
+  "3": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 3,
+    "name": "1 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/ndebele/52/3.json",
+    "sha": "ed4c8725309770b422f22c71311fec5261c6c013"
+  },
+  "4": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "name": "1 Thessalonians 4",
+    "url": "https://api.getbible.net/v2/ndebele/52/4.json",
+    "sha": "ff0eaf76432408ab03236194b0aec0e034f5dc46"
+  },
+  "5": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "name": "1 Thessalonians 5",
+    "url": "https://api.getbible.net/v2/ndebele/52/5.json",
+    "sha": "381ed9177f4685276bd9a4251bf27c6ffe6c3f16"
+  }
+}

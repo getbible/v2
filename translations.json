@@ -26,6 +26,31 @@
     "url": "https://api.getbible.net/v2/akjv.json",
     "sha": "db887e43391ae4e394e908f9216c40cd5682b7ae"
   },
+  "alb": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "description": "Albanian Bible",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Albanian",
+    "distribution_version": "2.0",
+    "distribution_version_date": "2020-02-08",
+    "distribution_abbreviation": "Bibla e Shenjtë",
+    "distribution_about": "Albanian Bible\\par Courtesy the Unbound Bible\\par (http://unbound.biola.edu/)",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://unbound.biola.edu/ & https://www.biblegateway.com/versions/Albanian-Bible-ALB/#booklist",
+    "distribution_versification": "KJV",
+    "distribution_history": {
+      "history_1.1": "enciphered module",
+      "history_1.2": "changed to Unbound Bible’s PD UTF-8 source and compressed",
+      "history_2.0": "(2020-02-08) New TextSource"
+    },
+    "url": "https://api.getbible.net/v2/alb.json",
+    "sha": "6824cb3e7bd47e05ba2a31093ba5a99a1b257b04"
+  },
   "aleppo": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
@@ -290,6 +315,55 @@
     "url": "https://api.getbible.net/v2/breton.json",
     "sha": "648ad897438b779641b8b81695f1fc879c70a59b"
   },
+  "burcbcm": {
+    "translation": "ဤဘာသာပြန်ကျမ်းကိုကက်သလစ်ဆရာတော်များရုံးချုပ်ရှိ  သမမ္မာ ကျမ်းစာတမန်တော်လုပ်ငန်းကော်မစ်ရှင်မှပံ့ပိုးပေးပါသည်။",
+    "abbreviation": "burcbcm",
+    "description": "ဤဘာသာပြန်ကျမ်းကိုကက်သလစ်ဆရာတော်များရုံးချုပ်ရှိ  သမမ္မာ ကျမ်းစာတမန်တော်လုပ်ငန်းကော်မစ်ရှင်မှပံ့ပိုးပေးပါသည်။",
+    "lang": "my",
+    "language": "Myanmar Burmse",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Burmese",
+    "distribution_version": "1.2.1",
+    "distribution_version_date": "2019-10-23",
+    "distribution_abbreviation": "ကက်သလစ်သမ္မာကျမ်းစာ CBCM",
+    "distribution_about": "ဤဘာသာပြန်ကျမ်းကိုကက်သလစ်ဆရာတော်များရုံးချုပ်ရှိ  သမမ္မာ ကျမ်းစာတမန်တော်လုပ်ငန်းကော်မစ်ရှင်မှပံ့ပိုးပေးပါသည်။",
+    "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://git.crosswire.org/cyrille/myanmar",
+    "distribution_versification": "Catholic",
+    "distribution_history": {
+      "history_1.0": "(2019-10-22) Initial release",
+      "history_1.1": "(2019-10-23) Config: Added Scope=Ps,Pr, Matt-Rev",
+      "history_1.2": "(2019-10-23) Fix conf file",
+      "history_1.2.1": "(2022-07-31) conf file: fix typos"
+    },
+    "url": "https://api.getbible.net/v2/burcbcm.json",
+    "sha": "4e20ddbbd127ac4d70af0674e312db42929e507d"
+  },
+  "calo": {
+    "translation": "El Evangelio segun S. Lucas, traducido al Romaní, ó dialecto de los Gitanos de España",
+    "abbreviation": "calo",
+    "description": "El Evangelio segun S. Lucas, traducido al Romaní, ó dialecto de los Gitanos de España",
+    "lang": "rmq",
+    "language": "Calo",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. N.T. Calo.",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2010-08-07",
+    "distribution_abbreviation": "calo",
+    "distribution_about": "Ocóna embéo lo chibó en Calo-romano George Borrow, lacró e Plastañi Biblica, andré o foros de Badajoz opré a mixa de Laloró, chaomo e berji de Jesunvais de 1836.",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "Project Gutenberg",
+    "distribution_versification": "",
+    "distribution_history": {
+      "history_1.0": "Initial release"
+    },
+    "url": "https://api.getbible.net/v2/calo.json",
+    "sha": "ba8660693e112aa1e731222d8918e653a892c6f8"
+  },
   "canisius": {
     "translation": "Petrus Canisius Translation",
     "abbreviation": "canisius",
@@ -409,6 +483,29 @@
     },
     "url": "https://api.getbible.net/v2/che1860.json",
     "sha": "1e3abce51133ca2d3fd639b0747536e1d1160cf1"
+  },
+  "chiunl": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "description": "聖經 (文理和合)",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Chinese.",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2012-07-25",
+    "distribution_abbreviation": "chiunl",
+    "distribution_about": "譯者：湛約翰、艾約瑟、惠志道、謝衛樓、沙伯\\par\\par 文理和合本新約全書於1906年出版，新舊約全書於1919年出版。隨後新約略加修訂，潤飾譯文，庶使文筆能追及舊約。修訂新約後的新舊約全書，於1923年出版，至1934年印行最後一版",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://zh.wikisource.org/zh-hant/聖經%20(文理和合)",
+    "distribution_versification": "NRSV",
+    "distribution_history": {
+      "history_1.0": "Initial release (2012-07-25)"
+    },
+    "url": "https://api.getbible.net/v2/chiunl.json",
+    "sha": "8b4e98467c6e119e60ee48460afc95a06b65a43b"
   },
   "cns": {
     "translation": "NCV Simplified",
@@ -770,6 +867,31 @@
     },
     "url": "https://api.getbible.net/v2/darby.json",
     "sha": "8bd28472f3c36f20703a1c90c7abc5b711babb72"
+  },
+  "dari": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "description": "Dari Translation",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Dari.",
+    "distribution_version": "1.0.2",
+    "distribution_version_date": "2013-01-05",
+    "distribution_abbreviation": "dari",
+    "distribution_about": "Farsi (Dari) Translation for Afghanistan. This module may be distributed for God's glory without any alteration to format or content.",
+    "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "",
+    "distribution_versification": "",
+    "distribution_history": {
+      "history_1.0.2": "Moved to CrossWire main repository (2013-01-05)",
+      "history_1.0.1": "Added trailing '/' in .conf (2012-07-12)",
+      "history_1.0": "Initial release (2009-01-15)"
+    },
+    "url": "https://api.getbible.net/v2/dari.json",
+    "sha": "3d5f3f4f159f4d5bcfe9041c8bef996193000684"
   },
   "douayrheims": {
     "translation": "Douay Rheims",
@@ -1242,6 +1364,31 @@
     "url": "https://api.getbible.net/v2/kjva.json",
     "sha": "615f7414236a3695ec20e95c3244e08a9c018725"
   },
+  "klv": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "description": "Klingon Language Version of the World English Bible",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "distribution_lcsh": "Bible. English and Klingon.",
+    "distribution_version": "2.2",
+    "distribution_version_date": "2006-10-25",
+    "distribution_abbreviation": "klv",
+    "distribution_about": " Hegh tI, 'ej ngab tI naH,\\par 'ach reH taHtaH joH'a'ma' mu'\\par The grass withers, the flower fades;\\par but the word of our God stands forever. Isaiah 40:8\\par\\par A project of the Universal Translator Assistant Project (http://www.mrklingon.org) the Klingon Language Version is an experimental relexification of the WEB.  It is not properly a translation, but a demonstration of what a tlhIngan Hol (Klingon Language) Bible would look like.\\par\\par Joel Peter Anderson\\par joel@mrklingon.org\\par http://klv.mrklingon.org\\par",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "GBF",
+    "distribution_source": "http://klv.mrklingon.org/",
+    "distribution_versification": "",
+    "distribution_history": {
+      "history_2.2": "Changed Lang to ISO-639-3 version",
+      "history_2.1": "Compressed the module",
+      "history_2.0": "Generated KLV of WEB 3-25-2005"
+    },
+    "url": "https://api.getbible.net/v2/klv.json",
+    "sha": "58901035191283764773bce5eac9c1b07afb2999"
+  },
   "korean": {
     "translation": "Korean",
     "abbreviation": "korean",
@@ -1459,6 +1606,35 @@
     "url": "https://api.getbible.net/v2/luther1545.json",
     "sha": "0599a6aef29d2ff341d16168e42a0c71dc20b628"
   },
+  "lxx": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "description": "Septuagint, Morphologically Tagged Rahlfs'",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Ancient Greek (to 1453).O.T.",
+    "distribution_version": "3.0",
+    "distribution_version_date": "2022-08-23",
+    "distribution_abbreviation": "lxx",
+    "distribution_about": "\\pard The Analytic Septuagint was prepared by Steve Amato of the Boston Christian Bible Study Resources http://www.bcbsr.com\\par\\par Morphology was included from the LXXM (see below)\\par The The Analytic Septuagint is not to be used, either directly or indirectly, for commercial purposes without prior written consent of Steve Amato and the legal authors and developers of the morphology of the LXXM identified below.\\par\\par The LXXM = The morphologically analyzed text of CATSS LXX prepared by CATSS under the direction of R. Kraft (Philadelphia team)\\par\\par The CATSS LXX = The computer form prepared by the TLG (Thesaurus Linguae Graecae) Project directed by T. Brunner at the University of California, Irvine, with further verification and adaptation (in process) by CATSS towards conformity with the individual Göttingen editions that have appeared since 1935.\\par\\par The LXX = Septuaginta, ed. A. Rahlfs (Stuttgart: Württembergische Bibelanstalt, 1935; repr. in 9th ed., 1971).\\par\\par Greek Septuagint Version 270 BC",
+    "distribution_license": "Copyrighted; Free non-commercial distribution",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/",
+    "distribution_versification": "LXX",
+    "distribution_history": {
+      "history_1.1": "Replaced missing sections of Isaiah and switched to more descriptive tags for morphology",
+      "history_1.2": "changed to book granularity, which makes module about half as large and removed some extraneous verse references",
+      "history_2.0": "replaced LXX with LXXM and obsoleted old LXX module",
+      "history_2.5": "updated to latest version of LXXM from Steve Amato, migrated to OSIS, converted .conf to UTF-8",
+      "history_2.6": "new module with new v11n",
+      "history_2.7": "new module from scratch",
+      "history_3.0": "(2022-08-23) : This version uses again Pierre build. It comes with small corrections in conf. According to MOD-415. The version grow to 3.0. We have also to decide what we want to do with the lex entries."
+    },
+    "url": "https://api.getbible.net/v2/lxx.json",
+    "sha": "0718d89b0c938053e7ea5c6704cdb6249e4f1777"
+  },
   "mal1910": {
     "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
     "abbreviation": "mal1910",
@@ -1557,6 +1733,32 @@
     "url": "https://api.getbible.net/v2/martin.json",
     "sha": "bfed92322117de41d6558d374ec546ae10143962"
   },
+  "mg1865": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "description": "Baiboly Malagasy (1865)",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible .Malagasy",
+    "distribution_version": "2.0",
+    "distribution_version_date": "2021-01-31",
+    "distribution_abbreviation": "mg1865",
+    "distribution_about": "La Bible Malagache\\par Malagasy Bible (1865)\\par La première Bible malgache a été éditée en 1835, traduite par le missionnaire britannique David Griffith de la London Missionary Society. Elle a subi sa toute première correction entre 1865 et 1866.",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://nybaiboly.net/BibleFrancoMalgache.htm",
+    "distribution_versification": "German",
+    "distribution_history": {
+      "history_1.0": "Initial version (2008.01.24)",
+      "history_1.1.1": "Updated conf and renamed to language code appropriate naming scheme",
+      "history_1.1": "First full version, with notes and titles (2008.07.14)",
+      "history_2.0": "(2021-01-31) Rebuilt with av11n from improved source text (2020-01-27)"
+    },
+    "url": "https://api.getbible.net/v2/mg1865.json",
+    "sha": "f9d289e9b4856e9f27b9f6002f5d09f1da26d3bf"
+  },
   "moderngreek": {
     "translation": "Greek Modern",
     "abbreviation": "moderngreek",
@@ -1607,6 +1809,80 @@
     "url": "https://api.getbible.net/v2/modernhebrew.json",
     "sha": "26d85b11e406f7cae1992ee7579e745d2f0fab64"
   },
+  "monkjv": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "description": "Mongolian King James Version",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Mongolian",
+    "distribution_version": "1.4",
+    "distribution_version_date": "2020-04-03",
+    "distribution_abbreviation": "MonKJV",
+    "distribution_about": "Mongolian King James Version\\par The New Testament\\par Copyright © 2011-2015 Mongolian Team\\par Post Box 1167, Central Post Office , UlaanBaatar 15160, Mongolia\\par Tel: 9919-8221\\par http://www.mongolianteam.org/\\par\\par Permission granted to the CrossWire Bible Society to use and distribute the Mongolian KJV as a SWORD module.",
+    "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://www.mongolianteam.org/",
+    "distribution_versification": "KJV",
+    "distribution_history": {
+      "history_1.0": "(2012-02-25) Initial release",
+      "history_1.1": "(2012-02-29) Added Galatians",
+      "history_1.2": "(2012-04-16) Added Ephesians & added OSIS elements for Words of Jesus and transChange",
+      "history_1.3": "(2012-06-28) Fixed the quote elements in Luke.18.19 and 20 to make valid OSIS",
+      "history_1.4": "(2020-04-03) Rebuilt from OSIS derived from 27 USFM files dated 2015-03-04"
+    },
+    "url": "https://api.getbible.net/v2/monkjv.json",
+    "sha": "7938da6d02b50560acb27e8387b1c785b368d0cf"
+  },
+  "ndebele": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "description": "Ndebele Bible",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.North Ndebele",
+    "distribution_version": "1.2",
+    "distribution_version_date": "2019-10-22",
+    "distribution_abbreviation": "ndebele",
+    "distribution_about": "The Ndebele Bible that is offered here to you is partly completed and partly a work in progress at the time of writing, 2018.",
+    "distribution_license": "GFDL",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://bibledit.org:2001/exports//NdebeleTeam/usfm/full",
+    "distribution_versification": "NRSV",
+    "distribution_history": {
+      "history_1.1": "Minor additions to .conf data",
+      "history_1.2": "(2019-10-22) Added ref attributes"
+    },
+    "url": "https://api.getbible.net/v2/ndebele.json",
+    "sha": "2e1a8bad3eb39b7d648e6c861da8c17f94f6dc87"
+  },
+  "norsmb": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "description": "Studentmållagsbibelen frå 1921",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Norwegian.",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2012-01-25",
+    "distribution_abbreviation": "SMB",
+    "distribution_about": "Den første komplette Bibel på nynorsk, utgitt av Studentmållaget i Oslo i 1921",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://gamal.nynorsk.no/mu/smio/bibelen/",
+    "distribution_versification": "",
+    "distribution_history": {
+      "history_1.0": "First version (2012-01-25)"
+    },
+    "url": "https://api.getbible.net/v2/norsmb.json",
+    "sha": "fbf72e4a0205720d37251d04133597c4afc3e657"
+  },
   "peshitta": {
     "translation": "Peshitta NT",
     "abbreviation": "peshitta",
@@ -1630,6 +1906,104 @@
     },
     "url": "https://api.getbible.net/v2/peshitta.json",
     "sha": "6596ad5b332a426d3b968b15db706d17ffc9961e"
+  },
+  "pohnold": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "description": "Old Public Domain Pohnpeian Bible",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Pohnpeian",
+    "distribution_version": "1.01",
+    "distribution_version_date": "",
+    "distribution_abbreviation": "pohnold",
+    "distribution_about": "Kadede Kap o Pjalm akan. \\par \"The New Testament (revised 1935) and the Psalms in Ponape\" \\par Pohnpeian Bible translation, \\par translated and revised by A. Syring. in the public domain. This text has been digitised from printed sources by FSM Digital and Technology Gospel Inc. - \\par Contact : Dakuma Lucios - dakluc@gmail.com for more information. The text will be maintained by UBS.",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "",
+    "distribution_versification": "NRSV",
+    "distribution_history": {
+      "history": "1.0 First release"
+    },
+    "url": "https://api.getbible.net/v2/pohnold.json",
+    "sha": "3b06d165d660d9d4a8ffeca972c7b5afeb44e1be"
+  },
+  "pohnpeian": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "description": "Bible in Pohnpeian language",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Pohnpeian.",
+    "distribution_version": "1.1.1",
+    "distribution_version_date": "2012-07-05",
+    "distribution_abbreviation": "pohnpeian",
+    "distribution_about": "Bible in Pohnpeian language. Copyright 2006 United Bible Societies. We are grateful to UBS via its Australian office to permit us to distribute this Bible text. May it be a blessing to Pohnpeians in Pohnpei and around the world. Dakuma Lucios (dakluc@gmail.com) and Peter von Kaehne (refdoc@crosswire.org)",
+    "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "",
+    "distribution_versification": "KJV",
+    "distribution_history": {
+      "history_1.1.1": "Corrected typo in .conf file. (2012-07-05)",
+      "history_1.1": "Corrected compression setting, language identifier (2012-06-29)",
+      "history_1.0": "First release (2012-06-29)"
+    },
+    "url": "https://api.getbible.net/v2/pohnpeian.json",
+    "sha": "c7f2e3cf4bf832da36467530e3c9466ac7439ff4"
+  },
+  "polgdanska": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "description": "Polish Biblia Gdanska (1881)",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Polish.",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2007-04-26",
+    "distribution_abbreviation": "polgdanska",
+    "distribution_about": "1881 Biblia Gdanska",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://www.biblia.elblag.net/",
+    "distribution_versification": "",
+    "distribution_history": {
+      "history_1.0": "Initial release"
+    },
+    "url": "https://api.getbible.net/v2/polgdanska.json",
+    "sha": "e5dfe3af42ffaa39c5c398928d4835b0fccbfa35"
+  },
+  "polugdanska": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "description": "Updated Gdańsk Bible",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Polish",
+    "distribution_version": "2.1.2",
+    "distribution_version_date": "2019-01-07",
+    "distribution_abbreviation": "UBG2017",
+    "distribution_about": "This project is being undertaken by the Gate of Hope Foundation. Its founders are Brent Riggs and Joe West. Brent and Joe have both been pastors and gospel preachers for more than 30 years. They have worked closely with Polish nationals to update the old grammar and vocabulary of the 1632 Polish Gdańsk Bible. The entire Bible is now finished and available in both printed and electronic formats. For more information, visit the website at www.wrotanadziei.org",
+    "distribution_license": "Copyrighted; Free non-commercial distribution",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "Fundacja Wrota Nadziei / Gate of Hope Foundation\\\nSource text files were provided in MS Word format and converted to OSIS XML by CrossWire.\\\nThe colophons to 14 epistles were added from the file UBG2017.pdf obtained from Gate of Hope.",
+    "distribution_versification": "KJV",
+    "distribution_history": {
+      "history_1.0": "Initial release of NT module",
+      "history_2.0": "(2017-08-16) updated text, added OT",
+      "history_2.1": "(2017-08-22) corrected versification and some updates to conf file",
+      "history_2.1.1": "(2019-01-05) rebuilt, new toolchain",
+      "history_2.1.2": "(2022-08-06) Fix typos in conf file"
+    },
+    "url": "https://api.getbible.net/v2/polugdanska.json",
+    "sha": "1519f159c170037a1bf8af008ff6ad9bde36d199"
   },
   "potawatomi": {
     "translation": "Potawatomi (Matthew Acts) (Lykins 1844)",
@@ -1808,6 +2182,79 @@
     "url": "https://api.getbible.net/v2/schlachter.json",
     "sha": "c67991129e7f23be7b4b3a54b4ce51edb3ff0c2b"
   },
+  "shona": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "description": "Shona Bible",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Shona",
+    "distribution_version": "2.1.1",
+    "distribution_version_date": "2019-01-07",
+    "distribution_abbreviation": "shona",
+    "distribution_about": "The Shona Bible that is offered here to you is a work in progress at the time of writing 2013.",
+    "distribution_license": "GFDL",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://bibleconsultants.nl/downloads/shona/new-testament-2013/",
+    "distribution_versification": "KJV",
+    "distribution_history": {
+      "history_1.1": "Minor addition to .conf data",
+      "history_2.0": "(2017-08-19) Text updated up until 2013",
+      "history_2.0.1": "(2017-08-23) Minor conf change",
+      "history_2.1": "(2019-01-07) Tool chain update",
+      "history_2.1.1": "(2022-08-06) Fix repeated MinimumVersion in conf file"
+    },
+    "url": "https://api.getbible.net/v2/shona.json",
+    "sha": "064edb298a572702de2c385b45660b42f6c56d9d"
+  },
+  "srkdekavski": {
+    "translation": "Serbian Bible Daničić-Karadžić Ekavski",
+    "abbreviation": "srkdekavski",
+    "description": "Serbian Bible Daničić-Karadžić Ekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Serbian",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2017-06-18",
+    "distribution_abbreviation": "srkdekavski",
+    "distribution_about": " Serbian Bible: Vuk Stefanović Karadžić translated the New Testament in 1847, and Đuro Daničić finished his translation of the Old Testament in 1865. This Bible translation is a public domain, Biblija Srpski prevod. Vuk Stefanović Karadžić Novi Zakon 1847, Đuro Daničić Stari Zakon 1865.",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "",
+    "distribution_versification": "NRSV",
+    "distribution_history": {
+      "history_1.0": "(2017-06-18) First Release"
+    },
+    "url": "https://api.getbible.net/v2/srkdekavski.json",
+    "sha": "f79c66ad67c318b99303afa23d6d68a6a39becc2"
+  },
+  "srkdijekav": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "description": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Serbian",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2017-06-18",
+    "distribution_abbreviation": "srkdijekav",
+    "distribution_about": "Serbian Bible: Vuk Stefanović Karadžić translated the New Testament in 1847, and Đuro Daničić finished his translation of the Old Testament in 1865. This Bible translation is a public domain. ,\"Biblija Srpski prevod. Vuk Stefanović Karadžić Novi Zakon 1847, Đuro Daničić Stari Zakon 1865.\"",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "",
+    "distribution_versification": "Calvin",
+    "distribution_history": {
+      "history_1.0": "(2017-06-18) First Release"
+    },
+    "url": "https://api.getbible.net/v2/srkdijekav.json",
+    "sha": "b05f3b003872220d302935a60fcdd661163403db"
+  },
   "sse": {
     "translation": "Sagradas Escrituras (1569)",
     "abbreviation": "sse",
@@ -1935,6 +2382,52 @@
     "url": "https://api.getbible.net/v2/swedish.json",
     "sha": "9147b40a873543028e824ae5759a86e0b464a976"
   },
+  "swekarlxii": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "description": "Svenska Karl XII:s Bibel (1703)",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Swedish.",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2009-03-25",
+    "distribution_abbreviation": "swekarlxii",
+    "distribution_about": "Karl XII:s bibel är den reviderade utgåvan av den svenska bibelöversättningen från 1541 (Gustav Vasas bibel). Den trycktes 1703 och var den officiella svenska kyrkobibeln fram till 1917.\\par Denna modul är inte fullständig. Se http://bibeltemplet.net/bibelnonline/KarlXII/ för detaljer.",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://bibeltemplet.net/bibelnonline/KarlXII/, Wikisource",
+    "distribution_versification": "",
+    "distribution_history": {
+      "history_1.0": "Initial release"
+    },
+    "url": "https://api.getbible.net/v2/swekarlxii.json",
+    "sha": "7c5af49de4929a262887766e31f0359fbe7a56b2"
+  },
+  "swekarlxii1873": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "description": "Svenska Karl XII:s Bibel (1873)",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible. Swedish.",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2010-01-20",
+    "distribution_abbreviation": "swekarlxii1873",
+    "distribution_about": "According to 19th Century Orthography, Morphology & Syntax of Late Modern Swedish used 1732-1906.\\par\\par Text from an OCR of The British and Foreign Bible Societies printed edition from 1873 and spell-checked against a re-print from 1976.",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "http://web.mac.com/onlinebible/Downloads/downloads.html",
+    "distribution_versification": "",
+    "distribution_history": {
+      "history_1.0": "Initial release"
+    },
+    "url": "https://api.getbible.net/v2/swekarlxii1873.json",
+    "sha": "b0b0c8ad7083a13922a3c5eae020416817075193"
+  },
   "synodal": {
     "translation": "Synodal Translation (1876)",
     "abbreviation": "synodal",
@@ -1985,6 +2478,30 @@
     },
     "url": "https://api.getbible.net/v2/tagalog.json",
     "sha": "fe1bd9651dc4db39be3315b80e80f6eb250bbca6"
+  },
+  "tausug": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "description": "Tausug Kitab Injil",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible..N.T.",
+    "distribution_version": "1.1",
+    "distribution_version_date": "2017-06-11",
+    "distribution_abbreviation": "Tausug",
+    "distribution_about": "The New Testament in the Tausug language. © International Bible Society. First Edition 1985. Revised Edition 1998.",
+    "distribution_license": "Creative Commons: by-nd 3.0",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "",
+    "distribution_versification": "NRSV",
+    "distribution_history": {
+      "history_1.0": "Initial release",
+      "history_1.1": "(2017-06-11) Various OSIS XML improvements"
+    },
+    "url": "https://api.getbible.net/v2/tausug.json",
+    "sha": "5f8311f65ce8914216fc1eda7be7593245eea611"
   },
   "textusreceptus": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -2074,6 +2591,53 @@
     "url": "https://api.getbible.net/v2/tischendorf.json",
     "sha": "ebd74f7a1188864dcabafc49854b8180a39aba27"
   },
+  "tpikjpb": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "description": "King Jems Pisin Baibel",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Tok Pisin",
+    "distribution_version": "1.0",
+    "distribution_version_date": "2022-06-07",
+    "distribution_abbreviation": "King Jems Pisin",
+    "distribution_about": "Dispela wok bilong tanim tok em i wok bilong David Holland na Bryan Girard. Version 1.2",
+    "distribution_license": "Creative Commons: BY-NC-ND 4.0",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "bryanteenagirard@gmail.com",
+    "distribution_versification": "KJV",
+    "distribution_history": {
+      "history_1.0": "(2022-06-07) Initial release"
+    },
+    "url": "https://api.getbible.net/v2/tpikjpb.json",
+    "sha": "f2ed2f4a5fd81242eb0a19e31d5017f5a7f3f45e"
+  },
+  "turhadi": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "description": "Turkish Easy-to-Read Translation (HADI)",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Turkish",
+    "distribution_version": "1.1.1",
+    "distribution_version_date": "2019-01-07",
+    "distribution_abbreviation": "HADI",
+    "distribution_about": "Yeni Yaşam Yayınları, Serasker Caddesi, Sakız Sokak, Aytaç 2 Han, No:36/1.Kat. Kadıköy/İstanbul - Türkiye\\parTel:+216 414 16 15, Fax:+216 348 05 26\\par\\parHADİ - Halk Dilinde İncil (Turkish Easy-to-Read Translation). Copyright of this text is owned by BLI and WBTC. Exclusive rights for distribution in Turkey belong to Yeni Yaşam Yayınları.\\parUpto 400 verses of this bible text may be used in any format without requesting permission, however these 400 verses may not comprise the whole work.\\parhttp://halkdilinde.com",
+    "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "",
+    "distribution_versification": "NRSV",
+    "distribution_history": {
+      "history_1.1": "Initial release",
+      "history_1.1.1": "(2019-01-07) Some further encoding corrections"
+    },
+    "url": "https://api.getbible.net/v2/turhadi.json",
+    "sha": "1c57d7ae25624cdd4bcff53b42df7c9543dbabf8"
+  },
   "turkish": {
     "translation": "Turkish",
     "abbreviation": "turkish",
@@ -2144,6 +2708,35 @@
     },
     "url": "https://api.getbible.net/v2/ukranian.json",
     "sha": "dd4e8470b9726797de50f649d2cf7f7d043aaad3"
+  },
+  "ukrogienko": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "description": "Українська Біблія. Переклад Івана Огієнка.",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.Ukrainian",
+    "distribution_version": "3.1",
+    "distribution_version_date": "2023-06-18",
+    "distribution_abbreviation": "Українська Огієнка",
+    "distribution_about": "Українська Біблія. Переклад Івана Огієнка 1930.",
+    "distribution_license": "Public Domain",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://uk.wikisource.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%86%D0%B2%D0%B0%D0%BD_%D0%9E%D0%B3%D1%96%D1%94%D0%BD%D0%BA%D0%BE",
+    "distribution_versification": "Orthodox",
+    "distribution_history": {
+      "history_1.1": "enciphered module",
+      "history_1.2": "changed to Unbound Bible's PD UTF-8 source and compressed",
+      "history_1.3": "reverted to original versification, removed stray marks throughout text, removed extraneous intro entries",
+      "history_1.4": "added Words of Christ in Red tags, corrected typos",
+      "history_2.0": "added Words of Christ in Red tags, corrected typos",
+      "history_3.0": "(2023-06-01) Source changed to the wikisource text.",
+      "history_3.1": "(2023-06-18) Minor correction for a couple of notes"
+    },
+    "url": "https://api.getbible.net/v2/ukrogienko.json",
+    "sha": "d876a3b8b7bbdfe344526d7cf3cb272e0407bea6"
   },
   "uma": {
     "translation": "Uma NT",

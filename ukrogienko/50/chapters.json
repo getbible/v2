@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/ukrogienko/50/1.json",
+    "sha": "62512482615350dc67c6edc14c90b9f84264c947"
+  },
+  "2": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/ukrogienko/50/2.json",
+    "sha": "d298fc37e1fb0ca13029f45b42a551895e65068f"
+  },
+  "3": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/ukrogienko/50/3.json",
+    "sha": "d7050f7f5a40337741e6bd0707ecaef333bd2b1e"
+  },
+  "4": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/ukrogienko/50/4.json",
+    "sha": "6b93fdb5a58ce0e5da1f55cf0b422bc022ad368d"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/pohnpeian/56/1.json",
+    "sha": "74c025b6d27093e25975d7bebfe9db65e1c16e77"
+  },
+  "2": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/pohnpeian/56/2.json",
+    "sha": "c77a29c2efb40a331a83f841ad24181a23d413f4"
+  },
+  "3": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/pohnpeian/56/3.json",
+    "sha": "07cfd23a83d47d60cfac7352ec00f27557929660"
+  }
+}

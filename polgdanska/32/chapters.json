@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/polgdanska/32/1.json",
+    "sha": "9ce444e74abdd21119dcba693d295ebc362f931d"
+  },
+  "2": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/polgdanska/32/2.json",
+    "sha": "225bf7f4e364c6ba4eadf5ea90f4abf01a20a048"
+  },
+  "3": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/polgdanska/32/3.json",
+    "sha": "368fea9a15813135730d558e75cfb8a2c324e8ea"
+  },
+  "4": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/polgdanska/32/4.json",
+    "sha": "f38038e099b47d2133c21b2adcb8243bca1ca606"
+  }
+}

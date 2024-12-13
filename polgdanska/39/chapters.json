@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/polgdanska/39/1.json",
+    "sha": "db511f98f52740b8cc5c33670d601eac9858967c"
+  },
+  "2": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/polgdanska/39/2.json",
+    "sha": "cf0f702c8bb3caabe3f4743f70779e083c95275a"
+  },
+  "3": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/polgdanska/39/3.json",
+    "sha": "7be42d2ccfcc8f50c20b6672ca21bdfada6933e5"
+  },
+  "4": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "url": "https://api.getbible.net/v2/polgdanska/39/4.json",
+    "sha": "15dce3690221ffaa1e8602be81909b96d9558dad"
+  }
+}

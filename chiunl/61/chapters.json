@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/chiunl/61/1.json",
+    "sha": "edde63c45475ea2ccaece4360080a3d3259da3ee"
+  },
+  "2": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/chiunl/61/2.json",
+    "sha": "bae89c2ab5484c920a6ccac9dc3f8123ead07157"
+  },
+  "3": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/chiunl/61/3.json",
+    "sha": "4bfbdf90b58f8f6503886530116428397f6fe7fc"
+  }
+}

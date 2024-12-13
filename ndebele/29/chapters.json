@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://api.getbible.net/v2/ndebele/29/1.json",
+    "sha": "3173a71e2d07c39f2b4b7e29caf37770ba78f3f2"
+  },
+  "2": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://api.getbible.net/v2/ndebele/29/2.json",
+    "sha": "ff33b894586de009b52644d41770003491caccbb"
+  },
+  "3": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://api.getbible.net/v2/ndebele/29/3.json",
+    "sha": "df1c82bcdf91db22f6a164217545fb28baf9ea38"
+  }
+}

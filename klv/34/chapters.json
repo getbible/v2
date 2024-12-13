@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://api.getbible.net/v2/klv/34/1.json",
+    "sha": "4a443040de1078e51657fb7db57d96336e04c6da"
+  },
+  "2": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://api.getbible.net/v2/klv/34/2.json",
+    "sha": "1c74b4c70e44de6559b08a1958f6c77d9cd5fdc7"
+  },
+  "3": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://api.getbible.net/v2/klv/34/3.json",
+    "sha": "fc3af5c71273f012796544731c033162ddb57e71"
+  }
+}

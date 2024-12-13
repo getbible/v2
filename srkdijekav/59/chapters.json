@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/srkdijekav/59/1.json",
+    "sha": "dbdfb5021ec0ea275024b555c3410a89a142dcdf"
+  },
+  "2": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/srkdijekav/59/2.json",
+    "sha": "707931412e38a28e031ba0f497d32f72b2723dda"
+  },
+  "3": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/srkdijekav/59/3.json",
+    "sha": "6a74667ab2c1aa9b5b3cc8ad2e370840e217a7a4"
+  },
+  "4": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/srkdijekav/59/4.json",
+    "sha": "6fb283abc634448c73a1f2038ef3135206ed3e7d"
+  },
+  "5": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/srkdijekav/59/5.json",
+    "sha": "eac0dd41d1972bfb3bb33f5b8712bec9889400a9"
+  }
+}

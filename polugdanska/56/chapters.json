@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/polugdanska/56/1.json",
+    "sha": "dfa8ea8fbb045d18b1bd8187d47ac585df5c0cf1"
+  },
+  "2": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/polugdanska/56/2.json",
+    "sha": "026840ee7c614c7e68c179729a1c8f1ca98c40b6"
+  },
+  "3": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/polugdanska/56/3.json",
+    "sha": "44d14e5f7d1e8843459482a4b125ff49df99b50d"
+  }
+}

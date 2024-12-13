@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/polgdanska/60/1.json",
+    "sha": "c100438dfa9d8c45d318e427b75266a7c88272f9"
+  },
+  "2": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/polgdanska/60/2.json",
+    "sha": "7b4e919067e2d13ab3d1853eaf3bd6aa807c1c1a"
+  },
+  "3": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/polgdanska/60/3.json",
+    "sha": "e8364192efce919ed4d09619787ef17edeb38d58"
+  },
+  "4": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/polgdanska/60/4.json",
+    "sha": "611f1b698f921c2c363f02a41b6f8b07381a9080"
+  },
+  "5": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/polgdanska/60/5.json",
+    "sha": "7918d18bdacb7f1b16e94ec193c3f5469f4e76c9"
+  }
+}

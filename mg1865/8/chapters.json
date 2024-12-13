@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 1,
+    "name": "Ruth 1",
+    "url": "https://api.getbible.net/v2/mg1865/8/1.json",
+    "sha": "ac3d21d1b594157932f43f9343db19f98c136ca5"
+  },
+  "2": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 2,
+    "name": "Ruth 2",
+    "url": "https://api.getbible.net/v2/mg1865/8/2.json",
+    "sha": "d88e9b542df89a5da80d4e979a9ef51a24a7166a"
+  },
+  "3": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 3,
+    "name": "Ruth 3",
+    "url": "https://api.getbible.net/v2/mg1865/8/3.json",
+    "sha": "bf57e0860db2c9596f735293ca4a5bde5407b268"
+  },
+  "4": {
+    "translation": "Baiboly Malagasy (1865)",
+    "abbreviation": "mg1865",
+    "lang": "mg",
+    "language": "Malagasy",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 4,
+    "name": "Ruth 4",
+    "url": "https://api.getbible.net/v2/mg1865/8/4.json",
+    "sha": "8ce961d0b5877d91442aba1edb3adbeeffbd244d"
+  }
+}

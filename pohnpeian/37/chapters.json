@@ -1,0 +1,30 @@
+{
+  "1": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 1,
+    "name": "Haggai 1",
+    "url": "https://api.getbible.net/v2/pohnpeian/37/1.json",
+    "sha": "806d315d02a20092eb966fd18216f830dd42dabc"
+  },
+  "2": {
+    "translation": "Bible in Pohnpeian language",
+    "abbreviation": "pohnpeian",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 37,
+    "book_name": "Haggai",
+    "chapter": 2,
+    "name": "Haggai 2",
+    "url": "https://api.getbible.net/v2/pohnpeian/37/2.json",
+    "sha": "01db2b23dabb87269e63aa2d774277935ed77271"
+  }
+}

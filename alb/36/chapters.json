@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://api.getbible.net/v2/alb/36/1.json",
+    "sha": "0ad3596271f2862c76a03b008f8d7820b6ee8e0f"
+  },
+  "2": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://api.getbible.net/v2/alb/36/2.json",
+    "sha": "e8dc6767ff8935963666205dea7f9c70f034b399"
+  },
+  "3": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://api.getbible.net/v2/alb/36/3.json",
+    "sha": "ed9097088861f9e2a7d1512126fd10391493f2b6"
+  }
+}

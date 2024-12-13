@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/srkdijekav/55/1.json",
+    "sha": "be543a0e1eba718e64a03b95ff6ae5d7eaffda59"
+  },
+  "2": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/srkdijekav/55/2.json",
+    "sha": "4ddaac1440cb398174204ae10df511089dbbeada"
+  },
+  "3": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/srkdijekav/55/3.json",
+    "sha": "1ae6f54ed9240c26fd551734bfbf12fdc39f6b9b"
+  },
+  "4": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/srkdijekav/55/4.json",
+    "sha": "b52db39f395915a370d9f67d511d4e71eb34cb3e"
+  }
+}

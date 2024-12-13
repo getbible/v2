@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/swekarlxii/55/1.json",
+    "sha": "73c426441e9cc5ec6a5b0915e0aa7059b72fd379"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/swekarlxii/55/2.json",
+    "sha": "7b5ac22d96aac8a74dc569497c1ec1a1af3d8282"
+  },
+  "3": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/swekarlxii/55/3.json",
+    "sha": "a8928b6512c9dd1485f6ec10f61c00dd034e60c4"
+  },
+  "4": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/swekarlxii/55/4.json",
+    "sha": "8c8569461804d3325f7e66c19e9619d51f52462e"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://api.getbible.net/v2/klv/36/1.json",
+    "sha": "05ca2b229d1551009fabea85e49fd88d419244ca"
+  },
+  "2": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://api.getbible.net/v2/klv/36/2.json",
+    "sha": "bae4d720e4821cc3c8e23055f508aeda28331893"
+  },
+  "3": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://api.getbible.net/v2/klv/36/3.json",
+    "sha": "561076c8097ec27f4429e146fda905a91aecaf3e"
+  }
+}

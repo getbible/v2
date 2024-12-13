@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 1,
+    "name": "1 John 1",
+    "url": "https://api.getbible.net/v2/srkdijekav/62/1.json",
+    "sha": "075ac6fdbc14fe8adb53888dde581a808c2d8bc9"
+  },
+  "2": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 2,
+    "name": "1 John 2",
+    "url": "https://api.getbible.net/v2/srkdijekav/62/2.json",
+    "sha": "bb770fb7f2756eeac1b153a72586e9eaa0af6a6b"
+  },
+  "3": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 3,
+    "name": "1 John 3",
+    "url": "https://api.getbible.net/v2/srkdijekav/62/3.json",
+    "sha": "90665a7f1343141e2becb3de9255c5356f5ac714"
+  },
+  "4": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 4,
+    "name": "1 John 4",
+    "url": "https://api.getbible.net/v2/srkdijekav/62/4.json",
+    "sha": "d9da2d1e650a598fc902f945a8572583e1f6d7c0"
+  },
+  "5": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 5,
+    "name": "1 John 5",
+    "url": "https://api.getbible.net/v2/srkdijekav/62/5.json",
+    "sha": "a6d0b46cd1cfc3469f2d6e2f35b87c0e6f2fd7c0"
+  }
+}

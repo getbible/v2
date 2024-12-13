@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 1,
+    "name": "Lamentations 1",
+    "url": "https://api.getbible.net/v2/ukrogienko/25/1.json",
+    "sha": "69880824c67c09bae55d9d9e2e8c1b1cff4593e4"
+  },
+  "2": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 2,
+    "name": "Lamentations 2",
+    "url": "https://api.getbible.net/v2/ukrogienko/25/2.json",
+    "sha": "ded270cf1d5a795232e8733b2e85520786e2717e"
+  },
+  "3": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 3,
+    "name": "Lamentations 3",
+    "url": "https://api.getbible.net/v2/ukrogienko/25/3.json",
+    "sha": "8c638e2452a238085f851b2866e8ab6c981858db"
+  },
+  "4": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 4,
+    "name": "Lamentations 4",
+    "url": "https://api.getbible.net/v2/ukrogienko/25/4.json",
+    "sha": "6cb183754fbb947ee3665b526361682215ba8785"
+  },
+  "5": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 5,
+    "name": "Lamentations 5",
+    "url": "https://api.getbible.net/v2/ukrogienko/25/5.json",
+    "sha": "da6780268760c650b63fd03b428f925cee570ff7"
+  }
+}

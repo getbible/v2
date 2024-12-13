@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 57,
+    "book_name": "Philemon",
+    "chapter": 1,
+    "name": "Philemon 1",
+    "url": "https://api.getbible.net/v2/polgdanska/57/1.json",
+    "sha": "e6354b791f259283440e2c650c8beec8ec8e2e01"
+  }
+}

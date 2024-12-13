@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/pohnold/56/1.json",
+    "sha": "532f1136d781cc28e03fbf69a650c1c08012fec0"
+  },
+  "2": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/pohnold/56/2.json",
+    "sha": "369460e732b10453e6ac5ef92cec6afed2ef69ac"
+  },
+  "3": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/pohnold/56/3.json",
+    "sha": "3e0d1fa739217475d9cff064195f73251926e7db"
+  }
+}

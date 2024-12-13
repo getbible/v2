@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 1,
+    "name": "1 John 1",
+    "url": "https://api.getbible.net/v2/shona/62/1.json",
+    "sha": "eb97d93f6231e2bfe597d527ea67782d874831d7"
+  },
+  "2": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 2,
+    "name": "1 John 2",
+    "url": "https://api.getbible.net/v2/shona/62/2.json",
+    "sha": "400341ee016b2967d38c2dfd71f15c5c6ee98749"
+  },
+  "3": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 3,
+    "name": "1 John 3",
+    "url": "https://api.getbible.net/v2/shona/62/3.json",
+    "sha": "9449eb5278be2a4397ce108980e97d28a982c88b"
+  },
+  "4": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 4,
+    "name": "1 John 4",
+    "url": "https://api.getbible.net/v2/shona/62/4.json",
+    "sha": "e05a64f0af01736b33b09e9e725dc0fd71ef5bac"
+  },
+  "5": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 5,
+    "name": "1 John 5",
+    "url": "https://api.getbible.net/v2/shona/62/5.json",
+    "sha": "633201a0147937cabaefc8aa75986ab14d593ca8"
+  }
+}

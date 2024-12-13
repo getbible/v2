@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 1,
+    "name": "Ruth 1",
+    "url": "https://api.getbible.net/v2/norsmb/8/1.json",
+    "sha": "22e4ac19de174d6199b5d7f0d9ddc0ef6136863c"
+  },
+  "2": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 2,
+    "name": "Ruth 2",
+    "url": "https://api.getbible.net/v2/norsmb/8/2.json",
+    "sha": "0aa7cb6b3226db2b6909da6d80a2ff2e144eff40"
+  },
+  "3": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 3,
+    "name": "Ruth 3",
+    "url": "https://api.getbible.net/v2/norsmb/8/3.json",
+    "sha": "b6402cf9a9885a4ea1354f54aa7bf2d61378ee4b"
+  },
+  "4": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 4,
+    "name": "Ruth 4",
+    "url": "https://api.getbible.net/v2/norsmb/8/4.json",
+    "sha": "7f013d4cd0f477798fd19f88f1f3fe8ccd7f2890"
+  }
+}

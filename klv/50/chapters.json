@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/klv/50/1.json",
+    "sha": "dccb2656d1f955fbf4834517ff4676b3d2f922f7"
+  },
+  "2": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/klv/50/2.json",
+    "sha": "ccc9bae9ed2fe7dd11da51cd581c5acab57f9dcf"
+  },
+  "3": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/klv/50/3.json",
+    "sha": "aa3af1796bb27a6ab0431c811c803ac1c935d2a8"
+  },
+  "4": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/klv/50/4.json",
+    "sha": "67c7c0c5577e9ceeb27518917e6b1e36ae00ac15"
+  }
+}

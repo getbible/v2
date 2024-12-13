@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/60/1.json",
+    "sha": "899c339e82d2a0c193871c77894f5e44a63ff694"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/60/2.json",
+    "sha": "15f24f58ffacf1591e34031d1dd4358731989e4b"
+  },
+  "3": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/60/3.json",
+    "sha": "60550a305c5c36e5247f3a7ae4122175f2599d4b"
+  },
+  "4": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/60/4.json",
+    "sha": "613d01264bd0b842bcb7f8559da48ea2deef0675"
+  },
+  "5": {
+    "translation": "Svenska Karl XII:s Bibel (1873)",
+    "abbreviation": "swekarlxii1873",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/swekarlxii1873/60/5.json",
+    "sha": "8644a3323940fbe54e890ce8693a73f35148fb8b"
+  }
+}

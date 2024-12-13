@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 John",
+    "chapter": 1,
+    "name": "3 John 1",
+    "url": "https://api.getbible.net/v2/polgdanska/64/1.json",
+    "sha": "66df39e1b7bf138fe9fb92f5c8dcb96278d8f4a8"
+  }
+}

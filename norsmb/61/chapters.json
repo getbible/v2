@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/norsmb/61/1.json",
+    "sha": "8749d5aec831ce3c77d14ade47e037c96ee8edf2"
+  },
+  "2": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/norsmb/61/2.json",
+    "sha": "ae73cc2471755f4b0600fdba7053464b8b904d70"
+  },
+  "3": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/norsmb/61/3.json",
+    "sha": "7bea811462daa67a983d75d812eb7590acef23cf"
+  }
+}

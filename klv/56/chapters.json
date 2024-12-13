@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/klv/56/1.json",
+    "sha": "b522a34d80322d294336cd0406abfc33efaf70ab"
+  },
+  "2": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/klv/56/2.json",
+    "sha": "39cad6952b606d1f3d10acb44f1d134962ac08b9"
+  },
+  "3": {
+    "translation": "Klingon Language Version of the World English Bible",
+    "abbreviation": "klv",
+    "lang": "tlh",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/klv/56/3.json",
+    "sha": "6fdb8cbe3230dadbd4fa758986c89828719af74f"
+  }
+}

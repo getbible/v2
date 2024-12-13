@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/polugdanska/55/1.json",
+    "sha": "140fdbfefaee6947a4a629ef0c649e347f3efd17"
+  },
+  "2": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/polugdanska/55/2.json",
+    "sha": "400b6ceb492a4f2456a855f8d217966ea1069851"
+  },
+  "3": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/polugdanska/55/3.json",
+    "sha": "3faa71abfdcec41e4135b6f11ebf78b881e3309d"
+  },
+  "4": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/polugdanska/55/4.json",
+    "sha": "fb2869c0f1d44c6d0464646ed0ccdd58a9ae22f7"
+  }
+}

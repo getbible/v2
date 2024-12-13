@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 1,
+    "name": "Zephaniah 1",
+    "url": "https://api.getbible.net/v2/polugdanska/36/1.json",
+    "sha": "129afb872ac1e8774155400648fdf125e02e9cf7"
+  },
+  "2": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 2,
+    "name": "Zephaniah 2",
+    "url": "https://api.getbible.net/v2/polugdanska/36/2.json",
+    "sha": "481fff601debd3fa16231189bbf06b119e53b77b"
+  },
+  "3": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 36,
+    "book_name": "Zephaniah",
+    "chapter": 3,
+    "name": "Zephaniah 3",
+    "url": "https://api.getbible.net/v2/polugdanska/36/3.json",
+    "sha": "211de5f8fe1a6478f8096259bfd0c7e794c5726b"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/tpikjpb/60/1.json",
+    "sha": "81b5ecb2640cc8c85aadf6f1f9712abe354db0f4"
+  },
+  "2": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/tpikjpb/60/2.json",
+    "sha": "826d9aaf801813f65ca019f1f5c2413e371056a2"
+  },
+  "3": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/tpikjpb/60/3.json",
+    "sha": "01354a6a776657f4d9fb4f2ecd51a5e9854c3528"
+  },
+  "4": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/tpikjpb/60/4.json",
+    "sha": "8bda69b98d89085e73291b0514d1a2820870406d"
+  },
+  "5": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/tpikjpb/60/5.json",
+    "sha": "9ef7a79a866e0a805ae3390880638d0405e39f72"
+  }
+}

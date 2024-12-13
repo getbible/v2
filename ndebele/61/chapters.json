@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/ndebele/61/1.json",
+    "sha": "cc195fb6785ff970bd29f7abc8650f4c6544b269"
+  },
+  "2": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/ndebele/61/2.json",
+    "sha": "d039fb9fce3e93464cb2b266c0c3a40ec7805b5a"
+  },
+  "3": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/ndebele/61/3.json",
+    "sha": "c4c2b959e8bda74972f57932e2620cf2c5526bc7"
+  }
+}

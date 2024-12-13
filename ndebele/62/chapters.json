@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 1,
+    "name": "1 John 1",
+    "url": "https://api.getbible.net/v2/ndebele/62/1.json",
+    "sha": "0d6441ff57cd8a28ee238437642933a340e67061"
+  },
+  "2": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 2,
+    "name": "1 John 2",
+    "url": "https://api.getbible.net/v2/ndebele/62/2.json",
+    "sha": "36fcf7ad93160af2e25d6f97a5293a25f3bb3e34"
+  },
+  "3": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 3,
+    "name": "1 John 3",
+    "url": "https://api.getbible.net/v2/ndebele/62/3.json",
+    "sha": "8e202b799d925d728edba4795c2f196803ae29d5"
+  },
+  "4": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 4,
+    "name": "1 John 4",
+    "url": "https://api.getbible.net/v2/ndebele/62/4.json",
+    "sha": "08de7318856b7a96836418b95d030bf35db3db22"
+  },
+  "5": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 5,
+    "name": "1 John 5",
+    "url": "https://api.getbible.net/v2/ndebele/62/5.json",
+    "sha": "d0089eeadc33a7aec692152316bbdf402cc60b9f"
+  }
+}

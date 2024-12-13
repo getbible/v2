@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/pohnold/59/1.json",
+    "sha": "32f282b1faf5cad1c2a0c5d995f9ecd03529b657"
+  },
+  "2": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/pohnold/59/2.json",
+    "sha": "7cb1cd39ef6c1ff93496329f29376a4502ffaf3d"
+  },
+  "3": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/pohnold/59/3.json",
+    "sha": "dbbabcf01d18c769fbad874a9c37b5934d77af07"
+  },
+  "4": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/pohnold/59/4.json",
+    "sha": "db69c96eaf72cc4d10bfbddd8ace10f9222692d0"
+  },
+  "5": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/pohnold/59/5.json",
+    "sha": "b440163d693a4e4be9983a9fc5143adb81d47f3e"
+  }
+}

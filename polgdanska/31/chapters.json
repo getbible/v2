@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 31,
+    "book_name": "Obadiah",
+    "chapter": 1,
+    "name": "Obadiah 1",
+    "url": "https://api.getbible.net/v2/polgdanska/31/1.json",
+    "sha": "890cebd37ea36ac88493c29ff444afd29c1a53cc"
+  }
+}

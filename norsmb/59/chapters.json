@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/norsmb/59/1.json",
+    "sha": "328007f7f4b6ce7cc24283c804e1d43c5a8800d1"
+  },
+  "2": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/norsmb/59/2.json",
+    "sha": "c0a61f2c29f1f38c2dac4a93e8121e7bea386e04"
+  },
+  "3": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/norsmb/59/3.json",
+    "sha": "4ccf0a24f0f1417dcc0542c7b080105ae02aaadc"
+  },
+  "4": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/norsmb/59/4.json",
+    "sha": "556e91454de09e386dcb3234e146b07b8e9af349"
+  },
+  "5": {
+    "translation": "Studentmållagsbibelen frå 1921",
+    "abbreviation": "norsmb",
+    "lang": "nn",
+    "language": "Norwegian nynorsk",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/norsmb/59/5.json",
+    "sha": "e1a3da2bf8ee4be2f5239b9a2109f7309e006b54"
+  }
+}

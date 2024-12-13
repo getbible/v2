@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/polugdanska/35/1.json",
+    "sha": "6553a9df9378345314ac2375bf501984a10af2b6"
+  },
+  "2": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/polugdanska/35/2.json",
+    "sha": "9a159e0831fabcbdc9f36d961f7d4592ea6c0a2e"
+  },
+  "3": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/polugdanska/35/3.json",
+    "sha": "7a1bd3c8820d8a24a20685a16cd04d9a65a44bdf"
+  }
+}

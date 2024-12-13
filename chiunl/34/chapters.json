@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://api.getbible.net/v2/chiunl/34/1.json",
+    "sha": "be85141744f7b87414bb63d34dfdad12c2955937"
+  },
+  "2": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://api.getbible.net/v2/chiunl/34/2.json",
+    "sha": "a53444e7ef200c9efb776e4c24662f566b55bce2"
+  },
+  "3": {
+    "translation": "聖經 (文理和合)",
+    "abbreviation": "chiunl",
+    "lang": "zh",
+    "language": "Chinese",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://api.getbible.net/v2/chiunl/34/3.json",
+    "sha": "91334b3895ef30f2b6fc63008358babe646de96e"
+  }
+}

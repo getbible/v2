@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/ndebele/39/1.json",
+    "sha": "fd0dedde6e7c1d3d77acb1b28f17175500e4afec"
+  },
+  "2": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/ndebele/39/2.json",
+    "sha": "992e5e97aaa5a61814133bad962456c93aa551c2"
+  },
+  "3": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/ndebele/39/3.json",
+    "sha": "42dd7e5cf34332786a5db481a979688be179adea"
+  },
+  "4": {
+    "translation": "Ndebele Bible",
+    "abbreviation": "ndebele",
+    "lang": "nd",
+    "language": "Ndebele",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "url": "https://api.getbible.net/v2/ndebele/39/4.json",
+    "sha": "a3410257190e475143a56cf4cc7882155852c48c"
+  }
+}

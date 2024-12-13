@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 1,
+    "name": "1 John 1",
+    "url": "https://api.getbible.net/v2/polgdanska/62/1.json",
+    "sha": "730fb843d41c52b98e07a8d09747edc945dd9e4f"
+  },
+  "2": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 2,
+    "name": "1 John 2",
+    "url": "https://api.getbible.net/v2/polgdanska/62/2.json",
+    "sha": "10f0f12e60a9c3dcfc8721b4eecb4b37687caac2"
+  },
+  "3": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 3,
+    "name": "1 John 3",
+    "url": "https://api.getbible.net/v2/polgdanska/62/3.json",
+    "sha": "1368444e52562e4621ae74262bc8304c2fae6f14"
+  },
+  "4": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 4,
+    "name": "1 John 4",
+    "url": "https://api.getbible.net/v2/polgdanska/62/4.json",
+    "sha": "edc6ef7a3d97b10dc93059b49fa1efdb1140c4e4"
+  },
+  "5": {
+    "translation": "Polish Biblia Gdanska (1881)",
+    "abbreviation": "polgdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 5,
+    "name": "1 John 5",
+    "url": "https://api.getbible.net/v2/polgdanska/62/5.json",
+    "sha": "ea428c2b18e26270f35d5ff790451b2ac39e66fd"
+  }
+}

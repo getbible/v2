@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Old Public Domain Pohnpeian Bible",
+    "abbreviation": "pohnold",
+    "lang": "pon",
+    "language": "Pohnpeian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 John",
+    "chapter": 1,
+    "name": "3 John 1",
+    "url": "https://api.getbible.net/v2/pohnold/64/1.json",
+    "sha": "f15ba23e8eec982f51ec180d68de30ff8fca9b2e"
+  }
+}

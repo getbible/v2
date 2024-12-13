@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/alb/35/1.json",
+    "sha": "09e1207fb4d3237ad2e3b09f92a84862057bb26f"
+  },
+  "2": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/alb/35/2.json",
+    "sha": "98adface3dca16a2b8db101eaffac6d000807b35"
+  },
+  "3": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/alb/35/3.json",
+    "sha": "1f3d09f5b036cbf6425bc2eca9fab65f58f62b18"
+  }
+}

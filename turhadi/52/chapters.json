@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 1,
+    "name": "1 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/turhadi/52/1.json",
+    "sha": "f323a3a5a70c039fed269d5284e40bc5d6dd4249"
+  },
+  "2": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "name": "1 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/turhadi/52/2.json",
+    "sha": "4682a31464fe6950408f5e6290ad42e845069ffe"
+  },
+  "3": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 3,
+    "name": "1 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/turhadi/52/3.json",
+    "sha": "bd0b65638d5133c85236773a690539f2141abe73"
+  },
+  "4": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "name": "1 Thessalonians 4",
+    "url": "https://api.getbible.net/v2/turhadi/52/4.json",
+    "sha": "41d91a55e085f2253980702649d2356cf3988d44"
+  },
+  "5": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "name": "1 Thessalonians 5",
+    "url": "https://api.getbible.net/v2/turhadi/52/5.json",
+    "sha": "435c74a7367899be52e80fd01a90fd306429e46e"
+  }
+}

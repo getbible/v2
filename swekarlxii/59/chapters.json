@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/swekarlxii/59/1.json",
+    "sha": "1258f9ba56f8d92a8ad4c16c1939918b83e53ac1"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/swekarlxii/59/2.json",
+    "sha": "8355ee93658d84a4af9c34674a4cfcb7d95907c2"
+  },
+  "3": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/swekarlxii/59/3.json",
+    "sha": "cd492aaea502a8cf2daa592d26088c9741e79362"
+  },
+  "4": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/swekarlxii/59/4.json",
+    "sha": "e29b13f7194b414548efc051a0bdd8739497a08e"
+  },
+  "5": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/swekarlxii/59/5.json",
+    "sha": "23387245cb18e92089e66f16069ceb38f7cb95bc"
+  }
+}

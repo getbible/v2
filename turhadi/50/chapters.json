@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/turhadi/50/1.json",
+    "sha": "93e444113e2380c42da18620550de78fefe425fb"
+  },
+  "2": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/turhadi/50/2.json",
+    "sha": "4d92991faeb1feafa420d84b5fa7d2c3eb2c7fda"
+  },
+  "3": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/turhadi/50/3.json",
+    "sha": "76a8772ffaaeb452369da70d3d102c537cc71fb8"
+  },
+  "4": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/turhadi/50/4.json",
+    "sha": "28cfb7f3f841cae931f2cda7adb9393a95cf3dd5"
+  }
+}

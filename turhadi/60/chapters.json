@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/turhadi/60/1.json",
+    "sha": "c6c7447fdeaed5b35ddd934951dd2985e3e69f58"
+  },
+  "2": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/turhadi/60/2.json",
+    "sha": "2acbd6c6cb0874cbf5331f4d479f2d927669fb71"
+  },
+  "3": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/turhadi/60/3.json",
+    "sha": "0b549bfc0850ced4c7feadbfff98450a8f2e487b"
+  },
+  "4": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/turhadi/60/4.json",
+    "sha": "a759467d2c8f6ed8d7990b6abc5e2770db79f22c"
+  },
+  "5": {
+    "translation": "Turkish Easy-to-Read Translation (HADI)",
+    "abbreviation": "turhadi",
+    "lang": "tr",
+    "language": "Turkish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/turhadi/60/5.json",
+    "sha": "90fb4f5da15e2ba1aab1c96d376842e9f7e2f8b1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 1,
+    "name": "1 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/ukrogienko/52/1.json",
+    "sha": "41ad535ab0afd837f37ab4de62ea7fe09f6c4daa"
+  },
+  "2": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "name": "1 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/ukrogienko/52/2.json",
+    "sha": "6c38528998f49633d2da8be261d13812b6170280"
+  },
+  "3": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 3,
+    "name": "1 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/ukrogienko/52/3.json",
+    "sha": "b604ff1f44969304d325b4df4beef7f0113c0e86"
+  },
+  "4": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "name": "1 Thessalonians 4",
+    "url": "https://api.getbible.net/v2/ukrogienko/52/4.json",
+    "sha": "fdfff0087ae6af4fea4bbc869906dbdc7a1a8f2d"
+  },
+  "5": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "name": "1 Thessalonians 5",
+    "url": "https://api.getbible.net/v2/ukrogienko/52/5.json",
+    "sha": "c4445b8f31af3b49969dc8d3fef5ed71090da1aa"
+  }
+}

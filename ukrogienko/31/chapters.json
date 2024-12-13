@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 31,
+    "book_name": "Obadiah",
+    "chapter": 1,
+    "name": "Obadiah 1",
+    "url": "https://api.getbible.net/v2/ukrogienko/31/1.json",
+    "sha": "336e4585f0ee4083a30d5ead6f6a71d1d07dfe26"
+  }
+}

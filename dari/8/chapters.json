@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 1,
+    "name": "Ruth 1",
+    "url": "https://api.getbible.net/v2/dari/8/1.json",
+    "sha": "e5845155a366ee8f8fcdcdf1a976b82dc56752f3"
+  },
+  "2": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 2,
+    "name": "Ruth 2",
+    "url": "https://api.getbible.net/v2/dari/8/2.json",
+    "sha": "94b1688352c1e3969a67c7a77a8129abc2e15097"
+  },
+  "3": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 3,
+    "name": "Ruth 3",
+    "url": "https://api.getbible.net/v2/dari/8/3.json",
+    "sha": "948de3286de69a4f0367ee9e459ba13e4eb7a669"
+  },
+  "4": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 4,
+    "name": "Ruth 4",
+    "url": "https://api.getbible.net/v2/dari/8/4.json",
+    "sha": "f8e3fc785a1af8563e061031bbdd39db59ce3ae4"
+  }
+}

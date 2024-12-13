@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/tausug/51/1.json",
+    "sha": "3fdc1f45127812ad7ea778c459abf371c29654ac"
+  },
+  "2": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/tausug/51/2.json",
+    "sha": "b46fa715615d69f749cbdfa7ebee5ee7f0255205"
+  },
+  "3": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/tausug/51/3.json",
+    "sha": "927f81dd830a5a2a84b300cb896c6aca170bb09c"
+  },
+  "4": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/tausug/51/4.json",
+    "sha": "f1598f5bea7331c3579938985922bbcaf1ccb977"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/tpikjpb/39/1.json",
+    "sha": "d92cdc2e6be5d27436fe5f7a9588a2b6fa9e80a7"
+  },
+  "2": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/tpikjpb/39/2.json",
+    "sha": "87bc3ad123f4cef05a3f34fe11fae23cd218f3ff"
+  },
+  "3": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/tpikjpb/39/3.json",
+    "sha": "0c915b5b2aba2c617cdc99f342f3e18a0a406357"
+  },
+  "4": {
+    "translation": "King Jems Pisin Baibel",
+    "abbreviation": "tpikjpb",
+    "lang": "tpi",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "url": "https://api.getbible.net/v2/tpikjpb/39/4.json",
+    "sha": "0ebd1a28ed966427e9eda6584e040a0d6d4e04f6"
+  }
+}

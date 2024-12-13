@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/dari/50/1.json",
+    "sha": "6f867b069809362334defd67570a4eac6efc2c0d"
+  },
+  "2": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/dari/50/2.json",
+    "sha": "cf6fa7b6df44e1e3fb3adb8ca012a56bb3bd62a2"
+  },
+  "3": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/dari/50/3.json",
+    "sha": "3ed416381145792fec653bd368187e67d635ec55"
+  },
+  "4": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/dari/50/4.json",
+    "sha": "4ac1d25e83b0711233f6d908f5f07adcfba32971"
+  }
+}

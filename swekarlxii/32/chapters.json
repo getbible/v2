@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/swekarlxii/32/1.json",
+    "sha": "ef3d83e4fca6247ecf8541271a1f7247f256b3c9"
+  },
+  "2": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/swekarlxii/32/2.json",
+    "sha": "095eae03b2839b32b913dae1060ebcc1693d8c70"
+  },
+  "3": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/swekarlxii/32/3.json",
+    "sha": "f13bb33adb606b3c45246541058d9bee868a73dd"
+  },
+  "4": {
+    "translation": "Svenska Karl XII:s Bibel (1703)",
+    "abbreviation": "swekarlxii",
+    "lang": "sv",
+    "language": "Swedish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/swekarlxii/32/4.json",
+    "sha": "7b6b07fe8c604e1e9ba1f80392731d711ec75f99"
+  }
+}

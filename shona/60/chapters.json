@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/shona/60/1.json",
+    "sha": "ea961e93d4627c641d66cb3a49b445ea0e6962d8"
+  },
+  "2": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/shona/60/2.json",
+    "sha": "1ac4e354a5821867af3ca9537b2c173dc97b519d"
+  },
+  "3": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/shona/60/3.json",
+    "sha": "802ba9242321ada79b0257baece565d1d6c23a56"
+  },
+  "4": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/shona/60/4.json",
+    "sha": "971752de4c4aec0c4c371ecb12865f1a4609353c"
+  },
+  "5": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/shona/60/5.json",
+    "sha": "4f37264e9d0cd2cbf8d8327e454bc15aae81380c"
+  }
+}

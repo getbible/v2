@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/lxx/39/1.json",
+    "sha": "22fb9d43cfef8f2435b642c11823acc5ecbd39d1"
+  },
+  "2": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/lxx/39/2.json",
+    "sha": "c2daf47a294aaa9bf0ff81830954c779e76c039e"
+  },
+  "3": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/lxx/39/3.json",
+    "sha": "2d4886961be7b74a0d649908541b4ddf34367e09"
+  }
+}

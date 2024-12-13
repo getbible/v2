@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/shona/59/1.json",
+    "sha": "96918cd6ccd856d1ac445c88cd3198adf4b30b06"
+  },
+  "2": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/shona/59/2.json",
+    "sha": "f3edf276eb63176edd114bfe8762495f0eaa35d6"
+  },
+  "3": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/shona/59/3.json",
+    "sha": "57a0b1c239af9a3655d3e2023613a33026399c8b"
+  },
+  "4": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/shona/59/4.json",
+    "sha": "e2181fd7794156d4ae2c7d7e062883d25fba54a0"
+  },
+  "5": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/shona/59/5.json",
+    "sha": "825a880108369c32013d65f8b6eec30649f425b4"
+  }
+}

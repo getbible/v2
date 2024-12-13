@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Serbian Bible Daničić-Karadžić Ijekavski",
+    "abbreviation": "srkdijekav",
+    "lang": "sr",
+    "language": "Serbian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Jude",
+    "chapter": 1,
+    "name": "Jude 1",
+    "url": "https://api.getbible.net/v2/srkdijekav/65/1.json",
+    "sha": "4f3b8965c6ae90bd29deac7460f583de889119f9"
+  }
+}

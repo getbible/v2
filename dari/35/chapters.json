@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 1,
+    "name": "Habakkuk 1",
+    "url": "https://api.getbible.net/v2/dari/35/1.json",
+    "sha": "203d44ecab592cba336390f6098fc353d1606993"
+  },
+  "2": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 2,
+    "name": "Habakkuk 2",
+    "url": "https://api.getbible.net/v2/dari/35/2.json",
+    "sha": "5af7b90d6cc17744503c9b70b2f31cded9eeda89"
+  },
+  "3": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 35,
+    "book_name": "Habakkuk",
+    "chapter": 3,
+    "name": "Habakkuk 3",
+    "url": "https://api.getbible.net/v2/dari/35/3.json",
+    "sha": "6682006c2a4d3c41b173278257cffdbb0a0eb63a"
+  }
+}

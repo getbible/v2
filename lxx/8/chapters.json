@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 1,
+    "name": "Ruth 1",
+    "url": "https://api.getbible.net/v2/lxx/8/1.json",
+    "sha": "8462d936793e7d847bad4dbd6c061cda40c5841a"
+  },
+  "2": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 2,
+    "name": "Ruth 2",
+    "url": "https://api.getbible.net/v2/lxx/8/2.json",
+    "sha": "3e87fa53ccc0270a14d15fa7977f38fa9f859c06"
+  },
+  "3": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 3,
+    "name": "Ruth 3",
+    "url": "https://api.getbible.net/v2/lxx/8/3.json",
+    "sha": "866695cfa2838912f0028a062b52d6fc19dfc675"
+  },
+  "4": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 8,
+    "book_name": "Ruth",
+    "chapter": 4,
+    "name": "Ruth 4",
+    "url": "https://api.getbible.net/v2/lxx/8/4.json",
+    "sha": "935691950ee3ced3c340e3355ea88f792f8934f5"
+  }
+}

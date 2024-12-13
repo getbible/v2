@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/tausug/60/1.json",
+    "sha": "4d176f114cb732c019106d8df348879e8dcc684d"
+  },
+  "2": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/tausug/60/2.json",
+    "sha": "8b4a3f18a0f10951b6ec85cf3d6a9eccc08e7612"
+  },
+  "3": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/tausug/60/3.json",
+    "sha": "0b3ff19af9f19804e99ada2c63ffaa636c0fe4a9"
+  },
+  "4": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/tausug/60/4.json",
+    "sha": "805d7611926b17281ed5c8e1dbc4141b034b0ff6"
+  },
+  "5": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/tausug/60/5.json",
+    "sha": "67e0a95126fcf86f0525048250acae559b52fa47"
+  }
+}

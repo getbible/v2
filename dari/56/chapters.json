@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/dari/56/1.json",
+    "sha": "11f770d06ecd93df517f7a7dee4b1813115e9f73"
+  },
+  "2": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/dari/56/2.json",
+    "sha": "fd7f50a7fc5b18d9a0a3da53cb073a7b5c5deae3"
+  },
+  "3": {
+    "translation": "Dari Translation",
+    "abbreviation": "dari",
+    "lang": "prs",
+    "language": "Dari",
+    "direction": "RTL",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/dari/56/3.json",
+    "sha": "f4ec81ffb8b7eb163c2fe2f442b16e5a1ec6d184"
+  }
+}

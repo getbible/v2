@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 63,
+    "book_name": "2 John",
+    "chapter": 1,
+    "name": "2 John 1",
+    "url": "https://api.getbible.net/v2/polugdanska/63/1.json",
+    "sha": "ed07598e38a02c361c79b830b443fd4024c3cb4f"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Updated Gdańsk Bible",
+    "abbreviation": "polugdanska",
+    "lang": "pl",
+    "language": "Polish",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 57,
+    "book_name": "Philemon",
+    "chapter": 1,
+    "name": "Philemon 1",
+    "url": "https://api.getbible.net/v2/polugdanska/57/1.json",
+    "sha": "001e3a8bd93a33980103fc157e3bb391233084b4"
+  }
+}

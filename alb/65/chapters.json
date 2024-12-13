@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Jude",
+    "chapter": 1,
+    "name": "Jude 1",
+    "url": "https://api.getbible.net/v2/alb/65/1.json",
+    "sha": "843664b12c68b68dc1908ed2459af1b1439ab7bd"
+  }
+}

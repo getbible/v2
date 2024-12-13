@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 1,
+    "name": "Philippians 1",
+    "url": "https://api.getbible.net/v2/shona/50/1.json",
+    "sha": "bdec0cd646f7176d3270fba226611cc76a34b25d"
+  },
+  "2": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 2,
+    "name": "Philippians 2",
+    "url": "https://api.getbible.net/v2/shona/50/2.json",
+    "sha": "17cc4dfacb0649d8ee658befcff87c1f9a291bff"
+  },
+  "3": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 3,
+    "name": "Philippians 3",
+    "url": "https://api.getbible.net/v2/shona/50/3.json",
+    "sha": "3cd0083580e1191b614237aa004fcbc5cc767d82"
+  },
+  "4": {
+    "translation": "Shona Bible",
+    "abbreviation": "shona",
+    "lang": "sn",
+    "language": "Shona",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 50,
+    "book_name": "Philippians",
+    "chapter": 4,
+    "name": "Philippians 4",
+    "url": "https://api.getbible.net/v2/shona/50/4.json",
+    "sha": "8a1e9167a2d694f98101ce96277e2c25281810b3"
+  }
+}

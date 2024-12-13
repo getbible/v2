@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/monkjv/55/1.json",
+    "sha": "dd9f98a78ff76e70914d5f6ab33cef259a281a72"
+  },
+  "2": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/monkjv/55/2.json",
+    "sha": "02e435323a222ef5d8777303b7f77daf4095ae9c"
+  },
+  "3": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/monkjv/55/3.json",
+    "sha": "ddd4efeebc25aeb2396ef87388d3d1f7ed86b9f4"
+  },
+  "4": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/monkjv/55/4.json",
+    "sha": "30be626e0849415b35c7ef37617af7774950d480"
+  }
+}

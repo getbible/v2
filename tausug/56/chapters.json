@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/tausug/56/1.json",
+    "sha": "f112050b50f4143bd96a758c040056c49a17a7c8"
+  },
+  "2": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/tausug/56/2.json",
+    "sha": "eb8ac853e73fda2bd29cb58acdeb598105e707ab"
+  },
+  "3": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/tausug/56/3.json",
+    "sha": "11e07198d92ddbf3cc43ccdbd6afaeb11ae186a6"
+  }
+}

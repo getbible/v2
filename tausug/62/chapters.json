@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 1,
+    "name": "1 John 1",
+    "url": "https://api.getbible.net/v2/tausug/62/1.json",
+    "sha": "73c792c3eff690d65d6f46c6eab9f5961a8b1668"
+  },
+  "2": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 2,
+    "name": "1 John 2",
+    "url": "https://api.getbible.net/v2/tausug/62/2.json",
+    "sha": "033dbc47c653016910e51b938d08cba6dfdc2732"
+  },
+  "3": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 3,
+    "name": "1 John 3",
+    "url": "https://api.getbible.net/v2/tausug/62/3.json",
+    "sha": "09ceea7e7e6f4750bf38d24a00198184d348cedf"
+  },
+  "4": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 4,
+    "name": "1 John 4",
+    "url": "https://api.getbible.net/v2/tausug/62/4.json",
+    "sha": "c5548e591201cf492d97d46ceda72e64c9ee5e7d"
+  },
+  "5": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 5,
+    "name": "1 John 5",
+    "url": "https://api.getbible.net/v2/tausug/62/5.json",
+    "sha": "a98c809708f7434b9e81270e2ae632c3373ed5e2"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/tausug/59/1.json",
+    "sha": "81159201631ffcc740175bdd77c438f4194742ef"
+  },
+  "2": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/tausug/59/2.json",
+    "sha": "131d50f8db08271cf32be354bc6f75c06bce5a35"
+  },
+  "3": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/tausug/59/3.json",
+    "sha": "e2b358f11a01af770a7649f09584dd01389d4483"
+  },
+  "4": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/tausug/59/4.json",
+    "sha": "c8e24ac553670c0b91cc8df44529dc174589aadf"
+  },
+  "5": {
+    "translation": "Tausug Kitab Injil",
+    "abbreviation": "tausug",
+    "lang": "tsg",
+    "language": "Tausug",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/tausug/59/5.json",
+    "sha": "a823a913051560d967c202c0b8550d2ee21f7e3b"
+  }
+}

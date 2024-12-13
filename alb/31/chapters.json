@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Albanian Bible",
+    "abbreviation": "alb",
+    "lang": "sq",
+    "language": "Albanian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 31,
+    "book_name": "Obadiah",
+    "chapter": 1,
+    "name": "Obadiah 1",
+    "url": "https://api.getbible.net/v2/alb/31/1.json",
+    "sha": "d1ea809ed6eb61704c7990ad9555b82f2f184eb8"
+  }
+}

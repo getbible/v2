@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "Українська Біблія. Переклад Івана Огієнка.",
+    "abbreviation": "ukrogienko",
+    "lang": "uk",
+    "language": "Ukrainian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 63,
+    "book_name": "2 John",
+    "chapter": 1,
+    "name": "2 John 1",
+    "url": "https://api.getbible.net/v2/ukrogienko/63/1.json",
+    "sha": "3de26dcb93d892628e209f90d9f4dbefe215e148"
+  }
+}

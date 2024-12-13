@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 1,
+    "name": "1 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/monkjv/52/1.json",
+    "sha": "8ff91d239ffca2793af19e1fe76cffbd16b2fb8b"
+  },
+  "2": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "name": "1 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/monkjv/52/2.json",
+    "sha": "724e54c5d0cbf66021ec205bd89197ced7d8d946"
+  },
+  "3": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 3,
+    "name": "1 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/monkjv/52/3.json",
+    "sha": "b09aa79d3c3e37da5963cf3e45fcb3c6bebc1e9a"
+  },
+  "4": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "name": "1 Thessalonians 4",
+    "url": "https://api.getbible.net/v2/monkjv/52/4.json",
+    "sha": "aa6f0bef8d666dba249f5327ae732be3a77402a3"
+  },
+  "5": {
+    "translation": "Mongolian King James Version",
+    "abbreviation": "monkjv",
+    "lang": "mn",
+    "language": "Mongolian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "name": "1 Thessalonians 5",
+    "url": "https://api.getbible.net/v2/monkjv/52/5.json",
+    "sha": "092dbd701899712653a1bd345354e48fda681103"
+  }
+}

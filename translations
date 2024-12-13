@@ -1,94 +1,118 @@
 #	language	translation	abbreviation	direction	filename	sha
 1	English	American King James Version	akjv	LTR	akjv	db887e43391ae4e394e908f9216c40cd5682b7ae
-2	Hebrew	Aleppo Codex	aleppo	RTL	aleppo	6044d31a59450ba0507d92bfab1abf15eaf1ac2c
-3	Portuguese	Almeida Atualizada	almeida	LTR	almeida	192867d52f8ff2cec35f7cc94c33424d50443505
-4	Afrikaans	Ou Vertaling	aov	LTR	aov	e395e50cd43530b54238ac897593bdd04a46e233
-5	Arabic	Smith and Van Dyke	arabicsv	RTL	arabicsv	3aa9d71618dfb0693e6579602a8beb6def3e2af4
-6	English	American Standard Version	asv	LTR	asv	c647bcf268a540b7fd64a65ae4282a9f23869010
-7	English	Basic English Bible	basicenglish	LTR	basicenglish	a403c9b708b44dfba83ea9a432a314264e64513d
-8	Basque	(Navarro Labourdin) NT	basque	LTR	basque	4d67722c85f64f66368fc27d7254fd4d31a9450a
-9	Norwegian bokmal	Det Norsk Bibelselskap (1930)	bibelselskap	LTR	bibelselskap	aefc6507fc93ccdd56f850f4169cb5a97702654d
-10	Czech	Czech BKR	bkr	LTR	bkr	5ba992b98186ae032ec8bb860dc67f73def6298c
-11	Breton	Gospels	breton	LTR	breton	648ad897438b779641b8b81695f1fc879c70a59b
-12	Dutch	Petrus Canisius Translation	canisius	LTR	canisius	1008a861a16307cd54b87b8814b8e78f377c835d
-13	Czech	Czech CEP	cep	LTR	cep	258aab7b8ec993ba3aeec817de5d846b96810539
-14	Chamorro	(Psalms Gospels Acts)	chamorro	LTR	chamorro	6b51caa125b55c46a84b73bac625201ff9f2ce1b
-15	Cherokee	Cherokee New Testament (1860) with Sequoyah transliterated forms	che1860	LTR	che1860	1e3abce51133ca2d3fd639b0747536e1d1160cf1
-16	Chinese	NCV Simplified	cns	LTR	cns	daa5e614f7dc3ec24076c797d3fdbb6f548e596e
-17	Chinese	NCV Traditional	cnt	LTR	cnt	46a734bf685e1ad3a0b0091641582a25ac37d91b
-18	Hebrew	OT Westminster Leningrad Codex	codex	RTL	codex	b4182ca700593decfb84e32efb91ecd9d45b897c
-19	Coptic	New Testament	coptic	LTR	coptic	70de8781f1203d2603afd8314daf50f9b72c79cd
-20	Romanian	Cornilescu	cornilescu	LTR	cornilescu	8043a2bd800355900abdd6f3dd79a327f86aeff5
-21	Croatian	Croatian	croatia	LTR	croatia	1e7a9b83deddb8d1321df5c5be835f0bbc1a2a81
-22	Slavonic Elizabeth	1757 Church Slavonic Elizabeth Bible	csielizabeth	LTR	csielizabeth	7a805a4189e942ac0d14301e8ef931059a2f22af
-23	Chinese	Union Simplified	cus	LTR	cus	f9200fe847b326194b62cd18cc654f3a41c637e2
-24	Chinese	Union Traditional	cut	LTR	cut	9db1a41781dd4b3c70b3c9a4a81ffc1aaf129210
-25	Danish	Danish	danish	LTR	danish	59aaba628473984dc487cbd45751a1de004cf61c
-26	Danish	Danish New Testament from 1819 with original orthography	danish1819	LTR	danish1819	4991c71b06689463f4deb33aff3a5f4df1891546
-27	Danish	Danish OT1871 + NT1907 with original orthography	danish1871	LTR	danish1871	c4f1847fe19a970af4662cd55c865c091a0e09e8
-28	French	Darby	darby	LTR	darby	8bd28472f3c36f20703a1c90c7abc5b711babb72
-29	English	Douay Rheims	douayrheims	LTR	douayrheims	414fe481d8c973bdb227f56de383874371676dd1
-30	Armenian	Eastern (Genesis Exodus Gospels)	easternarmenian	LTR	easternarmenian	5c21431b0b9e8a32835ed1ec070ebba1793bd12e
-31	German	Elberfelder (1871)	elberfelder	LTR	elberfelder	8fc1c3b8d53cfea13b17becb0cca333d493f2a21
-32	German	Elberfelder (1905)	elberfelder1905	LTR	elberfelder1905	a339b41e71755bacefa8c117ad489c010bc28c91
-33	Esperanto	Esperanto	esperanto	LTR	esperanto	e2d47b1d02292632365ac3d8acedb126c389ff77
-34	Estonian	Estonian	estonian	LTR	estonian	ef0e9a76a4b3072ee4ad00e76b9165178d68dace
-35	Finnish	Finnish Bible (1776)	finnish1776	LTR	finnish1776	022a3ce364fc90f7aa202b2e852aa1fbebc12325
-36	Scottish Gaelic	Scots Gaelic (Gospel of Mark)	gaelic	LTR	gaelic	d8ff4c92ffc6c2bd38aea3c35a0f54897b178ec2
-37	Italian	Giovanni Diodati Bible (1649)	giovanni	LTR	giovanni	cee35588f101b688cec9d51b32a1b4ed99df2823
-38	Gothic	Gothic (Nehemiah NT Portions)	gothic	LTR	gothic	e7e6ed1d95f40b1f8f112226398bae275fefec97
-39	Japanese	明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書	japbungo	LTR	japbungo	63d966ad2b2ed90c2594f31ff383946917ec6630
-40	Japanese	Japanese Denmo 電網聖書	japdenmo	LTR	japdenmo	d330301f8381305be1ad60d25e36e0ad2f05e87c
-41	Japanese	Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)	japkougo	LTR	japkougo	09fc5ccc86449250a621ffc6ac6a69e6f9c1216b
-42	Japanese	Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)	japraguet	LTR	japraguet	123c03dfbfd1d38407a64598f9dd3cb235ec40b7
-43	Myanmar Burmse	Judson (1835)	judson	LTR	judson	0e5e0b3cc044e3b7a5c54c039a877c82e7a1f182
-44	Hungarian	Hungarian Karoli	karoli	LTR	karoli	380a33d83198abfc7cb333fbc89d7c951045274f
-45	English	King James Version	kjv	LTR	kjv	91287fccb61d23727204d11d72d2543241ff4862
-46	English	King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)	kjva	LTR	kjva	615f7414236a3695ec20e95c3244e08a9c018725
-47	Korean	Korean	korean	LTR	korean	ab33d24c8ba9180d727b83eb0570aa60b174af84
-48	Korean	Hangul King James Version	koreankjv	LTR	koreankjv	17e519bf2669d84072919fd7e45578ba6724adb1
-49	Latvian	New Testament	latvian	LTR	latvian	5f3eac2232eaef6f724da14fe551c3f3490e9a06
-50	Lithuanian	Lithuanian	lithuanian	LTR	lithuanian	c860263534129c724fb27dd4a347b4a5fcfedbbb
-51	Portuguese	Bíblia Livre	livre	LTR	livre	fbb20b3c898417c495d945e8cac2913ba4de4802
-52	Portuguese	Bíblia Livre - Textus Receptus	livretr	LTR	livretr	a0e6c7b8b0935963c4cf4551ca6811223f1e5570
-53	French	Louis Segond (1910)	ls1910	LTR	ls1910	c65769ae935835951f0405bff74baf7ac06e67bb
-54	German	Luther (1545)	luther1545	LTR	luther1545	0599a6aef29d2ff341d16168e42a0c71dc20b628
-55		Sathyavedapusthakam (Malayalam Bible) published in 1910	mal1910	LTR	mal1910	e4d3028c9dbc99dd7382aa944c0739c7428fbace
-56	Manx Gaelic	Manx Gaelic (Esther Jonah 4 Gospels)	manxgaelic	LTR	manxgaelic	c4edfa6615444834362be2100958c438d45524b5
-57	Maori	Maori	maori	LTR	maori	fe9ea9346faa91e2f292c68b69365acb2f8292c3
-58	French	Martin (1744)	martin	LTR	martin	bfed92322117de41d6558d374ec546ae10143962
-59	Greek Modern	Greek Modern	moderngreek	LTR	moderngreek	c275300400c4cf0f931f0b533ee54ff57cd8ca28
-60	Hebrew	Hebrew Modern	modernhebrew	RTL	modernhebrew	26d85b11e406f7cae1992ee7579e745d2f0fab64
-61	Syriac	Peshitta NT	peshitta	RTL	peshitta	6596ad5b332a426d3b968b15db706d17ffc9961e
-62	Potawatomi	Potawatomi (Matthew Acts) (Lykins 1844)	potawatomi	LTR	potawatomi	2ec95277e315ca215bb43430920933b7a476f113
-63	Finnish	Pyha Raamattu (1933 1938)	pyharaamattu1933	LTR	pyharaamattu1933	01498618aec6c5166796ffab15385f4130c68c30
-64	Finnish	Pyha Raamattu (1992)	pyharaamattu1992	LTR	pyharaamattu1992	5252f6923601e91beeca0f1d019ea3095469bed9
-65	Italian	Riveduta Bible (1927)	riveduta	LTR	riveduta	47807384fa5f27222e2f7d953b5373ee5a1bc61f
-66	Spanish	Reina Valera NT (1858)	rv1858	LTR	rv1858	46ecba128dc37aec35ff5aa685ca66a5208cfd39
-67	Coptic	Sahidic NT	sahidic	LTR	sahidic	0975d5d1e694e7f98cb21e18920c68efcf5aa505
-68	German	Schlachter (1951)	schlachter	LTR	schlachter	c67991129e7f23be7b4b3a54b4ce51edb3ff0c2b
-69	Spanish	Sagradas Escrituras (1569)	sse	LTR	sse	3633d4adaa117df39e5c39172a06a101a8b4526b
-70	Dutch	Dutch Staten Vertaling	statenvertaling	LTR	statenvertaling	2bc74e4ec96e15373eda773a975d4a796edeeb8c
-71	Dutch	De ganse Heilige Schrift bevattende al de kanonieke boeken van het Oude en Nieuwe Testament, met de apocriefe (deuterocanonieke) boeken	statenvertalinga	LTR	statenvertalinga	d62fef227d6d2b3fd353c49ec5153676edae853f
-72	Swahili	Swahili	swahili	LTR	swahili	84e944b21c24e94ed332f452ff514703e4409d69
-73	Swedish	Swedish (1917)	swedish	LTR	swedish	9147b40a873543028e824ae5759a86e0b464a976
-74	Russian	Synodal Translation (1876)	synodal	LTR	synodal	b43a3151c1b8a2d3080a1688dd80dad4894a6b30
-75	Tagalog	Ang Dating Biblia (1905)	tagalog	LTR	tagalog	fe1bd9651dc4db39be3315b80e80f6eb250bbca6
-76	Greek	NT Textus Receptus (1550 1894) Parsed	textusreceptus	LTR	textusreceptus	d82e1ef5110eda5b571ab94a0f3dd98733755645
-77	Thai	Thai from kjv	thai	LTR	thai	593411293c2408d7e1ba791b0949a95c2c4278a3
-78	Greek	NT Tischendorf 8th Ed	tischendorf	LTR	tischendorf	ebd74f7a1188864dcabafc49854b8180a39aba27
-79	Turkish	Turkish	turkish	LTR	turkish	bf816a4d212cb92735461afe89f4308bd25887fd
-80	English	William Tyndale Bible (1525/1530)	tyndale	LTR	tyndale	61a19a34845b9430180481e3a7c4b7036f798b06
-81	Ukrainian	NT (P Kulish 1871)	ukranian	LTR	ukranian	dd4e8470b9726797de50f649d2cf7f7d043aaad3
-82	Uma	Uma NT	uma	LTR	uma	b352290d99f6597661949b72cd9d5f70d850c973
-83	Spanish	Reina Valera (1909)	valera	LTR	valera	11405596a825b2947c7bd35d67e5eea8576a58cf
-84	Vietnamese	Vietnamese (1934)	vietnamese	LTR	vietnamese	49730016e85f5ad13fa712a25248ecffd49ad55b
-85	Latin	Vulgata Clementina	vulgate	LTR	vulgate	159c9d0fe1038b37b94fd6065a31fd444325c0bf
-86	English	Webster's Bible	wb	LTR	wb	07f9fd4e6b897c775cfb9afbb27f7ddd3e8e7a1e
-87	English	World English Bible	web	LTR	web	b02e1d3e38cc6ccba30e2c1760df9f479afaa408
-88	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	westcotthort	e8d014f49625f4ee9d542b599155adc468a3138d
-89	Armenian	Western NT	westernarmenian	LTR	westernarmenian	bf570de5d793b90f9fe78f57113bfa22498b7f15
-90	English	Weymouth NT	weymouth	LTR	weymouth	fedcb6c882a7e6b4a53a4ae5b76578108fa4542c
-91	English	John Wycliffe Bible (c.1395)	wycliffe	LTR	wycliffe	127d045982b6d064c869f4922ccf5134b7ce4f71
-92	English	Young's Literal Translation	ylt	LTR	ylt	cf2ce18648bff8413a5b52d9d923aba0f68ab3fe
-93	Russian	Victor Zhuromsky NT	zhuromsky	LTR	zhuromsky	19b23c1a01af4a4694a56b6678794a70eeb6fbc9
+2	Albanian	Albanian Bible	alb	LTR	alb	6824cb3e7bd47e05ba2a31093ba5a99a1b257b04
+3	Hebrew	Aleppo Codex	aleppo	RTL	aleppo	6044d31a59450ba0507d92bfab1abf15eaf1ac2c
+4	Portuguese	Almeida Atualizada	almeida	LTR	almeida	192867d52f8ff2cec35f7cc94c33424d50443505
+5	Afrikaans	Ou Vertaling	aov	LTR	aov	e395e50cd43530b54238ac897593bdd04a46e233
+6	Arabic	Smith and Van Dyke	arabicsv	RTL	arabicsv	3aa9d71618dfb0693e6579602a8beb6def3e2af4
+7	English	American Standard Version	asv	LTR	asv	c647bcf268a540b7fd64a65ae4282a9f23869010
+8	English	Basic English Bible	basicenglish	LTR	basicenglish	a403c9b708b44dfba83ea9a432a314264e64513d
+9	Basque	(Navarro Labourdin) NT	basque	LTR	basque	4d67722c85f64f66368fc27d7254fd4d31a9450a
+10	Norwegian bokmal	Det Norsk Bibelselskap (1930)	bibelselskap	LTR	bibelselskap	aefc6507fc93ccdd56f850f4169cb5a97702654d
+11	Czech	Czech BKR	bkr	LTR	bkr	5ba992b98186ae032ec8bb860dc67f73def6298c
+12	Breton	Gospels	breton	LTR	breton	648ad897438b779641b8b81695f1fc879c70a59b
+13	Myanmar Burmse	ဤဘာသာပြန်ကျမ်းကိုကက်သလစ်ဆရာတော်များရုံးချုပ်ရှိ  သမမ္မာ ကျမ်းစာတမန်တော်လုပ်ငန်းကော်မစ်ရှင်မှပံ့ပိုးပေးပါသည်။	burcbcm	LTR	burcbcm	4e20ddbbd127ac4d70af0674e312db42929e507d
+14	Calo	El Evangelio segun S. Lucas, traducido al Romaní, ó dialecto de los Gitanos de España	calo	LTR	calo	ba8660693e112aa1e731222d8918e653a892c6f8
+15	Dutch	Petrus Canisius Translation	canisius	LTR	canisius	1008a861a16307cd54b87b8814b8e78f377c835d
+16	Czech	Czech CEP	cep	LTR	cep	258aab7b8ec993ba3aeec817de5d846b96810539
+17	Chamorro	(Psalms Gospels Acts)	chamorro	LTR	chamorro	6b51caa125b55c46a84b73bac625201ff9f2ce1b
+18	Cherokee	Cherokee New Testament (1860) with Sequoyah transliterated forms	che1860	LTR	che1860	1e3abce51133ca2d3fd639b0747536e1d1160cf1
+19	Chinese	聖經 (文理和合)	chiunl	LTR	chiunl	8b4e98467c6e119e60ee48460afc95a06b65a43b
+20	Chinese	NCV Simplified	cns	LTR	cns	daa5e614f7dc3ec24076c797d3fdbb6f548e596e
+21	Chinese	NCV Traditional	cnt	LTR	cnt	46a734bf685e1ad3a0b0091641582a25ac37d91b
+22	Hebrew	OT Westminster Leningrad Codex	codex	RTL	codex	b4182ca700593decfb84e32efb91ecd9d45b897c
+23	Coptic	New Testament	coptic	LTR	coptic	70de8781f1203d2603afd8314daf50f9b72c79cd
+24	Romanian	Cornilescu	cornilescu	LTR	cornilescu	8043a2bd800355900abdd6f3dd79a327f86aeff5
+25	Croatian	Croatian	croatia	LTR	croatia	1e7a9b83deddb8d1321df5c5be835f0bbc1a2a81
+26	Slavonic Elizabeth	1757 Church Slavonic Elizabeth Bible	csielizabeth	LTR	csielizabeth	7a805a4189e942ac0d14301e8ef931059a2f22af
+27	Chinese	Union Simplified	cus	LTR	cus	f9200fe847b326194b62cd18cc654f3a41c637e2
+28	Chinese	Union Traditional	cut	LTR	cut	9db1a41781dd4b3c70b3c9a4a81ffc1aaf129210
+29	Danish	Danish	danish	LTR	danish	59aaba628473984dc487cbd45751a1de004cf61c
+30	Danish	Danish New Testament from 1819 with original orthography	danish1819	LTR	danish1819	4991c71b06689463f4deb33aff3a5f4df1891546
+31	Danish	Danish OT1871 + NT1907 with original orthography	danish1871	LTR	danish1871	c4f1847fe19a970af4662cd55c865c091a0e09e8
+32	French	Darby	darby	LTR	darby	8bd28472f3c36f20703a1c90c7abc5b711babb72
+33	Dari	Dari Translation	dari	RTL	dari	3d5f3f4f159f4d5bcfe9041c8bef996193000684
+34	English	Douay Rheims	douayrheims	LTR	douayrheims	414fe481d8c973bdb227f56de383874371676dd1
+35	Armenian	Eastern (Genesis Exodus Gospels)	easternarmenian	LTR	easternarmenian	5c21431b0b9e8a32835ed1ec070ebba1793bd12e
+36	German	Elberfelder (1871)	elberfelder	LTR	elberfelder	8fc1c3b8d53cfea13b17becb0cca333d493f2a21
+37	German	Elberfelder (1905)	elberfelder1905	LTR	elberfelder1905	a339b41e71755bacefa8c117ad489c010bc28c91
+38	Esperanto	Esperanto	esperanto	LTR	esperanto	e2d47b1d02292632365ac3d8acedb126c389ff77
+39	Estonian	Estonian	estonian	LTR	estonian	ef0e9a76a4b3072ee4ad00e76b9165178d68dace
+40	Finnish	Finnish Bible (1776)	finnish1776	LTR	finnish1776	022a3ce364fc90f7aa202b2e852aa1fbebc12325
+41	Scottish Gaelic	Scots Gaelic (Gospel of Mark)	gaelic	LTR	gaelic	d8ff4c92ffc6c2bd38aea3c35a0f54897b178ec2
+42	Italian	Giovanni Diodati Bible (1649)	giovanni	LTR	giovanni	cee35588f101b688cec9d51b32a1b4ed99df2823
+43	Gothic	Gothic (Nehemiah NT Portions)	gothic	LTR	gothic	e7e6ed1d95f40b1f8f112226398bae275fefec97
+44	Japanese	明治元訳「舊約聖書」(1953年版) 大正改訳「新約聖書	japbungo	LTR	japbungo	63d966ad2b2ed90c2594f31ff383946917ec6630
+45	Japanese	Japanese Denmo 電網聖書	japdenmo	LTR	japdenmo	d330301f8381305be1ad60d25e36e0ad2f05e87c
+46	Japanese	Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)	japkougo	LTR	japkougo	09fc5ccc86449250a621ffc6ac6a69e6f9c1216b
+47	Japanese	Japanese Raguet-yaku ラゲ訳「我主イエズスキリストの新約聖書」(1910年版)	japraguet	LTR	japraguet	123c03dfbfd1d38407a64598f9dd3cb235ec40b7
+48	Myanmar Burmse	Judson (1835)	judson	LTR	judson	0e5e0b3cc044e3b7a5c54c039a877c82e7a1f182
+49	Hungarian	Hungarian Karoli	karoli	LTR	karoli	380a33d83198abfc7cb333fbc89d7c951045274f
+50	English	King James Version	kjv	LTR	kjv	91287fccb61d23727204d11d72d2543241ff4862
+51	English	King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)	kjva	LTR	kjva	615f7414236a3695ec20e95c3244e08a9c018725
+52		Klingon Language Version of the World English Bible	klv	LTR	klv	58901035191283764773bce5eac9c1b07afb2999
+53	Korean	Korean	korean	LTR	korean	ab33d24c8ba9180d727b83eb0570aa60b174af84
+54	Korean	Hangul King James Version	koreankjv	LTR	koreankjv	17e519bf2669d84072919fd7e45578ba6724adb1
+55	Latvian	New Testament	latvian	LTR	latvian	5f3eac2232eaef6f724da14fe551c3f3490e9a06
+56	Lithuanian	Lithuanian	lithuanian	LTR	lithuanian	c860263534129c724fb27dd4a347b4a5fcfedbbb
+57	Portuguese	Bíblia Livre	livre	LTR	livre	fbb20b3c898417c495d945e8cac2913ba4de4802
+58	Portuguese	Bíblia Livre - Textus Receptus	livretr	LTR	livretr	a0e6c7b8b0935963c4cf4551ca6811223f1e5570
+59	French	Louis Segond (1910)	ls1910	LTR	ls1910	c65769ae935835951f0405bff74baf7ac06e67bb
+60	German	Luther (1545)	luther1545	LTR	luther1545	0599a6aef29d2ff341d16168e42a0c71dc20b628
+61	Greek	OT LXX Accented	lxx	LTR	lxx	0718d89b0c938053e7ea5c6704cdb6249e4f1777
+62		Sathyavedapusthakam (Malayalam Bible) published in 1910	mal1910	LTR	mal1910	e4d3028c9dbc99dd7382aa944c0739c7428fbace
+63	Manx Gaelic	Manx Gaelic (Esther Jonah 4 Gospels)	manxgaelic	LTR	manxgaelic	c4edfa6615444834362be2100958c438d45524b5
+64	Maori	Maori	maori	LTR	maori	fe9ea9346faa91e2f292c68b69365acb2f8292c3
+65	French	Martin (1744)	martin	LTR	martin	bfed92322117de41d6558d374ec546ae10143962
+66	Malagasy	Baiboly Malagasy (1865)	mg1865	LTR	mg1865	f9d289e9b4856e9f27b9f6002f5d09f1da26d3bf
+67	Greek Modern	Greek Modern	moderngreek	LTR	moderngreek	c275300400c4cf0f931f0b533ee54ff57cd8ca28
+68	Hebrew	Hebrew Modern	modernhebrew	RTL	modernhebrew	26d85b11e406f7cae1992ee7579e745d2f0fab64
+69	Mongolian	Mongolian King James Version	monkjv	LTR	monkjv	7938da6d02b50560acb27e8387b1c785b368d0cf
+70	Ndebele	Ndebele Bible	ndebele	LTR	ndebele	2e1a8bad3eb39b7d648e6c861da8c17f94f6dc87
+71	Norwegian nynorsk	Studentmållagsbibelen frå 1921	norsmb	LTR	norsmb	fbf72e4a0205720d37251d04133597c4afc3e657
+72	Syriac	Peshitta NT	peshitta	RTL	peshitta	6596ad5b332a426d3b968b15db706d17ffc9961e
+73	Pohnpeian	Old Public Domain Pohnpeian Bible	pohnold	LTR	pohnold	3b06d165d660d9d4a8ffeca972c7b5afeb44e1be
+74	Pohnpeian	Bible in Pohnpeian language	pohnpeian	LTR	pohnpeian	c7f2e3cf4bf832da36467530e3c9466ac7439ff4
+75	Polish	Polish Biblia Gdanska (1881)	polgdanska	LTR	polgdanska	e5dfe3af42ffaa39c5c398928d4835b0fccbfa35
+76	Polish	Updated Gdańsk Bible	polugdanska	LTR	polugdanska	1519f159c170037a1bf8af008ff6ad9bde36d199
+77	Potawatomi	Potawatomi (Matthew Acts) (Lykins 1844)	potawatomi	LTR	potawatomi	2ec95277e315ca215bb43430920933b7a476f113
+78	Finnish	Pyha Raamattu (1933 1938)	pyharaamattu1933	LTR	pyharaamattu1933	01498618aec6c5166796ffab15385f4130c68c30
+79	Finnish	Pyha Raamattu (1992)	pyharaamattu1992	LTR	pyharaamattu1992	5252f6923601e91beeca0f1d019ea3095469bed9
+80	Italian	Riveduta Bible (1927)	riveduta	LTR	riveduta	47807384fa5f27222e2f7d953b5373ee5a1bc61f
+81	Spanish	Reina Valera NT (1858)	rv1858	LTR	rv1858	46ecba128dc37aec35ff5aa685ca66a5208cfd39
+82	Coptic	Sahidic NT	sahidic	LTR	sahidic	0975d5d1e694e7f98cb21e18920c68efcf5aa505
+83	German	Schlachter (1951)	schlachter	LTR	schlachter	c67991129e7f23be7b4b3a54b4ce51edb3ff0c2b
+84	Shona	Shona Bible	shona	LTR	shona	064edb298a572702de2c385b45660b42f6c56d9d
+85	Serbian	Serbian Bible Daničić-Karadžić Ekavski	srkdekavski	LTR	srkdekavski	f79c66ad67c318b99303afa23d6d68a6a39becc2
+86	Serbian	Serbian Bible Daničić-Karadžić Ijekavski	srkdijekav	LTR	srkdijekav	b05f3b003872220d302935a60fcdd661163403db
+87	Spanish	Sagradas Escrituras (1569)	sse	LTR	sse	3633d4adaa117df39e5c39172a06a101a8b4526b
+88	Dutch	Dutch Staten Vertaling	statenvertaling	LTR	statenvertaling	2bc74e4ec96e15373eda773a975d4a796edeeb8c
+89	Dutch	De ganse Heilige Schrift bevattende al de kanonieke boeken van het Oude en Nieuwe Testament, met de apocriefe (deuterocanonieke) boeken	statenvertalinga	LTR	statenvertalinga	d62fef227d6d2b3fd353c49ec5153676edae853f
+90	Swahili	Swahili	swahili	LTR	swahili	84e944b21c24e94ed332f452ff514703e4409d69
+91	Swedish	Swedish (1917)	swedish	LTR	swedish	9147b40a873543028e824ae5759a86e0b464a976
+92	Swedish	Svenska Karl XII:s Bibel (1703)	swekarlxii	LTR	swekarlxii	7c5af49de4929a262887766e31f0359fbe7a56b2
+93	Swedish	Svenska Karl XII:s Bibel (1873)	swekarlxii1873	LTR	swekarlxii1873	b0b0c8ad7083a13922a3c5eae020416817075193
+94	Russian	Synodal Translation (1876)	synodal	LTR	synodal	b43a3151c1b8a2d3080a1688dd80dad4894a6b30
+95	Tagalog	Ang Dating Biblia (1905)	tagalog	LTR	tagalog	fe1bd9651dc4db39be3315b80e80f6eb250bbca6
+96	Tausug	Tausug Kitab Injil	tausug	LTR	tausug	5f8311f65ce8914216fc1eda7be7593245eea611
+97	Greek	NT Textus Receptus (1550 1894) Parsed	textusreceptus	LTR	textusreceptus	d82e1ef5110eda5b571ab94a0f3dd98733755645
+98	Thai	Thai from kjv	thai	LTR	thai	593411293c2408d7e1ba791b0949a95c2c4278a3
+99	Greek	NT Tischendorf 8th Ed	tischendorf	LTR	tischendorf	ebd74f7a1188864dcabafc49854b8180a39aba27
+100		King Jems Pisin Baibel	tpikjpb	LTR	tpikjpb	f2ed2f4a5fd81242eb0a19e31d5017f5a7f3f45e
+101	Turkish	Turkish Easy-to-Read Translation (HADI)	turhadi	LTR	turhadi	1c57d7ae25624cdd4bcff53b42df7c9543dbabf8
+102	Turkish	Turkish	turkish	LTR	turkish	bf816a4d212cb92735461afe89f4308bd25887fd
+103	English	William Tyndale Bible (1525/1530)	tyndale	LTR	tyndale	61a19a34845b9430180481e3a7c4b7036f798b06
+104	Ukrainian	NT (P Kulish 1871)	ukranian	LTR	ukranian	dd4e8470b9726797de50f649d2cf7f7d043aaad3
+105	Ukrainian	Українська Біблія. Переклад Івана Огієнка.	ukrogienko	LTR	ukrogienko	d876a3b8b7bbdfe344526d7cf3cb272e0407bea6
+106	Uma	Uma NT	uma	LTR	uma	b352290d99f6597661949b72cd9d5f70d850c973
+107	Spanish	Reina Valera (1909)	valera	LTR	valera	11405596a825b2947c7bd35d67e5eea8576a58cf
+108	Vietnamese	Vietnamese (1934)	vietnamese	LTR	vietnamese	49730016e85f5ad13fa712a25248ecffd49ad55b
+109	Latin	Vulgata Clementina	vulgate	LTR	vulgate	159c9d0fe1038b37b94fd6065a31fd444325c0bf
+110	English	Webster's Bible	wb	LTR	wb	07f9fd4e6b897c775cfb9afbb27f7ddd3e8e7a1e
+111	English	World English Bible	web	LTR	web	b02e1d3e38cc6ccba30e2c1760df9f479afaa408
+112	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	westcotthort	e8d014f49625f4ee9d542b599155adc468a3138d
+113	Armenian	Western NT	westernarmenian	LTR	westernarmenian	bf570de5d793b90f9fe78f57113bfa22498b7f15
+114	English	Weymouth NT	weymouth	LTR	weymouth	fedcb6c882a7e6b4a53a4ae5b76578108fa4542c
+115	English	John Wycliffe Bible (c.1395)	wycliffe	LTR	wycliffe	127d045982b6d064c869f4922ccf5134b7ce4f71
+116	English	Young's Literal Translation	ylt	LTR	ylt	cf2ce18648bff8413a5b52d9d923aba0f68ab3fe
+117	Russian	Victor Zhuromsky NT	zhuromsky	LTR	zhuromsky	19b23c1a01af4a4694a56b6678794a70eeb6fbc9

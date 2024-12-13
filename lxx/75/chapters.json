@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 1,
+    "name": "Baruch 1",
+    "url": "https://api.getbible.net/v2/lxx/75/1.json",
+    "sha": "113056229840f9309f05617521534a9b00a45ad2"
+  },
+  "2": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 2,
+    "name": "Baruch 2",
+    "url": "https://api.getbible.net/v2/lxx/75/2.json",
+    "sha": "b1b8ed8d320640eba1fbfa0d9601f33ac8a88d0f"
+  },
+  "3": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 3,
+    "name": "Baruch 3",
+    "url": "https://api.getbible.net/v2/lxx/75/3.json",
+    "sha": "7040de4c95cc83ac49dbd8f8b026d5b791df90eb"
+  },
+  "4": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 4,
+    "name": "Baruch 4",
+    "url": "https://api.getbible.net/v2/lxx/75/4.json",
+    "sha": "d5ca458a12079b064209b2f5b518c232846b3695"
+  },
+  "5": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 75,
+    "book_name": "Baruch",
+    "chapter": 5,
+    "name": "Baruch 5",
+    "url": "https://api.getbible.net/v2/lxx/75/5.json",
+    "sha": "990824dee03a89a31937c280bd42b93cf631a4b4"
+  }
+}
