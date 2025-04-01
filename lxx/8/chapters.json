@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ruth 1",
     "url": "https://api.getbible.net/v2/lxx/8/1.json",
-    "sha": "8462d936793e7d847bad4dbd6c061cda40c5841a"
+    "sha": "82b4651cb5d570e5b332e013b79161f48c1be92a"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ruth 2",
     "url": "https://api.getbible.net/v2/lxx/8/2.json",
-    "sha": "3e87fa53ccc0270a14d15fa7977f38fa9f859c06"
+    "sha": "e8a13cc9df69c56e5fefdde204f3ba01f818f5d9"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ruth 3",
     "url": "https://api.getbible.net/v2/lxx/8/3.json",
-    "sha": "866695cfa2838912f0028a062b52d6fc19dfc675"
+    "sha": "888ba2b52d2ef44f19bbc25a39590c8030a79f60"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Ruth 4",
     "url": "https://api.getbible.net/v2/lxx/8/4.json",
-    "sha": "935691950ee3ced3c340e3355ea88f792f8934f5"
+    "sha": "675e2cc42441f13ee4c43475cb932b1cda21838e"
   }
 }

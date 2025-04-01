@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Hosea 1",
     "url": "https://api.getbible.net/v2/lxx/28/1.json",
-    "sha": "9501b71b71bec7746abe7bd949fed9d8a1c31354"
+    "sha": "9318117b31f44a3eb591393bd4e00cb03aac5e82"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Hosea 2",
     "url": "https://api.getbible.net/v2/lxx/28/2.json",
-    "sha": "51a786e77d42efa7fbb3bfc6b780864024ac05c9"
+    "sha": "cd344fb61f741fedc96b123c582e60bfa3f3407c"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Hosea 3",
     "url": "https://api.getbible.net/v2/lxx/28/3.json",
-    "sha": "c0208560c7f34685e91298bed984a3e81971cb26"
+    "sha": "230bb75af2e4611fad54c0dcdfac13b6281fc7b0"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Hosea 4",
     "url": "https://api.getbible.net/v2/lxx/28/4.json",
-    "sha": "19c8669642aef21efae660f17cffb1dbd4673242"
+    "sha": "f1c49b7f5c614e595111bf529265e3bdbee26ad1"
   },
   "5": {
     "translation": "OT LXX Accented",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Hosea 5",
     "url": "https://api.getbible.net/v2/lxx/28/5.json",
-    "sha": "18347d0d59b46831a4da90dfd80ab4e70ed50739"
+    "sha": "466c40efecf85d325afef7d3fde6ca2bf8eb7216"
   },
   "6": {
     "translation": "OT LXX Accented",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Hosea 6",
     "url": "https://api.getbible.net/v2/lxx/28/6.json",
-    "sha": "5401f0347dcb997c118f5e60586c0ded8e09f2fe"
+    "sha": "dd966e7ad876dd2c35159436233181e351e4372f"
   },
   "7": {
     "translation": "OT LXX Accented",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Hosea 7",
     "url": "https://api.getbible.net/v2/lxx/28/7.json",
-    "sha": "3676b51d3114eef237fc53bde7d2e7bda82dde89"
+    "sha": "9e53c620e007e594656f619293b74fc629471957"
   },
   "8": {
     "translation": "OT LXX Accented",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Hosea 8",
     "url": "https://api.getbible.net/v2/lxx/28/8.json",
-    "sha": "37dbd48e65f2e5a2b1c26aed662054dc6863aff1"
+    "sha": "9a8359ea664b0e114cea60b7ae1d25dc39daea28"
   },
   "9": {
     "translation": "OT LXX Accented",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Hosea 9",
     "url": "https://api.getbible.net/v2/lxx/28/9.json",
-    "sha": "6a17ff7b52d68ac6e2de8097efc10dc4063bf189"
+    "sha": "6d72cf57e4d8f7a86f2fbd5d4dce62b9603a2073"
   },
   "10": {
     "translation": "OT LXX Accented",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Hosea 10",
     "url": "https://api.getbible.net/v2/lxx/28/10.json",
-    "sha": "f5c414b5276f4d31591dd503581379d4ee234c39"
+    "sha": "e4921a70c84ec75f3a9ada40eb65c09e8cee5a4b"
   },
   "11": {
     "translation": "OT LXX Accented",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Hosea 11",
     "url": "https://api.getbible.net/v2/lxx/28/11.json",
-    "sha": "ec5421e44434f410ffa565c284331ad665bc82e2"
+    "sha": "daae86e521449027253953a7b9c75b7985208c92"
   },
   "12": {
     "translation": "OT LXX Accented",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Hosea 12",
     "url": "https://api.getbible.net/v2/lxx/28/12.json",
-    "sha": "fdc44244fe79557f55eaf7860a04665577200558"
+    "sha": "bd24d5e1e30cfe9d91cff05a2be3c3cfe2b49422"
   },
   "13": {
     "translation": "OT LXX Accented",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Hosea 13",
     "url": "https://api.getbible.net/v2/lxx/28/13.json",
-    "sha": "d68c5e32c058e2395c48c1a6f30e998879b0b047"
+    "sha": "314dc13a3fa6a2613a0067fe0d2fe74858fb3d2d"
   },
   "14": {
     "translation": "OT LXX Accented",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Hosea 14",
     "url": "https://api.getbible.net/v2/lxx/28/14.json",
-    "sha": "3ca1308e7545feeb0668ef9b700c70bda1755926"
+    "sha": "53fd0fcaafabbcf4e248824df52f1e98207aa248"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ecclesiastes 1",
     "url": "https://api.getbible.net/v2/lxx/21/1.json",
-    "sha": "c0f087402afd682a62259ec596a691c77b885551"
+    "sha": "7e8972a77949450633a7e5f7a2fcf706a7f72848"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ecclesiastes 2",
     "url": "https://api.getbible.net/v2/lxx/21/2.json",
-    "sha": "389be4ef52834edfc816db4b9e2948e718ab5a27"
+    "sha": "34f375bc5c5dbf454a107f78d18e6d9c076a5508"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ecclesiastes 3",
     "url": "https://api.getbible.net/v2/lxx/21/3.json",
-    "sha": "0503a0df541e69a45729d2e044060e0f54ce904f"
+    "sha": "897da0027ec7c5cfaebc776aef3f8e0a381a96d2"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ecclesiastes 4",
     "url": "https://api.getbible.net/v2/lxx/21/4.json",
-    "sha": "538506b3508e65c4f2f9e1c15c37a79e0b2d0ec9"
+    "sha": "cae4f4540dca787ef70ab32e0bde1fa1f9e835cd"
   },
   "5": {
     "translation": "OT LXX Accented",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ecclesiastes 5",
     "url": "https://api.getbible.net/v2/lxx/21/5.json",
-    "sha": "8f73ed6984f657bccccb963e7812ae9d56c60a32"
+    "sha": "9dd971c70400baaaa0d289821a91b86a6ebb71bc"
   },
   "6": {
     "translation": "OT LXX Accented",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Ecclesiastes 6",
     "url": "https://api.getbible.net/v2/lxx/21/6.json",
-    "sha": "966e92cf8d41cdfee316e36c33559b4beb9a3423"
+    "sha": "a69bc1819359375900dcfc189019e4bbbdc26482"
   },
   "7": {
     "translation": "OT LXX Accented",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Ecclesiastes 7",
     "url": "https://api.getbible.net/v2/lxx/21/7.json",
-    "sha": "58818c46048dbb0e70d3010689dbb372d9b4d592"
+    "sha": "94b726a808355d52f4cd53cefdcf27b6bb89a040"
   },
   "8": {
     "translation": "OT LXX Accented",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Ecclesiastes 8",
     "url": "https://api.getbible.net/v2/lxx/21/8.json",
-    "sha": "176be33cc3db5ecfb4da3ca8529772919d7a135c"
+    "sha": "a87eaca0c04fbf14a163567fd4bc3e54c7271053"
   },
   "9": {
     "translation": "OT LXX Accented",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Ecclesiastes 9",
     "url": "https://api.getbible.net/v2/lxx/21/9.json",
-    "sha": "1813f112e7412a05a681c5163e4cb8ef7f1ae8d5"
+    "sha": "e62e14ba5ed817b9640776063ed7cc65b8b04b4f"
   },
   "10": {
     "translation": "OT LXX Accented",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Ecclesiastes 10",
     "url": "https://api.getbible.net/v2/lxx/21/10.json",
-    "sha": "7ce237ec911b12d07ed6df1720ad8ba3f6511df7"
+    "sha": "290289c9853b5d34511d1c3618d9158829ee656f"
   },
   "11": {
     "translation": "OT LXX Accented",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Ecclesiastes 11",
     "url": "https://api.getbible.net/v2/lxx/21/11.json",
-    "sha": "903bfcd5b278bac1a654fd6b7be42a5e47ae7dec"
+    "sha": "7d8c66cddccf56b674a4d8a2b477ffc97b4b96bf"
   },
   "12": {
     "translation": "OT LXX Accented",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Ecclesiastes 12",
     "url": "https://api.getbible.net/v2/lxx/21/12.json",
-    "sha": "11bfac3df297c58cd1f191f0acfb4fa482ea05cd"
+    "sha": "033925765e4669e6cda9655ade10211087764923"
   }
 }

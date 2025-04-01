@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Habakkuk 1",
     "url": "https://api.getbible.net/v2/lxx/35/1.json",
-    "sha": "e24b76fb34edc30063aa03b48f5dee9faf07c909"
+    "sha": "d3726b7c98079966ed4a162ee1ae8b9960c464eb"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Habakkuk 2",
     "url": "https://api.getbible.net/v2/lxx/35/2.json",
-    "sha": "9fda7c444c2fdea1db0fd2a254c53ef97be842fd"
+    "sha": "0b4b5c4db1c2eeda6853dee0813c14f92e7375f3"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habakkuk 3",
     "url": "https://api.getbible.net/v2/lxx/35/3.json",
-    "sha": "70e1f13df2a5760efa38a344beeda1cdb36f98e0"
+    "sha": "fcdebc3eaebcb541c7e53282b2fd9eb74fb9b910"
   }
 }

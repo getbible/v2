@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://api.getbible.net/v2/lxx/30/1.json",
-    "sha": "0a35a9a1c7d739343fe5bf5f77e8ea712b2b0131"
+    "sha": "73c584a7296a27a65f4f33891b1e9c0ff96899e9"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://api.getbible.net/v2/lxx/30/2.json",
-    "sha": "618e9f9eb4f54377045ff85fecf6a4ad140c9a7e"
+    "sha": "225a9fa7771f5a34594e09cf424f0c4cab5a39d1"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://api.getbible.net/v2/lxx/30/3.json",
-    "sha": "02767fb61e55ce39f19f6f11905b932910890cd9"
+    "sha": "a6fbbba17808ee0600c1c66463852047bc30a3c4"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://api.getbible.net/v2/lxx/30/4.json",
-    "sha": "8cc9d35e58ecfc4f17fd0eeab9832807b4588c2e"
+    "sha": "51fff2b515e2b88a071bb6d6a786d8398abdbf48"
   },
   "5": {
     "translation": "OT LXX Accented",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://api.getbible.net/v2/lxx/30/5.json",
-    "sha": "bafbb15a059153ef1440c372bb46e9c81b8d20e9"
+    "sha": "2ab78b55dcc3a229071f53a99e8431e352699754"
   },
   "6": {
     "translation": "OT LXX Accented",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://api.getbible.net/v2/lxx/30/6.json",
-    "sha": "40962c7ef4259c70e0309724b8769e8003cbcd99"
+    "sha": "5deaabd2d6265a8198327739113fb3d7e262f463"
   },
   "7": {
     "translation": "OT LXX Accented",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://api.getbible.net/v2/lxx/30/7.json",
-    "sha": "3ce54be7073bf5ac2185eca061cfaec91f33bbb0"
+    "sha": "84cb30d87d494446640c594760e65009b9adc9cc"
   },
   "8": {
     "translation": "OT LXX Accented",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://api.getbible.net/v2/lxx/30/8.json",
-    "sha": "751c6544b92ce1e5272013f92b644b7c57b964c0"
+    "sha": "087850acfedb49132916646bae9bc337d0bba91a"
   },
   "9": {
     "translation": "OT LXX Accented",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://api.getbible.net/v2/lxx/30/9.json",
-    "sha": "2c431ea88e913407640b00bf37e96efaae054d48"
+    "sha": "eb7a1cc1775ec3e0948cc0c1a4f6c66fc775ecac"
   }
 }

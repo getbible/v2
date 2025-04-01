@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Joel 1",
     "url": "https://api.getbible.net/v2/lxx/29/1.json",
-    "sha": "6ad0b463ece015e904adc2e509c5b6f962804d88"
+    "sha": "7bdedda46d049a9aae8862ab275bbbc17b71e092"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Joel 2",
     "url": "https://api.getbible.net/v2/lxx/29/2.json",
-    "sha": "5078cc64cf76174b68da159347e7c918d7ed2ec4"
+    "sha": "3a85d155fa0e06fd3cc91bb25a71c0d176490e5b"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Joel 3",
     "url": "https://api.getbible.net/v2/lxx/29/3.json",
-    "sha": "bcad1f46e7dfda346044eeb7ba38846f34d65173"
+    "sha": "2ebc104a0e1494758ed1175729d82c245c01bf80"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Joel 4",
     "url": "https://api.getbible.net/v2/lxx/29/4.json",
-    "sha": "4cdb7d46cd1924f245a208c6c81f45fd762795c1"
+    "sha": "0921aa5d3ed550c1336a6e72317d58231e2c5f63"
   }
 }

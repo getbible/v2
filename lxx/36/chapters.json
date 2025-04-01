@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Zephaniah 1",
     "url": "https://api.getbible.net/v2/lxx/36/1.json",
-    "sha": "4fde8c6a7f33671aa9863681bfc3a9c4b3014c1a"
+    "sha": "3e1dea770ecb8c4aa591e637e60af628f91cb950"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Zephaniah 2",
     "url": "https://api.getbible.net/v2/lxx/36/2.json",
-    "sha": "062c9ffae44c79251264b9d482aedde417b1c7e4"
+    "sha": "0d6059b45a0a5bcc7d6bba8b605c27cacd108915"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Zephaniah 3",
     "url": "https://api.getbible.net/v2/lxx/36/3.json",
-    "sha": "91d39f88e47c2c7b984244c6646aec80134b12c5"
+    "sha": "13eb24e28f3acc5126d6dd23c7c28ca106b0792b"
   }
 }

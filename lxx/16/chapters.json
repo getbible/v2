@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Nehemiah 1",
     "url": "https://api.getbible.net/v2/lxx/16/1.json",
-    "sha": "d722a6939bae8f407fdb415011eaaf132a83ed7c"
+    "sha": "52ec1fc6a6017cf3c0da6546454d2a957567825f"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Nehemiah 2",
     "url": "https://api.getbible.net/v2/lxx/16/2.json",
-    "sha": "691e67bcc765478b423b46eed83ada907e90b48e"
+    "sha": "b4aea43d90f4623646190229a23374cd5b0393ac"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Nehemiah 3",
     "url": "https://api.getbible.net/v2/lxx/16/3.json",
-    "sha": "df528de3716785fb6b73479aab9e636e0a4968c1"
+    "sha": "aabec31ea5ab6f99d31b2d76cfdebb802b2e45bd"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Nehemiah 4",
     "url": "https://api.getbible.net/v2/lxx/16/4.json",
-    "sha": "50475893e893047c968d596f1c71764e65993889"
+    "sha": "14af3a8286ac77bf90aa530870eaca519fac88ec"
   },
   "5": {
     "translation": "OT LXX Accented",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Nehemiah 6",
     "url": "https://api.getbible.net/v2/lxx/16/6.json",
-    "sha": "aaf321e90171b77e7fec4b3fc1ee7014b2a02c8c"
+    "sha": "81bf56b9259f382c4d43c2313b211f2a070ef574"
   },
   "7": {
     "translation": "OT LXX Accented",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Nehemiah 7",
     "url": "https://api.getbible.net/v2/lxx/16/7.json",
-    "sha": "09b68128627ffde98c58e264ab3f593a0e6518a4"
+    "sha": "42678cf6d3420290a9343e399c033db07dd3814a"
   },
   "8": {
     "translation": "OT LXX Accented",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Nehemiah 8",
     "url": "https://api.getbible.net/v2/lxx/16/8.json",
-    "sha": "b877d6036ff5a6b9c2a7072cb6970714ec2045d2"
+    "sha": "b27c397982103a3085bbad9463cfeb2d0ae75432"
   },
   "9": {
     "translation": "OT LXX Accented",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Nehemiah 9",
     "url": "https://api.getbible.net/v2/lxx/16/9.json",
-    "sha": "258fb6478e707002ba53dc4d9d5fdc9de2c5d1b3"
+    "sha": "026d576b1c2d0551d4f8b7ae9dd9cb5e89d30487"
   },
   "10": {
     "translation": "OT LXX Accented",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Nehemiah 10",
     "url": "https://api.getbible.net/v2/lxx/16/10.json",
-    "sha": "26949222fd70eb5db04b783a6aff98d25d1d2f1e"
+    "sha": "1eb93f118c36adb8ae005d02abfd5740d7421b6e"
   },
   "11": {
     "translation": "OT LXX Accented",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Nehemiah 11",
     "url": "https://api.getbible.net/v2/lxx/16/11.json",
-    "sha": "3b05573cf49dec0725ef098b16eeac36bce88814"
+    "sha": "7231ef3446f9ef1907b8d426c71beba4514f718f"
   },
   "12": {
     "translation": "OT LXX Accented",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Nehemiah 12",
     "url": "https://api.getbible.net/v2/lxx/16/12.json",
-    "sha": "83d632dce809aa9632d03319b2f8236f620453c4"
+    "sha": "168aa1619c33ff0bc969716ca73f728a5caa6243"
   },
   "13": {
     "translation": "OT LXX Accented",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Nehemiah 13",
     "url": "https://api.getbible.net/v2/lxx/16/13.json",
-    "sha": "df5c3b5df5c19b64d463f2e9271aa8509ba586a4"
+    "sha": "5d88f1bed98e1f31353b63e4ffcd2c7eaabc029d"
   }
 }

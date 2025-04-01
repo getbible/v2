@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Jonah 1",
     "url": "https://api.getbible.net/v2/lxx/32/1.json",
-    "sha": "7e403485b304262442c05bb8bd46d53ca0e94969"
+    "sha": "c4afaaa83be1775b44326579fd63dfae089ffb94"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Jonah 2",
     "url": "https://api.getbible.net/v2/lxx/32/2.json",
-    "sha": "d53105568694daf9728e7c073df5d585d1ca782f"
+    "sha": "19c02979424ca5e3d563892efba2a62d2150c089"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Jonah 3",
     "url": "https://api.getbible.net/v2/lxx/32/3.json",
-    "sha": "fc4984b5987ea8e9ba32b179f19b943e16e37640"
+    "sha": "10bfdda5a379684e7be6f84e94f86b3c126213f0"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Jonah 4",
     "url": "https://api.getbible.net/v2/lxx/32/4.json",
-    "sha": "5a60498ef56e34b2f6f89526bf9c33d86182c876"
+    "sha": "55e430dcccae48cb39fc9f78ecdab3d7bb828ff9"
   }
 }

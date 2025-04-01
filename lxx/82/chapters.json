@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "III Maccabees 1",
     "url": "https://api.getbible.net/v2/lxx/82/1.json",
-    "sha": "8ece9a2e6e90a52a9aad5f88efa309e601665da7"
+    "sha": "b5d34ccba6363b7c69dc841a136dc639c6fa7322"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "III Maccabees 2",
     "url": "https://api.getbible.net/v2/lxx/82/2.json",
-    "sha": "27027d14caa42d728ca0fbf7950de926a7133a2e"
+    "sha": "b854a02431b3d2c19895f6e38994aa19472e344f"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "III Maccabees 3",
     "url": "https://api.getbible.net/v2/lxx/82/3.json",
-    "sha": "ae68e2cbc2900db7b52fffbce659180a3cc04a5f"
+    "sha": "6ba5f46f6a40e88f47317822c46254e96b4f242e"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "III Maccabees 4",
     "url": "https://api.getbible.net/v2/lxx/82/4.json",
-    "sha": "1ee8b64c2108c1c943315212a5757ea8be8a33d6"
+    "sha": "3cd1f050394e9c8ef85916ac2ab34f277c171959"
   },
   "5": {
     "translation": "OT LXX Accented",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "III Maccabees 5",
     "url": "https://api.getbible.net/v2/lxx/82/5.json",
-    "sha": "23482bffc7d2230fa93070df5b543acb07df7083"
+    "sha": "5c384c3d00425493f2609f71c4b317072e91dbed"
   },
   "6": {
     "translation": "OT LXX Accented",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "III Maccabees 6",
     "url": "https://api.getbible.net/v2/lxx/82/6.json",
-    "sha": "011faac0989b0b1457b5860b71f8b9ac619ccbc2"
+    "sha": "6e76c3babf65ba25c2c95d48cd179fe24b736800"
   },
   "7": {
     "translation": "OT LXX Accented",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "III Maccabees 7",
     "url": "https://api.getbible.net/v2/lxx/82/7.json",
-    "sha": "8c032f1380e74e72512f206ceef1b8d70e23779d"
+    "sha": "101b1148c96ebcc99caa831fb1b79cf0bc8e76b7"
   }
 }

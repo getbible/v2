@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Micah 1",
     "url": "https://api.getbible.net/v2/lxx/33/1.json",
-    "sha": "b1cef29bdb75415734e1453cb19bb3152f67c284"
+    "sha": "0770e95c65ed96e49c5e28d7012a8d111d25c6a2"
   },
   "2": {
     "translation": "OT LXX Accented",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Micah 2",
     "url": "https://api.getbible.net/v2/lxx/33/2.json",
-    "sha": "2419462422e96c1be7164a42f2639663454e86af"
+    "sha": "8dc13ccf580c69545c303d6f8d91aa8bfe4eb0c2"
   },
   "3": {
     "translation": "OT LXX Accented",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Micah 3",
     "url": "https://api.getbible.net/v2/lxx/33/3.json",
-    "sha": "9c01a10235dd9484df7d0636ba78daa6027ed15f"
+    "sha": "bbdb461cd847d67a8c0abcb915775189493c9493"
   },
   "4": {
     "translation": "OT LXX Accented",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Micah 4",
     "url": "https://api.getbible.net/v2/lxx/33/4.json",
-    "sha": "439163d2cc52519a1a39b1c02d4c69e223ac1aae"
+    "sha": "12c044ddd1fd5f9324a94ae84805d17918694163"
   },
   "5": {
     "translation": "OT LXX Accented",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Micah 5",
     "url": "https://api.getbible.net/v2/lxx/33/5.json",
-    "sha": "45f3b3f37baf9eb9083523d7996a3f392e8ea80a"
+    "sha": "005edeae10b11b889940d04df174017c15404314"
   },
   "6": {
     "translation": "OT LXX Accented",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Micah 6",
     "url": "https://api.getbible.net/v2/lxx/33/6.json",
-    "sha": "c4aadd25bc0c499edf6e4e27e368ed334e0877e7"
+    "sha": "07d5c0061944fe160aad1d27c228fef377c7e533"
   },
   "7": {
     "translation": "OT LXX Accented",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Micah 7",
     "url": "https://api.getbible.net/v2/lxx/33/7.json",
-    "sha": "621bf2208ea5d6383d487848bf7109e67f66732d"
+    "sha": "5898cabaed327ad920406662eb285aba3c0d2700"
   }
 }

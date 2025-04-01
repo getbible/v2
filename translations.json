@@ -1614,11 +1614,11 @@
     "language": "Greek",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible.Ancient Greek (to 1453).O.T.",
-    "distribution_version": "3.0",
-    "distribution_version_date": "2022-08-23",
+    "distribution_lcsh": "Bible.Ancient Greek (to 1453)",
+    "distribution_version": "3.2",
+    "distribution_version_date": "2025-03-15",
     "distribution_abbreviation": "lxx",
-    "distribution_about": "\\pard The Analytic Septuagint was prepared by Steve Amato of the Boston Christian Bible Study Resources http://www.bcbsr.com\\par\\par Morphology was included from the LXXM (see below)\\par The The Analytic Septuagint is not to be used, either directly or indirectly, for commercial purposes without prior written consent of Steve Amato and the legal authors and developers of the morphology of the LXXM identified below.\\par\\par The LXXM = The morphologically analyzed text of CATSS LXX prepared by CATSS under the direction of R. Kraft (Philadelphia team)\\par\\par The CATSS LXX = The computer form prepared by the TLG (Thesaurus Linguae Graecae) Project directed by T. Brunner at the University of California, Irvine, with further verification and adaptation (in process) by CATSS towards conformity with the individual Göttingen editions that have appeared since 1935.\\par\\par The LXX = Septuaginta, ed. A. Rahlfs (Stuttgart: Württembergische Bibelanstalt, 1935; repr. in 9th ed., 1971).\\par\\par Greek Septuagint Version 270 BC",
+    "distribution_about": "\\parThis module has been build from the following source from the Center for Computer Analysis of Texts (CCAT) at the University of Pennsylvania : \\parhttp://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/\\par\\parThe versification differs slightly from what is defined in canon_lxx.h in the Sword sources. \\parSome of the noticeable differences are:\\par\\par- Prayer of Manasseh is found in Odes 12.\\par- Prayer of Azariah is found at Daniel 3:24.\\par- No I Enoch\\par- The book and Ezra and of Nehemiah are part of a second book of Esdras. They are available as Ezra and Nehemiah in this module.\\par- The book of Proverbs chapter 32 to 36 are available in this module as chapters 25 to 29.\\par- Some books have less chapter than expected: Esther, Malachi",
     "distribution_license": "Copyrighted; Free non-commercial distribution",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/",
@@ -1630,10 +1630,12 @@
       "history_2.5": "updated to latest version of LXXM from Steve Amato, migrated to OSIS, converted .conf to UTF-8",
       "history_2.6": "new module with new v11n",
       "history_2.7": "new module from scratch",
-      "history_3.0": "(2022-08-23) : This version uses again Pierre build. It comes with small corrections in conf. According to MOD-415. The version grow to 3.0. We have also to decide what we want to do with the lex entries."
+      "history_3.0": "(2022-08-30) This version uses again Pierre build. It comes with small corrections in conf. According to MOD-415. The version grow to 3.0. We have also to decide what we want to do with the lex entries.",
+      "history_3.1": "(2025-03-06) Missing verses are now included as empty verses. Verses number with alphabetical suffix (such as 1Kgs.2.46a) are concatenated in a single verse and marked as such in the text.",
+      "history_3.2": "(2025-03-15) Concatenated verses appeared in both variants even when non existing (as in Daniel 4.37 Theodotion variant)."
     },
     "url": "https://api.getbible.net/v2/lxx.json",
-    "sha": "0718d89b0c938053e7ea5c6704cdb6249e4f1777"
+    "sha": "28411d537ae7b5b6bf16d37c9734292c9478f44b"
   },
   "mal1910": {
     "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
