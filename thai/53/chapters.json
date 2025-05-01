@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 เธสะโลนิกา 1",
     "url": "https://api.getbible.net/v2/thai/53/1.json",
-    "sha": "348074de8d14e069abe6da32389ad6b733381e94"
+    "sha": "bfb266af6601cd479b037bccc88c2b59ca97e89e"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 เธสะโลนิกา 2",
     "url": "https://api.getbible.net/v2/thai/53/2.json",
-    "sha": "1fedd137f999614d957e69129a96121618f85f9b"
+    "sha": "1a6411ecd81010dc6ea504e44a535317f3586f88"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 เธสะโลนิกา 3",
     "url": "https://api.getbible.net/v2/thai/53/3.json",
-    "sha": "156517a9d37ef4dc3b6cd0fbad252f68744e1b2c"
+    "sha": "af605f10c0a5f36c00cf2f5127e0d25a9e027a5b"
   }
 }

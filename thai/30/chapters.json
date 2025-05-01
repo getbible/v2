@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "อาโมส 1",
     "url": "https://api.getbible.net/v2/thai/30/1.json",
-    "sha": "9d638acff75719d313ea6cf359da7bf34f6da952"
+    "sha": "ade54fdc11433d4514d5e13c324b79c7790e9a49"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "อาโมส 2",
     "url": "https://api.getbible.net/v2/thai/30/2.json",
-    "sha": "be5c92f0bf21982f6f39b11e3cda3ec54cb9a217"
+    "sha": "ebf1953e2fcb5195554ab93fccde61cb8afde3ac"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "อาโมส 3",
     "url": "https://api.getbible.net/v2/thai/30/3.json",
-    "sha": "5434a05241f0416653a2cd26b9fc74ad3c73cb10"
+    "sha": "2c238d15515454496ea87678e8bf1677fd25952b"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "อาโมส 4",
     "url": "https://api.getbible.net/v2/thai/30/4.json",
-    "sha": "3a2c60f330b67c0c720e90fdfb034c9fe4bd6eb2"
+    "sha": "815e1e8088bb971138d4d18283fb41003f9f0d87"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "อาโมส 5",
     "url": "https://api.getbible.net/v2/thai/30/5.json",
-    "sha": "031521c2aaafc6389670d9e0d3a49912bde330aa"
+    "sha": "061381b7e33a45de0ee1de665afd3290db74b44e"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "อาโมส 6",
     "url": "https://api.getbible.net/v2/thai/30/6.json",
-    "sha": "26f7b12120f590cd5f100f52330f258476ed5164"
+    "sha": "9eba27d5d33ce20202e5d5439d56b50bddad9c09"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "อาโมส 7",
     "url": "https://api.getbible.net/v2/thai/30/7.json",
-    "sha": "acd3360208a69817c95d010c1fbf6cd707a82c7a"
+    "sha": "ba57976ad088ce317dbd939f9751b85ab713ff8f"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "อาโมส 8",
     "url": "https://api.getbible.net/v2/thai/30/8.json",
-    "sha": "e1e279016f3d65fea8f8869e9cae57900bc4c592"
+    "sha": "5180d977a20ae079af7f6f4a79d24fe836f606ab"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "อาโมส 9",
     "url": "https://api.getbible.net/v2/thai/30/9.json",
-    "sha": "1e3a39bdef85d72906453845ff60771cb04c33f7"
+    "sha": "a124aa74e6aa452d21c3585eef332690f7fa95bd"
   }
 }

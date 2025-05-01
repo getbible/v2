@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "เพลงคร่ำครวญ 1",
     "url": "https://api.getbible.net/v2/thai/25/1.json",
-    "sha": "a75dd9df130839e32a617bb3b2ebb766ba25cc7c"
+    "sha": "dd094340e455226e4a08cbc554a9e19460841318"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "เพลงคร่ำครวญ 2",
     "url": "https://api.getbible.net/v2/thai/25/2.json",
-    "sha": "b837aa14258fa79b80efa0b24d0e5171aa32eb5f"
+    "sha": "1eeb254145f2f1ae833665f4689deef8c5f14780"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "เพลงคร่ำครวญ 3",
     "url": "https://api.getbible.net/v2/thai/25/3.json",
-    "sha": "4d64bc1ec8e493ab401d26c6a6c674d66a26129f"
+    "sha": "dc37a01e6544a4190e07fd64fd2a8b50f2769b44"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "เพลงคร่ำครวญ 4",
     "url": "https://api.getbible.net/v2/thai/25/4.json",
-    "sha": "a2966d514bb5cb5dbe68748985bb08cf3c69ba14"
+    "sha": "3e0458113564f63e30219c537274816311a9b1e9"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "เพลงคร่ำครวญ 5",
     "url": "https://api.getbible.net/v2/thai/25/5.json",
-    "sha": "39a2f67605d526e4732d924117611bd746905ca2"
+    "sha": "7c09af9e9a6a39ad25139ce3c75fc823393bd922"
   }
 }

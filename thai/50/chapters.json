@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "ฟิลิปปี 1",
     "url": "https://api.getbible.net/v2/thai/50/1.json",
-    "sha": "486270333d1d54b8d5758a68fec5941ec0c2e5d1"
+    "sha": "02ea542b76e9b9cf5124456a3a80c2583187a58d"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "ฟิลิปปี 2",
     "url": "https://api.getbible.net/v2/thai/50/2.json",
-    "sha": "6afb844fda56dfe302a9b3fe7015686301715e22"
+    "sha": "ac48a4dbfeb14a3dc177fdc6a8ec86c5a2078b7b"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "ฟิลิปปี 3",
     "url": "https://api.getbible.net/v2/thai/50/3.json",
-    "sha": "414dde2b85796622dacedcaffa29eabff607254a"
+    "sha": "5d0a5251b3fb11f18ba9c40608c1511f65e56dfb"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "ฟิลิปปี 4",
     "url": "https://api.getbible.net/v2/thai/50/4.json",
-    "sha": "38b9426e6047cf64fc13c9df01989513ca9d2b70"
+    "sha": "1d087e5c712493746a8c0212062f23712cf281f3"
   }
 }

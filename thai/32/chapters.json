@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "โยนาห์ 1",
     "url": "https://api.getbible.net/v2/thai/32/1.json",
-    "sha": "02c32a926f793708eb5164c29fa1f7146d6de2b0"
+    "sha": "433343ae783034e9dd31ab177d367b23a69f9332"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "โยนาห์ 2",
     "url": "https://api.getbible.net/v2/thai/32/2.json",
-    "sha": "778a9ce6769e981652dcc19d8ccd0d5663fc52b7"
+    "sha": "cdb40c0812dd6363a90c63f9fd2d9d46b84f3fa6"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "โยนาห์ 3",
     "url": "https://api.getbible.net/v2/thai/32/3.json",
-    "sha": "4edcb0a54c7fc7dce166872fdacdf08763889759"
+    "sha": "8af86b638c277da3b9a4a4b9c720206923f15b66"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "โยนาห์ 4",
     "url": "https://api.getbible.net/v2/thai/32/4.json",
-    "sha": "67c37eb457a566f74471fed696267d6b9d2f6acc"
+    "sha": "e183528343a86017b46cbb167636012ce6f58677"
   }
 }

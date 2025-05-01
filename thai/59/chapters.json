@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "ยากอบ 1",
     "url": "https://api.getbible.net/v2/thai/59/1.json",
-    "sha": "d3dde339090a5988fe47e140b0dd61ecebdb081e"
+    "sha": "ece681dca1ccc7895ca944a93f9cd4d74a6ebfc2"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "ยากอบ 2",
     "url": "https://api.getbible.net/v2/thai/59/2.json",
-    "sha": "42206d299cf7d821ce14a0cbfa1a5fd7b7fc8364"
+    "sha": "dc5810adb02dd677b3d9cc45641920ffb180aebc"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "ยากอบ 3",
     "url": "https://api.getbible.net/v2/thai/59/3.json",
-    "sha": "7f1eb1f54ecf084e14ff4299109ffae7e7107041"
+    "sha": "a8cdc918c20094625310ec990c60e41fcc40f94c"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "ยากอบ 4",
     "url": "https://api.getbible.net/v2/thai/59/4.json",
-    "sha": "25227840e5b5fe2bcd2f7e5a26f57558f2fb580f"
+    "sha": "5c4ff2733d1ec13a64c5741ccb6271102f71db2c"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "ยากอบ 5",
     "url": "https://api.getbible.net/v2/thai/59/5.json",
-    "sha": "f92a87628d76a6cd18c73809451db84d3c04e75a"
+    "sha": "e0972a7e5eb9d69a8da257c809dc173a45a20eee"
   }
 }

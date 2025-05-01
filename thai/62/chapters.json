@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 ยอห์น 1",
     "url": "https://api.getbible.net/v2/thai/62/1.json",
-    "sha": "22737993dabd917b5ab4f0f35be3a81e29723d7c"
+    "sha": "a6767eb37c573fffacd773087bf7199049c7671d"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 ยอห์น 2",
     "url": "https://api.getbible.net/v2/thai/62/2.json",
-    "sha": "e98cb8338ed0c4a9872965b8e9835c7f1c6573a2"
+    "sha": "808401d51ae6b5a61bee0113a058459118b28053"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 ยอห์น 3",
     "url": "https://api.getbible.net/v2/thai/62/3.json",
-    "sha": "8e7c3fa0b8429e39be09793066d47984efdd140f"
+    "sha": "736c71e2837d4db69fcfa180f29850f4c03dcffe"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 ยอห์น 4",
     "url": "https://api.getbible.net/v2/thai/62/4.json",
-    "sha": "cd6cd2baa4ec810dc708091ea8a3b4f08a480c16"
+    "sha": "b739975b12dd42e4fbc4816fc3f456e143021e6a"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 ยอห์น 5",
     "url": "https://api.getbible.net/v2/thai/62/5.json",
-    "sha": "5bd26dbeff778cdc239276de850d90b4c81fbc29"
+    "sha": "3d25aabbda24075adcee6122c5074ee8fbdc15b9"
   }
 }

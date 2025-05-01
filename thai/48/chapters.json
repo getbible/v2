@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "กาลาเทีย 1",
     "url": "https://api.getbible.net/v2/thai/48/1.json",
-    "sha": "7006e67e9b7f6cc208ee0b52c8e845bc87d9ec54"
+    "sha": "1d7945adc67612ab62b42284dadf2897538240ce"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "กาลาเทีย 2",
     "url": "https://api.getbible.net/v2/thai/48/2.json",
-    "sha": "27459a36e73b6a78c53955b419c0a7e139f6f4ce"
+    "sha": "eff8e45be1ed91f68b93ee9fd2bb3317ca2a6277"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "กาลาเทีย 3",
     "url": "https://api.getbible.net/v2/thai/48/3.json",
-    "sha": "f3d54c47c0b509e52bce4b130ee06b834bb3a213"
+    "sha": "30de2c86762cebb4310b6dec91ff1bc00373f653"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "กาลาเทีย 4",
     "url": "https://api.getbible.net/v2/thai/48/4.json",
-    "sha": "eef02a94ba27687577fbc34b27ad272ea4d81a3c"
+    "sha": "008c6027b3f0b9df01196e8adc76eac63756a7e9"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "กาลาเทีย 5",
     "url": "https://api.getbible.net/v2/thai/48/5.json",
-    "sha": "baf55fe56140c7b1b0e2498d5746ea3d5acab747"
+    "sha": "654fc8456028b886d652b3f8165c38e9caa09291"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "กาลาเทีย 6",
     "url": "https://api.getbible.net/v2/thai/48/6.json",
-    "sha": "00c88abd55be09310b15183945f74a9f31ddba86"
+    "sha": "7029791ff44e437dda92c83128f4ec04541e4eac"
   }
 }

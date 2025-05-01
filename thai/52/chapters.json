@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 เธสะโลนิกา 1",
     "url": "https://api.getbible.net/v2/thai/52/1.json",
-    "sha": "0827f9d849a253bf75529732c7bc391afa89ed84"
+    "sha": "6ddb16059158f4306761a7eed023c8e7704b8ef7"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 เธสะโลนิกา 2",
     "url": "https://api.getbible.net/v2/thai/52/2.json",
-    "sha": "ca4fe0366bff10917aabc856ad2ad9812f378214"
+    "sha": "10dd9294ab2463595e71e661d835e53d1ce14f56"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 เธสะโลนิกา 3",
     "url": "https://api.getbible.net/v2/thai/52/3.json",
-    "sha": "3f8134c6ad94ba058bf280729d9e187f94f8e773"
+    "sha": "fbe1b62bc4c80003d6716e7137cf3738ec61f970"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 เธสะโลนิกา 4",
     "url": "https://api.getbible.net/v2/thai/52/4.json",
-    "sha": "f074bbe4586454a0bf9368ed1d454fe6946a685d"
+    "sha": "06addfa8a5a161cd9952b0d84a29c7660bcf8b1e"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 เธสะโลนิกา 5",
     "url": "https://api.getbible.net/v2/thai/52/5.json",
-    "sha": "2ab711a5ac6fcba900dd7749bc310c8f823e78b7"
+    "sha": "12f7dc95b8268c812deb68de10054c3cb97735a5"
   }
 }

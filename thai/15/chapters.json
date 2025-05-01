@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "เอสรา 1",
     "url": "https://api.getbible.net/v2/thai/15/1.json",
-    "sha": "d8091242ef80e58eff14ec54c3c8f3a966cee0ff"
+    "sha": "07e4e8ab1f7ee74bdb5d0566886089bf29df7473"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "เอสรา 2",
     "url": "https://api.getbible.net/v2/thai/15/2.json",
-    "sha": "f5c33bc4a991c0b7056863c3f34e2e7f5312beb7"
+    "sha": "41c52a3e9851da8325758c9d32a0bb35e945c617"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "เอสรา 3",
     "url": "https://api.getbible.net/v2/thai/15/3.json",
-    "sha": "d9296aa0b60660319c6cbfbe1121921f7585f76c"
+    "sha": "0da6684c5fa4062df9dfeb5bf3abb817adcb7907"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "เอสรา 4",
     "url": "https://api.getbible.net/v2/thai/15/4.json",
-    "sha": "9d92801719506c19bc5efd223a866ca78c51be52"
+    "sha": "870d804b8082071474793ed1755dbe61d5a443b2"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "เอสรา 5",
     "url": "https://api.getbible.net/v2/thai/15/5.json",
-    "sha": "9fe593a48d3b350e82e607d85ce57754bde7ad84"
+    "sha": "c0c4e7a5fee93c75dcb99e76d2b42be610871187"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "เอสรา 6",
     "url": "https://api.getbible.net/v2/thai/15/6.json",
-    "sha": "07107b690756f2d804775dcfe6e02f09b6e149f4"
+    "sha": "346702ca8d177d32033a074b4e5af111d95b0197"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "เอสรา 7",
     "url": "https://api.getbible.net/v2/thai/15/7.json",
-    "sha": "2adb3f126470248338306ebb498ee731158e6629"
+    "sha": "ad842abdc18226ffbb0e2a1efe683ddce5ae077c"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "เอสรา 8",
     "url": "https://api.getbible.net/v2/thai/15/8.json",
-    "sha": "ccc2c4dfaf6684fae450dd52c93b93f2344c971f"
+    "sha": "a1dbf32aaffed23486fbd8baa53394ad1ee7a890"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "เอสรา 9",
     "url": "https://api.getbible.net/v2/thai/15/9.json",
-    "sha": "c545f3d4ac145407a8e00d82f9a74102b547c0ec"
+    "sha": "2f7790d879b0f949303364723debd079406e8730"
   },
   "10": {
     "translation": "Thai from kjv",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "เอสรา 10",
     "url": "https://api.getbible.net/v2/thai/15/10.json",
-    "sha": "b310e408d5009c3d5bdc3e5535357646566d3418"
+    "sha": "433c12819a5ceec69a0d475979b69eacd31cf7ac"
   }
 }

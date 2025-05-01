@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "นางรูธ 1",
     "url": "https://api.getbible.net/v2/thai/8/1.json",
-    "sha": "b22b4828d3ad26ea19fbff8677aeb5d23dbfc07a"
+    "sha": "ced4246ef66e9be057e12f92c6e4166e26e0dfde"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "นางรูธ 2",
     "url": "https://api.getbible.net/v2/thai/8/2.json",
-    "sha": "11d619318bb4156e931c362bc7410a22b34d5e1a"
+    "sha": "c5c4b37c73bc2e705df3bf55a329a273b604e637"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "นางรูธ 3",
     "url": "https://api.getbible.net/v2/thai/8/3.json",
-    "sha": "9460789e9ec5c3d3bdbc8c0f92b7cb2a467c7eb0"
+    "sha": "7238e38e545050adfb515c1ac750f7916d7eeec4"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "นางรูธ 4",
     "url": "https://api.getbible.net/v2/thai/8/4.json",
-    "sha": "709e83783e03e879593ae8508cac94fdb872cdee"
+    "sha": "6eeec7d2a8902fb515db6a487adf8846794a2408"
   }
 }

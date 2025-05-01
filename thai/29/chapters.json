@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "โยเอล 1",
     "url": "https://api.getbible.net/v2/thai/29/1.json",
-    "sha": "173e136d2c1009f29fbdda6466c72af9390aa5d1"
+    "sha": "a8c1bc93c01e3946f1fccba84c85d03de89cd6c0"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "โยเอล 2",
     "url": "https://api.getbible.net/v2/thai/29/2.json",
-    "sha": "d50a3867cb01ffdb788a8fc8e5bf7fbed0ef785d"
+    "sha": "1d51082922863a57e4a86b254597e6f0c58a21e7"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "โยเอล 3",
     "url": "https://api.getbible.net/v2/thai/29/3.json",
-    "sha": "f9f41a728b4101d8620c17e282ab8d25f0b6f6f9"
+    "sha": "55ad90b7e4a122c5ba7d1770738be9ce153b2848"
   }
 }

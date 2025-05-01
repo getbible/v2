@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "มีคาห์ 1",
     "url": "https://api.getbible.net/v2/thai/33/1.json",
-    "sha": "333bec024562743133416fca31f077e7febd21cf"
+    "sha": "6cdeb9d766bb3e6d5a22479cdfd23fe664a28b79"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "มีคาห์ 2",
     "url": "https://api.getbible.net/v2/thai/33/2.json",
-    "sha": "d69f486e8b6d1054c413c05c00664a4a3cda19cf"
+    "sha": "ab1b9792e9c35c8997ab2e901b6352b45232d8fb"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "มีคาห์ 3",
     "url": "https://api.getbible.net/v2/thai/33/3.json",
-    "sha": "639544ee1133e868a9f641d76546975dbf3a71a7"
+    "sha": "db088aed1019d7722106c6b1c138e12d440f0428"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "มีคาห์ 4",
     "url": "https://api.getbible.net/v2/thai/33/4.json",
-    "sha": "11bd557a0849018d7d08539ee64c403a1acd1065"
+    "sha": "2df8aebd1af432138c82509d6f4e459bed56b35b"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "มีคาห์ 5",
     "url": "https://api.getbible.net/v2/thai/33/5.json",
-    "sha": "9965e297be8ffce7964bbd6f9f05f597233790d2"
+    "sha": "bc7083903c7497f67ed2b2872bc3f4c78e8cf0e1"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "มีคาห์ 6",
     "url": "https://api.getbible.net/v2/thai/33/6.json",
-    "sha": "52e4e0ca38e1418b2b426d753a85c8d569bebbfd"
+    "sha": "f8461fcd6e5b7506ff720ec628a2a2e11e94f2d5"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "มีคาห์ 7",
     "url": "https://api.getbible.net/v2/thai/33/7.json",
-    "sha": "d681ddf2de7188679b08d48e412e8b9ff1681c35"
+    "sha": "10dd70f48ae29946a1cb84a1564b2b629dbbcbba"
   }
 }

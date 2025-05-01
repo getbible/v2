@@ -2546,21 +2546,22 @@
     "language": "Thai",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. Thai.",
-    "distribution_version": "2.0",
-    "distribution_version_date": "2012-02-15",
-    "distribution_abbreviation": "thai",
-    "distribution_about": "Thai translation of the King James Version\\par from http://thaipope.org/webbible/index.html\\par Permission granted to the CrossWire Bible Society to use and distribute the Thai KJV with the SWORD Project by Philip Pope.",
+    "distribution_lcsh": "Bible.Thai",
+    "distribution_version": "3.0",
+    "distribution_version_date": "2025-04-16",
+    "distribution_abbreviation": "Thai KJV",
+    "distribution_about": "Thai translation of the King James Version\\par from https://thaipope.org/webbible/ \\par Permission granted by Philip Pope to the CrossWire Bible Society to use and distribute the Thai KJV as a SWORD module.",
     "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
     "distribution_sourcetype": "OSIS",
-    "distribution_source": "http://thaipope.org/webbible/",
-    "distribution_versification": "",
+    "distribution_source": "https://thaipope.org/webbible/",
+    "distribution_versification": "KJV",
     "distribution_history": {
-      "history_2.0": "Module rebuilt from updated source text supplied by translator (2012-02-15)",
-      "history_1.5": "(2003-09-24)"
+      "history_1.5": "Module created on 2003-09-24",
+      "history_2.0": "Module rebuilt on 2012-02-13, from updated source text supplied by translator",
+      "history_3.0": "(2025-04-16) Module rebuilt from latest updated source text supplied by translator"
     },
     "url": "https://api.getbible.net/v2/thai.json",
-    "sha": "593411293c2408d7e1ba791b0949a95c2c4278a3"
+    "sha": "61afb90d38a3b03b2143b2dea18dc389b89ec268"
   },
   "tischendorf": {
     "translation": "NT Tischendorf 8th Ed",

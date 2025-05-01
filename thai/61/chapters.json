@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 เปโตร 1",
     "url": "https://api.getbible.net/v2/thai/61/1.json",
-    "sha": "b853868bc521e7b2ffe68d50c543de8df98b7952"
+    "sha": "26d129e693e8a9414ee84f34a3df420f2b181a99"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 เปโตร 2",
     "url": "https://api.getbible.net/v2/thai/61/2.json",
-    "sha": "c82368566a903362dd915bc140c34ce9ae0bb12d"
+    "sha": "9036984dec1bec4d437e3fd416d720775c144d8a"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 เปโตร 3",
     "url": "https://api.getbible.net/v2/thai/61/3.json",
-    "sha": "78ab85c4f798ad6af4bcbb0a299efaf4f85d68d5"
+    "sha": "559ad42fb2a7ccfcf3111c1bfdb1d3e0c3581549"
   }
 }

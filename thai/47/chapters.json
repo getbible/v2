@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 โครินธ์ 1",
     "url": "https://api.getbible.net/v2/thai/47/1.json",
-    "sha": "0c57841a0b2cc8844498b7507533fd9ca79a4f88"
+    "sha": "a7b473c9514d6faa276fe8356f4c92372ad07bde"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 โครินธ์ 2",
     "url": "https://api.getbible.net/v2/thai/47/2.json",
-    "sha": "f45e614b219d9e4c7779eaee10a9238493b242ca"
+    "sha": "1d19ec833bd0a3727807a81f5766d8caee3ee2e0"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "2 โครินธ์ 3",
     "url": "https://api.getbible.net/v2/thai/47/3.json",
-    "sha": "07ce2dda1cffc239d32eb2109cc5954f21ddd540"
+    "sha": "06a2a7939f4a68f717d96cf6f2d7b95560ffe19a"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "2 โครินธ์ 4",
     "url": "https://api.getbible.net/v2/thai/47/4.json",
-    "sha": "51f4639c55b26d2c9b35cc8d9f287a1dda5c1bd5"
+    "sha": "6e9bc51083964be7f03deffbba4ddd840c15e556"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "2 โครินธ์ 5",
     "url": "https://api.getbible.net/v2/thai/47/5.json",
-    "sha": "0a7973937627a0613539a9bccf91706fa688cbce"
+    "sha": "3601d62cbcb7e86a5fa46089ecf23270d35ce6b4"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "2 โครินธ์ 6",
     "url": "https://api.getbible.net/v2/thai/47/6.json",
-    "sha": "85bbaec0b24607487646f92bc7b4b797b7374357"
+    "sha": "44d2a54e16f60863d7851b51b9407dec65fe5f85"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "2 โครินธ์ 7",
     "url": "https://api.getbible.net/v2/thai/47/7.json",
-    "sha": "aeeaaf3a0dd7b792082417219f74ef18bb15e315"
+    "sha": "0478308e978960369205a146bd0caa9bdb794d33"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "2 โครินธ์ 8",
     "url": "https://api.getbible.net/v2/thai/47/8.json",
-    "sha": "7b5b3df6caef05604891d21a8b334cca13b411a9"
+    "sha": "34505971395f5bcb63fc855f89da93a1d33a66c4"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "2 โครินธ์ 9",
     "url": "https://api.getbible.net/v2/thai/47/9.json",
-    "sha": "2ff23752f827d877ec8ccfc1ac60c0f6b93b375c"
+    "sha": "d92a9ba8fb6ca9b2e6bbe3f9c3f6350a4bd97f50"
   },
   "10": {
     "translation": "Thai from kjv",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "2 โครินธ์ 10",
     "url": "https://api.getbible.net/v2/thai/47/10.json",
-    "sha": "42d6beafe5d9c95449335005da43b729d5dc49d1"
+    "sha": "c5bf039152ca7811450197ae73e7f16be11676cc"
   },
   "11": {
     "translation": "Thai from kjv",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "2 โครินธ์ 11",
     "url": "https://api.getbible.net/v2/thai/47/11.json",
-    "sha": "e7c1051548f6d0b17433d0d14fd888cb01c1d32e"
+    "sha": "21d69fc3f7d6fdb3eccf081289b1f8c73023efab"
   },
   "12": {
     "translation": "Thai from kjv",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "2 โครินธ์ 12",
     "url": "https://api.getbible.net/v2/thai/47/12.json",
-    "sha": "8f232c44854cb205bcab5f11ce0218ad33527512"
+    "sha": "0e03c00b9505ecf1005c92c365dc2ceb996579b6"
   },
   "13": {
     "translation": "Thai from kjv",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "2 โครินธ์ 13",
     "url": "https://api.getbible.net/v2/thai/47/13.json",
-    "sha": "60ddcc06d4cced3f1fa40a1e0d7c1b37e716afbf"
+    "sha": "de35b31fabb52cccbe6e0ced38628ae1de749012"
   }
 }

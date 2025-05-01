@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "นาฮูม 1",
     "url": "https://api.getbible.net/v2/thai/34/1.json",
-    "sha": "c2595e67a46b22dbafebca72c268a823146cfcce"
+    "sha": "cbabf66b91a6db1a24ea99dd490454e4887bd550"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "นาฮูม 2",
     "url": "https://api.getbible.net/v2/thai/34/2.json",
-    "sha": "38791dfec2b2baa11bdcb5256b91b7ee6d5dfae4"
+    "sha": "03489e7efaaf79d62c0dd6a18acdcf6e51f5afa9"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "นาฮูม 3",
     "url": "https://api.getbible.net/v2/thai/34/3.json",
-    "sha": "aa9036fbfd51bc55fb84f17fe5d2302ca13a2a0b"
+    "sha": "8d1d39c9dcb38fe80fac1b0b870dbd9839966d52"
   }
 }

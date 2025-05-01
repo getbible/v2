@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "ปฐมกาล 1",
     "url": "https://api.getbible.net/v2/thai/1/1.json",
-    "sha": "b3cb37b546d5742603906a8ae8684822fbd7f1a0"
+    "sha": "cc245ea42d6c7768978b2be3b43290d8ad758d8a"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "ปฐมกาล 2",
     "url": "https://api.getbible.net/v2/thai/1/2.json",
-    "sha": "a37b5837fae91cd59a4af0914876e11b7eaa64a0"
+    "sha": "1c6396568e87be42d002d73e5761297cd23220e0"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "ปฐมกาล 3",
     "url": "https://api.getbible.net/v2/thai/1/3.json",
-    "sha": "2915d5eaf3964f1f2cef28a01cb4ac5d1acaba10"
+    "sha": "c2928629ca11d9f530927f9c7ef5e3213444bba3"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "ปฐมกาล 4",
     "url": "https://api.getbible.net/v2/thai/1/4.json",
-    "sha": "d1c6c030458f31822ea856cbabac870e28410720"
+    "sha": "181ab9b34339fa8643a228bb3b1729787a0bb873"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "ปฐมกาล 5",
     "url": "https://api.getbible.net/v2/thai/1/5.json",
-    "sha": "c81accc585d72ed417c142fbf75fcfd59f5fbc49"
+    "sha": "3d790b0731b1a450e3dcfb890e7016e9e610fc61"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "ปฐมกาล 6",
     "url": "https://api.getbible.net/v2/thai/1/6.json",
-    "sha": "78c479f25d78bb2082f61bb47cc2aaf263ec9a8f"
+    "sha": "935edd53ec61665dfd5ae242d818883ce19bf134"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "ปฐมกาล 7",
     "url": "https://api.getbible.net/v2/thai/1/7.json",
-    "sha": "8ee32165f371c9614acfa16763953efdc3ae92e0"
+    "sha": "7fa956903319f773604e762b34b55e09deb22c2d"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "ปฐมกาล 8",
     "url": "https://api.getbible.net/v2/thai/1/8.json",
-    "sha": "d9b99f07b22c13d4e2d33f9348e4af4d8320f1f1"
+    "sha": "37e84edf7f5a15b97bf58d26cedaf3cc32272129"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "ปฐมกาล 9",
     "url": "https://api.getbible.net/v2/thai/1/9.json",
-    "sha": "28c1e3ef174fd0326362a66c18e7ea0423c6d7b3"
+    "sha": "e828300a136e1266ca6c747bdfdcb428a8746f7f"
   },
   "10": {
     "translation": "Thai from kjv",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "ปฐมกาล 10",
     "url": "https://api.getbible.net/v2/thai/1/10.json",
-    "sha": "a095d2ac8a25c9aff8f520b78f40b27e13a639d6"
+    "sha": "23a120ff6bba1d23a73a9ec34664826e73f1ab1a"
   },
   "11": {
     "translation": "Thai from kjv",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "ปฐมกาล 11",
     "url": "https://api.getbible.net/v2/thai/1/11.json",
-    "sha": "611e4f6be6ed3545425da286b216315357066cd1"
+    "sha": "13c4594b22182df8c9a1849f5656f3b55d1257ea"
   },
   "12": {
     "translation": "Thai from kjv",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "ปฐมกาล 12",
     "url": "https://api.getbible.net/v2/thai/1/12.json",
-    "sha": "04506e2dca8a81a9ba3c5ae7581b7d1b18947e96"
+    "sha": "2c6d9f3e1c5a45cc01d10bafd8fe264f0ef5bca2"
   },
   "13": {
     "translation": "Thai from kjv",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "ปฐมกาล 13",
     "url": "https://api.getbible.net/v2/thai/1/13.json",
-    "sha": "ee18d360198b6c2a7b97fb3acfe046ecd003ad2b"
+    "sha": "f6a6c5f9b5c4e47553032a00175d435ec4fa2f95"
   },
   "14": {
     "translation": "Thai from kjv",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "ปฐมกาล 14",
     "url": "https://api.getbible.net/v2/thai/1/14.json",
-    "sha": "67c3c6f0a501c7f1253da45b604be9384067993a"
+    "sha": "5731d08d62b35d43eeadcf6da071fb9c0d7fb1c9"
   },
   "15": {
     "translation": "Thai from kjv",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "ปฐมกาล 15",
     "url": "https://api.getbible.net/v2/thai/1/15.json",
-    "sha": "2bcb0af7eff5c5647b3d4044b347fa1d74a29ac7"
+    "sha": "16db1f2184058496a364f9bd17f75db9ce3ca829"
   },
   "16": {
     "translation": "Thai from kjv",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "ปฐมกาล 16",
     "url": "https://api.getbible.net/v2/thai/1/16.json",
-    "sha": "a9c0038607cb7b21bac4642ee79fdd516f71b6eb"
+    "sha": "37e00d180305a8a24f1ce85254ab3ad5cd4dab54"
   },
   "17": {
     "translation": "Thai from kjv",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "ปฐมกาล 17",
     "url": "https://api.getbible.net/v2/thai/1/17.json",
-    "sha": "dc05b710e167a98aa1a11a2cd2f79e06b4f5456c"
+    "sha": "0ca12b2f2d1f3204846989c04181893b2e040750"
   },
   "18": {
     "translation": "Thai from kjv",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "ปฐมกาล 18",
     "url": "https://api.getbible.net/v2/thai/1/18.json",
-    "sha": "e017963c3668214bc1295714ba04befe3b24ebff"
+    "sha": "31e8c6be0f069c38ee8b08d04cc2261fc4d53917"
   },
   "19": {
     "translation": "Thai from kjv",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "ปฐมกาล 19",
     "url": "https://api.getbible.net/v2/thai/1/19.json",
-    "sha": "512ed6a8d3be22b28f5290ef6ebaeeca7d8076c4"
+    "sha": "57029f8d7921d045711bd7f2226ad920c96b4ef6"
   },
   "20": {
     "translation": "Thai from kjv",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "ปฐมกาล 20",
     "url": "https://api.getbible.net/v2/thai/1/20.json",
-    "sha": "421c8cbc594abcafcd697d29d9d81c7e91625291"
+    "sha": "ff3ad1b0cdfe8e2cf4401001994a1cc36a2ece8b"
   },
   "21": {
     "translation": "Thai from kjv",
@@ -291,7 +291,7 @@
     "chapter": 21,
     "name": "ปฐมกาล 21",
     "url": "https://api.getbible.net/v2/thai/1/21.json",
-    "sha": "6972cbe5dafa9ff23fd6f9659fcf491216e40fc0"
+    "sha": "e1113217948ea1d0348a11f2072fc080eacdf83f"
   },
   "22": {
     "translation": "Thai from kjv",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "ปฐมกาล 22",
     "url": "https://api.getbible.net/v2/thai/1/22.json",
-    "sha": "5b83a9f3acdd2c446805f234fb06059fa149696b"
+    "sha": "a5ea5b3821110e1ea93745d9e57c38a80455b3c8"
   },
   "23": {
     "translation": "Thai from kjv",
@@ -319,7 +319,7 @@
     "chapter": 23,
     "name": "ปฐมกาล 23",
     "url": "https://api.getbible.net/v2/thai/1/23.json",
-    "sha": "b0a9a396a8e1bdfcc3ad33683bc28d74b9ad9d91"
+    "sha": "2d2319b09bf099085d09848b6c4d1ae50cfb57be"
   },
   "24": {
     "translation": "Thai from kjv",
@@ -333,7 +333,7 @@
     "chapter": 24,
     "name": "ปฐมกาล 24",
     "url": "https://api.getbible.net/v2/thai/1/24.json",
-    "sha": "348e991644c85dd44dfbc19e125285ca1de076e8"
+    "sha": "98464b7ae97b33439c65d9552bccd74475b5dc42"
   },
   "25": {
     "translation": "Thai from kjv",
@@ -347,7 +347,7 @@
     "chapter": 25,
     "name": "ปฐมกาล 25",
     "url": "https://api.getbible.net/v2/thai/1/25.json",
-    "sha": "c4a73341f87f600d72af2135c0dbf34929a6e197"
+    "sha": "2681e8a050f651db206fb863421826869db2a828"
   },
   "26": {
     "translation": "Thai from kjv",
@@ -361,7 +361,7 @@
     "chapter": 26,
     "name": "ปฐมกาล 26",
     "url": "https://api.getbible.net/v2/thai/1/26.json",
-    "sha": "613a9d2614cf9ef6248ef7b0cc966fb1d604e838"
+    "sha": "dfc749f76685cca8951f4d1811ceac4daec300dc"
   },
   "27": {
     "translation": "Thai from kjv",
@@ -375,7 +375,7 @@
     "chapter": 27,
     "name": "ปฐมกาล 27",
     "url": "https://api.getbible.net/v2/thai/1/27.json",
-    "sha": "4a12f16ed7a11b2e9ded6304746ad6f71b44ee87"
+    "sha": "07050b4eff4601bb5cee9fdcc9fb689afca2ae92"
   },
   "28": {
     "translation": "Thai from kjv",
@@ -389,7 +389,7 @@
     "chapter": 28,
     "name": "ปฐมกาล 28",
     "url": "https://api.getbible.net/v2/thai/1/28.json",
-    "sha": "7a9956f77ac3057e07f791d8ce524f85c8ee05f5"
+    "sha": "d553582c649eafa8331661deffddda003cfa030a"
   },
   "29": {
     "translation": "Thai from kjv",
@@ -403,7 +403,7 @@
     "chapter": 29,
     "name": "ปฐมกาล 29",
     "url": "https://api.getbible.net/v2/thai/1/29.json",
-    "sha": "3f6211947b5ff344b2ca2d081d8e21a457e77dc5"
+    "sha": "97a47665f2113f0556be51254491e33ab9f7acb5"
   },
   "30": {
     "translation": "Thai from kjv",
@@ -417,7 +417,7 @@
     "chapter": 30,
     "name": "ปฐมกาล 30",
     "url": "https://api.getbible.net/v2/thai/1/30.json",
-    "sha": "ed2d0ba94f8685ca13625b075038b2be66426bbc"
+    "sha": "14ff251e3fbc5becfdf3b8115175692edea47471"
   },
   "31": {
     "translation": "Thai from kjv",
@@ -431,7 +431,7 @@
     "chapter": 31,
     "name": "ปฐมกาล 31",
     "url": "https://api.getbible.net/v2/thai/1/31.json",
-    "sha": "27372a3c34257990e899c848bfdef30f30128a3e"
+    "sha": "5bf6c338242e5c0d255b12b7c46cc706718ebd93"
   },
   "32": {
     "translation": "Thai from kjv",
@@ -445,7 +445,7 @@
     "chapter": 32,
     "name": "ปฐมกาล 32",
     "url": "https://api.getbible.net/v2/thai/1/32.json",
-    "sha": "3b0c4451f7b7cf1d6dc808478fc96bfeb2a603bf"
+    "sha": "c87e2bf38097b33b9c3ff631bd41cb011d68586b"
   },
   "33": {
     "translation": "Thai from kjv",
@@ -459,7 +459,7 @@
     "chapter": 33,
     "name": "ปฐมกาล 33",
     "url": "https://api.getbible.net/v2/thai/1/33.json",
-    "sha": "f11c28d5030e9e5684c80576f08ee2803095e369"
+    "sha": "d45b181a1d0715a26a3cda727c6745d674a9e42f"
   },
   "34": {
     "translation": "Thai from kjv",
@@ -473,7 +473,7 @@
     "chapter": 34,
     "name": "ปฐมกาล 34",
     "url": "https://api.getbible.net/v2/thai/1/34.json",
-    "sha": "99d197df221603806e61942ac83dd94c84ad8065"
+    "sha": "eafe14c55a14042d980651bb7d05fa1adcc3f1b9"
   },
   "35": {
     "translation": "Thai from kjv",
@@ -487,7 +487,7 @@
     "chapter": 35,
     "name": "ปฐมกาล 35",
     "url": "https://api.getbible.net/v2/thai/1/35.json",
-    "sha": "9c7f0727a4108e4586fb862faefbd0e758b88469"
+    "sha": "0667af6b71286c4783421bd794e2c4b90b1a15b7"
   },
   "36": {
     "translation": "Thai from kjv",
@@ -501,7 +501,7 @@
     "chapter": 36,
     "name": "ปฐมกาล 36",
     "url": "https://api.getbible.net/v2/thai/1/36.json",
-    "sha": "cb32b1532cc6c1c2b3ba7ac7b57d55bb4ebdc3b7"
+    "sha": "69c045d5e7c14798679b13d09468c99c7172aa59"
   },
   "37": {
     "translation": "Thai from kjv",
@@ -515,7 +515,7 @@
     "chapter": 37,
     "name": "ปฐมกาล 37",
     "url": "https://api.getbible.net/v2/thai/1/37.json",
-    "sha": "575b11e1f939e0ca20311a67fc45af1c5381bfc7"
+    "sha": "4599a9d1518aaf4ac92fb67e13e4de6fd5d49492"
   },
   "38": {
     "translation": "Thai from kjv",
@@ -529,7 +529,7 @@
     "chapter": 38,
     "name": "ปฐมกาล 38",
     "url": "https://api.getbible.net/v2/thai/1/38.json",
-    "sha": "f26739d331591136ac22ee918adb6f0ad2f43f39"
+    "sha": "246923436b460282ed8baea126363eb42cc6cb4b"
   },
   "39": {
     "translation": "Thai from kjv",
@@ -543,7 +543,7 @@
     "chapter": 39,
     "name": "ปฐมกาล 39",
     "url": "https://api.getbible.net/v2/thai/1/39.json",
-    "sha": "f3789ac486777ea46f1e1893942f5dff85d52ce7"
+    "sha": "dc715b17fd5275a941239831a953db286bd558b8"
   },
   "40": {
     "translation": "Thai from kjv",
@@ -557,7 +557,7 @@
     "chapter": 40,
     "name": "ปฐมกาล 40",
     "url": "https://api.getbible.net/v2/thai/1/40.json",
-    "sha": "e482f70f43cdcbb7a26a0ce5cbbc8d86b5333dd5"
+    "sha": "676640e2c3b2faeb61bf2c1886dc7a6758a0a692"
   },
   "41": {
     "translation": "Thai from kjv",
@@ -571,7 +571,7 @@
     "chapter": 41,
     "name": "ปฐมกาล 41",
     "url": "https://api.getbible.net/v2/thai/1/41.json",
-    "sha": "975a661547d02fe12229e655c846777d99a72331"
+    "sha": "9a471056bba7dab01b63ddbc87cfe47625518748"
   },
   "42": {
     "translation": "Thai from kjv",
@@ -585,7 +585,7 @@
     "chapter": 42,
     "name": "ปฐมกาล 42",
     "url": "https://api.getbible.net/v2/thai/1/42.json",
-    "sha": "b2bc8e8e6305682fe99f9c141a41dba6b9b9d6c9"
+    "sha": "7f3afd7e54f4b23455b54c9485407d08f4a63f71"
   },
   "43": {
     "translation": "Thai from kjv",
@@ -599,7 +599,7 @@
     "chapter": 43,
     "name": "ปฐมกาล 43",
     "url": "https://api.getbible.net/v2/thai/1/43.json",
-    "sha": "f4e29f95afdb77351f961703b55a6d28a957a863"
+    "sha": "93f2eed47966ee172801d0f4b39d490708917886"
   },
   "44": {
     "translation": "Thai from kjv",
@@ -613,7 +613,7 @@
     "chapter": 44,
     "name": "ปฐมกาล 44",
     "url": "https://api.getbible.net/v2/thai/1/44.json",
-    "sha": "1a98a337431c2bcff782055feeeacdcc833dcd05"
+    "sha": "7f151c5c744e555ecf0337a564e46c0fae7929c1"
   },
   "45": {
     "translation": "Thai from kjv",
@@ -627,7 +627,7 @@
     "chapter": 45,
     "name": "ปฐมกาล 45",
     "url": "https://api.getbible.net/v2/thai/1/45.json",
-    "sha": "511a13d905cd3fff2169e1b9163750e1024f1461"
+    "sha": "6a4cad04458f56872ecd249a67d7742fe55c08f2"
   },
   "46": {
     "translation": "Thai from kjv",
@@ -641,7 +641,7 @@
     "chapter": 46,
     "name": "ปฐมกาล 46",
     "url": "https://api.getbible.net/v2/thai/1/46.json",
-    "sha": "3a413dff79760437cd9d59a1c422e04a3291663f"
+    "sha": "3d97aa284edb3dc7be179081615c8d8901dfe839"
   },
   "47": {
     "translation": "Thai from kjv",
@@ -655,7 +655,7 @@
     "chapter": 47,
     "name": "ปฐมกาล 47",
     "url": "https://api.getbible.net/v2/thai/1/47.json",
-    "sha": "59d5112e8b2ab402803b0405fe91ffbd7444b7e6"
+    "sha": "95bce478864381a0c6b17d67b775c3c397de270d"
   },
   "48": {
     "translation": "Thai from kjv",
@@ -669,7 +669,7 @@
     "chapter": 48,
     "name": "ปฐมกาล 48",
     "url": "https://api.getbible.net/v2/thai/1/48.json",
-    "sha": "336c7ec3475a2c4f543ada87e307ce5cf6f98cb5"
+    "sha": "1ab30902337b56a318cb9d9e135bb71876b4b19f"
   },
   "49": {
     "translation": "Thai from kjv",
@@ -683,7 +683,7 @@
     "chapter": 49,
     "name": "ปฐมกาล 49",
     "url": "https://api.getbible.net/v2/thai/1/49.json",
-    "sha": "0bc9103847191cbdad9c4bf7b0d751d364d08710"
+    "sha": "eb3940eb30a9683798d57276c9dd8782b5810f92"
   },
   "50": {
     "translation": "Thai from kjv",
@@ -697,6 +697,6 @@
     "chapter": 50,
     "name": "ปฐมกาล 50",
     "url": "https://api.getbible.net/v2/thai/1/50.json",
-    "sha": "c4193b2989cd0f35563cdf08f2a44992e2c81815"
+    "sha": "3f286985d0e376d120afb2ea2d09ddb04446f1c7"
   }
 }

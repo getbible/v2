@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "เพลงซาโลมอน 1",
     "url": "https://api.getbible.net/v2/thai/22/1.json",
-    "sha": "192e70f3373d9ef9f9602c516d99d7b08c91aa9f"
+    "sha": "eb0f902a118066beefbb6ca46edebfddf2c36699"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "เพลงซาโลมอน 2",
     "url": "https://api.getbible.net/v2/thai/22/2.json",
-    "sha": "a9810fe920b4cbaae8d5a2fb616eddbff1ba20cd"
+    "sha": "9a2b0b7126fd953345b905b4d9076ab659109575"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "เพลงซาโลมอน 3",
     "url": "https://api.getbible.net/v2/thai/22/3.json",
-    "sha": "60ee8a88e55b48073f408948144b74fede875407"
+    "sha": "c4287f424d6e8c4e940f4b08db8431998ec1252b"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "เพลงซาโลมอน 4",
     "url": "https://api.getbible.net/v2/thai/22/4.json",
-    "sha": "d457e7599aa03ba6d53e7a56138f6798f4104aa5"
+    "sha": "2b81911d849c7e6dd31371f91ce7769353b8b615"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "เพลงซาโลมอน 5",
     "url": "https://api.getbible.net/v2/thai/22/5.json",
-    "sha": "447f1247e2d76a3b002e0ebc851f77f50d95aaa5"
+    "sha": "3835de4fc29066467257994ac28ef6ef27ce3c6f"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "เพลงซาโลมอน 6",
     "url": "https://api.getbible.net/v2/thai/22/6.json",
-    "sha": "912d903fedb69fbdf784ae49ac3ef6519a426a67"
+    "sha": "d87f5388155b0a85db97a7c29d45251bcf433bd2"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "เพลงซาโลมอน 7",
     "url": "https://api.getbible.net/v2/thai/22/7.json",
-    "sha": "19e85c0c50dca3c3d69cf9e8f39c0408b96731ad"
+    "sha": "a56ad621ef000ecef64842617a8da1c49bff5958"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -109,6 +109,6 @@
     "chapter": 8,
     "name": "เพลงซาโลมอน 8",
     "url": "https://api.getbible.net/v2/thai/22/8.json",
-    "sha": "9505235f91e6c850544e7893eeaffc95496e31c9"
+    "sha": "d42d18d4cfab5002a310d0edea07a555d9263ada"
   }
 }

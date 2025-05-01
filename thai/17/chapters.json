@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "เอสเธอร์ 1",
     "url": "https://api.getbible.net/v2/thai/17/1.json",
-    "sha": "e8630b11b9860848483e883436ca0ff4ddfe0aa9"
+    "sha": "57fe20ce1b54024a531da3b76f5799079d8068a7"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "เอสเธอร์ 2",
     "url": "https://api.getbible.net/v2/thai/17/2.json",
-    "sha": "913e41b3dc3e31bb4178926762e6be233eba67c2"
+    "sha": "9197813c2647fab8a50162d4500d38c408c4a3ca"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "เอสเธอร์ 3",
     "url": "https://api.getbible.net/v2/thai/17/3.json",
-    "sha": "19e87c68022ba0a8917263c494b3e31152ef9368"
+    "sha": "374069765f52d29bc1cbb9955413e30e85f4ab00"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "เอสเธอร์ 4",
     "url": "https://api.getbible.net/v2/thai/17/4.json",
-    "sha": "c3ad00fcde9449c51f42cf7b011a1e5285cbb808"
+    "sha": "da9c2bcbc62364355100f45c828f19f29b44292e"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "เอสเธอร์ 5",
     "url": "https://api.getbible.net/v2/thai/17/5.json",
-    "sha": "f8da49cb456ef28e8e8f63e96dbf7e5436ce8498"
+    "sha": "18b380cbebe2a5d1977811adb2bb0ae175f36b9b"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "เอสเธอร์ 6",
     "url": "https://api.getbible.net/v2/thai/17/6.json",
-    "sha": "c0ee34f9279f11ed7df8ce34497a3fda595e67f8"
+    "sha": "6c35902ee375532f483d79827424e2579775dd06"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "เอสเธอร์ 7",
     "url": "https://api.getbible.net/v2/thai/17/7.json",
-    "sha": "83cd50f8374d84b42e523f1447d29d34d3753ef3"
+    "sha": "e8ba42e7bc3f83d8e3e8fb7e8adc2abbff29cfc0"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "เอสเธอร์ 8",
     "url": "https://api.getbible.net/v2/thai/17/8.json",
-    "sha": "ce94c1cfbe6956a0e612b46bef32f00f9b11c317"
+    "sha": "41bce774599a2459dd69a584fa6926830eb17c3b"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "เอสเธอร์ 9",
     "url": "https://api.getbible.net/v2/thai/17/9.json",
-    "sha": "3798a41fdac41b6726f4dad2130deb7516737119"
+    "sha": "894e73875527090332e346fe40959ff66d05fab7"
   },
   "10": {
     "translation": "Thai from kjv",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "เอสเธอร์ 10",
     "url": "https://api.getbible.net/v2/thai/17/10.json",
-    "sha": "2230341465cce080d5cdb3ada0333332663b9185"
+    "sha": "f770e82af8d3ad6e839e68d0db7b9f8f9094de4f"
   }
 }

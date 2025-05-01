@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "เศฟันยาห์ 1",
     "url": "https://api.getbible.net/v2/thai/36/1.json",
-    "sha": "a5834a56c801bf9edf2ce8fba70d5adfddb4b0a9"
+    "sha": "868e4c605999405a8d2962254c873552d9f555d3"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "เศฟันยาห์ 2",
     "url": "https://api.getbible.net/v2/thai/36/2.json",
-    "sha": "f327601fb6ce084dab72459c9eba2bc1c5d170b9"
+    "sha": "d8e463b0c886b1a35f5029ffa7cce25329edc002"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "เศฟันยาห์ 3",
     "url": "https://api.getbible.net/v2/thai/36/3.json",
-    "sha": "736cfff27dbc08c9f56857da74de802c22014a72"
+    "sha": "2d8961cc21cb36f916f6ab5391d8509314a28e29"
   }
 }

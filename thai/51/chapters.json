@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "โคโลสี 1",
     "url": "https://api.getbible.net/v2/thai/51/1.json",
-    "sha": "02a578a2a7dd165b74884a14ba0f5f45e0afd4ae"
+    "sha": "474b1397cf498e3aa48da7e649b42f761abf0c85"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "โคโลสี 2",
     "url": "https://api.getbible.net/v2/thai/51/2.json",
-    "sha": "1c8e0968febcc88817a019d208cbbe36123493aa"
+    "sha": "a11d365a90e89b5411e33f554c9d08c594502154"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "โคโลสี 3",
     "url": "https://api.getbible.net/v2/thai/51/3.json",
-    "sha": "7e530f6b081d17f48582c7ea4b578b373f4a8181"
+    "sha": "6dc096dc7f8604bd2b09b4ae9e4bbc0c8c6b6c82"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "โคโลสี 4",
     "url": "https://api.getbible.net/v2/thai/51/4.json",
-    "sha": "300e66f0233b50ee7a1a848089bf0491c4b72b68"
+    "sha": "282c63d36156edc73794c028d45292d677d9bb11"
   }
 }

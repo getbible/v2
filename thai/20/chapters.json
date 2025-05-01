@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "สุภาษิต 1",
     "url": "https://api.getbible.net/v2/thai/20/1.json",
-    "sha": "ef88f998aaf6d9c53f60f139b728d88d97a7b796"
+    "sha": "cbb672fc8d7f55f0a7f836ccf636c46bf96e85bd"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "สุภาษิต 2",
     "url": "https://api.getbible.net/v2/thai/20/2.json",
-    "sha": "f72a0bc3ad8f51a9326ec03cd414bbb4f114519d"
+    "sha": "129cb20241ac56088b860597ab3ee0abf3cf4ca3"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "สุภาษิต 3",
     "url": "https://api.getbible.net/v2/thai/20/3.json",
-    "sha": "084f9455a77ec2fa17bbc94ec51216edd4f73173"
+    "sha": "56b98e176d3431173281d20d0617ca935e0c7c2e"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "สุภาษิต 4",
     "url": "https://api.getbible.net/v2/thai/20/4.json",
-    "sha": "051b910fc7237165cfdd7c8963bd8156b05a2e7b"
+    "sha": "4e8586892723d3033489ce6d3fee59bd3c29bac6"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "สุภาษิต 5",
     "url": "https://api.getbible.net/v2/thai/20/5.json",
-    "sha": "e2faa9d2b610ccaf6b6d1432c663a91107b5decb"
+    "sha": "d650ca26032e357d8d590c9af3cc0a12ce3fae63"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "สุภาษิต 6",
     "url": "https://api.getbible.net/v2/thai/20/6.json",
-    "sha": "4ba2e8ac3410e511fedd85bc201240a57a547917"
+    "sha": "71d4ecf8117d02f3d4026a7fd499e53eebc32dd5"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "สุภาษิต 7",
     "url": "https://api.getbible.net/v2/thai/20/7.json",
-    "sha": "26d79ab5e0ed4f89e8090f8169c6707f3b4f7b45"
+    "sha": "ce97d00fa191469a05e6a6bc641942b581ca3f25"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "สุภาษิต 8",
     "url": "https://api.getbible.net/v2/thai/20/8.json",
-    "sha": "ad10a00e528b9407108a0af3d89f011eb9affcab"
+    "sha": "ec361748d1e5b67a797723da81c6a13d43085f61"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "สุภาษิต 9",
     "url": "https://api.getbible.net/v2/thai/20/9.json",
-    "sha": "fa8dab350969c49ce85242f8427de9ab4ffa2fa4"
+    "sha": "9a7b1ed8d1c457bc32b13847f4d078f1fb4565ef"
   },
   "10": {
     "translation": "Thai from kjv",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "สุภาษิต 10",
     "url": "https://api.getbible.net/v2/thai/20/10.json",
-    "sha": "bfe4661e97d100a2b512590de26f8e5e9ad284d0"
+    "sha": "8587b8b7e1a9841825768e4c93a416a36f605a0e"
   },
   "11": {
     "translation": "Thai from kjv",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "สุภาษิต 11",
     "url": "https://api.getbible.net/v2/thai/20/11.json",
-    "sha": "cc288ddda508782816ef50f77d9c38534f325c8d"
+    "sha": "661b6b4628d641b7ec0b8dbb4194c1f18357830d"
   },
   "12": {
     "translation": "Thai from kjv",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "สุภาษิต 12",
     "url": "https://api.getbible.net/v2/thai/20/12.json",
-    "sha": "be1f8ab8460002e75f838bb4a1cbb558fc4b220c"
+    "sha": "370cb6a217f675139fcad877a26bbc8c5454fdd9"
   },
   "13": {
     "translation": "Thai from kjv",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "สุภาษิต 13",
     "url": "https://api.getbible.net/v2/thai/20/13.json",
-    "sha": "c8d65a2d18f3bd641f3a0a0b8add17c2ff3c324c"
+    "sha": "d9e7a376eca83fded8e9dc4fd59b20cea6eb552f"
   },
   "14": {
     "translation": "Thai from kjv",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "สุภาษิต 14",
     "url": "https://api.getbible.net/v2/thai/20/14.json",
-    "sha": "956151248598d8c0670ed82cddc7435d912a0b62"
+    "sha": "6929726f61fa892e437632ae0907f931d837eb9f"
   },
   "15": {
     "translation": "Thai from kjv",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "สุภาษิต 15",
     "url": "https://api.getbible.net/v2/thai/20/15.json",
-    "sha": "a55bfd9c6d8e51a62d0d3a456890d3e37f787d3f"
+    "sha": "451beb8050de293c8915373a4c5fe1d8cee11b92"
   },
   "16": {
     "translation": "Thai from kjv",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "สุภาษิต 16",
     "url": "https://api.getbible.net/v2/thai/20/16.json",
-    "sha": "87c2cdcef251912e24d825f977b81da2e55f993b"
+    "sha": "cc0522afe376d20e55c3d98c7063e732bbd91bc5"
   },
   "17": {
     "translation": "Thai from kjv",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "สุภาษิต 17",
     "url": "https://api.getbible.net/v2/thai/20/17.json",
-    "sha": "35f2090cf138c6f527916ef306f179b88eeb511a"
+    "sha": "7cb91d3e3671afb403e90229009468627434579d"
   },
   "18": {
     "translation": "Thai from kjv",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "สุภาษิต 18",
     "url": "https://api.getbible.net/v2/thai/20/18.json",
-    "sha": "5b3e81afd7c4bdafe4a336f7f6fc5d8e3f26516f"
+    "sha": "e3825840f1f6014343629c1f670d210c5da80a23"
   },
   "19": {
     "translation": "Thai from kjv",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "สุภาษิต 19",
     "url": "https://api.getbible.net/v2/thai/20/19.json",
-    "sha": "2e995839607da431b8d30158d06ed75ad76bc838"
+    "sha": "1b7d54c08dad19aea77ad01ad43b99e92623d9b2"
   },
   "20": {
     "translation": "Thai from kjv",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "สุภาษิต 20",
     "url": "https://api.getbible.net/v2/thai/20/20.json",
-    "sha": "9d6ec70842cfa03378be0c4d755e28d046b9ef43"
+    "sha": "2888f8a9a843e968e547f8f41dba300697244662"
   },
   "21": {
     "translation": "Thai from kjv",
@@ -291,7 +291,7 @@
     "chapter": 21,
     "name": "สุภาษิต 21",
     "url": "https://api.getbible.net/v2/thai/20/21.json",
-    "sha": "0ff2c8247207011dc71db98baa6fa7c85879f508"
+    "sha": "b258f32b2edfed6a34f595393b668ee25c904550"
   },
   "22": {
     "translation": "Thai from kjv",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "สุภาษิต 22",
     "url": "https://api.getbible.net/v2/thai/20/22.json",
-    "sha": "911e8e579978f8261fb16c8041e04d30974fc659"
+    "sha": "d37df14e3b27170f3f6a8d9a373a763c58271f8d"
   },
   "23": {
     "translation": "Thai from kjv",
@@ -319,7 +319,7 @@
     "chapter": 23,
     "name": "สุภาษิต 23",
     "url": "https://api.getbible.net/v2/thai/20/23.json",
-    "sha": "d4d79724828108b39ccf5ec0576ee81ef21419dc"
+    "sha": "7c8666889cdcfe94d14f8c886c751886d3de671f"
   },
   "24": {
     "translation": "Thai from kjv",
@@ -333,7 +333,7 @@
     "chapter": 24,
     "name": "สุภาษิต 24",
     "url": "https://api.getbible.net/v2/thai/20/24.json",
-    "sha": "1dc8a2295fbc362cf5ee6fe754f0c92bfe6ad3d0"
+    "sha": "10e290b5299fb54f6326b7dc07f520d460883345"
   },
   "25": {
     "translation": "Thai from kjv",
@@ -347,7 +347,7 @@
     "chapter": 25,
     "name": "สุภาษิต 25",
     "url": "https://api.getbible.net/v2/thai/20/25.json",
-    "sha": "8469e960b9e692fad26413bd8eca2d6341c4cd52"
+    "sha": "8044524d1e634008d8a4ff28466453017ae09ce9"
   },
   "26": {
     "translation": "Thai from kjv",
@@ -361,7 +361,7 @@
     "chapter": 26,
     "name": "สุภาษิต 26",
     "url": "https://api.getbible.net/v2/thai/20/26.json",
-    "sha": "c50809325b4093657fa4c8e524b0e1d0895e002d"
+    "sha": "dff5fbaa9d572af214efbab5f2ce74193cdb9135"
   },
   "27": {
     "translation": "Thai from kjv",
@@ -375,7 +375,7 @@
     "chapter": 27,
     "name": "สุภาษิต 27",
     "url": "https://api.getbible.net/v2/thai/20/27.json",
-    "sha": "3eeaedef0f58ca6b5ffa3e405bebf60c5f689f9b"
+    "sha": "48558dae794ea5f9c162e54d0bb8047378c96010"
   },
   "28": {
     "translation": "Thai from kjv",
@@ -389,7 +389,7 @@
     "chapter": 28,
     "name": "สุภาษิต 28",
     "url": "https://api.getbible.net/v2/thai/20/28.json",
-    "sha": "b03561acd9a5730b28b749a002af2b70f1b09c5c"
+    "sha": "1e3d20136902dab8b25b2e87d90d705a5c68b594"
   },
   "29": {
     "translation": "Thai from kjv",
@@ -403,7 +403,7 @@
     "chapter": 29,
     "name": "สุภาษิต 29",
     "url": "https://api.getbible.net/v2/thai/20/29.json",
-    "sha": "b627d4b406e2135efa7d36cce8a9fef9250efe6d"
+    "sha": "e3b1c1f63b6fb142b468f0199ec1a01c7bdcdc50"
   },
   "30": {
     "translation": "Thai from kjv",
@@ -417,7 +417,7 @@
     "chapter": 30,
     "name": "สุภาษิต 30",
     "url": "https://api.getbible.net/v2/thai/20/30.json",
-    "sha": "fc07e721d37683aeb0f0a5ab42bf006221cae688"
+    "sha": "7b453d95fb4adb501e1b95bd3f1a59c524b7d8a2"
   },
   "31": {
     "translation": "Thai from kjv",
@@ -431,6 +431,6 @@
     "chapter": 31,
     "name": "สุภาษิต 31",
     "url": "https://api.getbible.net/v2/thai/20/31.json",
-    "sha": "de037ca17120a851a867413ce3c6e9d09a9b0c5a"
+    "sha": "58601de340351a2db628ca8be32d2d7a62c01a2f"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "มาลาคี 1",
     "url": "https://api.getbible.net/v2/thai/39/1.json",
-    "sha": "553487f6637ca3ddf0dc0cdd41e7a3aa42a83b66"
+    "sha": "07b63c210a09ab31f9ce75fbecca3abe02efb93b"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "มาลาคี 2",
     "url": "https://api.getbible.net/v2/thai/39/2.json",
-    "sha": "279395d0810782ad7c832757c14cab95c5c3bfae"
+    "sha": "20f5d7884c12155e18467b06b38a4bd2acf2abf4"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "มาลาคี 3",
     "url": "https://api.getbible.net/v2/thai/39/3.json",
-    "sha": "3e4db4d978c80de54cad5f7722e1d45263ff1b7a"
+    "sha": "bfcad7e9985eb3e264a2f0684dcce72635709834"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "มาลาคี 4",
     "url": "https://api.getbible.net/v2/thai/39/4.json",
-    "sha": "8f3300bd81c9d81930170e4feb08ef3873382bf1"
+    "sha": "fd2a219e8f9475f0b7893d9197f7593d37eff17e"
   }
 }

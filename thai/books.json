@@ -9,7 +9,7 @@
     "nr": 1,
     "name": "ปฐมกาล",
     "url": "https://api.getbible.net/v2/thai/1.json",
-    "sha": "201a56850153de17f39d0e8940d1113667113bbc"
+    "sha": "f09843b74802ab78da178a29fabfd8a39b7c874f"
   },
   "2": {
     "translation": "Thai from kjv",
@@ -21,7 +21,7 @@
     "nr": 2,
     "name": "อพยพ",
     "url": "https://api.getbible.net/v2/thai/2.json",
-    "sha": "687650e54f958b66ec32eee7902562b89b719624"
+    "sha": "f9b8f7d89bc8a494e30cdaaf387786a7b4ffb450"
   },
   "3": {
     "translation": "Thai from kjv",
@@ -33,7 +33,7 @@
     "nr": 3,
     "name": "เลวีนิติ",
     "url": "https://api.getbible.net/v2/thai/3.json",
-    "sha": "74b3ea3d0b56e450889866c9dad546a0902f083f"
+    "sha": "13df89a69d462aa9c167772475cf19ef67226a58"
   },
   "4": {
     "translation": "Thai from kjv",
@@ -45,7 +45,7 @@
     "nr": 4,
     "name": "กันดารวิถี",
     "url": "https://api.getbible.net/v2/thai/4.json",
-    "sha": "a6da8243679891a84cfaef78dd68ed5d466195ec"
+    "sha": "8a11d8e64a2849b1b6a45e8eb79f14c4be90ff8a"
   },
   "5": {
     "translation": "Thai from kjv",
@@ -57,7 +57,7 @@
     "nr": 5,
     "name": "เฉลยธรรมบัญญัติ",
     "url": "https://api.getbible.net/v2/thai/5.json",
-    "sha": "5b48d7ae83398141636c1a77560a7b38373dd376"
+    "sha": "5b93aab33b36a7b5767308a65bf66b87d2674846"
   },
   "6": {
     "translation": "Thai from kjv",
@@ -69,7 +69,7 @@
     "nr": 6,
     "name": "โยชูวา",
     "url": "https://api.getbible.net/v2/thai/6.json",
-    "sha": "cf1fd52bbe9439dcbcd7d993ecc03aceca644ff6"
+    "sha": "b8f1b89dbcc8413933a36ac7ae24dbd54c5b45ca"
   },
   "7": {
     "translation": "Thai from kjv",
@@ -81,7 +81,7 @@
     "nr": 7,
     "name": "ผู้วินิจฉัย",
     "url": "https://api.getbible.net/v2/thai/7.json",
-    "sha": "2e81573892635a4ab9e43c8288b26619db6949b8"
+    "sha": "eb348af7e23dd9017051fbeac24ce458145052a4"
   },
   "8": {
     "translation": "Thai from kjv",
@@ -93,7 +93,7 @@
     "nr": 8,
     "name": "นางรูธ",
     "url": "https://api.getbible.net/v2/thai/8.json",
-    "sha": "a9eb60f290d3e81de3b7938fcfeb8392cf60fff5"
+    "sha": "bf8b42623457f8af83ac53af5f2fa30e8642978d"
   },
   "9": {
     "translation": "Thai from kjv",
@@ -105,7 +105,7 @@
     "nr": 9,
     "name": "1 ซามูเอล",
     "url": "https://api.getbible.net/v2/thai/9.json",
-    "sha": "dfaad7c8573f395a643deab5d6c0339878d249a2"
+    "sha": "0f9218912650c1bb3872dc4392014d5b6e8ff2ea"
   },
   "10": {
     "translation": "Thai from kjv",
@@ -117,7 +117,7 @@
     "nr": 10,
     "name": "2 ซามูเอล",
     "url": "https://api.getbible.net/v2/thai/10.json",
-    "sha": "23631a2a2285df4b3d7a19a8ecb47203c1be2805"
+    "sha": "6c501991d7e7281b96c4bb00258eec629a8b8013"
   },
   "11": {
     "translation": "Thai from kjv",
@@ -129,7 +129,7 @@
     "nr": 11,
     "name": "1 กษัตริย์",
     "url": "https://api.getbible.net/v2/thai/11.json",
-    "sha": "c5bc4a44a1b1a30f88db5feb9640d26fba11633e"
+    "sha": "8e442719f934f46d43274e5c7405486b83870aeb"
   },
   "12": {
     "translation": "Thai from kjv",
@@ -141,7 +141,7 @@
     "nr": 12,
     "name": "2 กษัตริย์",
     "url": "https://api.getbible.net/v2/thai/12.json",
-    "sha": "676397f14b13a1282d6680f514cd2f484ef748a4"
+    "sha": "79675ca484160e07b1b0ca66865394dfb2318c72"
   },
   "13": {
     "translation": "Thai from kjv",
@@ -153,7 +153,7 @@
     "nr": 13,
     "name": "1 พงศาวดาร",
     "url": "https://api.getbible.net/v2/thai/13.json",
-    "sha": "0ac5bf0d94053207c5025f3e153c4778ff9301fd"
+    "sha": "29ab34f1a2dab7534ea82f576d5f724fa1753d9c"
   },
   "14": {
     "translation": "Thai from kjv",
@@ -165,7 +165,7 @@
     "nr": 14,
     "name": "2 พงศาวดาร",
     "url": "https://api.getbible.net/v2/thai/14.json",
-    "sha": "5a7dc5ea6393cb5143a3ec6fa5b7582b1b687043"
+    "sha": "778aaa410d715996a487887fff9ef52fb75c8e5c"
   },
   "15": {
     "translation": "Thai from kjv",
@@ -177,7 +177,7 @@
     "nr": 15,
     "name": "เอสรา",
     "url": "https://api.getbible.net/v2/thai/15.json",
-    "sha": "2c72538e8d44df27fde8999769feca9cd6118c0a"
+    "sha": "e5200413add7b97923c4ee37aae9f0ca918c7711"
   },
   "16": {
     "translation": "Thai from kjv",
@@ -189,7 +189,7 @@
     "nr": 16,
     "name": "เนหะมีย์",
     "url": "https://api.getbible.net/v2/thai/16.json",
-    "sha": "97754006bd958948baeb465d34eb0689ba764622"
+    "sha": "0adcc9263a28a7f7a66ba4d15ae836a1ce6a72ff"
   },
   "17": {
     "translation": "Thai from kjv",
@@ -201,7 +201,7 @@
     "nr": 17,
     "name": "เอสเธอร์",
     "url": "https://api.getbible.net/v2/thai/17.json",
-    "sha": "194ea228297adeebcd93362e1f131ccf9e840d44"
+    "sha": "96e4f0d448277d1f3e0394f5ba714b616f4ed161"
   },
   "18": {
     "translation": "Thai from kjv",
@@ -213,7 +213,7 @@
     "nr": 18,
     "name": "โยบ",
     "url": "https://api.getbible.net/v2/thai/18.json",
-    "sha": "fd9354edaf6b6ca1a25d57ed730e7b00e7fb4e21"
+    "sha": "29000f343e889d54db9c04368f04e6feb89250bf"
   },
   "19": {
     "translation": "Thai from kjv",
@@ -225,7 +225,7 @@
     "nr": 19,
     "name": "สดุดี",
     "url": "https://api.getbible.net/v2/thai/19.json",
-    "sha": "3c8c2fe8e10281c4ad33069f7415223d493cc212"
+    "sha": "284defd1db2a4f6d164dd708088b32bb565b31a8"
   },
   "20": {
     "translation": "Thai from kjv",
@@ -237,7 +237,7 @@
     "nr": 20,
     "name": "สุภาษิต",
     "url": "https://api.getbible.net/v2/thai/20.json",
-    "sha": "f6234356324bdbaa727b576e979a603b31f4a9ff"
+    "sha": "fcc05cce854d88c1149e4594882135ebe87db1e0"
   },
   "21": {
     "translation": "Thai from kjv",
@@ -249,7 +249,7 @@
     "nr": 21,
     "name": "ปัญญาจารย์",
     "url": "https://api.getbible.net/v2/thai/21.json",
-    "sha": "2b693ac9b5e29ea2c65aad124663aa2ce100754c"
+    "sha": "6bad15e0107cb969ca0d9bbba11ac5467d333635"
   },
   "22": {
     "translation": "Thai from kjv",
@@ -261,7 +261,7 @@
     "nr": 22,
     "name": "เพลงซาโลมอน",
     "url": "https://api.getbible.net/v2/thai/22.json",
-    "sha": "31d91908fb20a068a151002e37051da2aacc0b0a"
+    "sha": "d5f5fdb0bb4d0ddb6a84aeba93eac96a996fcea8"
   },
   "23": {
     "translation": "Thai from kjv",
@@ -273,7 +273,7 @@
     "nr": 23,
     "name": "อิสยาห์",
     "url": "https://api.getbible.net/v2/thai/23.json",
-    "sha": "e7529ab0800b22574e92257ccf612db0a4f4f8f4"
+    "sha": "b29844100a1eec1a335650a190aaa4115dc80ade"
   },
   "24": {
     "translation": "Thai from kjv",
@@ -285,7 +285,7 @@
     "nr": 24,
     "name": "เยเรมีย์",
     "url": "https://api.getbible.net/v2/thai/24.json",
-    "sha": "55601a155271b235ee36dc37f56d188224459b4b"
+    "sha": "1c046d1ca7d3b5e220f4af36365882ef59dd747f"
   },
   "25": {
     "translation": "Thai from kjv",
@@ -297,7 +297,7 @@
     "nr": 25,
     "name": "เพลงคร่ำครวญ",
     "url": "https://api.getbible.net/v2/thai/25.json",
-    "sha": "1de3e886ed625df725d93b9848bbf3fc595ae14c"
+    "sha": "c04621b879d43b53f2f491a6bb5ea6c617ea6d72"
   },
   "26": {
     "translation": "Thai from kjv",
@@ -309,7 +309,7 @@
     "nr": 26,
     "name": "เอเสเคียล",
     "url": "https://api.getbible.net/v2/thai/26.json",
-    "sha": "12c670a1264439683a1053f5da9e643dc2fa209d"
+    "sha": "791260cf39605a87a30ad7b127c85433f4452397"
   },
   "27": {
     "translation": "Thai from kjv",
@@ -321,7 +321,7 @@
     "nr": 27,
     "name": "ดาเนียล",
     "url": "https://api.getbible.net/v2/thai/27.json",
-    "sha": "840f74ad9a9323c1fc0d286c4930bf259a70a74b"
+    "sha": "43d1a75f6a02c80a38e8f1f896330d3f07584fde"
   },
   "28": {
     "translation": "Thai from kjv",
@@ -333,7 +333,7 @@
     "nr": 28,
     "name": "โฮเชยา",
     "url": "https://api.getbible.net/v2/thai/28.json",
-    "sha": "cfeefc49a7d7e7bcfce960bdfc740f6106190c87"
+    "sha": "1c23f19d46ea6d8150a0200e1488322e4b2f3819"
   },
   "29": {
     "translation": "Thai from kjv",
@@ -345,7 +345,7 @@
     "nr": 29,
     "name": "โยเอล",
     "url": "https://api.getbible.net/v2/thai/29.json",
-    "sha": "94ee33a7f58590faa51d4c8278c43da95ca7dfb9"
+    "sha": "333f189ec2f061170f3d5baab776e5f7d864762a"
   },
   "30": {
     "translation": "Thai from kjv",
@@ -357,7 +357,7 @@
     "nr": 30,
     "name": "อาโมส",
     "url": "https://api.getbible.net/v2/thai/30.json",
-    "sha": "949a9b246db5446ce580870ecc8280e3df61b984"
+    "sha": "185f2613d0fe0a090722a43054542342764508c1"
   },
   "31": {
     "translation": "Thai from kjv",
@@ -369,7 +369,7 @@
     "nr": 31,
     "name": "โอบาดีย์",
     "url": "https://api.getbible.net/v2/thai/31.json",
-    "sha": "8711a0e820a9ece82619ccc8181c0d153564a0f3"
+    "sha": "bb7d000314ba462a15e60dad36cb51a3d124863a"
   },
   "32": {
     "translation": "Thai from kjv",
@@ -381,7 +381,7 @@
     "nr": 32,
     "name": "โยนาห์",
     "url": "https://api.getbible.net/v2/thai/32.json",
-    "sha": "711a9c3d82890fac6eebe0c1d3602afa8d636045"
+    "sha": "e8244f032f27e06aa5a6435a35fc3f8cef42e8fa"
   },
   "33": {
     "translation": "Thai from kjv",
@@ -393,7 +393,7 @@
     "nr": 33,
     "name": "มีคาห์",
     "url": "https://api.getbible.net/v2/thai/33.json",
-    "sha": "7ea6a3514d5600b31491f288568296d0b6111ee8"
+    "sha": "a477d21529bec984d974ed771bc5369247311c42"
   },
   "34": {
     "translation": "Thai from kjv",
@@ -405,7 +405,7 @@
     "nr": 34,
     "name": "นาฮูม",
     "url": "https://api.getbible.net/v2/thai/34.json",
-    "sha": "23017c049bbfc713559f3d5b48c409b16c8b546e"
+    "sha": "d15aac52ee7d1e8a4c034cf21c3109ee191f29a8"
   },
   "35": {
     "translation": "Thai from kjv",
@@ -417,7 +417,7 @@
     "nr": 35,
     "name": "ฮับกุก",
     "url": "https://api.getbible.net/v2/thai/35.json",
-    "sha": "ffd1efda3ae23823ac6460b8570a5f3057717636"
+    "sha": "85a233d0b1140b74671428156e36b5d6cf3523c1"
   },
   "36": {
     "translation": "Thai from kjv",
@@ -429,7 +429,7 @@
     "nr": 36,
     "name": "เศฟันยาห์",
     "url": "https://api.getbible.net/v2/thai/36.json",
-    "sha": "908173f587ce2fd01af1464f3d4fc135c98e6473"
+    "sha": "10157ec2b1d1bb00144f4bea9d312a22574fb01a"
   },
   "37": {
     "translation": "Thai from kjv",
@@ -441,7 +441,7 @@
     "nr": 37,
     "name": "ฮักกัย",
     "url": "https://api.getbible.net/v2/thai/37.json",
-    "sha": "f688358f8a370149eee4f7195894aaf0a3b406d3"
+    "sha": "f57d0cd33e0aa56cba7499be6598617d95a9b3d9"
   },
   "38": {
     "translation": "Thai from kjv",
@@ -453,7 +453,7 @@
     "nr": 38,
     "name": "เศคารยาห์",
     "url": "https://api.getbible.net/v2/thai/38.json",
-    "sha": "2b38db00cee0783234b3928ecd87b58aa7943813"
+    "sha": "9c4d52c0ed79b9340669a06b4ca91ac5f110fc9d"
   },
   "39": {
     "translation": "Thai from kjv",
@@ -465,7 +465,7 @@
     "nr": 39,
     "name": "มาลาคี",
     "url": "https://api.getbible.net/v2/thai/39.json",
-    "sha": "4482152ae5ee4ecaa9a4710aa857b14726221178"
+    "sha": "d6609a7630d57ed8b2deaf02fd4271b81b2be380"
   },
   "40": {
     "translation": "Thai from kjv",
@@ -477,7 +477,7 @@
     "nr": 40,
     "name": "มัทธิว",
     "url": "https://api.getbible.net/v2/thai/40.json",
-    "sha": "847c4ff5ffbcf2eae521e733eeb0ffbae6e229d3"
+    "sha": "06db17c82e436462a9121b9a721c989bac52784d"
   },
   "41": {
     "translation": "Thai from kjv",
@@ -489,7 +489,7 @@
     "nr": 41,
     "name": "มาร์ค",
     "url": "https://api.getbible.net/v2/thai/41.json",
-    "sha": "8c0e8c501e977d5c0b56cffe25006564ff6aa4ae"
+    "sha": "b48a84b9ff4b033c5fb8b09cce417a6e86729a22"
   },
   "42": {
     "translation": "Thai from kjv",
@@ -501,7 +501,7 @@
     "nr": 42,
     "name": "ลูกา",
     "url": "https://api.getbible.net/v2/thai/42.json",
-    "sha": "393ebfa738cb20b85c828fd91e7279f13cae5568"
+    "sha": "96ed599dd7fb63617e8c9f54eaa5e258d8749844"
   },
   "43": {
     "translation": "Thai from kjv",
@@ -513,7 +513,7 @@
     "nr": 43,
     "name": "ยอห์น",
     "url": "https://api.getbible.net/v2/thai/43.json",
-    "sha": "8c6bcca529bae4c1fa3b9c63af53553d69037597"
+    "sha": "014275db0857251732b4f8e30b9b92e13d083b32"
   },
   "44": {
     "translation": "Thai from kjv",
@@ -525,7 +525,7 @@
     "nr": 44,
     "name": "กิจการ",
     "url": "https://api.getbible.net/v2/thai/44.json",
-    "sha": "bcf2557f4a1f538f6a8bcafa727877e770e1b287"
+    "sha": "c2ed5b784911f5b835b1d58f8fec571e32d56f1e"
   },
   "45": {
     "translation": "Thai from kjv",
@@ -537,7 +537,7 @@
     "nr": 45,
     "name": "โรม",
     "url": "https://api.getbible.net/v2/thai/45.json",
-    "sha": "51b7dce7a32790a4c4e4e9c8f422a59c223d5d4d"
+    "sha": "45a63a9c1ea3cca3b369fc82d30ba6082493491c"
   },
   "46": {
     "translation": "Thai from kjv",
@@ -549,7 +549,7 @@
     "nr": 46,
     "name": "1 โครินธ์",
     "url": "https://api.getbible.net/v2/thai/46.json",
-    "sha": "88018726adc9f732f628530138ade9577e0e7a3d"
+    "sha": "7b80378ce7f60f43bf684fdabd4d3af334d7c3a5"
   },
   "47": {
     "translation": "Thai from kjv",
@@ -561,7 +561,7 @@
     "nr": 47,
     "name": "2 โครินธ์",
     "url": "https://api.getbible.net/v2/thai/47.json",
-    "sha": "ccfadf241ccb05ac92e66f8fe011ffb660d749b7"
+    "sha": "a6692f9bd57c5f666c7d873819c6a223bfa659a5"
   },
   "48": {
     "translation": "Thai from kjv",
@@ -573,7 +573,7 @@
     "nr": 48,
     "name": "กาลาเทีย",
     "url": "https://api.getbible.net/v2/thai/48.json",
-    "sha": "895191d9f4cfb3d43bdee95f7b69b4271c00ba9a"
+    "sha": "c5238c1dad2dff0a6f6087cf56eb820ef8b00502"
   },
   "49": {
     "translation": "Thai from kjv",
@@ -585,7 +585,7 @@
     "nr": 49,
     "name": "เอเฟซัส",
     "url": "https://api.getbible.net/v2/thai/49.json",
-    "sha": "e854ffb7a2b6e8a34ad5c4036f387f790d3d16d0"
+    "sha": "01b3b1d72e1852d84a0299f11a6050cd430b5a51"
   },
   "50": {
     "translation": "Thai from kjv",
@@ -597,7 +597,7 @@
     "nr": 50,
     "name": "ฟิลิปปี",
     "url": "https://api.getbible.net/v2/thai/50.json",
-    "sha": "d4b424ccb0ec2db9e78c87afc158b8b5d4eb05c4"
+    "sha": "8b480c0d98f0577bf4e0e5e6bf38276f4bdd7baa"
   },
   "51": {
     "translation": "Thai from kjv",
@@ -609,7 +609,7 @@
     "nr": 51,
     "name": "โคโลสี",
     "url": "https://api.getbible.net/v2/thai/51.json",
-    "sha": "c567b8f757124f71e468bb7a8dd4267f64ba21ec"
+    "sha": "0a0a0837d0099bcde534e528cb3c740bc1bbb256"
   },
   "52": {
     "translation": "Thai from kjv",
@@ -621,7 +621,7 @@
     "nr": 52,
     "name": "1 เธสะโลนิกา",
     "url": "https://api.getbible.net/v2/thai/52.json",
-    "sha": "5e9323a5455807ab27159f3ebb7c5fa1bae59686"
+    "sha": "e00c6350f0ee948d08fb93f87ce25bffb692530b"
   },
   "53": {
     "translation": "Thai from kjv",
@@ -633,7 +633,7 @@
     "nr": 53,
     "name": "2 เธสะโลนิกา",
     "url": "https://api.getbible.net/v2/thai/53.json",
-    "sha": "9299c7bcb5631576e2c0e2c0053ab739499be406"
+    "sha": "fea8ee1497618b451a774cc769b4b7b723de6103"
   },
   "54": {
     "translation": "Thai from kjv",
@@ -645,7 +645,7 @@
     "nr": 54,
     "name": "1 ทิโมธี",
     "url": "https://api.getbible.net/v2/thai/54.json",
-    "sha": "c374443ba06c62e82586a52e3ab5e12e89e07023"
+    "sha": "f6885c57e9f0bac9a9739a7d6a81eb12eb95fba6"
   },
   "55": {
     "translation": "Thai from kjv",
@@ -657,7 +657,7 @@
     "nr": 55,
     "name": "2 ทิโมธี",
     "url": "https://api.getbible.net/v2/thai/55.json",
-    "sha": "4009dc2d05a31ab6ce924f2cb91205479a8e4e02"
+    "sha": "f506cf80962a1e9860cf390e1e27c524111da5d9"
   },
   "56": {
     "translation": "Thai from kjv",
@@ -669,7 +669,7 @@
     "nr": 56,
     "name": "ทิตัส",
     "url": "https://api.getbible.net/v2/thai/56.json",
-    "sha": "ad643a4a9bfba5ce145b240da9c40f4edb9af84a"
+    "sha": "a7055cba0f519af778e17c9cca52cddd5647c7ce"
   },
   "57": {
     "translation": "Thai from kjv",
@@ -681,7 +681,7 @@
     "nr": 57,
     "name": "ฟีเลโมน",
     "url": "https://api.getbible.net/v2/thai/57.json",
-    "sha": "d83484585b5701b147be6621f12913f58d0dc716"
+    "sha": "929dc8daf58c1b1f0e1d476eaa63b8bbf7ad18fe"
   },
   "58": {
     "translation": "Thai from kjv",
@@ -693,7 +693,7 @@
     "nr": 58,
     "name": "ฮีบรู",
     "url": "https://api.getbible.net/v2/thai/58.json",
-    "sha": "ab4b220a4e9bf3f6a4af1b603d9e5f0707bb98c0"
+    "sha": "cb1aa4a7939e41c72c0abd1a039575bcf31137ca"
   },
   "59": {
     "translation": "Thai from kjv",
@@ -705,7 +705,7 @@
     "nr": 59,
     "name": "ยากอบ",
     "url": "https://api.getbible.net/v2/thai/59.json",
-    "sha": "367065157656a1b81aaaefd34533e417423c6a38"
+    "sha": "635c79bd784567c353dfc64421c338f16d6b48e0"
   },
   "60": {
     "translation": "Thai from kjv",
@@ -717,7 +717,7 @@
     "nr": 60,
     "name": "1 เปโตร",
     "url": "https://api.getbible.net/v2/thai/60.json",
-    "sha": "37a2054a460ffeaa4ab27fcff2aad6c4077636c8"
+    "sha": "9e54b0bc6ac1089729fd5a07efe5d7a9a1db3315"
   },
   "61": {
     "translation": "Thai from kjv",
@@ -729,7 +729,7 @@
     "nr": 61,
     "name": "2 เปโตร",
     "url": "https://api.getbible.net/v2/thai/61.json",
-    "sha": "9f329b875ebab1baf782118f5f964c18807bb65b"
+    "sha": "ba4e341419e3ac561e2eea2686a6bbda44f67394"
   },
   "62": {
     "translation": "Thai from kjv",
@@ -741,7 +741,7 @@
     "nr": 62,
     "name": "1 ยอห์น",
     "url": "https://api.getbible.net/v2/thai/62.json",
-    "sha": "e1d9b374653d4d251a07f454153d9a13eab913e6"
+    "sha": "eb3f118031313a547a49675330dd11eba9e2d01e"
   },
   "63": {
     "translation": "Thai from kjv",
@@ -753,7 +753,7 @@
     "nr": 63,
     "name": "2 ยอห์น",
     "url": "https://api.getbible.net/v2/thai/63.json",
-    "sha": "21c1439975080831fca5ebf2c379176f28816e42"
+    "sha": "a2720b994f899890e0a07ab5e80c06374e987e3b"
   },
   "64": {
     "translation": "Thai from kjv",
@@ -765,7 +765,7 @@
     "nr": 64,
     "name": "3 ยอห์น",
     "url": "https://api.getbible.net/v2/thai/64.json",
-    "sha": "766dd45c189201143034dfb3c17df5b7eac6f550"
+    "sha": "d80012f4f729dc2d1c0df565ee53d364470807c0"
   },
   "65": {
     "translation": "Thai from kjv",
@@ -777,7 +777,7 @@
     "nr": 65,
     "name": "ยูดา",
     "url": "https://api.getbible.net/v2/thai/65.json",
-    "sha": "83dd5d1c621ef607d79d3f9b7790e09f5d5aa6b2"
+    "sha": "f7ee84a054ad7affd0304d92454c31cc5374717c"
   },
   "66": {
     "translation": "Thai from kjv",
@@ -789,6 +789,6 @@
     "nr": 66,
     "name": "วิวรณ์",
     "url": "https://api.getbible.net/v2/thai/66.json",
-    "sha": "500ee20d2995215b30237107b20b34393e278ff8"
+    "sha": "90c71bd46ec45858671af5d8394bead6d281c773"
   }
 }
