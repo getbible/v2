@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/tyndale/61/1.json",
+    "sha": "76af4d1700c6ca685570290cea8d53dcae3d4eeb"
+  },
+  "2": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/tyndale/61/2.json",
+    "sha": "a6b13c4d232c3769b7fa16bf3abae513e9cef45b"
+  },
+  "3": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/tyndale/61/3.json",
+    "sha": "137f4b4cfaed64ee05954ef6491845ccceb4de4b"
+  }
+}

@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 1,
     "name": "Romans 1",
     "url": "https://api.getbible.net/v2/tyndale/45/1.json",
-    "sha": "4dfd1342f19af6f66d31c0bf5cf31bc8f8e078c8"
+    "sha": "d2d4340beb0fbe163a2fa823163242ad0fe1b85c"
   },
   "2": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 2,
     "name": "Romans 2",
     "url": "https://api.getbible.net/v2/tyndale/45/2.json",
-    "sha": "17ceda77afe05be0c1475005295ca41a54f2035d"
+    "sha": "731986b25ad4940be3d4bc7547a7f9c53ef3d5e9"
   },
   "3": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 3,
     "name": "Romans 3",
     "url": "https://api.getbible.net/v2/tyndale/45/3.json",
-    "sha": "92338c2ebd180579fcbc19b6184d494f7fdfa09d"
+    "sha": "1c80fd8d8b45b192afa67f0eb16404aedf861154"
   },
   "4": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 4,
     "name": "Romans 4",
     "url": "https://api.getbible.net/v2/tyndale/45/4.json",
-    "sha": "59b619494fee6e96820e04f170763cec525b5a65"
+    "sha": "d1dcadb453ea7d5e6654bfea97e2bb6576f93897"
   },
   "5": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 5,
     "name": "Romans 5",
     "url": "https://api.getbible.net/v2/tyndale/45/5.json",
-    "sha": "e17bfa3abd271b224f0feea5c86280d236a9d700"
+    "sha": "cee5e3995d6cd5853be53f8854854f98e0e564fa"
   },
   "6": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 6,
     "name": "Romans 6",
     "url": "https://api.getbible.net/v2/tyndale/45/6.json",
-    "sha": "a2ff1116b8f0011705dbf3e9b98808f4324a9337"
+    "sha": "6447ed7d63c583fe707153c62a17824a7f441687"
   },
   "7": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 7,
     "name": "Romans 7",
     "url": "https://api.getbible.net/v2/tyndale/45/7.json",
-    "sha": "c30c7ba7d48833356128300229302c87794e37aa"
+    "sha": "f571a87929236af0d606b78fed00912967117413"
   },
   "8": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 8,
     "name": "Romans 8",
     "url": "https://api.getbible.net/v2/tyndale/45/8.json",
-    "sha": "b04df80dc887fb0fbc273398350cab0a44203205"
+    "sha": "f43f0871947a96ac17a57d8540c84dd5f807c235"
   },
   "9": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 9,
     "name": "Romans 9",
     "url": "https://api.getbible.net/v2/tyndale/45/9.json",
-    "sha": "241b34f29a19b14b0adc24cd3e47b92512c8b1e7"
+    "sha": "f86ba4de3baa183df994cfce5a92f04bf9e7c305"
   },
   "10": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 10,
     "name": "Romans 10",
     "url": "https://api.getbible.net/v2/tyndale/45/10.json",
-    "sha": "651ec97e3d5c9151994f5657bce90e06c98f77ee"
+    "sha": "475d7e011e3725da53845b6a0f463ad7c978cf05"
   },
   "11": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 11,
     "name": "Romans 11",
     "url": "https://api.getbible.net/v2/tyndale/45/11.json",
-    "sha": "25482a41ee6f25ea831f11732febb812d6444405"
+    "sha": "8d53a926c03c3ee3e0d97b45797a11681f4c051a"
   },
   "12": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 12,
     "name": "Romans 12",
     "url": "https://api.getbible.net/v2/tyndale/45/12.json",
-    "sha": "05d8c66c263d7e1c83ce0f8bc519171e01b95d16"
+    "sha": "070e76c242f3c7726a99bc281972ba4b51389e76"
   },
   "13": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 13,
     "name": "Romans 13",
     "url": "https://api.getbible.net/v2/tyndale/45/13.json",
-    "sha": "6d58546151c81686a56e90e0b38f5312d0b373c5"
+    "sha": "36517b12ad8f657a7f5eb145feb8973e1d967995"
   },
   "14": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 14,
     "name": "Romans 14",
     "url": "https://api.getbible.net/v2/tyndale/45/14.json",
-    "sha": "184cf893af966b2e3db0453a018b79abbec2bce6"
+    "sha": "0ae056aa1053a95e39c75a7ffcd4b4695eb5beb7"
   },
   "15": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 15,
     "name": "Romans 15",
     "url": "https://api.getbible.net/v2/tyndale/45/15.json",
-    "sha": "927859f250a3f7eb318f24eb8c7ec65abc683113"
+    "sha": "7655aa0af82a05d5b9a35199a710635b060e6b4e"
   },
   "16": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -215,12 +215,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 45,
     "book_name": "Romans",
     "chapter": 16,
     "name": "Romans 16",
     "url": "https://api.getbible.net/v2/tyndale/45/16.json",
-    "sha": "c964ac04e902caf09d8a06fa378d27aed7505a77"
+    "sha": "c9b5d2326c32a02ab272211025ebe75677a59f8d"
   }
 }

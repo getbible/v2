@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 57,
+    "book_name": "Philemon",
+    "chapter": 1,
+    "name": "Philemon 1",
+    "url": "https://api.getbible.net/v2/tyndale/57/1.json",
+    "sha": "360f90bd6ae1f6ffc6e66912c6cdf6dca3a9b939"
+  }
+}

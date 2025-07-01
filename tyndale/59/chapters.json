@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 1,
+    "name": "James 1",
+    "url": "https://api.getbible.net/v2/tyndale/59/1.json",
+    "sha": "1adeb1f335ef0c2390aa7d4639d198a4efc50fd7"
+  },
+  "2": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 2,
+    "name": "James 2",
+    "url": "https://api.getbible.net/v2/tyndale/59/2.json",
+    "sha": "9cf5ade19eda23fc2638342afa1f69098dcdcfdb"
+  },
+  "3": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 3,
+    "name": "James 3",
+    "url": "https://api.getbible.net/v2/tyndale/59/3.json",
+    "sha": "7922a39dcf354ebed14617f3886bf6b3cae1a603"
+  },
+  "4": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 4,
+    "name": "James 4",
+    "url": "https://api.getbible.net/v2/tyndale/59/4.json",
+    "sha": "55a8724ecac03caff227f9574337ce14d71049eb"
+  },
+  "5": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "James",
+    "chapter": 5,
+    "name": "James 5",
+    "url": "https://api.getbible.net/v2/tyndale/59/5.json",
+    "sha": "9fea0de0a550d5493c8776fcedee38eafc8f2952"
+  }
+}

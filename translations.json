@@ -2675,19 +2675,23 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
-    "distribution_lcsh": "Bible. English.",
-    "distribution_version": "1.0",
-    "distribution_version_date": "2002-09-05",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.English",
+    "distribution_version": "2.1",
+    "distribution_version_date": "2025-06-20",
     "distribution_abbreviation": "tyndale",
-    "distribution_about": "William Tyndale's 1525 New Testament and 1530 Pentateuch.\\par\\par This electronic edition contains only Genesis, the Gospels, Acts, Romans, 1st Corinthians, Hebrews, and Revelation from Tyndale's Bible.  Thanks to Sergej Fedosov of the Slavic Bible (http://sbible.boom.ru) for providing this excellent work.",
+    "distribution_about": "William Tyndale's 1525 New Testament and 1530 Pentateuch.\\par\\par A partial translation from the Hebrew and Greek, never completed. Tyndale translated the entire New Testament, but of the Old Testament he only published the Pentateuch and the book of Jonah.\\par\\par The earliest existing edition is from 1525, but manuscripts of that only have a part of Matthew. Of the whole New Testament, the earliest manuscripts available are from 1526. Old Testament books are from later, 1530's for some.",
     "distribution_license": "Public Domain",
-    "distribution_sourcetype": "",
-    "distribution_source": "Slavic Bible",
-    "distribution_versification": "",
-    "distribution_history": {},
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://en.wikisource.org/wiki/Bible_(Tyndale)",
+    "distribution_versification": "KJV",
+    "distribution_history": {
+      "history_1.0": "From slavic.boom.ru",
+      "history_2.0": "(2025-06-08) New source",
+      "history_2.1": "(2025-06-20) Minor verses correction"
+    },
     "url": "https://api.getbible.net/v2/tyndale.json",
-    "sha": "61a19a34845b9430180481e3a7c4b7036f798b06"
+    "sha": "6e03ebc57a1323927179550bd47b1ed34d2aabc9"
   },
   "ukranian": {
     "translation": "NT (P Kulish 1871)",

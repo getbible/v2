@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 1,
     "name": "Genesis 1",
     "url": "https://api.getbible.net/v2/tyndale/1/1.json",
-    "sha": "a8cb9eeb190f114070ae34a4720304886701d14f"
+    "sha": "2027650dfbdfe703ee3635c8555dd999f38e3d68"
   },
   "2": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 2,
     "name": "Genesis 2",
     "url": "https://api.getbible.net/v2/tyndale/1/2.json",
-    "sha": "bfc58e09c22c1c4a09820e3359f5e50e4d6d1b07"
+    "sha": "0fe855a7bd7adec44cc9cd1dfa6667e4e37d0c49"
   },
   "3": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 3,
     "name": "Genesis 3",
     "url": "https://api.getbible.net/v2/tyndale/1/3.json",
-    "sha": "10cee9b0be12ae9a65fe77bcce8c7ce29d686740"
+    "sha": "ffe21d061c867529ee01e995ac9080f4ad63e393"
   },
   "4": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 4,
     "name": "Genesis 4",
     "url": "https://api.getbible.net/v2/tyndale/1/4.json",
-    "sha": "debd4eef7183a6f011e6010ca222b06ced2c0c6e"
+    "sha": "153598abb4c5f4d78b2dfcbb3248846de57fe235"
   },
   "5": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 5,
     "name": "Genesis 5",
     "url": "https://api.getbible.net/v2/tyndale/1/5.json",
-    "sha": "97bacb161f770c795e57e481e78b7d6863b30481"
+    "sha": "ce862faceafa5f1e0c0f32d761db977113f553c9"
   },
   "6": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 6,
     "name": "Genesis 6",
     "url": "https://api.getbible.net/v2/tyndale/1/6.json",
-    "sha": "b0cead22c312c086ff2590c47596cc6f99947c32"
+    "sha": "708f0c895d6777c2b07aebc77e955f9d87d1d5ee"
   },
   "7": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 7,
     "name": "Genesis 7",
     "url": "https://api.getbible.net/v2/tyndale/1/7.json",
-    "sha": "b3a527a693caf36b30545fcb7c423eb870d28c69"
+    "sha": "48a6a0ec8d40926ef74f135bca4addf82216869e"
   },
   "8": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 8,
     "name": "Genesis 8",
     "url": "https://api.getbible.net/v2/tyndale/1/8.json",
-    "sha": "f5f080b8d895cbbcabd9d96b8f2e5bad301a6b6c"
+    "sha": "8363b97946aad01bc850ac29ab25e7ba5be28899"
   },
   "9": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 9,
     "name": "Genesis 9",
     "url": "https://api.getbible.net/v2/tyndale/1/9.json",
-    "sha": "61d871aa428a9106a465179f85a7f66fdc334a4d"
+    "sha": "2ac8a7c683b8815195ca6994c537cc9944c1a2ac"
   },
   "10": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 10,
     "name": "Genesis 10",
     "url": "https://api.getbible.net/v2/tyndale/1/10.json",
-    "sha": "d60d8f66a3dbb1c9f2c72fe887e879ce47146624"
+    "sha": "d45ef53b3175ba274113e2dc9887caab1d553a05"
   },
   "11": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 11,
     "name": "Genesis 11",
     "url": "https://api.getbible.net/v2/tyndale/1/11.json",
-    "sha": "b3f2b35072ca8a7392c827bd1085555139ef9646"
+    "sha": "08fdfaf7d1f7232d5c92e98dc9262efe32848446"
   },
   "12": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 12,
     "name": "Genesis 12",
     "url": "https://api.getbible.net/v2/tyndale/1/12.json",
-    "sha": "a627eb75b8b5376b21d4ebba71d64b651470b07f"
+    "sha": "4e37a18dcb23e100fbfbd98e49826b39bd74f717"
   },
   "13": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 13,
     "name": "Genesis 13",
     "url": "https://api.getbible.net/v2/tyndale/1/13.json",
-    "sha": "c8478c6567190aac711209a8d1d6d26cbd762594"
+    "sha": "cdc10300b799cb58a53a1d9e4f3fdf648b817914"
   },
   "14": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 14,
     "name": "Genesis 14",
     "url": "https://api.getbible.net/v2/tyndale/1/14.json",
-    "sha": "18fa3768379d6e81928f0481c728f81a9b756950"
+    "sha": "c65f279ff6fe4b2c141d9c3c5d9156100a3252a2"
   },
   "15": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 15,
     "name": "Genesis 15",
     "url": "https://api.getbible.net/v2/tyndale/1/15.json",
-    "sha": "9da3d3a799b9274eadf7b9d7d06278928ce31231"
+    "sha": "953830812e8dcab6fa371dff74527d69e66617a3"
   },
   "16": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 16,
     "name": "Genesis 16",
     "url": "https://api.getbible.net/v2/tyndale/1/16.json",
-    "sha": "ed89f4185c0d149290bf47b4126ba9c0727b19e1"
+    "sha": "605e97aae3837ac3631364ae6c50a0b91e3c838b"
   },
   "17": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 17,
     "name": "Genesis 17",
     "url": "https://api.getbible.net/v2/tyndale/1/17.json",
-    "sha": "f9f0e154b453cba1c2e4b7ecf58dfc9ea0b1af97"
+    "sha": "734316f880824b723c4ad1c63d232d08af558688"
   },
   "18": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 18,
     "name": "Genesis 18",
     "url": "https://api.getbible.net/v2/tyndale/1/18.json",
-    "sha": "a4d8897ded86d26b869982a8f0558e3c1e3b59a7"
+    "sha": "b6ccea127cf549eeab1b991dcd3e7e51b544f693"
   },
   "19": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 19,
     "name": "Genesis 19",
     "url": "https://api.getbible.net/v2/tyndale/1/19.json",
-    "sha": "a2968abf44395d9db355118b3a9e0c902feb998f"
+    "sha": "2cd5a944de4e36e3795f7cb68389b6de09dd291c"
   },
   "20": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 20,
     "name": "Genesis 20",
     "url": "https://api.getbible.net/v2/tyndale/1/20.json",
-    "sha": "6497b145d1cc4e2339853bc95c78f8de847c0d8f"
+    "sha": "9b508e1e5bb23684e9ab9ddf904ea3708fdf0871"
   },
   "21": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 21,
     "name": "Genesis 21",
     "url": "https://api.getbible.net/v2/tyndale/1/21.json",
-    "sha": "d269e1b716633c173aea76a0cae3e74dcbf1a880"
+    "sha": "a436b90091371d2be052010451e979ced80647f9"
   },
   "22": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 22,
     "name": "Genesis 22",
     "url": "https://api.getbible.net/v2/tyndale/1/22.json",
-    "sha": "ceefbcc513722225389d3b995cc9ce4fa0474fd9"
+    "sha": "e782855efd4be5470b2f9273ed46511b02435fe4"
   },
   "23": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 23,
     "name": "Genesis 23",
     "url": "https://api.getbible.net/v2/tyndale/1/23.json",
-    "sha": "cd22d3b1ca710de30062bc19b273b95241151ea2"
+    "sha": "b9445d689ad81537ef3046a4ca01fa9479497632"
   },
   "24": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -327,13 +327,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 24,
     "name": "Genesis 24",
     "url": "https://api.getbible.net/v2/tyndale/1/24.json",
-    "sha": "cccd4fcfc21a0cbfe683dc87ce4a06df18a969be"
+    "sha": "57ca03f5c235f28a7b57cd6d52b92ec3171920bb"
   },
   "25": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -341,13 +341,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 25,
     "name": "Genesis 25",
     "url": "https://api.getbible.net/v2/tyndale/1/25.json",
-    "sha": "554855b449b54c2c40a22f552f0dbd816042759c"
+    "sha": "726c50f16bf764e340964daf4e9a5771e5eef634"
   },
   "26": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -355,13 +355,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 26,
     "name": "Genesis 26",
     "url": "https://api.getbible.net/v2/tyndale/1/26.json",
-    "sha": "566f40c99fe688770cb8fdd5366183a5f9a720a2"
+    "sha": "78ff3393ceb614f0612bc47886a2403eb327bda9"
   },
   "27": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -369,13 +369,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 27,
     "name": "Genesis 27",
     "url": "https://api.getbible.net/v2/tyndale/1/27.json",
-    "sha": "4de78f6d0d6897c16dea56938b59e3f00fcc4293"
+    "sha": "445439cad178a7d0f782b9fee3ffff370e195049"
   },
   "28": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -383,13 +383,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 28,
     "name": "Genesis 28",
     "url": "https://api.getbible.net/v2/tyndale/1/28.json",
-    "sha": "e5e1434498af0728885d9e5fe20d0419c4a515ee"
+    "sha": "13e57902cc5b2e26e7e6c7bfd6e975012db15c80"
   },
   "29": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -397,13 +397,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 29,
     "name": "Genesis 29",
     "url": "https://api.getbible.net/v2/tyndale/1/29.json",
-    "sha": "ec3926fb838323a0b733b913be947e0c2ae9cfe3"
+    "sha": "c255b92744f73c5230e20ad7d3f21a885f4fab06"
   },
   "30": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -411,13 +411,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 30,
     "name": "Genesis 30",
     "url": "https://api.getbible.net/v2/tyndale/1/30.json",
-    "sha": "d989df7a141688135f2e3656c8a024c6e740a67b"
+    "sha": "769b525961882bf27863d92f2bd85c4ca6b9b7da"
   },
   "31": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -425,13 +425,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 31,
     "name": "Genesis 31",
     "url": "https://api.getbible.net/v2/tyndale/1/31.json",
-    "sha": "93b76cfb5ad056eea91d69232d778b145114683f"
+    "sha": "cc987934fab9c5437387c7bd53ffcbed81aea38b"
   },
   "32": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -439,13 +439,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 32,
     "name": "Genesis 32",
     "url": "https://api.getbible.net/v2/tyndale/1/32.json",
-    "sha": "9635308772880863a322291371fddd3cd1ba6384"
+    "sha": "3e7c1e03a3e30948af84e1f7c4c334bf59a20ce7"
   },
   "33": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -453,13 +453,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 33,
     "name": "Genesis 33",
     "url": "https://api.getbible.net/v2/tyndale/1/33.json",
-    "sha": "cce346213263402e57ebba6ae10a2bc47e84ead3"
+    "sha": "90fde240d6283a24a959a5a3dcb2f9270e6e9f36"
   },
   "34": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -467,13 +467,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 34,
     "name": "Genesis 34",
     "url": "https://api.getbible.net/v2/tyndale/1/34.json",
-    "sha": "caedea3f415dbeda2ab2cce99a7c4a9993f48778"
+    "sha": "873515b5f48e66cf4b34e6bbdfe73bba53621607"
   },
   "35": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -481,13 +481,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 35,
     "name": "Genesis 35",
     "url": "https://api.getbible.net/v2/tyndale/1/35.json",
-    "sha": "c41fd713c3a1aa46be03a49f73899c058331497b"
+    "sha": "98a5fdfc9e3450b81cdbe213174953569e7d7ad6"
   },
   "36": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -495,13 +495,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 36,
     "name": "Genesis 36",
     "url": "https://api.getbible.net/v2/tyndale/1/36.json",
-    "sha": "bda1a42fee696a424d98061ea14e6c2821ce686d"
+    "sha": "3cf6f21855ce87064701e9fadd98fa24d6ccbdcc"
   },
   "37": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -509,13 +509,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 37,
     "name": "Genesis 37",
     "url": "https://api.getbible.net/v2/tyndale/1/37.json",
-    "sha": "bb453abe69f8033c18d8f25b6eb5e4dac2711dad"
+    "sha": "bdb6d6aa0182907d2030a34a1a3a46a2a7bda16b"
   },
   "38": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -523,13 +523,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 38,
     "name": "Genesis 38",
     "url": "https://api.getbible.net/v2/tyndale/1/38.json",
-    "sha": "0ef6e1fce879176108c2d9fa9919755a3d63ce02"
+    "sha": "b3d629a7c18d143939576654238b58c87d0d0822"
   },
   "39": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -537,13 +537,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 39,
     "name": "Genesis 39",
     "url": "https://api.getbible.net/v2/tyndale/1/39.json",
-    "sha": "50f2c1105ac901650b725d86b95da93ca90b7182"
+    "sha": "e38ae034ab215bc45c70ac5ad8458163bb9ffd67"
   },
   "40": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -551,13 +551,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 40,
     "name": "Genesis 40",
     "url": "https://api.getbible.net/v2/tyndale/1/40.json",
-    "sha": "7d8058d173ee4ccb456dd4acee4442917b96b38b"
+    "sha": "e63bf1482a232998322336807287e2d1df9d53e0"
   },
   "41": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -565,13 +565,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 41,
     "name": "Genesis 41",
     "url": "https://api.getbible.net/v2/tyndale/1/41.json",
-    "sha": "641fb4b5ce20a5f5d4d7b0a6b196cfef2a9fccf4"
+    "sha": "b51dc309dc1baba4153ad56df2e884636e8690f2"
   },
   "42": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -579,13 +579,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 42,
     "name": "Genesis 42",
     "url": "https://api.getbible.net/v2/tyndale/1/42.json",
-    "sha": "afbc2c0bd0ecf33b0d6747b2d3e73d41867dd669"
+    "sha": "204756dd449d138dd741a9b94504f479696f8330"
   },
   "43": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -593,13 +593,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 43,
     "name": "Genesis 43",
     "url": "https://api.getbible.net/v2/tyndale/1/43.json",
-    "sha": "297fbfe2a09450e098d5181a08ce0be5c1a1f14e"
+    "sha": "a60c0bbf948305cb88c4d107b867fb8d31a648da"
   },
   "44": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -607,13 +607,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 44,
     "name": "Genesis 44",
     "url": "https://api.getbible.net/v2/tyndale/1/44.json",
-    "sha": "21fe140aa0b2aba36f3bc4cb15da87e910a5299c"
+    "sha": "798ef327616e0dda760275e4968bf7aba3d97dfc"
   },
   "45": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -621,13 +621,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 45,
     "name": "Genesis 45",
     "url": "https://api.getbible.net/v2/tyndale/1/45.json",
-    "sha": "02a8830c1d8a611dc079784fc8827fd1c5479c15"
+    "sha": "a0f1302e178cafea3891411f7df0fa425be8295b"
   },
   "46": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -635,13 +635,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 46,
     "name": "Genesis 46",
     "url": "https://api.getbible.net/v2/tyndale/1/46.json",
-    "sha": "9526e985de98b8e5853961e1b52a31d58d7e621f"
+    "sha": "c04e59a0912c9935b3386670e274eb3607209e46"
   },
   "47": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -649,13 +649,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 47,
     "name": "Genesis 47",
     "url": "https://api.getbible.net/v2/tyndale/1/47.json",
-    "sha": "51255b569948882a3b854adf96d5d1e334b43f04"
+    "sha": "f82520cab7dff8a5cc69944e32bb41341e04ed9f"
   },
   "48": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -663,13 +663,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 48,
     "name": "Genesis 48",
     "url": "https://api.getbible.net/v2/tyndale/1/48.json",
-    "sha": "9af3aec1eebbb3ef8960a00fb34fb8bbd805e9d7"
+    "sha": "7d5d67c5626c6f67c30727a8c1115c7ef407d6fc"
   },
   "49": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -677,13 +677,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 49,
     "name": "Genesis 49",
     "url": "https://api.getbible.net/v2/tyndale/1/49.json",
-    "sha": "8780e4b3d87bf051b67860f6c2d887c7c0027cbc"
+    "sha": "14d8aa124857fac0b13f2575f71b90ea9dafe7df"
   },
   "50": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -691,12 +691,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 1,
     "book_name": "Genesis",
     "chapter": 50,
     "name": "Genesis 50",
     "url": "https://api.getbible.net/v2/tyndale/1/50.json",
-    "sha": "b85e2aa174e6f7af8bd5deea9116a81f419b872d"
+    "sha": "80865329910e2e74cddb94a34c0db60431b7e8cd"
   }
 }

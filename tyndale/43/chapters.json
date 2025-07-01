@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 1,
     "name": "John 1",
     "url": "https://api.getbible.net/v2/tyndale/43/1.json",
-    "sha": "75978736ab495d43b131dae462193700fa0a0d51"
+    "sha": "456393bbc62b9234834357833a189129d67c5362"
   },
   "2": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 2,
     "name": "John 2",
     "url": "https://api.getbible.net/v2/tyndale/43/2.json",
-    "sha": "9f81453dcd06bd2bec395cec1b0f3d4ff7ef9d9e"
+    "sha": "88203296526d359277bd4c4813047160f8afd8d5"
   },
   "3": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 3,
     "name": "John 3",
     "url": "https://api.getbible.net/v2/tyndale/43/3.json",
-    "sha": "323f5ad0045bd1fbdecbbdbc548196b418c554c2"
+    "sha": "5636df00d2890fb10bd25a517cafe0e9269612f4"
   },
   "4": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 4,
     "name": "John 4",
     "url": "https://api.getbible.net/v2/tyndale/43/4.json",
-    "sha": "bd8b989fa758d83bd542cfa1f1170e69e6e8b363"
+    "sha": "3c3d0d65ad9e8de70d05eda6da902f086db319b1"
   },
   "5": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 5,
     "name": "John 5",
     "url": "https://api.getbible.net/v2/tyndale/43/5.json",
-    "sha": "e529c3ede36b23ab9ab27e7f1c9da56dd32dee83"
+    "sha": "920f5a59fa3334c162bdf33223f5e40cdef06b91"
   },
   "6": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 6,
     "name": "John 6",
     "url": "https://api.getbible.net/v2/tyndale/43/6.json",
-    "sha": "96eea9bb25d0c3bfb818b79d9d3a2579bd265ede"
+    "sha": "f504269edaa0ddaec3eb63811c91d61d792bbe5d"
   },
   "7": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 7,
     "name": "John 7",
     "url": "https://api.getbible.net/v2/tyndale/43/7.json",
-    "sha": "55e2c5037c544a5e5915cf30c38f9785ab634753"
+    "sha": "88b43a397ea5f74da53d483bce82d81ad73f4fac"
   },
   "8": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 8,
     "name": "John 8",
     "url": "https://api.getbible.net/v2/tyndale/43/8.json",
-    "sha": "6b84ff0135062e2812085b0273bc0b3f13888c79"
+    "sha": "07644dc9dec490fe46eff7fd67a4b31b5f36d663"
   },
   "9": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 9,
     "name": "John 9",
     "url": "https://api.getbible.net/v2/tyndale/43/9.json",
-    "sha": "2a957ad3e6ebd2cda67f775e4aa3afedc0a48c3b"
+    "sha": "3ebf60a0c8d8c7bbcda66d863847eebc9e1daced"
   },
   "10": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 10,
     "name": "John 10",
     "url": "https://api.getbible.net/v2/tyndale/43/10.json",
-    "sha": "c3a53f594fa9b9e3cc06956a7c86aab81be92fce"
+    "sha": "480a0eae853b38c21dc758b8e719dabbed6600b4"
   },
   "11": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 11,
     "name": "John 11",
     "url": "https://api.getbible.net/v2/tyndale/43/11.json",
-    "sha": "3f21be445c6d270c9a137364896ced3a47d5c81b"
+    "sha": "b938ec2b13c02f524354ba2458343c80fe3fdd94"
   },
   "12": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 12,
     "name": "John 12",
     "url": "https://api.getbible.net/v2/tyndale/43/12.json",
-    "sha": "f63895df204f83c6d16808420efcc1e324bc0abb"
+    "sha": "fce6b0f0f02a7ff9b17b69d1ce7cb4553fafa090"
   },
   "13": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 13,
     "name": "John 13",
     "url": "https://api.getbible.net/v2/tyndale/43/13.json",
-    "sha": "9d2c9e5ac383310f9ddff0a11a38f2628c28cb4c"
+    "sha": "e268b2285079cd12b9f0a2cf92845149a6dd3867"
   },
   "14": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 14,
     "name": "John 14",
     "url": "https://api.getbible.net/v2/tyndale/43/14.json",
-    "sha": "6e905a69649738baf3571ced9e7264a2f303fb1f"
+    "sha": "9f84e9ed972bbea75563cf77c3800c2c80b472c0"
   },
   "15": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 15,
     "name": "John 15",
     "url": "https://api.getbible.net/v2/tyndale/43/15.json",
-    "sha": "35837d920225dd66b03f88d69881eee42d644df5"
+    "sha": "6f7504ca9f75c990cee72a7086bd990fd12b3ca9"
   },
   "16": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 16,
     "name": "John 16",
     "url": "https://api.getbible.net/v2/tyndale/43/16.json",
-    "sha": "4bda112f1df8a359f42c22bb83f6cf874439b91b"
+    "sha": "c03c96d145b30b4054fa4ad92b66bc05da634fd3"
   },
   "17": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 17,
     "name": "John 17",
     "url": "https://api.getbible.net/v2/tyndale/43/17.json",
-    "sha": "4841065b539a17d97b795d338db8c9799812a7c9"
+    "sha": "b4cb0057629cdee8715ee7adcad2bcc17fbb20d7"
   },
   "18": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 18,
     "name": "John 18",
     "url": "https://api.getbible.net/v2/tyndale/43/18.json",
-    "sha": "dfde220dfe461fc03110a58cf64989fd8c294915"
+    "sha": "3fd6523827d8bcceae1398be4dea414ad7b25f5f"
   },
   "19": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 19,
     "name": "John 19",
     "url": "https://api.getbible.net/v2/tyndale/43/19.json",
-    "sha": "eab124daa4ec7195e918c6bb7966dedb8632f620"
+    "sha": "bf3df4ceb53a675e2b626c617ee04dabfe25c456"
   },
   "20": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 20,
     "name": "John 20",
     "url": "https://api.getbible.net/v2/tyndale/43/20.json",
-    "sha": "3cbb0d0d419ccb95d4a1620327ed8e24cdd9201c"
+    "sha": "3bdc5ae5653b7c2e6bfa2967b159d10823a6eb36"
   },
   "21": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -285,12 +285,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 43,
     "book_name": "John",
     "chapter": 21,
     "name": "John 21",
     "url": "https://api.getbible.net/v2/tyndale/43/21.json",
-    "sha": "d09a14cdb7b4e1163ca87031b938a6cd2b6da8aa"
+    "sha": "85d1d14a27002af198d5211fbfa5ba7e35af4de0"
   }
 }

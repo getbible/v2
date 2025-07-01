@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 65,
+    "book_name": "Jude",
+    "chapter": 1,
+    "name": "Jude 1",
+    "url": "https://api.getbible.net/v2/tyndale/65/1.json",
+    "sha": "20202b812cf2b9d1831bb38aa9bbe9f5b332cc1a"
+  }
+}

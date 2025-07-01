@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/tyndale/55/1.json",
+    "sha": "a9727361ddbdf11466871a9f118dfa8a1aa86fe1"
+  },
+  "2": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/tyndale/55/2.json",
+    "sha": "c7d43ae9466cd7935eb47268b7045128600f88b9"
+  },
+  "3": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/tyndale/55/3.json",
+    "sha": "1397d80b1a19c7a2d6e9f9d0fdd90a0e231bd2d9"
+  },
+  "4": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/tyndale/55/4.json",
+    "sha": "534c98b6b38ce777c2a33547c7b7b8450243c8cb"
+  }
+}

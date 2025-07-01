@@ -5,13 +5,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 1,
     "name": "Luke 1",
     "url": "https://api.getbible.net/v2/tyndale/42/1.json",
-    "sha": "7f0d46783b322db2f300b2fef421370e781c61b2"
+    "sha": "50a8c174b6c7ab0a1f9ab4feda339e0274f4a4de"
   },
   "2": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -19,13 +19,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 2,
     "name": "Luke 2",
     "url": "https://api.getbible.net/v2/tyndale/42/2.json",
-    "sha": "e6df5084c85d8cb124367132c5fe104aae0e7c90"
+    "sha": "c13e9f48c7a75c20a48cdaef6880fd0d07b75dea"
   },
   "3": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -33,13 +33,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 3,
     "name": "Luke 3",
     "url": "https://api.getbible.net/v2/tyndale/42/3.json",
-    "sha": "f764e889d3474581aab6bfe352933f5598aff720"
+    "sha": "ce2ac651dab793f37d1caff21bba58e125675a8e"
   },
   "4": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -47,13 +47,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 4,
     "name": "Luke 4",
     "url": "https://api.getbible.net/v2/tyndale/42/4.json",
-    "sha": "a72cd8503221044b3eb71812fe79aa2119111f87"
+    "sha": "3c549466de0c96295f818dd8881d2141644db6e0"
   },
   "5": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -61,13 +61,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 5,
     "name": "Luke 5",
     "url": "https://api.getbible.net/v2/tyndale/42/5.json",
-    "sha": "e1e87c9c27c64fc75452642a8fbeb3fb896dcd07"
+    "sha": "1ecf9ba2f9e47cc16d066a0bdd18526101bdb793"
   },
   "6": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -75,13 +75,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 6,
     "name": "Luke 6",
     "url": "https://api.getbible.net/v2/tyndale/42/6.json",
-    "sha": "47cbd01a32c7feebe23922371a3f189fed247935"
+    "sha": "d99ee82b3fc86a3d2bcdd6955584891fa5b03a59"
   },
   "7": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -89,13 +89,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 7,
     "name": "Luke 7",
     "url": "https://api.getbible.net/v2/tyndale/42/7.json",
-    "sha": "f8307338a40b7670f5e2cf120f6b36ed9772d5f2"
+    "sha": "7071e2c1ce59530cc73baff9a74ace79dd4690fb"
   },
   "8": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -103,13 +103,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 8,
     "name": "Luke 8",
     "url": "https://api.getbible.net/v2/tyndale/42/8.json",
-    "sha": "81efcf0c754d59ba01132dc472fbac40e8b9a80b"
+    "sha": "2b47dcd439f507a3c4563f67063791a588e59738"
   },
   "9": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -117,13 +117,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 9,
     "name": "Luke 9",
     "url": "https://api.getbible.net/v2/tyndale/42/9.json",
-    "sha": "426d6aae200c91c97dfa99aee5a31a1ea83ecacc"
+    "sha": "891b63e84562288eb416ebfb9988c45af481075a"
   },
   "10": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -131,13 +131,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 10,
     "name": "Luke 10",
     "url": "https://api.getbible.net/v2/tyndale/42/10.json",
-    "sha": "d61e3a9bdde3095ccd41f1dba295d049b1f30a17"
+    "sha": "c754d7f866b299dcd83bd3b1aac1456cddf8eafa"
   },
   "11": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -145,13 +145,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 11,
     "name": "Luke 11",
     "url": "https://api.getbible.net/v2/tyndale/42/11.json",
-    "sha": "e0a565484ff2d12bde7f6c2f04737d546313ff3a"
+    "sha": "a3c29a548fe0e079428f43b3392b84d0e4d07a3b"
   },
   "12": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -159,13 +159,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 12,
     "name": "Luke 12",
     "url": "https://api.getbible.net/v2/tyndale/42/12.json",
-    "sha": "62595b0c1a94fa5261eccd7c6864f16636395ae0"
+    "sha": "21d248cf7a6e753f4b1c7697fd03247e24587f6b"
   },
   "13": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -173,13 +173,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 13,
     "name": "Luke 13",
     "url": "https://api.getbible.net/v2/tyndale/42/13.json",
-    "sha": "34b99b138e535d34775ed84f5579e593d195677f"
+    "sha": "8928b74fbe1f331ad6125c26248a85dea3dad2da"
   },
   "14": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -187,13 +187,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 14,
     "name": "Luke 14",
     "url": "https://api.getbible.net/v2/tyndale/42/14.json",
-    "sha": "2b49df5e79ed93727bea6bd028f79de6183ba099"
+    "sha": "51e4e2dfbfa19ddd0d00f4d5b89c8754910b7a52"
   },
   "15": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -201,13 +201,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 15,
     "name": "Luke 15",
     "url": "https://api.getbible.net/v2/tyndale/42/15.json",
-    "sha": "a55ddb445070220c984338b69fdb76051d5d4168"
+    "sha": "f055dc8e2e048e4542561ab2eaf504d067510342"
   },
   "16": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -215,13 +215,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 16,
     "name": "Luke 16",
     "url": "https://api.getbible.net/v2/tyndale/42/16.json",
-    "sha": "7c525d00408dde0901cf4aa2f9600ee4ae132cd5"
+    "sha": "04c4f72944beefe51be467340c46f469abcf45ed"
   },
   "17": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -229,13 +229,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 17,
     "name": "Luke 17",
     "url": "https://api.getbible.net/v2/tyndale/42/17.json",
-    "sha": "55ee6bf55a25a936c3a07585147ef4b1174f972c"
+    "sha": "d87c3a71b93683b569d8c9da1fca5e5463f9f47a"
   },
   "18": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -243,13 +243,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 18,
     "name": "Luke 18",
     "url": "https://api.getbible.net/v2/tyndale/42/18.json",
-    "sha": "a77f219cf96fc54cc21a352b2990cf1daae24d80"
+    "sha": "11e3bcac62bd06f20bf52b5138310db61fd31004"
   },
   "19": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -257,13 +257,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 19,
     "name": "Luke 19",
     "url": "https://api.getbible.net/v2/tyndale/42/19.json",
-    "sha": "bd5b481b4683c6d72459b1a927be09ea020ecfbc"
+    "sha": "8dbfd9bdc18dad7e8501a7ad2446f1befdcb9aaa"
   },
   "20": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -271,13 +271,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 20,
     "name": "Luke 20",
     "url": "https://api.getbible.net/v2/tyndale/42/20.json",
-    "sha": "a4526d87d7c6d29131b53bd60717f10ea43f85dd"
+    "sha": "928801cc0c47949b25a51cab213c46e9804728eb"
   },
   "21": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -285,13 +285,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 21,
     "name": "Luke 21",
     "url": "https://api.getbible.net/v2/tyndale/42/21.json",
-    "sha": "7652374a07c8ec454c41aa7baf4e7131d2820e50"
+    "sha": "28f8592e36317372df939ad44546806343db5965"
   },
   "22": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -299,13 +299,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 22,
     "name": "Luke 22",
     "url": "https://api.getbible.net/v2/tyndale/42/22.json",
-    "sha": "6d4920fa0a26fc7dbe06433a5471e705de2d59e9"
+    "sha": "43770ada1c9ff28fd940b07de1158c3f5b5d7dac"
   },
   "23": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -313,13 +313,13 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 23,
     "name": "Luke 23",
     "url": "https://api.getbible.net/v2/tyndale/42/23.json",
-    "sha": "8371c2916b83ce904224215409d4411cd8211d7d"
+    "sha": "e7928bc9a239d01f096b0e1c624cf24cfe549f63"
   },
   "24": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -327,12 +327,12 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "book_nr": 42,
     "book_name": "Luke",
     "chapter": 24,
     "name": "Luke 24",
     "url": "https://api.getbible.net/v2/tyndale/42/24.json",
-    "sha": "0312b230fb9abc6b4f1a30af2d4acbe19bd3e950"
+    "sha": "136e1217d69407e1aa94c2778e8986b1b631edce"
   }
 }

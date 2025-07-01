@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 1,
+    "name": "Colossians 1",
+    "url": "https://api.getbible.net/v2/tyndale/51/1.json",
+    "sha": "a9d560c54fe3f0a61fa98ebbc2ae8aa4b1ebeff3"
+  },
+  "2": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 2,
+    "name": "Colossians 2",
+    "url": "https://api.getbible.net/v2/tyndale/51/2.json",
+    "sha": "e8c2b90d161bf6762f19c5b38b75099a297d43f9"
+  },
+  "3": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 3,
+    "name": "Colossians 3",
+    "url": "https://api.getbible.net/v2/tyndale/51/3.json",
+    "sha": "a74e62ff30d287ffd1cdd0e6bfbc02f72b0c4100"
+  },
+  "4": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 51,
+    "book_name": "Colossians",
+    "chapter": 4,
+    "name": "Colossians 4",
+    "url": "https://api.getbible.net/v2/tyndale/51/4.json",
+    "sha": "be1664665a37ec09fced1aedee26146f9a57d1a0"
+  }
+}

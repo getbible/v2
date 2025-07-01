@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "name": "2 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/tyndale/53/1.json",
+    "sha": "e1087042bc8207988520ba6b249d51b33cdb883e"
+  },
+  "2": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 2,
+    "name": "2 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/tyndale/53/2.json",
+    "sha": "ee5115cb09f0cc2f1548a5f3a0bbb32dccc463ec"
+  },
+  "3": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 53,
+    "book_name": "2 Thessalonians",
+    "chapter": 3,
+    "name": "2 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/tyndale/53/3.json",
+    "sha": "4925e859b5ddb3cbc74dc967f3efbfaf8b3de2dc"
+  }
+}

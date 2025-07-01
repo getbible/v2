@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 1,
+    "name": "1 Thessalonians 1",
+    "url": "https://api.getbible.net/v2/tyndale/52/1.json",
+    "sha": "2396cd6f94a1817bdd85ace29f5faeb72fac42dc"
+  },
+  "2": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "name": "1 Thessalonians 2",
+    "url": "https://api.getbible.net/v2/tyndale/52/2.json",
+    "sha": "2daaba13dc106d697e27ec1e6917fc1144125f09"
+  },
+  "3": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 3,
+    "name": "1 Thessalonians 3",
+    "url": "https://api.getbible.net/v2/tyndale/52/3.json",
+    "sha": "83d15c9b66c05937a02d96994dcfe336d571d23e"
+  },
+  "4": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "name": "1 Thessalonians 4",
+    "url": "https://api.getbible.net/v2/tyndale/52/4.json",
+    "sha": "0863da496f2b739b23df2421bc690feb3195d5eb"
+  },
+  "5": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 52,
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "name": "1 Thessalonians 5",
+    "url": "https://api.getbible.net/v2/tyndale/52/5.json",
+    "sha": "368e507e7370dca02c9765a26b46fb0f237cc905"
+  }
+}

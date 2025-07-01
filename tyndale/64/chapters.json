@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 John",
+    "chapter": 1,
+    "name": "3 John 1",
+    "url": "https://api.getbible.net/v2/tyndale/64/1.json",
+    "sha": "38e5c528e84ca9bb40ba51f8f64077b04e158fb4"
+  }
+}

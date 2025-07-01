@@ -5,11 +5,71 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 1,
     "name": "Genesis",
     "url": "https://api.getbible.net/v2/tyndale/1.json",
-    "sha": "d2cc9412827f878c553d36632796c6eb845db633"
+    "sha": "2f1c031898391213a187cbb782b8747911c53aa0"
+  },
+  "2": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 2,
+    "name": "Exodus",
+    "url": "https://api.getbible.net/v2/tyndale/2.json",
+    "sha": "ad8d6802c8c9644d230b87a5765c0640ed44e88d"
+  },
+  "3": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 3,
+    "name": "Leviticus",
+    "url": "https://api.getbible.net/v2/tyndale/3.json",
+    "sha": "7d2ef65d378dd98bb1ef4f90227833bd162feecd"
+  },
+  "4": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 4,
+    "name": "Numbers",
+    "url": "https://api.getbible.net/v2/tyndale/4.json",
+    "sha": "869769d9fdc9ca6579652fe276e3202a1e98a161"
+  },
+  "5": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 5,
+    "name": "Deuteronomy",
+    "url": "https://api.getbible.net/v2/tyndale/5.json",
+    "sha": "18ffcd06767cc44d6172b02096ada4c5b1908507"
+  },
+  "32": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 32,
+    "name": "Jonah",
+    "url": "https://api.getbible.net/v2/tyndale/32.json",
+    "sha": "02abdcd3b2f39634d07dd251358b61840ddaf1f3"
   },
   "40": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -17,11 +77,11 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 40,
     "name": "Matthew",
     "url": "https://api.getbible.net/v2/tyndale/40.json",
-    "sha": "c9a6f3b38b58b8cac9bb847b166cd4fedc67a964"
+    "sha": "5ad2ef684e8af0d22ecbc34c35e1f44fc60dedc1"
   },
   "41": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -29,11 +89,11 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 41,
     "name": "Mark",
     "url": "https://api.getbible.net/v2/tyndale/41.json",
-    "sha": "cf3364f8605e68df59f4c9756f57607a3c9c770d"
+    "sha": "3cd7e3fe6c70c31760b19d6fb9de6633059aa6ba"
   },
   "42": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -41,11 +101,11 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 42,
     "name": "Luke",
     "url": "https://api.getbible.net/v2/tyndale/42.json",
-    "sha": "fbdd9aa49036aa88ff269158a78eca44f4971415"
+    "sha": "2966da26b71bfdaadca3ea65444834c26be906ab"
   },
   "43": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -53,11 +113,11 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 43,
     "name": "John",
     "url": "https://api.getbible.net/v2/tyndale/43.json",
-    "sha": "6ff90b7080486a1318019d536abf6b42b69df59c"
+    "sha": "5de8c94ebf26703293eb07745a826126474b66f1"
   },
   "44": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -65,11 +125,11 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 44,
     "name": "Acts",
     "url": "https://api.getbible.net/v2/tyndale/44.json",
-    "sha": "4a35ab5610e944943f8cd71cf63f788bdafae50a"
+    "sha": "d3c826ede8f2612db12f85fbe3fcae7a644337fc"
   },
   "45": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -77,11 +137,11 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 45,
     "name": "Romans",
     "url": "https://api.getbible.net/v2/tyndale/45.json",
-    "sha": "0f190c64ff8f4e4e8846927ecb3adf4c88379145"
+    "sha": "54abb4ef1d5b1d67aa27505a961e1c5b035b8b4a"
   },
   "46": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -89,11 +149,143 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 46,
     "name": "1 Corinthians",
     "url": "https://api.getbible.net/v2/tyndale/46.json",
-    "sha": "b4b8ee1af3cad45013fbefb05a513bc673092cdc"
+    "sha": "00a5169722edd14f7a6475d677887fa71d97c858"
+  },
+  "47": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 47,
+    "name": "2 Corinthians",
+    "url": "https://api.getbible.net/v2/tyndale/47.json",
+    "sha": "07acbc956a67fc9d5ad658cfedce8c30033001d7"
+  },
+  "48": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 48,
+    "name": "Galatians",
+    "url": "https://api.getbible.net/v2/tyndale/48.json",
+    "sha": "3e315c6e347651ed5ccbb00aae226a77ed520933"
+  },
+  "49": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 49,
+    "name": "Ephesians",
+    "url": "https://api.getbible.net/v2/tyndale/49.json",
+    "sha": "6cf885c67daed145c54dc56773f9ed3eaf9d5c34"
+  },
+  "50": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 50,
+    "name": "Philippians",
+    "url": "https://api.getbible.net/v2/tyndale/50.json",
+    "sha": "bea0bf2807e2989a5ec29ef77aa1ced6c6fe6ac5"
+  },
+  "51": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 51,
+    "name": "Colossians",
+    "url": "https://api.getbible.net/v2/tyndale/51.json",
+    "sha": "e56d5967ad1fbe2397f13661afa09e2dc0db16d0"
+  },
+  "52": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 52,
+    "name": "1 Thessalonians",
+    "url": "https://api.getbible.net/v2/tyndale/52.json",
+    "sha": "690a5fd444e69592bc0fa6928f089307fdb6ac4c"
+  },
+  "53": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 53,
+    "name": "2 Thessalonians",
+    "url": "https://api.getbible.net/v2/tyndale/53.json",
+    "sha": "b96ef07c28cc2f0702ff79aa414dcc3f53a9a888"
+  },
+  "54": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 54,
+    "name": "1 Timothy",
+    "url": "https://api.getbible.net/v2/tyndale/54.json",
+    "sha": "371374139ddae73844ff58a4fdd33a044cfe94bd"
+  },
+  "55": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 55,
+    "name": "2 Timothy",
+    "url": "https://api.getbible.net/v2/tyndale/55.json",
+    "sha": "f240dc75347e2f0bed638ce8271adfb4ca58c0dd"
+  },
+  "56": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 56,
+    "name": "Titus",
+    "url": "https://api.getbible.net/v2/tyndale/56.json",
+    "sha": "c82477292322a5d2a9781114087ae3b7da06340b"
+  },
+  "57": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 57,
+    "name": "Philemon",
+    "url": "https://api.getbible.net/v2/tyndale/57.json",
+    "sha": "83ac40c8fee66ea7a7fd70adb7df7ef9fc73d4e7"
   },
   "58": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -101,11 +293,95 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 58,
     "name": "Hebrews",
     "url": "https://api.getbible.net/v2/tyndale/58.json",
-    "sha": "cc21bd340599da714fd8896578bd2efdfde24e66"
+    "sha": "704075d89e95485d8dbd99c1ae05246dce3435b1"
+  },
+  "59": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 59,
+    "name": "James",
+    "url": "https://api.getbible.net/v2/tyndale/59.json",
+    "sha": "d2d430e22b69ab76aa26bf2c6ffbde40a330d056"
+  },
+  "60": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 60,
+    "name": "1 Peter",
+    "url": "https://api.getbible.net/v2/tyndale/60.json",
+    "sha": "3ea2d596a53f795950fc77119a735c205d007c49"
+  },
+  "61": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 61,
+    "name": "2 Peter",
+    "url": "https://api.getbible.net/v2/tyndale/61.json",
+    "sha": "ee03229ffe81a417b52e1969eb829b1094ff7aba"
+  },
+  "62": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 62,
+    "name": "1 John",
+    "url": "https://api.getbible.net/v2/tyndale/62.json",
+    "sha": "e8266dbc92ef38618b8a865a548a71609b292888"
+  },
+  "63": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 63,
+    "name": "2 John",
+    "url": "https://api.getbible.net/v2/tyndale/63.json",
+    "sha": "200063f7054cc382030ccebf030bd8c7d63fd83c"
+  },
+  "64": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 64,
+    "name": "3 John",
+    "url": "https://api.getbible.net/v2/tyndale/64.json",
+    "sha": "de630fc9c65a89a90b46c2888e3a9db11cbfeaa7"
+  },
+  "65": {
+    "translation": "William Tyndale Bible (1525/1530)",
+    "abbreviation": "tyndale",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 65,
+    "name": "Jude",
+    "url": "https://api.getbible.net/v2/tyndale/65.json",
+    "sha": "fc929b8280068148bdd64cc762d0c9ea91dfc221"
   },
   "66": {
     "translation": "William Tyndale Bible (1525/1530)",
@@ -113,10 +389,10 @@
     "lang": "en",
     "language": "English",
     "direction": "LTR",
-    "encoding": "",
+    "encoding": "UTF-8",
     "nr": 66,
     "name": "Revelation of John",
     "url": "https://api.getbible.net/v2/tyndale/66.json",
-    "sha": "8c97485e10e142f4ad92b66baf900a26e1e749e2"
+    "sha": "a736e2ee89403f090ec06e1db1eb5b4dc9728e1d"
   }
 }
