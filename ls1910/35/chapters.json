@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Habacuc 1",
     "url": "https://api.getbible.net/v2/ls1910/35/1.json",
-    "sha": "36a638e0550001166294411cbbd33d3ef52a8aa0"
+    "sha": "7c29d0b968b37f4a1104a5b4cb1a3939e0f41971"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Habacuc 2",
     "url": "https://api.getbible.net/v2/ls1910/35/2.json",
-    "sha": "0edff549a0e1e997b7ef4a8344cc16aa55a28369"
+    "sha": "19fa8d53218066af26e51bfd7ac53e76ac1e3cb3"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Habacuc 3",
     "url": "https://api.getbible.net/v2/ls1910/35/3.json",
-    "sha": "b6182da373c7014e828b977525a4692b06102ef8"
+    "sha": "2bc03159660d7ff8dc471945ca31c3a193db03c5"
   }
 }

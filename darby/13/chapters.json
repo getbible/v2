@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "1 Chroniques 8",
     "url": "https://api.getbible.net/v2/darby/13/8.json",
-    "sha": "482b64c7c22d55701aaa9f87f15779706f2177e2"
+    "sha": "ec320f4ea6b4ec97e3781558f4ee62b879d80889"
   },
   "9": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "1 Chroniques 12",
     "url": "https://api.getbible.net/v2/darby/13/12.json",
-    "sha": "08777e6adeb45e66e62127ae48b1294327b474ee"
+    "sha": "d0850cd34dfccfee3701c726f097c5f82e3e513e"
   },
   "13": {
     "translation": "Darby",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "1 Chroniques 13",
     "url": "https://api.getbible.net/v2/darby/13/13.json",
-    "sha": "1f4e794e30afadb59936846c0fa963eba8f2ef00"
+    "sha": "d88a83ae3d99b010f2dea57af4071847771d1b39"
   },
   "14": {
     "translation": "Darby",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "1 Chroniques 14",
     "url": "https://api.getbible.net/v2/darby/13/14.json",
-    "sha": "67d95d4d789c4a807357b5b8ac3d0d76f3fa71c7"
+    "sha": "338e4e5da766e296403a1fb14cba12479ffb0adc"
   },
   "15": {
     "translation": "Darby",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "1 Chroniques 16",
     "url": "https://api.getbible.net/v2/darby/13/16.json",
-    "sha": "9be01e3a69b777ae8d872fcb3a5bddfb0b195e50"
+    "sha": "5ad3b35ea70eec72712871a36cee8bb9dd368e6a"
   },
   "17": {
     "translation": "Darby",
@@ -403,6 +403,6 @@
     "chapter": 29,
     "name": "1 Chroniques 29",
     "url": "https://api.getbible.net/v2/darby/13/29.json",
-    "sha": "10ab051b5a38ab8103a9d8b55a25f5b672512b2d"
+    "sha": "88431ceb37a996d32a26351e18e7b03f96234a4b"
   }
 }

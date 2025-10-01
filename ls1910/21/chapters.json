@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ecclésiaste 1",
     "url": "https://api.getbible.net/v2/ls1910/21/1.json",
-    "sha": "e29d688a398aba3d4fdf09bfb6e14bc3131d2788"
+    "sha": "3ff0fd54d93e1dd22f5b038838399a23dfb06a86"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ecclésiaste 2",
     "url": "https://api.getbible.net/v2/ls1910/21/2.json",
-    "sha": "d35badf0a3f1cb6db9a7cffa2c7b66f909422f33"
+    "sha": "dfdaa91c350735cc86a63e3cfd91cda54d500d4c"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ecclésiaste 3",
     "url": "https://api.getbible.net/v2/ls1910/21/3.json",
-    "sha": "68f244eff40591d5ef52e3f85f460f19cd3a94c4"
+    "sha": "e59c0e697cb4275c0481ef909cf3a9569a4e9bf6"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ecclésiaste 4",
     "url": "https://api.getbible.net/v2/ls1910/21/4.json",
-    "sha": "951e05cd0e350a65feffa30742626cb5e62634b2"
+    "sha": "ff773639ea423b9c8319384ef65f997c81a3f915"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ecclésiaste 5",
     "url": "https://api.getbible.net/v2/ls1910/21/5.json",
-    "sha": "b81c8b8f5c6c7af87ebb68874427099063ef533c"
+    "sha": "7f54af00a2d9db6fc6ee5ade633fc3a885b6639d"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Ecclésiaste 6",
     "url": "https://api.getbible.net/v2/ls1910/21/6.json",
-    "sha": "e597c04b8bd36094e92df033051f71fa8220e36c"
+    "sha": "0e78ab0aa6d49497e03cea0a3d8042b4e23499d2"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Ecclésiaste 7",
     "url": "https://api.getbible.net/v2/ls1910/21/7.json",
-    "sha": "9f97bce369981a6a85edf8c0603e9be9a220ab1c"
+    "sha": "fc3e01da4e62c9e3a265936ae23967a71224a80e"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Ecclésiaste 8",
     "url": "https://api.getbible.net/v2/ls1910/21/8.json",
-    "sha": "576ece64fc5cfa53511767a3341cf453683ad35d"
+    "sha": "a709866b904c04185987f9194a2777f6c0ba7c0f"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Ecclésiaste 9",
     "url": "https://api.getbible.net/v2/ls1910/21/9.json",
-    "sha": "de1818b4a2c9afa8d2edad89b73ea60328c7f1c9"
+    "sha": "8140f2e7f63c81f3ae738bfa2ff2c1e09170a539"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Ecclésiaste 10",
     "url": "https://api.getbible.net/v2/ls1910/21/10.json",
-    "sha": "6975ab18dabf93651b8a476d8fe4e5486bde25e2"
+    "sha": "6d7af1f5f1a88b4d6e608ad639972f16d4f44e4b"
   },
   "11": {
     "translation": "Louis Segond (1910)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Ecclésiaste 11",
     "url": "https://api.getbible.net/v2/ls1910/21/11.json",
-    "sha": "4a3dc526f8875a19e55fe66bf06f3551e81d4005"
+    "sha": "206853507c867503f348fa01a1ed13556a70b70e"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -165,6 +165,6 @@
     "chapter": 12,
     "name": "Ecclésiaste 12",
     "url": "https://api.getbible.net/v2/ls1910/21/12.json",
-    "sha": "e4cc3a9edef78c193b59bb99a6fbfdb60b7b5cb3"
+    "sha": "7bfecf8b8938d41f96e4065de8d7a5236f6c949d"
   }
 }

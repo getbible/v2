@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Amos 1",
     "url": "https://api.getbible.net/v2/ls1910/30/1.json",
-    "sha": "c2856fb89fad7e830dc9b0a44b2ce62ebcbbef80"
+    "sha": "2233d2b8b3f92eb26f8bed1a23e2707aea09b411"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Amos 2",
     "url": "https://api.getbible.net/v2/ls1910/30/2.json",
-    "sha": "968bd2cd2d80f85256db76a627d387fa907b0f6c"
+    "sha": "9be8eb582cde969e738c2f5b012d7c5434d23049"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Amos 3",
     "url": "https://api.getbible.net/v2/ls1910/30/3.json",
-    "sha": "0c522de11fedc4461c497172a54f35f062f92934"
+    "sha": "fe266e74ee45a59f0f678d30afd95a620e6208c3"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Amos 4",
     "url": "https://api.getbible.net/v2/ls1910/30/4.json",
-    "sha": "d650f9f636a4452522d2fb6a2749f6b386a5daf2"
+    "sha": "44c247b678432fa98de820e261ab0147404e0e74"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Amos 5",
     "url": "https://api.getbible.net/v2/ls1910/30/5.json",
-    "sha": "e5daf1fe8f52b1db95140d788f16a64a0fbebaea"
+    "sha": "b53991be7bc299edf2ac65fba4610aafc8689a56"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Amos 6",
     "url": "https://api.getbible.net/v2/ls1910/30/6.json",
-    "sha": "41b7011f5c0c3e10bb4f2fca7e4e8815b5ade8c5"
+    "sha": "149651a7e3199eb081fa19d355697767251a7567"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Amos 7",
     "url": "https://api.getbible.net/v2/ls1910/30/7.json",
-    "sha": "b8f2e62e191d80e4a53e39d2d2db592e96dd0a44"
+    "sha": "f25a199d40bd6f5aed0cda2d8b02e88b2a2b7926"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Amos 8",
     "url": "https://api.getbible.net/v2/ls1910/30/8.json",
-    "sha": "18bbc1fb87b5fbe4e290f2767e59f48d24806a66"
+    "sha": "bd383490231b9850bf9545128c4781b198c7bd19"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -123,6 +123,6 @@
     "chapter": 9,
     "name": "Amos 9",
     "url": "https://api.getbible.net/v2/ls1910/30/9.json",
-    "sha": "46e150b2726679da31667e6d273f88fec05c5430"
+    "sha": "e33c521a7a582346c73f7153643b19e0cef6354d"
   }
 }

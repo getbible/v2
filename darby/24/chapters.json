@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Jérémie 3",
     "url": "https://api.getbible.net/v2/darby/24/3.json",
-    "sha": "74f64a56f3483cc5fadcf2d8abe2b2796f2593a6"
+    "sha": "b8f96bcc4ac5efbbad651fc0c3b3a56c80bb982f"
   },
   "4": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Jérémie 6",
     "url": "https://api.getbible.net/v2/darby/24/6.json",
-    "sha": "b4b90de40e2014f0aa9cb4709a8236d6226a607b"
+    "sha": "c3298157871ee1f69b282e30eb50c9663a50811f"
   },
   "7": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Jérémie 9",
     "url": "https://api.getbible.net/v2/darby/24/9.json",
-    "sha": "db600338949d66a59e70fad173cfd2442bf11696"
+    "sha": "e63840771369e15fb79b3e99b064d9e8c981c526"
   },
   "10": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Jérémie 12",
     "url": "https://api.getbible.net/v2/darby/24/12.json",
-    "sha": "6fa6a9de2ddc59beebad03ca661796cfc1731a11"
+    "sha": "e6c3c8114b995786f38bb8a3c66568dd0b8639d7"
   },
   "13": {
     "translation": "Darby",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Jérémie 15",
     "url": "https://api.getbible.net/v2/darby/24/15.json",
-    "sha": "dc719325fca84b1f36581aafefa4b7c7294f06f7"
+    "sha": "c1ea5be2e0e5e90fc1bf3babfff3e0382949bf61"
   },
   "16": {
     "translation": "Darby",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Jérémie 17",
     "url": "https://api.getbible.net/v2/darby/24/17.json",
-    "sha": "b13a474f9826b8e449d8ef1f44a40cec92600f68"
+    "sha": "c1ad356194d24aa3ec2c84455873e024282aece2"
   },
   "18": {
     "translation": "Darby",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Jérémie 18",
     "url": "https://api.getbible.net/v2/darby/24/18.json",
-    "sha": "323c5533563e47a95d00c753fa9e8464de00e5d8"
+    "sha": "163ad9a27aab41f1a123df2164e36a1e7a47a311"
   },
   "19": {
     "translation": "Darby",
@@ -375,7 +375,7 @@
     "chapter": 27,
     "name": "Jérémie 27",
     "url": "https://api.getbible.net/v2/darby/24/27.json",
-    "sha": "5f50b58249c54491f521a649b0da984acae3f5a9"
+    "sha": "7d0677e13e218f68963eb14d31fc39c47c8a5daf"
   },
   "28": {
     "translation": "Darby",
@@ -431,7 +431,7 @@
     "chapter": 31,
     "name": "Jérémie 31",
     "url": "https://api.getbible.net/v2/darby/24/31.json",
-    "sha": "341daffc7401a8fc5a791e6d373ab09565585f10"
+    "sha": "d27d36f5bc657e4f749628466b106caa28a89e07"
   },
   "32": {
     "translation": "Darby",
@@ -515,7 +515,7 @@
     "chapter": 37,
     "name": "Jérémie 37",
     "url": "https://api.getbible.net/v2/darby/24/37.json",
-    "sha": "816c6de76ec03fe4f29bceeca18c8b66b068cbfb"
+    "sha": "e5f3572b72cdf7e48d6d5711249ff402f9cd1400"
   },
   "38": {
     "translation": "Darby",
@@ -529,7 +529,7 @@
     "chapter": 38,
     "name": "Jérémie 38",
     "url": "https://api.getbible.net/v2/darby/24/38.json",
-    "sha": "f96e242640b6cc6f8aeafbdb5a236a1a4ba958c8"
+    "sha": "0c401b36d53aa6a466dec8f0c25be01aeddcb965"
   },
   "39": {
     "translation": "Darby",
@@ -571,7 +571,7 @@
     "chapter": 41,
     "name": "Jérémie 41",
     "url": "https://api.getbible.net/v2/darby/24/41.json",
-    "sha": "164d160a3ad59f1c68998bf721c9931ddd8dab6e"
+    "sha": "9db1654a5444581b678f0814ad73d2bd84ac0cec"
   },
   "42": {
     "translation": "Darby",
@@ -669,7 +669,7 @@
     "chapter": 48,
     "name": "Jérémie 48",
     "url": "https://api.getbible.net/v2/darby/24/48.json",
-    "sha": "05a48ad62777d2b2a6db566329bd9dcbeed8c5ad"
+    "sha": "e49eb283ec08931d5a65f31c70b98d6bf1a2a5a6"
   },
   "49": {
     "translation": "Darby",
@@ -725,6 +725,6 @@
     "chapter": 52,
     "name": "Jérémie 52",
     "url": "https://api.getbible.net/v2/darby/24/52.json",
-    "sha": "02ea01c04e3ebaebb62eefdbe5d0da541f134045"
+    "sha": "c5ac46eb7bc13eade6f841ac5b4e7ce0f03c833a"
   }
 }

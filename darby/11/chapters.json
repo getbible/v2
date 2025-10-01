@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "1 Rois 6",
     "url": "https://api.getbible.net/v2/darby/11/6.json",
-    "sha": "3698e4d9582bd947c05be1038078022c052d0237"
+    "sha": "b6f68ef7b6a991acccf9edbcf9ed0437d61b9d48"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "1 Rois 7",
     "url": "https://api.getbible.net/v2/darby/11/7.json",
-    "sha": "1933b0036e8793798d472872dc8942808c6bf103"
+    "sha": "c9d1527b51195a895087f997492913896b935423"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "1 Rois 8",
     "url": "https://api.getbible.net/v2/darby/11/8.json",
-    "sha": "f760a4f34df32d554a725219332f3aaa58fa3d4a"
+    "sha": "2f38f502305b64d3d9c24d2b40a2c8e378c542b0"
   },
   "9": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "1 Rois 12",
     "url": "https://api.getbible.net/v2/darby/11/12.json",
-    "sha": "f6f28296d8c13dce4de9828f074d636b3f7f5353"
+    "sha": "51996f328196cebb7f8464b63746acf2e04e72b9"
   },
   "13": {
     "translation": "Darby",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "1 Rois 18",
     "url": "https://api.getbible.net/v2/darby/11/18.json",
-    "sha": "88bb30c91f02f1c8e69469ca08edd81ca8f868e0"
+    "sha": "377eba9b38c173be139ab9882921149776d941e3"
   },
   "19": {
     "translation": "Darby",
@@ -305,6 +305,6 @@
     "chapter": 22,
     "name": "1 Rois 22",
     "url": "https://api.getbible.net/v2/darby/11/22.json",
-    "sha": "6bd2ad1a3620415bc063fb4e1a42dd2de70b9ad0"
+    "sha": "808800e2d223e457c51092f9a8279b98d3d6abc0"
   }
 }

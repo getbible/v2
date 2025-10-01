@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Sophonie 1",
     "url": "https://api.getbible.net/v2/ls1910/36/1.json",
-    "sha": "4e384e2b706ca79b6fa64ae0b470769cdd279cff"
+    "sha": "6c7ffe9d6380c4f32f0fe99c5d840cb26fa72b35"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Sophonie 2",
     "url": "https://api.getbible.net/v2/ls1910/36/2.json",
-    "sha": "9dca1af71603c85aaa2af3fcac999ee03c3dcb7a"
+    "sha": "122c3d5cbded92cc1c9f5b9aeacb7ad43a34fc28"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Sophonie 3",
     "url": "https://api.getbible.net/v2/ls1910/36/3.json",
-    "sha": "e85736c8100d88effbe867cadc44dea794b0a2c5"
+    "sha": "14371924ed390275ef60ef22a2a3025b72a70647"
   }
 }

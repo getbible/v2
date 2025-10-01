@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Jean 2",
     "url": "https://api.getbible.net/v2/darby/62/2.json",
-    "sha": "4367f4c37d46e775f51c292554c7f9d2e6ad00ac"
+    "sha": "645923c7a00d57c7f5a30394b69b2532bfbc4740"
   },
   "3": {
     "translation": "Darby",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Jean 4",
     "url": "https://api.getbible.net/v2/darby/62/4.json",
-    "sha": "cd1aa531b8c01d906911100acd9237fd5636022f"
+    "sha": "fba1abe031d5137a921a6e70f6b86722456d429e"
   },
   "5": {
     "translation": "Darby",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Jean 5",
     "url": "https://api.getbible.net/v2/darby/62/5.json",
-    "sha": "910b62ef7272e3b4204128f297b637e8d2012b0a"
+    "sha": "55f9d72fb84b9b66933a915d7ca2dc8ae0fd5507"
   }
 }

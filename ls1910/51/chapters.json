@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Colossiens 1",
     "url": "https://api.getbible.net/v2/ls1910/51/1.json",
-    "sha": "9b76e4b8be8c3f9c1bc403ae2d37b75ad5a53e2c"
+    "sha": "d5d8f71684500962e67111b15af240c5951e4a9e"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Colossiens 2",
     "url": "https://api.getbible.net/v2/ls1910/51/2.json",
-    "sha": "80ae383a3cb2a81ad07d63cb966895c535d5aaeb"
+    "sha": "949b7af8717a0f75e9ca441f994c8b467d00d29d"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Colossiens 3",
     "url": "https://api.getbible.net/v2/ls1910/51/3.json",
-    "sha": "962325bc210baea0555f2d56e80c8bb486281559"
+    "sha": "3fe7971737bdca9fa759fd162d7ebd7c71d4cad6"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Colossiens 4",
     "url": "https://api.getbible.net/v2/ls1910/51/4.json",
-    "sha": "effbb801c222aaf62de589834f4ae5a008165b6e"
+    "sha": "8340d1ac34f9d821336ae9db3bb944aa75c2e175"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Malachie 1",
     "url": "https://api.getbible.net/v2/ls1910/39/1.json",
-    "sha": "8a202d3574d1625d429f5d265ce1c28ef4bb74d4"
+    "sha": "7e033461283eab7712c5a6b9f1db84253a8a2d82"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Malachie 2",
     "url": "https://api.getbible.net/v2/ls1910/39/2.json",
-    "sha": "3ba6b3fd05f3862058c485e928450a08c4f038ae"
+    "sha": "42b6ec2fb84634dc4df0fbfea2be32ad6b5cfd14"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Malachie 3",
     "url": "https://api.getbible.net/v2/ls1910/39/3.json",
-    "sha": "75776d4a76509440ee8e08cdced0a021fc47ae06"
+    "sha": "cd3ccef2b78d8c42c10d7d380864c2e960aa9bda"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Malachie 4",
     "url": "https://api.getbible.net/v2/ls1910/39/4.json",
-    "sha": "730dfe2e91dc83702c5d465965db4935d928313b"
+    "sha": "12d3e1c1f20afd11bb2e54f68d0ffcdc4cd22f6e"
   }
 }

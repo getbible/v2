@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Galates 1",
     "url": "https://api.getbible.net/v2/darby/48/1.json",
-    "sha": "76e31e7435f32f9ece00d4eec691fe7d099622cb"
+    "sha": "626da4d924f2579aeb6be71cb7bd615565756153"
   },
   "2": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Galates 3",
     "url": "https://api.getbible.net/v2/darby/48/3.json",
-    "sha": "ed869a26761288a2518b30dcbb48f81abfff6088"
+    "sha": "b4070a20df1722c64662b0258fcfbf0ad14f1f91"
   },
   "4": {
     "translation": "Darby",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galates 6",
     "url": "https://api.getbible.net/v2/darby/48/6.json",
-    "sha": "5d5b90abe8b8090f6448096bc28e6a23dc887dd9"
+    "sha": "2ab6c230e166a7f1b37bca09d530a2583c4559cf"
   }
 }

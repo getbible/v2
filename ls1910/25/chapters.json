@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Lamentations 1",
     "url": "https://api.getbible.net/v2/ls1910/25/1.json",
-    "sha": "0678970c32391f066c54186be027a0dd08fb239c"
+    "sha": "5c06e6a456cc2058459fdc59520dd5f875005948"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Lamentations 2",
     "url": "https://api.getbible.net/v2/ls1910/25/2.json",
-    "sha": "c129f14243f0dc53f23dabca92dc582e2d99cf0d"
+    "sha": "07eb4f61e5f32d44382aedd5c6a3e0666fcbc06f"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Lamentations 3",
     "url": "https://api.getbible.net/v2/ls1910/25/3.json",
-    "sha": "f01cb26f03f341ec6d9e7a9045ac6603175c92c6"
+    "sha": "e98d9794ebd5fd9830e4e25a50197f9776ad336e"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Lamentations 4",
     "url": "https://api.getbible.net/v2/ls1910/25/4.json",
-    "sha": "136a9c8eea0e3167d09111a11cf2f9186b4b18ef"
+    "sha": "8c95b2778ea7d08778970e1e321183fd2f80d54a"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "Lamentations 5",
     "url": "https://api.getbible.net/v2/ls1910/25/5.json",
-    "sha": "b6a852f79351c53c281d3c0485d8ecd5f3de56e3"
+    "sha": "c7166c83cff3683db23fe9abfc69a06f8ec5d846"
   }
 }

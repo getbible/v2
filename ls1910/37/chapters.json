@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Aggée 1",
     "url": "https://api.getbible.net/v2/ls1910/37/1.json",
-    "sha": "271fcb169121991ef33e072d73fa66e611839d69"
+    "sha": "43421e06a55c54f7e6aaa42283ba4584acdcb6e4"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,6 +25,6 @@
     "chapter": 2,
     "name": "Aggée 2",
     "url": "https://api.getbible.net/v2/ls1910/37/2.json",
-    "sha": "922fc46f19854330d940043051d613d7263403e7"
+    "sha": "4fb75c077dd9444bf2a5ecbecc14ce92bc5844ed"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Nahum 1",
     "url": "https://api.getbible.net/v2/ls1910/34/1.json",
-    "sha": "880ec75de9ef6f0513c4a2782c46a56fb2c567b2"
+    "sha": "a64781225d849f2db048aa86f53b0b6d34a2f990"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Nahum 2",
     "url": "https://api.getbible.net/v2/ls1910/34/2.json",
-    "sha": "d9d4436fe10643a4af996cddbdb07e2bb48e5dc2"
+    "sha": "55d6c34127d1fd7ee506b7a927e6d86d2770414e"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Nahum 3",
     "url": "https://api.getbible.net/v2/ls1910/34/3.json",
-    "sha": "b2243deb52c3e07aa7c91e1471f00d9452947812"
+    "sha": "7be9a035961d085158a15acb8ec6a8f8990d5e68"
   }
 }

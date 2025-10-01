@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Ézéchiel 10",
     "url": "https://api.getbible.net/v2/darby/26/10.json",
-    "sha": "f2f380f6e86ce04e21c1ff67a29c65c6fe500beb"
+    "sha": "86b61f7f03892936261f2ecf31601d210cd527c1"
   },
   "11": {
     "translation": "Darby",
@@ -529,7 +529,7 @@
     "chapter": 38,
     "name": "Ézéchiel 38",
     "url": "https://api.getbible.net/v2/darby/26/38.json",
-    "sha": "696a7a010673457926d42082f9c3471f7f02456b"
+    "sha": "877f35802f8339f0487f0093dae3e42689fdbd1b"
   },
   "39": {
     "translation": "Darby",
@@ -599,7 +599,7 @@
     "chapter": 43,
     "name": "Ézéchiel 43",
     "url": "https://api.getbible.net/v2/darby/26/43.json",
-    "sha": "9e86368f5f772ce22c044e89b500695c534655a9"
+    "sha": "186ee7e723af22d2a292df1384f37a4de64d1add"
   },
   "44": {
     "translation": "Darby",
@@ -627,7 +627,7 @@
     "chapter": 45,
     "name": "Ézéchiel 45",
     "url": "https://api.getbible.net/v2/darby/26/45.json",
-    "sha": "6e94866b69df5bf0d78938a7427825faf135d5fe"
+    "sha": "eae41a3837c7b7e70e92a2537c982512702b1486"
   },
   "46": {
     "translation": "Darby",
@@ -641,7 +641,7 @@
     "chapter": 46,
     "name": "Ézéchiel 46",
     "url": "https://api.getbible.net/v2/darby/26/46.json",
-    "sha": "f24f7d3d9b3e0fb694b1d8a1e652c730c4d03636"
+    "sha": "7da2d4ef5db35408faa91ceb53d32e9416d5e9fb"
   },
   "47": {
     "translation": "Darby",
@@ -655,7 +655,7 @@
     "chapter": 47,
     "name": "Ézéchiel 47",
     "url": "https://api.getbible.net/v2/darby/26/47.json",
-    "sha": "5482e333d591bbef3092f0206eef3ca1c1c3762d"
+    "sha": "c9aaf1d00265b25421df62c66f3c8c63d0ccaf4a"
   },
   "48": {
     "translation": "Darby",
@@ -669,6 +669,6 @@
     "chapter": 48,
     "name": "Ézéchiel 48",
     "url": "https://api.getbible.net/v2/darby/26/48.json",
-    "sha": "61524a4be631122c76afbcd0b8f0fac035039948"
+    "sha": "58b2159270bf96d4a9a26c9109a200045fdb7469"
   }
 }

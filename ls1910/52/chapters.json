@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Thessaloniciens 1",
     "url": "https://api.getbible.net/v2/ls1910/52/1.json",
-    "sha": "86003abe030ea904aa86031f96918db84d0e2cc4"
+    "sha": "de49bdfc4a1d9130d5b0517a00928c56309ae820"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Thessaloniciens 2",
     "url": "https://api.getbible.net/v2/ls1910/52/2.json",
-    "sha": "5cae55779a2506e219735672e8419a9500dc968d"
+    "sha": "0255e2ec2b6acd38fab31a5c25ac1efaa803054b"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Thessaloniciens 3",
     "url": "https://api.getbible.net/v2/ls1910/52/3.json",
-    "sha": "1743353d6ca6d4191360d1ead737b200ca83ccda"
+    "sha": "a1a16a20b7ab2f3e770e04ecbe3213b3a2e22a94"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Thessaloniciens 4",
     "url": "https://api.getbible.net/v2/ls1910/52/4.json",
-    "sha": "ace282e4b621bc87383c543c34af01a3fe0b94a4"
+    "sha": "af07f4cf46cfe6e23d321d746da34a2153d1631d"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Thessaloniciens 5",
     "url": "https://api.getbible.net/v2/ls1910/52/5.json",
-    "sha": "db5681e1ebafda93398600550cc760fe55d33951"
+    "sha": "c46fdadf1de2bdb21f68af1a374cb549fd41ea25"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Joël 1",
     "url": "https://api.getbible.net/v2/ls1910/29/1.json",
-    "sha": "190c5b1761d79b215b6ef1726ebceab4db6aa35d"
+    "sha": "6952082cd4d92db67b4346d76cfc567568d9573c"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Joël 2",
     "url": "https://api.getbible.net/v2/ls1910/29/2.json",
-    "sha": "fe2df672dd377bcf108fc143bdafe4f59303a447"
+    "sha": "c26dfd0740ee9cf213a7cabadc18ffd306e08bf3"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Joël 3",
     "url": "https://api.getbible.net/v2/ls1910/29/3.json",
-    "sha": "e93665d5d42e98582faa757990f7945278ab85b6"
+    "sha": "30eb6ecb253af41786c5606005f8ffdf9063547e"
   }
 }

@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Rois 2",
     "url": "https://api.getbible.net/v2/darby/12/2.json",
-    "sha": "9607f50cdee8dbd08d97a0bcea0d6843f72a2cc3"
+    "sha": "fb490523111d10a44580519e224ee56ad2516670"
   },
   "3": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "2 Rois 5",
     "url": "https://api.getbible.net/v2/darby/12/5.json",
-    "sha": "81fbe300a43366dbc770d0d553f281311910fe89"
+    "sha": "0199b5b465eec75b0e23c605b5feed1c13bae011"
   },
   "6": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "2 Rois 9",
     "url": "https://api.getbible.net/v2/darby/12/9.json",
-    "sha": "def5ca6388da0649659af67717cb53c0bdb92715"
+    "sha": "8871b59ed68988ef665b02951a454b827e2e769d"
   },
   "10": {
     "translation": "Darby",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "2 Rois 10",
     "url": "https://api.getbible.net/v2/darby/12/10.json",
-    "sha": "603d9015f02c23c7ea72bd0f61af5e3f12d987c8"
+    "sha": "fa03610d867ddf40b545cf43f0a0398abb36a575"
   },
   "11": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "2 Rois 12",
     "url": "https://api.getbible.net/v2/darby/12/12.json",
-    "sha": "84a782b83ea26450d594a967a37dc9dbd7878e13"
+    "sha": "5a12987482e4ef421875714b76b5bd6dc9fa9ce2"
   },
   "13": {
     "translation": "Darby",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "2 Rois 15",
     "url": "https://api.getbible.net/v2/darby/12/15.json",
-    "sha": "0f6923a109401bd2106777f9af30620d83d43481"
+    "sha": "8ec815293663c084b97bdf5254465740b1b67461"
   },
   "16": {
     "translation": "Darby",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "2 Rois 17",
     "url": "https://api.getbible.net/v2/darby/12/17.json",
-    "sha": "e6b365a246959259592f599f6cf02c000baa7db7"
+    "sha": "d32f358d0a18ecc8945efb0956a6550f04ed3b9e"
   },
   "18": {
     "translation": "Darby",
@@ -347,6 +347,6 @@
     "chapter": 25,
     "name": "2 Rois 25",
     "url": "https://api.getbible.net/v2/darby/12/25.json",
-    "sha": "db557823af916a92e219cbf033e71229e994c47e"
+    "sha": "a01dfb61c591555d3d7365adaf58db71597f903e"
   }
 }

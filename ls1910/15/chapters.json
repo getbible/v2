@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Esdras 1",
     "url": "https://api.getbible.net/v2/ls1910/15/1.json",
-    "sha": "e6f33d08fdca5094db995c432590e4c1e026a783"
+    "sha": "7aaacb7bd2f39cce7864ed320c6fd6cd8655c182"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Esdras 2",
     "url": "https://api.getbible.net/v2/ls1910/15/2.json",
-    "sha": "aff1f416641a6df853ca3ee19112e97ba9a69702"
+    "sha": "bb3b3076e48797a43673f3fcd50e258e6d27f477"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Esdras 3",
     "url": "https://api.getbible.net/v2/ls1910/15/3.json",
-    "sha": "9e9d1004914c871988f0283e86e1f12ad8f35bac"
+    "sha": "a693b65604505ba286402e14fe57622bcd5cb376"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Esdras 4",
     "url": "https://api.getbible.net/v2/ls1910/15/4.json",
-    "sha": "2dd4e9adee73561427acbd1547a4a9827b4867f3"
+    "sha": "56bb4f64840406acc374bd5be19129ccfb7984fa"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Esdras 5",
     "url": "https://api.getbible.net/v2/ls1910/15/5.json",
-    "sha": "b437a5982a5c0ae4c2e1b1926e666e19ed6d8628"
+    "sha": "8a4c6e6283d6d48c3f2ec48187de9f5184e33cfe"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Esdras 6",
     "url": "https://api.getbible.net/v2/ls1910/15/6.json",
-    "sha": "ea904a6cbb4ec805e63097cd11283cf901017cbe"
+    "sha": "76ab49ae802781f5c994960cd570c9d775c14c6f"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Esdras 7",
     "url": "https://api.getbible.net/v2/ls1910/15/7.json",
-    "sha": "9b81e30587104127a5f98afda5a43a2b6563eb5a"
+    "sha": "6142483f98ab902aec4b349c305931b85bc904a0"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Esdras 8",
     "url": "https://api.getbible.net/v2/ls1910/15/8.json",
-    "sha": "ad3912338e27d2170350cc3b881eef89a2512ecb"
+    "sha": "7de9c564ddd62d1b1292f79e350fb0459f57fd66"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Esdras 9",
     "url": "https://api.getbible.net/v2/ls1910/15/9.json",
-    "sha": "c3cfac4371048e9512e363e57b7a1031c9595c8b"
+    "sha": "d3c84591e3fcb80582f14061c18be49f4912987f"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -137,6 +137,6 @@
     "chapter": 10,
     "name": "Esdras 10",
     "url": "https://api.getbible.net/v2/ls1910/15/10.json",
-    "sha": "cd11afc4b4459694226733546020be53e2344228"
+    "sha": "34fe15a2f0233248a87c5875bea487160e9fda6d"
   }
 }

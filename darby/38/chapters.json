@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Zacharie 3",
     "url": "https://api.getbible.net/v2/darby/38/3.json",
-    "sha": "572dfb31533066f68bda40475b37e8ca58a6a83c"
+    "sha": "45fe4d50fe1bb14048fc9529c01a88753fae06a6"
   },
   "4": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Zacharie 7",
     "url": "https://api.getbible.net/v2/darby/38/7.json",
-    "sha": "7c2fbf95473af27b125e23238da7c86e6a271ad1"
+    "sha": "f7af45ed70bbf11c58fcb53f13c9cfdf2faac791"
   },
   "8": {
     "translation": "Darby",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Zacharie 14",
     "url": "https://api.getbible.net/v2/darby/38/14.json",
-    "sha": "87d86ba949ee078ba612efcad9f6599332f34f09"
+    "sha": "a2d95e976952cbc26b5cf637d4100d1c982f2853"
   }
 }

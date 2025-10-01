@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Michée 1",
     "url": "https://api.getbible.net/v2/ls1910/33/1.json",
-    "sha": "1c8c23f89976f9e8842536f5a9d9341227e36080"
+    "sha": "9fc2edab6bf2068bd2d862b4be10896b96dc641c"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Michée 2",
     "url": "https://api.getbible.net/v2/ls1910/33/2.json",
-    "sha": "27060d3feb5d2e6d5e209e6bf613f77537b79cf4"
+    "sha": "ccd9d70528e5ee72798d229f69ace10fc254953a"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Michée 3",
     "url": "https://api.getbible.net/v2/ls1910/33/3.json",
-    "sha": "9d7a8ea487923d561c9b428e1d07ef09394abb08"
+    "sha": "be5f6faafa9e8461cbd434ea1a8d449a429d635d"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Michée 4",
     "url": "https://api.getbible.net/v2/ls1910/33/4.json",
-    "sha": "de52945f5609147e5840ed2cd358a63f43b3ae5f"
+    "sha": "b1f267e08797dbae1c6a69daae139ccd9b6fbbfe"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Michée 5",
     "url": "https://api.getbible.net/v2/ls1910/33/5.json",
-    "sha": "632bf8382cb5603e559cfe353bbf57796b620da2"
+    "sha": "682f69503f336dcc3953132812546312b6aa8100"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Michée 6",
     "url": "https://api.getbible.net/v2/ls1910/33/6.json",
-    "sha": "804025aaab0ddbb5c7618b349e8243f9477120b5"
+    "sha": "073114c2a0d0d818c255cadb8245e0083af6afdb"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -95,6 +95,6 @@
     "chapter": 7,
     "name": "Michée 7",
     "url": "https://api.getbible.net/v2/ls1910/33/7.json",
-    "sha": "5d9825eeeca1e88072a35723e587c529f670947e"
+    "sha": "1cbee40ba42abde58ee0a4f450cbd8ed57285bf5"
   }
 }

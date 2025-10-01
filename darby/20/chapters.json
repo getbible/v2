@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Proverbes 2",
     "url": "https://api.getbible.net/v2/darby/20/2.json",
-    "sha": "3b3d1c291524a624e9dbb0972c6bf0bc79a42abb"
+    "sha": "d8fc2c3b147fb9999b2278af4cd422a006a5f0f7"
   },
   "3": {
     "translation": "Darby",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "Proverbes 22",
     "url": "https://api.getbible.net/v2/darby/20/22.json",
-    "sha": "e0b04780e4734287de998ac67e82cce8e9b0d4b8"
+    "sha": "2f708573e1fc6f9f20a73dbb57d6f93dd27f08ce"
   },
   "23": {
     "translation": "Darby",
@@ -431,6 +431,6 @@
     "chapter": 31,
     "name": "Proverbes 31",
     "url": "https://api.getbible.net/v2/darby/20/31.json",
-    "sha": "e6b95ae35ef9922a3f1a761e713b9ca72ef42bad"
+    "sha": "4ea83ad7d9d752c07db11a96217a31558dd0acb8"
   }
 }

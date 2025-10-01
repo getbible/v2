@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Néhémie 1",
     "url": "https://api.getbible.net/v2/ls1910/16/1.json",
-    "sha": "5b21576968483b2eda8803ca2c04b7464c61fa7b"
+    "sha": "0189d8c7c76da2a28aa40f3e49c147c7544739c1"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Néhémie 2",
     "url": "https://api.getbible.net/v2/ls1910/16/2.json",
-    "sha": "6e155c629394098b45f526472e4c63a5fd40ab27"
+    "sha": "545b1a5591ef91547fb4b04c31fded8e61747ab9"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Néhémie 3",
     "url": "https://api.getbible.net/v2/ls1910/16/3.json",
-    "sha": "ea5851d771163203c12c80e69d9053d8e146745a"
+    "sha": "c96e8ca85c23e37c4b0bbe4d14c4e3db52aef2ac"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Néhémie 4",
     "url": "https://api.getbible.net/v2/ls1910/16/4.json",
-    "sha": "2cdb9e934449c7bd24839d5714c83b2eeea75a63"
+    "sha": "c26913ee5b38316bd6e3ab85420c349a663b3d40"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Néhémie 5",
     "url": "https://api.getbible.net/v2/ls1910/16/5.json",
-    "sha": "a1a81845d44334e8652f2313a3f0af0d6dfcc54c"
+    "sha": "67942cd4eafeea677e672e1fadff8a8755f56681"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Néhémie 6",
     "url": "https://api.getbible.net/v2/ls1910/16/6.json",
-    "sha": "ced423ac6f0247f0ea4f7713ca89c4416f599e09"
+    "sha": "e7df54488f86cf30663d8de0c50b219416d74ac6"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Néhémie 7",
     "url": "https://api.getbible.net/v2/ls1910/16/7.json",
-    "sha": "8efc581a50bbff88ad2f0e6f2cdf53da37e09aee"
+    "sha": "494955c38ae3a311e393818d08f165466a376d8f"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Néhémie 8",
     "url": "https://api.getbible.net/v2/ls1910/16/8.json",
-    "sha": "d2d50943049fa7cb918582aa97276d4580b4281d"
+    "sha": "b34b550bbc2468c3b1c9c44e448bcf67863b0f58"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Néhémie 9",
     "url": "https://api.getbible.net/v2/ls1910/16/9.json",
-    "sha": "f0642950a031dda5e4f363c15edf6a26557c6516"
+    "sha": "7f1bcc8e9008a9974cc1371efaa8bf3eb6a065a8"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Néhémie 10",
     "url": "https://api.getbible.net/v2/ls1910/16/10.json",
-    "sha": "7cf196aea86ae3e1cd198883fca50cddef671542"
+    "sha": "29538598e6fcd63b0c7f63c023a0236eb0e7eb10"
   },
   "11": {
     "translation": "Louis Segond (1910)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Néhémie 11",
     "url": "https://api.getbible.net/v2/ls1910/16/11.json",
-    "sha": "3a63c1ee41318a8c5c959ccc9603d22873b8d63b"
+    "sha": "76ca35e19c0ab287a63beddcb4b3f15be44d789c"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Néhémie 12",
     "url": "https://api.getbible.net/v2/ls1910/16/12.json",
-    "sha": "de72e5c186e2729a8ed83f5d86a5f24aae71b86c"
+    "sha": "64df6539f1297d1eb6647df9004c0d40c1b40627"
   },
   "13": {
     "translation": "Louis Segond (1910)",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Néhémie 13",
     "url": "https://api.getbible.net/v2/ls1910/16/13.json",
-    "sha": "e39eff063b9211fc3b0d033f69c4d29025611d79"
+    "sha": "d402f5fef3f8296333fb0590c4506bdebdf00a5b"
   }
 }
