@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Hébreux 1",
     "url": "https://api.getbible.net/v2/ls1910/58/1.json",
-    "sha": "5cb47dd82081c9ecae5bfb8c84b28db4e1909eda"
+    "sha": "8702eb522509721883412fbf2125a19ffb89a44d"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Hébreux 2",
     "url": "https://api.getbible.net/v2/ls1910/58/2.json",
-    "sha": "75a754ea3186407c0c9c05ac4c56411ae08ed234"
+    "sha": "ea1f707c63b597e2505974552d1e5e532b8897de"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Hébreux 6",
     "url": "https://api.getbible.net/v2/ls1910/58/6.json",
-    "sha": "e3e296bcbac72403ad05912ca5319b964284c4c4"
+    "sha": "1759a64d60648d66514c8a70150f4429c2407e47"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Hébreux 7",
     "url": "https://api.getbible.net/v2/ls1910/58/7.json",
-    "sha": "3ac06156a836dd652a66fb536e1fe90db948d2e5"
+    "sha": "7bba71d320ab8a13e31d120ae0c1a52ead983a2a"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Hébreux 8",
     "url": "https://api.getbible.net/v2/ls1910/58/8.json",
-    "sha": "7f49d9c16ea67a00ced6e0599752ad42c4b15157"
+    "sha": "b2d6d6de6928d42486a4beb5ce0563923feb97c8"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Hébreux 9",
     "url": "https://api.getbible.net/v2/ls1910/58/9.json",
-    "sha": "52bfca39af3fcf5b04fafd6017a89f643da83587"
+    "sha": "ea86eca1cb8c0f36fb35ad60e2ab1627aefd4784"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Hébreux 10",
     "url": "https://api.getbible.net/v2/ls1910/58/10.json",
-    "sha": "e42a1d6b43f73e948fe170c756520b575cc7cdc8"
+    "sha": "836777e1c6b66b596f8801ed568d1dad9f59b975"
   },
   "11": {
     "translation": "Louis Segond (1910)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Hébreux 11",
     "url": "https://api.getbible.net/v2/ls1910/58/11.json",
-    "sha": "43273578bf9d84c7d9140943d79f78b0bb8dc1f8"
+    "sha": "a64d2520ece0916ad7db60ac14ab44e39658cd85"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Hébreux 12",
     "url": "https://api.getbible.net/v2/ls1910/58/12.json",
-    "sha": "afb2e59de657fed257a2a1c457a51c98b7577a90"
+    "sha": "31ccdf5d29ca218db402d9b0a05ef69c00df8003"
   },
   "13": {
     "translation": "Louis Segond (1910)",
@@ -179,6 +179,6 @@
     "chapter": 13,
     "name": "Hébreux 13",
     "url": "https://api.getbible.net/v2/ls1910/58/13.json",
-    "sha": "134ea99941096fa845bbcf705066990ce9d6440f"
+    "sha": "4e4a4e0a76371eb824949e335c023369bdbe3996"
   }
 }

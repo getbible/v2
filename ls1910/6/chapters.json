@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Josué 2",
     "url": "https://api.getbible.net/v2/ls1910/6/2.json",
-    "sha": "868b4913671522dc865f963345f2846e05b377d7"
+    "sha": "62be65896323c7acb01f69aae2f65913aa167805"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Josué 3",
     "url": "https://api.getbible.net/v2/ls1910/6/3.json",
-    "sha": "2be720e7ce8120ee1148d97657f3603ed5400441"
+    "sha": "1cc1c61692f119a7bddf33fc16dd7759b9f55177"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Josué 4",
     "url": "https://api.getbible.net/v2/ls1910/6/4.json",
-    "sha": "955e5e7b4908c7600efa67be2554e9b102749818"
+    "sha": "63faff31fc3e864c7f59e6d0d392b3657cb1e744"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Josué 8",
     "url": "https://api.getbible.net/v2/ls1910/6/8.json",
-    "sha": "1a18693bc38e0eed711d0278f51b6bc73fc83651"
+    "sha": "b752b581212c6eb69abd471db86c60090e5ba04a"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Josué 11",
     "url": "https://api.getbible.net/v2/ls1910/6/11.json",
-    "sha": "51fbd6ddc76ef7ed197c34f9e1742a415bb70168"
+    "sha": "964d35fefa5ba9d6822694c379082051af04581a"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Josué 18",
     "url": "https://api.getbible.net/v2/ls1910/6/18.json",
-    "sha": "2a58effd7a42f691b518120bd0f49ce2be8a9245"
+    "sha": "2b59dbfa5c3c71861533d3dbc8f3c4e4b282eac8"
   },
   "19": {
     "translation": "Louis Segond (1910)",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Josué 19",
     "url": "https://api.getbible.net/v2/ls1910/6/19.json",
-    "sha": "4cc58bbafd726304b83add69dfb032ae88af6de2"
+    "sha": "5cdd4c90972fb23fe0539fa532744d10e846dff4"
   },
   "20": {
     "translation": "Louis Segond (1910)",
@@ -291,7 +291,7 @@
     "chapter": 21,
     "name": "Josué 21",
     "url": "https://api.getbible.net/v2/ls1910/6/21.json",
-    "sha": "9598533993902ebe3b44f17e7a948dea9eef7be4"
+    "sha": "ec0f2b03b3a0bdd3d20195de82c88ebf415c9867"
   },
   "22": {
     "translation": "Louis Segond (1910)",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "Josué 22",
     "url": "https://api.getbible.net/v2/ls1910/6/22.json",
-    "sha": "43ae1287a9039b1db8e3c7f9ac73aa416f22ac2e"
+    "sha": "587627a991dca1107a441e4913871c7c639df5f1"
   },
   "23": {
     "translation": "Louis Segond (1910)",
@@ -333,6 +333,6 @@
     "chapter": 24,
     "name": "Josué 24",
     "url": "https://api.getbible.net/v2/ls1910/6/24.json",
-    "sha": "7184f72f237586559be697d02b2628f67231bcab"
+    "sha": "2f6e2976c50f7e352764bf78a29318de28a717f3"
   }
 }

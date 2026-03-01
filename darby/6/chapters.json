@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Josué 8",
     "url": "https://api.getbible.net/v2/darby/6/8.json",
-    "sha": "b3e85af0f25977344cc9864d841a5c7ad855d8d5"
+    "sha": "018cf67e14d936c2051b866569440085f4478322"
   },
   "9": {
     "translation": "Darby",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Josué 18",
     "url": "https://api.getbible.net/v2/darby/6/18.json",
-    "sha": "48c1890baee2bc1e030d46058c0915020404bfd9"
+    "sha": "0845c8c570b35df7d65ca84f34af054be62c990f"
   },
   "19": {
     "translation": "Darby",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "Josué 22",
     "url": "https://api.getbible.net/v2/darby/6/22.json",
-    "sha": "0075f6ea6934fba07d62204025aa9c4cc5812f84"
+    "sha": "804309e198b0f8656807cc5d5b07e482d1dc1ff3"
   },
   "23": {
     "translation": "Darby",
@@ -333,6 +333,6 @@
     "chapter": 24,
     "name": "Josué 24",
     "url": "https://api.getbible.net/v2/darby/6/24.json",
-    "sha": "3c2d4feb2da9e9f687a4dd52ce36627efb5ad235"
+    "sha": "005a06708687772ad1a004bbc94d8302697714ab"
   }
 }

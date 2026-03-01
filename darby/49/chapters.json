@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Éphésiens 4",
     "url": "https://api.getbible.net/v2/darby/49/4.json",
-    "sha": "f10f55304da9f1081e80cf22b51f906762945537"
+    "sha": "abf2887b8dff40afe6ed248759114f66d92d591e"
   },
   "5": {
     "translation": "Darby",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Éphésiens 6",
     "url": "https://api.getbible.net/v2/darby/49/6.json",
-    "sha": "44195e637e56e0ccc737bf240349fc61e2b60c47"
+    "sha": "0e2ba4da80c56e49c25c6bb298b523402760af5e"
   }
 }

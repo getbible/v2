@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Juges 1",
     "url": "https://api.getbible.net/v2/ls1910/7/1.json",
-    "sha": "c864d60d985cf6f2f1d2f321ac6eb9189e810cd1"
+    "sha": "096c558e5564b580862f048ca48582f6a43e6aa5"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Juges 2",
     "url": "https://api.getbible.net/v2/ls1910/7/2.json",
-    "sha": "4be16db384e7fad48c26360519b78965835f3a78"
+    "sha": "2a6fb8fb5aaf29a5a363dfbc821d6f72e43746b3"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Juges 3",
     "url": "https://api.getbible.net/v2/ls1910/7/3.json",
-    "sha": "5cdd2703a63130786306035e0befb8416982d559"
+    "sha": "45a089aff10b66fa1b03e28e13680885d17b3e81"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Juges 11",
     "url": "https://api.getbible.net/v2/ls1910/7/11.json",
-    "sha": "af4d8d837ae38ba6dcf67806eb2c55b0efcd62df"
+    "sha": "c4d6021768a4aa4e42eca33b66f2ef215bf3acf2"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Juges 15",
     "url": "https://api.getbible.net/v2/ls1910/7/15.json",
-    "sha": "2cf3da555046659b027f04894e1daeac0f616e85"
+    "sha": "a80102c9a129504e036c926967bf9d81abb8ac4a"
   },
   "16": {
     "translation": "Louis Segond (1910)",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Juges 18",
     "url": "https://api.getbible.net/v2/ls1910/7/18.json",
-    "sha": "b207bc3556a6bbe379087b5a97032dd571d55a66"
+    "sha": "6028874b63ab7f51bcf37cc3109f205318f0d8c7"
   },
   "19": {
     "translation": "Louis Segond (1910)",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Juges 19",
     "url": "https://api.getbible.net/v2/ls1910/7/19.json",
-    "sha": "9cb1c78f233482c7742fec98c8682182f36d4809"
+    "sha": "29127e32a88581fa3c34729458df53d169a3862d"
   },
   "20": {
     "translation": "Louis Segond (1910)",
@@ -291,6 +291,6 @@
     "chapter": 21,
     "name": "Juges 21",
     "url": "https://api.getbible.net/v2/ls1910/7/21.json",
-    "sha": "8a57dff723444beba5e33f2fee50ecd0c286a077"
+    "sha": "e442152d171f6f5b528c33dcf46cc1459fea4e97"
   }
 }

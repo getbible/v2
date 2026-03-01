@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Jérémie 18",
     "url": "https://api.getbible.net/v2/darby/24/18.json",
-    "sha": "163ad9a27aab41f1a123df2164e36a1e7a47a311"
+    "sha": "323c5533563e47a95d00c753fa9e8464de00e5d8"
   },
   "19": {
     "translation": "Darby",
@@ -725,6 +725,6 @@
     "chapter": 52,
     "name": "Jérémie 52",
     "url": "https://api.getbible.net/v2/darby/24/52.json",
-    "sha": "c5ac46eb7bc13eade6f841ac5b4e7ce0f03c833a"
+    "sha": "8c3b99469ab4f9c0226ac183ec90271b34d76c4b"
   }
 }

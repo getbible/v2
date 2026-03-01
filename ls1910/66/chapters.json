@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Apocalypse 1",
     "url": "https://api.getbible.net/v2/ls1910/66/1.json",
-    "sha": "1664f03eada16263bdb79312b05167062ff2c053"
+    "sha": "e98aabf0056bd282f0a394020be0f34fb3e70230"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Apocalypse 2",
     "url": "https://api.getbible.net/v2/ls1910/66/2.json",
-    "sha": "ffe4f3dfa5822ad64164c27d95ed80b3b2978d61"
+    "sha": "a7441b47e7f18a2b39ca9bb24632e4bbb6ac7972"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Apocalypse 3",
     "url": "https://api.getbible.net/v2/ls1910/66/3.json",
-    "sha": "43e0696eb3c0e17fc1092988100f3826f08116ca"
+    "sha": "5db911b898a2638f91df1e960f51999c09bde2c0"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Apocalypse 4",
     "url": "https://api.getbible.net/v2/ls1910/66/4.json",
-    "sha": "7b4149dd410e9e42e56ba2a442e1dc3f348ffe75"
+    "sha": "d9f8f0706c60d56d14911b533a0e3f367b2f0fa7"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Apocalypse 5",
     "url": "https://api.getbible.net/v2/ls1910/66/5.json",
-    "sha": "4056af8415db457ee893e7225616a184856a007f"
+    "sha": "657d0c6c3060ae3ac11f7e85818c8df44170b737"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Apocalypse 6",
     "url": "https://api.getbible.net/v2/ls1910/66/6.json",
-    "sha": "cef45d047968a6d0ba403abc3faa7b3231047785"
+    "sha": "5d6bdb6038d0eb983c2bda79a7580ef76e5b6c7a"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Apocalypse 8",
     "url": "https://api.getbible.net/v2/ls1910/66/8.json",
-    "sha": "7f056d882d6f5eff4b0f3bc82700081beb1835c3"
+    "sha": "19c1080bc0ca455438ead0bc44ef5eb18c5e2af2"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Apocalypse 9",
     "url": "https://api.getbible.net/v2/ls1910/66/9.json",
-    "sha": "12ef12a83f2233e1687e75d4d5b98da9fcdc6ff0"
+    "sha": "7a3da7cc793d87169a24772e58fc1c3bc5548c44"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Apocalypse 10",
     "url": "https://api.getbible.net/v2/ls1910/66/10.json",
-    "sha": "6327e0b5bae2a10ff2cebefe81e4df8df0415046"
+    "sha": "c172ee1da9935a06dd03d02337ef7f89514a93bb"
   },
   "11": {
     "translation": "Louis Segond (1910)",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Apocalypse 11",
     "url": "https://api.getbible.net/v2/ls1910/66/11.json",
-    "sha": "54e4d4a7e0292cbe4d281ac88d2b56be100cbcaf"
+    "sha": "54494915622b9e375b5bf64715476b5378e919b8"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Apocalypse 13",
     "url": "https://api.getbible.net/v2/ls1910/66/13.json",
-    "sha": "6f2e35f67b41dea9b4eb8337e89d1a5f37091b34"
+    "sha": "4699ef08170551b37c532d87aca014b71c0322da"
   },
   "14": {
     "translation": "Louis Segond (1910)",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Apocalypse 14",
     "url": "https://api.getbible.net/v2/ls1910/66/14.json",
-    "sha": "2dbf16e3b1b74255ab328b6004f8c74b774204a2"
+    "sha": "23b935e5cbfc958dd9588f2e52252d5193742540"
   },
   "15": {
     "translation": "Louis Segond (1910)",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Apocalypse 17",
     "url": "https://api.getbible.net/v2/ls1910/66/17.json",
-    "sha": "691083fc863e12f48560d817aecb5191e7cc95d2"
+    "sha": "b44e6938cebcd64ceb0bf933a99965fe39b594aa"
   },
   "18": {
     "translation": "Louis Segond (1910)",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Apocalypse 18",
     "url": "https://api.getbible.net/v2/ls1910/66/18.json",
-    "sha": "6e84ab726d12f72861f16bd1db4f2db84bdd8183"
+    "sha": "e2b31840b1797a0dbb8b355977af7af9cc9ac385"
   },
   "19": {
     "translation": "Louis Segond (1910)",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Apocalypse 19",
     "url": "https://api.getbible.net/v2/ls1910/66/19.json",
-    "sha": "0aa432d0cc9f4aee8218fa70d1759d979d49a992"
+    "sha": "4140dc8e64ea0298232e55d2d15c23559d375ae9"
   },
   "20": {
     "translation": "Louis Segond (1910)",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "Apocalypse 20",
     "url": "https://api.getbible.net/v2/ls1910/66/20.json",
-    "sha": "1c8ec3bd82a11079079f803a5fd76bbd2b1ccf3b"
+    "sha": "40b2fe5e2e1b0eb3c10fcf0286637fcfe4639b38"
   },
   "21": {
     "translation": "Louis Segond (1910)",
@@ -291,7 +291,7 @@
     "chapter": 21,
     "name": "Apocalypse 21",
     "url": "https://api.getbible.net/v2/ls1910/66/21.json",
-    "sha": "1814ff2acd9af028e0468bd502628568cb7970a1"
+    "sha": "3061db3a3da7704f172c490fce02dee8d0542363"
   },
   "22": {
     "translation": "Louis Segond (1910)",
@@ -305,6 +305,6 @@
     "chapter": 22,
     "name": "Apocalypse 22",
     "url": "https://api.getbible.net/v2/ls1910/66/22.json",
-    "sha": "41cf49bd121409e5f39ee1a8ed1c5d0b4f16be6f"
+    "sha": "696fcebfbd443840cbbf250436249fe5a4b50bf3"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Timothée 1",
     "url": "https://api.getbible.net/v2/ls1910/55/1.json",
-    "sha": "debb7599aeaf8d38035d8a0d37f18616875168cf"
+    "sha": "97dfa08518d3e6625af489410050325ef8b677d1"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Timothée 2",
     "url": "https://api.getbible.net/v2/ls1910/55/2.json",
-    "sha": "e81897190133937a4b031dec9c2c161914f6cafc"
+    "sha": "9c94ece0da801d44096545cd2dbdeaf861dba211"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "2 Timothée 3",
     "url": "https://api.getbible.net/v2/ls1910/55/3.json",
-    "sha": "b4b927e586ec3631ea2b656bf3079b8fc15f1fbf"
+    "sha": "8a6ec9a38ff5c5f191b1fef960f39e9f8a25f403"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "2 Timothée 4",
     "url": "https://api.getbible.net/v2/ls1910/55/4.json",
-    "sha": "e05cb074db7ae8243374570be04887cb1b0abb85"
+    "sha": "b3d919de47b696a4f1ab131af803f9c480a6cb91"
   }
 }

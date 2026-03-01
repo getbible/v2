@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Corinthiens 2",
     "url": "https://api.getbible.net/v2/darby/46/2.json",
-    "sha": "a0ec82e095c5e3740b115ae5275c9cd041150ad2"
+    "sha": "6f0d5f503a2a9ee287a4e8249ef91714b27cdfe8"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Corinthiens 3",
     "url": "https://api.getbible.net/v2/darby/46/3.json",
-    "sha": "576e1348a7957bed1a25e786f538040821603c07"
+    "sha": "b5645c7f20217d8ca9b6b4baca479e9e50a1550c"
   },
   "4": {
     "translation": "Darby",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "1 Corinthiens 6",
     "url": "https://api.getbible.net/v2/darby/46/6.json",
-    "sha": "18ed2de0a8a7392155da7a0a90872d6690d63f65"
+    "sha": "c63a06c1140eb596129616d77b6ed5702a5f290d"
   },
   "7": {
     "translation": "Darby",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "1 Corinthiens 7",
     "url": "https://api.getbible.net/v2/darby/46/7.json",
-    "sha": "20ffc24af5ac6e64b3e68fa942ef94cf64c2026f"
+    "sha": "117f1d24a2d6e6c206e21de4085a38b6dfade5db"
   },
   "8": {
     "translation": "Darby",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "1 Corinthiens 8",
     "url": "https://api.getbible.net/v2/darby/46/8.json",
-    "sha": "61572f0a958da391b12e8b855edf597c0ed94177"
+    "sha": "f40bc4128a2ca15def58f65922cea02768e2d3bd"
   },
   "9": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "1 Corinthiens 9",
     "url": "https://api.getbible.net/v2/darby/46/9.json",
-    "sha": "5cb0b8337b37636e1693b2fb476d7ad2bc9a7f81"
+    "sha": "3bc69e78aaee36d106310874890bdd87e39ce29a"
   },
   "10": {
     "translation": "Darby",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "1 Corinthiens 10",
     "url": "https://api.getbible.net/v2/darby/46/10.json",
-    "sha": "9d260aa73e34ab2255c05a0108fe542b47e61a3e"
+    "sha": "6790eef6f6a80f0977add1e6ff38e3083b2c5970"
   },
   "11": {
     "translation": "Darby",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "1 Corinthiens 11",
     "url": "https://api.getbible.net/v2/darby/46/11.json",
-    "sha": "98289e8f1424da0fde612172adc704e70aae3d08"
+    "sha": "6db2ba4bc387fbf2e8f380152212e0e83c28d54d"
   },
   "12": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "1 Corinthiens 12",
     "url": "https://api.getbible.net/v2/darby/46/12.json",
-    "sha": "a814b7f8ceea816c659aa36386fa0c34c6fe4e66"
+    "sha": "39c8cbec243a86e5879199fdaf6bdc968a563e62"
   },
   "13": {
     "translation": "Darby",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "1 Corinthiens 13",
     "url": "https://api.getbible.net/v2/darby/46/13.json",
-    "sha": "34050260a9fd7905d496d26fbb2c92ee1855b18d"
+    "sha": "2f207bef9db589495b8e1c282d9c64216aaae153"
   },
   "14": {
     "translation": "Darby",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "1 Corinthiens 14",
     "url": "https://api.getbible.net/v2/darby/46/14.json",
-    "sha": "51fb5c0de08a0ba2cd233087c975b5f96c65c69c"
+    "sha": "284483ca2da51503bc4910ec63d34aeea7973180"
   },
   "15": {
     "translation": "Darby",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "1 Corinthiens 15",
     "url": "https://api.getbible.net/v2/darby/46/15.json",
-    "sha": "f9646597e4f4c87b6005b771920f478808fa1830"
+    "sha": "d14f26e12cc37048db6deb761aee5d7d866e98aa"
   },
   "16": {
     "translation": "Darby",
@@ -221,6 +221,6 @@
     "chapter": 16,
     "name": "1 Corinthiens 16",
     "url": "https://api.getbible.net/v2/darby/46/16.json",
-    "sha": "d8eeafadf9a403655195c37e16776a24e3b99e5b"
+    "sha": "11c8e1d33dc37ea7757901273bb5ef1ceba3796c"
   }
 }

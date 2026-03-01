@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Romains 1",
     "url": "https://api.getbible.net/v2/darby/45/1.json",
-    "sha": "7e03a4c0c794e0f3f93fba59114501d78fa9ce12"
+    "sha": "a3c8691dc5ac67ccfc8cb966f5ddfaa6e6e0a0ce"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Romains 2",
     "url": "https://api.getbible.net/v2/darby/45/2.json",
-    "sha": "1e814ce9d269a0e5f86762d91c21abccfca19fb8"
+    "sha": "7e607ee3515fae10d28a20d01a8ab95e63c4aeb1"
   },
   "3": {
     "translation": "Darby",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Romains 3",
     "url": "https://api.getbible.net/v2/darby/45/3.json",
-    "sha": "b98e52c08c21084990dc0418d029baf278c4623f"
+    "sha": "ec45ecb03275de22468c53f10299f6e241ab91b5"
   },
   "4": {
     "translation": "Darby",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Romains 5",
     "url": "https://api.getbible.net/v2/darby/45/5.json",
-    "sha": "687006dbb058ece74fc980ad341a95bb80a59ddc"
+    "sha": "4ce45c3f769fda9e2fb33fc7fc3a753b282d261a"
   },
   "6": {
     "translation": "Darby",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Romains 9",
     "url": "https://api.getbible.net/v2/darby/45/9.json",
-    "sha": "0cac12312bbadadb1d6f6a3b6d17abc4c6056fc2"
+    "sha": "e9e282d7b23cac678885ccae4a796f79820a7fd4"
   },
   "10": {
     "translation": "Darby",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Romains 11",
     "url": "https://api.getbible.net/v2/darby/45/11.json",
-    "sha": "4529643ed6a0ae9ce00e9398ea9669b340c47372"
+    "sha": "935a97305074da79406190b971dff7dc6bdc66f6"
   },
   "12": {
     "translation": "Darby",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Romains 12",
     "url": "https://api.getbible.net/v2/darby/45/12.json",
-    "sha": "2dac2f3244ed858c64995c5b035ba8c8d2e93d6a"
+    "sha": "d2547f609618d726d9ff9119ef70b0a3f928df90"
   },
   "13": {
     "translation": "Darby",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Romains 13",
     "url": "https://api.getbible.net/v2/darby/45/13.json",
-    "sha": "db6f765bd69f8a770bb622ff3a5eb5f9e1aa6d15"
+    "sha": "ae75631eae0e9c1a30ba48862218922f7681fa91"
   },
   "14": {
     "translation": "Darby",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Romains 14",
     "url": "https://api.getbible.net/v2/darby/45/14.json",
-    "sha": "042f814e16c70ad22c6086cd53f102eb88611967"
+    "sha": "7b1af40f364240eb517b7faac5b0c2fb5a395a8a"
   },
   "15": {
     "translation": "Darby",
@@ -221,6 +221,6 @@
     "chapter": 16,
     "name": "Romains 16",
     "url": "https://api.getbible.net/v2/darby/45/16.json",
-    "sha": "bb8cd88034c9e78ab91cb171596a0fa59d4421df"
+    "sha": "ab22053bbaecbe15cea2b402e22dcace6dba9680"
   }
 }

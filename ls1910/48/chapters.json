@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Galates 1",
     "url": "https://api.getbible.net/v2/ls1910/48/1.json",
-    "sha": "33d2119f5f3ba4fde0bbd005435df4d66952e948"
+    "sha": "99de27cd1bedf98ae93e83debb024706d16015c2"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Galates 2",
     "url": "https://api.getbible.net/v2/ls1910/48/2.json",
-    "sha": "d2cc47797ee740efd882ff23311453c2583be939"
+    "sha": "73f0f2a9ed55bb5fb203cb15d1541d4599c96225"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Galates 3",
     "url": "https://api.getbible.net/v2/ls1910/48/3.json",
-    "sha": "14cb0c094acb405edc4668df701b0b0a5a06d68d"
+    "sha": "3d140545e5e2e36d740414cc0728d93df355f7a5"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Galates 4",
     "url": "https://api.getbible.net/v2/ls1910/48/4.json",
-    "sha": "2a291c334c2ed5a4fd05fb8d7820a0d1c834c4ce"
+    "sha": "2a50a99fa70e4e214cef1ea83bbb2fd613872437"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Galates 5",
     "url": "https://api.getbible.net/v2/ls1910/48/5.json",
-    "sha": "12cb45a082c18d0b7784691563871674f5e00a3a"
+    "sha": "4fca278f40daa076ee284d58dbce4b881df4ed5d"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galates 6",
     "url": "https://api.getbible.net/v2/ls1910/48/6.json",
-    "sha": "5555fcb7a18dfe2748e2b78f0a41724bcb68c310"
+    "sha": "6c5ae78aca9d397650e89236c8a15329c56b0ce7"
   }
 }

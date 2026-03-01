@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Philippiens 1",
     "url": "https://api.getbible.net/v2/ls1910/50/1.json",
-    "sha": "77cf26f4e23139b1e7c164889842e06f8bff3506"
+    "sha": "cf756b579e35adbae7152ef531b02bc7b70097ea"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Philippiens 2",
     "url": "https://api.getbible.net/v2/ls1910/50/2.json",
-    "sha": "d77e78a0311f51fe2a28c878d0d4721c595997fb"
+    "sha": "e3f430a20a9a04310b5a1f3df48f40eabc749b6c"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "Philippiens 4",
     "url": "https://api.getbible.net/v2/ls1910/50/4.json",
-    "sha": "420195b4ed573d59a4a6bb630324dc86e663f576"
+    "sha": "16848b802e9af82d3afcd490eae02a309f14866d"
   }
 }

@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Luc 11",
     "url": "https://api.getbible.net/v2/darby/42/11.json",
-    "sha": "dbae78db626cba8077197b7424dcbc80bbbe87a4"
+    "sha": "0c363f183fdf4831155d03e4c0a51555885625be"
   },
   "12": {
     "translation": "Darby",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Luc 15",
     "url": "https://api.getbible.net/v2/darby/42/15.json",
-    "sha": "4b04a5adb3dc5a5b21572143d751ad63977044b2"
+    "sha": "dac4e16a719b78d24fe1a37649cc4c0b0f0332c5"
   },
   "16": {
     "translation": "Darby",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Luc 18",
     "url": "https://api.getbible.net/v2/darby/42/18.json",
-    "sha": "627d848bea78847fab879a99443746c16e799f8f"
+    "sha": "ee674f2eb28748d5783e5b7dc63b97c3213a13ff"
   },
   "19": {
     "translation": "Darby",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Luc 19",
     "url": "https://api.getbible.net/v2/darby/42/19.json",
-    "sha": "f5040ab6f31b8c6870b9c21c6cca3988c1662d56"
+    "sha": "fbd56cdb84757edec9ece95f51d899edf188d292"
   },
   "20": {
     "translation": "Darby",
@@ -333,6 +333,6 @@
     "chapter": 24,
     "name": "Luc 24",
     "url": "https://api.getbible.net/v2/darby/42/24.json",
-    "sha": "192d2e84b934fcebc13409f2ae1d55013feaa8e6"
+    "sha": "375577856efe0efa6dba413401b5358abc24e30d"
   }
 }

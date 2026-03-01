@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Zacharie 1",
     "url": "https://api.getbible.net/v2/ls1910/38/1.json",
-    "sha": "53733866e7eaa32f190fa17dc6240d61b7c43d7d"
+    "sha": "3e5ccab8b7096993b5c7407c84279be356f76500"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Zacharie 2",
     "url": "https://api.getbible.net/v2/ls1910/38/2.json",
-    "sha": "f06fdb713c4e6b731e928a48172cbb060998d04e"
+    "sha": "c7a2d9a10fcd77b75d19199a618aa15ecb8116b8"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Zacharie 3",
     "url": "https://api.getbible.net/v2/ls1910/38/3.json",
-    "sha": "4666ae5e8bd4bc3ed329e2cdc4ca7ccec872f7b4"
+    "sha": "5b18a83f9259398718d98964f973dc646f9ae515"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Zacharie 4",
     "url": "https://api.getbible.net/v2/ls1910/38/4.json",
-    "sha": "4ebf65dce46418641e7896d1f21d009bb6a0ff28"
+    "sha": "a9a0676016d04f187f14d14e48e730514548295d"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Zacharie 7",
     "url": "https://api.getbible.net/v2/ls1910/38/7.json",
-    "sha": "46a923033f086349aa4f968bc87e6bf684a9b5f8"
+    "sha": "2d9e7b9c63e9ce708aecae487f095721c0502bd4"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Zacharie 13",
     "url": "https://api.getbible.net/v2/ls1910/38/13.json",
-    "sha": "9f0781ee1a59fccfea14c4c9abcc9d4afb28a611"
+    "sha": "51b8a84c01faec941b7b8a5bb2dcdb6fc0393c53"
   },
   "14": {
     "translation": "Louis Segond (1910)",
@@ -193,6 +193,6 @@
     "chapter": 14,
     "name": "Zacharie 14",
     "url": "https://api.getbible.net/v2/ls1910/38/14.json",
-    "sha": "140fd185a2c112e0c98e77bd1803aec14ae34b4c"
+    "sha": "35b41eecf986140b6f46c5ce04537aabe74deab0"
   }
 }

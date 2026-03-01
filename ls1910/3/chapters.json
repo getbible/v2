@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Lévitique 1",
     "url": "https://api.getbible.net/v2/ls1910/3/1.json",
-    "sha": "9d33d19b6d275786d2464e6f4e4ed2566d90a814"
+    "sha": "89c30e09d74ee41330044ea18da131764cb67fba"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Lévitique 4",
     "url": "https://api.getbible.net/v2/ls1910/3/4.json",
-    "sha": "ac29696b67bd4e9c19ff6ed6cebeeca3e0c44b72"
+    "sha": "f399fac7773ac64766600e315e00768bb707618e"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Lévitique 5",
     "url": "https://api.getbible.net/v2/ls1910/3/5.json",
-    "sha": "27168df89520fe25e2edffdf3284a195702b6442"
+    "sha": "4ad4f6cd1249a4d2b44153ac1f8f850b0b7032cf"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Lévitique 7",
     "url": "https://api.getbible.net/v2/ls1910/3/7.json",
-    "sha": "69b7e2a3f5b69e6cdf7d04c267e4035b4d54b20c"
+    "sha": "f3a83649cffe3ec0416e64559e8aac6cda2180bb"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Lévitique 8",
     "url": "https://api.getbible.net/v2/ls1910/3/8.json",
-    "sha": "e22ef4bbc8bfa0d949367f7a9161d6243920c039"
+    "sha": "d8c9b9af2612c7c1b039d54ad90ed5cc45e878a8"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Lévitique 13",
     "url": "https://api.getbible.net/v2/ls1910/3/13.json",
-    "sha": "71f522224eb3bef0a670fa22d0574862290fec75"
+    "sha": "333fa11642df848c89cdb0942153c032e960ee7a"
   },
   "14": {
     "translation": "Louis Segond (1910)",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Lévitique 14",
     "url": "https://api.getbible.net/v2/ls1910/3/14.json",
-    "sha": "c4737f729d2f2bf95fb03b1e9205b74720ba7493"
+    "sha": "753def438b56abb559fb041a908f41718ff9695f"
   },
   "15": {
     "translation": "Louis Segond (1910)",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Lévitique 17",
     "url": "https://api.getbible.net/v2/ls1910/3/17.json",
-    "sha": "2fb570163ef12645e4c294a6f666da1d5ad7f042"
+    "sha": "6fa92432ed9dbe60c9cd95ed93d3670116c07777"
   },
   "18": {
     "translation": "Louis Segond (1910)",
@@ -319,7 +319,7 @@
     "chapter": 23,
     "name": "Lévitique 23",
     "url": "https://api.getbible.net/v2/ls1910/3/23.json",
-    "sha": "5f149b3ad8876be913cff6c2c57ef47bc51e0ac0"
+    "sha": "851e4a01f19638967b58faba3fab874f86658645"
   },
   "24": {
     "translation": "Louis Segond (1910)",
@@ -347,7 +347,7 @@
     "chapter": 25,
     "name": "Lévitique 25",
     "url": "https://api.getbible.net/v2/ls1910/3/25.json",
-    "sha": "2e21b3cb91e3d6f4233e79acc7420d7287362a5a"
+    "sha": "b13e6c2e32b270f0ef47e44ceef049e95141c89b"
   },
   "26": {
     "translation": "Louis Segond (1910)",
@@ -361,7 +361,7 @@
     "chapter": 26,
     "name": "Lévitique 26",
     "url": "https://api.getbible.net/v2/ls1910/3/26.json",
-    "sha": "f8d414ec56ea2c78962a3df4406348ba1755a46c"
+    "sha": "bcb070c422c3dd9872cf159a2d3cc022d931c031"
   },
   "27": {
     "translation": "Louis Segond (1910)",
@@ -375,6 +375,6 @@
     "chapter": 27,
     "name": "Lévitique 27",
     "url": "https://api.getbible.net/v2/ls1910/3/27.json",
-    "sha": "5a97254cea0fe9422b71a690fe97b892f927c19f"
+    "sha": "1d75c95ecc1b0f2b3ad0e0ea0f3b9e0c351b3d6b"
   }
 }

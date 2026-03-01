@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Timothée 1",
     "url": "https://api.getbible.net/v2/darby/55/1.json",
-    "sha": "3ef54bd84cf386c786c44491cc0cd40a17841b92"
+    "sha": "3ec80449c24382b753f25da9fd69bdeacefc80b6"
   },
   "2": {
     "translation": "Darby",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Timothée 2",
     "url": "https://api.getbible.net/v2/darby/55/2.json",
-    "sha": "95ae91801e566b43124749cbc568ae43b96393ef"
+    "sha": "e7ab426cf87cc1c31ccaed1f901290899adc8fbc"
   },
   "3": {
     "translation": "Darby",
@@ -53,6 +53,6 @@
     "chapter": 4,
     "name": "2 Timothée 4",
     "url": "https://api.getbible.net/v2/darby/55/4.json",
-    "sha": "8be2abd48cf7c28ff4f6a0eb7a2d896c430c2fcc"
+    "sha": "4579b8595007c6b4bac0d0cd502dc551c7193347"
   }
 }

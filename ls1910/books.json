@@ -9,7 +9,7 @@
     "nr": 1,
     "name": "Genèse",
     "url": "https://api.getbible.net/v2/ls1910/1.json",
-    "sha": "f28992014eba75ed7b876ed3728211621a6536f5"
+    "sha": "2c82080464007bb6cdf84c5c64f73b8a6b9293c5"
   },
   "2": {
     "translation": "Louis Segond (1910)",
@@ -21,7 +21,7 @@
     "nr": 2,
     "name": "Exode",
     "url": "https://api.getbible.net/v2/ls1910/2.json",
-    "sha": "9ac55798777acfec3ed8fcc1a2caddf24ba89de3"
+    "sha": "636bd0fbce9a5ec1f37e34a520b53bc1f9d4d6f8"
   },
   "3": {
     "translation": "Louis Segond (1910)",
@@ -33,7 +33,7 @@
     "nr": 3,
     "name": "Lévitique",
     "url": "https://api.getbible.net/v2/ls1910/3.json",
-    "sha": "ca45da026e076aca3c438144e1f62e7afca69eba"
+    "sha": "9e26e25d30d6756bcab317ef6b0f535c355d5f2a"
   },
   "4": {
     "translation": "Louis Segond (1910)",
@@ -45,7 +45,7 @@
     "nr": 4,
     "name": "Nombres",
     "url": "https://api.getbible.net/v2/ls1910/4.json",
-    "sha": "f3bff7a0d91151ec4f1421f8019a74ba9292abac"
+    "sha": "44235b5dc077ca45297604836c27bd88a17b8e07"
   },
   "5": {
     "translation": "Louis Segond (1910)",
@@ -57,7 +57,7 @@
     "nr": 5,
     "name": "Deutéronome",
     "url": "https://api.getbible.net/v2/ls1910/5.json",
-    "sha": "b041e0b00abf7ddc6a3cbf1dc5f4e9274f07314c"
+    "sha": "92c99a3a13fe19146922bd43b6bb31fa75ab1bec"
   },
   "6": {
     "translation": "Louis Segond (1910)",
@@ -69,7 +69,7 @@
     "nr": 6,
     "name": "Josué",
     "url": "https://api.getbible.net/v2/ls1910/6.json",
-    "sha": "4299b1f66db17b516dd2be7fe55d17f66bffd33d"
+    "sha": "ca47d439f21dbd35db86a686d69d1f808f1b057f"
   },
   "7": {
     "translation": "Louis Segond (1910)",
@@ -81,7 +81,7 @@
     "nr": 7,
     "name": "Juges",
     "url": "https://api.getbible.net/v2/ls1910/7.json",
-    "sha": "94750b68cbfb3e314d70e6aa977a80611219f570"
+    "sha": "d898c61664fa303064f37756f403bcf2fda40c24"
   },
   "8": {
     "translation": "Louis Segond (1910)",
@@ -93,7 +93,7 @@
     "nr": 8,
     "name": "Ruth",
     "url": "https://api.getbible.net/v2/ls1910/8.json",
-    "sha": "a0797687f442d40cd16b9470105009da513f5ad6"
+    "sha": "387b7a61838637a74a148fb367f4407344e84901"
   },
   "9": {
     "translation": "Louis Segond (1910)",
@@ -105,7 +105,7 @@
     "nr": 9,
     "name": "1 Samuel",
     "url": "https://api.getbible.net/v2/ls1910/9.json",
-    "sha": "c13e2b583aca3f3bb904f69e3b53410898a48b31"
+    "sha": "2d9d0422e12ccd67e22a727b70233d51008eaed9"
   },
   "10": {
     "translation": "Louis Segond (1910)",
@@ -117,7 +117,7 @@
     "nr": 10,
     "name": "2 Samuel",
     "url": "https://api.getbible.net/v2/ls1910/10.json",
-    "sha": "831a25916156a4af03c42e1c84485f1f5afd2480"
+    "sha": "fe52c5e0c3533efd261fae83e8b90b6489cfda23"
   },
   "11": {
     "translation": "Louis Segond (1910)",
@@ -129,7 +129,7 @@
     "nr": 11,
     "name": "1 Rois",
     "url": "https://api.getbible.net/v2/ls1910/11.json",
-    "sha": "146f5a2f5d91f250ca42ac9b794a34d923b1d420"
+    "sha": "d2ffce09c485a6cf1f32af24d479106687fb12b0"
   },
   "12": {
     "translation": "Louis Segond (1910)",
@@ -141,7 +141,7 @@
     "nr": 12,
     "name": "2 Rois",
     "url": "https://api.getbible.net/v2/ls1910/12.json",
-    "sha": "69b02e0115f86ec65becd406d2b32441554f3902"
+    "sha": "a6f95ff3999726e643f96ea5c18931ccdc44b987"
   },
   "13": {
     "translation": "Louis Segond (1910)",
@@ -153,7 +153,7 @@
     "nr": 13,
     "name": "1 Chroniques",
     "url": "https://api.getbible.net/v2/ls1910/13.json",
-    "sha": "c8db26e58b481acf9e059360e2a61d975c2d52e3"
+    "sha": "e9a566dd8d0a41d566bf37c169fef55de5ddce7b"
   },
   "14": {
     "translation": "Louis Segond (1910)",
@@ -165,7 +165,7 @@
     "nr": 14,
     "name": "2 Chroniques",
     "url": "https://api.getbible.net/v2/ls1910/14.json",
-    "sha": "7c95cfd1e845c8108b671d28b6922f3e97bce48e"
+    "sha": "7e045befe2e12e4b5b17c535f4c927e96d84134a"
   },
   "15": {
     "translation": "Louis Segond (1910)",
@@ -177,7 +177,7 @@
     "nr": 15,
     "name": "Esdras",
     "url": "https://api.getbible.net/v2/ls1910/15.json",
-    "sha": "3ef52bd9310fa4ed423b87f8ca0713551d4ef765"
+    "sha": "db2c86c15b71eed9b20ab215932216aa0c5f5542"
   },
   "16": {
     "translation": "Louis Segond (1910)",
@@ -189,7 +189,7 @@
     "nr": 16,
     "name": "Néhémie",
     "url": "https://api.getbible.net/v2/ls1910/16.json",
-    "sha": "e4b73cb4dbacd34bc3ffad9d76aebc2b495b926f"
+    "sha": "1923aa4985a99b1ca4678ff544d73572dee3db0d"
   },
   "17": {
     "translation": "Louis Segond (1910)",
@@ -201,7 +201,7 @@
     "nr": 17,
     "name": "Esther",
     "url": "https://api.getbible.net/v2/ls1910/17.json",
-    "sha": "2b1c7ea7ec89b3fed643e57887ef177da81b7725"
+    "sha": "cb8285f7308764cc0da2f71adfcb8d273f7ab470"
   },
   "18": {
     "translation": "Louis Segond (1910)",
@@ -213,7 +213,7 @@
     "nr": 18,
     "name": "Job",
     "url": "https://api.getbible.net/v2/ls1910/18.json",
-    "sha": "8c3593e7c742110536456622dc3bb631d17069cd"
+    "sha": "cbae30866a3aa973d4e52166c2f55a5fab3f4f3f"
   },
   "19": {
     "translation": "Louis Segond (1910)",
@@ -225,7 +225,7 @@
     "nr": 19,
     "name": "Psaumes",
     "url": "https://api.getbible.net/v2/ls1910/19.json",
-    "sha": "c2fcd2204fdd405eed9a9f2c3d248a7ff2689ff8"
+    "sha": "abfe12d03e03cd4b0c5db5df0961d1400bf133b2"
   },
   "20": {
     "translation": "Louis Segond (1910)",
@@ -237,7 +237,7 @@
     "nr": 20,
     "name": "Proverbes",
     "url": "https://api.getbible.net/v2/ls1910/20.json",
-    "sha": "f150ba5fdc6a85b0a2dc4f3cbed031780c188c76"
+    "sha": "7151946ba21d6669c9a36b0991bbad85e7e88081"
   },
   "21": {
     "translation": "Louis Segond (1910)",
@@ -249,7 +249,7 @@
     "nr": 21,
     "name": "Ecclésiaste",
     "url": "https://api.getbible.net/v2/ls1910/21.json",
-    "sha": "e6dce73fa8b8c3ea22523a4e7cda6bb41c1d6e84"
+    "sha": "f9b85f88a104792e18a262d9eeab4eeeeaed2767"
   },
   "22": {
     "translation": "Louis Segond (1910)",
@@ -261,7 +261,7 @@
     "nr": 22,
     "name": "Cantique des Cantiques",
     "url": "https://api.getbible.net/v2/ls1910/22.json",
-    "sha": "744712a8695e8f18d03a4e65c39d3a7a8b43f9a9"
+    "sha": "e66bc9d66edd4dcff99e8a4423ceedff32900954"
   },
   "23": {
     "translation": "Louis Segond (1910)",
@@ -273,7 +273,7 @@
     "nr": 23,
     "name": "Ésaïe",
     "url": "https://api.getbible.net/v2/ls1910/23.json",
-    "sha": "fd07e3c9bdcaad2029c9405649cdaa9f7a5fc43f"
+    "sha": "740e2a3df0dcec70a14c28ef4354a71ae12583cd"
   },
   "24": {
     "translation": "Louis Segond (1910)",
@@ -285,7 +285,7 @@
     "nr": 24,
     "name": "Jérémie",
     "url": "https://api.getbible.net/v2/ls1910/24.json",
-    "sha": "c6a96c067c0bb182700ca8b404e6d2c5a81bb77c"
+    "sha": "d165fc5abd3afdf47c8b1e64977328c1e48f9041"
   },
   "25": {
     "translation": "Louis Segond (1910)",
@@ -297,7 +297,7 @@
     "nr": 25,
     "name": "Lamentations",
     "url": "https://api.getbible.net/v2/ls1910/25.json",
-    "sha": "b5ab5b6865d129999a55e5799ca173fab8c49913"
+    "sha": "08c321510dd3d0247b90d9c6af8b99c47d7abc87"
   },
   "26": {
     "translation": "Louis Segond (1910)",
@@ -309,7 +309,7 @@
     "nr": 26,
     "name": "Ézéchiel",
     "url": "https://api.getbible.net/v2/ls1910/26.json",
-    "sha": "b6aca82520a699ccd9c2e3e8ad7b6021c7bd7699"
+    "sha": "3ddc87ae98acb212396d4b24ae0e0de8edc92d74"
   },
   "27": {
     "translation": "Louis Segond (1910)",
@@ -321,7 +321,7 @@
     "nr": 27,
     "name": "Daniel",
     "url": "https://api.getbible.net/v2/ls1910/27.json",
-    "sha": "c77684dfd72f9ad26053d7f9ff9df58bb33752a0"
+    "sha": "32eb54f93898ed04d1264cd5306ee3aac2aef6e9"
   },
   "28": {
     "translation": "Louis Segond (1910)",
@@ -333,7 +333,7 @@
     "nr": 28,
     "name": "Osée",
     "url": "https://api.getbible.net/v2/ls1910/28.json",
-    "sha": "e12caedf4a5b3d0f8089c4a05704a7b8d351ffef"
+    "sha": "934bd55c9cfc12ce5e424fc8ffacfd8b129d4cc8"
   },
   "29": {
     "translation": "Louis Segond (1910)",
@@ -345,7 +345,7 @@
     "nr": 29,
     "name": "Joël",
     "url": "https://api.getbible.net/v2/ls1910/29.json",
-    "sha": "0a21e730fcfebc1eaff810a627b98a3879ec5450"
+    "sha": "97c8ecc801de46b220e8ca16f231ce75e1b2fba2"
   },
   "30": {
     "translation": "Louis Segond (1910)",
@@ -381,7 +381,7 @@
     "nr": 32,
     "name": "Jonas",
     "url": "https://api.getbible.net/v2/ls1910/32.json",
-    "sha": "2d95af655b67f714777a99156ed005bc88db0bc6"
+    "sha": "22bb0b384a73ec54684738b29c9490aec369cb67"
   },
   "33": {
     "translation": "Louis Segond (1910)",
@@ -405,7 +405,7 @@
     "nr": 34,
     "name": "Nahum",
     "url": "https://api.getbible.net/v2/ls1910/34.json",
-    "sha": "f0567e59e16b20c6d1046ef3c0ed6a67eb212d59"
+    "sha": "6480e0573ee271e38416eca33dd5f989598d3a9d"
   },
   "35": {
     "translation": "Louis Segond (1910)",
@@ -417,7 +417,7 @@
     "nr": 35,
     "name": "Habacuc",
     "url": "https://api.getbible.net/v2/ls1910/35.json",
-    "sha": "bf31024ed99ec1df17f94a2a1861aba142737755"
+    "sha": "da8ea2dbd5c165e8d2166f95a9a888d13f49c7fd"
   },
   "36": {
     "translation": "Louis Segond (1910)",
@@ -429,7 +429,7 @@
     "nr": 36,
     "name": "Sophonie",
     "url": "https://api.getbible.net/v2/ls1910/36.json",
-    "sha": "630274870f159ce6f1c786319f31c862005a0b0c"
+    "sha": "e1d89028894ff44b98410bc8bf75072235e32def"
   },
   "37": {
     "translation": "Louis Segond (1910)",
@@ -453,7 +453,7 @@
     "nr": 38,
     "name": "Zacharie",
     "url": "https://api.getbible.net/v2/ls1910/38.json",
-    "sha": "7b79a05af3b7038c0a689ad795b1ccf177d37d86"
+    "sha": "644494d9d72fac89648d67a90f1dc69e6cc1f9fa"
   },
   "39": {
     "translation": "Louis Segond (1910)",
@@ -465,7 +465,7 @@
     "nr": 39,
     "name": "Malachie",
     "url": "https://api.getbible.net/v2/ls1910/39.json",
-    "sha": "d6edd0f140e47e1dbbb3553e5a201b94a494a018"
+    "sha": "522814b96e2fda438e964f8daf505f1b24bcef8b"
   },
   "40": {
     "translation": "Louis Segond (1910)",
@@ -477,7 +477,7 @@
     "nr": 40,
     "name": "Matthieu",
     "url": "https://api.getbible.net/v2/ls1910/40.json",
-    "sha": "b95f05436329bd917e230efbc3206864c5c2ae40"
+    "sha": "ed8f83c9a326ab5eb51ba54b07c1079014df47e5"
   },
   "41": {
     "translation": "Louis Segond (1910)",
@@ -489,7 +489,7 @@
     "nr": 41,
     "name": "Marc",
     "url": "https://api.getbible.net/v2/ls1910/41.json",
-    "sha": "661ee658a0ce47c8b60c95857b038e4737f46856"
+    "sha": "6835bd13eb45fb14e5c77f70e7135c07aec0185d"
   },
   "42": {
     "translation": "Louis Segond (1910)",
@@ -501,7 +501,7 @@
     "nr": 42,
     "name": "Luc",
     "url": "https://api.getbible.net/v2/ls1910/42.json",
-    "sha": "5ca109e554250a26ce276b6d3ef55cb0d0cc583a"
+    "sha": "9e00e8c25af41d8a24286418f2e7de896d9f03ed"
   },
   "43": {
     "translation": "Louis Segond (1910)",
@@ -513,7 +513,7 @@
     "nr": 43,
     "name": "Jean",
     "url": "https://api.getbible.net/v2/ls1910/43.json",
-    "sha": "4cc5972b6b5237f9acfea759691c0ec56266994b"
+    "sha": "a8b24bcf435d6050304e45418a1cdd2d696e9cbd"
   },
   "44": {
     "translation": "Louis Segond (1910)",
@@ -525,7 +525,7 @@
     "nr": 44,
     "name": "Actes des Apôtres",
     "url": "https://api.getbible.net/v2/ls1910/44.json",
-    "sha": "30ca0e862333a80e15caab23dc25541f0f5ec4ab"
+    "sha": "2507abeca3458cb1bd31d81aee0dd9d11a1a1b59"
   },
   "45": {
     "translation": "Louis Segond (1910)",
@@ -537,7 +537,7 @@
     "nr": 45,
     "name": "Romains",
     "url": "https://api.getbible.net/v2/ls1910/45.json",
-    "sha": "6c6e401e70ad24f7fffd22c50c784b4c17b67342"
+    "sha": "2164ac86a3c46aa50bf04ad8b1ceff85eba2fa88"
   },
   "46": {
     "translation": "Louis Segond (1910)",
@@ -549,7 +549,7 @@
     "nr": 46,
     "name": "1 Corinthiens",
     "url": "https://api.getbible.net/v2/ls1910/46.json",
-    "sha": "ba850494bfa8502ecf4fbbad98052e72da88184c"
+    "sha": "889a369170d53bd8a1d19b1e1e58a5615cb08b94"
   },
   "47": {
     "translation": "Louis Segond (1910)",
@@ -561,7 +561,7 @@
     "nr": 47,
     "name": "2 Corinthiens",
     "url": "https://api.getbible.net/v2/ls1910/47.json",
-    "sha": "9a490e2d0aa9c6ff9156b7a587bd84b191c19f76"
+    "sha": "697b54f717793477afe67fed6b0ca337bc2f5f10"
   },
   "48": {
     "translation": "Louis Segond (1910)",
@@ -573,7 +573,7 @@
     "nr": 48,
     "name": "Galates",
     "url": "https://api.getbible.net/v2/ls1910/48.json",
-    "sha": "a059e5f9d259f2f9eb292af6ebad87b194c0a4b1"
+    "sha": "c3f419e1f6ca0d9e7b6a04704e765a25ec8f082b"
   },
   "49": {
     "translation": "Louis Segond (1910)",
@@ -585,7 +585,7 @@
     "nr": 49,
     "name": "Éphésiens",
     "url": "https://api.getbible.net/v2/ls1910/49.json",
-    "sha": "005f0668fb25f1558d4f0fe0277970dc20a946fd"
+    "sha": "7fa09f9bffb08a9766389183f446b95518926216"
   },
   "50": {
     "translation": "Louis Segond (1910)",
@@ -597,7 +597,7 @@
     "nr": 50,
     "name": "Philippiens",
     "url": "https://api.getbible.net/v2/ls1910/50.json",
-    "sha": "b55d85f520d14f568a6525690b65fc41463530f6"
+    "sha": "c5e511d13796c6dd2c6c281d33da7a2a24313f8f"
   },
   "51": {
     "translation": "Louis Segond (1910)",
@@ -609,7 +609,7 @@
     "nr": 51,
     "name": "Colossiens",
     "url": "https://api.getbible.net/v2/ls1910/51.json",
-    "sha": "36481b18b1f3e9787bf911c3032011b7403d96fc"
+    "sha": "a5da28c7fe853309fb9c8e38673232e43f97e439"
   },
   "52": {
     "translation": "Louis Segond (1910)",
@@ -621,7 +621,7 @@
     "nr": 52,
     "name": "1 Thessaloniciens",
     "url": "https://api.getbible.net/v2/ls1910/52.json",
-    "sha": "78119dc15e71e7512fb57a202ee416418e8dd6f9"
+    "sha": "e987f2cedda3e78f21a59a3092500561048175b8"
   },
   "53": {
     "translation": "Louis Segond (1910)",
@@ -633,7 +633,7 @@
     "nr": 53,
     "name": "2 Thessaloniciens",
     "url": "https://api.getbible.net/v2/ls1910/53.json",
-    "sha": "150eed9fa84dd2acbe3432ef383b89106e2435eb"
+    "sha": "2992437e97cf3d721287d4fb3e150367464e1aa4"
   },
   "54": {
     "translation": "Louis Segond (1910)",
@@ -645,7 +645,7 @@
     "nr": 54,
     "name": "1 Timothée",
     "url": "https://api.getbible.net/v2/ls1910/54.json",
-    "sha": "114a555e96fc6c97fda5dcfa8ce07b99f2c4a32f"
+    "sha": "31b0ee3486656b8aae257dc4af794c958b40cb99"
   },
   "55": {
     "translation": "Louis Segond (1910)",
@@ -657,7 +657,7 @@
     "nr": 55,
     "name": "2 Timothée",
     "url": "https://api.getbible.net/v2/ls1910/55.json",
-    "sha": "36e14af0c02e00a59bef3bb8dd6263e64ad3056f"
+    "sha": "09baef8d55884a410f9df65bc8f9197ccc00787d"
   },
   "56": {
     "translation": "Louis Segond (1910)",
@@ -669,7 +669,7 @@
     "nr": 56,
     "name": "Tite",
     "url": "https://api.getbible.net/v2/ls1910/56.json",
-    "sha": "2b1ebe8a5f169aa84611ac8168054de7de2a574a"
+    "sha": "47b99ebc4a34e3960b456a6e72560790ff6b4f9b"
   },
   "57": {
     "translation": "Louis Segond (1910)",
@@ -681,7 +681,7 @@
     "nr": 57,
     "name": "Philémon",
     "url": "https://api.getbible.net/v2/ls1910/57.json",
-    "sha": "610a8f8fa3d51290df82a4e0a53aa6a090039a28"
+    "sha": "2ad2f4024dd61076eb3a9275b1aa74553c149cf0"
   },
   "58": {
     "translation": "Louis Segond (1910)",
@@ -693,7 +693,7 @@
     "nr": 58,
     "name": "Hébreux",
     "url": "https://api.getbible.net/v2/ls1910/58.json",
-    "sha": "cef0a0e814b10c23b7e049b60d71845840027756"
+    "sha": "2a11a9c23bdd908daec3ab8752dd472519956cad"
   },
   "59": {
     "translation": "Louis Segond (1910)",
@@ -705,7 +705,7 @@
     "nr": 59,
     "name": "Jacques",
     "url": "https://api.getbible.net/v2/ls1910/59.json",
-    "sha": "b42b4f25cd62a29402f76549e08cbb305d6ccf28"
+    "sha": "b3543263e2934afec4ac0f79620a9c962c62186e"
   },
   "60": {
     "translation": "Louis Segond (1910)",
@@ -717,7 +717,7 @@
     "nr": 60,
     "name": "1 Pierre",
     "url": "https://api.getbible.net/v2/ls1910/60.json",
-    "sha": "047844afb8491fbb21a60d3663a67b94cc92ac63"
+    "sha": "1f4f4f891f6eab32f5dc3a399e2297faaf4461ba"
   },
   "61": {
     "translation": "Louis Segond (1910)",
@@ -729,7 +729,7 @@
     "nr": 61,
     "name": "2 Pierre",
     "url": "https://api.getbible.net/v2/ls1910/61.json",
-    "sha": "e682b1cda5458d52cf60f7d07db8260728935c46"
+    "sha": "0d2cef01c16b420b7761b379366b61356079e9fe"
   },
   "62": {
     "translation": "Louis Segond (1910)",
@@ -777,7 +777,7 @@
     "nr": 65,
     "name": "Jude",
     "url": "https://api.getbible.net/v2/ls1910/65.json",
-    "sha": "aba4ddcfe61e16b0c31dd49f8813ede41c36754c"
+    "sha": "8b08fd7b71fc5bff2f8805d42bdfacdf57fe1137"
   },
   "66": {
     "translation": "Louis Segond (1910)",
@@ -789,6 +789,6 @@
     "nr": 66,
     "name": "Apocalypse",
     "url": "https://api.getbible.net/v2/ls1910/66.json",
-    "sha": "43385f361666966b2018650a54fe3d229edd6855"
+    "sha": "bdd5a1df730034a2c4ebf1e2af89ea5c3e5ac53d"
   }
 }

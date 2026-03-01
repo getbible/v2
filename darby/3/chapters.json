@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Lévitique 1",
     "url": "https://api.getbible.net/v2/darby/3/1.json",
-    "sha": "7b4581d31fdfc8fc361a7ef73363f3f8807cf81b"
+    "sha": "1596c4cc1b7f2b0ad96e56d8d524efdcb690aafa"
   },
   "2": {
     "translation": "Darby",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Lévitique 17",
     "url": "https://api.getbible.net/v2/darby/3/17.json",
-    "sha": "bb2188068879411fbb0a1a54d8128e27092b7bdb"
+    "sha": "557e6cee4980c3a7de682ff17d3e6d38761d66fd"
   },
   "18": {
     "translation": "Darby",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Lévitique 18",
     "url": "https://api.getbible.net/v2/darby/3/18.json",
-    "sha": "7988fdff11b86c53087044516156b0ba2f3de686"
+    "sha": "13ed3be77804db986610c748fd1f34112a308b5c"
   },
   "19": {
     "translation": "Darby",
@@ -375,6 +375,6 @@
     "chapter": 27,
     "name": "Lévitique 27",
     "url": "https://api.getbible.net/v2/darby/3/27.json",
-    "sha": "2dbdb3cfce0187ab55a0bc9e585e78c348af96c7"
+    "sha": "07ef49ed19fba18852daa0dea30893dae8cc54be"
   }
 }
