@@ -396,13 +396,13 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Czech",
-    "distribution_version": "1.8",
-    "distribution_version_date": "2020-01-23",
+    "distribution_version": "1.9",
+    "distribution_version_date": "2026-03-24",
     "distribution_abbreviation": "CEP",
     "distribution_about": "Czech Ekumenicky Cesky preklad: Bible Pismo svate Stareho i Noveho Zakona podle ekumenickeho vydani z r. 2001 (c) Ekumenicka\\par rada cirkvi v CR.",
     "distribution_license": "Copyrighted; Permission to distribute granted to CrossWire",
     "distribution_sourcetype": "OSIS",
-    "distribution_source": "",
+    "distribution_source": "https://gitlab.com/crosswire-bible-society/CzeCEP/",
     "distribution_versification": "German",
     "distribution_history": {
       "history_1.1": "enciphered module",
@@ -414,10 +414,11 @@
       "history_1.5.2": "correction to conf file",
       "history_1.6": "Another typo in Jer.23.29",
       "history_1.6.1": "(2017-02-28) Fix xml:lang attribute in OSIS file",
-      "history_1.8": "(2020-01-23) Fix multiple typos in the text (mostly suggested by Libor Štefek)."
+      "history_1.8": "(2020-01-23) Fix multiple typos in the text (mostly suggested by Libor Štefek).",
+      "history_1.9": "(2026-03-24) Multiple typos fixed, pairing issues resolved"
     },
     "url": "https://api.getbible.net/v2/cep.json",
-    "sha": "258aab7b8ec993ba3aeec817de5d846b96810539"
+    "sha": "2cc359e8b61bd73634e3e456ad9117973fe2f11c"
   },
   "chamorro": {
     "translation": "(Psalms Gospels Acts)",

@@ -403,7 +403,7 @@
     "chapter": 29,
     "name": "Izajáš 29",
     "url": "https://api.getbible.net/v2/cep/23/29.json",
-    "sha": "c196e762f79d4638491b90b7f5083d19480e963c"
+    "sha": "383620a9548ffeb335672284dc6b2048af4786a4"
   },
   "30": {
     "translation": "Czech CEP",
@@ -683,7 +683,7 @@
     "chapter": 49,
     "name": "Izajáš 49",
     "url": "https://api.getbible.net/v2/cep/23/49.json",
-    "sha": "fc64d3a5ac1b0ead9a31efc82a1a674f3c8e942f"
+    "sha": "b66ad4c7b86245ca8af2c6e386408cf54163798d"
   },
   "50": {
     "translation": "Czech CEP",
@@ -921,6 +921,6 @@
     "chapter": 66,
     "name": "Izajáš 66",
     "url": "https://api.getbible.net/v2/cep/23/66.json",
-    "sha": "bffe7ec192dff0c2624155f28a11372b8500cc45"
+    "sha": "274fd164a29607195754e3a684dd8751223d7f06"
   }
 }

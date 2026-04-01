@@ -9,7 +9,7 @@
     "nr": 1,
     "name": "Genesis",
     "url": "https://api.getbible.net/v2/cep/1.json",
-    "sha": "e33ef4f8563ff7c6a4aec73b09a65336701c090a"
+    "sha": "e9c1914c15b1f60dd5aca58b90855d261816aabf"
   },
   "2": {
     "translation": "Czech CEP",
@@ -21,7 +21,7 @@
     "nr": 2,
     "name": "Exodus",
     "url": "https://api.getbible.net/v2/cep/2.json",
-    "sha": "d76af99f5ed0409a86d5c471dc2c94eafbcd6ea7"
+    "sha": "c50d11288be76b1ce8e554f9dcdb917abbc2678c"
   },
   "3": {
     "translation": "Czech CEP",
@@ -69,7 +69,7 @@
     "nr": 6,
     "name": "Jozue",
     "url": "https://api.getbible.net/v2/cep/6.json",
-    "sha": "ab9dc8a2274130a5232f8ed077a060710a31b065"
+    "sha": "63732b5b261f44390834689310981071922a0cef"
   },
   "7": {
     "translation": "Czech CEP",
@@ -81,7 +81,7 @@
     "nr": 7,
     "name": "Soudců",
     "url": "https://api.getbible.net/v2/cep/7.json",
-    "sha": "9d0b5dd57805ca67fe9854271f2a53eadca6601c"
+    "sha": "c0bf255f3f49ca22fbaff3b17039f5cfe707b8c7"
   },
   "8": {
     "translation": "Czech CEP",
@@ -105,7 +105,7 @@
     "nr": 9,
     "name": "1 Samuel",
     "url": "https://api.getbible.net/v2/cep/9.json",
-    "sha": "e7a401340b99a02e5d355a1091c54970bad65316"
+    "sha": "b39b4c143b43685b1fd74164e9334816a91ef7ed"
   },
   "10": {
     "translation": "Czech CEP",
@@ -141,7 +141,7 @@
     "nr": 12,
     "name": "2 Královská",
     "url": "https://api.getbible.net/v2/cep/12.json",
-    "sha": "b29806c4b77cb8d1995b6fb9902e1afe4ef292f3"
+    "sha": "781157643698355953434d9d18175d2e668e3eaf"
   },
   "13": {
     "translation": "Czech CEP",
@@ -153,7 +153,7 @@
     "nr": 13,
     "name": "1 Paralipomenon",
     "url": "https://api.getbible.net/v2/cep/13.json",
-    "sha": "b70e2a3c0c667965483801a09f74c53b86d23545"
+    "sha": "ab383d8cd900f49a08c128e94aa51244089646c4"
   },
   "14": {
     "translation": "Czech CEP",
@@ -177,7 +177,7 @@
     "nr": 15,
     "name": "Ezdráš",
     "url": "https://api.getbible.net/v2/cep/15.json",
-    "sha": "fa96b3138450db53b3914cf04bd38ed8b6ae4976"
+    "sha": "34beeb4a07221a592a9bc4dcd90e37a66c4ed013"
   },
   "16": {
     "translation": "Czech CEP",
@@ -201,7 +201,7 @@
     "nr": 17,
     "name": "Ester",
     "url": "https://api.getbible.net/v2/cep/17.json",
-    "sha": "260c4d254416a7c3c00b477cb4ff0abbed79b72f"
+    "sha": "9a3bca120bd7605fad12e7f8041f0feed46999db"
   },
   "18": {
     "translation": "Czech CEP",
@@ -213,7 +213,7 @@
     "nr": 18,
     "name": "Job",
     "url": "https://api.getbible.net/v2/cep/18.json",
-    "sha": "b905c61af343c5dea77f33e4bb4aada4371c8840"
+    "sha": "a05f0e81241691a6434164ddec47454060150c93"
   },
   "19": {
     "translation": "Czech CEP",
@@ -225,7 +225,7 @@
     "nr": 19,
     "name": "Žalmy",
     "url": "https://api.getbible.net/v2/cep/19.json",
-    "sha": "cef188731ef08d7726e3e488352db64cb3a9c7a0"
+    "sha": "5c82b6f97b71b2864a41788b99be2eacdae0ebdb"
   },
   "20": {
     "translation": "Czech CEP",
@@ -237,7 +237,7 @@
     "nr": 20,
     "name": "Přísloví",
     "url": "https://api.getbible.net/v2/cep/20.json",
-    "sha": "aad1857fcce9ed82d37b75cd31d6b642100790fc"
+    "sha": "40067511657b3622b8c1903e81eda9165b32f6c4"
   },
   "21": {
     "translation": "Czech CEP",
@@ -261,7 +261,7 @@
     "nr": 22,
     "name": "Píseň písní",
     "url": "https://api.getbible.net/v2/cep/22.json",
-    "sha": "1a79ee713dd47f1950808f8da53995785e00a1c8"
+    "sha": "21d5052eae0f1cbe06c64a6734a53b11eff9b309"
   },
   "23": {
     "translation": "Czech CEP",
@@ -273,7 +273,7 @@
     "nr": 23,
     "name": "Izajáš",
     "url": "https://api.getbible.net/v2/cep/23.json",
-    "sha": "407210bb26bf12fd346b65a6e6b99214ed3b30b6"
+    "sha": "d4da5287133ce35679a9ed4c3da1e37c619b51ee"
   },
   "24": {
     "translation": "Czech CEP",
@@ -285,7 +285,7 @@
     "nr": 24,
     "name": "Jeremjáš",
     "url": "https://api.getbible.net/v2/cep/24.json",
-    "sha": "2e4fc0516239aaaa2228c0be655abac322dda3ee"
+    "sha": "1d2c1e826dc63b6fecd8f70c5e61aea945923926"
   },
   "25": {
     "translation": "Czech CEP",
@@ -309,7 +309,7 @@
     "nr": 26,
     "name": "Ezechiel",
     "url": "https://api.getbible.net/v2/cep/26.json",
-    "sha": "351d4252c85735f6bab9f82b06fa791bee0940dd"
+    "sha": "64713e5a7c44b4e802585888eb21d9df5013bb5e"
   },
   "27": {
     "translation": "Czech CEP",
@@ -321,7 +321,7 @@
     "nr": 27,
     "name": "Daniel",
     "url": "https://api.getbible.net/v2/cep/27.json",
-    "sha": "a56daeb1ffbc2d7103b378ce287c9d5865697a64"
+    "sha": "dbdb782cfe7e8aaf2db11de36e600c360bcc1ba5"
   },
   "28": {
     "translation": "Czech CEP",
@@ -393,7 +393,7 @@
     "nr": 33,
     "name": "Micheáš",
     "url": "https://api.getbible.net/v2/cep/33.json",
-    "sha": "df044f098aaa3613e8f6b1565654144686a0e493"
+    "sha": "d1827fc4bed897f93fdf1adaf4a36ced62bf29f3"
   },
   "34": {
     "translation": "Czech CEP",
@@ -441,7 +441,7 @@
     "nr": 37,
     "name": "Haggeus",
     "url": "https://api.getbible.net/v2/cep/37.json",
-    "sha": "5a318b93a5134d19d34a96f6579aa1239c1b0885"
+    "sha": "f82a2ccca64707205329bb7250250f66559ad1bf"
   },
   "38": {
     "translation": "Czech CEP",
@@ -453,7 +453,7 @@
     "nr": 38,
     "name": "Zacharjáš",
     "url": "https://api.getbible.net/v2/cep/38.json",
-    "sha": "c1c75c1770b66ee3f91343274e4a9abe97464b4b"
+    "sha": "75f96623b39a9f43665b27c7b61f53d36a9befaa"
   },
   "39": {
     "translation": "Czech CEP",
@@ -477,7 +477,7 @@
     "nr": 40,
     "name": "Matouš",
     "url": "https://api.getbible.net/v2/cep/40.json",
-    "sha": "4b8a936c98ad3d8ccd000cd3a0691e8920d66bea"
+    "sha": "994e5297de36c089cb1280e995b24d9c34a5508d"
   },
   "41": {
     "translation": "Czech CEP",
@@ -489,7 +489,7 @@
     "nr": 41,
     "name": "Markus",
     "url": "https://api.getbible.net/v2/cep/41.json",
-    "sha": "b1457ac581b929e98e5fd91318bf552bc4b5334b"
+    "sha": "cc317b0f896dedb439acbf9fedd93f6f58d7c72c"
   },
   "42": {
     "translation": "Czech CEP",
@@ -501,7 +501,7 @@
     "nr": 42,
     "name": "Lukáš",
     "url": "https://api.getbible.net/v2/cep/42.json",
-    "sha": "9be87099d37c2818e9ec45745786bf81d344f8e1"
+    "sha": "f4c5b9050273f2f5065ec0043ad0d43d6ef747dd"
   },
   "43": {
     "translation": "Czech CEP",
@@ -513,7 +513,7 @@
     "nr": 43,
     "name": "Jan",
     "url": "https://api.getbible.net/v2/cep/43.json",
-    "sha": "e8823335ac35a74475fdbe398a1c510c87d732ea"
+    "sha": "06cdade8de4c217a219f4ec05cc9c756fd4151d3"
   },
   "44": {
     "translation": "Czech CEP",
@@ -525,7 +525,7 @@
     "nr": 44,
     "name": "Skutky apoštolské",
     "url": "https://api.getbible.net/v2/cep/44.json",
-    "sha": "ad2e9c699766ed1b3ab5ba6f7cc22816a4fe84e1"
+    "sha": "04f0f5c765f9d1c87b2e4195d64d48aab5298441"
   },
   "45": {
     "translation": "Czech CEP",
@@ -693,7 +693,7 @@
     "nr": 58,
     "name": "Židům",
     "url": "https://api.getbible.net/v2/cep/58.json",
-    "sha": "588a410624fd1ba27c01ec70d744b9a45d640709"
+    "sha": "6cbd7e58c4ca24a2f1686b78e397bd4593662308"
   },
   "59": {
     "translation": "Czech CEP",

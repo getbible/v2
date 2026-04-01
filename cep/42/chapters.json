@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Lukáš 4",
     "url": "https://api.getbible.net/v2/cep/42/4.json",
-    "sha": "6af9bb9aa03f8c3b60a4740e215cee68b52cfd29"
+    "sha": "3ea44fe98ffeafa7a39f2ca8625e8469d97bbb00"
   },
   "5": {
     "translation": "Czech CEP",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Lukáš 5",
     "url": "https://api.getbible.net/v2/cep/42/5.json",
-    "sha": "8593b2e447fb4baed1470b48f3d986204b9362d7"
+    "sha": "f7012b0409bc02c84456bf1d48f75f4e0b33189a"
   },
   "6": {
     "translation": "Czech CEP",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Lukáš 9",
     "url": "https://api.getbible.net/v2/cep/42/9.json",
-    "sha": "c30f81f0c5c9fdda6ba6e272760f8101b760f410"
+    "sha": "ed5938dbf0cdf10b737f79774bb28ba6f6904fc4"
   },
   "10": {
     "translation": "Czech CEP",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Lukáš 11",
     "url": "https://api.getbible.net/v2/cep/42/11.json",
-    "sha": "5d5b7f4b93edcd20811dd3f27bade30d5e192639"
+    "sha": "8452530b7fa76ef340ac493075c4ce69b81df511"
   },
   "12": {
     "translation": "Czech CEP",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Lukáš 13",
     "url": "https://api.getbible.net/v2/cep/42/13.json",
-    "sha": "2b30a151c37f32f819964363cfbbd27d09b0dda3"
+    "sha": "e95843ab0319c42c69dc0f6415226ad71725bf86"
   },
   "14": {
     "translation": "Czech CEP",
@@ -333,6 +333,6 @@
     "chapter": 24,
     "name": "Lukáš 24",
     "url": "https://api.getbible.net/v2/cep/42/24.json",
-    "sha": "bf219a91366941f441a948296fdb48e39ba62736"
+    "sha": "0df98118961849e3bf9d8ca3fcf496990051fcc1"
   }
 }
