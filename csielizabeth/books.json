@@ -371,6 +371,18 @@
     "url": "https://api.getbible.net/v2/csielizabeth/25.json",
     "sha": "9d91d552d1cccd82b87dea9670fbb7e7eee07580"
   },
+  "84": {
+    "translation": "1757 Church Slavonic Elizabeth Bible",
+    "abbreviation": "csielizabeth",
+    "lang": "cu",
+    "language": "Slavonic Elizabeth",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 84,
+    "name": "Epistle of Jeremiah",
+    "url": "https://api.getbible.net/v2/csielizabeth/84.json",
+    "sha": "37968691e798be8df3e028135ab8951be3faaff4"
+  },
   "75": {
     "translation": "1757 Church Slavonic Elizabeth Bible",
     "abbreviation": "csielizabeth",

@@ -371,6 +371,18 @@
     "url": "https://api.getbible.net/v2/synodal/25.json",
     "sha": "d0686065694c562809139642a2f1006e4070654c"
   },
+  "84": {
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "lang": "ru",
+    "language": "Russian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 84,
+    "name": "Послание Иеремии",
+    "url": "https://api.getbible.net/v2/synodal/84.json",
+    "sha": "667017bfdf359824e4f479b279ae1607c05b5fd8"
+  },
   "75": {
     "translation": "Synodal Translation (1876)",
     "abbreviation": "synodal",

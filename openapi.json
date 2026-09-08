@@ -1,0 +1,1565 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "getBible JSON API",
+    "version": "v2",
+    "summary": "Static JSON files of Bible translations built from the Crosswire modules",
+    "description": "Every resource is a static file in a fixed tree: a translation (`{abbreviation}.json`), one of its books (`{abbreviation}/{book}.json`) or one of its chapters (`{abbreviation}/{book}/{chapter}.json`), and at every level an index of what is available (`translations`, `books`, `chapters`) with a checksum index (`checksum`), each as JSON (`.json`) and as tab-separated text (`.txt`). Every JSON file, the indexes and this document included, has a `.sha` file beside it holding its SHA-1 checksum. The files take no parameters. The checksums identify a build: a changed checksum means the file was rebuilt from an updated module.",
+    "contact": {
+      "name": "getBible",
+      "url": "https://getbible.net"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://api.getbible.net/v2",
+      "description": "Root of the tree"
+    }
+  ],
+  "tags": [
+    {
+      "name": "translations",
+      "description": "The translations in the tree and their complete text"
+    },
+    {
+      "name": "books",
+      "description": "The books of a translation"
+    },
+    {
+      "name": "chapters",
+      "description": "The chapters of a book"
+    },
+    {
+      "name": "checksums",
+      "description": "SHA-1 checksums of the files, to detect changes between builds"
+    }
+  ],
+  "paths": {
+    "/translations.json": {
+      "get": {
+        "tags": [
+          "translations"
+        ],
+        "summary": "Index of the translations",
+        "description": "Every translation in the tree with its details and checksum, keyed by abbreviation.",
+        "operationId": "listTranslations",
+        "responses": {
+          "200": {
+            "description": "Index of the translations",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TranslationIndex"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/translations.txt": {
+      "get": {
+        "tags": [
+          "translations"
+        ],
+        "summary": "Index of the translations as text",
+        "description": "Every translation in the tree, one per line, with the columns: #, language, translation, abbreviation, direction, filename, sha.",
+        "operationId": "listTranslationsText",
+        "responses": {
+          "200": {
+            "description": "Index of the translations as text",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TabSeparatedIndex"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/translations.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of the index of the translations",
+        "description": "The SHA-1 checksum of translations.json.",
+        "operationId": "getTranslationIndexChecksum",
+        "responses": {
+          "200": {
+            "description": "Checksum of the index of the translations",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/checksum.json": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksums of the translations",
+        "description": "The SHA-1 checksum of every translation file, keyed by abbreviation.",
+        "operationId": "listTranslationChecksums",
+        "responses": {
+          "200": {
+            "description": "Checksums of the translations",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChecksumIndex"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/checksum.txt": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksums of the translations as text",
+        "description": "The SHA-1 checksum of every translation file, one per line, with the columns: #, filename, sha.",
+        "operationId": "listTranslationChecksumsText",
+        "responses": {
+          "200": {
+            "description": "Checksums of the translations as text",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TabSeparatedIndex"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/checksum.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of the checksums of the translations",
+        "description": "The SHA-1 checksum of checksum.json.",
+        "operationId": "getTranslationChecksumIndexChecksum",
+        "responses": {
+          "200": {
+            "description": "Checksum of the checksums of the translations",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/{abbreviation}.json": {
+      "get": {
+        "tags": [
+          "translations"
+        ],
+        "summary": "A complete translation",
+        "description": "The whole translation: every book with every chapter and verse, and the details of the source module.",
+        "operationId": "getTranslation",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A complete translation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Translation"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of a translation",
+        "description": "The SHA-1 checksum of the translation file.",
+        "operationId": "getTranslationChecksum",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksum of a translation",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/books.json": {
+      "get": {
+        "tags": [
+          "books"
+        ],
+        "summary": "Index of the books of a translation",
+        "description": "Every book of the translation with its details and checksum, keyed by book number.",
+        "operationId": "listBooks",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Index of the books of a translation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BookIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/books.txt": {
+      "get": {
+        "tags": [
+          "books"
+        ],
+        "summary": "Index of the books of a translation as text",
+        "description": "Every book of the translation, one per line, with the columns: #, language, translation, abbreviation, direction, name, filename, sha.",
+        "operationId": "listBooksText",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Index of the books of a translation as text",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TabSeparatedIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/books.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of the index of the books of a translation",
+        "description": "The SHA-1 checksum of the books.json of the translation.",
+        "operationId": "getBookIndexChecksum",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksum of the index of the books of a translation",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/checksum.json": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksums of the books of a translation",
+        "description": "The SHA-1 checksum of every book file of the translation, keyed by book number.",
+        "operationId": "listBookChecksums",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksums of the books of a translation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChecksumIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/checksum.txt": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksums of the books of a translation as text",
+        "description": "The SHA-1 checksum of every book file of the translation, one per line, with the columns: #, filename, sha.",
+        "operationId": "listBookChecksumsText",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksums of the books of a translation as text",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TabSeparatedIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/checksum.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of the checksums of the books of a translation",
+        "description": "The SHA-1 checksum of the checksum.json of the translation.",
+        "operationId": "getBookChecksumIndexChecksum",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksum of the checksums of the books of a translation",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}.json": {
+      "get": {
+        "tags": [
+          "books"
+        ],
+        "summary": "A complete book",
+        "description": "One book of the translation with every chapter and verse.",
+        "operationId": "getBook",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A complete book",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Book"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of a book",
+        "description": "The SHA-1 checksum of the book file.",
+        "operationId": "getBookChecksum",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksum of a book",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/chapters.json": {
+      "get": {
+        "tags": [
+          "chapters"
+        ],
+        "summary": "Index of the chapters of a book",
+        "description": "Every chapter of the book with its details and checksum, keyed by chapter number.",
+        "operationId": "listChapters",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Index of the chapters of a book",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChapterIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/chapters.txt": {
+      "get": {
+        "tags": [
+          "chapters"
+        ],
+        "summary": "Index of the chapters of a book as text",
+        "description": "Every chapter of the book, one per line, with the columns: #, language, translation, abbreviation, textdirection, book_nr, book_name, filename, sha.",
+        "operationId": "listChaptersText",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Index of the chapters of a book as text",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TabSeparatedIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/chapters.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of the index of the chapters of a book",
+        "description": "The SHA-1 checksum of the chapters.json of the book.",
+        "operationId": "getChapterIndexChecksum",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksum of the index of the chapters of a book",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/checksum.json": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksums of the chapters of a book",
+        "description": "The SHA-1 checksum of every chapter file of the book, keyed by chapter number.",
+        "operationId": "listChapterChecksums",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksums of the chapters of a book",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChecksumIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/checksum.txt": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksums of the chapters of a book as text",
+        "description": "The SHA-1 checksum of every chapter file of the book, one per line, with the columns: #, filename, sha.",
+        "operationId": "listChapterChecksumsText",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksums of the chapters of a book as text",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TabSeparatedIndex"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/checksum.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of the checksums of the chapters of a book",
+        "description": "The SHA-1 checksum of the checksum.json of the book.",
+        "operationId": "getChapterChecksumIndexChecksum",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksum of the checksums of the chapters of a book",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/{chapter}.json": {
+      "get": {
+        "tags": [
+          "chapters"
+        ],
+        "summary": "A complete chapter",
+        "description": "One chapter of a book with every verse.",
+        "operationId": "getChapter",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          },
+          {
+            "$ref": "#/components/parameters/chapter"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A complete chapter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Chapter"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/{abbreviation}/{book}/{chapter}.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of a chapter",
+        "description": "The SHA-1 checksum of the chapter file.",
+        "operationId": "getChapterChecksum",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/abbreviation"
+          },
+          {
+            "$ref": "#/components/parameters/book"
+          },
+          {
+            "$ref": "#/components/parameters/chapter"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Checksum of a chapter",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          }
+        }
+      }
+    },
+    "/openapi.json": {
+      "get": {
+        "summary": "This document",
+        "description": "The OpenAPI description of this tree, written at the end of the build that produced it.",
+        "operationId": "getOpenApi",
+        "responses": {
+          "200": {
+            "description": "OpenAPI 3.1 document",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/openapi.sha": {
+      "get": {
+        "tags": [
+          "checksums"
+        ],
+        "summary": "Checksum of this document",
+        "description": "The SHA-1 checksum of openapi.json.",
+        "operationId": "getOpenApiChecksum",
+        "responses": {
+          "200": {
+            "description": "Checksum of this document",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sha1File"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Direction": {
+        "type": "string",
+        "description": "Writing direction of the text",
+        "enum": [
+          "LTR",
+          "RTL"
+        ]
+      },
+      "Sha1": {
+        "type": "string",
+        "description": "SHA-1 checksum of a JSON file, as 40 lowercase hexadecimal characters",
+        "pattern": "^[0-9a-f]{40}$"
+      },
+      "Sha1File": {
+        "type": "string",
+        "description": "The content of a .sha file: the SHA-1 checksum of the JSON file with the same name, as 40 lowercase hexadecimal characters followed by a newline",
+        "pattern": "^[0-9a-f]{40}\\s*$"
+      },
+      "TabSeparatedIndex": {
+        "type": "string",
+        "description": "The content of a .txt index file: a header line starting with # that names the columns, then one tab-separated line per file"
+      },
+      "Verse": {
+        "type": "object",
+        "description": "One verse",
+        "properties": {
+          "chapter": {
+            "type": "integer",
+            "description": "Chapter number",
+            "minimum": 1
+          },
+          "verse": {
+            "type": "integer",
+            "description": "Verse number",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the verse, as book name, chapter and verse"
+          },
+          "text": {
+            "type": "string",
+            "description": "Text of the verse"
+          }
+        },
+        "required": [
+          "chapter",
+          "verse",
+          "name",
+          "text"
+        ]
+      },
+      "BookChapter": {
+        "type": "object",
+        "description": "One chapter with its verses",
+        "properties": {
+          "chapter": {
+            "type": "integer",
+            "description": "Chapter number",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the chapter, as book name and chapter"
+          },
+          "verses": {
+            "type": "array",
+            "description": "Verses of the chapter",
+            "items": {
+              "$ref": "#/components/schemas/Verse"
+            }
+          }
+        },
+        "required": [
+          "chapter",
+          "name",
+          "verses"
+        ]
+      },
+      "TranslationBook": {
+        "type": "object",
+        "description": "One book with its chapters",
+        "properties": {
+          "nr": {
+            "type": "integer",
+            "description": "Book number",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the book in the translation"
+          },
+          "chapters": {
+            "type": "array",
+            "description": "Chapters of the book",
+            "items": {
+              "$ref": "#/components/schemas/BookChapter"
+            }
+          }
+        },
+        "required": [
+          "nr",
+          "name",
+          "chapters"
+        ]
+      },
+      "Translation": {
+        "type": "object",
+        "description": "A complete translation file",
+        "properties": {
+          "translation": {
+            "type": "string",
+            "description": "Name of the translation"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the translation, used as its file and folder name",
+            "pattern": "^[a-z0-9]+$"
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of the translation from the source module"
+          },
+          "lang": {
+            "type": "string",
+            "description": "Language code of the translation"
+          },
+          "language": {
+            "type": "string",
+            "description": "Name of the language in English"
+          },
+          "direction": {
+            "$ref": "#/components/schemas/Direction"
+          },
+          "encoding": {
+            "type": "string",
+            "description": "Character encoding of the source module"
+          },
+          "books": {
+            "type": "array",
+            "description": "Books of the translation",
+            "items": {
+              "$ref": "#/components/schemas/TranslationBook"
+            }
+          },
+          "distribution_lcsh": {
+            "type": "string",
+            "description": "Library of Congress subject heading of the source module"
+          },
+          "distribution_version": {
+            "type": "string",
+            "description": "Version of the source module"
+          },
+          "distribution_version_date": {
+            "type": "string",
+            "description": "Date of the source module version"
+          },
+          "distribution_abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the source module"
+          },
+          "distribution_about": {
+            "type": "string",
+            "description": "About text of the source module"
+          },
+          "distribution_license": {
+            "type": "string",
+            "description": "Distribution license of the source module text"
+          },
+          "distribution_sourcetype": {
+            "type": "string",
+            "description": "Markup type of the source module text"
+          },
+          "distribution_source": {
+            "type": "string",
+            "description": "Origin of the source module text"
+          },
+          "distribution_versification": {
+            "type": "string",
+            "description": "Versification of the source module"
+          },
+          "distribution_history": {
+            "type": "object",
+            "description": "Change history of the source module, keyed by history entry",
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "translation",
+          "abbreviation",
+          "description",
+          "lang",
+          "language",
+          "direction",
+          "encoding",
+          "books",
+          "distribution_lcsh",
+          "distribution_version",
+          "distribution_version_date",
+          "distribution_abbreviation",
+          "distribution_about",
+          "distribution_license",
+          "distribution_sourcetype",
+          "distribution_source",
+          "distribution_versification",
+          "distribution_history"
+        ]
+      },
+      "TranslationSummary": {
+        "type": "object",
+        "description": "A translation as listed in translations.json (the translation file without its books)",
+        "properties": {
+          "translation": {
+            "type": "string",
+            "description": "Name of the translation"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the translation, used as its file and folder name",
+            "pattern": "^[a-z0-9]+$"
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of the translation from the source module"
+          },
+          "lang": {
+            "type": "string",
+            "description": "Language code of the translation"
+          },
+          "language": {
+            "type": "string",
+            "description": "Name of the language in English"
+          },
+          "direction": {
+            "$ref": "#/components/schemas/Direction"
+          },
+          "encoding": {
+            "type": "string",
+            "description": "Character encoding of the source module"
+          },
+          "distribution_lcsh": {
+            "type": "string",
+            "description": "Library of Congress subject heading of the source module"
+          },
+          "distribution_version": {
+            "type": "string",
+            "description": "Version of the source module"
+          },
+          "distribution_version_date": {
+            "type": "string",
+            "description": "Date of the source module version"
+          },
+          "distribution_abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the source module"
+          },
+          "distribution_about": {
+            "type": "string",
+            "description": "About text of the source module"
+          },
+          "distribution_license": {
+            "type": "string",
+            "description": "Distribution license of the source module text"
+          },
+          "distribution_sourcetype": {
+            "type": "string",
+            "description": "Markup type of the source module text"
+          },
+          "distribution_source": {
+            "type": "string",
+            "description": "Origin of the source module text"
+          },
+          "distribution_versification": {
+            "type": "string",
+            "description": "Versification of the source module"
+          },
+          "distribution_history": {
+            "type": "object",
+            "description": "Change history of the source module, keyed by history entry",
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "url": {
+            "type": "string",
+            "description": "Address of the translation file",
+            "format": "uri"
+          },
+          "sha": {
+            "$ref": "#/components/schemas/Sha1",
+            "description": "SHA-1 checksum of the translation file"
+          }
+        },
+        "required": [
+          "translation",
+          "abbreviation",
+          "description",
+          "lang",
+          "language",
+          "direction",
+          "encoding",
+          "distribution_lcsh",
+          "distribution_version",
+          "distribution_version_date",
+          "distribution_abbreviation",
+          "distribution_about",
+          "distribution_license",
+          "distribution_sourcetype",
+          "distribution_source",
+          "distribution_versification",
+          "distribution_history",
+          "url",
+          "sha"
+        ]
+      },
+      "TranslationIndex": {
+        "type": "object",
+        "description": "Every translation in the tree, keyed by abbreviation",
+        "propertyNames": {
+          "pattern": "^[a-z0-9]+$"
+        },
+        "additionalProperties": {
+          "$ref": "#/components/schemas/TranslationSummary"
+        }
+      },
+      "Book": {
+        "type": "object",
+        "description": "A complete book file",
+        "properties": {
+          "translation": {
+            "type": "string",
+            "description": "Name of the translation"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the translation, used as its file and folder name",
+            "pattern": "^[a-z0-9]+$"
+          },
+          "lang": {
+            "type": "string",
+            "description": "Language code of the translation"
+          },
+          "language": {
+            "type": "string",
+            "description": "Name of the language in English"
+          },
+          "direction": {
+            "$ref": "#/components/schemas/Direction"
+          },
+          "encoding": {
+            "type": "string",
+            "description": "Character encoding of the source module"
+          },
+          "nr": {
+            "type": "integer",
+            "description": "Book number",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the book in the translation"
+          },
+          "chapters": {
+            "type": "array",
+            "description": "Chapters of the book",
+            "items": {
+              "$ref": "#/components/schemas/BookChapter"
+            }
+          }
+        },
+        "required": [
+          "translation",
+          "abbreviation",
+          "lang",
+          "language",
+          "direction",
+          "encoding",
+          "nr",
+          "name",
+          "chapters"
+        ]
+      },
+      "BookSummary": {
+        "type": "object",
+        "description": "A book as listed in books.json (the book file without its chapters)",
+        "properties": {
+          "translation": {
+            "type": "string",
+            "description": "Name of the translation"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the translation, used as its file and folder name",
+            "pattern": "^[a-z0-9]+$"
+          },
+          "lang": {
+            "type": "string",
+            "description": "Language code of the translation"
+          },
+          "language": {
+            "type": "string",
+            "description": "Name of the language in English"
+          },
+          "direction": {
+            "$ref": "#/components/schemas/Direction"
+          },
+          "encoding": {
+            "type": "string",
+            "description": "Character encoding of the source module"
+          },
+          "nr": {
+            "type": "integer",
+            "description": "Book number",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the book in the translation"
+          },
+          "url": {
+            "type": "string",
+            "description": "Address of the book file",
+            "format": "uri"
+          },
+          "sha": {
+            "$ref": "#/components/schemas/Sha1",
+            "description": "SHA-1 checksum of the book file"
+          }
+        },
+        "required": [
+          "translation",
+          "abbreviation",
+          "lang",
+          "language",
+          "direction",
+          "encoding",
+          "nr",
+          "name",
+          "url",
+          "sha"
+        ]
+      },
+      "BookIndex": {
+        "type": "object",
+        "description": "Every book of a translation, keyed by book number",
+        "propertyNames": {
+          "pattern": "^[0-9]+$"
+        },
+        "additionalProperties": {
+          "$ref": "#/components/schemas/BookSummary"
+        }
+      },
+      "Chapter": {
+        "type": "object",
+        "description": "A complete chapter file",
+        "properties": {
+          "translation": {
+            "type": "string",
+            "description": "Name of the translation"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the translation, used as its file and folder name",
+            "pattern": "^[a-z0-9]+$"
+          },
+          "lang": {
+            "type": "string",
+            "description": "Language code of the translation"
+          },
+          "language": {
+            "type": "string",
+            "description": "Name of the language in English"
+          },
+          "direction": {
+            "$ref": "#/components/schemas/Direction"
+          },
+          "encoding": {
+            "type": "string",
+            "description": "Character encoding of the source module"
+          },
+          "book_nr": {
+            "type": "integer",
+            "description": "Book number",
+            "minimum": 1
+          },
+          "book_name": {
+            "type": "string",
+            "description": "Name of the book in the translation"
+          },
+          "chapter": {
+            "type": "integer",
+            "description": "Chapter number",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the chapter, as book name and chapter"
+          },
+          "verses": {
+            "type": "array",
+            "description": "Verses of the chapter",
+            "items": {
+              "$ref": "#/components/schemas/Verse"
+            }
+          }
+        },
+        "required": [
+          "translation",
+          "abbreviation",
+          "lang",
+          "language",
+          "direction",
+          "encoding",
+          "book_nr",
+          "book_name",
+          "chapter",
+          "name",
+          "verses"
+        ]
+      },
+      "ChapterSummary": {
+        "type": "object",
+        "description": "A chapter as listed in chapters.json (the chapter file without its verses)",
+        "properties": {
+          "translation": {
+            "type": "string",
+            "description": "Name of the translation"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "Abbreviation of the translation, used as its file and folder name",
+            "pattern": "^[a-z0-9]+$"
+          },
+          "lang": {
+            "type": "string",
+            "description": "Language code of the translation"
+          },
+          "language": {
+            "type": "string",
+            "description": "Name of the language in English"
+          },
+          "direction": {
+            "$ref": "#/components/schemas/Direction"
+          },
+          "encoding": {
+            "type": "string",
+            "description": "Character encoding of the source module"
+          },
+          "book_nr": {
+            "type": "integer",
+            "description": "Book number",
+            "minimum": 1
+          },
+          "book_name": {
+            "type": "string",
+            "description": "Name of the book in the translation"
+          },
+          "chapter": {
+            "type": "integer",
+            "description": "Chapter number",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the chapter, as book name and chapter"
+          },
+          "url": {
+            "type": "string",
+            "description": "Address of the chapter file",
+            "format": "uri"
+          },
+          "sha": {
+            "$ref": "#/components/schemas/Sha1",
+            "description": "SHA-1 checksum of the chapter file"
+          }
+        },
+        "required": [
+          "translation",
+          "abbreviation",
+          "lang",
+          "language",
+          "direction",
+          "encoding",
+          "book_nr",
+          "book_name",
+          "chapter",
+          "name",
+          "url",
+          "sha"
+        ]
+      },
+      "ChapterIndex": {
+        "type": "object",
+        "description": "Every chapter of a book, keyed by chapter number",
+        "propertyNames": {
+          "pattern": "^[0-9]+$"
+        },
+        "additionalProperties": {
+          "$ref": "#/components/schemas/ChapterSummary"
+        }
+      },
+      "ChecksumIndex": {
+        "type": "object",
+        "description": "The SHA-1 checksum of every JSON file at this level, keyed by file name without extension",
+        "propertyNames": {
+          "pattern": "^[a-z0-9]+$"
+        },
+        "additionalProperties": {
+          "$ref": "#/components/schemas/Sha1"
+        }
+      }
+    },
+    "parameters": {
+      "abbreviation": {
+        "name": "abbreviation",
+        "in": "path",
+        "required": true,
+        "description": "Abbreviation of the translation, as listed in translations.json",
+        "schema": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+$",
+          "enum": [
+            "akjv",
+            "alb",
+            "aleppo",
+            "almeida",
+            "aov",
+            "arabicsv",
+            "asv",
+            "basicenglish",
+            "basque",
+            "bibelselskap",
+            "bkr",
+            "breton",
+            "burcbcm",
+            "calo",
+            "canisius",
+            "cep",
+            "chamorro",
+            "che1860",
+            "chiunl",
+            "cns",
+            "cnt",
+            "codex",
+            "coptic",
+            "cornilescu",
+            "croatia",
+            "csielizabeth",
+            "cus",
+            "cut",
+            "danish",
+            "danish1819",
+            "danish1871",
+            "darby",
+            "dari",
+            "douayrheims",
+            "easternarmenian",
+            "elberfelder",
+            "elberfelder1905",
+            "esperanto",
+            "estonian",
+            "finnish1776",
+            "gaelic",
+            "giovanni",
+            "gothic",
+            "japbungo",
+            "japdenmo",
+            "japkougo",
+            "japraguet",
+            "judson",
+            "karoli",
+            "kjv",
+            "kjva",
+            "klv",
+            "korean",
+            "koreankjv",
+            "latvian",
+            "lithuanian",
+            "livre",
+            "livretr",
+            "ls1910",
+            "luther1545",
+            "lxx",
+            "mal1910",
+            "manxgaelic",
+            "maori",
+            "martin",
+            "mg1865",
+            "moderngreek",
+            "modernhebrew",
+            "monkjv",
+            "ndebele",
+            "norsmb",
+            "peshitta",
+            "pohnold",
+            "pohnpeian",
+            "polgdanska",
+            "polugdanska",
+            "potawatomi",
+            "pyharaamattu1933",
+            "pyharaamattu1992",
+            "riveduta",
+            "rv1858",
+            "sahidic",
+            "schlachter",
+            "shona",
+            "srkdekavski",
+            "srkdijekav",
+            "sse",
+            "statenvertaling",
+            "statenvertalinga",
+            "swahili",
+            "swedish",
+            "swekarlxii",
+            "swekarlxii1873",
+            "synodal",
+            "tagalog",
+            "tausug",
+            "textusreceptus",
+            "thai",
+            "tischendorf",
+            "tpikjpb",
+            "turhadi",
+            "turkish",
+            "tyndale",
+            "ukranian",
+            "ukrogienko",
+            "uma",
+            "valera",
+            "vietnamese",
+            "vulgate",
+            "wb",
+            "web",
+            "westcotthort",
+            "westernarmenian",
+            "weymouth",
+            "wycliffe",
+            "ylt",
+            "zhuromsky"
+          ]
+        },
+        "example": "kjv"
+      },
+      "book": {
+        "name": "book",
+        "in": "path",
+        "required": true,
+        "description": "Book number, as listed in the books.json of the translation",
+        "schema": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 89
+        },
+        "example": 1
+      },
+      "chapter": {
+        "name": "chapter",
+        "in": "path",
+        "required": true,
+        "description": "Chapter number, as listed in the chapters.json of the book",
+        "schema": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "example": 1
+      }
+    },
+    "responses": {
+      "NotFound": {
+        "description": "No such file: the translation, book or chapter is not part of this tree"
+      }
+    }
+  }
+}

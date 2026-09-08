@@ -898,5 +898,17 @@
     "name": "1 Esdras",
     "url": "https://api.getbible.net/v2/wycliffe/67.json",
     "sha": "2950382cd733462d0000e1759e7233512c6e2b84"
+  },
+  "89": {
+    "translation": "John Wycliffe Bible (c.1395)",
+    "abbreviation": "wycliffe",
+    "lang": "enm",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 89,
+    "name": "Laodiceans",
+    "url": "https://api.getbible.net/v2/wycliffe/89.json",
+    "sha": "802db788c3491c7654c39e8e8d712e538d86fcc3"
   }
 }

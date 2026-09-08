@@ -371,6 +371,18 @@
     "url": "https://api.getbible.net/v2/lxx/74.json",
     "sha": "4cecd822f22baf37706277f498cdfdffb822b905"
   },
+  "85": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 85,
+    "name": "Psalms of Solomon",
+    "url": "https://api.getbible.net/v2/lxx/85.json",
+    "sha": "61a6a4a7639420576b192fa71b9385ebc8f878f9"
+  },
   "28": {
     "translation": "OT LXX Accented",
     "abbreviation": "lxx",
@@ -563,6 +575,18 @@
     "url": "https://api.getbible.net/v2/lxx/25.json",
     "sha": "0cfadecc398ac8015d4e7212b64987fddcd703c1"
   },
+  "84": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 84,
+    "name": "Epistle of Jeremiah",
+    "url": "https://api.getbible.net/v2/lxx/84.json",
+    "sha": "11c36334ce40fe2fd72f79ca66d87144392d31cd"
+  },
   "26": {
     "translation": "OT LXX Accented",
     "abbreviation": "lxx",
@@ -610,5 +634,17 @@
     "name": "Bel and the Dragon",
     "url": "https://api.getbible.net/v2/lxx/78.json",
     "sha": "b60d4c110b1084e311664f8c411282eb9a00cf42"
+  },
+  "86": {
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "lang": "grc",
+    "language": "Greek",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "nr": 86,
+    "name": "Odes",
+    "url": "https://api.getbible.net/v2/lxx/86.json",
+    "sha": "d9eb5af6580209ce2eb04bd2bf6d57aad5957e2f"
   }
 }
