@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Song of Solomon 1",
     "url": "https://api.getbible.net/v2/douayrheims/22/1.json",
-    "sha": "117f3b5a3a9244d122594f3b24f8c37dcf611140"
+    "sha": "e6803d4ad2097f8dd6d1363bf5a2db3fc1738679"
   },
   "2": {
     "translation": "Douay Rheims",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Song of Solomon 2",
     "url": "https://api.getbible.net/v2/douayrheims/22/2.json",
-    "sha": "f00fde6cdd4130bf8444b37ea68075168da42084"
+    "sha": "d0068be9ed86e031eb2ba0def7678ad03ec0db00"
   },
   "3": {
     "translation": "Douay Rheims",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Song of Solomon 3",
     "url": "https://api.getbible.net/v2/douayrheims/22/3.json",
-    "sha": "43b174174bb7964f1aef8341f1bb5149b864a796"
+    "sha": "5eb0883b0fe46b8d650d72f147e89a7e29a20289"
   },
   "4": {
     "translation": "Douay Rheims",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Song of Solomon 4",
     "url": "https://api.getbible.net/v2/douayrheims/22/4.json",
-    "sha": "71199485b7f150dae78dcb237ec1c8b562225e59"
+    "sha": "06be9ac181de251287e340df8ef1b0e03d25ab54"
   },
   "5": {
     "translation": "Douay Rheims",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Song of Solomon 5",
     "url": "https://api.getbible.net/v2/douayrheims/22/5.json",
-    "sha": "c9debd591e5d5743a089139063595e46ee710b76"
+    "sha": "33128921d0ece6752f949a1c46e6a0bbe94a7443"
   },
   "6": {
     "translation": "Douay Rheims",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Song of Solomon 6",
     "url": "https://api.getbible.net/v2/douayrheims/22/6.json",
-    "sha": "2f72736390678ed5ca952fded4cf42d57de29611"
+    "sha": "f909c86aeab5280b5eabed754584d2f1febb9df8"
   },
   "7": {
     "translation": "Douay Rheims",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Song of Solomon 7",
     "url": "https://api.getbible.net/v2/douayrheims/22/7.json",
-    "sha": "998b07f3746bc0c659e2e35e10284507d3ce0102"
+    "sha": "520e6f28b919933635366d7ec20ddf53529e9890"
   },
   "8": {
     "translation": "Douay Rheims",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Song of Solomon 8",
     "url": "https://api.getbible.net/v2/douayrheims/22/8.json",
-    "sha": "650ed41f3d6c59b12b2282d37231b1bb70579edd"
+    "sha": "55e414f2ab1122ca9c40cc877a02e3a9c6e19615"
   }
 }

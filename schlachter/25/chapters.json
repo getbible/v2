@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 1,
-    "name": "Klagelieder 1",
+    "name": "Lamentations 1",
     "url": "https://api.getbible.net/v2/schlachter/25/1.json",
-    "sha": "1c2227d3feb912a940518b311d4685cdcf6c91d7"
+    "sha": "08aebe7c8bb58c04a9c551efa2913f716bc701e3"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 2,
-    "name": "Klagelieder 2",
+    "name": "Lamentations 2",
     "url": "https://api.getbible.net/v2/schlachter/25/2.json",
-    "sha": "cff3830c860f73db13563741ed9ffbf6e1027a50"
+    "sha": "2a22903b1319b3961855eb65aa4d1f0c7bcf308a"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 3,
-    "name": "Klagelieder 3",
+    "name": "Lamentations 3",
     "url": "https://api.getbible.net/v2/schlachter/25/3.json",
-    "sha": "fc136e4bbc3b0c7906823c14ba4b7be3eeed31d7"
+    "sha": "f8ff2b6c9fd5b5fbbee3bf160b192d8490ebd406"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 4,
-    "name": "Klagelieder 4",
+    "name": "Lamentations 4",
     "url": "https://api.getbible.net/v2/schlachter/25/4.json",
-    "sha": "a58b9067a8b1373d4fffc48b2f8350f8f3d0b64e"
+    "sha": "460cddb14d2f7632a8bafd12528871e9b43efa3b"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 5,
-    "name": "Klagelieder 5",
+    "name": "Lamentations 5",
     "url": "https://api.getbible.net/v2/schlachter/25/5.json",
-    "sha": "3a2c0144ca1541bdc28317453ee01ece20525b54"
+    "sha": "807444c3040c6e2f0813ea52941ec25277d9864e"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 1,
-    "name": "Rut 1",
+    "name": "Ruth 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/8/1.json",
-    "sha": "1a606bdf31c1234af4336484e28c0b6eedc990c8"
+    "sha": "0abb921b84407d26c2b23c79949b3823aa6360ff"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 2,
-    "name": "Rut 2",
+    "name": "Ruth 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/8/2.json",
-    "sha": "3248345f0e980b0248b1eaa2b48c0cc1caa7f37e"
+    "sha": "251d98ac4725ebace41c8ecd9a810503975726c4"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 3,
-    "name": "Rut 3",
+    "name": "Ruth 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/8/3.json",
-    "sha": "4fd49f3061f5f710bc2434e278948aa340b03f2f"
+    "sha": "84700cf58e3263497a5008fb4802f73303545951"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 4,
-    "name": "Rut 4",
+    "name": "Ruth 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/8/4.json",
-    "sha": "12a883ba9f35875d5ed18b9bde28f1c4166272f8"
+    "sha": "dda27c130575f27a49fccec6b1c8cf1a200c3b4a"
   }
 }

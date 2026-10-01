@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 1,
-    "name": "3. Mose 1",
+    "name": "Leviticus 1",
     "url": "https://api.getbible.net/v2/schlachter/3/1.json",
-    "sha": "6f9aa1725e4d1e46fedb02e881786b532da5b2be"
+    "sha": "8c47b731da0f99659195090343ab033b7c76d1fe"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 2,
-    "name": "3. Mose 2",
+    "name": "Leviticus 2",
     "url": "https://api.getbible.net/v2/schlachter/3/2.json",
-    "sha": "0ee653de5a38c28675c62fabfc8a94f2792ff48d"
+    "sha": "b7993fb8c7a1a430b2656a05c7e52f49c06d95a8"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 3,
-    "name": "3. Mose 3",
+    "name": "Leviticus 3",
     "url": "https://api.getbible.net/v2/schlachter/3/3.json",
-    "sha": "de48048e45fcf5270fefefff5232c05d99197441"
+    "sha": "657435e3aa39ae1bf18cbac132e0a3c041d399af"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 4,
-    "name": "3. Mose 4",
+    "name": "Leviticus 4",
     "url": "https://api.getbible.net/v2/schlachter/3/4.json",
-    "sha": "7aa38bbf52a447f4ae09910df49733c203e27a99"
+    "sha": "a7165c2a6a80e67df1c46c414e88e34c5a1681a1"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 5,
-    "name": "3. Mose 5",
+    "name": "Leviticus 5",
     "url": "https://api.getbible.net/v2/schlachter/3/5.json",
-    "sha": "92b9aa755cc999909715ab5729000721cfcee679"
+    "sha": "41ab275e590708004a182975ea72bc31b8be5dd8"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 6,
-    "name": "3. Mose 6",
+    "name": "Leviticus 6",
     "url": "https://api.getbible.net/v2/schlachter/3/6.json",
-    "sha": "8ca3553ae8e75d2392840447c3b19552d9ec6658"
+    "sha": "344fb37b3f2f95b688236b4d29e8b26f966fc34d"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 7,
-    "name": "3. Mose 7",
+    "name": "Leviticus 7",
     "url": "https://api.getbible.net/v2/schlachter/3/7.json",
-    "sha": "3ddbe47d5d90b44501eeff4b777bafab8c00d48b"
+    "sha": "17ccb14705519be7d6517b2ed224ecae2d969874"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 8,
-    "name": "3. Mose 8",
+    "name": "Leviticus 8",
     "url": "https://api.getbible.net/v2/schlachter/3/8.json",
-    "sha": "5d702bde984f0dbe0b1cbc5a81cbb2f4ceb65b2c"
+    "sha": "1c247ae52f8aca87e1c3cd246dae82dda8bcca66"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 9,
-    "name": "3. Mose 9",
+    "name": "Leviticus 9",
     "url": "https://api.getbible.net/v2/schlachter/3/9.json",
-    "sha": "4ca3fa3e3ef902b447d626f50f88e0228ef2ab63"
+    "sha": "2f78900ffea71bf094ed1e0eb9232c9abcf0c50b"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 10,
-    "name": "3. Mose 10",
+    "name": "Leviticus 10",
     "url": "https://api.getbible.net/v2/schlachter/3/10.json",
-    "sha": "67e8a6bcb00a07e267f41457617dbfaeb3e11fc8"
+    "sha": "9a28825220b12afbe52ca0332a9e2b97df1bc528"
   },
   "11": {
     "translation": "Schlachter (1951)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 11,
-    "name": "3. Mose 11",
+    "name": "Leviticus 11",
     "url": "https://api.getbible.net/v2/schlachter/3/11.json",
-    "sha": "d713040108886c91adf843b9e666b14954452359"
+    "sha": "87cc15cfd1454a0d3ad827a17cdcb391e540a589"
   },
   "12": {
     "translation": "Schlachter (1951)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 12,
-    "name": "3. Mose 12",
+    "name": "Leviticus 12",
     "url": "https://api.getbible.net/v2/schlachter/3/12.json",
-    "sha": "91d99497e92862074ac73b8239dfab62c0a8715f"
+    "sha": "b866073c93b283670dd27a6bd1cec4b0651c3fba"
   },
   "13": {
     "translation": "Schlachter (1951)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 13,
-    "name": "3. Mose 13",
+    "name": "Leviticus 13",
     "url": "https://api.getbible.net/v2/schlachter/3/13.json",
-    "sha": "363a9fbce08376269d2dc14ded7d01ab7670e916"
+    "sha": "dc39e460688da853c14c7ec764ab1f6bfddd5868"
   },
   "14": {
     "translation": "Schlachter (1951)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 14,
-    "name": "3. Mose 14",
+    "name": "Leviticus 14",
     "url": "https://api.getbible.net/v2/schlachter/3/14.json",
-    "sha": "a1a0beff96232965d208ba46ab52a2823f3f3d97"
+    "sha": "1a8cc53e8abfb882545b825a0d93a48d7fb92db2"
   },
   "15": {
     "translation": "Schlachter (1951)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 15,
-    "name": "3. Mose 15",
+    "name": "Leviticus 15",
     "url": "https://api.getbible.net/v2/schlachter/3/15.json",
-    "sha": "9750301e41d3b8013cb555b33e2d0cf26be2a0a3"
+    "sha": "ea5c59dd90a2dc77ce1d40458ea98047ad4ec891"
   },
   "16": {
     "translation": "Schlachter (1951)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 16,
-    "name": "3. Mose 16",
+    "name": "Leviticus 16",
     "url": "https://api.getbible.net/v2/schlachter/3/16.json",
-    "sha": "cc4a1353c944dba9ca73112e1033973f0aa851ee"
+    "sha": "d5ac9a5afd2768b71cf89d43d02d1019c48e2927"
   },
   "17": {
     "translation": "Schlachter (1951)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 17,
-    "name": "3. Mose 17",
+    "name": "Leviticus 17",
     "url": "https://api.getbible.net/v2/schlachter/3/17.json",
-    "sha": "3c68d1197edb25daa6a60f2a646d5f1cebd6b093"
+    "sha": "22ca8bbf74388889eb500746dd8e508275553483"
   },
   "18": {
     "translation": "Schlachter (1951)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 18,
-    "name": "3. Mose 18",
+    "name": "Leviticus 18",
     "url": "https://api.getbible.net/v2/schlachter/3/18.json",
-    "sha": "4432312c93abfe5822108d1d26401f723e0af04d"
+    "sha": "2cb0f3ba77dbb6fb03d5d7fa9f62f84637279cd8"
   },
   "19": {
     "translation": "Schlachter (1951)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 19,
-    "name": "3. Mose 19",
+    "name": "Leviticus 19",
     "url": "https://api.getbible.net/v2/schlachter/3/19.json",
-    "sha": "0985463acaae5564c2ab21de16b82eee0957aee5"
+    "sha": "ffd4c75cc97ed7bd30ed2d9df9b3f95c3eb5bfbf"
   },
   "20": {
     "translation": "Schlachter (1951)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 20,
-    "name": "3. Mose 20",
+    "name": "Leviticus 20",
     "url": "https://api.getbible.net/v2/schlachter/3/20.json",
-    "sha": "ba8312d31023aba13612839e9462e7db18b926e7"
+    "sha": "f5a87e6acb21ef6069ef862e861a018d72dc84dc"
   },
   "21": {
     "translation": "Schlachter (1951)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 21,
-    "name": "3. Mose 21",
+    "name": "Leviticus 21",
     "url": "https://api.getbible.net/v2/schlachter/3/21.json",
-    "sha": "c4a5c44a858c49718c927f2cf787edb422d7d053"
+    "sha": "ff3a3c2e10716579b38087fe08486303dc89d1cb"
   },
   "22": {
     "translation": "Schlachter (1951)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 22,
-    "name": "3. Mose 22",
+    "name": "Leviticus 22",
     "url": "https://api.getbible.net/v2/schlachter/3/22.json",
-    "sha": "7edf8e9327088ec1ac2f884300dd60b79967e7b8"
+    "sha": "07fe88b4d347de9814ef6cc6705477bc45b1de03"
   },
   "23": {
     "translation": "Schlachter (1951)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 23,
-    "name": "3. Mose 23",
+    "name": "Leviticus 23",
     "url": "https://api.getbible.net/v2/schlachter/3/23.json",
-    "sha": "46be750c0351509a7446db4119df3bd6edfedd9a"
+    "sha": "7026a4c045cf17e4ade29e288acaa39b1884c696"
   },
   "24": {
     "translation": "Schlachter (1951)",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 24,
-    "name": "3. Mose 24",
+    "name": "Leviticus 24",
     "url": "https://api.getbible.net/v2/schlachter/3/24.json",
-    "sha": "6a825e2969bfa68aa50b91257d9a0c11c2e0dd31"
+    "sha": "90c8c63145568f8f75e8dcc7ac380675383856f4"
   },
   "25": {
     "translation": "Schlachter (1951)",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 25,
-    "name": "3. Mose 25",
+    "name": "Leviticus 25",
     "url": "https://api.getbible.net/v2/schlachter/3/25.json",
-    "sha": "13e28f70f9662060992eb65e8425187c6dcd51ba"
+    "sha": "fefb86cfef97a0d99bfb77845a8ab5da7c949bcb"
   },
   "26": {
     "translation": "Schlachter (1951)",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 26,
-    "name": "3. Mose 26",
+    "name": "Leviticus 26",
     "url": "https://api.getbible.net/v2/schlachter/3/26.json",
-    "sha": "002c52e3473629f4aec745cc98b67c6e71fe3ebd"
+    "sha": "04751068ac0ceabe9419e62d38d100455c27bb28"
   },
   "27": {
     "translation": "Schlachter (1951)",
@@ -371,10 +371,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 3,
-    "book_name": "3. Mose",
+    "book_name": "Leviticus",
     "chapter": 27,
-    "name": "3. Mose 27",
+    "name": "Leviticus 27",
     "url": "https://api.getbible.net/v2/schlachter/3/27.json",
-    "sha": "d78c38232dac39147b1b0a7a30a6562596d2b802"
+    "sha": "5b77a8b26d77c05769affbf780738b52e96e245f"
   }
 }

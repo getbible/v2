@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zefanja",
+    "book_name": "Zephaniah",
     "chapter": 1,
-    "name": "Zefanja 1",
+    "name": "Zephaniah 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/36/1.json",
-    "sha": "8349aa205c00f3d53ea9de164e4c10228b2417a3"
+    "sha": "767e52283dc94938e860ca6119e48c57d339d324"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zefanja",
+    "book_name": "Zephaniah",
     "chapter": 2,
-    "name": "Zefanja 2",
+    "name": "Zephaniah 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/36/2.json",
-    "sha": "4438a369a52ae87e9d61a9a4b8703eb30efd6381"
+    "sha": "3c20faf9aee6a2f0124002421b7c85c7dd6e0f52"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zefanja",
+    "book_name": "Zephaniah",
     "chapter": 3,
-    "name": "Zefanja 3",
+    "name": "Zephaniah 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/36/3.json",
-    "sha": "ca174911038b8d34e8e2b9ad30568f986dfc99e3"
+    "sha": "d5e5a0ef24555df5a838a6df681d9c5fd280b9b3"
   }
 }

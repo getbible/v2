@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philipper",
+    "book_name": "Philippians",
     "chapter": 1,
-    "name": "Philipper 1",
+    "name": "Philippians 1",
     "url": "https://api.getbible.net/v2/luther1545/50/1.json",
-    "sha": "8c7da20845a91dc23906458523147d6b741e5997"
+    "sha": "ba6ed7a592d13f1d0321ba7ac6751756c5bab2ff"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philipper",
+    "book_name": "Philippians",
     "chapter": 2,
-    "name": "Philipper 2",
+    "name": "Philippians 2",
     "url": "https://api.getbible.net/v2/luther1545/50/2.json",
-    "sha": "3aae8b3a7f28883971408a35629966a5ea9c8f56"
+    "sha": "9f138a5c44f31b8ba3c720043ea9a918444dce50"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philipper",
+    "book_name": "Philippians",
     "chapter": 3,
-    "name": "Philipper 3",
+    "name": "Philippians 3",
     "url": "https://api.getbible.net/v2/luther1545/50/3.json",
-    "sha": "c0e09e4bba54146f1ff5fe18826061e1d5b8c6ba"
+    "sha": "b3579d9f2fc076fa70951d7736cf4866595eaa1f"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 50,
-    "book_name": "Philipper",
+    "book_name": "Philippians",
     "chapter": 4,
-    "name": "Philipper 4",
+    "name": "Philippians 4",
     "url": "https://api.getbible.net/v2/luther1545/50/4.json",
-    "sha": "b4db422614d953104fbfd703de0f707c8e28a973"
+    "sha": "6ef31ed91bae2c8cf8b70ba69a76c4f63ce99148"
   }
 }

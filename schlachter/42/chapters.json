@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 1,
-    "name": "Lukas 1",
+    "name": "Luke 1",
     "url": "https://api.getbible.net/v2/schlachter/42/1.json",
-    "sha": "1eb1a5ad633ccdb0117039bc57b4488f2eded8cc"
+    "sha": "6d275f5102527f49f3cff1d0a4bdb29e3589de12"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 2,
-    "name": "Lukas 2",
+    "name": "Luke 2",
     "url": "https://api.getbible.net/v2/schlachter/42/2.json",
-    "sha": "4d68a44cac2fa06444247d4d7b2a11e3c52f3a0d"
+    "sha": "e561762391bae8bebd55406f042a1165ff841173"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 3,
-    "name": "Lukas 3",
+    "name": "Luke 3",
     "url": "https://api.getbible.net/v2/schlachter/42/3.json",
-    "sha": "c4e3bca5aad6407acded51aa12095bccda83f22f"
+    "sha": "10443f929fd7796d0f1423501ffc28de31565468"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 4,
-    "name": "Lukas 4",
+    "name": "Luke 4",
     "url": "https://api.getbible.net/v2/schlachter/42/4.json",
-    "sha": "b6c4586e7298099bb22a83bd78cf28c6497fd701"
+    "sha": "3ed6a3d25233e70789a90dff5cca9b7469983c76"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 5,
-    "name": "Lukas 5",
+    "name": "Luke 5",
     "url": "https://api.getbible.net/v2/schlachter/42/5.json",
-    "sha": "1e82fdc7379322ef9e478c88b96043d0ee8a2c47"
+    "sha": "872e6e4f1fa123f213f15266651fbaa867978e4e"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 6,
-    "name": "Lukas 6",
+    "name": "Luke 6",
     "url": "https://api.getbible.net/v2/schlachter/42/6.json",
-    "sha": "2d1dd569ed890c4c889f5e6feca40daf203f33b9"
+    "sha": "548dcc6299b174ef4a2b79a53fe091485711ed24"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 7,
-    "name": "Lukas 7",
+    "name": "Luke 7",
     "url": "https://api.getbible.net/v2/schlachter/42/7.json",
-    "sha": "397d8b1fa248bb00c7244d3b277e0e1ddf34c79b"
+    "sha": "8c9ff924a91b98cd10e6d4d100fc95ffdf389015"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 8,
-    "name": "Lukas 8",
+    "name": "Luke 8",
     "url": "https://api.getbible.net/v2/schlachter/42/8.json",
-    "sha": "6fe7ad32bc38eb78424f6ad813aa5f699a23e70c"
+    "sha": "9c0382ed15224a70eeb830e1a3504e6f2c6c4446"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 9,
-    "name": "Lukas 9",
+    "name": "Luke 9",
     "url": "https://api.getbible.net/v2/schlachter/42/9.json",
-    "sha": "0575a70dcb389eef939a7a7933095c503be9c2f0"
+    "sha": "896396ad2632aa738057f170c91474f1c77d9bd0"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 10,
-    "name": "Lukas 10",
+    "name": "Luke 10",
     "url": "https://api.getbible.net/v2/schlachter/42/10.json",
-    "sha": "eb1526ef1efec94cbdf6491e3a800138b0f08eb5"
+    "sha": "0d1bdc5ecf2e0134acfadfe2e0c7de7e586012ce"
   },
   "11": {
     "translation": "Schlachter (1951)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 11,
-    "name": "Lukas 11",
+    "name": "Luke 11",
     "url": "https://api.getbible.net/v2/schlachter/42/11.json",
-    "sha": "64918fb70a68515def492432db7b8eb24a7f727d"
+    "sha": "d9ca6e8cbd2b9e900c5decf37071dd1e35f58a30"
   },
   "12": {
     "translation": "Schlachter (1951)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 12,
-    "name": "Lukas 12",
+    "name": "Luke 12",
     "url": "https://api.getbible.net/v2/schlachter/42/12.json",
-    "sha": "2e8621c51ccb834253430aa5888783b7c558ea6a"
+    "sha": "11ff900f2007dd8ab122f3d42b18fb81f7211019"
   },
   "13": {
     "translation": "Schlachter (1951)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 13,
-    "name": "Lukas 13",
+    "name": "Luke 13",
     "url": "https://api.getbible.net/v2/schlachter/42/13.json",
-    "sha": "5799628271dc59fc58aaaf9b65ca8081d737e841"
+    "sha": "29fc5192b3857f348a6745dc4164f1ac67c6b759"
   },
   "14": {
     "translation": "Schlachter (1951)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 14,
-    "name": "Lukas 14",
+    "name": "Luke 14",
     "url": "https://api.getbible.net/v2/schlachter/42/14.json",
-    "sha": "784eb93d730f50cc6fa71644d900a9ce441ab34c"
+    "sha": "e43fd426bf4774d156ed4646c5a9e4318efc6aa0"
   },
   "15": {
     "translation": "Schlachter (1951)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 15,
-    "name": "Lukas 15",
+    "name": "Luke 15",
     "url": "https://api.getbible.net/v2/schlachter/42/15.json",
-    "sha": "455ed63d9c003e2dfa36f72bf04a724e624f483f"
+    "sha": "241eecae0d32295cd97ff3d004bd244eec50afa9"
   },
   "16": {
     "translation": "Schlachter (1951)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 16,
-    "name": "Lukas 16",
+    "name": "Luke 16",
     "url": "https://api.getbible.net/v2/schlachter/42/16.json",
-    "sha": "d05ceee688da3b43932ef2e1b571221b6aec608d"
+    "sha": "8d5089162d7914f5a39e33ed85f15c3f9c5ec854"
   },
   "17": {
     "translation": "Schlachter (1951)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 17,
-    "name": "Lukas 17",
+    "name": "Luke 17",
     "url": "https://api.getbible.net/v2/schlachter/42/17.json",
-    "sha": "73fb1b5b417d12535adf9ec332e6cc3ba5e5bea3"
+    "sha": "9d8f8ac0483fd3141f0f90a15e73026c5912ac0d"
   },
   "18": {
     "translation": "Schlachter (1951)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 18,
-    "name": "Lukas 18",
+    "name": "Luke 18",
     "url": "https://api.getbible.net/v2/schlachter/42/18.json",
-    "sha": "d878f1f973c37166a753204d41fc28fa2601bc1a"
+    "sha": "b35247c4bdbf7675577491ef0d664f0c6f47d7d7"
   },
   "19": {
     "translation": "Schlachter (1951)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 19,
-    "name": "Lukas 19",
+    "name": "Luke 19",
     "url": "https://api.getbible.net/v2/schlachter/42/19.json",
-    "sha": "5002576e4358540e8051de663f344ad103ff7c34"
+    "sha": "37f78c8b1fd339948f47252f05ded8edd7427758"
   },
   "20": {
     "translation": "Schlachter (1951)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 20,
-    "name": "Lukas 20",
+    "name": "Luke 20",
     "url": "https://api.getbible.net/v2/schlachter/42/20.json",
-    "sha": "9c39b6ae2a46f2e0d724a703fbd033114413f3fb"
+    "sha": "8cf66dce792be656b2497e62835fca1af62b6eb9"
   },
   "21": {
     "translation": "Schlachter (1951)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 21,
-    "name": "Lukas 21",
+    "name": "Luke 21",
     "url": "https://api.getbible.net/v2/schlachter/42/21.json",
-    "sha": "e7c5de395064cfd5a9dba88df7d5a03c7cb38dca"
+    "sha": "e6bf8c4c7b8762e43947004c353e2b26168ba778"
   },
   "22": {
     "translation": "Schlachter (1951)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 22,
-    "name": "Lukas 22",
+    "name": "Luke 22",
     "url": "https://api.getbible.net/v2/schlachter/42/22.json",
-    "sha": "7da0ec3c6db29471ca8b6238b4496c72369bda29"
+    "sha": "d9df70c239d46bbb31a7f7c284a2a1055b96d6d7"
   },
   "23": {
     "translation": "Schlachter (1951)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 23,
-    "name": "Lukas 23",
+    "name": "Luke 23",
     "url": "https://api.getbible.net/v2/schlachter/42/23.json",
-    "sha": "e34cfb7b5363db73cba60806546934bf8dcf481e"
+    "sha": "50903c44334671e7bd6811ff270244e14dce0654"
   },
   "24": {
     "translation": "Schlachter (1951)",
@@ -329,10 +329,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 42,
-    "book_name": "Lukas",
+    "book_name": "Luke",
     "chapter": 24,
-    "name": "Lukas 24",
+    "name": "Luke 24",
     "url": "https://api.getbible.net/v2/schlachter/42/24.json",
-    "sha": "b2c5369244cc6b3ab62cfb205a62518a31c7fbaf"
+    "sha": "7fc1535b851deee911956a51343b095a73baeff5"
   }
 }

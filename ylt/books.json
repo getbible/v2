@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Song of Solomon",
     "url": "https://api.getbible.net/v2/ylt/22.json",
-    "sha": "e83b01ee9168f5844947af3a2bfa90d567b9ba37"
+    "sha": "505b300fe78a02ab3ca82df8f8925ec8bedba9fd"
   },
   "23": {
     "translation": "Young's Literal Translation",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Revelation of John",
     "url": "https://api.getbible.net/v2/ylt/66.json",
-    "sha": "ada1b7c5de6c64dbd85071d9ab9a4076b35ee348"
+    "sha": "69de46b1c7c12efe21e2d8d2f95e843936b62ada"
   }
 }

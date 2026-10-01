@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 1,
-    "name": "2. Timotheus 1",
+    "name": "2 Timothy 1",
     "url": "https://api.getbible.net/v2/schlachter/55/1.json",
-    "sha": "1e1dbccc600bc028712e527b272af20521c6a947"
+    "sha": "5d0a22409951a927cfef160d7cb30e87679f94cf"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 2,
-    "name": "2. Timotheus 2",
+    "name": "2 Timothy 2",
     "url": "https://api.getbible.net/v2/schlachter/55/2.json",
-    "sha": "ee1a4fdec1fa1114bd7b45082ecc315bc8185b17"
+    "sha": "bf640045d61e7f1c1a9b37b1499267c9276decf8"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 3,
-    "name": "2. Timotheus 3",
+    "name": "2 Timothy 3",
     "url": "https://api.getbible.net/v2/schlachter/55/3.json",
-    "sha": "7578ed62c49640480d5d164592de791f61c9c43a"
+    "sha": "2ec36e62eaaa5cceb05c6dfa3d3ba65a222e589e"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 4,
-    "name": "2. Timotheus 4",
+    "name": "2 Timothy 4",
     "url": "https://api.getbible.net/v2/schlachter/55/4.json",
-    "sha": "0297ac42b4e8a733b4f69a6bd238c80b25378562"
+    "sha": "6359519ab0e415000ca1720d84b0c1e6ebd54a93"
   }
 }

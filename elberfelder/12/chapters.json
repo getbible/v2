@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 1,
-    "name": "2. Könige 1",
+    "name": "2 Kings 1",
     "url": "https://api.getbible.net/v2/elberfelder/12/1.json",
-    "sha": "a0e917cc88b8f84366d4d8883a735cf0423efa21"
+    "sha": "d084887b1c9c8754a97bfc54a0724986dec6fb3b"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 2,
-    "name": "2. Könige 2",
+    "name": "2 Kings 2",
     "url": "https://api.getbible.net/v2/elberfelder/12/2.json",
-    "sha": "b86bc19b62b6162a4a9cae1e9d887457bdd1aff9"
+    "sha": "8e2cb09893a760d39307719a07e07b044e2f8dcd"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 3,
-    "name": "2. Könige 3",
+    "name": "2 Kings 3",
     "url": "https://api.getbible.net/v2/elberfelder/12/3.json",
-    "sha": "b6412475a1ed1196607e6b94688ab5d50eda9487"
+    "sha": "5460dd48c87e0c083714222fb3fcf639e360ce5d"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 4,
-    "name": "2. Könige 4",
+    "name": "2 Kings 4",
     "url": "https://api.getbible.net/v2/elberfelder/12/4.json",
-    "sha": "9c8eb2b16c40ac377dba682e9b6419dc2cb6b4fc"
+    "sha": "3e9d2ecfa85e5a092140119218d7eae9434a8eb6"
   },
   "5": {
     "translation": "Elberfelder (1871)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 5,
-    "name": "2. Könige 5",
+    "name": "2 Kings 5",
     "url": "https://api.getbible.net/v2/elberfelder/12/5.json",
-    "sha": "442815eb081601a5a5f1a8517a4b0a46db3d136d"
+    "sha": "5f3a2c9f1a5148bb3ef9e3b77b5414611cbdb919"
   },
   "6": {
     "translation": "Elberfelder (1871)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 6,
-    "name": "2. Könige 6",
+    "name": "2 Kings 6",
     "url": "https://api.getbible.net/v2/elberfelder/12/6.json",
-    "sha": "44fc8ba91de29ce33769384634bb50bc9efe8af6"
+    "sha": "c62e1ac1b6a839654b4429569d54343ddb195d49"
   },
   "7": {
     "translation": "Elberfelder (1871)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 7,
-    "name": "2. Könige 7",
+    "name": "2 Kings 7",
     "url": "https://api.getbible.net/v2/elberfelder/12/7.json",
-    "sha": "12aea70429894b516dc50ad7babf6eb1996b01bb"
+    "sha": "86134860cf5fcf9710e154b3cf77e28b537d7453"
   },
   "8": {
     "translation": "Elberfelder (1871)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 8,
-    "name": "2. Könige 8",
+    "name": "2 Kings 8",
     "url": "https://api.getbible.net/v2/elberfelder/12/8.json",
-    "sha": "b8b4e8ce150f2ed2b23e2981e6edf67de73e746f"
+    "sha": "eb39f0bdf23d47d5a5956b9495b8a9a33bfe03b4"
   },
   "9": {
     "translation": "Elberfelder (1871)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 9,
-    "name": "2. Könige 9",
+    "name": "2 Kings 9",
     "url": "https://api.getbible.net/v2/elberfelder/12/9.json",
-    "sha": "a736de70ae455de7190b98254cbbd2a98468ffb1"
+    "sha": "950d295a2f283e40ec8d462d4a0c053e84d34b16"
   },
   "10": {
     "translation": "Elberfelder (1871)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 10,
-    "name": "2. Könige 10",
+    "name": "2 Kings 10",
     "url": "https://api.getbible.net/v2/elberfelder/12/10.json",
-    "sha": "ae9f9c12e18089546623cb92a9fec67344c1110d"
+    "sha": "2ffcd99a2d83be678f3b639613d7283d09e244c5"
   },
   "11": {
     "translation": "Elberfelder (1871)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 11,
-    "name": "2. Könige 11",
+    "name": "2 Kings 11",
     "url": "https://api.getbible.net/v2/elberfelder/12/11.json",
-    "sha": "506b834ae928959af4f0af243f8d10e1905d103b"
+    "sha": "78c4e2890920313c5abeda50e2b60eebfececaea"
   },
   "12": {
     "translation": "Elberfelder (1871)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 12,
-    "name": "2. Könige 12",
+    "name": "2 Kings 12",
     "url": "https://api.getbible.net/v2/elberfelder/12/12.json",
-    "sha": "7b639c4bb9b7cb42d11f191577c9774f8079d941"
+    "sha": "60ec34ed897d47db3ad9c9dd056d0ab913d802bb"
   },
   "13": {
     "translation": "Elberfelder (1871)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 13,
-    "name": "2. Könige 13",
+    "name": "2 Kings 13",
     "url": "https://api.getbible.net/v2/elberfelder/12/13.json",
-    "sha": "839301b8637e0ca5fa91ca9b5053c67260f129a1"
+    "sha": "ca4a03e5955a1b6cf3b41e2b86938c48de81b5cf"
   },
   "14": {
     "translation": "Elberfelder (1871)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 14,
-    "name": "2. Könige 14",
+    "name": "2 Kings 14",
     "url": "https://api.getbible.net/v2/elberfelder/12/14.json",
-    "sha": "a3c12c2fa6a852ffcc616b2a0760cd8458c0eecb"
+    "sha": "1d2dfe03d3d75a3a41356190eb621e0719dbcf1f"
   },
   "15": {
     "translation": "Elberfelder (1871)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 15,
-    "name": "2. Könige 15",
+    "name": "2 Kings 15",
     "url": "https://api.getbible.net/v2/elberfelder/12/15.json",
-    "sha": "c05a2d72cac47e104f4547ae7fe9923792098aca"
+    "sha": "2d0eacc875ff0104ecea74f7783b49a44891ea32"
   },
   "16": {
     "translation": "Elberfelder (1871)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 16,
-    "name": "2. Könige 16",
+    "name": "2 Kings 16",
     "url": "https://api.getbible.net/v2/elberfelder/12/16.json",
-    "sha": "65be41bf341d20862c36f4d892767000ed998632"
+    "sha": "24f1d6375e8e75a2d2e6f7b475b7600474993925"
   },
   "17": {
     "translation": "Elberfelder (1871)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 17,
-    "name": "2. Könige 17",
+    "name": "2 Kings 17",
     "url": "https://api.getbible.net/v2/elberfelder/12/17.json",
-    "sha": "4a1674124a968946b36deca182c0cfcbeb128d48"
+    "sha": "8c12d0ce8c50958d6636e2e4c5c01e73b936c2b8"
   },
   "18": {
     "translation": "Elberfelder (1871)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 18,
-    "name": "2. Könige 18",
+    "name": "2 Kings 18",
     "url": "https://api.getbible.net/v2/elberfelder/12/18.json",
-    "sha": "84f78e58bccc312712f318c59920b17aafb6aff3"
+    "sha": "1c26cf841046cc65b593aaa4c6a1981175576d0b"
   },
   "19": {
     "translation": "Elberfelder (1871)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 19,
-    "name": "2. Könige 19",
+    "name": "2 Kings 19",
     "url": "https://api.getbible.net/v2/elberfelder/12/19.json",
-    "sha": "828ffb60ff1b672cd6e8f575f6b0529f32605e8e"
+    "sha": "c5f9a7c90b2710259081bc87218f46dce44d503f"
   },
   "20": {
     "translation": "Elberfelder (1871)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 20,
-    "name": "2. Könige 20",
+    "name": "2 Kings 20",
     "url": "https://api.getbible.net/v2/elberfelder/12/20.json",
-    "sha": "b1bae55eed18af8e9e611002d0e11ffeee25c551"
+    "sha": "de295bf34641bdc36c34c395de6fa637f9c4c5ca"
   },
   "21": {
     "translation": "Elberfelder (1871)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 21,
-    "name": "2. Könige 21",
+    "name": "2 Kings 21",
     "url": "https://api.getbible.net/v2/elberfelder/12/21.json",
-    "sha": "9d50fbfcb17e8f53bac6e77a002970e47ed63376"
+    "sha": "cb593bf27c5b8bec94ab6243d5a0eaca97ae9941"
   },
   "22": {
     "translation": "Elberfelder (1871)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 22,
-    "name": "2. Könige 22",
+    "name": "2 Kings 22",
     "url": "https://api.getbible.net/v2/elberfelder/12/22.json",
-    "sha": "0c993f7ef314e95bcfe99a4211cf5cc556f6b15e"
+    "sha": "a0fed66149264f23a887f2099868b672854babd1"
   },
   "23": {
     "translation": "Elberfelder (1871)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 23,
-    "name": "2. Könige 23",
+    "name": "2 Kings 23",
     "url": "https://api.getbible.net/v2/elberfelder/12/23.json",
-    "sha": "452f592188f30ee115d5770f4c2eabbb5c12a2eb"
+    "sha": "0257e5ed3c1e173b79aee36554f8e71707b20afd"
   },
   "24": {
     "translation": "Elberfelder (1871)",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 24,
-    "name": "2. Könige 24",
+    "name": "2 Kings 24",
     "url": "https://api.getbible.net/v2/elberfelder/12/24.json",
-    "sha": "23ca5c1cddbdcaecf897befd770b6e52420494a5"
+    "sha": "dbd18f37085ab56e9879f190afcf6d7ff6f346df"
   },
   "25": {
     "translation": "Elberfelder (1871)",
@@ -343,10 +343,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 12,
-    "book_name": "2. Könige",
+    "book_name": "2 Kings",
     "chapter": 25,
-    "name": "2. Könige 25",
+    "name": "2 Kings 25",
     "url": "https://api.getbible.net/v2/elberfelder/12/25.json",
-    "sha": "9bab71e48f3882d01eb3c16a0bc24c2c3d357c3a"
+    "sha": "21098d9f8221168acce86b1d3c91486989ea5e72"
   }
 }

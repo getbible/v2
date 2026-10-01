@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 1,
-    "name": "1. Petrus 1",
+    "name": "1 Peter 1",
     "url": "https://api.getbible.net/v2/schlachter/60/1.json",
-    "sha": "f95574bb8ee1b1791bda2e6587d6c0e96eb7be59"
+    "sha": "f9d42bb45026758e33e5e7fda04ac8e52b614d43"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 2,
-    "name": "1. Petrus 2",
+    "name": "1 Peter 2",
     "url": "https://api.getbible.net/v2/schlachter/60/2.json",
-    "sha": "f2fece30454302d5b65acdc3f6bad62277df0d5e"
+    "sha": "04c35ff6bc9187f1de23eb864ba5316ebca4c27d"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 3,
-    "name": "1. Petrus 3",
+    "name": "1 Peter 3",
     "url": "https://api.getbible.net/v2/schlachter/60/3.json",
-    "sha": "9bd99e25e2f91418344138f96ebbbc89744ed7c8"
+    "sha": "1054b975e6c96ff9ee19705ea57437691a74561f"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 4,
-    "name": "1. Petrus 4",
+    "name": "1 Peter 4",
     "url": "https://api.getbible.net/v2/schlachter/60/4.json",
-    "sha": "30b1e3c649c06c576f175368f0d5b8c9433467bd"
+    "sha": "4ba62bdaaa989caeaf7d71ccd68fec796252a022"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 5,
-    "name": "1. Petrus 5",
+    "name": "1 Peter 5",
     "url": "https://api.getbible.net/v2/schlachter/60/5.json",
-    "sha": "cd5195109b83b9c8b37f6e1b523c3f2e23ed01dc"
+    "sha": "c0fe0ddd60fb94d920d07ea2218f1268333d0b41"
   }
 }

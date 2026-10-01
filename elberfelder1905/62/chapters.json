@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 1,
-    "name": "1. Johannes 1",
+    "name": "1 John 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/62/1.json",
-    "sha": "45c3186370375f1b7178dc845f20a7671bbe6169"
+    "sha": "fba8b748cbfc94a069168f732bae89e8caeda22a"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 2,
-    "name": "1. Johannes 2",
+    "name": "1 John 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/62/2.json",
-    "sha": "9aef018358e1e7b821c1c8848ea5184fa6fdca69"
+    "sha": "af07a68d28bc219d12b907721d6487dabd4bf2a4"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 3,
-    "name": "1. Johannes 3",
+    "name": "1 John 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/62/3.json",
-    "sha": "80f8cca38f8abaf388d106d7c663879607af1918"
+    "sha": "c91ba46b7c27f04c035cc440c56a67e5ac449087"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 4,
-    "name": "1. Johannes 4",
+    "name": "1 John 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/62/4.json",
-    "sha": "5a98636a8758efa66f160da52978d2e969585bec"
+    "sha": "d6cdb6dba3a3f599cdd5b4d8a8bbae98bd787181"
   },
   "5": {
     "translation": "Elberfelder (1905)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 5,
-    "name": "1. Johannes 5",
+    "name": "1 John 5",
     "url": "https://api.getbible.net/v2/elberfelder1905/62/5.json",
-    "sha": "b934f4db75aaad0c103ab8354f1781e53857505a"
+    "sha": "39878cfe6ac61e1e58903e33dbf6ab0e9a5034e0"
   }
 }

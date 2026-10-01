@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2. Petrus",
+    "book_name": "2 Peter",
     "chapter": 1,
-    "name": "2. Petrus 1",
+    "name": "2 Peter 1",
     "url": "https://api.getbible.net/v2/elberfelder/61/1.json",
-    "sha": "caa38d1d95be3059c9e8863051beb04dcdbdce91"
+    "sha": "6b8e0078d3fdc9f93acf8cc5ee22cf8c7292f1d3"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2. Petrus",
+    "book_name": "2 Peter",
     "chapter": 2,
-    "name": "2. Petrus 2",
+    "name": "2 Peter 2",
     "url": "https://api.getbible.net/v2/elberfelder/61/2.json",
-    "sha": "9824aa6e4616dad20df6752530fbd88fd8ceec7f"
+    "sha": "df613e85b86520314b0504123bcd9cc0345a4931"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2. Petrus",
+    "book_name": "2 Peter",
     "chapter": 3,
-    "name": "2. Petrus 3",
+    "name": "2 Peter 3",
     "url": "https://api.getbible.net/v2/elberfelder/61/3.json",
-    "sha": "4f34f1c7315ab8936d4f9526a7db009d60e6a34c"
+    "sha": "b8d4c2b1c0a4f2cabb0cad183b43ec95f2581bec"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 1,
-    "name": "Klagelieder 1",
+    "name": "Lamentations 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/25/1.json",
-    "sha": "8d07c3df9357174ccdd2a0fecb93c6057738d75e"
+    "sha": "7c2e2dd3dafc73892b6af6e0de3d074b7ce4f19d"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 2,
-    "name": "Klagelieder 2",
+    "name": "Lamentations 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/25/2.json",
-    "sha": "c42bef46733f5bc5a4cc5b815c67bdf51466dca3"
+    "sha": "9c817913e71048d098930fcf128d19361bc2c0c9"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 3,
-    "name": "Klagelieder 3",
+    "name": "Lamentations 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/25/3.json",
-    "sha": "9655e74da1b2bf391dc39ef608d338f71a1f8c84"
+    "sha": "af7cea04d10808c3882a8094f6c0feed39196acb"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 4,
-    "name": "Klagelieder 4",
+    "name": "Lamentations 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/25/4.json",
-    "sha": "32ffedd0e9548156419d8ced974079f1926d2d12"
+    "sha": "c1088d30a396863906a79eb6f1229b8ee0c7a313"
   },
   "5": {
     "translation": "Elberfelder (1905)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 5,
-    "name": "Klagelieder 5",
+    "name": "Lamentations 5",
     "url": "https://api.getbible.net/v2/elberfelder1905/25/5.json",
-    "sha": "f166fcd53a4b1130988bae0070452c312042c8d8"
+    "sha": "5d6046dbe732db02128586e67cd26f541f4d0f99"
   }
 }

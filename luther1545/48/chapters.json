@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 1,
-    "name": "Galater 1",
+    "name": "Galatians 1",
     "url": "https://api.getbible.net/v2/luther1545/48/1.json",
-    "sha": "52f00ad6a012bd201a149fdad450370be562a5b4"
+    "sha": "cc88a63662ec0d168a1c3b45418f91b0e1295d59"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 2,
-    "name": "Galater 2",
+    "name": "Galatians 2",
     "url": "https://api.getbible.net/v2/luther1545/48/2.json",
-    "sha": "40990962a39ec57888be32b8573d3667b9364020"
+    "sha": "57b6ce96e5aa2c8b14a96f2c6055a36fa9f1acc2"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 3,
-    "name": "Galater 3",
+    "name": "Galatians 3",
     "url": "https://api.getbible.net/v2/luther1545/48/3.json",
-    "sha": "68d58ada32985a47bfd59708d8ea713c33646684"
+    "sha": "e3a33d6167dd7b542046056cac01819caa248964"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 4,
-    "name": "Galater 4",
+    "name": "Galatians 4",
     "url": "https://api.getbible.net/v2/luther1545/48/4.json",
-    "sha": "3e761331c2f65fe7c14a850e206ece0435315525"
+    "sha": "6b8933478a856d3fb8e5d946c9892173b86eaeeb"
   },
   "5": {
     "translation": "Luther (1545)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 5,
-    "name": "Galater 5",
+    "name": "Galatians 5",
     "url": "https://api.getbible.net/v2/luther1545/48/5.json",
-    "sha": "484b5c3c271243e0cc291a6073b003c66b9e4ff8"
+    "sha": "4ad809910f577cb8b55bf51a233ce986030200cc"
   },
   "6": {
     "translation": "Luther (1545)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 6,
-    "name": "Galater 6",
+    "name": "Galatians 6",
     "url": "https://api.getbible.net/v2/luther1545/48/6.json",
-    "sha": "f2ae8d7c122e6d594b6b7120c3154ca9e8537b3f"
+    "sha": "e15a7e5450506927d50119b9e761b2f3322a4e31"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 1,
-    "name": "1. Thessalonicher 1",
+    "name": "1 Thessalonians 1",
     "url": "https://api.getbible.net/v2/elberfelder/52/1.json",
-    "sha": "7b70f8103721f5fc3decaf123b4b2bc38818608d"
+    "sha": "2a2ae2c3e0231ae0d83ff3877b39c64c89ac68ef"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 2,
-    "name": "1. Thessalonicher 2",
+    "name": "1 Thessalonians 2",
     "url": "https://api.getbible.net/v2/elberfelder/52/2.json",
-    "sha": "205c273599b05d9fbd0cf0a68baf14210240da72"
+    "sha": "2b3d17f5a70c59bab99dfea54e7627164715858e"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 3,
-    "name": "1. Thessalonicher 3",
+    "name": "1 Thessalonians 3",
     "url": "https://api.getbible.net/v2/elberfelder/52/3.json",
-    "sha": "c63771d2a93c423d7bd5cffe3f52261a00037cfa"
+    "sha": "11c41a48eb2bfff1fe6d11117ef42138b5554f6a"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 4,
-    "name": "1. Thessalonicher 4",
+    "name": "1 Thessalonians 4",
     "url": "https://api.getbible.net/v2/elberfelder/52/4.json",
-    "sha": "b411676def52f902ef535a833df7afdee74431a2"
+    "sha": "2f629761ecd5200357b5c67d43901e73ab709765"
   },
   "5": {
     "translation": "Elberfelder (1871)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 5,
-    "name": "1. Thessalonicher 5",
+    "name": "1 Thessalonians 5",
     "url": "https://api.getbible.net/v2/elberfelder/52/5.json",
-    "sha": "29c079069dfa0913f630fe40db5b389687f58857"
+    "sha": "f8b17d268a638174a2db7cc5a57d2bf2b77b618c"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 1,
-    "name": "Galater 1",
+    "name": "Galatians 1",
     "url": "https://api.getbible.net/v2/schlachter/48/1.json",
-    "sha": "a6d1520f0ea8bba23ca704ce65e7f2412834156a"
+    "sha": "f10bed4469815e8aab22442c301a7f002a5dc8d0"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 2,
-    "name": "Galater 2",
+    "name": "Galatians 2",
     "url": "https://api.getbible.net/v2/schlachter/48/2.json",
-    "sha": "2def49d59dcc295ed2aae9c390fcdc124c6d8669"
+    "sha": "31ce49a1864c9b7fa2dd6814b20ea0015ce860ab"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 3,
-    "name": "Galater 3",
+    "name": "Galatians 3",
     "url": "https://api.getbible.net/v2/schlachter/48/3.json",
-    "sha": "f51a0dc6551ebc621734263d5f0ba4290d4cf32f"
+    "sha": "cf93d1d269cf0363318679166722c2d1c0b6737d"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 4,
-    "name": "Galater 4",
+    "name": "Galatians 4",
     "url": "https://api.getbible.net/v2/schlachter/48/4.json",
-    "sha": "c83b258b0b5fb2f0649262333a96a3d9009e0c93"
+    "sha": "868dec0310720310552e2183bd64685b194b9ab6"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 5,
-    "name": "Galater 5",
+    "name": "Galatians 5",
     "url": "https://api.getbible.net/v2/schlachter/48/5.json",
-    "sha": "8931ae99a556815d6f86e128e343379bb62fd31c"
+    "sha": "7c2c119b206c8d3a1c2a1c9feceab555d8b7b062"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 48,
-    "book_name": "Galater",
+    "book_name": "Galatians",
     "chapter": 6,
-    "name": "Galater 6",
+    "name": "Galatians 6",
     "url": "https://api.getbible.net/v2/schlachter/48/6.json",
-    "sha": "08ba6210f220a434d292417951ab61530c1705ef"
+    "sha": "2f309c9299052a3ae4ceb7b447ceb4028b2efcac"
   }
 }

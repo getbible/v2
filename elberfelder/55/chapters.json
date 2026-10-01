@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 1,
-    "name": "2. Timotheus 1",
+    "name": "2 Timothy 1",
     "url": "https://api.getbible.net/v2/elberfelder/55/1.json",
-    "sha": "b5189774333c3393aebb99f540c0d1ca406e168f"
+    "sha": "8979c7610ac32dc8c5df015559e89761d9f1e00b"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 2,
-    "name": "2. Timotheus 2",
+    "name": "2 Timothy 2",
     "url": "https://api.getbible.net/v2/elberfelder/55/2.json",
-    "sha": "38ba63f7a7314f5df78285f9dea30155b1f2b520"
+    "sha": "7b5edb472c793c3866c7a64f61496d2d2ad09cad"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 3,
-    "name": "2. Timotheus 3",
+    "name": "2 Timothy 3",
     "url": "https://api.getbible.net/v2/elberfelder/55/3.json",
-    "sha": "578bd7f39a3376e6a1e5411f4cc10435cc06fca5"
+    "sha": "00a7ce61240b8e29bce378bc1a707859b10926e9"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 4,
-    "name": "2. Timotheus 4",
+    "name": "2 Timothy 4",
     "url": "https://api.getbible.net/v2/elberfelder/55/4.json",
-    "sha": "0f7fa649365807b5d7f97a9893823fda6048a324"
+    "sha": "36089040af9fba0432312db5c23e3098d367205c"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 1,
-    "name": "Jona 1",
+    "name": "Jonah 1",
     "url": "https://api.getbible.net/v2/schlachter/32/1.json",
-    "sha": "2f153d84e3aa2af32c526f883c7b7377dff15f5e"
+    "sha": "edd81c98a88e3579630c4b68005baef0811f6769"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 2,
-    "name": "Jona 2",
+    "name": "Jonah 2",
     "url": "https://api.getbible.net/v2/schlachter/32/2.json",
-    "sha": "5f1779d12ec927cd8ecc7329df9ad6c449bec943"
+    "sha": "e905c099e934c1d6af2a09769b6ed79d04bbaee9"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 3,
-    "name": "Jona 3",
+    "name": "Jonah 3",
     "url": "https://api.getbible.net/v2/schlachter/32/3.json",
-    "sha": "8065488ef8aaaf7af8b616326c1461a025f7b060"
+    "sha": "92dea5a805e9d604eef7489093429f73a086820b"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 4,
-    "name": "Jona 4",
+    "name": "Jonah 4",
     "url": "https://api.getbible.net/v2/schlachter/32/4.json",
-    "sha": "9453f422f0dbb91fdc4a0bd4d130945ce11f6de4"
+    "sha": "b295228edcaa7ff67af9491a6efa8e948a452413"
   }
 }

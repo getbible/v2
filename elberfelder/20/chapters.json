@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 1,
-    "name": "Sprüche 1",
+    "name": "Proverbs 1",
     "url": "https://api.getbible.net/v2/elberfelder/20/1.json",
-    "sha": "e8e2e140790c8c6ec87b06b838507cb077c73f75"
+    "sha": "0731f8c51f90d573506d448e9110193acc24d9d0"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 2,
-    "name": "Sprüche 2",
+    "name": "Proverbs 2",
     "url": "https://api.getbible.net/v2/elberfelder/20/2.json",
-    "sha": "6e517fa70b56dcab5092a209200a3b4ad6ec9eaa"
+    "sha": "b3ac591dbe930930d8d59141bcae1f78724c3467"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 3,
-    "name": "Sprüche 3",
+    "name": "Proverbs 3",
     "url": "https://api.getbible.net/v2/elberfelder/20/3.json",
-    "sha": "4f25dc620be5a1dc7aced48dfe5e07ced323e14e"
+    "sha": "d4585f4a2f0e5df078f4ba1c437412c6e010207a"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 4,
-    "name": "Sprüche 4",
+    "name": "Proverbs 4",
     "url": "https://api.getbible.net/v2/elberfelder/20/4.json",
-    "sha": "1c8ed4d1881b0652a6a1061dd01180cee3ef303f"
+    "sha": "ac58fa5b2595b1ce2b4ebed74e3101f2935e14a1"
   },
   "5": {
     "translation": "Elberfelder (1871)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 5,
-    "name": "Sprüche 5",
+    "name": "Proverbs 5",
     "url": "https://api.getbible.net/v2/elberfelder/20/5.json",
-    "sha": "2f32d548088ed842247c81999361d15823039655"
+    "sha": "8ad7d2fafae9e503e38228386ca239fe832d1d7e"
   },
   "6": {
     "translation": "Elberfelder (1871)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 6,
-    "name": "Sprüche 6",
+    "name": "Proverbs 6",
     "url": "https://api.getbible.net/v2/elberfelder/20/6.json",
-    "sha": "b2f159ae7c7dd3dd8945e929fe01cb626f0cf050"
+    "sha": "a75bbbf14cfa6d4961fcca1269291c8fdfa3e11e"
   },
   "7": {
     "translation": "Elberfelder (1871)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 7,
-    "name": "Sprüche 7",
+    "name": "Proverbs 7",
     "url": "https://api.getbible.net/v2/elberfelder/20/7.json",
-    "sha": "23509f5780b4bc0f0942b8c6104fc38fa9a75be5"
+    "sha": "8c241b6dda9003fc7d6b8aee7c5dc413ec091f5c"
   },
   "8": {
     "translation": "Elberfelder (1871)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 8,
-    "name": "Sprüche 8",
+    "name": "Proverbs 8",
     "url": "https://api.getbible.net/v2/elberfelder/20/8.json",
-    "sha": "46214a3f4fdea1b7924bad060944d1fe4a1fa7d0"
+    "sha": "41eb2f93283dbe3a2f79683cb5b273eab8c790cd"
   },
   "9": {
     "translation": "Elberfelder (1871)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 9,
-    "name": "Sprüche 9",
+    "name": "Proverbs 9",
     "url": "https://api.getbible.net/v2/elberfelder/20/9.json",
-    "sha": "fd5ca9348b0326d468265bc37de74c6467539f2e"
+    "sha": "e7394e1164321bd391d2a0cd1f86f7163049471e"
   },
   "10": {
     "translation": "Elberfelder (1871)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 10,
-    "name": "Sprüche 10",
+    "name": "Proverbs 10",
     "url": "https://api.getbible.net/v2/elberfelder/20/10.json",
-    "sha": "124cc6973980d0d9070983b2ea3e024f06a2c8fb"
+    "sha": "a2bb7c647aa2c3e1aef3cc1faae7f93688dd7a93"
   },
   "11": {
     "translation": "Elberfelder (1871)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 11,
-    "name": "Sprüche 11",
+    "name": "Proverbs 11",
     "url": "https://api.getbible.net/v2/elberfelder/20/11.json",
-    "sha": "24c9d2542099046804b1aadefae87193bb4541aa"
+    "sha": "b4d9b5aac262cf9072fbaea9c5344f10598e502a"
   },
   "12": {
     "translation": "Elberfelder (1871)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 12,
-    "name": "Sprüche 12",
+    "name": "Proverbs 12",
     "url": "https://api.getbible.net/v2/elberfelder/20/12.json",
-    "sha": "f887e8317857fd8f4233b1bdbb2dea26b22d58bd"
+    "sha": "265555d6e09aee89cafe8e25643f2293cf735bc8"
   },
   "13": {
     "translation": "Elberfelder (1871)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 13,
-    "name": "Sprüche 13",
+    "name": "Proverbs 13",
     "url": "https://api.getbible.net/v2/elberfelder/20/13.json",
-    "sha": "8ca4da0418f286cb40e208ddd73e574fd6278eb9"
+    "sha": "03fac3e8bd2f4b8a8b65a5d520b63c39130c950b"
   },
   "14": {
     "translation": "Elberfelder (1871)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 14,
-    "name": "Sprüche 14",
+    "name": "Proverbs 14",
     "url": "https://api.getbible.net/v2/elberfelder/20/14.json",
-    "sha": "60773a6ff68495b0ea3108cff9de67710c8ab552"
+    "sha": "2c9a1b5e4d1525500bc6c2da2453009f0b682cfa"
   },
   "15": {
     "translation": "Elberfelder (1871)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 15,
-    "name": "Sprüche 15",
+    "name": "Proverbs 15",
     "url": "https://api.getbible.net/v2/elberfelder/20/15.json",
-    "sha": "603dce7c7d358dd466c917fdff4ebab0a03db480"
+    "sha": "772c86475c13a9e05542817f6b6523604289662e"
   },
   "16": {
     "translation": "Elberfelder (1871)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 16,
-    "name": "Sprüche 16",
+    "name": "Proverbs 16",
     "url": "https://api.getbible.net/v2/elberfelder/20/16.json",
-    "sha": "d5ff836fdcaced32cea3018afa6bf0715256e921"
+    "sha": "095833dfecbedc680771b37ee7ad3b278c603bf1"
   },
   "17": {
     "translation": "Elberfelder (1871)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 17,
-    "name": "Sprüche 17",
+    "name": "Proverbs 17",
     "url": "https://api.getbible.net/v2/elberfelder/20/17.json",
-    "sha": "5cd1dd4231bca2adab173465acb7451aec0ad370"
+    "sha": "b60242fe5f26ff9a5d9d0460535873d3f0ac650c"
   },
   "18": {
     "translation": "Elberfelder (1871)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 18,
-    "name": "Sprüche 18",
+    "name": "Proverbs 18",
     "url": "https://api.getbible.net/v2/elberfelder/20/18.json",
-    "sha": "8d487d6dcf585d76e17c7a4d10f65cde088343f9"
+    "sha": "3b34dfab3e73721a17fe26d6ce70890a221a4392"
   },
   "19": {
     "translation": "Elberfelder (1871)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 19,
-    "name": "Sprüche 19",
+    "name": "Proverbs 19",
     "url": "https://api.getbible.net/v2/elberfelder/20/19.json",
-    "sha": "fdc93f2d0a28230398864c970b6107e720f1b79e"
+    "sha": "8ef99f0c9a6c5f6cc611f1a5f2a9cd02c34fb620"
   },
   "20": {
     "translation": "Elberfelder (1871)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 20,
-    "name": "Sprüche 20",
+    "name": "Proverbs 20",
     "url": "https://api.getbible.net/v2/elberfelder/20/20.json",
-    "sha": "f4626697ebab9dc5eb7e149b233992ee3539c9d4"
+    "sha": "633697e3d436f7f2802471b6cc4070395e8b199e"
   },
   "21": {
     "translation": "Elberfelder (1871)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 21,
-    "name": "Sprüche 21",
+    "name": "Proverbs 21",
     "url": "https://api.getbible.net/v2/elberfelder/20/21.json",
-    "sha": "d8fe05c1e3c55b843e38720a84c2a4f8c8c6a563"
+    "sha": "5d1cb3d5089c24ce426aca4b9dc7706cb3c94c4e"
   },
   "22": {
     "translation": "Elberfelder (1871)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 22,
-    "name": "Sprüche 22",
+    "name": "Proverbs 22",
     "url": "https://api.getbible.net/v2/elberfelder/20/22.json",
-    "sha": "0d4126ab0dc441e6a8895abfb0818b41dafe8a14"
+    "sha": "b4efe163c5452274f7a63adf912917fbfa3302aa"
   },
   "23": {
     "translation": "Elberfelder (1871)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 23,
-    "name": "Sprüche 23",
+    "name": "Proverbs 23",
     "url": "https://api.getbible.net/v2/elberfelder/20/23.json",
-    "sha": "c09b0dff176139a8b51cf6f118a0a9477b972f28"
+    "sha": "59ff9128657e47df79fe322f737d8809bcc6a8aa"
   },
   "24": {
     "translation": "Elberfelder (1871)",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 24,
-    "name": "Sprüche 24",
+    "name": "Proverbs 24",
     "url": "https://api.getbible.net/v2/elberfelder/20/24.json",
-    "sha": "7faf9c9dbf938f87b190c444f1a9f20d31f8810b"
+    "sha": "a373922d1ad8c34cdec319507db256afc2801aea"
   },
   "25": {
     "translation": "Elberfelder (1871)",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 25,
-    "name": "Sprüche 25",
+    "name": "Proverbs 25",
     "url": "https://api.getbible.net/v2/elberfelder/20/25.json",
-    "sha": "28774b32d037e49ee09ed4a434760588a1010c2e"
+    "sha": "a0a4b1237276ec377e211d3c9df99b728ec6b412"
   },
   "26": {
     "translation": "Elberfelder (1871)",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 26,
-    "name": "Sprüche 26",
+    "name": "Proverbs 26",
     "url": "https://api.getbible.net/v2/elberfelder/20/26.json",
-    "sha": "0822582e813e5e5d544f31d10dc8e0b8c18e5557"
+    "sha": "a02bdb562644380e130853eed86336de3f347c9e"
   },
   "27": {
     "translation": "Elberfelder (1871)",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 27,
-    "name": "Sprüche 27",
+    "name": "Proverbs 27",
     "url": "https://api.getbible.net/v2/elberfelder/20/27.json",
-    "sha": "4ab8e7e789c7f1188adc5b4e8bf71041a6b828b7"
+    "sha": "eb8774bb9c8f1d3468aea6710a1291447c36b65b"
   },
   "28": {
     "translation": "Elberfelder (1871)",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 28,
-    "name": "Sprüche 28",
+    "name": "Proverbs 28",
     "url": "https://api.getbible.net/v2/elberfelder/20/28.json",
-    "sha": "1e59ce15e7a8ebc8bc4a552c4830d1b6953d2661"
+    "sha": "e1cd35581e5af3a9bf7132a24866bd9de5df3cb3"
   },
   "29": {
     "translation": "Elberfelder (1871)",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 29,
-    "name": "Sprüche 29",
+    "name": "Proverbs 29",
     "url": "https://api.getbible.net/v2/elberfelder/20/29.json",
-    "sha": "b0d06ea081addb0e621e7b807540b03bb535881d"
+    "sha": "f16db1decedcb9ec54ca688badf8ab64362fb3d7"
   },
   "30": {
     "translation": "Elberfelder (1871)",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 30,
-    "name": "Sprüche 30",
+    "name": "Proverbs 30",
     "url": "https://api.getbible.net/v2/elberfelder/20/30.json",
-    "sha": "5a8fc700c7b19ea20109144ea84cf4a8ca300560"
+    "sha": "eeec0a84d9b6a8b0fa653711bc053e3cece53375"
   },
   "31": {
     "translation": "Elberfelder (1871)",
@@ -427,10 +427,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 20,
-    "book_name": "Sprüche",
+    "book_name": "Proverbs",
     "chapter": 31,
-    "name": "Sprüche 31",
+    "name": "Proverbs 31",
     "url": "https://api.getbible.net/v2/elberfelder/20/31.json",
-    "sha": "e53369a2165324000f68d41633c197d3158eefa2"
+    "sha": "4c549bad8e545e511c53836376636d7d1025d38c"
   }
 }

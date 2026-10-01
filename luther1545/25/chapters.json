@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 1,
-    "name": "Klagelieder 1",
+    "name": "Lamentations 1",
     "url": "https://api.getbible.net/v2/luther1545/25/1.json",
-    "sha": "9887df0a7c055a9cf37a4294b009b95ffa0e139e"
+    "sha": "66b91c168aa30f2df796cf7519566a66b53fb49f"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 2,
-    "name": "Klagelieder 2",
+    "name": "Lamentations 2",
     "url": "https://api.getbible.net/v2/luther1545/25/2.json",
-    "sha": "1c06f102b644683709f38910e984fcd97b949868"
+    "sha": "8e575281fe75b28c593fd0a082e5df7224058899"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 3,
-    "name": "Klagelieder 3",
+    "name": "Lamentations 3",
     "url": "https://api.getbible.net/v2/luther1545/25/3.json",
-    "sha": "b10eb3b62502d80475bb6b06e28691afa72757f0"
+    "sha": "26c33fb4a059265fee27de707dfafa3a76c16c76"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 4,
-    "name": "Klagelieder 4",
+    "name": "Lamentations 4",
     "url": "https://api.getbible.net/v2/luther1545/25/4.json",
-    "sha": "1d545a7af34fb10df6b6c8fa8abdba8f8f6150e3"
+    "sha": "ddbf4d54a6695efe8143712f79a6fa46d8021e3f"
   },
   "5": {
     "translation": "Luther (1545)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 25,
-    "book_name": "Klagelieder",
+    "book_name": "Lamentations",
     "chapter": 5,
-    "name": "Klagelieder 5",
+    "name": "Lamentations 5",
     "url": "https://api.getbible.net/v2/luther1545/25/5.json",
-    "sha": "b9d44c33ab0c7a8754a1bf9ae046942cfa4d22e1"
+    "sha": "331bb2e9898e7b7bcddea9732354b260f2152861"
   }
 }

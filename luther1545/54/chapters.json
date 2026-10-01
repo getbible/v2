@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1. Timotheus",
+    "book_name": "1 Timothy",
     "chapter": 1,
-    "name": "1. Timotheus 1",
+    "name": "1 Timothy 1",
     "url": "https://api.getbible.net/v2/luther1545/54/1.json",
-    "sha": "d218d7bae582146ace9dee8c543c26eaf5256cc8"
+    "sha": "bdf9d194fcf090dab80b5440b645a7c2255ca841"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1. Timotheus",
+    "book_name": "1 Timothy",
     "chapter": 2,
-    "name": "1. Timotheus 2",
+    "name": "1 Timothy 2",
     "url": "https://api.getbible.net/v2/luther1545/54/2.json",
-    "sha": "9b5ed64530bb6771977f4c548974c25d696629b5"
+    "sha": "0a7677a454139f54da2752f6d6e74f3e1e1f2eb5"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1. Timotheus",
+    "book_name": "1 Timothy",
     "chapter": 3,
-    "name": "1. Timotheus 3",
+    "name": "1 Timothy 3",
     "url": "https://api.getbible.net/v2/luther1545/54/3.json",
-    "sha": "2b8e30f5e4e10dbd48b1f3b4ad0a960c39860738"
+    "sha": "3094e3486496b9c0dcec73e1ecdd748c3ff5fdef"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1. Timotheus",
+    "book_name": "1 Timothy",
     "chapter": 4,
-    "name": "1. Timotheus 4",
+    "name": "1 Timothy 4",
     "url": "https://api.getbible.net/v2/luther1545/54/4.json",
-    "sha": "d46227737749b87091a3a45463d6b788629c5894"
+    "sha": "24deab1d95acc3d30de55c0273803c601181d635"
   },
   "5": {
     "translation": "Luther (1545)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1. Timotheus",
+    "book_name": "1 Timothy",
     "chapter": 5,
-    "name": "1. Timotheus 5",
+    "name": "1 Timothy 5",
     "url": "https://api.getbible.net/v2/luther1545/54/5.json",
-    "sha": "263d1b77fcd1f8672e4d235f0e505ae227a7f562"
+    "sha": "50e83b78e81441cf31158815c2633f46cd3fc2ab"
   },
   "6": {
     "translation": "Luther (1545)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 54,
-    "book_name": "1. Timotheus",
+    "book_name": "1 Timothy",
     "chapter": 6,
-    "name": "1. Timotheus 6",
+    "name": "1 Timothy 6",
     "url": "https://api.getbible.net/v2/luther1545/54/6.json",
-    "sha": "a3f6eddb23af1e2f0ea9468e23aa8633a5aab090"
+    "sha": "bdc05c1b9d699828b3ba738f509bb0dae1f4fc8e"
   }
 }

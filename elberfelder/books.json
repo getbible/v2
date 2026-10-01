@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "1. Mose",
+    "name": "Genesis",
     "url": "https://api.getbible.net/v2/elberfelder/1.json",
-    "sha": "ad4de447151c8da5f9f61b6e1b98b12857677f7f"
+    "sha": "76ef431e7c229e0231890f57c20db5900012d9c6"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "2. Mose",
+    "name": "Exodus",
     "url": "https://api.getbible.net/v2/elberfelder/2.json",
-    "sha": "206d3c362de62620398abc42159d4c861f3eca6e"
+    "sha": "296c23fc96cc7225442efc167ccfe2951fdf12be"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "3. Mose",
+    "name": "Leviticus",
     "url": "https://api.getbible.net/v2/elberfelder/3.json",
-    "sha": "87a32125b3f1fe08e32c9253fe6cf31130fe23c9"
+    "sha": "9d9349491a91116b54fb78a1fd7737f3dc88e3c2"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "4. Mose",
+    "name": "Numbers",
     "url": "https://api.getbible.net/v2/elberfelder/4.json",
-    "sha": "c6ed55af14e4eae846b182dcb16ad92eb87bde3d"
+    "sha": "462a79e90fffd59bf27f80d61f04d6bc5e315991"
   },
   "5": {
     "translation": "Elberfelder (1871)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "5. Mose",
+    "name": "Deuteronomy",
     "url": "https://api.getbible.net/v2/elberfelder/5.json",
-    "sha": "28448c2ca9040d2fb20f5a9cd8008d32672251dc"
+    "sha": "236a7c86dc45fd18b1c126af433c502d9c18886a"
   },
   "6": {
     "translation": "Elberfelder (1871)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Josua",
+    "name": "Joshua",
     "url": "https://api.getbible.net/v2/elberfelder/6.json",
-    "sha": "9f17ffa3a8173b36da742e9ae1f2a70c6d1e2221"
+    "sha": "15634cfb01d0d62bb45bdc852c27417697bf038d"
   },
   "7": {
     "translation": "Elberfelder (1871)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Richter",
+    "name": "Judges",
     "url": "https://api.getbible.net/v2/elberfelder/7.json",
-    "sha": "e9154cb767f5ce9041855b72a39794ebd4b04adc"
+    "sha": "55e8e4981517837f60b2496c633957b8474c9cbf"
   },
   "8": {
     "translation": "Elberfelder (1871)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Rut",
+    "name": "Ruth",
     "url": "https://api.getbible.net/v2/elberfelder/8.json",
-    "sha": "4224c7b0978e6ac4460e6cfd5038e0350ef6d8f7"
+    "sha": "0bab37258ebd2bc23da5e8cf92d0adf9f2bccaa0"
   },
   "9": {
     "translation": "Elberfelder (1871)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1. Samuel",
+    "name": "1 Samuel",
     "url": "https://api.getbible.net/v2/elberfelder/9.json",
-    "sha": "26f85d19c7b86b0277c8c229349d230251d7934e"
+    "sha": "fb686186e1bf07b76209e7847d39c5f5ed69d4ca"
   },
   "10": {
     "translation": "Elberfelder (1871)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2. Samuel",
+    "name": "2 Samuel",
     "url": "https://api.getbible.net/v2/elberfelder/10.json",
-    "sha": "58e2a3d6525598812b932b2c5c4b246a1dc03ae2"
+    "sha": "36a27120cce279a1506fdb5dd75ce34bde7c04bc"
   },
   "11": {
     "translation": "Elberfelder (1871)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1. Könige",
+    "name": "1 Kings",
     "url": "https://api.getbible.net/v2/elberfelder/11.json",
-    "sha": "d0bdcfd5ac68891a61e52e1f14b9a08add04f87c"
+    "sha": "5e1bcc9e5099900c30d17620966c65285dd78aa3"
   },
   "12": {
     "translation": "Elberfelder (1871)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2. Könige",
+    "name": "2 Kings",
     "url": "https://api.getbible.net/v2/elberfelder/12.json",
-    "sha": "e6e7096383b9ad3406717ce8661b846574361df0"
+    "sha": "519c0e82572b89696f526330639d3c218abed844"
   },
   "13": {
     "translation": "Elberfelder (1871)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1. Chronik",
+    "name": "1 Chronicles",
     "url": "https://api.getbible.net/v2/elberfelder/13.json",
-    "sha": "6adff5c78da352cf3686fdfd5397b056b23b0230"
+    "sha": "d8f42aff7baa3191e8b032b490f6eba985cf4fb0"
   },
   "14": {
     "translation": "Elberfelder (1871)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2. Chronik",
+    "name": "2 Chronicles",
     "url": "https://api.getbible.net/v2/elberfelder/14.json",
-    "sha": "20355dc5f9a210a307e0692aa32529f8c490fbac"
+    "sha": "1656bad84bffe9206cfbec9dae703fe07edf5afe"
   },
   "15": {
     "translation": "Elberfelder (1871)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Esra",
+    "name": "Ezra",
     "url": "https://api.getbible.net/v2/elberfelder/15.json",
-    "sha": "2dc5ede4d0a8a2fdec90f69b9bfe106302aceefb"
+    "sha": "660759b68fc0c64988eb554fb2553c569f4034c5"
   },
   "16": {
     "translation": "Elberfelder (1871)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemia",
+    "name": "Nehemiah",
     "url": "https://api.getbible.net/v2/elberfelder/16.json",
-    "sha": "a4bb37b57714d4b23528bdb6dea030a5a9df25d8"
+    "sha": "e70bc74ab6513e1b464b19a9ca18b4a9b2bcdb31"
   },
   "17": {
     "translation": "Elberfelder (1871)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Ester",
+    "name": "Esther",
     "url": "https://api.getbible.net/v2/elberfelder/17.json",
-    "sha": "71b86a4864920ff7370e20a6b2029f5a4fa8ec9f"
+    "sha": "d5ea44cf8337c8ece431db64a58bf1aec0b30c16"
   },
   "18": {
     "translation": "Elberfelder (1871)",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Hiob",
+    "name": "Job",
     "url": "https://api.getbible.net/v2/elberfelder/18.json",
-    "sha": "b58895ade4ba080ab00a80f46ea23d8279e3de43"
+    "sha": "0903cb81d000a8324fdd7cb5c49492ea069220a7"
   },
   "19": {
     "translation": "Elberfelder (1871)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalm",
+    "name": "Psalms",
     "url": "https://api.getbible.net/v2/elberfelder/19.json",
-    "sha": "a98e9682bafd20ae33920c2cbeadfb4daf7d5df9"
+    "sha": "65b51301c66da9b20c91001800f56f5c278debd3"
   },
   "20": {
     "translation": "Elberfelder (1871)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Sprüche",
+    "name": "Proverbs",
     "url": "https://api.getbible.net/v2/elberfelder/20.json",
-    "sha": "5897a4e6fd69f005e46a8e829a02ad0f19f48c3a"
+    "sha": "f3ada602ca10fe2eae26140652bff13d097d0611"
   },
   "21": {
     "translation": "Elberfelder (1871)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Prediger",
+    "name": "Ecclesiastes",
     "url": "https://api.getbible.net/v2/elberfelder/21.json",
-    "sha": "4863016b96099cc96fdc1a9b2170f35a41fcc3dc"
+    "sha": "7e4661d0a0ca21ec915cf1e9ff50db0c875135e7"
   },
   "22": {
     "translation": "Elberfelder (1871)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Hohes Lied",
+    "name": "Song of Solomon",
     "url": "https://api.getbible.net/v2/elberfelder/22.json",
-    "sha": "8ba04f4fccfbc87302b1020968abc077b25b0549"
+    "sha": "19fac4e96a7e380a1df74a9a9e5eca1b3113b5ef"
   },
   "23": {
     "translation": "Elberfelder (1871)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Jesaja",
+    "name": "Isaiah",
     "url": "https://api.getbible.net/v2/elberfelder/23.json",
-    "sha": "33a33689f90dc3580141a8220fff67432d468c7d"
+    "sha": "53f73a4835b811136e7b3d15f10460620d10ec13"
   },
   "24": {
     "translation": "Elberfelder (1871)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremia",
+    "name": "Jeremiah",
     "url": "https://api.getbible.net/v2/elberfelder/24.json",
-    "sha": "d3cd120f56f0e5ec2686d0dbeafa714bcc6022cc"
+    "sha": "f74ec2ad4b1d2d384f1bc0628c4f474524bb7acc"
   },
   "25": {
     "translation": "Elberfelder (1871)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Klagelieder",
+    "name": "Lamentations",
     "url": "https://api.getbible.net/v2/elberfelder/25.json",
-    "sha": "9cccf5e90c484a52db8262670f526e9f0f39c4f6"
+    "sha": "fe9b1fc2c927239505b83893e9a118d88e02bba9"
   },
   "26": {
     "translation": "Elberfelder (1871)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Hesekiel",
+    "name": "Ezekiel",
     "url": "https://api.getbible.net/v2/elberfelder/26.json",
-    "sha": "8fd35c8ae4ed19d54e408f8b235924672839eb5b"
+    "sha": "880d08ddf97f33415bab740684bfca01baba87f2"
   },
   "27": {
     "translation": "Elberfelder (1871)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadja",
+    "name": "Obadiah",
     "url": "https://api.getbible.net/v2/elberfelder/31.json",
-    "sha": "7002acc9d61682763d6567601099523f3b1d6f5f"
+    "sha": "a868ef2f489cca1d4b479a138d7ac95486c908a8"
   },
   "32": {
     "translation": "Elberfelder (1871)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jona",
+    "name": "Jonah",
     "url": "https://api.getbible.net/v2/elberfelder/32.json",
-    "sha": "379c63ace66b4aa34dab846fbcd4ed7f53159a85"
+    "sha": "c38d411e965215bde531f907cc62a18bad9df9b0"
   },
   "33": {
     "translation": "Elberfelder (1871)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micha",
+    "name": "Micah",
     "url": "https://api.getbible.net/v2/elberfelder/33.json",
-    "sha": "08c658b206fc30a42beee6aecee28fe419d483ab"
+    "sha": "8a08373ba68bd096fc1432690d8cbd9923157301"
   },
   "34": {
     "translation": "Elberfelder (1871)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakuk",
+    "name": "Habakkuk",
     "url": "https://api.getbible.net/v2/elberfelder/35.json",
-    "sha": "f2d502eb592fab58978a82d79e8cfb51160c9a17"
+    "sha": "be67ce719591a16c8e91a2886c67e5524d160e65"
   },
   "36": {
     "translation": "Elberfelder (1871)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zefanja",
+    "name": "Zephaniah",
     "url": "https://api.getbible.net/v2/elberfelder/36.json",
-    "sha": "1b43958b47c99b01eeb8766c23477d32e096050e"
+    "sha": "723dd73be76614cf99906e8f921f33ef0d57a022"
   },
   "37": {
     "translation": "Elberfelder (1871)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Sacharja",
+    "name": "Zechariah",
     "url": "https://api.getbible.net/v2/elberfelder/38.json",
-    "sha": "06553e30e89e31d6553dd88016b367d1c7d8af80"
+    "sha": "16be4ba11a1d8fa9c2cc8b01345a3bda3b5472cd"
   },
   "39": {
     "translation": "Elberfelder (1871)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Maleachi",
+    "name": "Malachi",
     "url": "https://api.getbible.net/v2/elberfelder/39.json",
-    "sha": "1557b79bf30aab650bdf2575bc85bd75343549d1"
+    "sha": "1242036e34f47c6358da581d058b462dc0ebbdb9"
   },
   "40": {
     "translation": "Elberfelder (1871)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthäus",
+    "name": "Matthew",
     "url": "https://api.getbible.net/v2/elberfelder/40.json",
-    "sha": "a4e348916b89fde9aea4ee4fb42249c365af9e8e"
+    "sha": "95a3d7bc1c21590dc7db15cac14acd4ac2fd5195"
   },
   "41": {
     "translation": "Elberfelder (1871)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Markus",
+    "name": "Mark",
     "url": "https://api.getbible.net/v2/elberfelder/41.json",
-    "sha": "328af819cf41156255f7c95d366e3089008ac944"
+    "sha": "4a519f51684fc6781de676a9d2c87c33c8b40db5"
   },
   "42": {
     "translation": "Elberfelder (1871)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Lukas",
+    "name": "Luke",
     "url": "https://api.getbible.net/v2/elberfelder/42.json",
-    "sha": "70c192841e23ccb71647c590864719ef4811c4ed"
+    "sha": "f75cf7394fcf1351267c8bab8ddf64c04a7160c3"
   },
   "43": {
     "translation": "Elberfelder (1871)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "Johannes",
+    "name": "John",
     "url": "https://api.getbible.net/v2/elberfelder/43.json",
-    "sha": "77129091b0c136dc8f7f93a66cb9086a9ddbd846"
+    "sha": "4049c8aa6fef11f0e26c4e56e1f2f4d3f4faf287"
   },
   "44": {
     "translation": "Elberfelder (1871)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Apostelgeschichte",
+    "name": "Acts",
     "url": "https://api.getbible.net/v2/elberfelder/44.json",
-    "sha": "4eb346f5cd75d3b0dd5bba70f2e056fb600e3642"
+    "sha": "c45931863f377f32265e9822e98a14e27270ba91"
   },
   "45": {
     "translation": "Elberfelder (1871)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Römer",
+    "name": "Romans",
     "url": "https://api.getbible.net/v2/elberfelder/45.json",
-    "sha": "854be2c124d2d37270a802c96b6e32df38053a41"
+    "sha": "d255b8da03dc03689175c4f858371f40da1e91d9"
   },
   "46": {
     "translation": "Elberfelder (1871)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1. Korinther",
+    "name": "1 Corinthians",
     "url": "https://api.getbible.net/v2/elberfelder/46.json",
-    "sha": "c71a353ecc1e4086e7561a2a19695c32ddf20516"
+    "sha": "1919c1a26c1932702be58ba274d3c70fcd297964"
   },
   "47": {
     "translation": "Elberfelder (1871)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2. Korinther",
+    "name": "2 Corinthians",
     "url": "https://api.getbible.net/v2/elberfelder/47.json",
-    "sha": "6904ff36944717f83e199b3f758155667367e040"
+    "sha": "69fdbd59361d4782be97bd45268224402965307f"
   },
   "48": {
     "translation": "Elberfelder (1871)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galater",
+    "name": "Galatians",
     "url": "https://api.getbible.net/v2/elberfelder/48.json",
-    "sha": "6adc0b6b4829d1c3dccb2f8929b54a8a55c89459"
+    "sha": "0e09abe0821cb644d2a8aae9df4bf323a378df14"
   },
   "49": {
     "translation": "Elberfelder (1871)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Epheser",
+    "name": "Ephesians",
     "url": "https://api.getbible.net/v2/elberfelder/49.json",
-    "sha": "82a71197ffaea8afad42fa27a5da2f419f7050ad"
+    "sha": "e8eb3e97599788e21b28c38ab5ccbb0baa16a598"
   },
   "50": {
     "translation": "Elberfelder (1871)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philipper",
+    "name": "Philippians",
     "url": "https://api.getbible.net/v2/elberfelder/50.json",
-    "sha": "08a568d9b88fcb62a0512e0fc7398538c8e64d5c"
+    "sha": "b9985770d513b998f234811e179f8d3bc9937be4"
   },
   "51": {
     "translation": "Elberfelder (1871)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Kolosser",
+    "name": "Colossians",
     "url": "https://api.getbible.net/v2/elberfelder/51.json",
-    "sha": "f65cd408a37c834d156a6eda43beab861bb17f84"
+    "sha": "ddeed98e1062d43c8e70f84cd44340d5c41ac18c"
   },
   "52": {
     "translation": "Elberfelder (1871)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1. Thessalonicher",
+    "name": "1 Thessalonians",
     "url": "https://api.getbible.net/v2/elberfelder/52.json",
-    "sha": "cf6effc861b5e8b3366f006f201ecb942f88755c"
+    "sha": "33e98d0af001e2d113d88ee83a243854e2d49f05"
   },
   "53": {
     "translation": "Elberfelder (1871)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2. Thessalonicher",
+    "name": "2 Thessalonians",
     "url": "https://api.getbible.net/v2/elberfelder/53.json",
-    "sha": "f805728af2f09f97a821d55c7ee88e5fe1b5da1d"
+    "sha": "a0be00f6f3d73a7e30bf8436b48e95d8ad860634"
   },
   "54": {
     "translation": "Elberfelder (1871)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1. Timotheus",
+    "name": "1 Timothy",
     "url": "https://api.getbible.net/v2/elberfelder/54.json",
-    "sha": "ae032fa8d5f44ebaf4932168bcb0a1d48c831879"
+    "sha": "da4cec83247184b9563d357ca92cfbf8d9460f13"
   },
   "55": {
     "translation": "Elberfelder (1871)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2. Timotheus",
+    "name": "2 Timothy",
     "url": "https://api.getbible.net/v2/elberfelder/55.json",
-    "sha": "7f5bea6349c2dd396ea38e2daf01c2b5837d667a"
+    "sha": "7d29ee9f3bb4f7140f34287c44f9de3405b08765"
   },
   "56": {
     "translation": "Elberfelder (1871)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebräer",
+    "name": "Hebrews",
     "url": "https://api.getbible.net/v2/elberfelder/58.json",
-    "sha": "58ec3a92ff9e38046ee22571da4ccfe2bd816bed"
+    "sha": "eca4969e3ee9ad9b1483d53f3678f66bf8ee1951"
   },
   "59": {
     "translation": "Elberfelder (1871)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "Jakobus",
+    "name": "James",
     "url": "https://api.getbible.net/v2/elberfelder/59.json",
-    "sha": "c7001b3522cb2dd88645de34ac32d709ce77a7cb"
+    "sha": "1d9341f1d8e2944d998083ba96d5431f5ae1feef"
   },
   "60": {
     "translation": "Elberfelder (1871)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1. Petrus",
+    "name": "1 Peter",
     "url": "https://api.getbible.net/v2/elberfelder/60.json",
-    "sha": "066f72ced5e2e01db0a695215dd5e2069bd75333"
+    "sha": "59b194453bda3acd911c6689502220071db0d342"
   },
   "61": {
     "translation": "Elberfelder (1871)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2. Petrus",
+    "name": "2 Peter",
     "url": "https://api.getbible.net/v2/elberfelder/61.json",
-    "sha": "8d565b7f34d582ea6195bb4c683415e431482a6a"
+    "sha": "e41595715bb5d3427055d99099468f1a584c3e49"
   },
   "62": {
     "translation": "Elberfelder (1871)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1. Johannes",
+    "name": "1 John",
     "url": "https://api.getbible.net/v2/elberfelder/62.json",
-    "sha": "fe390e0fd6f6c77ed234b62c58c06a0e4cc0a300"
+    "sha": "0ff7d8a863ff010371d536d774a5588d930e012d"
   },
   "63": {
     "translation": "Elberfelder (1871)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2. Johannes",
+    "name": "2 John",
     "url": "https://api.getbible.net/v2/elberfelder/63.json",
-    "sha": "8595e7d7a0e0f5e54d81dc3a8e0e85b09e53c169"
+    "sha": "67343a7ea166e8219e9886cbc4febb9392b8abb3"
   },
   "64": {
     "translation": "Elberfelder (1871)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3. Johannes",
+    "name": "3 John",
     "url": "https://api.getbible.net/v2/elberfelder/64.json",
-    "sha": "fda35d428e1b0e4020fc06395885bca1cecdee3b"
+    "sha": "014d54a1b28b1181dd0148c9783325146908092b"
   },
   "65": {
     "translation": "Elberfelder (1871)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Judas",
+    "name": "Jude",
     "url": "https://api.getbible.net/v2/elberfelder/65.json",
-    "sha": "0135b70acf2455f3696bc70a770a3923bfc00a7e"
+    "sha": "27307219814953b8938501a44a8455b1a3480cde"
   },
   "66": {
     "translation": "Elberfelder (1871)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Offenbarung",
+    "name": "Revelation of John",
     "url": "https://api.getbible.net/v2/elberfelder/66.json",
-    "sha": "7a5d8060ebb87283606105172f6f27c3ce27fc03"
+    "sha": "f26fe498ff9879f47ea0c2e6df07e9997a6e7cd0"
   }
 }

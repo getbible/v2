@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2. Thessalonicher",
+    "book_name": "2 Thessalonians",
     "chapter": 1,
-    "name": "2. Thessalonicher 1",
+    "name": "2 Thessalonians 1",
     "url": "https://api.getbible.net/v2/schlachter/53/1.json",
-    "sha": "866d85dab3a29a8148eb5b0e30155c3e1f78e67c"
+    "sha": "c41339598c78f67bbf5d086aeb5e114bbab9ed21"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2. Thessalonicher",
+    "book_name": "2 Thessalonians",
     "chapter": 2,
-    "name": "2. Thessalonicher 2",
+    "name": "2 Thessalonians 2",
     "url": "https://api.getbible.net/v2/schlachter/53/2.json",
-    "sha": "cfbd522fa7d25b2692f00fb876a2d7a84ba72643"
+    "sha": "a71852af55283d242a9494b1bcb11fae2a52bab4"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 53,
-    "book_name": "2. Thessalonicher",
+    "book_name": "2 Thessalonians",
     "chapter": 3,
-    "name": "2. Thessalonicher 3",
+    "name": "2 Thessalonians 3",
     "url": "https://api.getbible.net/v2/schlachter/53/3.json",
-    "sha": "23035e81081b4a9945c304f7b3f0b3b4b43b9c4d"
+    "sha": "4800cbae3c741fae843a68e0ff1164fd82aac481"
   }
 }

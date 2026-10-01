@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 1,
-    "name": "1. Mose 1",
+    "name": "Genesis 1",
     "url": "https://api.getbible.net/v2/elberfelder/1/1.json",
-    "sha": "d996dfce7f9f31b429e0f0cae872c408f4683a2c"
+    "sha": "f02a179235e36a0647a3f83faec41e2e3fb34335"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 2,
-    "name": "1. Mose 2",
+    "name": "Genesis 2",
     "url": "https://api.getbible.net/v2/elberfelder/1/2.json",
-    "sha": "55d83e6213da4e8169ec6c204f59c62800ab365b"
+    "sha": "e8aab5bd89d555dd4bdcf6a9e5cbea31a711bb9c"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 3,
-    "name": "1. Mose 3",
+    "name": "Genesis 3",
     "url": "https://api.getbible.net/v2/elberfelder/1/3.json",
-    "sha": "e7587e5c96a1995344f2137a350aab7318b88c7a"
+    "sha": "bf8ab9d10ccf41c0d86cf0af6a6c1358e70fb87e"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 4,
-    "name": "1. Mose 4",
+    "name": "Genesis 4",
     "url": "https://api.getbible.net/v2/elberfelder/1/4.json",
-    "sha": "ef8cc51cef1f2f3b90c36e6f7a4bd1f371a99491"
+    "sha": "0870efd86109532b6b91ddb4438e91fb4effa99e"
   },
   "5": {
     "translation": "Elberfelder (1871)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 5,
-    "name": "1. Mose 5",
+    "name": "Genesis 5",
     "url": "https://api.getbible.net/v2/elberfelder/1/5.json",
-    "sha": "9affc8ec6833f1dfdb0bce02dc79a67c3db01cae"
+    "sha": "acf07e427e168410a76abfaea21353861e3bc444"
   },
   "6": {
     "translation": "Elberfelder (1871)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 6,
-    "name": "1. Mose 6",
+    "name": "Genesis 6",
     "url": "https://api.getbible.net/v2/elberfelder/1/6.json",
-    "sha": "363d848eccaa96b591080d9815482d0e8ef09c94"
+    "sha": "5c1c9fa93d8f6b877a1995b44b9e4ad5b2893b30"
   },
   "7": {
     "translation": "Elberfelder (1871)",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 7,
-    "name": "1. Mose 7",
+    "name": "Genesis 7",
     "url": "https://api.getbible.net/v2/elberfelder/1/7.json",
-    "sha": "ecb558884066e34dc3935f6d773a011c19ae135c"
+    "sha": "3d7a7608db8b173e201df0da4c49ac74b631f397"
   },
   "8": {
     "translation": "Elberfelder (1871)",
@@ -105,11 +105,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 8,
-    "name": "1. Mose 8",
+    "name": "Genesis 8",
     "url": "https://api.getbible.net/v2/elberfelder/1/8.json",
-    "sha": "be01642fa524352081509404214b1b2ddad7b2d4"
+    "sha": "b6ee02bf8211e0d4388d3e0f195468195b79b16c"
   },
   "9": {
     "translation": "Elberfelder (1871)",
@@ -119,11 +119,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 9,
-    "name": "1. Mose 9",
+    "name": "Genesis 9",
     "url": "https://api.getbible.net/v2/elberfelder/1/9.json",
-    "sha": "0162dedfb6d33786c515f6f9308684f41c190b69"
+    "sha": "9b87d1904d640ceaa313c5f216a977dc5b9f9748"
   },
   "10": {
     "translation": "Elberfelder (1871)",
@@ -133,11 +133,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 10,
-    "name": "1. Mose 10",
+    "name": "Genesis 10",
     "url": "https://api.getbible.net/v2/elberfelder/1/10.json",
-    "sha": "f697f6e8317b5ab88c45d3aaf9b1c46ab286b567"
+    "sha": "f642ee23144b476867f2676b375c3a9ea76de490"
   },
   "11": {
     "translation": "Elberfelder (1871)",
@@ -147,11 +147,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 11,
-    "name": "1. Mose 11",
+    "name": "Genesis 11",
     "url": "https://api.getbible.net/v2/elberfelder/1/11.json",
-    "sha": "aef32a6d54d25bf1c0ba03e25d6a6bd7ac54fc82"
+    "sha": "f8f276a53188428b7bee57fb3c7506d1d4fa28b2"
   },
   "12": {
     "translation": "Elberfelder (1871)",
@@ -161,11 +161,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 12,
-    "name": "1. Mose 12",
+    "name": "Genesis 12",
     "url": "https://api.getbible.net/v2/elberfelder/1/12.json",
-    "sha": "967a9a52c2c62b75073bb52c6418f0b521798ac6"
+    "sha": "72f7f345e5f5b7a5464a21d84f246fda7ceb2c62"
   },
   "13": {
     "translation": "Elberfelder (1871)",
@@ -175,11 +175,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 13,
-    "name": "1. Mose 13",
+    "name": "Genesis 13",
     "url": "https://api.getbible.net/v2/elberfelder/1/13.json",
-    "sha": "e5678638eee51f6defc3e2d3b794423ee59abfb1"
+    "sha": "32e80e6b10ccd9a7cebb93569264e0399d9d3805"
   },
   "14": {
     "translation": "Elberfelder (1871)",
@@ -189,11 +189,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 14,
-    "name": "1. Mose 14",
+    "name": "Genesis 14",
     "url": "https://api.getbible.net/v2/elberfelder/1/14.json",
-    "sha": "fdf2936aea07827edc4e9d5d023089063c58ba6f"
+    "sha": "ad96dbe2fa632e5f972a133d9c818936907485f1"
   },
   "15": {
     "translation": "Elberfelder (1871)",
@@ -203,11 +203,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 15,
-    "name": "1. Mose 15",
+    "name": "Genesis 15",
     "url": "https://api.getbible.net/v2/elberfelder/1/15.json",
-    "sha": "d2f06343d362124677b5cf533a067a6cc363b3ff"
+    "sha": "466b5b12ea86b956f5c10811cc94cc258bf3a7aa"
   },
   "16": {
     "translation": "Elberfelder (1871)",
@@ -217,11 +217,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 16,
-    "name": "1. Mose 16",
+    "name": "Genesis 16",
     "url": "https://api.getbible.net/v2/elberfelder/1/16.json",
-    "sha": "94d7cc0efdd6e8bb206f27a19835f8eac0daa0eb"
+    "sha": "eff2fc3c45d9bf453bf2321b9a9d427ccb1ca9a6"
   },
   "17": {
     "translation": "Elberfelder (1871)",
@@ -231,11 +231,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 17,
-    "name": "1. Mose 17",
+    "name": "Genesis 17",
     "url": "https://api.getbible.net/v2/elberfelder/1/17.json",
-    "sha": "d982063485025e42e9ff6393a80cd8ec5924f2b5"
+    "sha": "7b13b99729fa72c59f910fcd0ae743a180bcd770"
   },
   "18": {
     "translation": "Elberfelder (1871)",
@@ -245,11 +245,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 18,
-    "name": "1. Mose 18",
+    "name": "Genesis 18",
     "url": "https://api.getbible.net/v2/elberfelder/1/18.json",
-    "sha": "f565877aee780f35a0601ea63e8ae18872c5dfc5"
+    "sha": "83176b4b7f6e6eab80943b8d20935850a349142c"
   },
   "19": {
     "translation": "Elberfelder (1871)",
@@ -259,11 +259,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 19,
-    "name": "1. Mose 19",
+    "name": "Genesis 19",
     "url": "https://api.getbible.net/v2/elberfelder/1/19.json",
-    "sha": "b56ce5ae0d92e4b2725545a1cee61dea084087ff"
+    "sha": "b4849520731b665961a3de777d49e51767805046"
   },
   "20": {
     "translation": "Elberfelder (1871)",
@@ -273,11 +273,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 20,
-    "name": "1. Mose 20",
+    "name": "Genesis 20",
     "url": "https://api.getbible.net/v2/elberfelder/1/20.json",
-    "sha": "a72730b36ce9e5397ce17311a30c76ff48ca0f53"
+    "sha": "6774fa1c41f0afa71a33592b7315674cf416b2fa"
   },
   "21": {
     "translation": "Elberfelder (1871)",
@@ -287,11 +287,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 21,
-    "name": "1. Mose 21",
+    "name": "Genesis 21",
     "url": "https://api.getbible.net/v2/elberfelder/1/21.json",
-    "sha": "299cbcb5f7964cee93b7b9b9e124a31bb3cd863b"
+    "sha": "2453f7aba57e28b6a32c0352220194640d157d61"
   },
   "22": {
     "translation": "Elberfelder (1871)",
@@ -301,11 +301,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 22,
-    "name": "1. Mose 22",
+    "name": "Genesis 22",
     "url": "https://api.getbible.net/v2/elberfelder/1/22.json",
-    "sha": "1220b568cb9f3aefbed18f4423f37e5624e82f35"
+    "sha": "292a0167dc3bbf17d587f840c83d263cec7d100d"
   },
   "23": {
     "translation": "Elberfelder (1871)",
@@ -315,11 +315,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 23,
-    "name": "1. Mose 23",
+    "name": "Genesis 23",
     "url": "https://api.getbible.net/v2/elberfelder/1/23.json",
-    "sha": "578e1d8b790a4d4f78e8b3664e18adeb55d2f471"
+    "sha": "b39276390a9258e8f20a03d600f2a1f28267c5e7"
   },
   "24": {
     "translation": "Elberfelder (1871)",
@@ -329,11 +329,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 24,
-    "name": "1. Mose 24",
+    "name": "Genesis 24",
     "url": "https://api.getbible.net/v2/elberfelder/1/24.json",
-    "sha": "6498c47fff22ea670d3703813f31d1fd37818c96"
+    "sha": "030f63b800b19667c0d937a207543e4774694be8"
   },
   "25": {
     "translation": "Elberfelder (1871)",
@@ -343,11 +343,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 25,
-    "name": "1. Mose 25",
+    "name": "Genesis 25",
     "url": "https://api.getbible.net/v2/elberfelder/1/25.json",
-    "sha": "ea7aca9e1db0d204b85763494eb8752fb00e38aa"
+    "sha": "bbec5a8b21b2354c267186b9aa7cf208bdbc20d7"
   },
   "26": {
     "translation": "Elberfelder (1871)",
@@ -357,11 +357,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 26,
-    "name": "1. Mose 26",
+    "name": "Genesis 26",
     "url": "https://api.getbible.net/v2/elberfelder/1/26.json",
-    "sha": "e904db5d13fe9a1128a06785f4b97c36fcd24626"
+    "sha": "dfe63f7de00b9c42a6d695b6b062e712eca0358b"
   },
   "27": {
     "translation": "Elberfelder (1871)",
@@ -371,11 +371,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 27,
-    "name": "1. Mose 27",
+    "name": "Genesis 27",
     "url": "https://api.getbible.net/v2/elberfelder/1/27.json",
-    "sha": "b81c69e5ce8769bdace892c3c778a582a34cf96d"
+    "sha": "e4bdffea1b268a1958dc4facd8337359afa58171"
   },
   "28": {
     "translation": "Elberfelder (1871)",
@@ -385,11 +385,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 28,
-    "name": "1. Mose 28",
+    "name": "Genesis 28",
     "url": "https://api.getbible.net/v2/elberfelder/1/28.json",
-    "sha": "208c618f7e483b7ed37fb61b0aeb5cb9999daa45"
+    "sha": "e3f65eb5abb686800c50f58037046cf15b248ce7"
   },
   "29": {
     "translation": "Elberfelder (1871)",
@@ -399,11 +399,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 29,
-    "name": "1. Mose 29",
+    "name": "Genesis 29",
     "url": "https://api.getbible.net/v2/elberfelder/1/29.json",
-    "sha": "97c374fa91e9d0b5da9fcf15a42ddbfa1e4fd1dc"
+    "sha": "82c80ad2821848ec7a6a1a325a8697c34701a539"
   },
   "30": {
     "translation": "Elberfelder (1871)",
@@ -413,11 +413,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 30,
-    "name": "1. Mose 30",
+    "name": "Genesis 30",
     "url": "https://api.getbible.net/v2/elberfelder/1/30.json",
-    "sha": "9bcf8f861063d5b0ff0321f08b075d5f0430f3b1"
+    "sha": "03a6b2926fe4bebf85e1806e45faa425decc2052"
   },
   "31": {
     "translation": "Elberfelder (1871)",
@@ -427,11 +427,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 31,
-    "name": "1. Mose 31",
+    "name": "Genesis 31",
     "url": "https://api.getbible.net/v2/elberfelder/1/31.json",
-    "sha": "1a9024eb91352d41e9bca5fd6238eee29a53a711"
+    "sha": "d01f355a8c9e30be7a8e009c639095e4266afaf8"
   },
   "32": {
     "translation": "Elberfelder (1871)",
@@ -441,11 +441,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 32,
-    "name": "1. Mose 32",
+    "name": "Genesis 32",
     "url": "https://api.getbible.net/v2/elberfelder/1/32.json",
-    "sha": "15105a89dd83e14dfd374fee7fe00cd9fb057e23"
+    "sha": "2725ad37785df4e708835005223091002967bab6"
   },
   "33": {
     "translation": "Elberfelder (1871)",
@@ -455,11 +455,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 33,
-    "name": "1. Mose 33",
+    "name": "Genesis 33",
     "url": "https://api.getbible.net/v2/elberfelder/1/33.json",
-    "sha": "b3de649e7d414d51095f19ef1fbe2a80ff9ef8aa"
+    "sha": "f27a2754b469499c40cda47aeb974a20298dcd2e"
   },
   "34": {
     "translation": "Elberfelder (1871)",
@@ -469,11 +469,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 34,
-    "name": "1. Mose 34",
+    "name": "Genesis 34",
     "url": "https://api.getbible.net/v2/elberfelder/1/34.json",
-    "sha": "195576373c776754b05479cb6708ab8ee4608be1"
+    "sha": "e0b46303437bea87350efd6f44b14ee5d74c52d5"
   },
   "35": {
     "translation": "Elberfelder (1871)",
@@ -483,11 +483,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 35,
-    "name": "1. Mose 35",
+    "name": "Genesis 35",
     "url": "https://api.getbible.net/v2/elberfelder/1/35.json",
-    "sha": "e848d0b62047eab747d3c17d0c4acd2b85fc5f76"
+    "sha": "1d7385b452e375544a380707701dd409875c8297"
   },
   "36": {
     "translation": "Elberfelder (1871)",
@@ -497,11 +497,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 36,
-    "name": "1. Mose 36",
+    "name": "Genesis 36",
     "url": "https://api.getbible.net/v2/elberfelder/1/36.json",
-    "sha": "110153a68bacf183146f23c1dc055580ca5b3977"
+    "sha": "43744cc1fa37f4e6b90211ed55d45b977445ced6"
   },
   "37": {
     "translation": "Elberfelder (1871)",
@@ -511,11 +511,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 37,
-    "name": "1. Mose 37",
+    "name": "Genesis 37",
     "url": "https://api.getbible.net/v2/elberfelder/1/37.json",
-    "sha": "913495124c57235f744b66d35f94cee9cda3dec6"
+    "sha": "ff7b8540406fa36e9b609408c7d47d6210879da1"
   },
   "38": {
     "translation": "Elberfelder (1871)",
@@ -525,11 +525,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 38,
-    "name": "1. Mose 38",
+    "name": "Genesis 38",
     "url": "https://api.getbible.net/v2/elberfelder/1/38.json",
-    "sha": "8b276cdc70d00b5746b4b9087b1f0f4910406031"
+    "sha": "dc9c38f7584a8bbed2be04978fa80d52079f9cdc"
   },
   "39": {
     "translation": "Elberfelder (1871)",
@@ -539,11 +539,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 39,
-    "name": "1. Mose 39",
+    "name": "Genesis 39",
     "url": "https://api.getbible.net/v2/elberfelder/1/39.json",
-    "sha": "017b65b150835e0f5fdf03be4b8ee8dfb22e1716"
+    "sha": "ffa54bfa9f81d16f920c4d466411aae9be126153"
   },
   "40": {
     "translation": "Elberfelder (1871)",
@@ -553,11 +553,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 40,
-    "name": "1. Mose 40",
+    "name": "Genesis 40",
     "url": "https://api.getbible.net/v2/elberfelder/1/40.json",
-    "sha": "f7e80a07c11a2fb2efef5fe837b02c0da67b2684"
+    "sha": "b3aa8314de23cb9bf6c213e8e983e8ba27fbbf59"
   },
   "41": {
     "translation": "Elberfelder (1871)",
@@ -567,11 +567,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 41,
-    "name": "1. Mose 41",
+    "name": "Genesis 41",
     "url": "https://api.getbible.net/v2/elberfelder/1/41.json",
-    "sha": "7248c256e2a817998386b5a0a93d2a8364f4a6c8"
+    "sha": "feb619a61b87c454f03ff544878279ed8be60f6b"
   },
   "42": {
     "translation": "Elberfelder (1871)",
@@ -581,11 +581,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 42,
-    "name": "1. Mose 42",
+    "name": "Genesis 42",
     "url": "https://api.getbible.net/v2/elberfelder/1/42.json",
-    "sha": "9a473108b53f7c62c2e346c5adc777a7c8ce560d"
+    "sha": "ad4b6da9c5cd7b6d833b2207710fdab15d1bab87"
   },
   "43": {
     "translation": "Elberfelder (1871)",
@@ -595,11 +595,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 43,
-    "name": "1. Mose 43",
+    "name": "Genesis 43",
     "url": "https://api.getbible.net/v2/elberfelder/1/43.json",
-    "sha": "6d4a474d343330b93ea036de148a8ca6f780bcae"
+    "sha": "391dc48255258355ddda4bca303569d043399ac9"
   },
   "44": {
     "translation": "Elberfelder (1871)",
@@ -609,11 +609,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 44,
-    "name": "1. Mose 44",
+    "name": "Genesis 44",
     "url": "https://api.getbible.net/v2/elberfelder/1/44.json",
-    "sha": "e1ae0fe42b6986b62c143f17ad82f5d6d5605e19"
+    "sha": "5d284ff7f74a49c4774c9e6db470a04ef6f12937"
   },
   "45": {
     "translation": "Elberfelder (1871)",
@@ -623,11 +623,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 45,
-    "name": "1. Mose 45",
+    "name": "Genesis 45",
     "url": "https://api.getbible.net/v2/elberfelder/1/45.json",
-    "sha": "b2020b8e8d41d662d87e78cc545a997bba874773"
+    "sha": "4b4acc7cd1eab6f46190fe28704d6ef90065e15e"
   },
   "46": {
     "translation": "Elberfelder (1871)",
@@ -637,11 +637,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 46,
-    "name": "1. Mose 46",
+    "name": "Genesis 46",
     "url": "https://api.getbible.net/v2/elberfelder/1/46.json",
-    "sha": "2db1e0990d0cdb203dc08226d175410037abcb1e"
+    "sha": "637c1a9fcb794aaed8fcdbc088041c61fd6ffcc8"
   },
   "47": {
     "translation": "Elberfelder (1871)",
@@ -651,11 +651,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 47,
-    "name": "1. Mose 47",
+    "name": "Genesis 47",
     "url": "https://api.getbible.net/v2/elberfelder/1/47.json",
-    "sha": "b5a712e8aed109a36c8dd010bed9f0b2750c9e25"
+    "sha": "3f52ded4fa3b4758c38fb6f85c2583dc8d12f465"
   },
   "48": {
     "translation": "Elberfelder (1871)",
@@ -665,11 +665,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 48,
-    "name": "1. Mose 48",
+    "name": "Genesis 48",
     "url": "https://api.getbible.net/v2/elberfelder/1/48.json",
-    "sha": "1181df26a1ad9b8722b8f913fedfdb8894aff405"
+    "sha": "6ea252762e367bcce1da2c620601c4f07388df4b"
   },
   "49": {
     "translation": "Elberfelder (1871)",
@@ -679,11 +679,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 49,
-    "name": "1. Mose 49",
+    "name": "Genesis 49",
     "url": "https://api.getbible.net/v2/elberfelder/1/49.json",
-    "sha": "c7d0b85b3c116da57d3a7e1dc2afc3e19682c9c3"
+    "sha": "dae5ae4089568c16e389e8b37a4ac3bd771f9f5f"
   },
   "50": {
     "translation": "Elberfelder (1871)",
@@ -693,10 +693,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 1,
-    "book_name": "1. Mose",
+    "book_name": "Genesis",
     "chapter": 50,
-    "name": "1. Mose 50",
+    "name": "Genesis 50",
     "url": "https://api.getbible.net/v2/elberfelder/1/50.json",
-    "sha": "5f37a1559da2d3494fd756b6598f72e6f313837f"
+    "sha": "75ec5677539aa6c302f2262523703baf5e0dc458"
   }
 }

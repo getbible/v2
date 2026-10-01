@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2. Petrus",
+    "book_name": "2 Peter",
     "chapter": 1,
-    "name": "2. Petrus 1",
+    "name": "2 Peter 1",
     "url": "https://api.getbible.net/v2/luther1545/61/1.json",
-    "sha": "9dc70879bcc405d6896355b3200798950bab761b"
+    "sha": "f33324bf94a51b2426dd2396d4bc1122816f772e"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2. Petrus",
+    "book_name": "2 Peter",
     "chapter": 2,
-    "name": "2. Petrus 2",
+    "name": "2 Peter 2",
     "url": "https://api.getbible.net/v2/luther1545/61/2.json",
-    "sha": "3df343b6748e87d458d154345e3230da08e9ff3a"
+    "sha": "3621bac332f7695a97127eb1fe14af707c8dbcdc"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 61,
-    "book_name": "2. Petrus",
+    "book_name": "2 Peter",
     "chapter": 3,
-    "name": "2. Petrus 3",
+    "name": "2 Peter 3",
     "url": "https://api.getbible.net/v2/luther1545/61/3.json",
-    "sha": "4cae2368f894e1de655d8f25c685566521cf7ee6"
+    "sha": "a0b106c5d203f20f01f292b27dcbc2ff9937ad32"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 1,
-    "name": "Epheser 1",
+    "name": "Ephesians 1",
     "url": "https://api.getbible.net/v2/schlachter/49/1.json",
-    "sha": "9d53ccbf6a769e0201af197ad4890f88948332c3"
+    "sha": "9dc0ac55eee3201164cac12c2527f8ac4b79e087"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 2,
-    "name": "Epheser 2",
+    "name": "Ephesians 2",
     "url": "https://api.getbible.net/v2/schlachter/49/2.json",
-    "sha": "f0e86d9bbf7b77cdb3a3cce7ca5115155cde8c42"
+    "sha": "657b5f0b3d5afb2bb667b0bcb60056a7ebc9abf2"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 3,
-    "name": "Epheser 3",
+    "name": "Ephesians 3",
     "url": "https://api.getbible.net/v2/schlachter/49/3.json",
-    "sha": "9ec52079ce10e2155db373aed046928581828585"
+    "sha": "b4eb6c66c4faba92965616715cdfe56329045107"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 4,
-    "name": "Epheser 4",
+    "name": "Ephesians 4",
     "url": "https://api.getbible.net/v2/schlachter/49/4.json",
-    "sha": "c7a9c962c174ee848341df0d266626048eefc063"
+    "sha": "22d7ef73ad05c717ef9278d66d4f2fae583c723f"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 5,
-    "name": "Epheser 5",
+    "name": "Ephesians 5",
     "url": "https://api.getbible.net/v2/schlachter/49/5.json",
-    "sha": "76cd8d64ddf62fd45293e31ffe99ad686e0856ac"
+    "sha": "bb77b6cdd58f3051eef553f1bee20684b67806b8"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 6,
-    "name": "Epheser 6",
+    "name": "Ephesians 6",
     "url": "https://api.getbible.net/v2/schlachter/49/6.json",
-    "sha": "8253535a65e3dbb294f0cfe533ee034ab0761809"
+    "sha": "cf05c78e368332d8bd9b874fca8ff83700fd32bc"
   }
 }

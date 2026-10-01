@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 1,
-    "name": "1. Petrus 1",
+    "name": "1 Peter 1",
     "url": "https://api.getbible.net/v2/luther1545/60/1.json",
-    "sha": "caebbae93af2427a6d488fdf7f3c87d4d7521d31"
+    "sha": "07048065a9f9e95c1c1e47c45e90bedfc64de837"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 2,
-    "name": "1. Petrus 2",
+    "name": "1 Peter 2",
     "url": "https://api.getbible.net/v2/luther1545/60/2.json",
-    "sha": "3c202b8c86ede8a5efa555cf36d01d804be676e4"
+    "sha": "e5d45a1b7c900d79fec858d41bc92c660b390950"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 3,
-    "name": "1. Petrus 3",
+    "name": "1 Peter 3",
     "url": "https://api.getbible.net/v2/luther1545/60/3.json",
-    "sha": "c1c7660acae221f9c4b3f334db574e010383321e"
+    "sha": "c769287942434856fc8a6e8fc61826a4ad1db834"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 4,
-    "name": "1. Petrus 4",
+    "name": "1 Peter 4",
     "url": "https://api.getbible.net/v2/luther1545/60/4.json",
-    "sha": "8dca62fb156a69377690099a03824dfd28f97fa0"
+    "sha": "dff2bb954160a1509aaba67e9c237bc143ce9d31"
   },
   "5": {
     "translation": "Luther (1545)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 5,
-    "name": "1. Petrus 5",
+    "name": "1 Peter 5",
     "url": "https://api.getbible.net/v2/luther1545/60/5.json",
-    "sha": "c7ed458eb6e36636c12a008bf88cc6c35b599912"
+    "sha": "a03b15d820f89bc33c850a17803b2feeb43d50e0"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 1,
-    "name": "Maleachi 1",
+    "name": "Malachi 1",
     "url": "https://api.getbible.net/v2/luther1545/39/1.json",
-    "sha": "760d196b2e29972c11ad34dd9c37ce92e5d59ab1"
+    "sha": "32d15c2247ecf53b5504e400919bf908f9b971fb"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 2,
-    "name": "Maleachi 2",
+    "name": "Malachi 2",
     "url": "https://api.getbible.net/v2/luther1545/39/2.json",
-    "sha": "880d5b5a2b00e84f8d56cf4a9457fd51d5a30026"
+    "sha": "74bea36774db514ec5ec950aec18f89859f5bf3a"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 3,
-    "name": "Maleachi 3",
+    "name": "Malachi 3",
     "url": "https://api.getbible.net/v2/luther1545/39/3.json",
-    "sha": "c5106ba26a33513001abe996022917d5524c368c"
+    "sha": "0584154f2d69d8d72158c5bbd5a5b79ea837145f"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 4,
-    "name": "Maleachi 4",
+    "name": "Malachi 4",
     "url": "https://api.getbible.net/v2/luther1545/39/4.json",
-    "sha": "a10fbee7b89afa33c3a8c9fccbacd2e104a117a5"
+    "sha": "37f8e1ae54947af4631fe271b67081f3d8532c22"
   }
 }

@@ -24,7 +24,7 @@
       "history_2.1": "(2023-12-27) Correction of minor text errors."
     },
     "url": "https://api.getbible.net/v2/akjv.json",
-    "sha": "db887e43391ae4e394e908f9216c40cd5682b7ae"
+    "sha": "e9bc0413add62cd02a77b5d0209129431b98400d"
   },
   "alb": {
     "translation": "Albanian Bible",
@@ -185,7 +185,7 @@
       "history_2.0": "(2021-02-18) New text source, solves MOD-183"
     },
     "url": "https://api.getbible.net/v2/asv.json",
-    "sha": "c647bcf268a540b7fd64a65ae4282a9f23869010"
+    "sha": "312a31126c10544938fe8e631a0730b3494a685d"
   },
   "basicenglish": {
     "translation": "Basic English Bible",
@@ -210,7 +210,7 @@
       "history_1.1": "minor correction to Rev 12:1"
     },
     "url": "https://api.getbible.net/v2/basicenglish.json",
-    "sha": "a403c9b708b44dfba83ea9a432a314264e64513d"
+    "sha": "a5ac259a0b180a23b1617abc88efb303be6f495f"
   },
   "basque": {
     "translation": "(Navarro Labourdin) NT",
@@ -918,7 +918,7 @@
       "history_1.1": "compressed module"
     },
     "url": "https://api.getbible.net/v2/douayrheims.json",
-    "sha": "414fe481d8c973bdb227f56de383874371676dd1"
+    "sha": "dd889d9b4f33265aa493044b945d57d4cd7410ee"
   },
   "easternarmenian": {
     "translation": "Eastern (Genesis Exodus Gospels)",
@@ -968,7 +968,7 @@
       "history_1.2": "(2020-02-06) Fix https://tracker.crosswire.org/browse/MOD-299, crossref, notes..."
     },
     "url": "https://api.getbible.net/v2/elberfelder.json",
-    "sha": "8fc1c3b8d53cfea13b17becb0cca333d493f2a21"
+    "sha": "051be73563f7a867672877c3501c51cf5bf52548"
   },
   "elberfelder1905": {
     "translation": "Elberfelder (1905)",
@@ -996,7 +996,7 @@
       "history_1.6": "(2021-02-08) Versification change"
     },
     "url": "https://api.getbible.net/v2/elberfelder1905.json",
-    "sha": "a339b41e71755bacefa8c117ad489c010bc28c91"
+    "sha": "60e89be950b979d7d2c2268642a7700b5d7c34e3"
   },
   "esperanto": {
     "translation": "Esperanto",
@@ -1332,7 +1332,7 @@
       "history_3.1": "(2023-07-19) Conf version updated to 3.1 to match KJVA version."
     },
     "url": "https://api.getbible.net/v2/kjv.json",
-    "sha": "91287fccb61d23727204d11d72d2543241ff4862"
+    "sha": "de07da0520cfa9670d949a7a8fa33ab1df07e8ef"
   },
   "kjva": {
     "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
@@ -1465,7 +1465,7 @@
       "history_1.1": "compressed module"
     },
     "url": "https://api.getbible.net/v2/latvian.json",
-    "sha": "5f3eac2232eaef6f724da14fe551c3f3490e9a06"
+    "sha": "3d57cfba66b8f31bd9e59028bd98732bf0dcbf7b"
   },
   "lithuanian": {
     "translation": "Lithuanian",
@@ -1609,7 +1609,7 @@
       "history_0.90": "First official version (2000-08-30)"
     },
     "url": "https://api.getbible.net/v2/luther1545.json",
-    "sha": "0599a6aef29d2ff341d16168e42a0c71dc20b628"
+    "sha": "9ac9ea3d0fde0c4ce7f658f697d51b956ec42d4b"
   },
   "lxx": {
     "translation": "OT LXX Accented",
@@ -1640,7 +1640,7 @@
       "history_3.2": "(2025-03-15) Concatenated verses appeared in both variants even when non existing (as in Daniel 4.37 Theodotion variant)."
     },
     "url": "https://api.getbible.net/v2/lxx.json",
-    "sha": "860a9f115753d91f2c2353a59256117f725a4c0a"
+    "sha": "00dabde92decee21769e76d143efb7f5c3719fd3"
   },
   "mal1910": {
     "translation": "Sathyavedapusthakam (Malayalam Bible) published in 1910",
@@ -1912,7 +1912,7 @@
       "history_2.0": "(2020-02-08) New TextSource, fix emptyvss issues"
     },
     "url": "https://api.getbible.net/v2/peshitta.json",
-    "sha": "6596ad5b332a426d3b968b15db706d17ffc9961e"
+    "sha": "8c92c4565b6234d54bea5a0f3019a573891df53b"
   },
   "pohnold": {
     "translation": "Old Public Domain Pohnpeian Bible",
@@ -2187,7 +2187,7 @@
       "history_2.1": "(2024-07-16) Leaking HTML markup removed in 1Sam 13:1"
     },
     "url": "https://api.getbible.net/v2/schlachter.json",
-    "sha": "c67991129e7f23be7b4b3a54b4ce51edb3ff0c2b"
+    "sha": "5e290d6939c269a7cd5b9e04ce21ec69c9f005bd"
   },
   "shona": {
     "translation": "Shona Bible",
@@ -2773,7 +2773,7 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/uma.json",
-    "sha": "b352290d99f6597661949b72cd9d5f70d850c973"
+    "sha": "ad4a2982dbf2527b92a25f7d2cc8bdd51f2aa77b"
   },
   "valera": {
     "translation": "Reina Valera (1909)",
@@ -2876,7 +2876,7 @@
       "history_1.1": "Fixed two small errors (noted in revision.txt)"
     },
     "url": "https://api.getbible.net/v2/wb.json",
-    "sha": "07f9fd4e6b897c775cfb9afbb27f7ddd3e8e7a1e"
+    "sha": "229779636ca6758929f097a0dbc780c7b3a4b975"
   },
   "web": {
     "translation": "World English Bible",
@@ -2908,7 +2908,7 @@
       "history_1.1": "Updated as of 04-13-2001"
     },
     "url": "https://api.getbible.net/v2/web.json",
-    "sha": "b02e1d3e38cc6ccba30e2c1760df9f479afaa408"
+    "sha": "5f9764ddde8009f610b7e952b573cc0e0ab84cce"
   },
   "westcotthort": {
     "translation": "NT Westcott Hort UBS4 variants Parsed",
@@ -2990,7 +2990,7 @@
       "history_1.0": "Initial release"
     },
     "url": "https://api.getbible.net/v2/weymouth.json",
-    "sha": "fedcb6c882a7e6b4a53a4ae5b76578108fa4542c"
+    "sha": "422486850f561868df12c1d3f76eac4c0a0bd7fb"
   },
   "wycliffe": {
     "translation": "John Wycliffe Bible (c.1395)",
@@ -3044,7 +3044,7 @@
       "history_1.0": "Initial release."
     },
     "url": "https://api.getbible.net/v2/ylt.json",
-    "sha": "cf2ce18648bff8413a5b52d9d923aba0f68ab3fe"
+    "sha": "9420eb96b697d45583a1556d1850ab80754b0537"
   },
   "zhuromsky": {
     "translation": "Victor Zhuromsky NT",

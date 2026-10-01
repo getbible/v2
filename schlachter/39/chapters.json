@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 1,
-    "name": "Maleachi 1",
+    "name": "Malachi 1",
     "url": "https://api.getbible.net/v2/schlachter/39/1.json",
-    "sha": "b3d2880111f45cfc7399afe73c66ae8da4274f4d"
+    "sha": "ff0f17d8b1106a1e7a5669902fecd40b2e70c1c8"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 2,
-    "name": "Maleachi 2",
+    "name": "Malachi 2",
     "url": "https://api.getbible.net/v2/schlachter/39/2.json",
-    "sha": "b4877ee71e36768de8a44dd8b6495dfa8a6f44b3"
+    "sha": "5f9a33dfa5f378f5f01c33de8172009a3a25fac1"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 3,
-    "name": "Maleachi 3",
+    "name": "Malachi 3",
     "url": "https://api.getbible.net/v2/schlachter/39/3.json",
-    "sha": "6514fce5baac67f0d90cc7c3d0acdfa3ea461f95"
+    "sha": "ff0698e8096fe4c1be7b16af4fd600c2bfc85ae3"
   }
 }

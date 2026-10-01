@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 1,
-    "name": "2. Timotheus 1",
+    "name": "2 Timothy 1",
     "url": "https://api.getbible.net/v2/luther1545/55/1.json",
-    "sha": "123bb5d3d0b7c5aaac1cd2115200ce5cd7f44be3"
+    "sha": "75bc13c45eb27c1a9651659464ce9e39209ac985"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 2,
-    "name": "2. Timotheus 2",
+    "name": "2 Timothy 2",
     "url": "https://api.getbible.net/v2/luther1545/55/2.json",
-    "sha": "40c2ec2c780a59c26c908d16f308f90d8b7cf694"
+    "sha": "a461a22e8b94b163886e7971d2c69fa10984307d"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 3,
-    "name": "2. Timotheus 3",
+    "name": "2 Timothy 3",
     "url": "https://api.getbible.net/v2/luther1545/55/3.json",
-    "sha": "39bb00f46ec8b25ce854e2b8b2c2bdf6afd1713f"
+    "sha": "c32220888bae5f0ba4c30007755eda9b7847d1ec"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 55,
-    "book_name": "2. Timotheus",
+    "book_name": "2 Timothy",
     "chapter": 4,
-    "name": "2. Timotheus 4",
+    "name": "2 Timothy 4",
     "url": "https://api.getbible.net/v2/luther1545/55/4.json",
-    "sha": "9e90fc5dda0a8d0ebefe3fef190dc2cdb4fdaa7b"
+    "sha": "7ee3c54807a1fe397506b30c006a301dba2388e6"
   }
 }

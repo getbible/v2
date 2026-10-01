@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 1,
-    "name": "Epheser 1",
+    "name": "Ephesians 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/49/1.json",
-    "sha": "76827d437b73482ec9eeb7b30260a71cb819dfed"
+    "sha": "ec41cf94406c1cdf509c240b716db64f98f00577"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 2,
-    "name": "Epheser 2",
+    "name": "Ephesians 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/49/2.json",
-    "sha": "f4900981700813c62bf622eccb9e6afb27a32819"
+    "sha": "936ea1ce55d98762a11839edfd6e4582c8e6934f"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 3,
-    "name": "Epheser 3",
+    "name": "Ephesians 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/49/3.json",
-    "sha": "c632088120d897eec7fefc86e5e44b63321b07a6"
+    "sha": "11bcda3aa78b12ea0972c6c12bc6b3730d7b4d15"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 4,
-    "name": "Epheser 4",
+    "name": "Ephesians 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/49/4.json",
-    "sha": "e655b2131c917fecaa13c6b154b820d99d585dc0"
+    "sha": "bca51c1062c67e1c92f3b658877da2e64cb727ca"
   },
   "5": {
     "translation": "Elberfelder (1905)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 5,
-    "name": "Epheser 5",
+    "name": "Ephesians 5",
     "url": "https://api.getbible.net/v2/elberfelder1905/49/5.json",
-    "sha": "2e6c57a753ccc509e215d9f37efd07ec5c3862c4"
+    "sha": "bf04d8896f6c4166bcc94e94e3bda86906732538"
   },
   "6": {
     "translation": "Elberfelder (1905)",
@@ -77,10 +77,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 49,
-    "book_name": "Epheser",
+    "book_name": "Ephesians",
     "chapter": 6,
-    "name": "Epheser 6",
+    "name": "Ephesians 6",
     "url": "https://api.getbible.net/v2/elberfelder1905/49/6.json",
-    "sha": "40dde3023ec18f796db32060132247379e48b2f9"
+    "sha": "0f44fdca33909c3a20ad7ffbebf14bc703d39106"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "Jakobus",
+    "book_name": "James",
     "chapter": 1,
-    "name": "Jakobus 1",
+    "name": "James 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/59/1.json",
-    "sha": "a87564d9e575f6d5a1201c57345a2abbfdd1ed1f"
+    "sha": "c3df2f8998fcb69166e772c095bf626b935f0b87"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "Jakobus",
+    "book_name": "James",
     "chapter": 2,
-    "name": "Jakobus 2",
+    "name": "James 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/59/2.json",
-    "sha": "5e131208375007bdfb3b2d83680af1d04eec538a"
+    "sha": "d169a5660abb9c10c963b24993609f0880db093c"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "Jakobus",
+    "book_name": "James",
     "chapter": 3,
-    "name": "Jakobus 3",
+    "name": "James 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/59/3.json",
-    "sha": "ca5831ae53a51707c2ee1176f977a3db9786a20a"
+    "sha": "fac9905c6626c9f8a90fa8c4bf4c42c9e9269b70"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "Jakobus",
+    "book_name": "James",
     "chapter": 4,
-    "name": "Jakobus 4",
+    "name": "James 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/59/4.json",
-    "sha": "9f185b54930c2929a6f5b5e112f20fdd84bb4414"
+    "sha": "bbdaf1c9e8272b13e38e1564ec397f9ec2707d96"
   },
   "5": {
     "translation": "Elberfelder (1905)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 59,
-    "book_name": "Jakobus",
+    "book_name": "James",
     "chapter": 5,
-    "name": "Jakobus 5",
+    "name": "James 5",
     "url": "https://api.getbible.net/v2/elberfelder1905/59/5.json",
-    "sha": "b67bc8a7e20b5e2b75c9b564ef31e8f80179545a"
+    "sha": "315a994d50b12c48a541e092d7422b10e7bb9c87"
   }
 }

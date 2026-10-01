@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micha",
+    "book_name": "Micah",
     "chapter": 1,
-    "name": "Micha 1",
+    "name": "Micah 1",
     "url": "https://api.getbible.net/v2/schlachter/33/1.json",
-    "sha": "cc10fc7f3d4bc4b7233a458effe8d50986704a14"
+    "sha": "9d54939534d75290319c3a31ce77516ffec5d697"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micha",
+    "book_name": "Micah",
     "chapter": 2,
-    "name": "Micha 2",
+    "name": "Micah 2",
     "url": "https://api.getbible.net/v2/schlachter/33/2.json",
-    "sha": "bfebb405fb56c471821def6a2149da700b836877"
+    "sha": "b452425c52ccd6996e138791c6fcd42d93ad0aaa"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micha",
+    "book_name": "Micah",
     "chapter": 3,
-    "name": "Micha 3",
+    "name": "Micah 3",
     "url": "https://api.getbible.net/v2/schlachter/33/3.json",
-    "sha": "6f3816d439ca7c5e52457dca4179ef70bcaaee2c"
+    "sha": "5bed1340fe5bb838f741c8d8385be44af4d4d82c"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micha",
+    "book_name": "Micah",
     "chapter": 4,
-    "name": "Micha 4",
+    "name": "Micah 4",
     "url": "https://api.getbible.net/v2/schlachter/33/4.json",
-    "sha": "0eb7c790a57704ef53fba88c5d89a70688e677e2"
+    "sha": "d48bec8200aef66242e79f77c9e7a1b28a3628c1"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micha",
+    "book_name": "Micah",
     "chapter": 5,
-    "name": "Micha 5",
+    "name": "Micah 5",
     "url": "https://api.getbible.net/v2/schlachter/33/5.json",
-    "sha": "48a29efba7a378da383309c72c6b02e840003347"
+    "sha": "dd2670eb45b6cf241df9f156fb42fae11d958a9f"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micha",
+    "book_name": "Micah",
     "chapter": 6,
-    "name": "Micha 6",
+    "name": "Micah 6",
     "url": "https://api.getbible.net/v2/schlachter/33/6.json",
-    "sha": "4d365ce3ae4af47b8aedab94e38e5266d3fc6d72"
+    "sha": "320c4db4fc0620287ff4448e6fec764ade5c0303"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -91,10 +91,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 33,
-    "book_name": "Micha",
+    "book_name": "Micah",
     "chapter": 7,
-    "name": "Micha 7",
+    "name": "Micah 7",
     "url": "https://api.getbible.net/v2/schlachter/33/7.json",
-    "sha": "a57bf9d5abd102c9932495b9a7a594340512ecf5"
+    "sha": "1f6a741fa701f3f00b7580248a069d7fb8fc785f"
   }
 }

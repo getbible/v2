@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 1,
-    "name": "Rut 1",
+    "name": "Ruth 1",
     "url": "https://api.getbible.net/v2/schlachter/8/1.json",
-    "sha": "6f9820359f34e419b70b9023e7f1c53c1cc63b5d"
+    "sha": "fda40202a5bc6aab6412ec5173d3783383e0508e"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 2,
-    "name": "Rut 2",
+    "name": "Ruth 2",
     "url": "https://api.getbible.net/v2/schlachter/8/2.json",
-    "sha": "7fc3fb519b9c0e534d3e7c3218f4922d40e22a31"
+    "sha": "e8c366b646565546d7ed88a57f2b3a7e306ccadc"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 3,
-    "name": "Rut 3",
+    "name": "Ruth 3",
     "url": "https://api.getbible.net/v2/schlachter/8/3.json",
-    "sha": "0d6023c675aaf2af2917a27d76981536315d9ee5"
+    "sha": "2acda11d6ba75d6cce0111eec17874e397d783bc"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 8,
-    "book_name": "Rut",
+    "book_name": "Ruth",
     "chapter": 4,
-    "name": "Rut 4",
+    "name": "Ruth 4",
     "url": "https://api.getbible.net/v2/schlachter/8/4.json",
-    "sha": "adb9e47d568a4a3a7c84602c6d4d3f69040b9470"
+    "sha": "1e650905f7ed65a872e3d3b9a0bbbc926ba7ddf7"
   }
 }

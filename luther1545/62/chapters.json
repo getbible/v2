@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 1,
-    "name": "1. Johannes 1",
+    "name": "1 John 1",
     "url": "https://api.getbible.net/v2/luther1545/62/1.json",
-    "sha": "6c127905da92da6a80bd86f545aec80e8de63551"
+    "sha": "faff2b59bfa7ede67ac72c83c8481e55f4929a2b"
   },
   "2": {
     "translation": "Luther (1545)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 2,
-    "name": "1. Johannes 2",
+    "name": "1 John 2",
     "url": "https://api.getbible.net/v2/luther1545/62/2.json",
-    "sha": "fa156aecc519a09402bb9c286109efef45d43a4d"
+    "sha": "b6113a7a6bcbd397632a81ed67f68f2c312eb904"
   },
   "3": {
     "translation": "Luther (1545)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 3,
-    "name": "1. Johannes 3",
+    "name": "1 John 3",
     "url": "https://api.getbible.net/v2/luther1545/62/3.json",
-    "sha": "2eb933ed770871c57c3de216a30c9a11d223780c"
+    "sha": "3fcaa98f73b450373dfaaf8035ff180cf27fa603"
   },
   "4": {
     "translation": "Luther (1545)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 4,
-    "name": "1. Johannes 4",
+    "name": "1 John 4",
     "url": "https://api.getbible.net/v2/luther1545/62/4.json",
-    "sha": "ace9976fbc9081012bcad066ee026a4767c90a9e"
+    "sha": "66f8a3828b59e31ca6c2bdaacf659f9b3c27ad3f"
   },
   "5": {
     "translation": "Luther (1545)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 62,
-    "book_name": "1. Johannes",
+    "book_name": "1 John",
     "chapter": 5,
-    "name": "1. Johannes 5",
+    "name": "1 John 5",
     "url": "https://api.getbible.net/v2/luther1545/62/5.json",
-    "sha": "641e686a23c083a2bd51137f571a374e6f651098"
+    "sha": "904ab25ce23f9a2363bcc23fdebb4c90849483c5"
   }
 }

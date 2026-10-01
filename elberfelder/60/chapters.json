@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 1,
-    "name": "1. Petrus 1",
+    "name": "1 Peter 1",
     "url": "https://api.getbible.net/v2/elberfelder/60/1.json",
-    "sha": "864dcd6eb8c10287f592b62e74ea976e1bb6de81"
+    "sha": "aafdc41df13f219053355187eeee992644b4f886"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 2,
-    "name": "1. Petrus 2",
+    "name": "1 Peter 2",
     "url": "https://api.getbible.net/v2/elberfelder/60/2.json",
-    "sha": "6351c17d4c468256fcffe7446354c12da5a9d12d"
+    "sha": "c3deb38e7516ffe8f1c19bab67e7e208b629e7b3"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 3,
-    "name": "1. Petrus 3",
+    "name": "1 Peter 3",
     "url": "https://api.getbible.net/v2/elberfelder/60/3.json",
-    "sha": "26140857e01b278cdb5a7c3417cc1af463c9363a"
+    "sha": "76ee69a556a0f5ed06c3580cc8fe20ff2e81436a"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 4,
-    "name": "1. Petrus 4",
+    "name": "1 Peter 4",
     "url": "https://api.getbible.net/v2/elberfelder/60/4.json",
-    "sha": "11a770a7489031500b45484c17f17652348b5bbc"
+    "sha": "a0cf557c8929eb16876765c25ffe90b20975fb9a"
   },
   "5": {
     "translation": "Elberfelder (1871)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 5,
-    "name": "1. Petrus 5",
+    "name": "1 Peter 5",
     "url": "https://api.getbible.net/v2/elberfelder/60/5.json",
-    "sha": "f67e3679338190bc00d23a1c51040bb533830a52"
+    "sha": "b531d661b556ab20a1c051460e2fa416d73bae88"
   }
 }

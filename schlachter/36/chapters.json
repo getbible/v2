@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zefanja",
+    "book_name": "Zephaniah",
     "chapter": 1,
-    "name": "Zefanja 1",
+    "name": "Zephaniah 1",
     "url": "https://api.getbible.net/v2/schlachter/36/1.json",
-    "sha": "dd7cd278c8690d06c3ccb87ef6d7da25c81d05a5"
+    "sha": "cdad13a36aa737af6e008117faa5e0537061602b"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zefanja",
+    "book_name": "Zephaniah",
     "chapter": 2,
-    "name": "Zefanja 2",
+    "name": "Zephaniah 2",
     "url": "https://api.getbible.net/v2/schlachter/36/2.json",
-    "sha": "39957bdc397a8d1deab0a7b35ac1c79a767c7a36"
+    "sha": "065827ed406cffff1e41adcfd54f79a25f3b443e"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 36,
-    "book_name": "Zefanja",
+    "book_name": "Zephaniah",
     "chapter": 3,
-    "name": "Zefanja 3",
+    "name": "Zephaniah 3",
     "url": "https://api.getbible.net/v2/schlachter/36/3.json",
-    "sha": "e91b4b445e15a740c7eeeb55118dd8382df0f992"
+    "sha": "586446dc673b70b80fcc344fdc637b9f828af7bf"
   }
 }

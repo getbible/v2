@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Kolosser",
+    "book_name": "Colossians",
     "chapter": 1,
-    "name": "Kolosser 1",
+    "name": "Colossians 1",
     "url": "https://api.getbible.net/v2/elberfelder/51/1.json",
-    "sha": "e7e8527121f4dee175372479958a32e1341fe092"
+    "sha": "813d03cf6ab52bb91056abb74d64e21cbafcfbd3"
   },
   "2": {
     "translation": "Elberfelder (1871)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Kolosser",
+    "book_name": "Colossians",
     "chapter": 2,
-    "name": "Kolosser 2",
+    "name": "Colossians 2",
     "url": "https://api.getbible.net/v2/elberfelder/51/2.json",
-    "sha": "b69f4c88373dbc50458d8ec5fbb6e587c701c429"
+    "sha": "0ae925542cf917230a930c18a543f9346c75cb6d"
   },
   "3": {
     "translation": "Elberfelder (1871)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Kolosser",
+    "book_name": "Colossians",
     "chapter": 3,
-    "name": "Kolosser 3",
+    "name": "Colossians 3",
     "url": "https://api.getbible.net/v2/elberfelder/51/3.json",
-    "sha": "33ce572c665b5ff4a136d73fd2d21cc381afd316"
+    "sha": "42c60ce1751bf1a34c7461ab289bc6d4d33ebf58"
   },
   "4": {
     "translation": "Elberfelder (1871)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 51,
-    "book_name": "Kolosser",
+    "book_name": "Colossians",
     "chapter": 4,
-    "name": "Kolosser 4",
+    "name": "Colossians 4",
     "url": "https://api.getbible.net/v2/elberfelder/51/4.json",
-    "sha": "d951a4c737149838a7efdc7b8fa80195531ac9a5"
+    "sha": "81409e944eaab13a590134d9db45a2c191ceed43"
   }
 }

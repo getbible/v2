@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 1,
-    "name": "Jona 1",
+    "name": "Jonah 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/32/1.json",
-    "sha": "39a82d6f99b6f581f9e45b1a81618db3d3e75076"
+    "sha": "71592e476019761bc530eb33ee2afb5723b91f4a"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 2,
-    "name": "Jona 2",
+    "name": "Jonah 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/32/2.json",
-    "sha": "0e75368dfbab6f5cea2ba910002c352e3cd67166"
+    "sha": "c8d1ff77a6fa67efc8313cb088d5a35530a50716"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 3,
-    "name": "Jona 3",
+    "name": "Jonah 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/32/3.json",
-    "sha": "b051506132ebfde6993a8dceed11a6c63fc9def8"
+    "sha": "273e6e4e65e6aec0e8699f231fa22d413be4a7e1"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 32,
-    "book_name": "Jona",
+    "book_name": "Jonah",
     "chapter": 4,
-    "name": "Jona 4",
+    "name": "Jonah 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/32/4.json",
-    "sha": "3b65c65889840238143f2cf60511973bb046d378"
+    "sha": "cf36591e31bf7778bf461e31c188e22cc843e245"
   }
 }

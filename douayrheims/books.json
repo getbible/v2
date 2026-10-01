@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 22,
-    "name": "Song of Songs",
+    "name": "Song of Solomon",
     "url": "https://api.getbible.net/v2/douayrheims/22.json",
-    "sha": "c2604adecf91a2b9b1dc6deb66ab7319ff4bd9fc"
+    "sha": "2fd924b961ba4406301711df603d1586789d058b"
   },
   "73": {
     "translation": "Douay Rheims",
@@ -871,8 +871,8 @@
     "direction": "LTR",
     "encoding": "",
     "nr": 66,
-    "name": "Revelation",
+    "name": "Revelation of John",
     "url": "https://api.getbible.net/v2/douayrheims/66.json",
-    "sha": "dec8ef3d46983a7421689b1d8d1ee9c4f5ac4dab"
+    "sha": "2415b5050e81054d9067e2436cfd11ec76edeceb"
   }
 }

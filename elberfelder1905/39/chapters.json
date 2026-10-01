@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 1,
-    "name": "Maleachi 1",
+    "name": "Malachi 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/39/1.json",
-    "sha": "1d36a375d5885046dbc0434a3d39464f74d4cf85"
+    "sha": "3babcb15bf8da22bab07174e9b1f3b83bed457ad"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 2,
-    "name": "Maleachi 2",
+    "name": "Malachi 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/39/2.json",
-    "sha": "36e691ffea695220ed98e3302cd8e1c2b11cb128"
+    "sha": "f490cbd489a6f904c563cb83320d06f831d9e538"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 3,
-    "name": "Maleachi 3",
+    "name": "Malachi 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/39/3.json",
-    "sha": "e18ce88eb6ac742a4b2beda46628fe7c1f0901fb"
+    "sha": "a87178080de4c1414f0b25df71158a1ff394b0d8"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,10 +49,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 39,
-    "book_name": "Maleachi",
+    "book_name": "Malachi",
     "chapter": 4,
-    "name": "Maleachi 4",
+    "name": "Malachi 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/39/4.json",
-    "sha": "2c71a4c9e85a1df501c380f9f2c43c94978a1198"
+    "sha": "81a1723b5c3c9369fe9986d9df69621bbf20e507"
   }
 }

@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 1,
-    "name": "1. Thessalonicher 1",
+    "name": "1 Thessalonians 1",
     "url": "https://api.getbible.net/v2/schlachter/52/1.json",
-    "sha": "274f81124f18b065e4f80f13e1f60d8842827de6"
+    "sha": "2a2811de54190b24e9b7bef7199eaa9419b909b5"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 2,
-    "name": "1. Thessalonicher 2",
+    "name": "1 Thessalonians 2",
     "url": "https://api.getbible.net/v2/schlachter/52/2.json",
-    "sha": "e5db4ca0040be1a04901f1699e609fed2b956b9b"
+    "sha": "a37484e9518c0992d3dfb25de599b83e317ac7b9"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 3,
-    "name": "1. Thessalonicher 3",
+    "name": "1 Thessalonians 3",
     "url": "https://api.getbible.net/v2/schlachter/52/3.json",
-    "sha": "800f853917f72af2d61615bcf87eef58c3e17a99"
+    "sha": "f824863685e744d9a0d60ca28590ec36942eaa8e"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 4,
-    "name": "1. Thessalonicher 4",
+    "name": "1 Thessalonians 4",
     "url": "https://api.getbible.net/v2/schlachter/52/4.json",
-    "sha": "91689893f4f9d9054eae068c67f9d2b0d5d33343"
+    "sha": "ecc3baf38bb8365b8a05c72db014f9cfe2424d99"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 52,
-    "book_name": "1. Thessalonicher",
+    "book_name": "1 Thessalonians",
     "chapter": 5,
-    "name": "1. Thessalonicher 5",
+    "name": "1 Thessalonians 5",
     "url": "https://api.getbible.net/v2/schlachter/52/5.json",
-    "sha": "9b5dd11a033be6c2bc4790e89924cbefaf9d4d3a"
+    "sha": "62a5d52b044fc809666013137110bb0cd068cf92"
   }
 }

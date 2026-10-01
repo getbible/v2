@@ -7,9 +7,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 1,
-    "name": "1. Mose",
+    "name": "Genesis",
     "url": "https://api.getbible.net/v2/schlachter/1.json",
-    "sha": "28ebf41c68865f73ec1a971024230657b09e5bd5"
+    "sha": "5874438edf48998187f082c95f361dea4904f237"
   },
   "2": {
     "translation": "Schlachter (1951)",
@@ -19,9 +19,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 2,
-    "name": "2. Mose",
+    "name": "Exodus",
     "url": "https://api.getbible.net/v2/schlachter/2.json",
-    "sha": "36bb7b444f2d256fa5ecd0001a3e8a0c7bf5674a"
+    "sha": "987631d38991b96a0a3fa4db0da7eee4bd499f14"
   },
   "3": {
     "translation": "Schlachter (1951)",
@@ -31,9 +31,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 3,
-    "name": "3. Mose",
+    "name": "Leviticus",
     "url": "https://api.getbible.net/v2/schlachter/3.json",
-    "sha": "d369a48e3241e0120b3db8c288aa7a860e30c5be"
+    "sha": "a2f3e6b3b653ba96aa8797003aba17622ab06e53"
   },
   "4": {
     "translation": "Schlachter (1951)",
@@ -43,9 +43,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 4,
-    "name": "4. Mose",
+    "name": "Numbers",
     "url": "https://api.getbible.net/v2/schlachter/4.json",
-    "sha": "49f3ac4e6b0795b024784da7ede7bea84a7ac105"
+    "sha": "2bfdfadfb238631f05bdc26d1e85b4a7e47683b5"
   },
   "5": {
     "translation": "Schlachter (1951)",
@@ -55,9 +55,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 5,
-    "name": "5. Mose",
+    "name": "Deuteronomy",
     "url": "https://api.getbible.net/v2/schlachter/5.json",
-    "sha": "0a967090e628f1646f15c312545fcd1238460222"
+    "sha": "584ab2618040f103b100e8e0ed2afe0dbaba4bc0"
   },
   "6": {
     "translation": "Schlachter (1951)",
@@ -67,9 +67,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 6,
-    "name": "Josua",
+    "name": "Joshua",
     "url": "https://api.getbible.net/v2/schlachter/6.json",
-    "sha": "af5973644f3303ebe74c4335100feb291296939a"
+    "sha": "70e145ac66b1da3c66afe881c485e0c65695b230"
   },
   "7": {
     "translation": "Schlachter (1951)",
@@ -79,9 +79,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 7,
-    "name": "Richter",
+    "name": "Judges",
     "url": "https://api.getbible.net/v2/schlachter/7.json",
-    "sha": "a7cd405ec6dfd9d5d8426e3598fe9e7a297e9527"
+    "sha": "7e6b276467e06e662afeb8e6d8786dd6bc327fff"
   },
   "8": {
     "translation": "Schlachter (1951)",
@@ -91,9 +91,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 8,
-    "name": "Rut",
+    "name": "Ruth",
     "url": "https://api.getbible.net/v2/schlachter/8.json",
-    "sha": "c240b66e9c956050f898ff95d46016dc38593b8f"
+    "sha": "1efdce4f73b0d90968e1a1a8ffba202657727f30"
   },
   "9": {
     "translation": "Schlachter (1951)",
@@ -103,9 +103,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 9,
-    "name": "1. Samuel",
+    "name": "1 Samuel",
     "url": "https://api.getbible.net/v2/schlachter/9.json",
-    "sha": "710b77aa6c75bd82c5d81065f15ceadd0626c980"
+    "sha": "7efceff3e6f78da71caa7226a0c75b7626c99ec8"
   },
   "10": {
     "translation": "Schlachter (1951)",
@@ -115,9 +115,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 10,
-    "name": "2. Samuel",
+    "name": "2 Samuel",
     "url": "https://api.getbible.net/v2/schlachter/10.json",
-    "sha": "93455c17fb482b456a33b43671eeec680765f20f"
+    "sha": "e53295f013904100123f1ddf42da8c5540cbca6c"
   },
   "11": {
     "translation": "Schlachter (1951)",
@@ -127,9 +127,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 11,
-    "name": "1. Könige",
+    "name": "1 Kings",
     "url": "https://api.getbible.net/v2/schlachter/11.json",
-    "sha": "af23b537fd6d581074f868ef8f081ad58361de20"
+    "sha": "723cebe61542c0b31961fe7b2f4e73515989c423"
   },
   "12": {
     "translation": "Schlachter (1951)",
@@ -139,9 +139,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 12,
-    "name": "2. Könige",
+    "name": "2 Kings",
     "url": "https://api.getbible.net/v2/schlachter/12.json",
-    "sha": "2a3c7737caca787037eeaeba9bf6a309f60cd78d"
+    "sha": "71ad99d3878b2145ca5cd6106ea626387f4b08da"
   },
   "13": {
     "translation": "Schlachter (1951)",
@@ -151,9 +151,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 13,
-    "name": "1. Chronik",
+    "name": "1 Chronicles",
     "url": "https://api.getbible.net/v2/schlachter/13.json",
-    "sha": "cd5f73ab3da82d3e1a129dd00778504c920921b5"
+    "sha": "682e7440cfac246c59f7ba3741dfc1573333c035"
   },
   "14": {
     "translation": "Schlachter (1951)",
@@ -163,9 +163,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 14,
-    "name": "2. Chronik",
+    "name": "2 Chronicles",
     "url": "https://api.getbible.net/v2/schlachter/14.json",
-    "sha": "924de2e31d5a1b97de0864dbb8d9bcb4f9717103"
+    "sha": "fcd88d46993f0eeea34eb999cb6838287a4b4b37"
   },
   "15": {
     "translation": "Schlachter (1951)",
@@ -175,9 +175,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 15,
-    "name": "Esra",
+    "name": "Ezra",
     "url": "https://api.getbible.net/v2/schlachter/15.json",
-    "sha": "e1e86a8576752c75b7e39c501e8f8fe33e8c6b99"
+    "sha": "c6f532f115aef5396eebb21d7009aa3f08c63eec"
   },
   "16": {
     "translation": "Schlachter (1951)",
@@ -187,9 +187,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 16,
-    "name": "Nehemia",
+    "name": "Nehemiah",
     "url": "https://api.getbible.net/v2/schlachter/16.json",
-    "sha": "5c89675b9d882e2d66455bfaaba188dfede9e805"
+    "sha": "d1eba07f234bcce67e8ab6ab778324465ac92853"
   },
   "17": {
     "translation": "Schlachter (1951)",
@@ -199,9 +199,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 17,
-    "name": "Ester",
+    "name": "Esther",
     "url": "https://api.getbible.net/v2/schlachter/17.json",
-    "sha": "92ffb5f4f062eb47c515cd7f4b36694d272f6f59"
+    "sha": "5c9eb4088bfdccbd8e73ad53986c7e27ef505896"
   },
   "18": {
     "translation": "Schlachter (1951)",
@@ -211,9 +211,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 18,
-    "name": "Hiob",
+    "name": "Job",
     "url": "https://api.getbible.net/v2/schlachter/18.json",
-    "sha": "ca35af1622b2ad45fc6dfbda4b2af5d6f3521570"
+    "sha": "e4d81b1798467029d45a5fd84aff0c8298341415"
   },
   "19": {
     "translation": "Schlachter (1951)",
@@ -223,9 +223,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 19,
-    "name": "Psalmen",
+    "name": "Psalms",
     "url": "https://api.getbible.net/v2/schlachter/19.json",
-    "sha": "9bacaa1cc46518450a833f90de4a151562629e04"
+    "sha": "f23bc69ca74aea7a966e9fc7daeaee08ed150524"
   },
   "20": {
     "translation": "Schlachter (1951)",
@@ -235,9 +235,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 20,
-    "name": "Sprüche",
+    "name": "Proverbs",
     "url": "https://api.getbible.net/v2/schlachter/20.json",
-    "sha": "186fa73e441307c6079f530168591259c94e5b8d"
+    "sha": "9626af458baa64c7b628ed05591a7596e7fa395c"
   },
   "21": {
     "translation": "Schlachter (1951)",
@@ -247,9 +247,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 21,
-    "name": "Prediger",
+    "name": "Ecclesiastes",
     "url": "https://api.getbible.net/v2/schlachter/21.json",
-    "sha": "2ffe906bb16b1ba34aba488938e0cfbd573e356d"
+    "sha": "93cca14c9b49e2790c2502bbe970fb9f1febbdc4"
   },
   "22": {
     "translation": "Schlachter (1951)",
@@ -259,9 +259,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 22,
-    "name": "Hohes Lied",
+    "name": "Song of Solomon",
     "url": "https://api.getbible.net/v2/schlachter/22.json",
-    "sha": "720acb1b0d2fac1be589100c5cff6021ce619d1e"
+    "sha": "1e9486de7f294c6b1cfe1672067683b2144436ba"
   },
   "23": {
     "translation": "Schlachter (1951)",
@@ -271,9 +271,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 23,
-    "name": "Jesaja",
+    "name": "Isaiah",
     "url": "https://api.getbible.net/v2/schlachter/23.json",
-    "sha": "7292dc7fbbead7d04c2762cd42283383db59e33b"
+    "sha": "7e24aea2f9050b727db23b5f837ad8a481cd282e"
   },
   "24": {
     "translation": "Schlachter (1951)",
@@ -283,9 +283,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 24,
-    "name": "Jeremia",
+    "name": "Jeremiah",
     "url": "https://api.getbible.net/v2/schlachter/24.json",
-    "sha": "d898473386b6b833acf3510750d265fc93f89dfd"
+    "sha": "700d09c1d01cb6ad476c5e258cbac771afc7b163"
   },
   "25": {
     "translation": "Schlachter (1951)",
@@ -295,9 +295,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 25,
-    "name": "Klagelieder",
+    "name": "Lamentations",
     "url": "https://api.getbible.net/v2/schlachter/25.json",
-    "sha": "d5b20cb1b2b765a2001132b4dce874fa02eb35bc"
+    "sha": "289ee26b3f949d6dd027ce7bcfcaea18d5e8e0b4"
   },
   "26": {
     "translation": "Schlachter (1951)",
@@ -307,9 +307,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 26,
-    "name": "Hesekiel",
+    "name": "Ezekiel",
     "url": "https://api.getbible.net/v2/schlachter/26.json",
-    "sha": "4112da56ba73815ff46b7bf1455fce605771321e"
+    "sha": "53a3dc573d24ceae916315ea9b777651beaef8c1"
   },
   "27": {
     "translation": "Schlachter (1951)",
@@ -367,9 +367,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 31,
-    "name": "Obadja",
+    "name": "Obadiah",
     "url": "https://api.getbible.net/v2/schlachter/31.json",
-    "sha": "208e11d6dc1a6d14e88ecef5adbde68a800c8b9d"
+    "sha": "f2997e3e6856e84f1300c68ecb766dd81154e030"
   },
   "32": {
     "translation": "Schlachter (1951)",
@@ -379,9 +379,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 32,
-    "name": "Jona",
+    "name": "Jonah",
     "url": "https://api.getbible.net/v2/schlachter/32.json",
-    "sha": "1cdb1b1418af97d9b4be85a1ef359bcffda14295"
+    "sha": "33460e054004edfde287336b4fc8cbb68a7dcce8"
   },
   "33": {
     "translation": "Schlachter (1951)",
@@ -391,9 +391,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 33,
-    "name": "Micha",
+    "name": "Micah",
     "url": "https://api.getbible.net/v2/schlachter/33.json",
-    "sha": "a02db060ebd94d90a00ce29790044a7fd93a1681"
+    "sha": "dd6a8234c9f82bb31c0e3ce360a780d823e0e3f1"
   },
   "34": {
     "translation": "Schlachter (1951)",
@@ -415,9 +415,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 35,
-    "name": "Habakuk",
+    "name": "Habakkuk",
     "url": "https://api.getbible.net/v2/schlachter/35.json",
-    "sha": "41896b367832f36403f424d815f807a6152c1e5d"
+    "sha": "541060fc11d96670f74ab24deb502b1b00197d5e"
   },
   "36": {
     "translation": "Schlachter (1951)",
@@ -427,9 +427,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 36,
-    "name": "Zefanja",
+    "name": "Zephaniah",
     "url": "https://api.getbible.net/v2/schlachter/36.json",
-    "sha": "e6cca3f3f28f59b537571ca12bea03541af36291"
+    "sha": "6492eecb0e29940081561a46225dc1931b9a6e85"
   },
   "37": {
     "translation": "Schlachter (1951)",
@@ -451,9 +451,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 38,
-    "name": "Sacharja",
+    "name": "Zechariah",
     "url": "https://api.getbible.net/v2/schlachter/38.json",
-    "sha": "87d81494671c315956f7c0f7c665960a42cf22c3"
+    "sha": "61161cd5ed3e9e6448db6f044cec928d3f50e72d"
   },
   "39": {
     "translation": "Schlachter (1951)",
@@ -463,9 +463,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 39,
-    "name": "Maleachi",
+    "name": "Malachi",
     "url": "https://api.getbible.net/v2/schlachter/39.json",
-    "sha": "ac6301e0826778917f1ffe9614b9630f79407682"
+    "sha": "ca7fee694b48d051abf4fc5e3ca9506a9fc9a402"
   },
   "40": {
     "translation": "Schlachter (1951)",
@@ -475,9 +475,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 40,
-    "name": "Matthäus",
+    "name": "Matthew",
     "url": "https://api.getbible.net/v2/schlachter/40.json",
-    "sha": "48e2e9e912178f9a8706249c4a51d5277d1b9a0c"
+    "sha": "9078321d01b2270902c5c52b203631fd831bbe8d"
   },
   "41": {
     "translation": "Schlachter (1951)",
@@ -487,9 +487,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 41,
-    "name": "Markus",
+    "name": "Mark",
     "url": "https://api.getbible.net/v2/schlachter/41.json",
-    "sha": "9b93fa4430198562b8a6babe49a0b0886a9852ba"
+    "sha": "338b73edf0c456e07a27a805ab045927829e0616"
   },
   "42": {
     "translation": "Schlachter (1951)",
@@ -499,9 +499,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 42,
-    "name": "Lukas",
+    "name": "Luke",
     "url": "https://api.getbible.net/v2/schlachter/42.json",
-    "sha": "24f644ac8bae62df103f3bdabb62031527b89919"
+    "sha": "031cdc76a9ddbb19b99795e32b69b568b16f52fd"
   },
   "43": {
     "translation": "Schlachter (1951)",
@@ -511,9 +511,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 43,
-    "name": "Johannes",
+    "name": "John",
     "url": "https://api.getbible.net/v2/schlachter/43.json",
-    "sha": "29c9bd4b1ee76acf03117a7fa3897eb3c8ec5bc3"
+    "sha": "852cc399c111094737e2d54fb17564316682419e"
   },
   "44": {
     "translation": "Schlachter (1951)",
@@ -523,9 +523,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 44,
-    "name": "Apostelgeschichte",
+    "name": "Acts",
     "url": "https://api.getbible.net/v2/schlachter/44.json",
-    "sha": "4e8735ae293a099cbd1b68693d3510aaaf3624ca"
+    "sha": "8f5b9be78a888543a4671b46cdbe62b6639cd17b"
   },
   "45": {
     "translation": "Schlachter (1951)",
@@ -535,9 +535,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 45,
-    "name": "Römer",
+    "name": "Romans",
     "url": "https://api.getbible.net/v2/schlachter/45.json",
-    "sha": "86a8114e434ec9d2cdaba59153adae61c50e5640"
+    "sha": "b3e0fae49ab05d202099e8442dce9310cbf05bbe"
   },
   "46": {
     "translation": "Schlachter (1951)",
@@ -547,9 +547,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 46,
-    "name": "1. Korinther",
+    "name": "1 Corinthians",
     "url": "https://api.getbible.net/v2/schlachter/46.json",
-    "sha": "00e7c9c69f4d21045ef12772249103535e2854fe"
+    "sha": "4b9009474be9b392556bfae023edb27a907e4566"
   },
   "47": {
     "translation": "Schlachter (1951)",
@@ -559,9 +559,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 47,
-    "name": "2. Korinther",
+    "name": "2 Corinthians",
     "url": "https://api.getbible.net/v2/schlachter/47.json",
-    "sha": "ebc5866edc305e11dfcb55d3b79e1d5a7479ebd1"
+    "sha": "a091165c1293a5103b2b74713520f898bfae1b84"
   },
   "48": {
     "translation": "Schlachter (1951)",
@@ -571,9 +571,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 48,
-    "name": "Galater",
+    "name": "Galatians",
     "url": "https://api.getbible.net/v2/schlachter/48.json",
-    "sha": "c2e161edfb875671415025ff0a1795c96e9c87d1"
+    "sha": "89631b09841517feff59e5930bc9a537ece7f49f"
   },
   "49": {
     "translation": "Schlachter (1951)",
@@ -583,9 +583,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 49,
-    "name": "Epheser",
+    "name": "Ephesians",
     "url": "https://api.getbible.net/v2/schlachter/49.json",
-    "sha": "35717b402eee5611d22e36dbd3e0f0dc94cdb75a"
+    "sha": "d5ec07557e1261608fcab29000f0b9016edb1cd9"
   },
   "50": {
     "translation": "Schlachter (1951)",
@@ -595,9 +595,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 50,
-    "name": "Philipper",
+    "name": "Philippians",
     "url": "https://api.getbible.net/v2/schlachter/50.json",
-    "sha": "b0380be26e429e19771a64c5a0fc728882ea098b"
+    "sha": "f6e389932f8eb381c1c9276cfa9cb615f6abfffb"
   },
   "51": {
     "translation": "Schlachter (1951)",
@@ -607,9 +607,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 51,
-    "name": "Kolosser",
+    "name": "Colossians",
     "url": "https://api.getbible.net/v2/schlachter/51.json",
-    "sha": "070861ab4ad3a1201f245f350cf9d48427005ea5"
+    "sha": "6f306ae7370f68db811e07ce54afd5c9d5774961"
   },
   "52": {
     "translation": "Schlachter (1951)",
@@ -619,9 +619,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 52,
-    "name": "1. Thessalonicher",
+    "name": "1 Thessalonians",
     "url": "https://api.getbible.net/v2/schlachter/52.json",
-    "sha": "89ee32692fb3b86e11d5180e0261e9718df4f17f"
+    "sha": "65c77b41ef13e67b669ac4beb6f9c47daf6e8a6f"
   },
   "53": {
     "translation": "Schlachter (1951)",
@@ -631,9 +631,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 53,
-    "name": "2. Thessalonicher",
+    "name": "2 Thessalonians",
     "url": "https://api.getbible.net/v2/schlachter/53.json",
-    "sha": "2a77e13dc8166992634276db3aa755937ccae939"
+    "sha": "ce5ec88d631fdb4a8fa5336121af12f164efe6c0"
   },
   "54": {
     "translation": "Schlachter (1951)",
@@ -643,9 +643,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 54,
-    "name": "1. Timotheus",
+    "name": "1 Timothy",
     "url": "https://api.getbible.net/v2/schlachter/54.json",
-    "sha": "7ea824a314252bf834c2b23a059b16ac52ea9793"
+    "sha": "619bceeccf64f7e220866c04f4a2a3ec74785322"
   },
   "55": {
     "translation": "Schlachter (1951)",
@@ -655,9 +655,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 55,
-    "name": "2. Timotheus",
+    "name": "2 Timothy",
     "url": "https://api.getbible.net/v2/schlachter/55.json",
-    "sha": "2ef5e1e2d0c0c5dbe10bef4ec8be1db598244777"
+    "sha": "d38da1bc8526e675e140f74e08ea581465b40f95"
   },
   "56": {
     "translation": "Schlachter (1951)",
@@ -691,9 +691,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 58,
-    "name": "Hebräer",
+    "name": "Hebrews",
     "url": "https://api.getbible.net/v2/schlachter/58.json",
-    "sha": "8aeca538e0aa8300b8fe3151076af0f48d83946a"
+    "sha": "6398f993bf0f8ef37dcffc2e54ccade1f143c053"
   },
   "59": {
     "translation": "Schlachter (1951)",
@@ -703,9 +703,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 59,
-    "name": "Jakobus",
+    "name": "James",
     "url": "https://api.getbible.net/v2/schlachter/59.json",
-    "sha": "2c30a782f5f07bfde39fb38440636f44bd5e3614"
+    "sha": "97beaf9a16c7f1b408c1511ee09c1176b34e59a3"
   },
   "60": {
     "translation": "Schlachter (1951)",
@@ -715,9 +715,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 60,
-    "name": "1. Petrus",
+    "name": "1 Peter",
     "url": "https://api.getbible.net/v2/schlachter/60.json",
-    "sha": "56b2c57506bd23075c5f0835587c590723cfdf81"
+    "sha": "1214b9f770c565de8210dcd39ef4d7e50a1ace47"
   },
   "61": {
     "translation": "Schlachter (1951)",
@@ -727,9 +727,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 61,
-    "name": "2. Petrus",
+    "name": "2 Peter",
     "url": "https://api.getbible.net/v2/schlachter/61.json",
-    "sha": "a1f025903bb216773bc002d62c336ff6c15b6cf2"
+    "sha": "572c683fc4fe90163a24b07ba208fd07995df387"
   },
   "62": {
     "translation": "Schlachter (1951)",
@@ -739,9 +739,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 62,
-    "name": "1. Johannes",
+    "name": "1 John",
     "url": "https://api.getbible.net/v2/schlachter/62.json",
-    "sha": "deaa31b41386e56a8d0f0d66012e4d28e862a649"
+    "sha": "02924ab5bf4cd4ffd63130bc55760cbcead1adbe"
   },
   "63": {
     "translation": "Schlachter (1951)",
@@ -751,9 +751,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 63,
-    "name": "2. Johannes",
+    "name": "2 John",
     "url": "https://api.getbible.net/v2/schlachter/63.json",
-    "sha": "d244403047ebb9401c1bfbdcf18c7ef145a84cc1"
+    "sha": "b36a4022b5b9838d005618d7248bd49b54646e28"
   },
   "64": {
     "translation": "Schlachter (1951)",
@@ -763,9 +763,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 64,
-    "name": "3. Johannes",
+    "name": "3 John",
     "url": "https://api.getbible.net/v2/schlachter/64.json",
-    "sha": "1747d5cfdee85c4108a0d3d7384ac3e2daae227b"
+    "sha": "48e6b7376a6b5383a50c22cfad302eb6a5a2e35c"
   },
   "65": {
     "translation": "Schlachter (1951)",
@@ -775,9 +775,9 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 65,
-    "name": "Judas",
+    "name": "Jude",
     "url": "https://api.getbible.net/v2/schlachter/65.json",
-    "sha": "88d98b0d12f2be8d17fae89325d8b4b1f6a1be21"
+    "sha": "aaedd3c47b5b38c0c22098476f4ec8575fb9b5d7"
   },
   "66": {
     "translation": "Schlachter (1951)",
@@ -787,8 +787,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "nr": 66,
-    "name": "Offenbarung",
+    "name": "Revelation of John",
     "url": "https://api.getbible.net/v2/schlachter/66.json",
-    "sha": "8b53011d73af73a02ee17fabbcc86ab220dcdeaa"
+    "sha": "45fdd04602665a8a98f25a4b07308e7801e0f72d"
   }
 }

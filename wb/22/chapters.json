@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 1,
-    "name": "Song of Songs 1",
+    "name": "Song of Solomon 1",
     "url": "https://api.getbible.net/v2/wb/22/1.json",
-    "sha": "9b9fa18c136d5573edddb80ef0b0e5625391c8f1"
+    "sha": "4671f2f78f3339c6c93e0ed970ae657f6cf71198"
   },
   "2": {
     "translation": "Webster's Bible",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 2,
-    "name": "Song of Songs 2",
+    "name": "Song of Solomon 2",
     "url": "https://api.getbible.net/v2/wb/22/2.json",
-    "sha": "a141e4a63daae2f1b5c58eeb044ba68056b2e3c3"
+    "sha": "88980b3ae230b2d2b975a04e447bc4a32c7a7afb"
   },
   "3": {
     "translation": "Webster's Bible",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 3,
-    "name": "Song of Songs 3",
+    "name": "Song of Solomon 3",
     "url": "https://api.getbible.net/v2/wb/22/3.json",
-    "sha": "bdbc648b2da5cf289ea049f429de62c938003c7d"
+    "sha": "40862597e9d03ca33eb99bca0538408190c125fd"
   },
   "4": {
     "translation": "Webster's Bible",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 4,
-    "name": "Song of Songs 4",
+    "name": "Song of Solomon 4",
     "url": "https://api.getbible.net/v2/wb/22/4.json",
-    "sha": "c4d05625abf9190f4f49b2ac6fa23d9d1a97dba0"
+    "sha": "fcf6ff1f442189c78431cabbdfc0387e15e44bb9"
   },
   "5": {
     "translation": "Webster's Bible",
@@ -63,11 +63,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 5,
-    "name": "Song of Songs 5",
+    "name": "Song of Solomon 5",
     "url": "https://api.getbible.net/v2/wb/22/5.json",
-    "sha": "7e351b3cc3a306d92d5aa1701abb1ea2334ed594"
+    "sha": "a868cd00d429af5de0c0812165b5198a52ec7349"
   },
   "6": {
     "translation": "Webster's Bible",
@@ -77,11 +77,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 6,
-    "name": "Song of Songs 6",
+    "name": "Song of Solomon 6",
     "url": "https://api.getbible.net/v2/wb/22/6.json",
-    "sha": "d818dc7d0e470895f1ab58a7f7f31207b0d16deb"
+    "sha": "6e9d9ad7760907bfc0e7d1f7789547183adcb87b"
   },
   "7": {
     "translation": "Webster's Bible",
@@ -91,11 +91,11 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 7,
-    "name": "Song of Songs 7",
+    "name": "Song of Solomon 7",
     "url": "https://api.getbible.net/v2/wb/22/7.json",
-    "sha": "468912dda36adbb4dffe2432c2013880bbd0eb04"
+    "sha": "10bdbcc489e20fba766b7b4d84731c4a61f0a79e"
   },
   "8": {
     "translation": "Webster's Bible",
@@ -105,10 +105,10 @@
     "direction": "LTR",
     "encoding": "",
     "book_nr": 22,
-    "book_name": "Song of Songs",
+    "book_name": "Song of Solomon",
     "chapter": 8,
-    "name": "Song of Songs 8",
+    "name": "Song of Solomon 8",
     "url": "https://api.getbible.net/v2/wb/22/8.json",
-    "sha": "bd0523169160497ff9535e33ae24a58f4d72cd8b"
+    "sha": "3b0c3572feb3828eb72f464b18736854363798d7"
   }
 }

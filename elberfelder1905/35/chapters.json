@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakuk",
+    "book_name": "Habakkuk",
     "chapter": 1,
-    "name": "Habakuk 1",
+    "name": "Habakkuk 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/35/1.json",
-    "sha": "0fd9da1dd986b7a6b6dcf6b7130841d625c40bd5"
+    "sha": "7b1d4d69781023fd51f982eb99966b9a13b98ab1"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakuk",
+    "book_name": "Habakkuk",
     "chapter": 2,
-    "name": "Habakuk 2",
+    "name": "Habakkuk 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/35/2.json",
-    "sha": "bfab25bef71b9cd2de7c503074b7746c2a25063b"
+    "sha": "44539fa43aedde7e0407d716a8505a40a48cd99d"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,10 +35,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 35,
-    "book_name": "Habakuk",
+    "book_name": "Habakkuk",
     "chapter": 3,
-    "name": "Habakuk 3",
+    "name": "Habakkuk 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/35/3.json",
-    "sha": "d2587be1ddb9cfa470f073414b544134d13ed80c"
+    "sha": "ea4b297dd1516abf2ef033f52750c1cbde88e189"
   }
 }

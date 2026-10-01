@@ -7,11 +7,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 1,
-    "name": "1. Petrus 1",
+    "name": "1 Peter 1",
     "url": "https://api.getbible.net/v2/elberfelder1905/60/1.json",
-    "sha": "e4e6ae478537c0e1c8dde031e217c61988281329"
+    "sha": "cef599c5088210bfc689f1da06baeed2be2be9db"
   },
   "2": {
     "translation": "Elberfelder (1905)",
@@ -21,11 +21,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 2,
-    "name": "1. Petrus 2",
+    "name": "1 Peter 2",
     "url": "https://api.getbible.net/v2/elberfelder1905/60/2.json",
-    "sha": "c424eacba599dc9b825d880790b5516bdb6e05c3"
+    "sha": "b8833dc0d0b841d53cc3c91e1f580e037ad49f00"
   },
   "3": {
     "translation": "Elberfelder (1905)",
@@ -35,11 +35,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 3,
-    "name": "1. Petrus 3",
+    "name": "1 Peter 3",
     "url": "https://api.getbible.net/v2/elberfelder1905/60/3.json",
-    "sha": "e8fc9f95da805b375cc7194b56ecf580b3d551b0"
+    "sha": "d79094d3d162e3d594b28c57d9fe42d42cce7363"
   },
   "4": {
     "translation": "Elberfelder (1905)",
@@ -49,11 +49,11 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 4,
-    "name": "1. Petrus 4",
+    "name": "1 Peter 4",
     "url": "https://api.getbible.net/v2/elberfelder1905/60/4.json",
-    "sha": "517dd282a152ccc9fb571717e29bc73fa0ef28ea"
+    "sha": "5b1eea16bd1e8d75a9695756d9c93e1dc8b12289"
   },
   "5": {
     "translation": "Elberfelder (1905)",
@@ -63,10 +63,10 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "book_nr": 60,
-    "book_name": "1. Petrus",
+    "book_name": "1 Peter",
     "chapter": 5,
-    "name": "1. Petrus 5",
+    "name": "1 Peter 5",
     "url": "https://api.getbible.net/v2/elberfelder1905/60/5.json",
-    "sha": "46faa41497917c2bf7d13c32c7c67e0f63e6f551"
+    "sha": "44efa02d14733847d0c09d38788e2791996f224c"
   }
 }
